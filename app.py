@@ -22,7 +22,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-@st.cache_data
+
 def load_and_enrich_data():
     master_df, state_root, district_roots = run_statewide_pipeline("data/districts")
     if master_df.empty:
