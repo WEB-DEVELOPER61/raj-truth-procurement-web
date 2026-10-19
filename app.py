@@ -95,7 +95,6 @@ st.plotly_chart(fig_3d, use_container_width=True)
 st.markdown("---")
 st.subheader("Empirical Statistical Significance (Fisher's Exact Test)")
 
-# Contingency Matrix: Violation vs ML Anomaly
 contingency_table = pd.crosstab(
     display_df["is_violation"], 
     display_df["is_anomaly"], 
