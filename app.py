@@ -149,7 +149,7 @@ def load_all_district_data():
                         
                         combined_rows.append({
                             'tender_id': str(r[id_col]).strip(),
-                            'nit_no': f"NIT {r[id_col][-8:]}",
+                            'nit_no': f"NIT {str(r[id_col])[-8:]}",
                             'division': f"{dist.capitalize()} Division",
                             'district': dist.capitalize(),
                             'tender_amount': amt,
@@ -188,7 +188,6 @@ with st.sidebar:
     st.markdown("---")
     st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Unsupervised Anomaly Engine")
 
-# Filter data based on circle selection
 if selected_circle == "All Rajasthan":
     df_filtered = df_all.copy()
 else:
@@ -217,22 +216,23 @@ with st.expander("🛡️ Cryptographic Evidence Chain & On-Demand Proof Verifie
         st.success("RFC 6962 TAMPER-PROOF VERIFIED")
 
     st.markdown("##### Verify Individual Record Audit Trail")
-    test_id = st.selectbox("Select Tender Notice ID to Generate Merkle Audit Path:", df_filtered['tender_id'].tolist()[:30])
+    test_id = st.selectbox("Select Tender Notice ID to Generate Merkle Audit Path:", df_filtered['tender_id'].tolist()[:30] if not df_filtered.empty else [])
     if test_id:
         idx = df_filtered['tender_id'].tolist().index(test_id)
         leaf_payload = payloads[idx]
         audit_path = merkle_tree.get_proof(idx)
         verified = RFC6962MerkleTree.verify_proof(leaf_payload, audit_path, current_root)
         
+        leaf_hash = hashlib.sha256(b'\x00' + leaf_payload.encode()).hexdigest()
         c1, c2 = st.columns(2)
-        c1.write(f"**Leaf Payload Hash:** `0x{hashlib.sha256(b'\\x00' + leaf_payload.encode()).hexdigest()}`")
+        c1.write(f"**Leaf Payload Hash:** `0x{leaf_hash}`")
         c2.write(f"**Verification Result:** {'✅ VALID & IMMUTABLE' if verified else '❌ CORRUPTED'}")
         with st.expander("Inspect Cryptographic Sibling Path"):
             st.json(audit_path)
 
 # Top KPI Metric Cards
 total_audited = len(df_filtered)
-critical_viols = df_filtered['is_violation'].sum()
+critical_viols = df_filtered['is_violation'].sum() if not df_filtered.empty else 0
 viol_rate = (critical_viols / total_audited * 100) if total_audited > 0 else 0
 mean_pri = df_filtered['risk_score'].mean() if total_audited > 0 else 0
 max_deficit = df_filtered['deficit_days'].max() if total_audited > 0 else 0
@@ -283,7 +283,7 @@ tab1, tab2, tab3, tab4 = st.tabs([
 ])
 
 # -----------------------------------------------------------------------------
-# TAB 1: FORENSIC AUDIT REGISTRY
+# TAB 1: FORENSIC AUDIT REGISTRY & RTI COMPLAINT GENERATOR
 # -----------------------------------------------------------------------------
 with tab1:
     st.subheader(f"Empirical Ingestion Corpus (N = {total_audited} Active Notices)")
@@ -317,7 +317,7 @@ with tab1:
     ]
     
     st.dataframe(
-        df_view[display_cols].sort_values(by='estimated_cost_lac', ascending=False),
+        df_view[display_cols].sort_values(by='estimated_cost_lac', ascending=False) if not df_view.empty else df_view,
         column_config={
             "tender_id": "Tender ID",
             "nit_no": "Notice Reference",
@@ -340,6 +340,95 @@ with tab1:
         f"forensic_audit_{selected_circle.lower()}_2026.csv", 
         "text/csv"
     )
+
+    # -------------------------------------------------------------------------
+    # AUTOMATED STATUTORY RTI & VIGILANCE COMPLAINT GENERATOR
+    # -------------------------------------------------------------------------
+    st.markdown("---")
+    st.subheader("⚖️ One-Click Statutory RTI & Vigilance Dossier Generator")
+    st.markdown(
+        """
+        Automatically generate a formal legal application under **Section 6(1) of the RTI Act, 2005** 
+        and **Rule 43(2) of the RTPP Act, 2012** demanding the official file notings justifying timeline compression.
+        """
+    )
+
+    violating_ids = df_filtered[df_filtered['is_violation']]['tender_id'].tolist() if not df_filtered.empty else []
+    
+    if violating_ids:
+        c_sel1, c_sel2 = st.columns([2, 1])
+        with c_sel1:
+            target_rti_id = st.selectbox(
+                "Select Flagged Tender Notice to Generate Legal Dossier:", 
+                violating_ids,
+                key="rti_target_select"
+            )
+        
+        target_row = df_filtered[df_filtered['tender_id'] == target_rti_id].iloc[0]
+        
+        with c_sel2:
+            st.metric(
+                "Statutory Timeline Deficit", 
+                f"{target_row['deficit_days']:.1f} Days", 
+                f"Mandated: {target_row['statutory_min_days']}d | Actual: {target_row['actual_window_days']}d"
+            )
+
+        rti_draft = f"""FORM 'A'
+[See Rule 3(1)]
+APPLICATION FOR OBTAINING INFORMATION UNDER SECTION 6(1) OF THE RIGHT TO INFORMATION ACT, 2005
+
+To,
+The State Public Information Officer (SPIO) / Executive Engineer,
+{target_row['division']}, {target_row['district']} Circle,
+Government of Rajasthan.
+
+SUBJECT: STATUTORY INQUIRY REGARDING TIMELINE COMPRESSION IN TENDER ID: {target_row['tender_id']}
+
+Respected Authority,
+
+1. PARTICULARS OF THE APPLICANT:
+   Name: Citizen Forensic Audit / Public Interest Whistleblower
+   Jurisdiction: State of Rajasthan, India
+
+2. PARTICULARS OF INFORMATION SOUGHT:
+   This inquiry pertains to Tender Reference '{target_row['nit_no']}' (Portal Tender ID: {target_row['tender_id']}), 
+   sanctioned for ₹{target_row['estimated_cost_lac']:.2f} Lakhs with an advertised bidding window of only {target_row['actual_window_days']} days.
+
+   Under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013, public works exceeding 
+   statutory valuation thresholds legally require a mandatory minimum advertising window of {target_row['statutory_min_days']} days. 
+   The subject tender exhibits an illegal timeline deficit of {target_row['deficit_days']:.1f} days.
+
+   Please furnish certified copies of the following public records:
+   a) Certified copies of the Competent Authority's written approval and official file notings recorded 
+      under Rule 43(2) of the RTPP Rules, 2013, justifying the reduction of the bidding period.
+   b) Certified copies of the emergent circumstances or documented public urgency recorded prior to 
+      issuing this truncated notice.
+   c) Total number of technical bids received on the portal prior to bid closing date.
+   d) Whether the subject contract was awarded to a single bidder or if competitive bidding was restricted.
+
+3. CRYPTOGRAPHIC INTEGRITY VERIFICATION:
+   Forensic Leaf Digest: SHA-256(0x00 || {target_row['tender_id']}:{int(target_row['tender_amount'])}:{target_row['actual_window_days']})
+   RFC 6962 State Merkle Root: 0x{current_root}
+   Audit Status: Confirmed High-Risk Statutory Anomaly (PRI Score: {target_row['risk_score']}/100)
+
+4. APPLICATION FEE:
+   Prescribed fee of ₹10/- is tendered via Court Fee Stamp / IPO.
+
+Date: {pd.Timestamp.now().strftime('%d-%b-%Y')}
+Place: {target_row['district']}, Rajasthan
+"""
+
+        st.text_area("Generated Legal RTI Application Draft:", rti_draft, height=300)
+        
+        st.download_button(
+            label="📄 Download RTI Application Notice (.txt)",
+            data=rti_draft,
+            file_name=f"RTI_Notice_{target_row['tender_id']}.txt",
+            mime="text/plain",
+            type="primary"
+        )
+    else:
+        st.info("No statutory violations detected in the currently selected filter.")
 
 # -----------------------------------------------------------------------------
 # TAB 2: ALGORITHMIC ANOMALY ENGINE (ISOLATION FOREST)
@@ -410,133 +499,4 @@ with tab3:
         st.write(f"• **Sample Capital Under Compressed Timelines:** ₹{viol_capital/1e7:,.2f} Crore")
         st.write(f"• **Recoverable Public Funds in Sample (15% Margin):** ₹{savings_15/1e7:,.2f} Crore")
         st.write(f"• **Extrapolated Rajasthan Annual Fiscal Savings:** ~₹6,000 Crore / year")
-        st.write(f"• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
-        st.caption("Based on 15% median competitive discount achieved through non-collusive open bidding windows.")
-
-# -----------------------------------------------------------------------------
-# TAB 4: NATIONAL SCALABILITY BENCHMARK (STRESS TEST ENGINE)
-# -----------------------------------------------------------------------------
-with tab4:
-    st.subheader("⚡ National Scalability Benchmark (High-Throughput Stress Test)")
-    st.markdown(
-        """
-        Validating that the cryptographic Merkle pipeline and Isolation Forest scale linearly 
-        O(N) and logarithmically O(N log N) to audit the combined annual procurement throughput 
-        of the Government of India without latency bottlenecks.
-        """
-    )
-
-    c_bench1, c_bench2 = st.columns([1, 2])
-    with c_bench1:
-        batch_size = st.select_slider(
-            "Select Nationwide Simulation Batch Size:",
-            options=[1_000, 5_000, 10_000, 25_000, 50_000],
-            value=10_000
-        )
-        run_stress_test = st.button("🚀 Execute Live Stress Test", type="primary", use_container_width=True)
-
-    with c_bench2:
-        st.info(
-            f"**Evaluation Scope:** Processing **{batch_size:,} contracts** simulates the concurrent "
-            f"national intake across Central Public Sector Undertakings (NHAI, Railways, CPWD, Defence). "
-            f"Real-time execution measures cryptographic hashing speed and ML inference throughput."
-        )
-
-    if run_stress_test:
-        prog = st.progress(0, text="Initializing high-entropy national data synthesizer...")
-        
-        # 1. Synthesize Data
-        t0 = time.perf_counter()
-        np.random.seed(42)
-        cats = np.random.choice([0, 1, 2], size=batch_size, p=[0.70, 0.20, 0.10])
-        amts = np.empty(batch_size, dtype=np.int64)
-        amts[cats == 0] = np.random.randint(100_000, 5_000_000, size=(cats == 0).sum())
-        amts[cats == 1] = np.random.randint(5_000_000, 20_000_000, size=(cats == 1).sum())
-        amts[cats == 2] = np.random.randint(20_000_000, 1_000_000_000, size=(cats == 2).sum())
-        
-        mand = np.where(amts > 20_000_000, 30, np.where(amts > 5_000_000, 15, 10))
-        durations = np.copy(mand)
-        compressed = np.random.rand(batch_size) < 0.485
-        durations[compressed] = np.random.randint(3, 12, size=compressed.sum())
-        
-        df_bench = pd.DataFrame({
-            'tender_id': [f"IND_2026_{i:07d}" for i in range(batch_size)],
-            'tender_amount': amts,
-            'published_duration_days': durations,
-            'mandated_days': mand
-        })
-        t_gen = time.perf_counter() - t0
-        prog.progress(25, text=f"Synthesized {batch_size:,} tenders in {t_gen*1000:.1f}ms")
-
-        # 2. Rule 43 Checks
-        t0 = time.perf_counter()
-        violations_count = (df_bench['published_duration_days'] < df_bench['mandated_days']).sum()
-        t_rules = time.perf_counter() - t0
-        prog.progress(50, text="Completed vectorized statutory rule verification...")
-
-        # 3. Merkle Tree Building
-        t0 = time.perf_counter()
-        bench_payloads = [
-            f"{r.tender_id}:{r.tender_amount}:{r.published_duration_days}" 
-            for r in df_bench.itertuples()
-        ]
-        b_tree = RFC6962MerkleTree(bench_payloads)
-        b_root = b_tree.get_root_hex()
-        t_merkle = time.perf_counter() - t0
-        prog.progress(75, text="Constructed RFC 6962 Merkle Tree...")
-
-        # 4. Isolation Forest
-        t0 = time.perf_counter()
-        X_bench = df_bench[['tender_amount', 'published_duration_days']].values
-        iso_bench = IsolationForest(n_estimators=50, random_state=42, n_jobs=-1)
-        iso_bench.fit(X_bench)
-        t_ml = time.perf_counter() - t0
-        prog.progress(100, text="Benchmarking complete!")
-
-        total_lat = t_gen + t_rules + t_merkle + t_ml
-        throughput = int(batch_size / total_lat)
-
-        # Performance Metrics Display
-        st.markdown("---")
-        st.markdown("#### ⏱️ Real-Time Telemetry & Throughput")
-        b1, b2, b3, b4 = st.columns(4)
-        b1.metric("Total Latency", f"{total_lat:.3f} s", f"{throughput:,} tenders/sec")
-        b2.metric("Merkle Root Construction", f"{t_merkle*1000:.1f} ms", f"{int(batch_size/t_merkle):,} hashes/sec")
-        b3.metric("Isolation Forest (50 Trees)", f"{t_ml*1000:.1f} ms", "Multi-Threaded")
-        b4.metric("Statutory Auditing", f"{t_rules*1000:.2f} ms", f"{violations_count:,} flagged")
-
-        st.code(f"National Batch Merkle Root: 0x{b_root}", language="text")
-
-        # Complexity Curve
-        st.markdown("##### Empirical vs Theoretical O(N log N) Algorithmic Scaling")
-        sizes = np.array([1000, 5000, 10000, 25000, 50000])
-        theo_latencies = (sizes * np.log2(sizes)) / (batch_size * math.log2(batch_size)) * total_lat
-
-        fig_curve = go.Figure()
-        fig_curve.add_trace(go.Scatter(
-            x=sizes, y=theo_latencies,
-            mode='lines+markers', name='Theoretical O(N log N) Bounds',
-            line=dict(color='#888888', dash='dash')
-        ))
-        fig_curve.add_trace(go.Scatter(
-            x=[batch_size], y=[total_lat],
-            mode='markers', name='Live Execution Measured',
-            marker=dict(size=14, color='#00CC96', symbol='star')
-        ))
-        fig_curve.update_layout(
-            height=320,
-            template="plotly_dark",
-            xaxis_title="Batch Size (Tenders Audited)",
-            yaxis_title="Latency (Seconds)",
-            margin=dict(l=20, r=20, t=20, b=20)
-        )
-        st.plotly_chart(fig_curve, use_container_width=True)
-
-# -----------------------------------------------------------------------------
-# FOOTER
-# -----------------------------------------------------------------------------
-st.markdown("---")
-st.caption(
-    "Project TRUTH • Public Procurement Integrity Engine • "
-    "Designed for IRIS National Science Fair / Harvard University Technical Presentation"
-)
+        st.write(f"• **All-India Potential Procurement
