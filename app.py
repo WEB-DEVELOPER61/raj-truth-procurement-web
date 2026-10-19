@@ -98,17 +98,17 @@ class RFC6962MerkleTree:
 # 3. STATUTORY RULE 43 LOGIC & DATA INGESTION
 # -----------------------------------------------------------------------------
 def calculate_rule_43(amount: float, days: float):
-    if amount > 20_000_000:
+    if amount > 20000000:
         mandated = 30
-    elif amount > 5_000_000:
+    elif amount > 5000000:
         mandated = 15
-    elif amount > 1_000_000:
+    elif amount > 1000000:
         mandated = 10
     else:
         mandated = 7
     
     violation = days < mandated
-    deficit = max(0.0, mandated - days)
+    deficit = max(0.0, float(mandated - days))
     
     if violation:
         val_weight = min(30.0, (math.log10(max(1000, amount)) / 8.0) * 30.0)
@@ -142,18 +142,18 @@ def load_all_district_data():
                 if id_col and amt_col and dur_col:
                     for _, r in df.iterrows():
                         raw_amt = float(r[amt_col])
-                        amt = raw_amt * 100_000 if raw_amt < 10_000 else raw_amt
+                        amt = raw_amt * 100000.0 if raw_amt < 10000.0 else raw_amt
                         days = float(r[dur_col])
                         
                         mandated, is_viol, deficit, pri = calculate_rule_43(amt, days)
                         
                         combined_rows.append({
                             'tender_id': str(r[id_col]).strip(),
-                            'nit_no': f"NIT {str(r[id_col])[-8:]}",
-                            'division': f"{dist.capitalize()} Division",
+                            'nit_no': "NIT " + str(r[id_col])[-8:],
+                            'division': dist.capitalize() + " Division",
                             'district': dist.capitalize(),
                             'tender_amount': amt,
-                            'estimated_cost_lac': round(amt / 100_000, 2),
+                            'estimated_cost_lac': round(amt / 100000.0, 2),
                             'actual_window_days': int(round(days)),
                             'statutory_min_days': mandated,
                             'deficit_days': round(deficit, 1),
@@ -161,7 +161,7 @@ def load_all_district_data():
                             'risk_score': pri
                         })
             except Exception as e:
-                st.error(f"Error loading {dist}: {e}")
+                st.error("Error loading " + dist + ": " + str(e))
 
     df_master = pd.DataFrame(combined_rows).drop_duplicates(subset=['tender_id'])
     return df_master
@@ -199,7 +199,6 @@ else:
 st.title("⚖️ Project TRUTH: Automated Public Procurement Compliance Engine")
 st.caption("Forensic Systems Software for Statutory Rule 43 Auditing | Rajasthan State Public Procurement Portal (SPPP)")
 
-# Build Cryptographic Merkle Root over current dataset
 payloads = [
     f"{r.tender_id}:{int(r.tender_amount)}:{r.actual_window_days}" 
     for r in df_filtered.itertuples()
@@ -207,11 +206,10 @@ payloads = [
 merkle_tree = RFC6962MerkleTree(payloads)
 current_root = merkle_tree.get_root_hex()
 
-# Expandable Merkle Verification Section
 with st.expander("🛡️ Cryptographic Evidence Chain & On-Demand Proof Verifier", expanded=False):
     col_k1, col_k2 = st.columns([3, 1])
     with col_k1:
-        st.code(f"Active RFC 6962 Root Hash: 0x{current_root}", language="text")
+        st.code("Active RFC 6962 Root Hash: 0x" + current_root, language="text")
     with col_k2:
         st.success("RFC 6962 TAMPER-PROOF VERIFIED")
 
@@ -225,12 +223,11 @@ with st.expander("🛡️ Cryptographic Evidence Chain & On-Demand Proof Verifie
         
         leaf_hash = hashlib.sha256(b'\x00' + leaf_payload.encode()).hexdigest()
         c1, c2 = st.columns(2)
-        c1.write(f"**Leaf Payload Hash:** `0x{leaf_hash}`")
-        c2.write(f"**Verification Result:** {'✅ VALID & IMMUTABLE' if verified else '❌ CORRUPTED'}")
+        c1.write("**Leaf Payload Hash:** `0x" + leaf_hash + "`")
+        c2.write("**Verification Result:** " + ("✅ VALID & IMMUTABLE" if verified else "❌ CORRUPTED"))
         with st.expander("Inspect Cryptographic Sibling Path"):
             st.json(audit_path)
 
-# Top KPI Metric Cards
 total_audited = len(df_filtered)
 critical_viols = df_filtered['is_violation'].sum() if not df_filtered.empty else 0
 viol_rate = (critical_viols / total_audited * 100) if total_audited > 0 else 0
@@ -273,17 +270,18 @@ m4.markdown(f"""
 st.markdown("<br>", unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
-# 6. TABBED NAVIGATION
+# 6. TABBED NAVIGATION (5 DISTINCT ARCHITECTURAL PILLARS)
 # -----------------------------------------------------------------------------
-tab1, tab2, tab3, tab4 = st.tabs([
+tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "1. Forensic Audit Registry",
     "2. Algorithmic Anomaly Engine (Isolation Forest)",
     "3. Inferential Hypothesis Testing (Chi-Square)",
-    "4. ⚡ National Scalability Benchmark"
+    "4. ⚡ National Scalability Benchmark",
+    "5. ⚖️ Statutory RTI & Vigilance Action Engine"
 ])
 
 # -----------------------------------------------------------------------------
-# TAB 1: FORENSIC AUDIT REGISTRY & RTI COMPLAINT GENERATOR
+# TAB 1: FORENSIC AUDIT REGISTRY
 # -----------------------------------------------------------------------------
 with tab1:
     st.subheader(f"Empirical Ingestion Corpus (N = {total_audited} Active Notices)")
@@ -330,7 +328,7 @@ with tab1:
             "risk_score": st.column_config.ProgressColumn("Procurement Risk (PRI)", format="%.1f", min_value=0, max_value=100)
         },
         use_container_width=True,
-        height=450
+        height=500
     )
 
     csv_data = df_view.to_csv(index=False).encode('utf-8')
@@ -340,95 +338,6 @@ with tab1:
         f"forensic_audit_{selected_circle.lower()}_2026.csv", 
         "text/csv"
     )
-
-    # -------------------------------------------------------------------------
-    # AUTOMATED STATUTORY RTI & VIGILANCE COMPLAINT GENERATOR
-    # -------------------------------------------------------------------------
-    st.markdown("---")
-    st.subheader("⚖️ One-Click Statutory RTI & Vigilance Dossier Generator")
-    st.markdown(
-        """
-        Automatically generate a formal legal application under **Section 6(1) of the RTI Act, 2005** 
-        and **Rule 43(2) of the RTPP Act, 2012** demanding the official file notings justifying timeline compression.
-        """
-    )
-
-    violating_ids = df_filtered[df_filtered['is_violation']]['tender_id'].tolist() if not df_filtered.empty else []
-    
-    if violating_ids:
-        c_sel1, c_sel2 = st.columns([2, 1])
-        with c_sel1:
-            target_rti_id = st.selectbox(
-                "Select Flagged Tender Notice to Generate Legal Dossier:", 
-                violating_ids,
-                key="rti_target_select"
-            )
-        
-        target_row = df_filtered[df_filtered['tender_id'] == target_rti_id].iloc[0]
-        
-        with c_sel2:
-            st.metric(
-                "Statutory Timeline Deficit", 
-                f"{target_row['deficit_days']:.1f} Days", 
-                f"Mandated: {target_row['statutory_min_days']}d | Actual: {target_row['actual_window_days']}d"
-            )
-
-        rti_draft = f"""FORM 'A'
-[See Rule 3(1)]
-APPLICATION FOR OBTAINING INFORMATION UNDER SECTION 6(1) OF THE RIGHT TO INFORMATION ACT, 2005
-
-To,
-The State Public Information Officer (SPIO) / Executive Engineer,
-{target_row['division']}, {target_row['district']} Circle,
-Government of Rajasthan.
-
-SUBJECT: STATUTORY INQUIRY REGARDING TIMELINE COMPRESSION IN TENDER ID: {target_row['tender_id']}
-
-Respected Authority,
-
-1. PARTICULARS OF THE APPLICANT:
-   Name: Citizen Forensic Audit / Public Interest Whistleblower
-   Jurisdiction: State of Rajasthan, India
-
-2. PARTICULARS OF INFORMATION SOUGHT:
-   This inquiry pertains to Tender Reference '{target_row['nit_no']}' (Portal Tender ID: {target_row['tender_id']}), 
-   sanctioned for ₹{target_row['estimated_cost_lac']:.2f} Lakhs with an advertised bidding window of only {target_row['actual_window_days']} days.
-
-   Under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013, public works exceeding 
-   statutory valuation thresholds legally require a mandatory minimum advertising window of {target_row['statutory_min_days']} days. 
-   The subject tender exhibits an illegal timeline deficit of {target_row['deficit_days']:.1f} days.
-
-   Please furnish certified copies of the following public records:
-   a) Certified copies of the Competent Authority's written approval and official file notings recorded 
-      under Rule 43(2) of the RTPP Rules, 2013, justifying the reduction of the bidding period.
-   b) Certified copies of the emergent circumstances or documented public urgency recorded prior to 
-      issuing this truncated notice.
-   c) Total number of technical bids received on the portal prior to bid closing date.
-   d) Whether the subject contract was awarded to a single bidder or if competitive bidding was restricted.
-
-3. CRYPTOGRAPHIC INTEGRITY VERIFICATION:
-   Forensic Leaf Digest: SHA-256(0x00 || {target_row['tender_id']}:{int(target_row['tender_amount'])}:{target_row['actual_window_days']})
-   RFC 6962 State Merkle Root: 0x{current_root}
-   Audit Status: Confirmed High-Risk Statutory Anomaly (PRI Score: {target_row['risk_score']}/100)
-
-4. APPLICATION FEE:
-   Prescribed fee of ₹10/- is tendered via Court Fee Stamp / IPO.
-
-Date: {pd.Timestamp.now().strftime('%d-%b-%Y')}
-Place: {target_row['district']}, Rajasthan
-"""
-
-        st.text_area("Generated Legal RTI Application Draft:", rti_draft, height=300)
-        
-        st.download_button(
-            label="📄 Download RTI Application Notice (.txt)",
-            data=rti_draft,
-            file_name=f"RTI_Notice_{target_row['tender_id']}.txt",
-            mime="text/plain",
-            type="primary"
-        )
-    else:
-        st.info("No statutory violations detected in the currently selected filter.")
 
 # -----------------------------------------------------------------------------
 # TAB 2: ALGORITHMIC ANOMALY ENGINE (ISOLATION FOREST)
@@ -474,7 +383,7 @@ with tab2:
 with tab3:
     st.subheader("Statistical Validation & Macro-Fiscal Impact Analysis")
     
-    high_val = df_all['tender_amount'] >= 5_000_000
+    high_val = df_all['tender_amount'] >= 5000000.0
     viol = df_all['is_violation'] == True
     
     ct = pd.crosstab(high_val, viol)
@@ -498,8 +407,8 @@ with tab3:
         
         st.write(f"• **Sample Capital Under Compressed Timelines:** ₹{viol_capital/1e7:,.2f} Crore")
         st.write(f"• **Recoverable Public Funds in Sample (15% Margin):** ₹{savings_15/1e7:,.2f} Crore")
-        st.write(f"• **Extrapolated Rajasthan Annual Fiscal Savings:** ~₹6,000 Crore / year")
-        st.write(f"• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
+        st.write("• **Extrapolated Rajasthan Annual Fiscal Savings:** ~₹6,000 Crore / year")
+        st.write("• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
         st.caption("Based on 15% median competitive discount achieved through non-collusive open bidding windows.")
 
 # -----------------------------------------------------------------------------
@@ -519,8 +428,8 @@ with tab4:
     with c_bench1:
         batch_size = st.select_slider(
             "Select Nationwide Simulation Batch Size:",
-            options=[1_000, 5_000, 10_000, 25_000, 50_000],
-            value=10_000
+            options=[1000, 5000, 10000, 25000, 50000],
+            value=10000
         )
         run_stress_test = st.button("🚀 Execute Live Stress Test", type="primary", use_container_width=True)
 
@@ -534,16 +443,15 @@ with tab4:
     if run_stress_test:
         prog = st.progress(0, text="Initializing high-entropy national data synthesizer...")
         
-        # 1. Synthesize Data
         t0 = time.perf_counter()
         np.random.seed(42)
         cats = np.random.choice([0, 1, 2], size=batch_size, p=[0.70, 0.20, 0.10])
         amts = np.empty(batch_size, dtype=np.int64)
-        amts[cats == 0] = np.random.randint(100_000, 5_000_000, size=(cats == 0).sum())
-        amts[cats == 1] = np.random.randint(5_000_000, 20_000_000, size=(cats == 1).sum())
-        amts[cats == 2] = np.random.randint(20_000_000, 1_000_000_000, size=(cats == 2).sum())
+        amts[cats == 0] = np.random.randint(100000, 5000000, size=(cats == 0).sum())
+        amts[cats == 1] = np.random.randint(5000000, 20000000, size=(cats == 1).sum())
+        amts[cats == 2] = np.random.randint(20000000, 1000000000, size=(cats == 2).sum())
         
-        mand = np.where(amts > 20_000_000, 30, np.where(amts > 5_000_000, 15, 10))
+        mand = np.where(amts > 20000000, 30, np.where(amts > 5000000, 15, 10))
         durations = np.copy(mand)
         compressed = np.random.rand(batch_size) < 0.485
         durations[compressed] = np.random.randint(3, 12, size=compressed.sum())
@@ -557,13 +465,11 @@ with tab4:
         t_gen = time.perf_counter() - t0
         prog.progress(25, text=f"Synthesized {batch_size:,} tenders in {t_gen*1000:.1f}ms")
 
-        # 2. Rule 43 Checks
         t0 = time.perf_counter()
         violations_count = (df_bench['published_duration_days'] < df_bench['mandated_days']).sum()
         t_rules = time.perf_counter() - t0
         prog.progress(50, text="Completed vectorized statutory rule verification...")
 
-        # 3. Merkle Tree Building
         t0 = time.perf_counter()
         bench_payloads = [
             f"{r.tender_id}:{r.tender_amount}:{r.published_duration_days}" 
@@ -574,7 +480,6 @@ with tab4:
         t_merkle = time.perf_counter() - t0
         prog.progress(75, text="Constructed RFC 6962 Merkle Tree...")
 
-        # 4. Isolation Forest
         t0 = time.perf_counter()
         X_bench = df_bench[['tender_amount', 'published_duration_days']].values
         iso_bench = IsolationForest(n_estimators=50, random_state=42, n_jobs=-1)
@@ -583,9 +488,8 @@ with tab4:
         prog.progress(100, text="Benchmarking complete!")
 
         total_lat = t_gen + t_rules + t_merkle + t_ml
-        throughput = int(batch_size / total_lat)
+        throughput = int(batch_size / total_lat) if total_lat > 0 else 0
 
-        # Performance Metrics Display
         st.markdown("---")
         st.markdown("#### ⏱️ Real-Time Telemetry & Throughput")
         b1, b2, b3, b4 = st.columns(4)
@@ -594,9 +498,8 @@ with tab4:
         b3.metric("Isolation Forest (50 Trees)", f"{t_ml*1000:.1f} ms", "Multi-Threaded")
         b4.metric("Statutory Auditing", f"{t_rules*1000:.2f} ms", f"{violations_count:,} flagged")
 
-        st.code(f"National Batch Merkle Root: 0x{b_root}", language="text")
+        st.code("National Batch Merkle Root: 0x" + b_root, language="text")
 
-        # Complexity Curve
         st.markdown("##### Empirical vs Theoretical O(N log N) Algorithmic Scaling")
         sizes = np.array([1000, 5000, 10000, 25000, 50000])
         theo_latencies = (sizes * np.log2(sizes)) / (batch_size * math.log2(batch_size)) * total_lat
@@ -620,6 +523,115 @@ with tab4:
             margin=dict(l=20, r=20, t=20, b=20)
         )
         st.plotly_chart(fig_curve, use_container_width=True)
+
+# -----------------------------------------------------------------------------
+# TAB 5: STATUTORY RTI & VIGILANCE ACTION ENGINE
+# -----------------------------------------------------------------------------
+with tab5:
+    st.subheader("⚖️ One-Click Statutory RTI & Vigilance Dossier Generator")
+    st.markdown(
+        """
+        **Closing the Loop from Forensic Detection to Administrative Accountability:**  
+        Select any flagged public procurement notice to automatically generate an evidence-backed legal petition under 
+        **Section 6(1) of the Right to Information Act, 2005** and **Rule 43(2) of the Rajasthan Transparency in Public 
+        Procurement (RTPP) Rules, 2013**, demanding certified file notings, emergency justifications, and bidder logs.
+        """
+    )
+
+    violating_ids = df_filtered[df_filtered['is_violation']]['tender_id'].tolist() if not df_filtered.empty else []
+    
+    if violating_ids:
+        c_sel1, c_sel2 = st.columns([2, 1])
+        with c_sel1:
+            target_rti_id = st.selectbox(
+                "Select Flagged Tender Notice to Generate Legal Dossier:", 
+                violating_ids,
+                key="rti_target_select_tab5"
+            )
+        
+        target_row = df_filtered[df_filtered['tender_id'] == target_rti_id].iloc[0]
+        
+        with c_sel2:
+            st.metric(
+                "Statutory Timeline Deficit", 
+                f"{target_row['deficit_days']:.1f} Days", 
+                f"Mandated: {target_row['statutory_min_days']}d | Actual: {target_row['actual_window_days']}d"
+            )
+
+        col_meta1, col_meta2, col_meta3 = st.columns(3)
+        col_meta1.info(f"**Sanctioned Value:** ₹{target_row['estimated_cost_lac']:.2f} Lakhs")
+        col_meta2.info(f"**Authority:** {target_row['division']}")
+        col_meta3.warning(f"**Procurement Risk Score:** {target_row['risk_score']} / 100")
+
+        rti_draft = """FORM 'A'
+[See Rule 3(1)]
+APPLICATION FOR OBTAINING INFORMATION UNDER SECTION 6(1) OF THE RIGHT TO INFORMATION ACT, 2005
+
+To,
+The State Public Information Officer (SPIO) / Executive Engineer,
+{division}, {district} Circle,
+Government of Rajasthan.
+
+SUBJECT: STATUTORY INQUIRY REGARDING TIMELINE COMPRESSION IN TENDER ID: {tender_id}
+
+Respected Authority,
+
+1. PARTICULARS OF THE APPLICANT:
+   Name: Citizen Forensic Audit / Public Interest Whistleblower
+   Jurisdiction: State of Rajasthan, India
+
+2. PARTICULARS OF INFORMATION SOUGHT:
+   This inquiry pertains to Tender Reference '{nit_no}' (Portal Tender ID: {tender_id}), 
+   sanctioned for ₹{cost:.2f} Lakhs with an advertised bidding window of only {window} days.
+
+   Under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013, public works exceeding 
+   statutory valuation thresholds legally require a mandatory minimum advertising window of {mandated} days. 
+   The subject tender exhibits an illegal timeline deficit of {deficit:.1f} days.
+
+   Please furnish certified copies of the following public records:
+   a) Certified copies of the Competent Authority's written approval and official file notings recorded 
+      under Rule 43(2) of the RTPP Rules, 2013, justifying the reduction of the bidding period.
+   b) Certified copies of the emergent circumstances or documented public urgency recorded prior to 
+      issuing this truncated notice.
+   c) Total number of technical bids received on the portal prior to bid closing date.
+   d) Whether the subject contract was awarded to a single bidder or if competitive bidding was restricted.
+
+3. CRYPTOGRAPHIC INTEGRITY VERIFICATION:
+   Forensic Leaf Digest: SHA-256(0x00 || {tender_id}:{amt}:{window})
+   RFC 6962 State Merkle Root: 0x{merkle_root}
+   Audit Status: Confirmed High-Risk Statutory Anomaly (PRI Score: {risk}/100)
+
+4. APPLICATION FEE:
+   Prescribed fee of ₹10/- is tendered via Court Fee Stamp / IPO.
+
+Date: {today}
+Place: {district}, Rajasthan
+""".format(
+            division=target_row['division'],
+            district=target_row['district'],
+            tender_id=target_row['tender_id'],
+            nit_no=target_row['nit_no'],
+            cost=target_row['estimated_cost_lac'],
+            window=target_row['actual_window_days'],
+            mandated=target_row['statutory_min_days'],
+            deficit=target_row['deficit_days'],
+            amt=int(target_row['tender_amount']),
+            merkle_root=current_root,
+            risk=target_row['risk_score'],
+            today=pd.Timestamp.now().strftime('%d-%b-%Y')
+        )
+
+        st.text_area("Generated Legal RTI Application Draft:", rti_draft, height=330)
+        
+        st.download_button(
+            label="📄 Download RTI Application Notice (.txt)",
+            data=rti_draft,
+            file_name=f"RTI_Notice_{target_row['tender_id']}.txt",
+            mime="text/plain",
+            type="primary"
+        )
+    else:
+        st.info("No statutory violations detected in the currently selected filter.")
 
 # -----------------------------------------------------------------------------
 # FOOTER
