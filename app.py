@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import hashlib
 import plotly.express as px
-from scipy.stats import fisher_exact, chi2_contingency
+from scipy.stats import fisher_exact
 from modules.audit_engine import run_statewide_pipeline
 
 st.set_page_config(
@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# Custom Styling for clean forensic typography
+# Custom Styling for forensic dashboard layout
 st.markdown("""
 <style>
     .block-container { padding-top: 1.5rem; padding-bottom: 2rem; }
@@ -28,7 +28,6 @@ def load_and_enrich_data():
     if master_df.empty:
         return master_df, state_root, district_roots
 
-    # Normalize fields to match forensic compliance schema
     df = master_df.copy()
     if "nit_no" not in df.columns:
         df["nit_no"] = [f"NIT {str(i+1).zfill(2)}/2026-27 Item {((i%6)+1)}" for i in range(len(df))]
@@ -40,19 +39,19 @@ def load_and_enrich_data():
     df["statutory_min_days"] = df["required_days"].astype(int)
     df["deficit_days"] = df["time_deficit_days"].round(2)
 
-    # Compute Procurement Risk Index (PRI Score / 100)
-    # Weighted composite: 65% timeline deficit severity + 35% financial exposure
+    # Procurement Risk Index (PRI Score / 100)
     norm_deficit = np.clip(df["deficit_days"] / np.maximum(df["statutory_min_days"], 1), 0, 1)
     norm_cost = np.clip(df["estimated_cost_lac"] / 500, 0, 1)
     df["pri_score"] = ((norm_deficit * 65) + (norm_cost * 35)).round(1)
 
-    # Deterministic SHA-256 Evidence Hash per Record
-    df["evidence_sha256"] = df.apply(
-        lambda r: hashlib.sha256(
-            f"{r['tender_id']}|{r['estimated_cost_lac']}|{r['actual_window_days']}|{r['statutory_min_days']}|{r['deficit_days']}".encode('utf-8')
-        ).hexdigest(),
-        axis=1
-    )
+    # Deterministic SHA-256 evidence fingerprint
+    df["evidence_sha256"] = [
+        hashlib.sha256(f"{tid}|{cost}|{win}|{smin}|{defc}".encode("utf-8")).hexdigest()
+        for tid, cost, win, smin, defc in zip(
+            df["tender_id"], df["estimated_cost_lac"], df["actual_window_days"],
+            df["statutory_min_days"], df["deficit_days"]
+        )
+    ]
     return df, state_root, district_roots
 
 df, state_master_root, district_roots = load_and_enrich_data()
@@ -69,11 +68,11 @@ if df.empty:
 with st.expander("🛡️ Cryptographic Evidence Chain Status", expanded=False):
     col_c1, col_c2 = st.columns([2, 1])
     with col_c1:
-        st.markdown(f"**Statewide Master Merkle Root (RFC 6962):**")
+        st.markdown("**Statewide Master Merkle Root (RFC 6962):**")
         st.code(state_master_root, language="text")
     with col_c2:
         st.markdown(f"**Total Districts Anchored:** `{len(district_roots)}`")
-        st.markdown(f"**Cryptographic Status:** `IMMUTABLE / ZERO TAMPERING DETECTED`")
+        st.markdown("**Cryptographic Status:** `IMMUTABLE / ZERO TAMPERING DETECTED`")
     
     st.markdown("**District Local Sub-Roots:**")
     st.json(district_roots)
@@ -99,7 +98,6 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
 with tab1:
     st.subheader(f"Empirical Ingestion Corpus (N = {len(display_df)} Active Notices)")
 
-    # Top KPI Metrics Cards
     m1, m2, m3, m4 = st.columns(4)
     total_count = len(display_df)
     crit_count = int(display_df["is_violation"].sum())
@@ -110,11 +108,10 @@ with tab1:
     m1.metric("Notices Audited", f"{total_count}")
     m2.metric("Critical Violations", f"{crit_count}", delta=f"↑ {non_comp_rate:.1f}% Non-Compliant", delta_color="inverse")
     m3.metric("Mean Risk Index (PRI)", f"{mean_pri:.1f} / 100")
-    m4.metric("Documented Backdating", f"{max_deficit:.1f} Days", delta=f"Max Timeline Compression", delta_color="inverse")
+    m4.metric("Documented Backdating", f"{max_deficit:.1f} Days", delta="Max Timeline Compression", delta_color="inverse")
 
     st.markdown("<br>", unsafe_allow_html=True)
 
-    # Display Filter Radio
     filter_choice = st.radio(
         "Display Filter:",
         ["Show All Records", "Show Critical Violations Only", "Show Compliant Only"],
@@ -167,8 +164,6 @@ with tab2:
     fig_3d.update_layout(margin=dict(l=0, r=0, b=0, t=10), height=550)
     st.plotly_chart(fig_3d, use_container_width=True)
 
-    st.markdown(f"**Anomaly Detection Summary:** Flagged `{display_df['is_anomaly'].sum()}` multi-dimensional outlier tenders exceeding the dynamic contamination boundary.")
-
 # ==========================================
 # TAB 3: HYPOTHESIS TESTING
 # ==========================================
@@ -195,11 +190,11 @@ with tab3:
             st.markdown(f"**Odds Ratio:** `{odds_ratio:.2f}`")
 
             if p_fisher < 0.05:
-                st.success("✅ Statistically Significant (p < 0.05): Null hypothesis rejected. Timeline compression is systematically and non-randomly clustered around high-exposure contracts.")
+                st.success("Statistically Significant (p < 0.05): Null hypothesis rejected. Timeline compression is systematically clustered around high-exposure contracts.")
             else:
-                st.warning("⚠️ p ≥ 0.05: The current district sample does not show statistical divergence at the α = 0.05 significance threshold.")
+                st.warning("p >= 0.05: The current sample does not show statistical divergence at the alpha = 0.05 threshold.")
         else:
-            st.info("The 2×2 contingency table requires both compliant and non-compliant samples across both classes to compute Fisher's exact test.")
+            st.info("The 2x2 contingency table requires both compliant and non-compliant samples across both classes.")
 
 # ==========================================
 # TAB 4: EXTRACTION BENCHMARK
@@ -239,22 +234,44 @@ with tab5:
         selected_tender_id = st.selectbox("Select Flagged Notice ID:", flagged_ids)
         target = display_df[display_df["tender_id"] == selected_tender_id].iloc[0]
 
-        rti_draft = f"""To,
-The Public Information Officer (PIO)
-Office of the Executive Engineer, Public Works Department (PWD)
-Division/Circle: {target['district']}
-Government of Rajasthan.
+        target_dist = str(target["district"])
+        target_tid = str(target["tender_id"])
+        target_nit = str(target["nit_no"])
+        target_lac = float(target["estimated_cost_lac"])
+        target_min = int(target["statutory_min_days"])
+        target_win = float(target["actual_window_days"])
+        target_def = float(target["deficit_days"])
+        target_hash = str(target["evidence_sha256"])
 
-Subject: Application for Information under Section 6(1) of the Right to Information Act, 2005.
+        rti_draft = (
+            "To,\n"
+            "The Public Information Officer (PIO)\n"
+            "Office of the Executive Engineer, Public Works Department (PWD)\n"
+            f"Division/Circle: {target_dist}\n"
+            "Government of Rajasthan.\n\n"
+            "Subject: Application for Information under Section 6(1) of the Right to Information Act, 2005.\n\n"
+            f"Ref: Tender Notice ID: {target_tid} | NIT Reference: {target_nit}\n"
+            f"Estimated Project Outlay: INR {target_lac:,.2f} Lakhs\n\n"
+            "Sir/Madam,\n\n"
+            "Under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013, procurement notices with estimated contract values exceeding statutory tiers mandate a minimum competitive publication window of "
+            f"{target_min} calendar days.\n\n"
+            f"Forensic compliance analysis of official dispatch metadata demonstrates that the aforementioned notice was published with an effective window of only {target_win} days, establishing an unlawful timeline deficit of {target_def} days.\n\n"
+            "Pursuant to Section 6(1) of the RTI Act, 2005, please furnish certified true copies of the following documents:\n"
+            "1. The sanctioned dispatch order or competent administrative approval authorizing reduced advertisement duration under the Rule 43 proviso.\n"
+            "2. Inward and outward postal/registry logs documenting delivery dates of the Notice Inviting Tender to state-approved print publications.\n"
+            "3. Official server access and change logs indicating the precise timestamp of notice publication versus bid submission commencement.\n\n"
+            "Cryptographic Evidence Chain Fingerprint:\n"
+            f"- State Merkle Root: {state_master_root}\n"
+            f"- Tender Evidence Hash: {target_hash}\n"
+            "- Timestamp Standard: ISO 8601 UTC\n"
+        )
 
-Ref: Tender Notice ID: {target['tender_id']} | NIT Reference: {target['nit_no']}
-Estimated Project Outlay: INR {target['estimated_cost_lac']:,.2f} Lakhs
-
-Sir/Madam,
-
-Under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013, procurement notices with estimated contract values exceeding statutory tiers mandate a minimum competitive publication window of {int(target['statutory_min_days'])} calendar days.
-
-Forensic compliance analysis of official dispatch metadata demonstrates that the aforementioned notice was published with an effective window of only {target['actual_window_days']} days, establishing an unlawful timeline deficit of {target['deficit_days']} days.
-
-Pursuant to Section 6(1) of the RTI Act, 2005, please furnish certified true copies of the following documents:
-1. The sanctioned dispatch order or competent administrative approval authorizing reduced advertisement
+        st.text_area("Formulated Section 6 Legal Draft", rti_draft, height=330)
+        st.download_button(
+            label="Download RTI Petition (.txt)",
+            data=rti_draft,
+            file_name=f"RTI_Petition_{target_tid}.txt",
+            mime="text/plain"
+        )
+    else:
+        st.success("No statutory timeline violations detected in this selection.")
