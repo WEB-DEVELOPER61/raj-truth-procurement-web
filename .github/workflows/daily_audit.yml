@@ -1,0 +1,35 @@
+name: Daily Procurement Audit Pipeline
+
+on:
+  schedule:
+    # Runs automatically every day at 02:00 AM UTC (7:30 AM IST)
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allows you to also trigger it manually anytime with one click
+
+jobs:
+  audit-job:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the bot to commit new tenders to your repo
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 pandas
+
+      - name: Run Scraper
+        run: python daily_scraper.py
+
+      - name: Push new tenders if found
+        run: |
+          git config --global user.name "Project-TRUTH-Vigilance-Bot"
+          git config --global user.email "bot@projecttruth.internal"
+          git add data/
+          git diff --staged --quiet || (git commit -m "Auto-Audit: Ingested fresh notices [$(date +'%Y-%m-%d')]" && git push)
