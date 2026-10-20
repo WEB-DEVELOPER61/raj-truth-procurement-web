@@ -289,7 +289,7 @@ else:
 # -----------------------------------------------------------------------------
 # 5. HEADER & TOP TELEMETRY METRICS
 # -----------------------------------------------------------------------------
-st.title("Project TRUTH: Automated Public Procurement Compliance Engine")
+st.title(" ⚖️ Project TRUTH: Automated Public Procurement Compliance Engine")
 st.caption("Forensic Systems Software for Statutory Rule 43 Auditing | Rajasthan State Public Procurement Portal (SPPP)")
 
 payloads = [
