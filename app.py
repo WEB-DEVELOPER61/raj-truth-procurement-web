@@ -15,7 +15,9 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom Styling for Forensic Metric Cards
+# -------------------------------------------------------------
+# Forensic UI Styling
+# -------------------------------------------------------------
 st.markdown("""
 <style>
     .metric-card {
@@ -53,9 +55,94 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # -------------------------------------------------------------
-# Data Ingestion Engine
+# Dynamic Schema Normalization Engine (Guarantees Zero KeyErrors)
 # -------------------------------------------------------------
-@st.cache_data(ttl=30, show_spinner=False)
+def standardize_forensic_dataframe(df, default_district="Jaipur"):
+    """Normalizes arbitrary raw CSVs into the verified 11-column forensic schema."""
+    col_map = {c: c.strip().lower() for c in df.columns}
+    df = df.rename(columns=col_map)
+    
+    # 1. Tender ID
+    if 'tender_id' not in df.columns:
+        for c in df.columns:
+            if 'id' in c:
+                df['tender_id'] = df[c]
+                break
+    if 'tender_id' not in df.columns:
+        df['tender_id'] = 'UNKNOWN_ID'
+        
+    # 2. Contract Amount / Valuation
+    if 'tender_amount' not in df.columns:
+        for c in ['cost', 'amount', 'tender_value', 'value']:
+            if c in df.columns:
+                df['tender_amount'] = df[c]
+                break
+        if 'tender_amount' not in df.columns:
+            df['tender_amount'] = 2500000.0
+    df['tender_amount'] = pd.to_numeric(df['tender_amount'], errors='coerce').fillna(2500000.0)
+    
+    # 3. Notice Duration (Days)
+    if 'actual_window_days' not in df.columns:
+        for c in ['published_duration_days', 'window_days', 'window', 'duration_days', 'duration']:
+            if c in df.columns:
+                df['actual_window_days'] = df[c]
+                break
+        if 'actual_window_days' not in df.columns:
+            df['actual_window_days'] = 10
+    df['actual_window_days'] = pd.to_numeric(df['actual_window_days'], errors='coerce').fillna(10).astype(int)
+
+    # 4. District & Division
+    if 'district' not in df.columns:
+        df['district'] = default_district
+    df['district'] = df['district'].fillna(default_district).astype(str).str.capitalize()
+    
+    if 'division' not in df.columns:
+        df['division'] = df['district'] + " Division"
+        
+    if 'nit_no' not in df.columns:
+        df['nit_no'] = df['tender_id'].apply(
+            lambda x: f"NIT {str(x).split('_')[-2]}_{str(x).split('_')[-1]}" if len(str(x).split('_')) >= 3 else f"NIT {x}"
+        )
+
+    if 'estimated_cost_lac' not in df.columns:
+        df['estimated_cost_lac'] = (df['tender_amount'] / 100000.0).round(2)
+        
+    # 5. Statutory Rule 43 Threshold Computation
+    def get_statutory_min(amt):
+        if amt <= 1000000.0:
+            return 7
+        elif amt <= 5000000.0:
+            return 10
+        elif amt <= 20000000.0:
+            return 15
+        else:
+            return 30
+            
+    if 'statutory_min_days' not in df.columns:
+        df['statutory_min_days'] = df['tender_amount'].apply(get_statutory_min)
+        
+    if 'deficit_days' not in df.columns:
+        df['deficit_days'] = (df['statutory_min_days'] - df['actual_window_days']).clip(lower=0.0)
+        
+    if 'is_violation' not in df.columns:
+        df['is_violation'] = df['deficit_days'] > 0
+        
+    if 'risk_score' not in df.columns:
+        def calc_risk(row):
+            if not row['is_violation']:
+                return 0.0
+            ratio = row['deficit_days'] / row['statutory_min_days']
+            log_cost = np.log10(max(1000.0, float(row['tender_amount'])))
+            raw = 70.0 * ratio + 3.62 * log_cost + 0.82
+            return round(min(100.0, max(0.0, raw)), 1)
+        df['risk_score'] = df.apply(calc_risk, axis=1)
+        
+    return df
+
+# -------------------------------------------------------------
+# Data Ingestion Engine (Cached & Memory-Optimized)
+# -------------------------------------------------------------
+@st.cache_data(ttl=60, show_spinner=False)
 def load_all_district_data():
     csv_files = glob.glob("data/districts/*.csv")
     if not csv_files:
@@ -64,31 +151,24 @@ def load_all_district_data():
     dfs = []
     for f in csv_files:
         try:
+            filename = os.path.basename(f).replace(".csv", "").capitalize()
             df = pd.read_csv(f)
-            if 'tender_id' in df.columns:
-                dfs.append(df)
+            if len(df) > 0:
+                df_std = standardize_forensic_dataframe(df, default_district=filename)
+                # Discard table headers and navigation artifacts
+                valid_mask = df_std['tender_id'].astype(str).str.contains(r'^\d{4}_[A-Za-z0-9]+_\d+', na=False)
+                dfs.append(df_std[valid_mask])
         except Exception:
             continue
             
     if dfs:
         master = pd.concat(dfs, ignore_index=True)
         master.drop_duplicates(subset=['tender_id'], keep='first', inplace=True)
-        
-        # Ensure all safety columns exist
-        if 'is_violation' not in master.columns:
-            master['is_violation'] = master.get('deficit_days', 0) > 0
-        if 'risk_score' not in master.columns:
-            master['risk_score'] = 0.0
-        if 'deficit_days' not in master.columns:
-            master['deficit_days'] = 0.0
-        if 'estimated_cost_lac' not in master.columns:
-            master['estimated_cost_lac'] = master.get('tender_amount', 2500000.0) / 100000.0
-            
         return master
     return pd.DataFrame()
 
 # -------------------------------------------------------------
-# Cryptographic Merkle Root Construction (RFC 6962)
+# Cryptographic Merkle Root (RFC 6962)
 # -------------------------------------------------------------
 def build_rfc6962_merkle_root(tender_ids):
     if not len(tender_ids):
@@ -106,7 +186,7 @@ def build_rfc6962_merkle_root(tender_ids):
     return current[0]
 
 # -------------------------------------------------------------
-# Sidebar: Forensic Controls & RTPP Statutory Framework
+# Sidebar: Controls & Statutory Framework
 # -------------------------------------------------------------
 if st.sidebar.button("🔄 Sync & Clear Cache", use_container_width=True):
     st.cache_data.clear()
@@ -133,10 +213,10 @@ st.sidebar.info("""
 df_raw = load_all_district_data()
 
 if df_raw.empty:
-    st.error("No statutory procurement files found in data/districts/.")
+    st.error("No statutory procurement files found in data/districts/. Please run daily_scraper.py to populate records.")
     st.stop()
 
-# Circle Filtering
+# Filter by Circle
 if circle_option != "All Rajasthan":
     df_active = df_raw[df_raw['district'].astype(str).str.lower() == circle_option.lower()].copy()
 else:
@@ -148,11 +228,11 @@ violation_pct = (violations_count / total_notices * 100) if total_notices > 0 el
 mean_pri = float(df_active['risk_score'].mean()) if total_notices > 0 else 0.0
 max_deficit = float(df_active['deficit_days'].max()) if total_notices > 0 else 0.0
 
-# Header
+# Dashboard Title
 st.title("⚖️ Project TRUTH: Automated Public Procurement Compliance Engine")
 st.caption("Forensic Systems Software for Statutory Rule 43 Auditing | Rajasthan State Public Procurement Portal (SPPP)")
 
-# Cryptographic Verifier Expander
+# Cryptographic Integrity Expander
 merkle_root = build_rfc6962_merkle_root(df_active['tender_id'].tolist())
 with st.expander("🛡️ Cryptographic Evidence Chain & On-Demand Proof Verifier", expanded=False):
     st.write(f"**Tamper-Evident RFC 6962 Merkle Root:** `{merkle_root}`")
@@ -202,7 +282,7 @@ with col4:
 st.markdown("<br>", unsafe_allow_html=True)
 
 # -------------------------------------------------------------
-# Tabs Navigation
+# Audit Tabs
 # -------------------------------------------------------------
 tab1, tab2, tab3, tab4 = st.tabs([
     "1. Forensic Audit Registry",
@@ -211,7 +291,7 @@ tab1, tab2, tab3, tab4 = st.tabs([
     "4. ⚡ National Scalability & RTI Generator"
 ])
 
-# TAB 1: Forensic Audit Registry
+# TAB 1: Registry
 with tab1:
     st.subheader(f"Empirical Ingestion Corpus (N = {total_notices} Active Notices)")
     
@@ -254,7 +334,7 @@ with tab1:
     csv_bytes = df_display.to_csv(index=False).encode('utf-8')
     st.download_button("📥 Export Forensic Registry (CSV)", data=csv_bytes, file_name="forensic_registry.csv", mime="text/csv")
 
-# TAB 2: Isolation Forest Anomaly Detection
+# TAB 2: Isolation Forest
 with tab2:
     st.subheader("Algorithmic Anomaly Detection (Unsupervised Isolation Forest)")
     st.caption("Detects structural multivariate timeline anomalies independent of statutory thresholds.")
@@ -285,7 +365,7 @@ with tab2:
     else:
         st.warning("Insufficient notices in selected circle to train Isolation Forest.")
 
-# TAB 3: Inferential Hypothesis Testing (Chi-Square)
+# TAB 3: Chi-Square
 with tab3:
     st.subheader("Inferential Hypothesis Testing (Pearson's Chi-Square Test)")
     st.markdown(r"""
@@ -332,7 +412,7 @@ with tab3:
         )
         st.plotly_chart(fig_bar, use_container_width=True)
 
-# TAB 4: RTI Application Generator
+# TAB 4: RTI Petition Generator
 with tab4:
     st.subheader("⚡ Automated Statutory RTI Petition Generator")
     st.caption("Auto-generates official legal applications under Section 6(1) of the Right to Information Act, 2005.")
