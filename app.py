@@ -21,7 +21,7 @@ except ImportError:
 # 1. PAGE CONFIGURATION & STYLES
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Project TRUTH | Forensic Procurement Engine",
+    page_title=" ⚖️ Project TRUTH | Forensic Procurement Engine",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -994,7 +994,4 @@ Place: {district}, Rajasthan
 # FOOTER
 # -------------------------------------------------------------
 st.markdown("---")
-st.caption(
-    "Project TRUTH • Public Procurement Integrity Engine • "
-    "Designed for IRIS National Science Fair / Harvard University Technical Presentation"
-)
+st.caption("Project TRUTH • STABLE CORE ENGINE v1.0.4 • DEPLOYED RUNTIME STATE")
