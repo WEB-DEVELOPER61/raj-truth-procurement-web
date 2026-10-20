@@ -2,34 +2,37 @@ name: Daily Procurement Audit Pipeline
 
 on:
   schedule:
-    # Runs automatically every day at 02:00 AM UTC (7:30 AM IST)
+    # Runs automatically every day at 02:00 UTC (07:30 AM IST)
     - cron: '0 2 * * *'
-  workflow_dispatch: # Allows you to also trigger it manually anytime with one click
+  workflow_dispatch: # Allows one-click manual testing from the Actions tab
 
 jobs:
-  audit-job:
+  audit-pipeline:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Allows the bot to commit new tenders to your repo
+      contents: write
 
     steps:
-      - name: Check out repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas
+      - name: Install Ingestion Dependencies
+        run: |
+          pip install requests beautifulsoup4 pandas numpy
 
-      - name: Run Scraper
+      - name: Run Daily Scraper
         run: python daily_scraper.py
 
-      - name: Push new tenders if found
+      - name: Commit and Push New Tenders
         run: |
           git config --global user.name "Project-TRUTH-Vigilance-Bot"
           git config --global user.email "bot@projecttruth.internal"
-          git add data/
-          git diff --staged --quiet || (git commit -m "Auto-Audit: Ingested fresh notices [$(date +'%Y-%m-%d')]" && git push)
+          git add data/districts/
+          # Only commits if new rows were added to district files
+          git diff --staged --quiet || (git commit -m "Auto-Audit: Ingested fresh statutory notices [$(date +'%Y-%m-%d')]" && git push)
