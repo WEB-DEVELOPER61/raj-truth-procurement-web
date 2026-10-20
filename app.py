@@ -21,13 +21,28 @@ except ImportError:
 # 1. PAGE CONFIGURATION & STYLES
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title=" ⚖️ Project TRUTH | Forensic Procurement Engine",
+    page_title="Project TRUTH | Forensic Procurement Engine",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 st.markdown("""
 <style>
+    /* Hide default Streamlit header bar, top-right action menu, and branding */
+    header[data-testid="stHeader"] {
+        visibility: hidden;
+        height: 0%;
+    }
+    div[data-testid="stStatusWidget"] {
+        visibility: hidden;
+    }
+    #MainMenu {
+        visibility: hidden;
+    }
+    footer {
+        visibility: hidden;
+    }
+
     .metric-card {
         background-color: #1e2130;
         padding: 18px;
