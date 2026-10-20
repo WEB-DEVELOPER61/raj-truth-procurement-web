@@ -3,7 +3,6 @@ import glob
 import time
 import math
 import hashlib
-import importlib
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -13,7 +12,7 @@ from scipy import stats
 from sklearn.ensemble import IsolationForest
 
 try:
-    duckdb = importlib.import_module("duckdb")
+    import duckdb
     HAS_DUCKDB = True
 except ImportError:
     HAS_DUCKDB = False
@@ -228,43 +227,18 @@ base_payloads = [f"{r.tender_id}:{int(r.tender_amount)}" for r in df_all.itertup
 baseline_root = RFC6962MerkleTree(base_payloads).get_root_hex()
 short_hash = f"0x{baseline_root[:6]}...{baseline_root[-6:]}"
 
-# -----------------------------------------------------------------------------
-# 4. SIDEBAR CONTROLS
-# -----------------------------------------------------------------------------
 with st.sidebar:
-    st.markdown(f"""
-    <div style="background: #0A0F1D; border: 1px solid #1E293B; border-radius: 8px; padding: 14px 10px; margin-bottom: 14px; text-align: center;">
-        <div style="font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; font-size: 1.20rem; font-weight: 900; letter-spacing: 0.14em; color: #38BDF8;">
-            [ // TRUTH_SYS ]
-        </div>
-        <div style="font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em; color: #94A3B8; margin-top: 3px;">
-            PROCUREMENT FORENSIC CORE
-        </div>
-        <div style="margin-top: 10px; padding: 4px 8px; background: #0E1726; border: 1px solid #1E293B; border-radius: 4px; display: inline-block;">
-            <span style="font-family: monospace; font-size: 0.65rem; color: #10B981; font-weight: 700;">● NODE: ONLINE</span>
-            <span style="font-family: monospace; font-size: 0.65rem; color: #64748B; margin-left: 6px;">{short_hash}</span>
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
-
+    st.markdown("## Project TRUTH")
+    st.caption("Statutory Compliance & Audit Pipeline")
+    
     if st.button("🔄 Sync & Clear Cache", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
 
-    st.title("Forensic Controls")
-    
+    st.markdown("---")
+    st.markdown("### Forensic Controls")
     circle_options = ["All Rajasthan", "Jaipur", "Jodhpur", "Udaipur", "Bikaner", "Kota"]
     selected_circle = st.selectbox("Administrative Circle:", circle_options)
-    
-    st.markdown("---")
-    st.markdown("#### Statutory Framework")
-    st.caption("Rajasthan Transparency in Public Procurement (RTPP) Act")
-    st.caption("Rule 43(1)(a): Less than 10L -> 7 Days Min")
-    st.caption("Rule 43(1)(b): 10L to 50L -> 10 Days Min")
-    st.caption("Rule 43(1)(c): 50L to 2Cr -> 15 Days Min")
-    st.caption("Rule 43(1)(d): Greater than 2Cr -> 30 Days Min")
-    st.markdown("---")
-    st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Unsupervised Anomaly Engine")
 
 if selected_circle == "All Rajasthan":
     df_filtered = df_all.copy()
