@@ -418,6 +418,75 @@ with tab1:
     csv_bytes = df_display.to_csv(index=False).encode('utf-8')
     st.download_button("📥 Export Forensic Registry (CSV)", data=csv_bytes, file_name="forensic_registry.csv", mime="text/csv")
 
+    # ---------------------------------------------------------
+    # Institutional Repeat-Offender Leaderboard
+    # ---------------------------------------------------------
+    st.markdown("---")
+    st.subheader("🏛️ Administrative Authority Exposure Ranking")
+    st.caption("Identifying systemic non-compliance clusters across state procuring divisions.")
+
+    if not df_active.empty:
+        auth_summary = df_active.groupby('division').agg(
+            Total_Notices=('tender_id', 'count'),
+            Violations=('is_violation', 'sum'),
+            Total_Capital_Lac=('estimated_cost_lac', 'sum'),
+            Mean_Deficit=('deficit_days', 'mean'),
+            Max_Risk=('risk_score', 'max')
+        ).reset_index()
+
+        auth_summary['Violation_Rate_%'] = (
+            (auth_summary['Violations'] / auth_summary['Total_Notices']) * 100
+        ).round(1)
+        
+        # Capital under compressed timelines (in ₹ Crores)
+        viol_only = df_active[df_active['is_violation'] == True]
+        viol_cap = (
+            viol_only.groupby('division')['estimated_cost_lac'].sum() / 100.0
+        ).round(2)
+        auth_summary['Capital_At_Risk_Cr'] = (
+            auth_summary['division'].map(viol_cap).fillna(0.0)
+        )
+
+        top_authorities = auth_summary.sort_values(
+            by=['Violations', 'Capital_At_Risk_Cr'], 
+            ascending=False
+        ).head(8)
+
+        # Presentation columns
+        lead_col1, lead_col2 = st.columns([3, 2])
+        
+        with lead_col1:
+            st.dataframe(
+                top_authorities[[
+                    'division', 'Total_Notices', 'Violations', 
+                    'Violation_Rate_%', 'Capital_At_Risk_Cr', 'Mean_Deficit'
+                ]],
+                column_config={
+                    "division": "Procuring Entity / Division",
+                    "Total_Notices": st.column_config.NumberColumn("Total Tenders", format="%d"),
+                    "Violations": st.column_config.NumberColumn("Violations", format="%d"),
+                    "Violation_Rate_%": st.column_config.ProgressColumn("Violation Rate", format="%.1f%%", min_value=0, max_value=100),
+                    "Capital_At_Risk_Cr": st.column_config.NumberColumn("Capital at Risk", format="₹ %.2f Cr"),
+                    "Mean_Deficit": st.column_config.NumberColumn("Avg Deficit", format="%.1f d")
+                },
+                hide_index=True,
+                use_container_width=True
+            )
+
+        with lead_col2:
+            fig_auth = px.bar(
+                top_authorities.head(5),
+                x='Violations',
+                y='division',
+                orientation='h',
+                color='Capital_At_Risk_Cr',
+                color_continuous_scale="Reds",
+                title="Top 5 High-Exposure Procuring Entities",
+                labels={'division': '', 'Violations': 'Flagged Notices'}
+            )
+            fig_auth.update_layout(yaxis=dict(autorange="reversed"), height=300, margin=dict(l=0, r=10, t=35, b=20))
+            st.plotly_chart(fig_auth, use_container_width=True)
+
 # TAB 2: Isolation Forest
 with tab2:
     st.subheader("Algorithmic Anomaly Detection (Unsupervised Isolation Forest)")
