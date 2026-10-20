@@ -256,37 +256,9 @@ def build_rfc6962_merkle_root(tender_ids):
 # -------------------------------------------------------------
 
 with st.sidebar:
-    # High-Authority Civic Forensic Crest (100% Legal & IRIS-Compliant)
-    st.markdown("""
-    <div style="text-align: center; margin-top: 10px; margin-bottom: 20px;">
-        <svg width="95" height="95" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0px 4px 10px rgba(0, 0, 0, 0.5));">
-            <!-- Outer Shield of Vigilance -->
-            <path d="M50 5 L88 22 C88 58 50 92 50 92 C50 92 12 58 12 22 Z" fill="#0B132B" stroke="#D4AF37" stroke-width="2.5"/>
-            <path d="M50 10 L82 25 C82 55 50 84 50 84 C50 84 18 55 18 25 Z" fill="#1C2541" opacity="0.6"/>
-            <!-- Central Pillar / Stambh -->
-            <rect x="47" y="32" width="6" height="42" rx="1.5" fill="#D4AF37"/>
-            <rect x="41" y="72" width="18" height="4" rx="1" fill="#D4AF37"/>
-            <rect x="44" y="30" width="12" height="3" rx="1" fill="#D4AF37"/>
-            <!-- Balance Beam -->
-            <path d="M30 38 L50 32 L70 38" stroke="#F4D06F" stroke-width="2.5" stroke-linecap="round"/>
-            <!-- Left Pan -->
-            <path d="M30 38 L24 50 M30 38 L36 50" stroke="#F4D06F" stroke-width="1.2"/>
-            <path d="M20 50 Q30 54 40 50 Z" fill="#F4D06F"/>
-            <!-- Right Pan -->
-            <path d="M70 38 L64 50 M70 38 L76 50" stroke="#F4D06F" stroke-width="1.2"/>
-            <path d="M60 50 Q70 54 80 50 Z" fill="#F4D06F"/>
-            <!-- Chakra Star Hub -->
-            <circle cx="50" cy="32" r="4.5" fill="#0B132B" stroke="#D4AF37" stroke-width="2"/>
-        </svg>
-        <div style="font-size: 0.95rem; font-weight: 800; letter-spacing: 0.12em; color: #F4D06F; margin-top: 6px;">PROJECT TRUTH</div>
-        <div style="font-size: 0.68rem; font-weight: 600; letter-spacing: 0.08em; color: #94A3B8;">STATUTORY AUDIT ENGINE</div>
-    </div>
-    """, unsafe_allow_html=True)
-    
-    if st.button("🔄 Sync & Clear Cache", use_container_width=True):
-        st.cache_data.clear()
-        st.rerun()
-
+    _, c_mid, _ = st.columns([1, 2, 1])
+    with c_mid:
+        st.image("https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg", width=100)
 
     if st.button("🔄 Sync & Clear Cache", use_container_width=True):
         st.cache_data.clear()
