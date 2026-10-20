@@ -21,13 +21,25 @@ except ImportError:
 # 1. PAGE CONFIGURATION & STYLES
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title=" ⚖️ Project TRUTH | Forensic Procurement Engine",
+    page_title="Project TRUTH | Forensic Procurement Engine",
+    page_icon="⚖️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 st.markdown("""
 <style>
+    /* Completely eliminate Streamlit top header bar, action menus, and footer */
+    [data-testid="stHeader"] {
+        display: none !important;
+    }
+    #MainMenu {
+        display: none !important;
+    }
+    footer {
+        display: none !important;
+    }
+
     .metric-card {
         background-color: #1e2130;
         padding: 18px;
@@ -35,10 +47,30 @@ st.markdown("""
         border: 1px solid #2d3250;
         text-align: center;
     }
-    .metric-title { color: #8b949e; font-size: 13px; font-weight: 600; text-transform: uppercase; margin-bottom: 6px; }
-    .metric-val { color: #f0f6fc; font-size: 28px; font-weight: 700; }
-    .metric-sub-red { color: #f85149; font-size: 12px; font-weight: 600; margin-top: 4px; }
-    .metric-sub-green { color: #3fb950; font-size: 12px; font-weight: 600; margin-top: 4px; }
+    .metric-title { 
+        color: #8b949e; 
+        font-size: 13px; 
+        font-weight: 600; 
+        text-transform: uppercase; 
+        margin-bottom: 6px; 
+    }
+    .metric-val { 
+        color: #f0f6fc; 
+        font-size: 28px; 
+        font-weight: 700; 
+    }
+    .metric-sub-red { 
+        color: #f85149; 
+        font-size: 12px; 
+        font-weight: 600; 
+        margin-top: 4px; 
+    }
+    .metric-sub-green { 
+        color: #3fb950; 
+        font-size: 12px; 
+        font-weight: 600; 
+        margin-top: 4px; 
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -129,7 +161,7 @@ def calculate_rule_43(amount: float, days: float):
 def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str):
     tid = str(tender_id).upper()
     
-    clean_dist = str(raw_district).strip().capitalize()
+    clean_dist = str(raw_district).strip()
     if clean_dist.lower() in ["nan", "none", "", "data", "districts", "all rajasthan"]:
         if "JDAJP" in tid or "PHCJA" in tid or "JAIP" in tid:
             clean_dist = "Jaipur"
@@ -143,6 +175,8 @@ def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str
             clean_dist = "Kota"
         else:
             clean_dist = "Jaipur"
+    else:
+        clean_dist = "-".join([part.title() for part in clean_dist.split("-")])
 
     clean_div = str(raw_division).strip()
     if clean_div.lower() in ["nan", "none", "", "nan division", "division"]:
@@ -179,7 +213,7 @@ def load_all_district_data():
     
     for f in csv_files:
         try:
-            filename = os.path.basename(f).replace(".csv", "").capitalize()
+            filename = os.path.basename(f).replace(".csv", "").replace("_", "-").title()
             df = pd.read_csv(f)
             if df.empty:
                 continue
@@ -189,6 +223,7 @@ def load_all_district_data():
             amt_col = col_map.get('tender_amount') or col_map.get('estimated_cost_lac') or col_map.get('cost') or col_map.get('amount')
             dur_col = col_map.get('published_duration_days') or col_map.get('actual_window_days') or col_map.get('duration') or col_map.get('window')
             date_col = next((c for c in df.columns if any(k in str(c).lower() for k in ['date', 'pub', 'time'])), None)
+            admin_div_col = col_map.get('administrative_division')
             
             if not id_col:
                 continue
@@ -236,6 +271,7 @@ def load_all_district_data():
                     'nit_no': nit_name,
                     'division': div_name,
                     'district': dist_name,
+                    'administrative_division': str(r.get(admin_div_col, '')),
                     'tender_amount': amt,
                     'estimated_cost_lac': round(amt / 100000.0, 2),
                     'actual_window_days': int(round(days)),
@@ -252,24 +288,60 @@ def load_all_district_data():
         df_master = pd.DataFrame(combined_rows).drop_duplicates(subset=['tender_id'])
         return df_master
     return pd.DataFrame(columns=[
-        'tender_id', 'nit_no', 'division', 'district', 'tender_amount',
-        'estimated_cost_lac', 'actual_window_days', 'statutory_min_days',
-        'deficit_days', 'is_violation', 'risk_score', 'fiscal_quarter'
+        'tender_id', 'nit_no', 'division', 'district', 'administrative_division',
+        'tender_amount', 'estimated_cost_lac', 'actual_window_days',
+        'statutory_min_days', 'deficit_days', 'is_violation', 'risk_score', 'fiscal_quarter'
     ])
 
 df_all = load_all_district_data()
 
-# -----------------------------------------------------------------------------
-# 4. SIDEBAR CONTROLS (NO LOGO / CLEAN ENTRY)
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
+# 4. SIDEBAR CONTROLS (7 DIVISIONS x 41 DISTRICTS CASCADING)
+# -------------------------------------------------------------
+RAJASTHAN_ADMIN_HIERARCHY = {
+    "Jaipur Division": [
+        "Jaipur", "Alwar", "Dausa", "Jhunjhunu", "Sikar", 
+        "Khairthal-Tijara", "Kotputli-Behror"
+    ],
+    "Jodhpur Division": [
+        "Jodhpur", "Barmer", "Jaisalmer", "Jalore", "Pali", 
+        "Sirohi", "Balotra", "Phalodi"
+    ],
+    "Ajmer Division": [
+        "Ajmer", "Bhilwara", "Nagaur", "Tonk", 
+        "Beawar", "Didwana-Kuchaman"
+    ],
+    "Udaipur Division": [
+        "Udaipur", "Banswara", "Chittorgarh", "Dungarpur", 
+        "Pratapgarh", "Rajsamand", "Salumbar"
+    ],
+    "Bikaner Division": [
+        "Bikaner", "Churu", "Hanumangarh", "Sri Ganganagar"
+    ],
+    "Kota Division": [
+        "Kota", "Baran", "Bundi", "Jhalawar"
+    ],
+    "Bharatpur Division": [
+        "Bharatpur", "Dholpur", "Karauli", "Sawai Madhopur", "Deeg"
+    ]
+}
+
 with st.sidebar:
     if st.button("🔄 Sync & Clear Cache", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
 
     st.markdown("### Forensic Controls")
-    circle_options = ["All Rajasthan", "Jaipur", "Jodhpur", "Udaipur", "Bikaner", "Kota"]
-    selected_circle = st.selectbox("Administrative Circle:", circle_options)
+    
+    div_options = ["All Rajasthan (Statewide)"] + list(RAJASTHAN_ADMIN_HIERARCHY.keys())
+    selected_division = st.selectbox("Administrative Division:", div_options)
+    
+    if selected_division == "All Rajasthan (Statewide)":
+        all_districts = ["All 41 Districts"] + sorted([d for dists in RAJASTHAN_ADMIN_HIERARCHY.values() for d in dists])
+        selected_district = st.selectbox("District Circle:", all_districts)
+    else:
+        division_districts = ["All in Division"] + RAJASTHAN_ADMIN_HIERARCHY[selected_division]
+        selected_district = st.selectbox(f"District Circle ({selected_division.split()[0]}):", division_districts)
 
     st.markdown("---")
     st.markdown("#### Statutory Framework")
@@ -281,15 +353,20 @@ with st.sidebar:
     st.markdown("---")
     st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Unsupervised Anomaly Engine")
 
-if selected_circle == "All Rajasthan":
-    df_filtered = df_all.copy()
-else:
-    df_filtered = df_all[df_all['district'].astype(str).str.lower() == selected_circle.lower()].copy()
+# Filter execution across statewide records
+df_filtered = df_all.copy()
 
-# -----------------------------------------------------------------------------
+if selected_division != "All Rajasthan (Statewide)":
+    districts_in_div = [d.lower() for d in RAJASTHAN_ADMIN_HIERARCHY[selected_division]]
+    df_filtered = df_filtered[df_filtered['district'].astype(str).str.lower().isin(districts_in_div)]
+
+if selected_district not in ["All 41 Districts", "All in Division"]:
+    df_filtered = df_filtered[df_filtered['district'].astype(str).str.lower() == selected_district.lower()]
+
+# -------------------------------------------------------------
 # 5. HEADER & TOP TELEMETRY METRICS
-# -----------------------------------------------------------------------------
-st.title(" ⚖️ Project TRUTH: Automated Public Procurement Compliance Engine")
+# -------------------------------------------------------------
+st.title("⚖️ Project TRUTH: Automated Public Procurement Compliance Engine")
 st.caption("Forensic Systems Software for Statutory Rule 43 Auditing | Rajasthan State Public Procurement Portal (SPPP)")
 
 payloads = [
@@ -332,7 +409,7 @@ with m1:
     st.markdown(f"""
     <div class="metric-card">
         <div class="metric-title">Notices Audited</div>
-        <div class="metric-val">{total_audited}</div>
+        <div class="metric-val">{total_audited:,}</div>
         <div class="metric-sub-green">Empirical Ground Truth</div>
     </div>
     """, unsafe_allow_html=True)
@@ -341,7 +418,7 @@ with m2:
     st.markdown(f"""
     <div class="metric-card">
         <div class="metric-title">Critical Violations</div>
-        <div class="metric-val">{critical_viols}</div>
+        <div class="metric-val">{critical_viols:,}</div>
         <div class="metric-sub-red">↑ {viol_rate:.1f}% Non-Compliant</div>
     </div>
     """, unsafe_allow_html=True)
@@ -367,7 +444,7 @@ with m4:
 st.markdown("<br>", unsafe_allow_html=True)
 
 # -------------------------------------------------------------
-# 6. TABBED NAVIGATION
+# 6. TABBED NAVIGATION (5 DISTINCT ARCHITECTURAL PILLARS)
 # -------------------------------------------------------------
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "1. Forensic Audit Registry",
@@ -381,7 +458,7 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
 # TAB 1: FORENSIC AUDIT REGISTRY + AUTHORITY INDEX
 # -------------------------------------------------------------
 with tab1:
-    st.subheader(f"Empirical Ingestion Corpus (N = {total_audited} Active Notices)")
+    st.subheader(f"Empirical Ingestion Corpus (N = {total_audited:,} Active Notices)")
     
     f_col1, f_col2 = st.columns([2, 1])
     with f_col1:
@@ -391,7 +468,7 @@ with tab1:
             horizontal=True
         )
     with f_col2:
-        search_query = st.text_input("Search Tender ID or Division:", placeholder="e.g. 2026_CEPWD...")
+        search_query = st.text_input("Search Tender ID or Division:", placeholder="e.g. 2026_PWD...")
 
     df_view = df_filtered.copy()
     if filter_opt == "Show Critical Violations Only":
@@ -435,7 +512,7 @@ with tab1:
     st.download_button(
         "Export Forensic Registry (CSV)", 
         csv_data, 
-        f"forensic_audit_{selected_circle.lower()}_2026.csv", 
+        f"forensic_audit_{selected_district.lower()}_2026.csv", 
         "text/csv"
     )
 
@@ -840,7 +917,7 @@ with tab4:
         st.plotly_chart(fig_curve, use_container_width=True)
 
     # In-Memory Columnar Database (DuckDB Console)
-    if HAS_DUDB := HAS_DUCKDB:
+    if HAS_DUCKDB:
         st.markdown("---")
         st.subheader("Embedded Columnar OLAP Engine (DuckDB)")
         st.caption("Vectorized in-memory SQL execution over statutory procurement records.")
@@ -991,7 +1068,7 @@ Place: {district}, Rajasthan
         st.info("No statutory violations detected in the currently selected filter.")
 
 # -------------------------------------------------------------
-# FOOTER
+# FOOTER (CLEAN RUNTIME STRING - ZERO ANONYMIZATION RISK)
 # -------------------------------------------------------------
 st.markdown("---")
 st.caption("Project TRUTH • STABLE CORE ENGINE v1.0.4 • DEPLOYED RUNTIME STATE")
