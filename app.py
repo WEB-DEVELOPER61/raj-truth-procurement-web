@@ -77,7 +77,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # -------------------------------------------------------------
-# Safe Formatting Helpers
+# Safe Formatting Helpers (Guaranteed No NaN Crashes)
 # -------------------------------------------------------------
 def format_days_safe(x):
     try:
@@ -106,9 +106,10 @@ def format_deficit_safe(x):
 # Dynamic Schema Normalization Engine
 # -------------------------------------------------------------
 def standardize_forensic_dataframe(df, default_district="Jaipur"):
+    """Normalizes arbitrary raw CSVs into the verified forensic schema."""
     df = df.rename(columns={c: str(c).strip().lower() for c in df.columns})
     
-    # Tender ID
+    # 1. Tender ID
     if 'tender_id' not in df.columns:
         for c in df.columns:
             if 'id' in c:
@@ -117,7 +118,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
     if 'tender_id' not in df.columns:
         df['tender_id'] = 'UNKNOWN_ID'
         
-    # Valuation
+    # 2. Valuation
     if 'tender_amount' not in df.columns:
         for c in ['cost', 'amount', 'tender_value', 'value']:
             if c in df.columns:
@@ -127,7 +128,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
             df['tender_amount'] = 2500000.0
     df['tender_amount'] = pd.to_numeric(df['tender_amount'], errors='coerce').fillna(2500000.0)
     
-    # Actual Notice Duration
+    # 3. Actual Notice Duration
     if 'actual_window_days' not in df.columns:
         for c in ['published_duration_days', 'window_days', 'window', 'duration_days', 'duration']:
             if c in df.columns:
@@ -137,7 +138,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
             df['actual_window_days'] = 10
     df['actual_window_days'] = pd.to_numeric(df['actual_window_days'], errors='coerce').fillna(10).astype(int)
 
-    # District & Authority
+    # 4. District & Authority
     if 'district' not in df.columns:
         df['district'] = default_district
     df['district'] = df['district'].fillna(default_district).astype(str).str.capitalize()
@@ -153,7 +154,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
     if 'estimated_cost_lac' not in df.columns:
         df['estimated_cost_lac'] = (df['tender_amount'] / 100000.0).round(2)
         
-    # Statutory Rule 43
+    # 5. Statutory Rule 43 Threshold Computation
     def get_statutory_min(amt):
         if amt <= 1000000.0: return 7
         elif amt <= 5000000.0: return 10
@@ -186,7 +187,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
     else:
         df['risk_score'] = pd.to_numeric(df['risk_score'], errors='coerce').fillna(0.0)
         
-    # Fiscal Quarter (Indian Fiscal Year)
+    # 6. Fiscal Quarter Assignment (Indian Fiscal Year)
     q_labels = ["Q1 (Apr-Jun)", "Q2 (Jul-Sep)", "Q3 (Oct-Dec)", "Q4 (Jan-Mar: March Rush)"]
     if 'fiscal_quarter' not in df.columns:
         date_col = None
@@ -266,11 +267,13 @@ def build_rfc6962_merkle_root(tender_ids):
     return current[0]
 
 # -------------------------------------------------------------
-# Sidebar: Truth Stambh Insignia & Forensic Controls
+# Sidebar: Truth Stambh (Ashoka Lion Capital) & Controls
 # -------------------------------------------------------------
 st.sidebar.markdown("""
 <div class="truth-stambh-box">
-    <div style="font-size: 2.2rem; line-height: 1.2;">🏛️</div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/240px-Emblem_of_India.svg.png" 
+         style="width: 70px; display: block; margin: 0 auto 10px auto; filter: drop-shadow(0px 2px 8px rgba(0,0,0,0.6));" 
+         alt="Lion Capital of Ashoka">
     <div class="truth-stambh-title">TRUTH STAMBH</div>
     <div class="truth-stambh-sub">सत्यमेव जयते • PUBLIC VIGILANCE</div>
 </div>
@@ -543,7 +546,7 @@ with tab3:
     )
     st.plotly_chart(fig_q, use_container_width=True)
 
-# TAB 4: National Scalability Benchmark (RESTORED)
+# TAB 4: National Scalability Benchmark
 with tab4:
     st.subheader("🏛️ National Scalability & High-Throughput Stress Testing")
     st.caption("Demonstrating system performance under Pan-India transaction volumes (GeM & Central CPPP).")
@@ -569,14 +572,12 @@ with tab4:
         if run_benchmark_btn:
             with st.spinner(f"Synthesizing {target_volume:,} public notices and computing cryptographic tree..."):
                 start_time = time.time()
-                # Fast hash vectorization benchmark
                 mock_tids = [f"2026_PAN_INDIA_{i:07d}" for i in range(target_volume)]
                 merkle_start = time.time()
                 root_res = build_rfc6962_merkle_root(mock_tids)
                 merkle_time = time.time() - merkle_start
                 total_duration = time.time() - start_time
                 
-                # Empirical throughput
                 throughput = int(target_volume / total_duration) if total_duration > 0 else 0
                 
                 m1, m2, m3 = st.columns(3)
@@ -589,7 +590,6 @@ with tab4:
         else:
             st.info("Select a transaction volume on the left and click 'Run Scalability Stress Test' to observe real-time latency curves.")
 
-    # Empirical Scalability Curve
     bench_data = pd.DataFrame({
         "Volume (Notices)": [1000, 5000, 10000, 25000, 50000, 100000],
         "Latency (Milliseconds)": [4.2, 18.1, 35.4, 88.7, 172.5, 349.0],
