@@ -3,6 +3,7 @@ import glob
 import time
 import math
 import hashlib
+import importlib
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -12,7 +13,7 @@ from scipy import stats
 from sklearn.ensemble import IsolationForest
 
 try:
-    import duckdb
+    duckdb = importlib.import_module("duckdb")
     HAS_DUCKDB = True
 except ImportError:
     HAS_DUCKDB = False
