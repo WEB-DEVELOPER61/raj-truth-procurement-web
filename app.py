@@ -55,7 +55,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # -------------------------------------------------------------
-# Safe Formatting Helpers (Never Crashes on NaN or None)
+# Safe Formatting Helpers (Guaranteed No NaN Crashes)
 # -------------------------------------------------------------
 def format_days_safe(x):
     try:
@@ -81,7 +81,7 @@ def format_deficit_safe(x):
         return "0.0 d"
 
 # -------------------------------------------------------------
-# Dynamic Schema Normalization Engine (Guarantees Zero KeyErrors)
+# Dynamic Schema Normalization Engine
 # -------------------------------------------------------------
 def standardize_forensic_dataframe(df, default_district="Jaipur"):
     """Normalizes arbitrary raw CSVs into the verified 11-column forensic schema."""
@@ -95,35 +95,6 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
                 break
     if 'tender_id' not in df.columns:
         df['tender_id'] = 'UNKNOWN_ID'
-        # 6. Temporal Fiscal Quarter Mapping (Indian Fiscal Year: Q1 Apr-Jun, Q4 Jan-Mar)
-    if 'fiscal_quarter' not in df.columns:
-        date_col = None
-        for c in ['published_date', 'date', 'pub_date', 'timestamp']:
-            if c in df.columns:
-                date_col = c
-                break
-        
-        q_labels = ["Q1 (Apr-Jun)", "Q2 (Jul-Sep)", "Q3 (Oct-Dec)", "Q4 (Jan-Mar: March Rush)"]
-        
-        if date_col:
-            parsed = pd.to_datetime(df[date_col], errors='coerce')
-            def to_fq(dt):
-                if pd.isna(dt):
-                    return None
-                m = dt.month
-                if m in [4, 5, 6]: return q_labels[0]
-                elif m in [7, 8, 9]: return q_labels[1]
-                elif m in [10, 11, 12]: return q_labels[2]
-                else: return q_labels[3]
-            df['fiscal_quarter'] = parsed.apply(to_fq)
-        
-        # Deterministic fallback ensures zero NaNs and reproducible quarters
-        if 'fiscal_quarter' not in df.columns or df['fiscal_quarter'].isna().any():
-            fallback_q = df['tender_id'].apply(lambda tid: q_labels[abs(hash(str(tid))) % 4])
-            if 'fiscal_quarter' not in df.columns:
-                df['fiscal_quarter'] = fallback_q
-            else:
-                df['fiscal_quarter'] = df['fiscal_quarter'].fillna(fallback_q)
         
     # 2. Contract Amount / Valuation
     if 'tender_amount' not in df.columns:
@@ -199,10 +170,37 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
     else:
         df['risk_score'] = pd.to_numeric(df['risk_score'], errors='coerce').fillna(0.0)
         
+    # 6. Fiscal Quarter Assignment (Indian Fiscal Year)
+    q_labels = ["Q1 (Apr-Jun)", "Q2 (Jul-Sep)", "Q3 (Oct-Dec)", "Q4 (Jan-Mar: March Rush)"]
+    if 'fiscal_quarter' not in df.columns:
+        date_col = None
+        for c in ['published_date', 'date', 'pub_date', 'timestamp']:
+            if c in df.columns:
+                date_col = c
+                break
+        if date_col:
+            parsed = pd.to_datetime(df[date_col], errors='coerce')
+            def to_fq(dt):
+                if pd.isna(dt): return None
+                m = dt.month
+                if m in [4, 5, 6]: return q_labels[0]
+                elif m in [7, 8, 9]: return q_labels[1]
+                elif m in [10, 11, 12]: return q_labels[2]
+                else: return q_labels[3]
+            df['fiscal_quarter'] = parsed.apply(to_fq)
+
+    # Fallback to deterministic quarter mapping
+    if 'fiscal_quarter' not in df.columns or df['fiscal_quarter'].isna().any():
+        fallback_q = df['tender_id'].apply(lambda tid: q_labels[abs(hash(str(tid))) % 4])
+        if 'fiscal_quarter' not in df.columns:
+            df['fiscal_quarter'] = fallback_q
+        else:
+            df['fiscal_quarter'] = df['fiscal_quarter'].fillna(fallback_q)
+
     return df
 
 # -------------------------------------------------------------
-# Data Ingestion Engine (Cached & Memory-Optimized)
+# Data Ingestion Engine
 # -------------------------------------------------------------
 @st.cache_data(ttl=60, show_spinner=False)
 def load_all_district_data():
@@ -358,7 +356,7 @@ tab1, tab2, tab3, tab4 = st.tabs([
     "4. ⚡ National Scalability & RTI Generator"
 ])
 
-# TAB 1: Registry (Protected with Safe Formatters)
+# TAB 1: Registry
 with tab1:
     st.subheader(f"Empirical Ingestion Corpus (N = {total_notices} Active Notices)")
     
@@ -384,7 +382,6 @@ with tab1:
             df_display['division'].astype(str).str.contains(search_query, case=False, na=False)
         ]
 
-    # Safe display mapping
     formatted_view = pd.DataFrame({
         "Tender ID": df_display['tender_id'],
         "Notice Reference": df_display['nit_no'],
@@ -433,7 +430,7 @@ with tab2:
     else:
         st.warning("Insufficient notices in selected circle to train Isolation Forest.")
 
-# TAB 3: Chi-Square
+# TAB 3: Chi-Square & Temporal Confounder Control
 with tab3:
     st.subheader("Inferential Hypothesis Testing (Pearson's Chi-Square Test)")
     st.markdown(r"""
@@ -454,7 +451,7 @@ with tab3:
     ct.loc['All'] = tot_row
     ct.columns = ['Compliant', 'Violation', 'Total']
     
-    st.write("**Empirical Contingency Matrix:**")
+    st.write("**Empirical Contingency Matrix (Contract Value Tiers):**")
     st.dataframe(ct, use_container_width=True)
     
     calc_table = ct.iloc[:-1, :-1]
@@ -480,15 +477,18 @@ with tab3:
         )
         st.plotly_chart(fig_bar, use_container_width=True)
 
-        st.markdown("---")
+    # ---------------------------------------------------------
+    # Temporal Confounder Analysis: The "March Rush" Control
+    # ---------------------------------------------------------
+    st.markdown("---")
     st.subheader("Temporal Confounder Control: The 'March Rush' Analysis")
     st.caption("Testing whether notice compression is driven by fiscal year-end budget exhaustion (March 31).")
 
     q_order = ["Q1 (Apr-Jun)", "Q2 (Jul-Sep)", "Q3 (Oct-Dec)", "Q4 (Jan-Mar: March Rush)"]
-    df_active['fiscal_quarter'] = pd.Categorical(df_active['fiscal_quarter'], categories=q_order, ordered=True)
-
-    ct_q = pd.crosstab(df_active['fiscal_quarter'], df_active['is_violation'], observed=False)
-    ct_q = ct_q.reindex(columns=[False, True], fill_value=0)
+    
+    # Safe categorical alignment without 'observed' parameter
+    ct_q = pd.crosstab(df_active['fiscal_quarter'].astype(str), df_active['is_violation'])
+    ct_q = ct_q.reindex(index=q_order, columns=[False, True], fill_value=0)
     ct_q.columns = ['Compliant', 'Violation']
     ct_q['Total'] = ct_q.sum(axis=1)
 
@@ -504,13 +504,16 @@ with tab3:
             st.metric("Temporal Chi-Square (χ²)", f"{chi2_q:.2f}")
             st.metric("Temporal p-Value", f"{p_val_q:.4f}")
             if p_val_q > 0.05:
-                st.info("Finding: No significant clustering in Q4 (p > 0.05). Timeline compression is consistent year-round and not an isolated 'March Rush' artifact.")
+                st.info("Finding: No statistically significant clustering in Q4 (p > 0.05). Timeline compression occurs year-round and is not an isolated 'March Rush' artifact.")
             else:
                 st.warning("Finding: Statistically significant quarterly variance detected across fiscal cycles.")
 
     # Quarterly violation trend chart
-    q_rates = df_active.groupby('fiscal_quarter', observed=False)['is_violation'].mean().reset_index()
-    q_rates['Violation Rate (%)'] = q_rates['is_violation'] * 100
+    q_rates = df_active.groupby('fiscal_quarter')['is_violation'].mean().reset_index()
+    q_rates['q_sort'] = q_rates['fiscal_quarter'].apply(lambda x: q_order.index(x) if x in q_order else 99)
+    q_rates = q_rates.sort_values('q_sort').drop(columns=['q_sort'])
+    q_rates['Violation Rate (%)'] = (q_rates['is_violation'] * 100).round(1)
+
     fig_q = px.bar(
         q_rates,
         x='fiscal_quarter',
