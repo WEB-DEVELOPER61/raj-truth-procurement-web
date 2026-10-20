@@ -1,454 +1,918 @@
-tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
-2026_MEDIC_KOTA_539031,NIT_69/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,350791.37,3.51,11,2025-09-23
-2026_UIT_KOTA_263052,NIT_92/KOT/2025-26,UIT Kota,Kota,Kota Division,701200.07,7.01,9,2025-05-24
-2026_MEDIC_KOTA_109260,NIT_34/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4583270.26,45.83,16,2025-09-19
-2026_WRD_KOTA_335280,NIT_75/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,386828.02,3.87,9,2025-11-09
-2026_PHED_KOTA_270304,NIT_92/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,3959543.96,39.6,13,2025-12-01
-2026_FORES_KOTA_904989,NIT_63/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,4757145.43,47.57,16,2025-06-23
-2026_UIT_KOTA_554519,NIT_36/KOT/2025-26,UIT Kota,Kota,Kota Division,865252.24,8.65,10,2025-09-18
-2026_UIT_KOTA_231330,NIT_99/KOT/2025-26,UIT Kota,Kota,Kota Division,816048.24,8.16,14,2026-03-26
-2026_DLB_KOTA_374496,NIT_77/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,17052108.34,170.52,15,2026-01-15
-2026_UIT_KOTA_527024,NIT_50/KOT/2025-26,UIT Kota,Kota,Kota Division,851034.45,8.51,9,2026-02-21
-2026_FORES_KOTA_433744,NIT_44/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,377307.93,3.77,8,2025-11-18
-2026_DLB_KOTA_411425,NIT_31/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,901890.46,9.02,10,2025-07-03
-2026_DLB_KOTA_351438,NIT_80/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2013500.62,20.14,18,2025-11-29
-2026_DLB_KOTA_177833,NIT_10/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,4288591.06,42.89,15,2026-02-13
-2026_WRD_KOTA_977346,NIT_78/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,103497510.19,1034.98,30,2025-11-01
-2026_MEDIC_KOTA_140596,NIT_80/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,11533192.33,115.33,6,2025-05-16
-2026_FORES_KOTA_744254,NIT_69/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,274835.25,2.75,12,2025-12-19
-2026_PWD_KOTA_259508,NIT_10/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,565667.83,5.66,13,2025-08-28
-2026_DLB_KOTA_124259,NIT_26/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,571787.49,5.72,10,2025-10-27
-2026_MEDIC_KOTA_478192,NIT_72/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,577305.3,5.77,8,2025-09-25
-2026_UIT_KOTA_891354,NIT_76/KOT/2025-26,UIT Kota,Kota,Kota Division,156431.5,1.56,10,2026-02-07
-2026_UIT_KOTA_658998,NIT_80/KOT/2025-26,UIT Kota,Kota,Kota Division,694073.21,6.94,15,2025-11-07
-2026_MEDIC_KOTA_537865,NIT_70/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,417149.01,4.17,3,2025-11-02
-2026_WRD_KOTA_763321,NIT_98/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,317501.7,3.18,14,2025-07-03
-2026_PWD_KOTA_589620,NIT_94/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,559953.58,5.6,9,2026-01-05
-2026_PHED_KOTA_830269,NIT_68/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,94047152.67,940.47,38,2025-12-18
-2026_UIT_KOTA_802295,NIT_83/KOT/2025-26,UIT Kota,Kota,Kota Division,2296943.92,22.97,14,2025-11-15
-2026_FORES_KOTA_509069,NIT_89/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,41509254.16,415.09,35,2025-05-07
-2026_PWD_KOTA_845896,NIT_56/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,578782.72,5.79,14,2026-01-07
-2026_UIT_KOTA_425508,NIT_86/KOT/2025-26,UIT Kota,Kota,Kota Division,909101.5,9.09,7,2025-05-02
-2026_WRD_KOTA_413850,NIT_27/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,437826.66,4.38,13,2026-02-27
-2026_MEDIC_KOTA_741344,NIT_16/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,794815.71,7.95,7,2025-12-08
-2026_DLB_KOTA_634667,NIT_79/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,359897.53,3.6,12,2026-03-02
-2026_UIT_KOTA_792336,NIT_12/KOT/2025-26,UIT Kota,Kota,Kota Division,118478403.35,1184.78,31,2025-12-29
-2026_PWD_KOTA_403431,NIT_88/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,93426004.92,934.26,33,2025-09-16
-2026_PWD_KOTA_979581,NIT_31/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,489455.6,4.89,15,2025-12-02
-2026_MEDIC_KOTA_136987,NIT_51/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,934041.84,9.34,7,2026-03-09
-2026_FORES_KOTA_569385,NIT_66/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,540152.05,5.4,7,2025-12-29
-2026_FORES_KOTA_677135,NIT_23/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,345862.51,3.46,12,2025-08-17
-2026_PWD_KOTA_120851,NIT_11/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,311301.62,3.11,13,2025-06-19
-2026_PWD_KOTA_864303,NIT_36/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,608735.94,6.09,8,2025-10-23
-2026_WRD_KOTA_188674,NIT_43/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,927067.15,9.27,10,2025-06-15
-2026_MEDIC_KOTA_388432,NIT_30/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,659824.86,6.6,11,2025-04-05
-2026_DLB_KOTA_407266,NIT_52/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,314766.04,3.15,12,2025-06-23
-2026_WRD_KOTA_571076,NIT_87/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,759099.2,7.59,11,2025-05-25
-2026_MEDIC_KOTA_586772,NIT_35/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,416750.25,4.17,15,2026-01-04
-2026_UIT_KOTA_288984,NIT_76/KOT/2025-26,UIT Kota,Kota,Kota Division,57720971.23,577.21,31,2026-02-07
-2026_WRD_KOTA_228823,NIT_30/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,228671.69,2.29,11,2026-02-20
-2026_MEDIC_KOTA_561860,NIT_79/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,14264125.61,142.64,19,2025-10-15
-2026_DLB_KOTA_376058,NIT_17/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,16854797.35,168.55,9,2025-05-26
-2026_WRD_KOTA_326972,NIT_50/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,104447577.11,1044.48,31,2025-04-13
-2026_MEDIC_KOTA_260619,NIT_40/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,1734409.63,17.34,11,2025-06-02
-2026_WRD_KOTA_116095,NIT_76/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4755202.67,47.55,14,2026-03-15
-2026_FORES_KOTA_635381,NIT_63/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,14115505.93,141.16,21,2025-07-21
-2026_WRD_KOTA_451323,NIT_54/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,537346.45,5.37,8,2025-08-23
-2026_WRD_KOTA_953168,NIT_68/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,379078.15,3.79,12,2026-01-13
-2026_DLB_KOTA_654586,NIT_92/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,84521456.67,845.21,31,2025-10-15
-2026_UIT_KOTA_940456,NIT_38/KOT/2025-26,UIT Kota,Kota,Kota Division,2187517.69,21.88,17,2025-11-22
-2026_MEDIC_KOTA_680635,NIT_67/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,44264805.36,442.65,27,2025-05-13
-2026_MEDIC_KOTA_561485,NIT_54/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4685672.19,46.86,15,2025-08-06
-2026_PWD_KOTA_781211,NIT_47/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,16657745.98,166.58,22,2025-08-17
-2026_UIT_KOTA_988909,NIT_95/KOT/2025-26,UIT Kota,Kota,Kota Division,2915731.12,29.16,11,2025-08-08
-2026_UIT_KOTA_997953,NIT_37/KOT/2025-26,UIT Kota,Kota,Kota Division,4544362.42,45.44,12,2025-10-28
-2026_PWD_KOTA_695009,NIT_94/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,252200.59,2.52,9,2026-03-15
-2026_FORES_KOTA_588257,NIT_91/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,13525329.18,135.25,22,2026-03-08
-2026_WRD_KOTA_147437,NIT_43/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,11290094.22,112.9,22,2025-09-04
-2026_FORES_KOTA_943885,NIT_25/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,8825125.79,88.25,20,2025-04-16
-2026_PWD_KOTA_806207,NIT_92/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,3526683.04,35.27,15,2026-02-02
-2026_WRD_KOTA_897645,NIT_88/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,832476.31,8.32,15,2025-10-08
-2026_DLB_KOTA_900600,NIT_98/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,208350.44,2.08,12,2025-05-15
-2026_DLB_KOTA_379691,NIT_42/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,16090948.68,160.91,23,2026-01-19
-2026_WRD_KOTA_862668,NIT_42/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4545503.69,45.46,16,2025-06-20
-2026_UIT_KOTA_187470,NIT_12/KOT/2025-26,UIT Kota,Kota,Kota Division,561460.74,5.61,14,2025-08-12
-2026_MEDIC_KOTA_905537,NIT_55/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,945065.46,9.45,11,2025-06-25
-2026_PWD_KOTA_624563,NIT_48/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,18714690.06,187.15,16,2025-07-29
-2026_UIT_KOTA_700113,NIT_99/KOT/2025-26,UIT Kota,Kota,Kota Division,17943477.23,179.43,15,2025-08-22
-2026_DLB_KOTA_566500,NIT_25/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,12253019.67,122.53,23,2025-10-01
-2026_FORES_KOTA_758037,NIT_59/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1708170.18,17.08,12,2025-08-15
-2026_PWD_KOTA_472851,NIT_21/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,343042.19,3.43,7,2025-05-13
-2026_DLB_KOTA_387448,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,683289.5,6.83,10,2026-02-21
-2026_FORES_KOTA_554137,NIT_43/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,211817.02,2.12,11,2025-05-31
-2026_MEDIC_KOTA_718430,NIT_53/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,5449336.41,54.49,21,2025-08-17
-2026_MEDIC_KOTA_603364,NIT_98/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,788438.78,7.88,14,2026-02-21
-2026_MEDIC_KOTA_921472,NIT_58/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,2228725.5,22.29,13,2026-01-12
-2026_FORES_KOTA_471590,NIT_99/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,948249.1,9.48,14,2025-08-29
-2026_FORES_KOTA_575031,NIT_11/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,932399.62,9.32,13,2025-09-16
-2026_DLB_KOTA_195069,NIT_91/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,11510257.29,115.1,22,2025-11-21
-2026_FORES_KOTA_810219,NIT_18/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,438215.46,4.38,15,2026-02-23
-2026_DLB_KOTA_286891,NIT_82/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,3583194.29,35.83,8,2026-01-01
-2026_UIT_KOTA_698698,NIT_81/KOT/2025-26,UIT Kota,Kota,Kota Division,774236.75,7.74,7,2026-01-31
-2026_PHED_KOTA_630064,NIT_31/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,613141.38,6.13,12,2025-09-08
-2026_UIT_KOTA_836598,NIT_39/KOT/2025-26,UIT Kota,Kota,Kota Division,286518.06,2.87,12,2025-12-14
-2026_DLB_KOTA_674395,NIT_76/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,889680.9,8.9,4,2025-06-08
-2026_PWD_KOTA_247564,NIT_91/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,4580469.05,45.8,16,2025-09-07
-2026_PWD_KOTA_870628,NIT_64/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,768498.1,7.68,13,2026-02-12
-2026_FORES_KOTA_794243,NIT_44/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,420383.13,4.2,10,2025-04-16
-2026_DLB_KOTA_387953,NIT_21/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,322363.09,3.22,8,2026-03-20
-2026_WRD_KOTA_820533,NIT_55/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2024076.63,20.24,12,2025-12-18
-2026_MEDIC_KOTA_594472,NIT_43/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,8109784.68,81.1,17,2026-01-28
-2026_DLB_KOTA_201927,NIT_19/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,870579.82,8.71,14,2025-06-01
-2026_UIT_KOTA_866887,NIT_40/KOT/2025-26,UIT Kota,Kota,Kota Division,3351059.92,33.51,18,2025-07-09
-2026_UIT_KOTA_642350,NIT_85/KOT/2025-26,UIT Kota,Kota,Kota Division,1526565.01,15.27,12,2025-06-06
-2026_FORES_KOTA_962950,NIT_45/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1321940.06,13.22,15,2025-10-25
-2026_DLB_KOTA_307644,NIT_75/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,899935.54,9.0,15,2025-04-07
-2026_WRD_KOTA_557262,NIT_18/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,1080786.67,10.81,11,2025-11-22
-2026_FORES_KOTA_445966,NIT_63/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1746702.41,17.47,12,2025-07-15
-2026_PHED_KOTA_914475,NIT_81/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,1872004.35,18.72,11,2025-06-15
-2026_WRD_KOTA_995889,NIT_63/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,3782080.65,37.82,17,2025-12-11
-2026_FORES_KOTA_916222,NIT_34/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,101567032.31,1015.67,30,2025-04-02
-2026_FORES_KOTA_627881,NIT_48/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,717474.04,7.17,11,2026-01-13
-2026_WRD_KOTA_223353,NIT_57/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,89197745.21,891.98,38,2025-05-23
-2026_PHED_KOTA_990673,NIT_26/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,283429.32,2.83,11,2026-01-17
-2026_WRD_KOTA_387223,NIT_34/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4531947.4,45.32,10,2025-07-06
-2026_PHED_KOTA_450224,NIT_37/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,486673.89,4.87,10,2025-12-24
-2026_FORES_KOTA_109192,NIT_54/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,206663.35,2.07,15,2026-01-29
-2026_WRD_KOTA_907095,NIT_95/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,3808611.6,38.09,18,2025-07-22
-2026_UIT_KOTA_406345,NIT_17/KOT/2025-26,UIT Kota,Kota,Kota Division,4209959.43,42.1,16,2025-11-01
-2026_WRD_KOTA_159104,NIT_46/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,837847.15,8.38,10,2025-12-20
-2026_PHED_KOTA_836359,NIT_77/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,292222.19,2.92,13,2025-12-31
-2026_PWD_KOTA_674945,NIT_58/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,463196.72,4.63,12,2025-06-21
-2026_FORES_KOTA_609718,NIT_22/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,102446096.68,1024.46,36,2025-10-17
-2026_PHED_KOTA_948480,NIT_98/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,15622248.87,156.22,6,2025-09-20
-2026_DLB_KOTA_823366,NIT_58/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,199331.64,1.99,13,2026-02-08
-2026_DLB_KOTA_670177,NIT_84/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,10304314.24,103.04,22,2026-02-13
-2026_DLB_KOTA_258774,NIT_62/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,7041358.87,70.41,22,2025-10-26
-2026_PWD_KOTA_770933,NIT_58/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,666341.55,6.66,13,2026-01-13
-2026_MEDIC_KOTA_794029,NIT_81/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4033733.73,40.34,12,2026-01-04
-2026_PWD_KOTA_103345,NIT_74/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,509705.46,5.1,13,2026-03-03
-2026_MEDIC_KOTA_261336,NIT_24/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4658316.2,46.58,15,2025-12-18
-2026_MEDIC_KOTA_496992,NIT_80/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,166259.13,1.66,13,2025-07-26
-2026_WRD_KOTA_596006,NIT_23/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,887864.67,8.88,8,2025-05-12
-2026_FORES_KOTA_345171,NIT_60/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,343856.67,3.44,14,2025-11-08
-2026_PHED_KOTA_962549,NIT_59/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,153935.87,1.54,10,2025-10-02
-2026_UIT_KOTA_599014,NIT_81/KOT/2025-26,UIT Kota,Kota,Kota Division,9007145.97,90.07,15,2026-01-01
-2026_DLB_KOTA_165024,NIT_18/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,357758.7,3.58,2,2025-10-02
-2026_MEDIC_KOTA_105452,NIT_46/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,465854.81,4.66,14,2025-09-16
-2026_WRD_KOTA_433393,NIT_32/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,10435025.02,104.35,16,2025-09-15
-2026_UIT_KOTA_476793,NIT_68/KOT/2025-26,UIT Kota,Kota,Kota Division,161904.48,1.62,8,2026-02-11
-2026_PWD_KOTA_975485,NIT_68/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,810071.7,8.1,11,2025-09-25
-2026_FORES_KOTA_181144,NIT_69/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,47304350.6,473.04,38,2026-01-08
-2026_FORES_KOTA_179861,NIT_77/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,14769103.99,147.69,15,2026-01-29
-2026_WRD_KOTA_518943,NIT_36/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,688204.26,6.88,11,2025-08-13
-2026_FORES_KOTA_447750,NIT_38/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,270228.91,2.7,8,2025-12-09
-2026_UIT_KOTA_793794,NIT_76/KOT/2025-26,UIT Kota,Kota,Kota Division,46608470.99,466.08,5,2026-02-28
-2026_DLB_KOTA_531542,NIT_22/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,753577.37,7.54,12,2026-01-17
-2026_DLB_KOTA_297082,NIT_20/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,678127.89,6.78,11,2025-07-12
-2026_FORES_KOTA_788805,NIT_84/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,865909.0,8.66,8,2026-02-21
-2026_MEDIC_KOTA_616372,NIT_58/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,360215.53,3.6,10,2025-06-14
-2026_DLB_KOTA_825995,NIT_26/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2705049.35,27.05,11,2025-08-24
-2026_FORES_KOTA_855988,NIT_28/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1406607.65,14.07,14,2025-11-12
-2026_MEDIC_KOTA_167100,NIT_64/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,116625404.87,1166.25,35,2025-09-27
-2026_PHED_KOTA_141209,NIT_78/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2526958.09,25.27,16,2025-11-08
-2026_MEDIC_KOTA_928727,NIT_44/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,257487.92,2.57,7,2025-04-06
-2026_FORES_KOTA_154581,NIT_22/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,782497.97,7.82,11,2025-11-23
-2026_FORES_KOTA_906626,NIT_54/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,65580294.51,655.8,38,2026-03-02
-2026_PWD_KOTA_654888,NIT_23/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,810428.69,8.1,13,2025-04-20
-2026_PHED_KOTA_107029,NIT_83/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,725451.98,7.25,15,2025-11-03
-2026_MEDIC_KOTA_802560,NIT_64/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,5890443.71,58.9,22,2025-09-27
-2026_UIT_KOTA_900937,NIT_67/KOT/2025-26,UIT Kota,Kota,Kota Division,4349106.44,43.49,11,2026-01-12
-2026_WRD_KOTA_201292,NIT_58/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,558307.24,5.58,13,2025-06-29
-2026_PWD_KOTA_422945,NIT_37/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,18804960.88,188.05,16,2026-03-04
-2026_UIT_KOTA_431969,NIT_77/KOT/2025-26,UIT Kota,Kota,Kota Division,30319155.13,303.19,3,2026-01-01
-2026_FORES_KOTA_674985,NIT_33/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,910776.33,9.11,9,2025-10-03
-2026_DLB_KOTA_475866,NIT_94/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,17734789.27,177.35,23,2026-03-11
-2026_PHED_KOTA_307924,NIT_82/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,747562.32,7.48,15,2026-03-18
-2026_PWD_KOTA_765090,NIT_42/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,574522.84,5.75,7,2025-09-09
-2026_UIT_KOTA_577788,NIT_18/KOT/2025-26,UIT Kota,Kota,Kota Division,11620272.3,116.2,22,2025-09-23
-2026_FORES_KOTA_313967,NIT_85/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,107697438.41,1076.97,31,2025-10-06
-2026_PHED_KOTA_110823,NIT_80/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,664959.62,6.65,15,2025-04-26
-2026_FORES_KOTA_237982,NIT_85/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,593460.95,5.93,13,2025-06-25
-2026_MEDIC_KOTA_186802,NIT_60/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,514205.33,5.14,9,2026-03-10
-2026_DLB_KOTA_749679,NIT_58/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,4001164.57,40.01,14,2025-05-07
-2026_UIT_KOTA_105736,NIT_16/KOT/2025-26,UIT Kota,Kota,Kota Division,207724.68,2.08,11,2025-08-18
-2026_MEDIC_KOTA_273341,NIT_17/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,678558.39,6.79,8,2025-04-12
-2026_MEDIC_KOTA_327898,NIT_98/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,537998.8,5.38,15,2026-02-08
-2026_UIT_KOTA_106942,NIT_53/KOT/2025-26,UIT Kota,Kota,Kota Division,871636.32,8.72,15,2025-09-11
-2026_PWD_KOTA_739907,NIT_60/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,941403.51,9.41,11,2025-09-06
-2026_WRD_KOTA_402362,NIT_17/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,10476155.16,104.76,22,2025-11-26
-2026_DLB_KOTA_667388,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,525979.67,5.26,7,2025-07-18
-2026_PHED_KOTA_861950,NIT_38/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,895944.98,8.96,15,2025-05-29
-2026_MEDIC_KOTA_440808,NIT_11/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,5461980.09,54.62,8,2026-03-24
-2026_FORES_KOTA_696295,NIT_98/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,2503905.19,25.04,15,2025-08-16
-2026_PWD_KOTA_715291,NIT_74/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,607097.79,6.07,7,2026-02-02
-2026_MEDIC_KOTA_705335,NIT_86/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,347679.77,3.48,12,2025-09-09
-2026_PHED_KOTA_345485,NIT_58/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2628823.33,26.29,14,2025-07-12
-2026_DLB_KOTA_833677,NIT_67/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,827572.4,8.28,12,2025-11-20
-2026_FORES_KOTA_891666,NIT_78/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,3257659.37,32.58,10,2025-07-09
-2026_UIT_KOTA_654594,NIT_71/KOT/2025-26,UIT Kota,Kota,Kota Division,262216.83,2.62,8,2025-11-25
-2026_MEDIC_KOTA_645554,NIT_31/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,633785.51,6.34,8,2025-08-16
-2026_WRD_KOTA_686739,NIT_67/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,847951.32,8.48,11,2025-11-26
-2026_DLB_KOTA_729208,NIT_94/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,4503875.47,45.04,15,2025-11-27
-2026_PHED_KOTA_497000,NIT_16/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,9106275.17,91.06,15,2026-02-14
-2026_PHED_KOTA_468683,NIT_96/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,269687.08,2.7,15,2025-04-21
-2026_PHED_KOTA_714009,NIT_14/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,604110.62,6.04,7,2025-06-19
-2026_WRD_KOTA_776800,NIT_40/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,883095.9,8.83,11,2026-01-09
-2026_UIT_KOTA_398951,NIT_66/KOT/2025-26,UIT Kota,Kota,Kota Division,895375.24,8.95,9,2025-08-12
-2026_WRD_KOTA_709313,NIT_71/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,11865720.89,118.66,17,2025-11-08
-2026_MEDIC_KOTA_475528,NIT_62/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,402998.32,4.03,7,2025-10-01
-2026_FORES_KOTA_240038,NIT_76/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,9059994.66,90.6,19,2025-08-03
-2026_FORES_KOTA_960864,NIT_48/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1612790.32,16.13,15,2025-06-21
-2026_PHED_KOTA_141410,NIT_39/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,13651017.15,136.51,18,2025-08-05
-2026_PWD_KOTA_782798,NIT_78/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,2453724.51,24.54,17,2025-12-31
-2026_UIT_KOTA_294176,NIT_91/KOT/2025-26,UIT Kota,Kota,Kota Division,489884.0,4.9,11,2025-09-23
-2026_MEDIC_KOTA_962205,NIT_95/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,301569.1,3.02,12,2025-07-05
-2026_PWD_KOTA_410171,NIT_87/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,429823.69,4.3,12,2025-12-01
-2026_UIT_KOTA_512184,NIT_73/KOT/2025-26,UIT Kota,Kota,Kota Division,469249.0,4.69,11,2025-08-23
-2026_PWD_KOTA_992662,NIT_19/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,235750.77,2.36,10,2025-07-01
-2026_UIT_KOTA_150581,NIT_50/KOT/2025-26,UIT Kota,Kota,Kota Division,736763.95,7.37,15,2025-04-03
-2026_PHED_KOTA_600272,NIT_31/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,115239631.77,1152.4,20,2025-12-23
-2026_UIT_KOTA_559653,NIT_81/KOT/2025-26,UIT Kota,Kota,Kota Division,398869.24,3.99,12,2025-04-25
-2026_WRD_KOTA_521066,NIT_81/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,3818713.01,38.19,16,2025-04-27
-2026_DLB_KOTA_363588,NIT_78/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,53860705.14,538.61,37,2025-10-05
-2026_WRD_KOTA_399271,NIT_28/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,7393769.19,73.94,17,2025-09-06
-2026_DLB_KOTA_885204,NIT_33/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,903756.91,9.04,7,2026-03-19
-2026_MEDIC_KOTA_195732,NIT_69/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,276750.08,2.77,12,2025-06-09
-2026_WRD_KOTA_630721,NIT_82/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,328216.27,3.28,9,2025-09-23
-2026_MEDIC_KOTA_504841,NIT_33/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,765349.35,7.65,11,2025-05-23
-2026_FORES_KOTA_188900,NIT_96/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,233718.42,2.34,8,2025-08-05
-2026_MEDIC_KOTA_433723,NIT_24/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,6703035.8,67.03,22,2025-11-07
-2026_UIT_KOTA_284942,NIT_90/KOT/2025-26,UIT Kota,Kota,Kota Division,668942.97,6.69,8,2025-09-18
-2026_WRD_KOTA_916190,NIT_49/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,253253.75,2.53,10,2026-02-23
-2026_WRD_KOTA_815924,NIT_66/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,53834310.4,538.34,34,2025-04-02
-2026_PHED_KOTA_772367,NIT_72/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,673589.08,6.74,7,2025-10-12
-2026_FORES_KOTA_232796,NIT_12/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,630448.69,6.3,14,2025-09-20
-2026_PWD_KOTA_479701,NIT_81/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,3387142.58,33.87,15,2025-06-16
-2026_UIT_KOTA_999420,NIT_37/KOT/2025-26,UIT Kota,Kota,Kota Division,192965.31,1.93,8,2026-03-23
-2026_WRD_KOTA_269189,NIT_48/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2568711.88,25.69,17,2025-05-20
-2026_PWD_KOTA_707879,NIT_84/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,873235.13,8.73,8,2025-06-25
-2026_WRD_KOTA_715108,NIT_56/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,10562432.28,105.62,16,2026-01-31
-2026_PWD_KOTA_228953,NIT_23/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,773575.69,7.74,14,2025-08-15
-2026_UIT_KOTA_252233,NIT_64/KOT/2025-26,UIT Kota,Kota,Kota Division,643135.4,6.43,8,2025-05-16
-2026_DLB_KOTA_820833,NIT_27/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,1829408.92,18.29,16,2025-10-18
-2026_PWD_KOTA_344555,NIT_76/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,154841.93,1.55,10,2025-05-22
-2026_DLB_KOTA_210944,NIT_76/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,930293.65,9.3,7,2025-07-28
-2026_DLB_KOTA_948508,NIT_36/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,794527.18,7.95,11,2025-11-16
-2026_MEDIC_KOTA_260268,NIT_23/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,765907.85,7.66,10,2025-06-14
-2026_FORES_KOTA_641802,NIT_96/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,544292.95,5.44,14,2025-05-12
-2026_MEDIC_KOTA_427858,NIT_59/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,1174810.94,11.75,17,2025-05-29
-2026_WRD_KOTA_658213,NIT_91/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4287819.95,42.88,18,2025-05-05
-2026_WRD_KOTA_838114,NIT_39/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,1738761.91,17.39,10,2026-03-25
-2026_DLB_KOTA_812142,NIT_39/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,770154.8,7.7,12,2025-12-20
-2026_PHED_KOTA_894721,NIT_19/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,868197.79,8.68,9,2025-05-14
-2026_PHED_KOTA_637830,NIT_74/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,3283523.88,32.84,14,2025-04-19
-2026_WRD_KOTA_698488,NIT_58/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,8515948.83,85.16,15,2026-01-02
-2026_FORES_KOTA_984528,NIT_74/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,808582.38,8.09,10,2025-05-21
-2026_PWD_KOTA_677741,NIT_63/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,157293.81,1.57,7,2026-01-23
-2026_FORES_KOTA_217795,NIT_61/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,461980.5,4.62,12,2026-02-23
-2026_PWD_KOTA_983109,NIT_81/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,442945.54,4.43,11,2025-09-15
-2026_WRD_KOTA_452990,NIT_35/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2990884.86,29.91,11,2026-03-16
-2026_PWD_KOTA_745913,NIT_14/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,363729.72,3.64,15,2025-10-03
-2026_DLB_KOTA_430868,NIT_80/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2400940.9,24.01,17,2026-02-10
-2026_DLB_KOTA_949145,NIT_30/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,541701.34,5.42,12,2025-12-25
-2026_UIT_KOTA_184234,NIT_46/KOT/2025-26,UIT Kota,Kota,Kota Division,333885.16,3.34,9,2025-07-08
-2026_UIT_KOTA_869598,NIT_46/KOT/2025-26,UIT Kota,Kota,Kota Division,10016802.67,100.17,17,2025-12-05
-2026_WRD_KOTA_907157,NIT_61/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,682148.94,6.82,9,2026-03-08
-2026_PWD_KOTA_529195,NIT_99/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,530570.46,5.31,12,2025-09-16
-2026_UIT_KOTA_568038,NIT_63/KOT/2025-26,UIT Kota,Kota,Kota Division,21571475.65,215.71,31,2025-11-18
-2026_DLB_KOTA_323710,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,5315307.13,53.15,23,2025-06-04
-2026_PWD_KOTA_634279,NIT_45/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,4756157.86,47.56,18,2026-03-02
-2026_PWD_KOTA_523075,NIT_44/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,822193.31,8.22,12,2026-01-31
-2026_UIT_KOTA_945814,NIT_84/KOT/2025-26,UIT Kota,Kota,Kota Division,492237.47,4.92,15,2025-12-25
-2026_DLB_KOTA_769825,NIT_24/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,82975423.44,829.75,38,2025-12-18
-2026_FORES_KOTA_286787,NIT_34/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,861144.82,8.61,13,2025-04-11
-2026_UIT_KOTA_696913,NIT_57/KOT/2025-26,UIT Kota,Kota,Kota Division,12182840.2,121.83,15,2025-09-18
-2026_WRD_KOTA_628898,NIT_22/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,389411.36,3.89,8,2025-06-19
-2026_PHED_KOTA_487354,NIT_24/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,417644.4,4.18,15,2025-04-22
-2026_MEDIC_KOTA_221305,NIT_56/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,74422453.99,744.22,32,2025-12-27
-2026_MEDIC_KOTA_200253,NIT_17/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,355477.93,3.55,8,2025-04-24
-2026_MEDIC_KOTA_587525,NIT_87/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,684448.68,6.84,9,2026-01-26
-2026_PHED_KOTA_811563,NIT_60/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,897547.17,8.98,11,2025-04-17
-2026_FORES_KOTA_406400,NIT_12/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,749829.8,7.5,10,2025-11-12
-2026_PHED_KOTA_993652,NIT_32/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,456486.17,4.56,7,2025-12-17
-2026_PHED_KOTA_661656,NIT_66/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,897112.78,8.97,15,2026-01-10
-2026_WRD_KOTA_521917,NIT_97/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,701342.0,7.01,13,2025-10-06
-2026_WRD_KOTA_808369,NIT_77/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2640655.38,26.41,12,2026-03-22
-2026_FORES_KOTA_498199,NIT_37/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,862227.95,8.62,12,2025-12-22
-2026_PWD_KOTA_112631,NIT_11/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,84545936.05,845.46,31,2025-10-26
-2026_MEDIC_KOTA_989983,NIT_55/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,591232.27,5.91,8,2025-10-30
-2026_WRD_KOTA_783255,NIT_24/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,1358950.31,13.59,13,2026-02-13
-2026_FORES_KOTA_750752,NIT_35/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,231281.42,2.31,10,2025-04-25
-2026_UIT_KOTA_790487,NIT_94/KOT/2025-26,UIT Kota,Kota,Kota Division,2950286.42,29.5,13,2026-02-14
-2026_DLB_KOTA_617084,NIT_66/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,89561135.23,895.61,31,2026-01-16
-2026_MEDIC_KOTA_458841,NIT_32/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,13260884.46,132.61,20,2025-11-02
-2026_MEDIC_KOTA_411263,NIT_99/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,2432574.91,24.33,11,2025-09-07
-2026_WRD_KOTA_210991,NIT_77/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,543166.87,5.43,8,2025-10-09
-2026_UIT_KOTA_637947,NIT_54/KOT/2025-26,UIT Kota,Kota,Kota Division,16244141.5,162.44,17,2025-04-07
-2026_PHED_KOTA_849408,NIT_23/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,8589400.02,85.89,17,2025-08-22
-2026_DLB_KOTA_328716,NIT_35/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,70558695.03,705.59,32,2026-01-08
-2026_FORES_KOTA_590013,NIT_97/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,319918.04,3.2,11,2025-06-02
-2026_PWD_KOTA_563869,NIT_40/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,96473121.7,964.73,34,2025-10-02
-2026_MEDIC_KOTA_614034,NIT_53/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,590326.43,5.9,15,2025-09-15
-2026_DLB_KOTA_384312,NIT_34/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,318706.46,3.19,13,2025-08-22
-2026_DLB_KOTA_661513,NIT_85/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,469529.47,4.7,12,2025-07-06
-2026_FORES_KOTA_546800,NIT_12/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,814686.74,8.15,10,2025-07-31
-2026_MEDIC_KOTA_668594,NIT_84/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,3817315.36,38.17,10,2026-02-11
-2026_PWD_KOTA_589808,NIT_54/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,5869549.18,58.7,16,2025-10-05
-2026_FORES_KOTA_695271,NIT_83/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,3387581.05,33.88,18,2025-11-30
-2026_PWD_KOTA_378953,NIT_61/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,1528384.52,15.28,15,2026-02-03
-2026_PHED_KOTA_323365,NIT_58/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,553602.09,5.54,10,2025-04-24
-2026_PWD_KOTA_802888,NIT_23/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,4760382.9,47.6,16,2025-04-04
-2026_DLB_KOTA_393305,NIT_20/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,457456.5,4.57,8,2026-03-06
-2026_FORES_KOTA_358118,NIT_53/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,15227964.6,152.28,21,2025-08-01
-2026_UIT_KOTA_175056,NIT_24/KOT/2025-26,UIT Kota,Kota,Kota Division,3179859.53,31.8,12,2025-06-01
-2026_MEDIC_KOTA_359276,NIT_21/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,3661998.77,36.62,18,2025-11-25
-2026_WRD_KOTA_476985,NIT_40/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,426514.41,4.27,14,2026-01-09
-2026_DLB_KOTA_324654,NIT_76/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,9872262.89,98.72,22,2025-06-11
-2026_UIT_KOTA_811990,NIT_61/KOT/2025-26,UIT Kota,Kota,Kota Division,511824.97,5.12,7,2025-07-21
-2026_WRD_KOTA_461752,NIT_75/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,598404.34,5.98,12,2025-07-21
-2026_PHED_KOTA_270340,NIT_50/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2301188.16,23.01,17,2026-03-07
-2026_WRD_KOTA_897470,NIT_79/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,834994.83,8.35,14,2025-10-18
-2026_MEDIC_KOTA_565272,NIT_15/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,9422011.63,94.22,19,2025-08-22
-2026_UIT_KOTA_450731,NIT_94/KOT/2025-26,UIT Kota,Kota,Kota Division,567987.58,5.68,10,2025-12-08
-2026_UIT_KOTA_135526,NIT_26/KOT/2025-26,UIT Kota,Kota,Kota Division,910264.35,9.1,9,2025-08-11
-2026_FORES_KOTA_217884,NIT_75/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,11864728.28,118.65,17,2025-12-25
-2026_FORES_KOTA_864797,NIT_97/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,462119.58,4.62,14,2026-03-17
-2026_PWD_KOTA_366687,NIT_83/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,212578.0,2.13,13,2026-01-11
-2026_FORES_KOTA_991507,NIT_11/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,220932.96,2.21,15,2026-01-11
-2026_WRD_KOTA_205346,NIT_10/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,923623.79,9.24,15,2025-08-17
-2026_FORES_KOTA_256252,NIT_56/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,3409019.82,34.09,10,2025-09-09
-2026_UIT_KOTA_176485,NIT_72/KOT/2025-26,UIT Kota,Kota,Kota Division,641714.05,6.42,9,2025-05-06
-2026_MEDIC_KOTA_206113,NIT_90/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,11749083.7,117.49,16,2025-08-23
-2026_DLB_KOTA_258415,NIT_16/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,3329432.96,33.29,11,2025-11-14
-2026_UIT_KOTA_599664,NIT_62/KOT/2025-26,UIT Kota,Kota,Kota Division,818118.96,8.18,7,2025-04-27
-2026_DLB_KOTA_236455,NIT_13/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,1834307.73,18.34,12,2025-09-23
-2026_UIT_KOTA_915531,NIT_78/KOT/2025-26,UIT Kota,Kota,Kota Division,4252961.73,42.53,17,2025-06-18
-2026_FORES_KOTA_657774,NIT_30/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,561380.1,5.61,14,2025-05-23
-2026_PHED_KOTA_220737,NIT_53/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,525379.33,5.25,7,2026-02-21
-2026_WRD_KOTA_653283,NIT_60/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,589123.03,5.89,15,2025-11-19
-2026_UIT_KOTA_887272,NIT_53/KOT/2025-26,UIT Kota,Kota,Kota Division,1140238.02,11.4,12,2026-03-23
-2026_PWD_KOTA_504110,NIT_98/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,3221374.15,32.21,17,2025-11-28
-2026_DLB_KOTA_574197,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,502143.64,5.02,14,2025-09-16
-2026_MEDIC_KOTA_926193,NIT_40/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,1172657.19,11.73,16,2025-06-01
-2026_FORES_KOTA_577934,NIT_73/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,3061692.4,30.62,14,2025-09-04
-2026_WRD_KOTA_486692,NIT_21/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,3536494.14,35.36,17,2025-04-19
-2026_PHED_KOTA_164124,NIT_35/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2514478.04,25.14,17,2025-07-24
-2026_UIT_KOTA_356737,NIT_86/KOT/2025-26,UIT Kota,Kota,Kota Division,210792.48,2.11,11,2025-07-14
-2026_UIT_KOTA_844372,NIT_15/KOT/2025-26,UIT Kota,Kota,Kota Division,6775000.27,67.75,23,2025-12-01
-2026_WRD_KOTA_289232,NIT_26/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4682031.38,46.82,13,2025-09-15
-2026_PHED_KOTA_415434,NIT_24/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,9205380.05,92.05,15,2025-05-30
-2026_PWD_KOTA_419820,NIT_96/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,597592.21,5.98,3,2025-08-16
-2026_MEDIC_KOTA_624557,NIT_17/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,239465.38,2.39,14,2025-11-03
-2026_PHED_KOTA_571414,NIT_90/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,552256.26,5.52,15,2025-06-20
-2026_UIT_KOTA_432597,NIT_13/KOT/2025-26,UIT Kota,Kota,Kota Division,658225.53,6.58,11,2025-06-10
-2026_WRD_KOTA_863255,NIT_97/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4710143.79,47.1,12,2026-01-24
-2026_UIT_KOTA_996103,NIT_82/KOT/2025-26,UIT Kota,Kota,Kota Division,620436.86,6.2,8,2025-08-09
-2026_PHED_KOTA_108023,NIT_17/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,8917966.22,89.18,6,2025-12-24
-2026_FORES_KOTA_672544,NIT_63/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,4487244.67,44.87,18,2025-09-05
-2026_DLB_KOTA_436219,NIT_83/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2332276.65,23.32,15,2025-10-11
-2026_PWD_KOTA_364672,NIT_12/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,816207.59,8.16,12,2025-08-18
-2026_FORES_KOTA_375962,NIT_13/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,101252443.0,1012.52,30,2025-09-20
-2026_PHED_KOTA_292607,NIT_55/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,12893737.24,128.94,22,2025-08-30
-2026_MEDIC_KOTA_934384,NIT_61/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4700041.52,47.0,12,2025-05-08
-2026_PWD_KOTA_538106,NIT_89/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,872731.59,8.73,10,2025-10-06
-2026_DLB_KOTA_574781,NIT_41/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,620407.54,6.2,15,2025-07-17
-2026_FORES_KOTA_371981,NIT_20/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,298458.13,2.98,7,2025-12-23
-2026_FORES_KOTA_354315,NIT_47/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,433025.63,4.33,7,2025-11-16
-2026_PWD_KOTA_209565,NIT_17/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,914325.88,9.14,9,2026-03-11
-2026_MEDIC_KOTA_509345,NIT_53/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,2736605.12,27.37,17,2025-07-29
-2026_FORES_KOTA_304819,NIT_48/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1321378.55,13.21,12,2025-04-05
-2026_WRD_KOTA_141856,NIT_42/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,728306.56,7.28,12,2025-11-13
-2026_MEDIC_KOTA_386513,NIT_59/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,463947.62,4.64,13,2025-06-13
-2026_UIT_KOTA_561972,NIT_23/KOT/2025-26,UIT Kota,Kota,Kota Division,8023490.48,80.23,16,2025-07-27
-2026_UIT_KOTA_865650,NIT_33/KOT/2025-26,UIT Kota,Kota,Kota Division,467285.95,4.67,10,2025-07-25
-2026_MEDIC_KOTA_999355,NIT_67/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,3053482.04,30.53,17,2025-10-03
-2026_PHED_KOTA_353066,NIT_41/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,429611.19,4.3,11,2026-02-14
-2026_MEDIC_KOTA_791200,NIT_33/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,183243.83,1.83,12,2025-04-18
-2026_PWD_KOTA_736271,NIT_40/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,306565.64,3.07,11,2025-09-03
-2026_PHED_KOTA_805383,NIT_65/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2438503.52,24.39,11,2025-09-14
-2026_PHED_KOTA_264201,NIT_73/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,487104.65,4.87,10,2026-02-18
-2026_MEDIC_KOTA_436324,NIT_65/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,14624035.94,146.24,17,2025-07-19
-2026_DLB_KOTA_917960,NIT_16/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,370588.54,3.71,12,2025-05-22
-2026_PHED_KOTA_208470,NIT_38/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,852904.83,8.53,10,2025-10-27
-2026_DLB_KOTA_177273,NIT_19/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,1778975.69,17.79,18,2026-01-08
-2026_WRD_KOTA_475544,NIT_73/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,884565.57,8.85,12,2025-04-13
-2026_PHED_KOTA_760266,NIT_86/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2751251.64,27.51,18,2026-02-03
-2026_PWD_KOTA_916034,NIT_17/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,211588.31,2.12,8,2026-01-18
-2026_WRD_KOTA_986149,NIT_13/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,439602.4,4.4,15,2026-01-26
-2026_PHED_KOTA_856924,NIT_15/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,3055581.53,30.56,17,2026-01-20
-2026_PWD_KOTA_817748,NIT_15/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,71093658.16,710.94,38,2025-04-22
-2026_MEDIC_KOTA_624239,NIT_48/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,419217.51,4.19,14,2026-02-18
-2026_FORES_KOTA_987178,NIT_40/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,11341230.85,113.41,15,2025-04-19
-2026_MEDIC_KOTA_320363,NIT_14/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,485238.01,4.85,13,2026-02-16
-2026_PWD_KOTA_550019,NIT_16/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,7331857.06,73.32,17,2026-03-25
-2026_UIT_KOTA_192266,NIT_70/KOT/2025-26,UIT Kota,Kota,Kota Division,3125725.51,31.26,12,2026-03-23
-2026_DLB_KOTA_563021,NIT_19/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,823206.08,8.23,7,2026-03-03
-2026_PWD_KOTA_838439,NIT_95/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,594711.55,5.95,12,2025-09-09
-2026_PWD_KOTA_259693,NIT_20/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,313735.19,3.14,10,2025-04-25
-2026_MEDIC_KOTA_360790,NIT_38/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,647430.81,6.47,11,2025-11-08
-2026_PHED_KOTA_281199,NIT_62/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,845772.74,8.46,7,2025-04-18
-2026_UIT_KOTA_830442,NIT_23/KOT/2025-26,UIT Kota,Kota,Kota Division,4128206.65,41.28,12,2025-10-03
-2026_MEDIC_KOTA_204559,NIT_46/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,89411969.03,894.12,33,2025-07-23
-2026_UIT_KOTA_322771,NIT_61/KOT/2025-26,UIT Kota,Kota,Kota Division,530549.2,5.31,13,2025-06-23
-2026_FORES_KOTA_864980,NIT_76/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,164355.16,1.64,12,2025-10-26
-2026_PWD_KOTA_458136,NIT_27/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,4248885.34,42.49,14,2025-04-06
-2026_MEDIC_KOTA_762707,NIT_47/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,12072321.58,120.72,16,2025-04-10
-2026_PWD_KOTA_250419,NIT_66/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,422427.68,4.22,15,2025-10-29
-2026_MEDIC_KOTA_604964,NIT_96/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,547644.59,5.48,8,2025-11-09
-2026_WRD_KOTA_749320,NIT_16/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,250400.01,2.5,15,2025-07-08
-2026_FORES_KOTA_634509,NIT_82/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,498774.47,4.99,10,2026-02-24
-2026_DLB_KOTA_785640,NIT_70/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,878453.99,8.78,13,2025-07-20
-2026_PWD_KOTA_568096,NIT_31/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,721130.67,7.21,14,2025-09-29
-2026_UIT_KOTA_577000,NIT_91/KOT/2025-26,UIT Kota,Kota,Kota Division,323276.52,3.23,15,2025-07-01
-2026_FORES_KOTA_877218,NIT_89/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1451708.43,14.52,11,2025-07-24
-2026_PHED_KOTA_685677,NIT_58/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,754197.59,7.54,9,2025-12-06
-2026_WRD_KOTA_523742,NIT_27/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,277257.04,2.77,9,2025-09-15
-2026_WRD_KOTA_415929,NIT_58/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,871743.05,8.72,10,2026-02-11
-2026_DLB_KOTA_788704,NIT_35/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,15636869.7,156.37,17,2025-10-12
-2026_DLB_KOTA_692667,NIT_23/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,13491871.64,134.92,18,2025-07-10
-2026_PWD_KOTA_290819,NIT_46/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,941035.38,9.41,15,2025-08-11
-2026_UIT_KOTA_383284,NIT_85/KOT/2025-26,UIT Kota,Kota,Kota Division,496036.28,4.96,11,2025-12-30
-2026_FORES_KOTA_954881,NIT_49/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,2746171.51,27.46,16,2025-12-11
-2026_WRD_KOTA_883934,NIT_59/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,607827.89,6.08,15,2025-10-03
-2026_FORES_KOTA_546729,NIT_49/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,669754.47,6.7,7,2026-01-30
-2026_UIT_KOTA_631439,NIT_74/KOT/2025-26,UIT Kota,Kota,Kota Division,629998.08,6.3,8,2025-09-15
-2026_WRD_KOTA_154681,NIT_95/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,10435735.7,104.36,18,2026-03-05
-2026_FORES_KOTA_978590,NIT_55/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,14176948.87,141.77,19,2026-03-14
-2026_FORES_KOTA_149867,NIT_78/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,2372566.89,23.73,15,2025-09-11
-2026_PWD_KOTA_413552,NIT_86/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,443170.99,4.43,9,2026-01-13
-2026_PWD_KOTA_496973,NIT_14/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,15352762.97,153.53,15,2025-09-14
-2026_PHED_KOTA_502885,NIT_67/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,6297858.13,62.98,23,2025-05-07
-2026_MEDIC_KOTA_621154,NIT_59/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,66087892.97,660.88,31,2025-09-03
-2026_MEDIC_KOTA_197101,NIT_29/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,361823.51,3.62,12,2025-11-05
-2026_PWD_KOTA_440058,NIT_95/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,837581.43,8.38,7,2025-10-20
-2026_WRD_KOTA_166194,NIT_50/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2746859.38,27.47,10,2025-07-02
-2026_WRD_KOTA_778292,NIT_96/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,240618.48,2.41,7,2025-09-27
-2026_PHED_KOTA_496014,NIT_29/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,495940.85,4.96,13,2025-08-06
-2026_MEDIC_KOTA_441382,NIT_65/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,630872.67,6.31,10,2025-10-11
-2026_PHED_KOTA_462415,NIT_62/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,14619079.18,146.19,16,2026-01-26
-2026_UIT_KOTA_156848,NIT_23/KOT/2025-26,UIT Kota,Kota,Kota Division,16062710.0,160.63,3,2025-11-29
-2026_MEDIC_KOTA_231601,NIT_96/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,233901.38,2.34,14,2025-11-02
-2026_WRD_KOTA_352094,NIT_94/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,15539719.93,155.4,15,2025-10-20
-2026_DLB_KOTA_474427,NIT_27/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2040336.71,20.4,15,2025-04-11
-2026_DLB_KOTA_927531,NIT_93/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,6167027.79,61.67,17,2025-09-29
-2026_MEDIC_KOTA_873280,NIT_79/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,530884.75,5.31,9,2025-12-20
-2026_DLB_KOTA_470722,NIT_42/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,944089.09,9.44,7,2025-04-12
-2026_WRD_KOTA_514513,NIT_69/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,392298.24,3.92,9,2026-02-26
-2026_MEDIC_KOTA_413756,NIT_95/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,315548.22,3.16,11,2025-08-17
-2026_MEDIC_KOTA_313631,NIT_82/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,1295067.39,12.95,10,2025-04-12
-2026_MEDIC_KOTA_512468,NIT_51/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,692008.24,6.92,14,2026-01-21
-2026_DLB_KOTA_921472,NIT_16/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,48652273.07,486.52,32,2026-02-14
-2026_MEDIC_KOTA_377680,NIT_36/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,268218.15,2.68,13,2025-11-01
-2026_FORES_KOTA_663165,NIT_28/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,603684.65,6.04,10,2025-04-27
-2026_FORES_KOTA_606452,NIT_41/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,738768.9,7.39,10,2025-11-16
-2026_PWD_KOTA_607596,NIT_36/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,375730.4,3.76,13,2025-12-04
-2026_WRD_KOTA_661618,NIT_49/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,936847.42,9.37,7,2026-02-22
-2026_PWD_KOTA_844681,NIT_95/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,3267717.51,32.68,13,2025-11-12
-2026_WRD_KOTA_569009,NIT_82/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,274662.82,2.75,15,2025-10-09
-2026_WRD_KOTA_300077,NIT_19/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2476946.63,24.77,15,2025-04-29
-2026_WRD_KOTA_340362,NIT_48/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4206548.66,42.07,16,2025-11-10
-2026_FORES_KOTA_979108,NIT_24/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,656522.04,6.57,14,2025-05-16
-2026_DLB_KOTA_258724,NIT_40/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,1258986.61,12.59,18,2025-06-19
-2026_MEDIC_KOTA_986186,NIT_74/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,16182697.83,161.83,17,2025-04-23
-2026_PHED_KOTA_851048,NIT_73/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,267512.85,2.68,12,2025-12-02
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+2026_MEDIC_KOTA_539031,NIT_69/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,350791.37,3.51,11.0,2025-09-23,,,,,
+2026_UIT_KOTA_263052,NIT_92/KOT/2025-26,UIT Kota,Kota,Kota Division,701200.07,7.01,9.0,2025-05-24,,,,,
+2026_MEDIC_KOTA_109260,NIT_34/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4583270.26,45.83,16.0,2025-09-19,,,,,
+2026_WRD_KOTA_335280,NIT_75/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,386828.02,3.87,9.0,2025-11-09,,,,,
+2026_PHED_KOTA_270304,NIT_92/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,3959543.96,39.6,13.0,2025-12-01,,,,,
+2026_FORES_KOTA_904989,NIT_63/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,4757145.43,47.57,16.0,2025-06-23,,,,,
+2026_UIT_KOTA_554519,NIT_36/KOT/2025-26,UIT Kota,Kota,Kota Division,865252.24,8.65,10.0,2025-09-18,,,,,
+2026_UIT_KOTA_231330,NIT_99/KOT/2025-26,UIT Kota,Kota,Kota Division,816048.24,8.16,14.0,2026-03-26,,,,,
+2026_DLB_KOTA_374496,NIT_77/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,17052108.34,170.52,15.0,2026-01-15,,,,,
+2026_UIT_KOTA_527024,NIT_50/KOT/2025-26,UIT Kota,Kota,Kota Division,851034.45,8.51,9.0,2026-02-21,,,,,
+2026_FORES_KOTA_433744,NIT_44/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,377307.93,3.77,8.0,2025-11-18,,,,,
+2026_DLB_KOTA_411425,NIT_31/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,901890.46,9.02,10.0,2025-07-03,,,,,
+2026_DLB_KOTA_351438,NIT_80/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2013500.62,20.14,18.0,2025-11-29,,,,,
+2026_DLB_KOTA_177833,NIT_10/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,4288591.06,42.89,15.0,2026-02-13,,,,,
+2026_WRD_KOTA_977346,NIT_78/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,103497510.19,1034.98,30.0,2025-11-01,,,,,
+2026_MEDIC_KOTA_140596,NIT_80/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,11533192.33,115.33,6.0,2025-05-16,,,,,
+2026_FORES_KOTA_744254,NIT_69/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,274835.25,2.75,12.0,2025-12-19,,,,,
+2026_PWD_KOTA_259508,NIT_10/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,565667.83,5.66,13.0,2025-08-28,,,,,
+2026_DLB_KOTA_124259,NIT_26/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,571787.49,5.72,10.0,2025-10-27,,,,,
+2026_MEDIC_KOTA_478192,NIT_72/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,577305.3,5.77,8.0,2025-09-25,,,,,
+2026_UIT_KOTA_891354,NIT_76/KOT/2025-26,UIT Kota,Kota,Kota Division,156431.5,1.56,10.0,2026-02-07,,,,,
+2026_UIT_KOTA_658998,NIT_80/KOT/2025-26,UIT Kota,Kota,Kota Division,694073.21,6.94,15.0,2025-11-07,,,,,
+2026_MEDIC_KOTA_537865,NIT_70/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,417149.01,4.17,3.0,2025-11-02,,,,,
+2026_WRD_KOTA_763321,NIT_98/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,317501.7,3.18,14.0,2025-07-03,,,,,
+2026_PWD_KOTA_589620,NIT_94/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,559953.58,5.6,9.0,2026-01-05,,,,,
+2026_PHED_KOTA_830269,NIT_68/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,94047152.67,940.47,38.0,2025-12-18,,,,,
+2026_UIT_KOTA_802295,NIT_83/KOT/2025-26,UIT Kota,Kota,Kota Division,2296943.92,22.97,14.0,2025-11-15,,,,,
+2026_FORES_KOTA_509069,NIT_89/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,41509254.16,415.09,35.0,2025-05-07,,,,,
+2026_PWD_KOTA_845896,NIT_56/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,578782.72,5.79,14.0,2026-01-07,,,,,
+2026_UIT_KOTA_425508,NIT_86/KOT/2025-26,UIT Kota,Kota,Kota Division,909101.5,9.09,7.0,2025-05-02,,,,,
+2026_WRD_KOTA_413850,NIT_27/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,437826.66,4.38,13.0,2026-02-27,,,,,
+2026_MEDIC_KOTA_741344,NIT_16/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,794815.71,7.95,7.0,2025-12-08,,,,,
+2026_DLB_KOTA_634667,NIT_79/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,359897.53,3.6,12.0,2026-03-02,,,,,
+2026_UIT_KOTA_792336,NIT_12/KOT/2025-26,UIT Kota,Kota,Kota Division,118478403.35,1184.78,31.0,2025-12-29,,,,,
+2026_PWD_KOTA_403431,NIT_88/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,93426004.92,934.26,33.0,2025-09-16,,,,,
+2026_PWD_KOTA_979581,NIT_31/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,489455.6,4.89,15.0,2025-12-02,,,,,
+2026_MEDIC_KOTA_136987,NIT_51/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,934041.84,9.34,7.0,2026-03-09,,,,,
+2026_FORES_KOTA_569385,NIT_66/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,540152.05,5.4,7.0,2025-12-29,,,,,
+2026_FORES_KOTA_677135,NIT_23/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,345862.51,3.46,12.0,2025-08-17,,,,,
+2026_PWD_KOTA_120851,NIT_11/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,311301.62,3.11,13.0,2025-06-19,,,,,
+2026_PWD_KOTA_864303,NIT_36/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,608735.94,6.09,8.0,2025-10-23,,,,,
+2026_WRD_KOTA_188674,NIT_43/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,927067.15,9.27,10.0,2025-06-15,,,,,
+2026_MEDIC_KOTA_388432,NIT_30/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,659824.86,6.6,11.0,2025-04-05,,,,,
+2026_DLB_KOTA_407266,NIT_52/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,314766.04,3.15,12.0,2025-06-23,,,,,
+2026_WRD_KOTA_571076,NIT_87/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,759099.2,7.59,11.0,2025-05-25,,,,,
+2026_MEDIC_KOTA_586772,NIT_35/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,416750.25,4.17,15.0,2026-01-04,,,,,
+2026_UIT_KOTA_288984,NIT_76/KOT/2025-26,UIT Kota,Kota,Kota Division,57720971.23,577.21,31.0,2026-02-07,,,,,
+2026_WRD_KOTA_228823,NIT_30/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,228671.69,2.29,11.0,2026-02-20,,,,,
+2026_MEDIC_KOTA_561860,NIT_79/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,14264125.61,142.64,19.0,2025-10-15,,,,,
+2026_DLB_KOTA_376058,NIT_17/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,16854797.35,168.55,9.0,2025-05-26,,,,,
+2026_WRD_KOTA_326972,NIT_50/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,104447577.11,1044.48,31.0,2025-04-13,,,,,
+2026_MEDIC_KOTA_260619,NIT_40/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,1734409.63,17.34,11.0,2025-06-02,,,,,
+2026_WRD_KOTA_116095,NIT_76/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4755202.67,47.55,14.0,2026-03-15,,,,,
+2026_FORES_KOTA_635381,NIT_63/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,14115505.93,141.16,21.0,2025-07-21,,,,,
+2026_WRD_KOTA_451323,NIT_54/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,537346.45,5.37,8.0,2025-08-23,,,,,
+2026_WRD_KOTA_953168,NIT_68/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,379078.15,3.79,12.0,2026-01-13,,,,,
+2026_DLB_KOTA_654586,NIT_92/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,84521456.67,845.21,31.0,2025-10-15,,,,,
+2026_UIT_KOTA_940456,NIT_38/KOT/2025-26,UIT Kota,Kota,Kota Division,2187517.69,21.88,17.0,2025-11-22,,,,,
+2026_MEDIC_KOTA_680635,NIT_67/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,44264805.36,442.65,27.0,2025-05-13,,,,,
+2026_MEDIC_KOTA_561485,NIT_54/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4685672.19,46.86,15.0,2025-08-06,,,,,
+2026_PWD_KOTA_781211,NIT_47/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,16657745.98,166.58,22.0,2025-08-17,,,,,
+2026_UIT_KOTA_988909,NIT_95/KOT/2025-26,UIT Kota,Kota,Kota Division,2915731.12,29.16,11.0,2025-08-08,,,,,
+2026_UIT_KOTA_997953,NIT_37/KOT/2025-26,UIT Kota,Kota,Kota Division,4544362.42,45.44,12.0,2025-10-28,,,,,
+2026_PWD_KOTA_695009,NIT_94/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,252200.59,2.52,9.0,2026-03-15,,,,,
+2026_FORES_KOTA_588257,NIT_91/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,13525329.18,135.25,22.0,2026-03-08,,,,,
+2026_WRD_KOTA_147437,NIT_43/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,11290094.22,112.9,22.0,2025-09-04,,,,,
+2026_FORES_KOTA_943885,NIT_25/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,8825125.79,88.25,20.0,2025-04-16,,,,,
+2026_PWD_KOTA_806207,NIT_92/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,3526683.04,35.27,15.0,2026-02-02,,,,,
+2026_WRD_KOTA_897645,NIT_88/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,832476.31,8.32,15.0,2025-10-08,,,,,
+2026_DLB_KOTA_900600,NIT_98/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,208350.44,2.08,12.0,2025-05-15,,,,,
+2026_DLB_KOTA_379691,NIT_42/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,16090948.68,160.91,23.0,2026-01-19,,,,,
+2026_WRD_KOTA_862668,NIT_42/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4545503.69,45.46,16.0,2025-06-20,,,,,
+2026_UIT_KOTA_187470,NIT_12/KOT/2025-26,UIT Kota,Kota,Kota Division,561460.74,5.61,14.0,2025-08-12,,,,,
+2026_MEDIC_KOTA_905537,NIT_55/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,945065.46,9.45,11.0,2025-06-25,,,,,
+2026_PWD_KOTA_624563,NIT_48/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,18714690.06,187.15,16.0,2025-07-29,,,,,
+2026_UIT_KOTA_700113,NIT_99/KOT/2025-26,UIT Kota,Kota,Kota Division,17943477.23,179.43,15.0,2025-08-22,,,,,
+2026_DLB_KOTA_566500,NIT_25/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,12253019.67,122.53,23.0,2025-10-01,,,,,
+2026_FORES_KOTA_758037,NIT_59/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1708170.18,17.08,12.0,2025-08-15,,,,,
+2026_PWD_KOTA_472851,NIT_21/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,343042.19,3.43,7.0,2025-05-13,,,,,
+2026_DLB_KOTA_387448,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,683289.5,6.83,10.0,2026-02-21,,,,,
+2026_FORES_KOTA_554137,NIT_43/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,211817.02,2.12,11.0,2025-05-31,,,,,
+2026_MEDIC_KOTA_718430,NIT_53/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,5449336.41,54.49,21.0,2025-08-17,,,,,
+2026_MEDIC_KOTA_603364,NIT_98/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,788438.78,7.88,14.0,2026-02-21,,,,,
+2026_MEDIC_KOTA_921472,NIT_58/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,2228725.5,22.29,13.0,2026-01-12,,,,,
+2026_FORES_KOTA_471590,NIT_99/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,948249.1,9.48,14.0,2025-08-29,,,,,
+2026_FORES_KOTA_575031,NIT_11/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,932399.62,9.32,13.0,2025-09-16,,,,,
+2026_DLB_KOTA_195069,NIT_91/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,11510257.29,115.1,22.0,2025-11-21,,,,,
+2026_FORES_KOTA_810219,NIT_18/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,438215.46,4.38,15.0,2026-02-23,,,,,
+2026_DLB_KOTA_286891,NIT_82/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,3583194.29,35.83,8.0,2026-01-01,,,,,
+2026_UIT_KOTA_698698,NIT_81/KOT/2025-26,UIT Kota,Kota,Kota Division,774236.75,7.74,7.0,2026-01-31,,,,,
+2026_PHED_KOTA_630064,NIT_31/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,613141.38,6.13,12.0,2025-09-08,,,,,
+2026_UIT_KOTA_836598,NIT_39/KOT/2025-26,UIT Kota,Kota,Kota Division,286518.06,2.87,12.0,2025-12-14,,,,,
+2026_DLB_KOTA_674395,NIT_76/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,889680.9,8.9,4.0,2025-06-08,,,,,
+2026_PWD_KOTA_247564,NIT_91/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,4580469.05,45.8,16.0,2025-09-07,,,,,
+2026_PWD_KOTA_870628,NIT_64/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,768498.1,7.68,13.0,2026-02-12,,,,,
+2026_FORES_KOTA_794243,NIT_44/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,420383.13,4.2,10.0,2025-04-16,,,,,
+2026_DLB_KOTA_387953,NIT_21/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,322363.09,3.22,8.0,2026-03-20,,,,,
+2026_WRD_KOTA_820533,NIT_55/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2024076.63,20.24,12.0,2025-12-18,,,,,
+2026_MEDIC_KOTA_594472,NIT_43/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,8109784.68,81.1,17.0,2026-01-28,,,,,
+2026_DLB_KOTA_201927,NIT_19/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,870579.82,8.71,14.0,2025-06-01,,,,,
+2026_UIT_KOTA_866887,NIT_40/KOT/2025-26,UIT Kota,Kota,Kota Division,3351059.92,33.51,18.0,2025-07-09,,,,,
+2026_UIT_KOTA_642350,NIT_85/KOT/2025-26,UIT Kota,Kota,Kota Division,1526565.01,15.27,12.0,2025-06-06,,,,,
+2026_FORES_KOTA_962950,NIT_45/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1321940.06,13.22,15.0,2025-10-25,,,,,
+2026_DLB_KOTA_307644,NIT_75/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,899935.54,9.0,15.0,2025-04-07,,,,,
+2026_WRD_KOTA_557262,NIT_18/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,1080786.67,10.81,11.0,2025-11-22,,,,,
+2026_FORES_KOTA_445966,NIT_63/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1746702.41,17.47,12.0,2025-07-15,,,,,
+2026_PHED_KOTA_914475,NIT_81/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,1872004.35,18.72,11.0,2025-06-15,,,,,
+2026_WRD_KOTA_995889,NIT_63/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,3782080.65,37.82,17.0,2025-12-11,,,,,
+2026_FORES_KOTA_916222,NIT_34/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,101567032.31,1015.67,30.0,2025-04-02,,,,,
+2026_FORES_KOTA_627881,NIT_48/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,717474.04,7.17,11.0,2026-01-13,,,,,
+2026_WRD_KOTA_223353,NIT_57/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,89197745.21,891.98,38.0,2025-05-23,,,,,
+2026_PHED_KOTA_990673,NIT_26/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,283429.32,2.83,11.0,2026-01-17,,,,,
+2026_WRD_KOTA_387223,NIT_34/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4531947.4,45.32,10.0,2025-07-06,,,,,
+2026_PHED_KOTA_450224,NIT_37/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,486673.89,4.87,10.0,2025-12-24,,,,,
+2026_FORES_KOTA_109192,NIT_54/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,206663.35,2.07,15.0,2026-01-29,,,,,
+2026_WRD_KOTA_907095,NIT_95/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,3808611.6,38.09,18.0,2025-07-22,,,,,
+2026_UIT_KOTA_406345,NIT_17/KOT/2025-26,UIT Kota,Kota,Kota Division,4209959.43,42.1,16.0,2025-11-01,,,,,
+2026_WRD_KOTA_159104,NIT_46/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,837847.15,8.38,10.0,2025-12-20,,,,,
+2026_PHED_KOTA_836359,NIT_77/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,292222.19,2.92,13.0,2025-12-31,,,,,
+2026_PWD_KOTA_674945,NIT_58/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,463196.72,4.63,12.0,2025-06-21,,,,,
+2026_FORES_KOTA_609718,NIT_22/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,102446096.68,1024.46,36.0,2025-10-17,,,,,
+2026_PHED_KOTA_948480,NIT_98/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,15622248.87,156.22,6.0,2025-09-20,,,,,
+2026_DLB_KOTA_823366,NIT_58/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,199331.64,1.99,13.0,2026-02-08,,,,,
+2026_DLB_KOTA_670177,NIT_84/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,10304314.24,103.04,22.0,2026-02-13,,,,,
+2026_DLB_KOTA_258774,NIT_62/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,7041358.87,70.41,22.0,2025-10-26,,,,,
+2026_PWD_KOTA_770933,NIT_58/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,666341.55,6.66,13.0,2026-01-13,,,,,
+2026_MEDIC_KOTA_794029,NIT_81/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4033733.73,40.34,12.0,2026-01-04,,,,,
+2026_PWD_KOTA_103345,NIT_74/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,509705.46,5.1,13.0,2026-03-03,,,,,
+2026_MEDIC_KOTA_261336,NIT_24/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4658316.2,46.58,15.0,2025-12-18,,,,,
+2026_MEDIC_KOTA_496992,NIT_80/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,166259.13,1.66,13.0,2025-07-26,,,,,
+2026_WRD_KOTA_596006,NIT_23/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,887864.67,8.88,8.0,2025-05-12,,,,,
+2026_FORES_KOTA_345171,NIT_60/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,343856.67,3.44,14.0,2025-11-08,,,,,
+2026_PHED_KOTA_962549,NIT_59/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,153935.87,1.54,10.0,2025-10-02,,,,,
+2026_UIT_KOTA_599014,NIT_81/KOT/2025-26,UIT Kota,Kota,Kota Division,9007145.97,90.07,15.0,2026-01-01,,,,,
+2026_DLB_KOTA_165024,NIT_18/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,357758.7,3.58,2.0,2025-10-02,,,,,
+2026_MEDIC_KOTA_105452,NIT_46/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,465854.81,4.66,14.0,2025-09-16,,,,,
+2026_WRD_KOTA_433393,NIT_32/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,10435025.02,104.35,16.0,2025-09-15,,,,,
+2026_UIT_KOTA_476793,NIT_68/KOT/2025-26,UIT Kota,Kota,Kota Division,161904.48,1.62,8.0,2026-02-11,,,,,
+2026_PWD_KOTA_975485,NIT_68/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,810071.7,8.1,11.0,2025-09-25,,,,,
+2026_FORES_KOTA_181144,NIT_69/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,47304350.6,473.04,38.0,2026-01-08,,,,,
+2026_FORES_KOTA_179861,NIT_77/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,14769103.99,147.69,15.0,2026-01-29,,,,,
+2026_WRD_KOTA_518943,NIT_36/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,688204.26,6.88,11.0,2025-08-13,,,,,
+2026_FORES_KOTA_447750,NIT_38/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,270228.91,2.7,8.0,2025-12-09,,,,,
+2026_UIT_KOTA_793794,NIT_76/KOT/2025-26,UIT Kota,Kota,Kota Division,46608470.99,466.08,5.0,2026-02-28,,,,,
+2026_DLB_KOTA_531542,NIT_22/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,753577.37,7.54,12.0,2026-01-17,,,,,
+2026_DLB_KOTA_297082,NIT_20/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,678127.89,6.78,11.0,2025-07-12,,,,,
+2026_FORES_KOTA_788805,NIT_84/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,865909.0,8.66,8.0,2026-02-21,,,,,
+2026_MEDIC_KOTA_616372,NIT_58/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,360215.53,3.6,10.0,2025-06-14,,,,,
+2026_DLB_KOTA_825995,NIT_26/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2705049.35,27.05,11.0,2025-08-24,,,,,
+2026_FORES_KOTA_855988,NIT_28/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1406607.65,14.07,14.0,2025-11-12,,,,,
+2026_MEDIC_KOTA_167100,NIT_64/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,116625404.87,1166.25,35.0,2025-09-27,,,,,
+2026_PHED_KOTA_141209,NIT_78/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2526958.09,25.27,16.0,2025-11-08,,,,,
+2026_MEDIC_KOTA_928727,NIT_44/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,257487.92,2.57,7.0,2025-04-06,,,,,
+2026_FORES_KOTA_154581,NIT_22/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,782497.97,7.82,11.0,2025-11-23,,,,,
+2026_FORES_KOTA_906626,NIT_54/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,65580294.51,655.8,38.0,2026-03-02,,,,,
+2026_PWD_KOTA_654888,NIT_23/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,810428.69,8.1,13.0,2025-04-20,,,,,
+2026_PHED_KOTA_107029,NIT_83/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,725451.98,7.25,15.0,2025-11-03,,,,,
+2026_MEDIC_KOTA_802560,NIT_64/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,5890443.71,58.9,22.0,2025-09-27,,,,,
+2026_UIT_KOTA_900937,NIT_67/KOT/2025-26,UIT Kota,Kota,Kota Division,4349106.44,43.49,11.0,2026-01-12,,,,,
+2026_WRD_KOTA_201292,NIT_58/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,558307.24,5.58,13.0,2025-06-29,,,,,
+2026_PWD_KOTA_422945,NIT_37/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,18804960.88,188.05,16.0,2026-03-04,,,,,
+2026_UIT_KOTA_431969,NIT_77/KOT/2025-26,UIT Kota,Kota,Kota Division,30319155.13,303.19,3.0,2026-01-01,,,,,
+2026_FORES_KOTA_674985,NIT_33/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,910776.33,9.11,9.0,2025-10-03,,,,,
+2026_DLB_KOTA_475866,NIT_94/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,17734789.27,177.35,23.0,2026-03-11,,,,,
+2026_PHED_KOTA_307924,NIT_82/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,747562.32,7.48,15.0,2026-03-18,,,,,
+2026_PWD_KOTA_765090,NIT_42/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,574522.84,5.75,7.0,2025-09-09,,,,,
+2026_UIT_KOTA_577788,NIT_18/KOT/2025-26,UIT Kota,Kota,Kota Division,11620272.3,116.2,22.0,2025-09-23,,,,,
+2026_FORES_KOTA_313967,NIT_85/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,107697438.41,1076.97,31.0,2025-10-06,,,,,
+2026_PHED_KOTA_110823,NIT_80/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,664959.62,6.65,15.0,2025-04-26,,,,,
+2026_FORES_KOTA_237982,NIT_85/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,593460.95,5.93,13.0,2025-06-25,,,,,
+2026_MEDIC_KOTA_186802,NIT_60/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,514205.33,5.14,9.0,2026-03-10,,,,,
+2026_DLB_KOTA_749679,NIT_58/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,4001164.57,40.01,14.0,2025-05-07,,,,,
+2026_UIT_KOTA_105736,NIT_16/KOT/2025-26,UIT Kota,Kota,Kota Division,207724.68,2.08,11.0,2025-08-18,,,,,
+2026_MEDIC_KOTA_273341,NIT_17/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,678558.39,6.79,8.0,2025-04-12,,,,,
+2026_MEDIC_KOTA_327898,NIT_98/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,537998.8,5.38,15.0,2026-02-08,,,,,
+2026_UIT_KOTA_106942,NIT_53/KOT/2025-26,UIT Kota,Kota,Kota Division,871636.32,8.72,15.0,2025-09-11,,,,,
+2026_PWD_KOTA_739907,NIT_60/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,941403.51,9.41,11.0,2025-09-06,,,,,
+2026_WRD_KOTA_402362,NIT_17/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,10476155.16,104.76,22.0,2025-11-26,,,,,
+2026_DLB_KOTA_667388,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,525979.67,5.26,7.0,2025-07-18,,,,,
+2026_PHED_KOTA_861950,NIT_38/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,895944.98,8.96,15.0,2025-05-29,,,,,
+2026_MEDIC_KOTA_440808,NIT_11/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,5461980.09,54.62,8.0,2026-03-24,,,,,
+2026_FORES_KOTA_696295,NIT_98/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,2503905.19,25.04,15.0,2025-08-16,,,,,
+2026_PWD_KOTA_715291,NIT_74/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,607097.79,6.07,7.0,2026-02-02,,,,,
+2026_MEDIC_KOTA_705335,NIT_86/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,347679.77,3.48,12.0,2025-09-09,,,,,
+2026_PHED_KOTA_345485,NIT_58/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2628823.33,26.29,14.0,2025-07-12,,,,,
+2026_DLB_KOTA_833677,NIT_67/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,827572.4,8.28,12.0,2025-11-20,,,,,
+2026_FORES_KOTA_891666,NIT_78/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,3257659.37,32.58,10.0,2025-07-09,,,,,
+2026_UIT_KOTA_654594,NIT_71/KOT/2025-26,UIT Kota,Kota,Kota Division,262216.83,2.62,8.0,2025-11-25,,,,,
+2026_MEDIC_KOTA_645554,NIT_31/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,633785.51,6.34,8.0,2025-08-16,,,,,
+2026_WRD_KOTA_686739,NIT_67/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,847951.32,8.48,11.0,2025-11-26,,,,,
+2026_DLB_KOTA_729208,NIT_94/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,4503875.47,45.04,15.0,2025-11-27,,,,,
+2026_PHED_KOTA_497000,NIT_16/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,9106275.17,91.06,15.0,2026-02-14,,,,,
+2026_PHED_KOTA_468683,NIT_96/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,269687.08,2.7,15.0,2025-04-21,,,,,
+2026_PHED_KOTA_714009,NIT_14/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,604110.62,6.04,7.0,2025-06-19,,,,,
+2026_WRD_KOTA_776800,NIT_40/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,883095.9,8.83,11.0,2026-01-09,,,,,
+2026_UIT_KOTA_398951,NIT_66/KOT/2025-26,UIT Kota,Kota,Kota Division,895375.24,8.95,9.0,2025-08-12,,,,,
+2026_WRD_KOTA_709313,NIT_71/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,11865720.89,118.66,17.0,2025-11-08,,,,,
+2026_MEDIC_KOTA_475528,NIT_62/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,402998.32,4.03,7.0,2025-10-01,,,,,
+2026_FORES_KOTA_240038,NIT_76/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,9059994.66,90.6,19.0,2025-08-03,,,,,
+2026_FORES_KOTA_960864,NIT_48/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1612790.32,16.13,15.0,2025-06-21,,,,,
+2026_PHED_KOTA_141410,NIT_39/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,13651017.15,136.51,18.0,2025-08-05,,,,,
+2026_PWD_KOTA_782798,NIT_78/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,2453724.51,24.54,17.0,2025-12-31,,,,,
+2026_UIT_KOTA_294176,NIT_91/KOT/2025-26,UIT Kota,Kota,Kota Division,489884.0,4.9,11.0,2025-09-23,,,,,
+2026_MEDIC_KOTA_962205,NIT_95/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,301569.1,3.02,12.0,2025-07-05,,,,,
+2026_PWD_KOTA_410171,NIT_87/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,429823.69,4.3,12.0,2025-12-01,,,,,
+2026_UIT_KOTA_512184,NIT_73/KOT/2025-26,UIT Kota,Kota,Kota Division,469249.0,4.69,11.0,2025-08-23,,,,,
+2026_PWD_KOTA_992662,NIT_19/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,235750.77,2.36,10.0,2025-07-01,,,,,
+2026_UIT_KOTA_150581,NIT_50/KOT/2025-26,UIT Kota,Kota,Kota Division,736763.95,7.37,15.0,2025-04-03,,,,,
+2026_PHED_KOTA_600272,NIT_31/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,115239631.77,1152.4,20.0,2025-12-23,,,,,
+2026_UIT_KOTA_559653,NIT_81/KOT/2025-26,UIT Kota,Kota,Kota Division,398869.24,3.99,12.0,2025-04-25,,,,,
+2026_WRD_KOTA_521066,NIT_81/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,3818713.01,38.19,16.0,2025-04-27,,,,,
+2026_DLB_KOTA_363588,NIT_78/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,53860705.14,538.61,37.0,2025-10-05,,,,,
+2026_WRD_KOTA_399271,NIT_28/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,7393769.19,73.94,17.0,2025-09-06,,,,,
+2026_DLB_KOTA_885204,NIT_33/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,903756.91,9.04,7.0,2026-03-19,,,,,
+2026_MEDIC_KOTA_195732,NIT_69/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,276750.08,2.77,12.0,2025-06-09,,,,,
+2026_WRD_KOTA_630721,NIT_82/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,328216.27,3.28,9.0,2025-09-23,,,,,
+2026_MEDIC_KOTA_504841,NIT_33/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,765349.35,7.65,11.0,2025-05-23,,,,,
+2026_FORES_KOTA_188900,NIT_96/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,233718.42,2.34,8.0,2025-08-05,,,,,
+2026_MEDIC_KOTA_433723,NIT_24/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,6703035.8,67.03,22.0,2025-11-07,,,,,
+2026_UIT_KOTA_284942,NIT_90/KOT/2025-26,UIT Kota,Kota,Kota Division,668942.97,6.69,8.0,2025-09-18,,,,,
+2026_WRD_KOTA_916190,NIT_49/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,253253.75,2.53,10.0,2026-02-23,,,,,
+2026_WRD_KOTA_815924,NIT_66/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,53834310.4,538.34,34.0,2025-04-02,,,,,
+2026_PHED_KOTA_772367,NIT_72/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,673589.08,6.74,7.0,2025-10-12,,,,,
+2026_FORES_KOTA_232796,NIT_12/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,630448.69,6.3,14.0,2025-09-20,,,,,
+2026_PWD_KOTA_479701,NIT_81/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,3387142.58,33.87,15.0,2025-06-16,,,,,
+2026_UIT_KOTA_999420,NIT_37/KOT/2025-26,UIT Kota,Kota,Kota Division,192965.31,1.93,8.0,2026-03-23,,,,,
+2026_WRD_KOTA_269189,NIT_48/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2568711.88,25.69,17.0,2025-05-20,,,,,
+2026_PWD_KOTA_707879,NIT_84/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,873235.13,8.73,8.0,2025-06-25,,,,,
+2026_WRD_KOTA_715108,NIT_56/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,10562432.28,105.62,16.0,2026-01-31,,,,,
+2026_PWD_KOTA_228953,NIT_23/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,773575.69,7.74,14.0,2025-08-15,,,,,
+2026_UIT_KOTA_252233,NIT_64/KOT/2025-26,UIT Kota,Kota,Kota Division,643135.4,6.43,8.0,2025-05-16,,,,,
+2026_DLB_KOTA_820833,NIT_27/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,1829408.92,18.29,16.0,2025-10-18,,,,,
+2026_PWD_KOTA_344555,NIT_76/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,154841.93,1.55,10.0,2025-05-22,,,,,
+2026_DLB_KOTA_210944,NIT_76/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,930293.65,9.3,7.0,2025-07-28,,,,,
+2026_DLB_KOTA_948508,NIT_36/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,794527.18,7.95,11.0,2025-11-16,,,,,
+2026_MEDIC_KOTA_260268,NIT_23/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,765907.85,7.66,10.0,2025-06-14,,,,,
+2026_FORES_KOTA_641802,NIT_96/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,544292.95,5.44,14.0,2025-05-12,,,,,
+2026_MEDIC_KOTA_427858,NIT_59/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,1174810.94,11.75,17.0,2025-05-29,,,,,
+2026_WRD_KOTA_658213,NIT_91/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4287819.95,42.88,18.0,2025-05-05,,,,,
+2026_WRD_KOTA_838114,NIT_39/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,1738761.91,17.39,10.0,2026-03-25,,,,,
+2026_DLB_KOTA_812142,NIT_39/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,770154.8,7.7,12.0,2025-12-20,,,,,
+2026_PHED_KOTA_894721,NIT_19/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,868197.79,8.68,9.0,2025-05-14,,,,,
+2026_PHED_KOTA_637830,NIT_74/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,3283523.88,32.84,14.0,2025-04-19,,,,,
+2026_WRD_KOTA_698488,NIT_58/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,8515948.83,85.16,15.0,2026-01-02,,,,,
+2026_FORES_KOTA_984528,NIT_74/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,808582.38,8.09,10.0,2025-05-21,,,,,
+2026_PWD_KOTA_677741,NIT_63/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,157293.81,1.57,7.0,2026-01-23,,,,,
+2026_FORES_KOTA_217795,NIT_61/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,461980.5,4.62,12.0,2026-02-23,,,,,
+2026_PWD_KOTA_983109,NIT_81/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,442945.54,4.43,11.0,2025-09-15,,,,,
+2026_WRD_KOTA_452990,NIT_35/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2990884.86,29.91,11.0,2026-03-16,,,,,
+2026_PWD_KOTA_745913,NIT_14/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,363729.72,3.64,15.0,2025-10-03,,,,,
+2026_DLB_KOTA_430868,NIT_80/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2400940.9,24.01,17.0,2026-02-10,,,,,
+2026_DLB_KOTA_949145,NIT_30/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,541701.34,5.42,12.0,2025-12-25,,,,,
+2026_UIT_KOTA_184234,NIT_46/KOT/2025-26,UIT Kota,Kota,Kota Division,333885.16,3.34,9.0,2025-07-08,,,,,
+2026_UIT_KOTA_869598,NIT_46/KOT/2025-26,UIT Kota,Kota,Kota Division,10016802.67,100.17,17.0,2025-12-05,,,,,
+2026_WRD_KOTA_907157,NIT_61/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,682148.94,6.82,9.0,2026-03-08,,,,,
+2026_PWD_KOTA_529195,NIT_99/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,530570.46,5.31,12.0,2025-09-16,,,,,
+2026_UIT_KOTA_568038,NIT_63/KOT/2025-26,UIT Kota,Kota,Kota Division,21571475.65,215.71,31.0,2025-11-18,,,,,
+2026_DLB_KOTA_323710,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,5315307.13,53.15,23.0,2025-06-04,,,,,
+2026_PWD_KOTA_634279,NIT_45/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,4756157.86,47.56,18.0,2026-03-02,,,,,
+2026_PWD_KOTA_523075,NIT_44/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,822193.31,8.22,12.0,2026-01-31,,,,,
+2026_UIT_KOTA_945814,NIT_84/KOT/2025-26,UIT Kota,Kota,Kota Division,492237.47,4.92,15.0,2025-12-25,,,,,
+2026_DLB_KOTA_769825,NIT_24/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,82975423.44,829.75,38.0,2025-12-18,,,,,
+2026_FORES_KOTA_286787,NIT_34/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,861144.82,8.61,13.0,2025-04-11,,,,,
+2026_UIT_KOTA_696913,NIT_57/KOT/2025-26,UIT Kota,Kota,Kota Division,12182840.2,121.83,15.0,2025-09-18,,,,,
+2026_WRD_KOTA_628898,NIT_22/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,389411.36,3.89,8.0,2025-06-19,,,,,
+2026_PHED_KOTA_487354,NIT_24/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,417644.4,4.18,15.0,2025-04-22,,,,,
+2026_MEDIC_KOTA_221305,NIT_56/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,74422453.99,744.22,32.0,2025-12-27,,,,,
+2026_MEDIC_KOTA_200253,NIT_17/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,355477.93,3.55,8.0,2025-04-24,,,,,
+2026_MEDIC_KOTA_587525,NIT_87/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,684448.68,6.84,9.0,2026-01-26,,,,,
+2026_PHED_KOTA_811563,NIT_60/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,897547.17,8.98,11.0,2025-04-17,,,,,
+2026_FORES_KOTA_406400,NIT_12/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,749829.8,7.5,10.0,2025-11-12,,,,,
+2026_PHED_KOTA_993652,NIT_32/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,456486.17,4.56,7.0,2025-12-17,,,,,
+2026_PHED_KOTA_661656,NIT_66/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,897112.78,8.97,15.0,2026-01-10,,,,,
+2026_WRD_KOTA_521917,NIT_97/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,701342.0,7.01,13.0,2025-10-06,,,,,
+2026_WRD_KOTA_808369,NIT_77/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2640655.38,26.41,12.0,2026-03-22,,,,,
+2026_FORES_KOTA_498199,NIT_37/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,862227.95,8.62,12.0,2025-12-22,,,,,
+2026_PWD_KOTA_112631,NIT_11/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,84545936.05,845.46,31.0,2025-10-26,,,,,
+2026_MEDIC_KOTA_989983,NIT_55/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,591232.27,5.91,8.0,2025-10-30,,,,,
+2026_WRD_KOTA_783255,NIT_24/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,1358950.31,13.59,13.0,2026-02-13,,,,,
+2026_FORES_KOTA_750752,NIT_35/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,231281.42,2.31,10.0,2025-04-25,,,,,
+2026_UIT_KOTA_790487,NIT_94/KOT/2025-26,UIT Kota,Kota,Kota Division,2950286.42,29.5,13.0,2026-02-14,,,,,
+2026_DLB_KOTA_617084,NIT_66/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,89561135.23,895.61,31.0,2026-01-16,,,,,
+2026_MEDIC_KOTA_458841,NIT_32/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,13260884.46,132.61,20.0,2025-11-02,,,,,
+2026_MEDIC_KOTA_411263,NIT_99/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,2432574.91,24.33,11.0,2025-09-07,,,,,
+2026_WRD_KOTA_210991,NIT_77/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,543166.87,5.43,8.0,2025-10-09,,,,,
+2026_UIT_KOTA_637947,NIT_54/KOT/2025-26,UIT Kota,Kota,Kota Division,16244141.5,162.44,17.0,2025-04-07,,,,,
+2026_PHED_KOTA_849408,NIT_23/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,8589400.02,85.89,17.0,2025-08-22,,,,,
+2026_DLB_KOTA_328716,NIT_35/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,70558695.03,705.59,32.0,2026-01-08,,,,,
+2026_FORES_KOTA_590013,NIT_97/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,319918.04,3.2,11.0,2025-06-02,,,,,
+2026_PWD_KOTA_563869,NIT_40/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,96473121.7,964.73,34.0,2025-10-02,,,,,
+2026_MEDIC_KOTA_614034,NIT_53/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,590326.43,5.9,15.0,2025-09-15,,,,,
+2026_DLB_KOTA_384312,NIT_34/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,318706.46,3.19,13.0,2025-08-22,,,,,
+2026_DLB_KOTA_661513,NIT_85/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,469529.47,4.7,12.0,2025-07-06,,,,,
+2026_FORES_KOTA_546800,NIT_12/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,814686.74,8.15,10.0,2025-07-31,,,,,
+2026_MEDIC_KOTA_668594,NIT_84/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,3817315.36,38.17,10.0,2026-02-11,,,,,
+2026_PWD_KOTA_589808,NIT_54/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,5869549.18,58.7,16.0,2025-10-05,,,,,
+2026_FORES_KOTA_695271,NIT_83/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,3387581.05,33.88,18.0,2025-11-30,,,,,
+2026_PWD_KOTA_378953,NIT_61/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,1528384.52,15.28,15.0,2026-02-03,,,,,
+2026_PHED_KOTA_323365,NIT_58/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,553602.09,5.54,10.0,2025-04-24,,,,,
+2026_PWD_KOTA_802888,NIT_23/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,4760382.9,47.6,16.0,2025-04-04,,,,,
+2026_DLB_KOTA_393305,NIT_20/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,457456.5,4.57,8.0,2026-03-06,,,,,
+2026_FORES_KOTA_358118,NIT_53/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,15227964.6,152.28,21.0,2025-08-01,,,,,
+2026_UIT_KOTA_175056,NIT_24/KOT/2025-26,UIT Kota,Kota,Kota Division,3179859.53,31.8,12.0,2025-06-01,,,,,
+2026_MEDIC_KOTA_359276,NIT_21/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,3661998.77,36.62,18.0,2025-11-25,,,,,
+2026_WRD_KOTA_476985,NIT_40/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,426514.41,4.27,14.0,2026-01-09,,,,,
+2026_DLB_KOTA_324654,NIT_76/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,9872262.89,98.72,22.0,2025-06-11,,,,,
+2026_UIT_KOTA_811990,NIT_61/KOT/2025-26,UIT Kota,Kota,Kota Division,511824.97,5.12,7.0,2025-07-21,,,,,
+2026_WRD_KOTA_461752,NIT_75/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,598404.34,5.98,12.0,2025-07-21,,,,,
+2026_PHED_KOTA_270340,NIT_50/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2301188.16,23.01,17.0,2026-03-07,,,,,
+2026_WRD_KOTA_897470,NIT_79/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,834994.83,8.35,14.0,2025-10-18,,,,,
+2026_MEDIC_KOTA_565272,NIT_15/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,9422011.63,94.22,19.0,2025-08-22,,,,,
+2026_UIT_KOTA_450731,NIT_94/KOT/2025-26,UIT Kota,Kota,Kota Division,567987.58,5.68,10.0,2025-12-08,,,,,
+2026_UIT_KOTA_135526,NIT_26/KOT/2025-26,UIT Kota,Kota,Kota Division,910264.35,9.1,9.0,2025-08-11,,,,,
+2026_FORES_KOTA_217884,NIT_75/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,11864728.28,118.65,17.0,2025-12-25,,,,,
+2026_FORES_KOTA_864797,NIT_97/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,462119.58,4.62,14.0,2026-03-17,,,,,
+2026_PWD_KOTA_366687,NIT_83/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,212578.0,2.13,13.0,2026-01-11,,,,,
+2026_FORES_KOTA_991507,NIT_11/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,220932.96,2.21,15.0,2026-01-11,,,,,
+2026_WRD_KOTA_205346,NIT_10/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,923623.79,9.24,15.0,2025-08-17,,,,,
+2026_FORES_KOTA_256252,NIT_56/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,3409019.82,34.09,10.0,2025-09-09,,,,,
+2026_UIT_KOTA_176485,NIT_72/KOT/2025-26,UIT Kota,Kota,Kota Division,641714.05,6.42,9.0,2025-05-06,,,,,
+2026_MEDIC_KOTA_206113,NIT_90/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,11749083.7,117.49,16.0,2025-08-23,,,,,
+2026_DLB_KOTA_258415,NIT_16/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,3329432.96,33.29,11.0,2025-11-14,,,,,
+2026_UIT_KOTA_599664,NIT_62/KOT/2025-26,UIT Kota,Kota,Kota Division,818118.96,8.18,7.0,2025-04-27,,,,,
+2026_DLB_KOTA_236455,NIT_13/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,1834307.73,18.34,12.0,2025-09-23,,,,,
+2026_UIT_KOTA_915531,NIT_78/KOT/2025-26,UIT Kota,Kota,Kota Division,4252961.73,42.53,17.0,2025-06-18,,,,,
+2026_FORES_KOTA_657774,NIT_30/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,561380.1,5.61,14.0,2025-05-23,,,,,
+2026_PHED_KOTA_220737,NIT_53/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,525379.33,5.25,7.0,2026-02-21,,,,,
+2026_WRD_KOTA_653283,NIT_60/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,589123.03,5.89,15.0,2025-11-19,,,,,
+2026_UIT_KOTA_887272,NIT_53/KOT/2025-26,UIT Kota,Kota,Kota Division,1140238.02,11.4,12.0,2026-03-23,,,,,
+2026_PWD_KOTA_504110,NIT_98/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,3221374.15,32.21,17.0,2025-11-28,,,,,
+2026_DLB_KOTA_574197,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,502143.64,5.02,14.0,2025-09-16,,,,,
+2026_MEDIC_KOTA_926193,NIT_40/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,1172657.19,11.73,16.0,2025-06-01,,,,,
+2026_FORES_KOTA_577934,NIT_73/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,3061692.4,30.62,14.0,2025-09-04,,,,,
+2026_WRD_KOTA_486692,NIT_21/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,3536494.14,35.36,17.0,2025-04-19,,,,,
+2026_PHED_KOTA_164124,NIT_35/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2514478.04,25.14,17.0,2025-07-24,,,,,
+2026_UIT_KOTA_356737,NIT_86/KOT/2025-26,UIT Kota,Kota,Kota Division,210792.48,2.11,11.0,2025-07-14,,,,,
+2026_UIT_KOTA_844372,NIT_15/KOT/2025-26,UIT Kota,Kota,Kota Division,6775000.27,67.75,23.0,2025-12-01,,,,,
+2026_WRD_KOTA_289232,NIT_26/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4682031.38,46.82,13.0,2025-09-15,,,,,
+2026_PHED_KOTA_415434,NIT_24/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,9205380.05,92.05,15.0,2025-05-30,,,,,
+2026_PWD_KOTA_419820,NIT_96/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,597592.21,5.98,3.0,2025-08-16,,,,,
+2026_MEDIC_KOTA_624557,NIT_17/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,239465.38,2.39,14.0,2025-11-03,,,,,
+2026_PHED_KOTA_571414,NIT_90/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,552256.26,5.52,15.0,2025-06-20,,,,,
+2026_UIT_KOTA_432597,NIT_13/KOT/2025-26,UIT Kota,Kota,Kota Division,658225.53,6.58,11.0,2025-06-10,,,,,
+2026_WRD_KOTA_863255,NIT_97/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4710143.79,47.1,12.0,2026-01-24,,,,,
+2026_UIT_KOTA_996103,NIT_82/KOT/2025-26,UIT Kota,Kota,Kota Division,620436.86,6.2,8.0,2025-08-09,,,,,
+2026_PHED_KOTA_108023,NIT_17/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,8917966.22,89.18,6.0,2025-12-24,,,,,
+2026_FORES_KOTA_672544,NIT_63/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,4487244.67,44.87,18.0,2025-09-05,,,,,
+2026_DLB_KOTA_436219,NIT_83/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2332276.65,23.32,15.0,2025-10-11,,,,,
+2026_PWD_KOTA_364672,NIT_12/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,816207.59,8.16,12.0,2025-08-18,,,,,
+2026_FORES_KOTA_375962,NIT_13/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,101252443.0,1012.52,30.0,2025-09-20,,,,,
+2026_PHED_KOTA_292607,NIT_55/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,12893737.24,128.94,22.0,2025-08-30,,,,,
+2026_MEDIC_KOTA_934384,NIT_61/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,4700041.52,47.0,12.0,2025-05-08,,,,,
+2026_PWD_KOTA_538106,NIT_89/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,872731.59,8.73,10.0,2025-10-06,,,,,
+2026_DLB_KOTA_574781,NIT_41/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,620407.54,6.2,15.0,2025-07-17,,,,,
+2026_FORES_KOTA_371981,NIT_20/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,298458.13,2.98,7.0,2025-12-23,,,,,
+2026_FORES_KOTA_354315,NIT_47/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,433025.63,4.33,7.0,2025-11-16,,,,,
+2026_PWD_KOTA_209565,NIT_17/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,914325.88,9.14,9.0,2026-03-11,,,,,
+2026_MEDIC_KOTA_509345,NIT_53/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,2736605.12,27.37,17.0,2025-07-29,,,,,
+2026_FORES_KOTA_304819,NIT_48/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1321378.55,13.21,12.0,2025-04-05,,,,,
+2026_WRD_KOTA_141856,NIT_42/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,728306.56,7.28,12.0,2025-11-13,,,,,
+2026_MEDIC_KOTA_386513,NIT_59/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,463947.62,4.64,13.0,2025-06-13,,,,,
+2026_UIT_KOTA_561972,NIT_23/KOT/2025-26,UIT Kota,Kota,Kota Division,8023490.48,80.23,16.0,2025-07-27,,,,,
+2026_UIT_KOTA_865650,NIT_33/KOT/2025-26,UIT Kota,Kota,Kota Division,467285.95,4.67,10.0,2025-07-25,,,,,
+2026_MEDIC_KOTA_999355,NIT_67/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,3053482.04,30.53,17.0,2025-10-03,,,,,
+2026_PHED_KOTA_353066,NIT_41/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,429611.19,4.3,11.0,2026-02-14,,,,,
+2026_MEDIC_KOTA_791200,NIT_33/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,183243.83,1.83,12.0,2025-04-18,,,,,
+2026_PWD_KOTA_736271,NIT_40/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,306565.64,3.07,11.0,2025-09-03,,,,,
+2026_PHED_KOTA_805383,NIT_65/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2438503.52,24.39,11.0,2025-09-14,,,,,
+2026_PHED_KOTA_264201,NIT_73/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,487104.65,4.87,10.0,2026-02-18,,,,,
+2026_MEDIC_KOTA_436324,NIT_65/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,14624035.94,146.24,17.0,2025-07-19,,,,,
+2026_DLB_KOTA_917960,NIT_16/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,370588.54,3.71,12.0,2025-05-22,,,,,
+2026_PHED_KOTA_208470,NIT_38/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,852904.83,8.53,10.0,2025-10-27,,,,,
+2026_DLB_KOTA_177273,NIT_19/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,1778975.69,17.79,18.0,2026-01-08,,,,,
+2026_WRD_KOTA_475544,NIT_73/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,884565.57,8.85,12.0,2025-04-13,,,,,
+2026_PHED_KOTA_760266,NIT_86/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,2751251.64,27.51,18.0,2026-02-03,,,,,
+2026_PWD_KOTA_916034,NIT_17/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,211588.31,2.12,8.0,2026-01-18,,,,,
+2026_WRD_KOTA_986149,NIT_13/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,439602.4,4.4,15.0,2026-01-26,,,,,
+2026_PHED_KOTA_856924,NIT_15/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,3055581.53,30.56,17.0,2026-01-20,,,,,
+2026_PWD_KOTA_817748,NIT_15/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,71093658.16,710.94,38.0,2025-04-22,,,,,
+2026_MEDIC_KOTA_624239,NIT_48/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,419217.51,4.19,14.0,2026-02-18,,,,,
+2026_FORES_KOTA_987178,NIT_40/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,11341230.85,113.41,15.0,2025-04-19,,,,,
+2026_MEDIC_KOTA_320363,NIT_14/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,485238.01,4.85,13.0,2026-02-16,,,,,
+2026_PWD_KOTA_550019,NIT_16/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,7331857.06,73.32,17.0,2026-03-25,,,,,
+2026_UIT_KOTA_192266,NIT_70/KOT/2025-26,UIT Kota,Kota,Kota Division,3125725.51,31.26,12.0,2026-03-23,,,,,
+2026_DLB_KOTA_563021,NIT_19/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,823206.08,8.23,7.0,2026-03-03,,,,,
+2026_PWD_KOTA_838439,NIT_95/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,594711.55,5.95,12.0,2025-09-09,,,,,
+2026_PWD_KOTA_259693,NIT_20/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,313735.19,3.14,10.0,2025-04-25,,,,,
+2026_MEDIC_KOTA_360790,NIT_38/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,647430.81,6.47,11.0,2025-11-08,,,,,
+2026_PHED_KOTA_281199,NIT_62/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,845772.74,8.46,7.0,2025-04-18,,,,,
+2026_UIT_KOTA_830442,NIT_23/KOT/2025-26,UIT Kota,Kota,Kota Division,4128206.65,41.28,12.0,2025-10-03,,,,,
+2026_MEDIC_KOTA_204559,NIT_46/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,89411969.03,894.12,33.0,2025-07-23,,,,,
+2026_UIT_KOTA_322771,NIT_61/KOT/2025-26,UIT Kota,Kota,Kota Division,530549.2,5.31,13.0,2025-06-23,,,,,
+2026_FORES_KOTA_864980,NIT_76/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,164355.16,1.64,12.0,2025-10-26,,,,,
+2026_PWD_KOTA_458136,NIT_27/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,4248885.34,42.49,14.0,2025-04-06,,,,,
+2026_MEDIC_KOTA_762707,NIT_47/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,12072321.58,120.72,16.0,2025-04-10,,,,,
+2026_PWD_KOTA_250419,NIT_66/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,422427.68,4.22,15.0,2025-10-29,,,,,
+2026_MEDIC_KOTA_604964,NIT_96/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,547644.59,5.48,8.0,2025-11-09,,,,,
+2026_WRD_KOTA_749320,NIT_16/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,250400.01,2.5,15.0,2025-07-08,,,,,
+2026_FORES_KOTA_634509,NIT_82/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,498774.47,4.99,10.0,2026-02-24,,,,,
+2026_DLB_KOTA_785640,NIT_70/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,878453.99,8.78,13.0,2025-07-20,,,,,
+2026_PWD_KOTA_568096,NIT_31/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,721130.67,7.21,14.0,2025-09-29,,,,,
+2026_UIT_KOTA_577000,NIT_91/KOT/2025-26,UIT Kota,Kota,Kota Division,323276.52,3.23,15.0,2025-07-01,,,,,
+2026_FORES_KOTA_877218,NIT_89/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,1451708.43,14.52,11.0,2025-07-24,,,,,
+2026_PHED_KOTA_685677,NIT_58/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,754197.59,7.54,9.0,2025-12-06,,,,,
+2026_WRD_KOTA_523742,NIT_27/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,277257.04,2.77,9.0,2025-09-15,,,,,
+2026_WRD_KOTA_415929,NIT_58/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,871743.05,8.72,10.0,2026-02-11,,,,,
+2026_DLB_KOTA_788704,NIT_35/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,15636869.7,156.37,17.0,2025-10-12,,,,,
+2026_DLB_KOTA_692667,NIT_23/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,13491871.64,134.92,18.0,2025-07-10,,,,,
+2026_PWD_KOTA_290819,NIT_46/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,941035.38,9.41,15.0,2025-08-11,,,,,
+2026_UIT_KOTA_383284,NIT_85/KOT/2025-26,UIT Kota,Kota,Kota Division,496036.28,4.96,11.0,2025-12-30,,,,,
+2026_FORES_KOTA_954881,NIT_49/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,2746171.51,27.46,16.0,2025-12-11,,,,,
+2026_WRD_KOTA_883934,NIT_59/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,607827.89,6.08,15.0,2025-10-03,,,,,
+2026_FORES_KOTA_546729,NIT_49/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,669754.47,6.7,7.0,2026-01-30,,,,,
+2026_UIT_KOTA_631439,NIT_74/KOT/2025-26,UIT Kota,Kota,Kota Division,629998.08,6.3,8.0,2025-09-15,,,,,
+2026_WRD_KOTA_154681,NIT_95/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,10435735.7,104.36,18.0,2026-03-05,,,,,
+2026_FORES_KOTA_978590,NIT_55/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,14176948.87,141.77,19.0,2026-03-14,,,,,
+2026_FORES_KOTA_149867,NIT_78/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,2372566.89,23.73,15.0,2025-09-11,,,,,
+2026_PWD_KOTA_413552,NIT_86/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,443170.99,4.43,9.0,2026-01-13,,,,,
+2026_PWD_KOTA_496973,NIT_14/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,15352762.97,153.53,15.0,2025-09-14,,,,,
+2026_PHED_KOTA_502885,NIT_67/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,6297858.13,62.98,23.0,2025-05-07,,,,,
+2026_MEDIC_KOTA_621154,NIT_59/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,66087892.97,660.88,31.0,2025-09-03,,,,,
+2026_MEDIC_KOTA_197101,NIT_29/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,361823.51,3.62,12.0,2025-11-05,,,,,
+2026_PWD_KOTA_440058,NIT_95/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,837581.43,8.38,7.0,2025-10-20,,,,,
+2026_WRD_KOTA_166194,NIT_50/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2746859.38,27.47,10.0,2025-07-02,,,,,
+2026_WRD_KOTA_778292,NIT_96/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,240618.48,2.41,7.0,2025-09-27,,,,,
+2026_PHED_KOTA_496014,NIT_29/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,495940.85,4.96,13.0,2025-08-06,,,,,
+2026_MEDIC_KOTA_441382,NIT_65/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,630872.67,6.31,10.0,2025-10-11,,,,,
+2026_PHED_KOTA_462415,NIT_62/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,14619079.18,146.19,16.0,2026-01-26,,,,,
+2026_UIT_KOTA_156848,NIT_23/KOT/2025-26,UIT Kota,Kota,Kota Division,16062710.0,160.63,3.0,2025-11-29,,,,,
+2026_MEDIC_KOTA_231601,NIT_96/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,233901.38,2.34,14.0,2025-11-02,,,,,
+2026_WRD_KOTA_352094,NIT_94/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,15539719.93,155.4,15.0,2025-10-20,,,,,
+2026_DLB_KOTA_474427,NIT_27/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,2040336.71,20.4,15.0,2025-04-11,,,,,
+2026_DLB_KOTA_927531,NIT_93/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,6167027.79,61.67,17.0,2025-09-29,,,,,
+2026_MEDIC_KOTA_873280,NIT_79/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,530884.75,5.31,9.0,2025-12-20,,,,,
+2026_DLB_KOTA_470722,NIT_42/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,944089.09,9.44,7.0,2025-04-12,,,,,
+2026_WRD_KOTA_514513,NIT_69/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,392298.24,3.92,9.0,2026-02-26,,,,,
+2026_MEDIC_KOTA_413756,NIT_95/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,315548.22,3.16,11.0,2025-08-17,,,,,
+2026_MEDIC_KOTA_313631,NIT_82/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,1295067.39,12.95,10.0,2025-04-12,,,,,
+2026_MEDIC_KOTA_512468,NIT_51/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,692008.24,6.92,14.0,2026-01-21,,,,,
+2026_DLB_KOTA_921472,NIT_16/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,48652273.07,486.52,32.0,2026-02-14,,,,,
+2026_MEDIC_KOTA_377680,NIT_36/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,268218.15,2.68,13.0,2025-11-01,,,,,
+2026_FORES_KOTA_663165,NIT_28/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,603684.65,6.04,10.0,2025-04-27,,,,,
+2026_FORES_KOTA_606452,NIT_41/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,738768.9,7.39,10.0,2025-11-16,,,,,
+2026_PWD_KOTA_607596,NIT_36/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,375730.4,3.76,13.0,2025-12-04,,,,,
+2026_WRD_KOTA_661618,NIT_49/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,936847.42,9.37,7.0,2026-02-22,,,,,
+2026_PWD_KOTA_844681,NIT_95/KOT/2025-26,Public Works Department (Kota Circle),Kota,Kota Division,3267717.51,32.68,13.0,2025-11-12,,,,,
+2026_WRD_KOTA_569009,NIT_82/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,274662.82,2.75,15.0,2025-10-09,,,,,
+2026_WRD_KOTA_300077,NIT_19/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,2476946.63,24.77,15.0,2025-04-29,,,,,
+2026_WRD_KOTA_340362,NIT_48/KOT/2025-26,Water Resources Department (Kota Circle),Kota,Kota Division,4206548.66,42.07,16.0,2025-11-10,,,,,
+2026_FORES_KOTA_979108,NIT_24/KOT/2025-26,Forest Department (Kota Circle),Kota,Kota Division,656522.04,6.57,14.0,2025-05-16,,,,,
+2026_DLB_KOTA_258724,NIT_40/KOT/2025-26,Directorate of Local Bodies (Kota Circle),Kota,Kota Division,1258986.61,12.59,18.0,2025-06-19,,,,,
+2026_MEDIC_KOTA_986186,NIT_74/KOT/2025-26,Department of Medical Education (Kota Circle),Kota,Kota Division,16182697.83,161.83,17.0,2025-04-23,,,,,
+2026_PHED_KOTA_851048,NIT_73/KOT/2025-26,Public Health Engineering Department (Kota Circle),Kota,Kota Division,267512.85,2.68,12.0,2025-12-02,,,,,
+2026_DLB_604226_1,NIT 604226_1,Kota Division,Kota,,2500000.0,25.0,,,27.0,10.0,0.0,False,0.0
+2026_DLB_604187_1,NIT 604187_1,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603436_3,NIT 603436_3,Kota Division,Kota,,2500000.0,25.0,,,5.0,10.0,5.0,True,59.0
+2026_DLB_604118_1,NIT 604118_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_DLB_604110_1,NIT 604110_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_DLB_604105_1,NIT 604105_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_DLB_604097_1,NIT 604097_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_DLB_604060_3,NIT 604060_3,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604060_1,NIT 604060_1,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604060_2,NIT 604060_2,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604060_4,NIT 604060_4,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604060_5,NIT 604060_5,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604059_3,NIT 604059_3,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604059_2,NIT 604059_2,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604059_1,NIT 604059_1,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603953_1,NIT 603953_1,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603944_1,NIT 603944_1,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603939_1,NIT 603939_1,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603931_1,NIT 603931_1,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603927_1,NIT 603927_1,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603879_1,NIT 603879_1,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603797_1,NIT 603797_1,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603796_1,NIT 603796_1,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603732_1,NIT 603732_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_DLB_603704_1,NIT 603704_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_DLB_603696_1,NIT 603696_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_DLB_603691_1,NIT 603691_1,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603509_1,NIT 603509_1,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603507_1,NIT 603507_1,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603493_1,NIT 603493_1,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_DLB_603493_2,NIT 603493_2,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_DLB_603034_1,NIT 603034_1,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_DLB_603022_1,NIT 603022_1,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_DLB_603031_1,NIT 603031_1,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_DLB_590843_1,NIT 590843_1,Kota Division,Kota,,2500000.0,25.0,,,62.0,10.0,0.0,False,0.0
+2026_DLB_588804_1,NIT 588804_1,Kota Division,Kota,,2500000.0,25.0,,,65.0,10.0,0.0,False,0.0
+2026_GMCK_601630_1,NIT 601630_1,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_GMCK_601234_1,NIT 601234_1,Kota Division,Kota,,2500000.0,25.0,,,38.0,10.0,0.0,False,0.0
+2026_GMCK_601216_1,NIT 601216_1,Kota Division,Kota,,2500000.0,25.0,,,29.0,10.0,0.0,False,0.0
+2026_GMCK_601210_1,NIT 601210_1,Kota Division,Kota,,2500000.0,25.0,,,29.0,10.0,0.0,False,0.0
+2026_GMCK_599915_2,NIT 599915_2,Kota Division,Kota,,2500000.0,25.0,,,33.0,10.0,0.0,False,0.0
+2026_GMCK_599915_1,NIT 599915_1,Kota Division,Kota,,2500000.0,25.0,,,33.0,10.0,0.0,False,0.0
+2026_GMCK_583835_1,NIT 583835_1,Kota Division,Kota,,2500000.0,25.0,,,78.0,10.0,0.0,False,0.0
+2026_PHCJA_603341_1,NIT 603341_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_PHCJA_603355_1,NIT 603355_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_PHCJA_603357_1,NIT 603357_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_PHCJA_601777_2,NIT 601777_2,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_PHCJA_601777_3,NIT 601777_3,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_PHCJA_601777_1,NIT 601777_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_PHCJA_600261_1,NIT 600261_1,Kota Division,Kota,,2500000.0,25.0,,,26.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_14,NIT 604346_14,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_8,NIT 604346_8,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_13,NIT 604346_13,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_11,NIT 604346_11,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_9,NIT 604346_9,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_10,NIT 604346_10,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_12,NIT 604346_12,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_3,NIT 604346_3,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_2,NIT 604346_2,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_7,NIT 604346_7,Kota Division,Kota,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_5,NIT 604346_5,Kota Division,Kota,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_4,NIT 604346_4,Kota Division,Kota,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_6,NIT 604346_6,Kota Division,Kota,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_CEPWD_604346_1,NIT 604346_1,Kota Division,Kota,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_CEPWD_604306_4,NIT 604306_4,Kota Division,Kota,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_604306_3,NIT 604306_3,Kota Division,Kota,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_604306_2,NIT 604306_2,Kota Division,Kota,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_604306_1,NIT 604306_1,Kota Division,Kota,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_604250_1,NIT 604250_1,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_CEPWD_604250_3,NIT 604250_3,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_CEPWD_604250_4,NIT 604250_4,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_CEPWD_604019_1,NIT 604019_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603964_1,NIT 603964_1,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603964_3,NIT 603964_3,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603964_2,NIT 603964_2,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603859_3,NIT 603859_3,Kota Division,Kota,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_603859_2,NIT 603859_2,Kota Division,Kota,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_603859_1,NIT 603859_1,Kota Division,Kota,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_603840_1,NIT 603840_1,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_CEPWD_603840_3,NIT 603840_3,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_CEPWD_603840_4,NIT 603840_4,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_CEPWD_603130_4,NIT 603130_4,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603130_1,NIT 603130_1,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603130_3,NIT 603130_3,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603130_2,NIT 603130_2,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603130_5,NIT 603130_5,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_68,NIT 603739_68,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_63,NIT 603739_63,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_65,NIT 603739_65,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_66,NIT 603739_66,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_47,NIT 603739_47,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_48,NIT 603739_48,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_62,NIT 603739_62,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_60,NIT 603739_60,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_49,NIT 603739_49,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_69,NIT 603739_69,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_59,NIT 603739_59,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_58,NIT 603739_58,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_61,NIT 603739_61,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_50,NIT 603739_50,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_51,NIT 603739_51,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_52,NIT 603739_52,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_57,NIT 603739_57,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_56,NIT 603739_56,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_54,NIT 603739_54,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_55,NIT 603739_55,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_53,NIT 603739_53,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_67,NIT 603739_67,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_64,NIT 603739_64,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_31,NIT 603739_31,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_39,NIT 603739_39,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_32,NIT 603739_32,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_28,NIT 603739_28,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_33,NIT 603739_33,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_29,NIT 603739_29,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_30,NIT 603739_30,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_37,NIT 603739_37,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_34,NIT 603739_34,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_42,NIT 603739_42,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_35,NIT 603739_35,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_40,NIT 603739_40,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_38,NIT 603739_38,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_41,NIT 603739_41,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_43,NIT 603739_43,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_44,NIT 603739_44,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_45,NIT 603739_45,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_46,NIT 603739_46,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_36,NIT 603739_36,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_27,NIT 603739_27,Kota Division,Kota,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_18,NIT 603739_18,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_24,NIT 603739_24,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_21,NIT 603739_21,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_22,NIT 603739_22,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_17,NIT 603739_17,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_19,NIT 603739_19,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_25,NIT 603739_25,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_20,NIT 603739_20,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_23,NIT 603739_23,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_26,NIT 603739_26,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603758_2,NIT 603758_2,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603758_3,NIT 603758_3,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603758_5,NIT 603758_5,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603758_4,NIT 603758_4,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603758_1,NIT 603758_1,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603755_1,NIT 603755_1,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_13,NIT 603739_13,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_12,NIT 603739_12,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_11,NIT 603739_11,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_15,NIT 603739_15,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_16,NIT 603739_16,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_14,NIT 603739_14,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603744_1,NIT 603744_1,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603745_6,NIT 603745_6,Kota Division,Kota,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_CEPWD_603745_5,NIT 603745_5,Kota Division,Kota,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_CEPWD_603745_1,NIT 603745_1,Kota Division,Kota,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_CEPWD_603744_2,NIT 603744_2,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603744_3,NIT 603744_3,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603744_4,NIT 603744_4,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603744_7,NIT 603744_7,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603745_2,NIT 603745_2,Kota Division,Kota,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_CEPWD_603745_3,NIT 603745_3,Kota Division,Kota,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_CEPWD_603745_4,NIT 603745_4,Kota Division,Kota,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_CEPWD_603744_5,NIT 603744_5,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603744_6,NIT 603744_6,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603745_8,NIT 603745_8,Kota Division,Kota,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_CEPWD_603745_7,NIT 603745_7,Kota Division,Kota,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_3,NIT 603739_3,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_10,NIT 603739_10,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_2,NIT 603739_2,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_9,NIT 603739_9,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_5,NIT 603739_5,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_1,NIT 603739_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_4,NIT 603739_4,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_6,NIT 603739_6,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_7,NIT 603739_7,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603739_8,NIT 603739_8,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_11,NIT 603726_11,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_13,NIT 603726_13,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_12,NIT 603726_12,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603735_1,NIT 603735_1,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_7,NIT 603726_7,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_6,NIT 603726_6,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_5,NIT 603726_5,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_2,NIT 603726_2,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_4,NIT 603726_4,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_1,NIT 603726_1,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_3,NIT 603726_3,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603726_10,NIT 603726_10,Kota Division,Kota,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603721_1,NIT 603721_1,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_602083_3,NIT 602083_3,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_602083_5,NIT 602083_5,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_602083_4,NIT 602083_4,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_602083_2,NIT 602083_2,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603125_1,NIT 603125_1,Kota Division,Kota,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_603119_1,NIT 603119_1,Kota Division,Kota,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_603119_2,NIT 603119_2,Kota Division,Kota,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602083_1,NIT 602083_1,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603125_2,NIT 603125_2,Kota Division,Kota,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_603125_3,NIT 603125_3,Kota Division,Kota,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_603580_1,NIT 603580_1,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603580_4,NIT 603580_4,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603580_6,NIT 603580_6,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603580_5,NIT 603580_5,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603580_3,NIT 603580_3,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603580_2,NIT 603580_2,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_CEPWD_603109_5,NIT 603109_5,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_CEPWD_603109_4,NIT 603109_4,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_CEPWD_603109_7,NIT 603109_7,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_CEPWD_603109_6,NIT 603109_6,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_CEPWD_603109_3,NIT 603109_3,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_CEPWD_603109_1,NIT 603109_1,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_CEPWD_603109_2,NIT 603109_2,Kota Division,Kota,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_4,NIT 603471_4,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_5,NIT 603471_5,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_22,NIT 603471_22,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_6,NIT 603471_6,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_8,NIT 603471_8,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_9,NIT 603471_9,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_10,NIT 603471_10,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_13,NIT 603471_13,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_24,NIT 603471_24,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_14,NIT 603471_14,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_25,NIT 603471_25,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_26,NIT 603471_26,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_27,NIT 603471_27,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_23,NIT 603471_23,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_15,NIT 603471_15,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_16,NIT 603471_16,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_17,NIT 603471_17,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_18,NIT 603471_18,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_19,NIT 603471_19,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_20,NIT 603471_20,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_3,NIT 603471_3,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_21,NIT 603471_21,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_7,NIT 603471_7,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_2,NIT 603471_2,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_1,NIT 603471_1,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_12,NIT 603471_12,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603471_11,NIT 603471_11,Kota Division,Kota,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_CEPWD_603416_1,NIT 603416_1,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_602583_2,NIT 602583_2,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_603353_1,NIT 603353_1,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_603056_3,NIT 603056_3,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_603050_2,NIT 603050_2,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_603056_2,NIT 603056_2,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_603056_1,NIT 603056_1,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_603050_1,NIT 603050_1,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_602583_1,NIT 602583_1,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_603354_6,NIT 603354_6,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603354_3,NIT 603354_3,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603354_4,NIT 603354_4,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603354_5,NIT 603354_5,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603354_7,NIT 603354_7,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603354_1,NIT 603354_1,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603354_2,NIT 603354_2,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603297_2,NIT 603297_2,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603297_1,NIT 603297_1,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603297_3,NIT 603297_3,Kota Division,Kota,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_23,NIT 603188_23,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_24,NIT 603188_24,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_25,NIT 603188_25,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_26,NIT 603188_26,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_22,NIT 603188_22,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_17,NIT 603188_17,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_20,NIT 603188_20,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_21,NIT 603188_21,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_19,NIT 603188_19,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_18,NIT 603188_18,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_5,NIT 603188_5,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_14,NIT 603188_14,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_6,NIT 603188_6,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_3,NIT 603188_3,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_1,NIT 603188_1,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_4,NIT 603188_4,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_10,NIT 603188_10,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_9,NIT 603188_9,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_7,NIT 603188_7,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_8,NIT 603188_8,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_2,NIT 603188_2,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_11,NIT 603188_11,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_12,NIT 603188_12,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_13,NIT 603188_13,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_16,NIT 603188_16,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_603188_15,NIT 603188_15,Kota Division,Kota,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_22,NIT 602881_22,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_6,NIT 602881_6,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_9,NIT 602881_9,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_13,NIT 602881_13,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_17,NIT 602881_17,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_26,NIT 602881_26,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_27,NIT 602881_27,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_28,NIT 602881_28,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_25,NIT 602881_25,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_24,NIT 602881_24,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_21,NIT 602881_21,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_20,NIT 602881_20,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_2,NIT 602881_2,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_32,NIT 602881_32,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_31,NIT 602881_31,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_16,NIT 602881_16,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_603023_1,NIT 603023_1,Kota Division,Kota,,2500000.0,25.0,,,38.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_19,NIT 602881_19,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_7,NIT 602881_7,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_8,NIT 602881_8,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_10,NIT 602881_10,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_30,NIT 602881_30,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_4,NIT 602881_4,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_29,NIT 602881_29,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_12,NIT 602881_12,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_14,NIT 602881_14,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_601871_1,NIT 601871_1,Kota Division,Kota,,2500000.0,25.0,,,38.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_15,NIT 602881_15,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_18,NIT 602881_18,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_1,NIT 602881_1,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_11,NIT 602881_11,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_5,NIT 602881_5,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_23,NIT 602881_23,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602881_3,NIT 602881_3,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_602146_1,NIT 602146_1,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_603077_2,NIT 603077_2,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
+2026_CEPWD_603077_1,NIT 603077_1,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
+2026_CEPWD_603077_3,NIT 603077_3,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
+2026_CEPWD_603043_2,NIT 603043_2,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_603043_1,NIT 603043_1,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_CEPWD_602756_8,NIT 602756_8,Kota Division,Kota,,2500000.0,25.0,,,49.0,10.0,0.0,False,0.0
+2026_CEPWD_602756_1,NIT 602756_1,Kota Division,Kota,,2500000.0,25.0,,,49.0,10.0,0.0,False,0.0
+2026_CEPWD_602756_6,NIT 602756_6,Kota Division,Kota,,2500000.0,25.0,,,49.0,10.0,0.0,False,0.0
+2026_CEPWD_602756_7,NIT 602756_7,Kota Division,Kota,,2500000.0,25.0,,,49.0,10.0,0.0,False,0.0
+2026_CEPWD_602756_3,NIT 602756_3,Kota Division,Kota,,2500000.0,25.0,,,49.0,10.0,0.0,False,0.0
+2026_CEPWD_602756_4,NIT 602756_4,Kota Division,Kota,,2500000.0,25.0,,,49.0,10.0,0.0,False,0.0
+2026_CEPWD_602756_5,NIT 602756_5,Kota Division,Kota,,2500000.0,25.0,,,49.0,10.0,0.0,False,0.0
+2026_CEPWD_602756_2,NIT 602756_2,Kota Division,Kota,,2500000.0,25.0,,,49.0,10.0,0.0,False,0.0
+2026_CEPWD_602227_1,NIT 602227_1,Kota Division,Kota,,2500000.0,25.0,,,53.0,10.0,0.0,False,0.0
+2026_CEPWD_601483_1,NIT 601483_1,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_601483_2,NIT 601483_2,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_601507_1,NIT 601507_1,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_7,NIT 599438_7,Kota Division,Kota,,2500000.0,25.0,,,27.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_57,NIT 600501_57,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_58,NIT 600501_58,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_60,NIT 600501_60,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_51,NIT 600501_51,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_49,NIT 600501_49,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_54,NIT 600501_54,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_53,NIT 600501_53,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_55,NIT 600501_55,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_56,NIT 600501_56,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_59,NIT 600501_59,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_50,NIT 600501_50,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_48,NIT 600501_48,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_52,NIT 600501_52,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_47,NIT 600501_47,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_35,NIT 600501_35,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_36,NIT 600501_36,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_39,NIT 600501_39,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_37,NIT 600501_37,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_40,NIT 600501_40,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_46,NIT 600501_46,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_38,NIT 600501_38,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_44,NIT 600501_44,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_33,NIT 600501_33,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_43,NIT 600501_43,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_41,NIT 600501_41,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_45,NIT 600501_45,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_34,NIT 600501_34,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_42,NIT 600501_42,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_32,NIT 600501_32,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_31,NIT 600501_31,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_28,NIT 600501_28,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_30,NIT 600501_30,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_18,NIT 600501_18,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_29,NIT 600501_29,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_27,NIT 600501_27,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_26,NIT 600501_26,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_24,NIT 600501_24,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_23,NIT 600501_23,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_22,NIT 600501_22,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_21,NIT 600501_21,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_20,NIT 600501_20,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_16,NIT 600501_16,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_14,NIT 600501_14,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_17,NIT 600501_17,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_19,NIT 600501_19,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_25,NIT 600501_25,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_15,NIT 600501_15,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_11,NIT 600501_11,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_1,NIT 600501_1,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_6,NIT 600501_6,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_9,NIT 600501_9,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_7,NIT 600501_7,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_3,NIT 600501_3,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_2,NIT 600501_2,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_5,NIT 600501_5,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_8,NIT 600501_8,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_13,NIT 600501_13,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_12,NIT 600501_12,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_4,NIT 600501_4,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_600501_10,NIT 600501_10,Kota Division,Kota,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_2,NIT 599438_2,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_12,NIT 599438_12,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_1,NIT 599438_1,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_10,NIT 599438_10,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_9,NIT 599438_9,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_15,NIT 599438_15,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_14,NIT 599438_14,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_13,NIT 599438_13,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_4,NIT 599438_4,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_5,NIT 599438_5,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_6,NIT 599438_6,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_8,NIT 599438_8,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_11,NIT 599438_11,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_599438_3,NIT 599438_3,Kota Division,Kota,,2500000.0,25.0,,,32.0,10.0,0.0,False,0.0
+2026_CEPWD_596805_2,NIT 596805_2,Kota Division,Kota,,2500000.0,25.0,,,62.0,10.0,0.0,False,0.0
+2026_CEPWD_593635_2,NIT 593635_2,Kota Division,Kota,,2500000.0,25.0,,,81.0,10.0,0.0,False,0.0
+2026_CEPWD_593635_5,NIT 593635_5,Kota Division,Kota,,2500000.0,25.0,,,81.0,10.0,0.0,False,0.0
+2026_CEPWD_593635_4,NIT 593635_4,Kota Division,Kota,,2500000.0,25.0,,,81.0,10.0,0.0,False,0.0
+2026_CEPWD_593635_1,NIT 593635_1,Kota Division,Kota,,2500000.0,25.0,,,81.0,10.0,0.0,False,0.0
+2026_CEPWD_593635_3,NIT 593635_3,Kota Division,Kota,,2500000.0,25.0,,,81.0,10.0,0.0,False,0.0
+2026_CEPWD_580256_5,NIT 580256_5,Kota Division,Kota,,2500000.0,25.0,,,77.0,10.0,0.0,False,0.0
+2026_CEPWD_580256_1,NIT 580256_1,Kota Division,Kota,,2500000.0,25.0,,,77.0,10.0,0.0,False,0.0
+2026_CEPWD_580256_2,NIT 580256_2,Kota Division,Kota,,2500000.0,25.0,,,77.0,10.0,0.0,False,0.0
+2026_CEPWD_580256_3,NIT 580256_3,Kota Division,Kota,,2500000.0,25.0,,,77.0,10.0,0.0,False,0.0
+2026_CEPWD_580256_7,NIT 580256_7,Kota Division,Kota,,2500000.0,25.0,,,77.0,10.0,0.0,False,0.0
+2026_CEPWD_580256_6,NIT 580256_6,Kota Division,Kota,,2500000.0,25.0,,,77.0,10.0,0.0,False,0.0
+2026_CEPWD_580256_4,NIT 580256_4,Kota Division,Kota,,2500000.0,25.0,,,77.0,10.0,0.0,False,0.0
+2026_RCDF_603070_1,NIT 603070_1,Kota Division,Kota,,2500000.0,25.0,,,26.0,10.0,0.0,False,0.0
+2026_RRVPN_603850_2,NIT 603850_2,Kota Division,Kota,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_RRVPN_603850_1,NIT 603850_1,Kota Division,Kota,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_RRVPN_601297_1,NIT 601297_1,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
+2026_RRVPN_601284_1,NIT 601284_1,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
+2026_RRVUN_602032_1,NIT 602032_1,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_RRVUN_601971_1,NIT 601971_1,Kota Division,Kota,,2500000.0,25.0,,,25.0,10.0,0.0,False,0.0
+2026_RRVUN_601738_1,NIT 601738_1,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_RRVUN_602042_1,NIT 602042_1,Kota Division,Kota,,2500000.0,25.0,,,25.0,10.0,0.0,False,0.0
+2026_RRVUN_602059_1,NIT 602059_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RRVUN_601503_1,NIT 601503_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RRVUN_593879_1,NIT 593879_1,Kota Division,Kota,,2500000.0,25.0,,,51.0,10.0,0.0,False,0.0
+2026_RRVUN_592381_1,NIT 592381_1,Kota Division,Kota,,2500000.0,25.0,,,47.0,10.0,0.0,False,0.0
+2026_RRVUN_593179_1,NIT 593179_1,Kota Division,Kota,,2500000.0,25.0,,,53.0,10.0,0.0,False,0.0
+2026_RRVUN_593203_1,NIT 593203_1,Kota Division,Kota,,2500000.0,25.0,,,53.0,10.0,0.0,False,0.0
+2026_RRVUN_591137_1,NIT 591137_1,Kota Division,Kota,,2500000.0,25.0,,,55.0,10.0,0.0,False,0.0
+2026_RRVUN_591159_1,NIT 591159_1,Kota Division,Kota,,2500000.0,25.0,,,51.0,10.0,0.0,False,0.0
+2026_RRVUN_592279_1,NIT 592279_1,Kota Division,Kota,,2500000.0,25.0,,,54.0,10.0,0.0,False,0.0
+2026_RRVUN_590317_1,NIT 590317_1,Kota Division,Kota,,2500000.0,25.0,,,61.0,10.0,0.0,False,0.0
+2026_RSAMB_603741_4,NIT 603741_4,Kota Division,Kota,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_RSAMB_603741_6,NIT 603741_6,Kota Division,Kota,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_RSAMB_603742_6,NIT 603742_6,Kota Division,Kota,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_RSAMB_603742_4,NIT 603742_4,Kota Division,Kota,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_RSAMB_603741_3,NIT 603741_3,Kota Division,Kota,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_RSAMB_603742_5,NIT 603742_5,Kota Division,Kota,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_RSAMB_603741_5,NIT 603741_5,Kota Division,Kota,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_RSAMB_601982_5,NIT 601982_5,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_RSAMB_601982_3,NIT 601982_3,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_RSAMB_601982_1,NIT 601982_1,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_RSAMB_601982_2,NIT 601982_2,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_RSAMB_601982_4,NIT 601982_4,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_RSAMB_601466_1,NIT 601466_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RSAMB_601466_3,NIT 601466_3,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RSAMB_601466_2,NIT 601466_2,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_WRDAS_602715_1,NIT 602715_1,Kota Division,Kota,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_WRDAS_602522_1,NIT 602522_1,Kota Division,Kota,,2500000.0,25.0,,,25.0,10.0,0.0,False,0.0
+2026_WRDAS_602513_1,NIT 602513_1,Kota Division,Kota,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_WRDAS_601432_1,NIT 601432_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_WRDAS_600522_1,NIT 600522_1,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
+2026_WRDAS_600496_1,NIT 600496_1,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0

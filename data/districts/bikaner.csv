@@ -1,479 +1,713 @@
-tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
-2026_WRD_BIKA_917549,NIT_75/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,17305572.98,173.06,15,2026-03-14
-2026_PHED_BIKA_213861,NIT_86/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2840389.98,28.4,17,2025-08-11
-2026_PHED_BIKA_245163,NIT_63/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,9386674.37,93.87,17,2025-10-02
-2026_WRD_BIKA_225762,NIT_47/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,429683.45,4.3,15,2025-09-16
-2026_PWD_BIKA_230276,NIT_79/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,295173.57,2.95,7,2026-02-08
-2026_PWD_BIKA_110382,NIT_23/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,194847.6,1.95,7,2025-04-07
-2026_FORES_BIKA_207118,NIT_87/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,616028.75,6.16,10,2026-01-16
-2026_WRD_BIKA_688212,NIT_81/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,45466674.87,454.67,9,2026-02-02
-2026_PWD_BIKA_544016,NIT_96/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1053236.46,10.53,11,2025-12-29
-2026_UIT_BIKA_584164,NIT_32/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,798951.95,7.99,7,2025-07-07
-2026_WRD_BIKA_429680,NIT_17/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,14531032.72,145.31,23,2025-06-26
-2026_FORES_BIKA_145445,NIT_31/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1988259.55,19.88,14,2026-02-16
-2026_UIT_BIKA_962150,NIT_36/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,640677.83,6.41,14,2025-08-27
-2026_PHED_BIKA_256064,NIT_51/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,11967129.36,119.67,18,2025-04-05
-2026_WRD_BIKA_998287,NIT_92/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,254864.37,2.55,10,2025-12-17
-2026_PHED_BIKA_942001,NIT_35/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,341934.45,3.42,7,2025-05-06
-2026_UIT_BIKA_722494,NIT_37/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,589262.96,5.89,15,2025-06-23
-2026_PHED_BIKA_516566,NIT_69/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,922307.49,9.22,13,2025-05-22
-2026_PWD_BIKA_726250,NIT_46/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,303610.45,3.04,14,2025-09-15
-2026_DLB_BIKA_244532,NIT_85/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,508069.82,5.08,10,2025-09-30
-2026_WRD_BIKA_319531,NIT_19/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,890532.41,8.91,11,2025-08-28
-2026_UIT_BIKA_422856,NIT_59/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3298785.39,32.99,18,2025-07-12
-2026_WRD_BIKA_510973,NIT_35/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,114896755.18,1148.97,36,2026-01-09
-2026_FORES_BIKA_652672,NIT_17/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1449065.34,14.49,17,2025-05-15
-2026_PWD_BIKA_671538,NIT_65/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,941781.02,9.42,11,2025-04-21
-2026_DLB_BIKA_479825,NIT_13/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,191402.5,1.91,13,2025-09-03
-2026_UIT_BIKA_187385,NIT_48/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,760229.6,7.6,8,2025-08-08
-2026_UIT_BIKA_250251,NIT_20/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,718381.66,7.18,11,2025-08-04
-2026_WRD_BIKA_879341,NIT_20/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,1767260.53,17.67,13,2025-08-12
-2026_UIT_BIKA_719821,NIT_90/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2891208.01,28.91,12,2025-06-18
-2026_MEDIC_BIKA_206906,NIT_17/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3744932.8,37.45,10,2025-11-12
-2026_DLB_BIKA_668162,NIT_57/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,4387179.25,43.87,15,2026-02-07
-2026_UIT_BIKA_758442,NIT_86/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,218525.26,2.19,15,2026-01-27
-2026_FORES_BIKA_808819,NIT_29/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,244215.15,2.44,13,2026-01-26
-2026_UIT_BIKA_549829,NIT_17/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,4564956.29,45.65,18,2025-07-30
-2026_WRD_BIKA_614848,NIT_77/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,494354.34,4.94,13,2025-05-13
-2026_FORES_BIKA_515468,NIT_25/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,415521.74,4.16,8,2025-12-29
-2026_DLB_BIKA_122575,NIT_53/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,160323.01,1.6,7,2026-02-14
-2026_PWD_BIKA_787607,NIT_73/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,577382.33,5.77,8,2026-03-24
-2026_UIT_BIKA_367437,NIT_12/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,698158.62,6.98,7,2025-07-28
-2026_WRD_BIKA_788339,NIT_69/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,5483373.33,54.83,18,2025-12-04
-2026_WRD_BIKA_804971,NIT_62/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,16111200.38,161.11,20,2025-04-23
-2026_FORES_BIKA_569454,NIT_43/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,515809.59,5.16,15,2026-01-19
-2026_FORES_BIKA_354828,NIT_79/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,742875.05,7.43,12,2026-01-18
-2026_PHED_BIKA_114191,NIT_19/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2522996.09,25.23,17,2025-05-02
-2026_DLB_BIKA_169257,NIT_85/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,619595.47,6.2,12,2025-06-01
-2026_PWD_BIKA_580077,NIT_19/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,352093.55,3.52,7,2025-07-08
-2026_WRD_BIKA_286622,NIT_78/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,801528.86,8.02,13,2025-11-13
-2026_PHED_BIKA_828285,NIT_24/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,734379.42,7.34,8,2025-11-25
-2026_DLB_BIKA_504288,NIT_10/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,4514191.04,45.14,11,2026-03-15
-2026_PHED_BIKA_534660,NIT_19/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,9945425.24,99.45,12,2025-12-19
-2026_FORES_BIKA_484129,NIT_61/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,631634.29,6.32,10,2026-01-28
-2026_PHED_BIKA_412754,NIT_81/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,247525.08,2.48,10,2025-09-07
-2026_FORES_BIKA_456740,NIT_36/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,764904.68,7.65,14,2025-09-06
-2026_FORES_BIKA_236031,NIT_28/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,224402.88,2.24,15,2025-05-20
-2026_PWD_BIKA_478642,NIT_71/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,97854354.8,978.54,33,2025-10-16
-2026_UIT_BIKA_807447,NIT_66/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3547516.26,35.48,15,2025-08-05
-2026_UIT_BIKA_988767,NIT_66/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,635485.05,6.35,7,2025-10-17
-2026_PHED_BIKA_748116,NIT_58/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,3561110.81,35.61,18,2025-05-09
-2026_DLB_BIKA_950608,NIT_91/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,16873884.21,168.74,18,2025-05-05
-2026_PWD_BIKA_813684,NIT_51/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,15458944.22,154.59,23,2025-08-28
-2026_UIT_BIKA_323199,NIT_45/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,682236.11,6.82,8,2025-06-21
-2026_PWD_BIKA_826095,NIT_79/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,839237.39,8.39,15,2025-12-25
-2026_FORES_BIKA_921793,NIT_31/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3252104.58,32.52,14,2025-11-26
-2026_PWD_BIKA_776428,NIT_94/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,406077.44,4.06,10,2025-07-17
-2026_PHED_BIKA_197911,NIT_29/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,52748021.15,527.48,34,2025-07-08
-2026_PHED_BIKA_829944,NIT_45/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2144979.8,21.45,12,2025-06-29
-2026_PWD_BIKA_589174,NIT_75/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,117212270.55,1172.12,35,2025-04-16
-2026_UIT_BIKA_674913,NIT_84/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,595817.64,5.96,11,2025-04-27
-2026_FORES_BIKA_666857,NIT_98/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,15403537.4,154.04,17,2025-08-03
-2026_UIT_BIKA_324298,NIT_61/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,617883.38,6.18,7,2025-11-24
-2026_PHED_BIKA_637920,NIT_57/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,27230720.34,272.31,33,2025-10-03
-2026_DLB_BIKA_600539,NIT_85/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,378371.54,3.78,7,2026-02-10
-2026_WRD_BIKA_539253,NIT_22/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,505508.04,5.06,13,2025-07-10
-2026_UIT_BIKA_612437,NIT_81/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3910441.89,39.1,17,2025-05-20
-2026_FORES_BIKA_441966,NIT_21/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,331599.41,3.32,7,2025-10-20
-2026_PHED_BIKA_411174,NIT_14/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,623651.07,6.24,8,2025-06-29
-2026_FORES_BIKA_715771,NIT_83/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,37272754.97,372.73,33,2025-10-16
-2026_PWD_BIKA_669631,NIT_24/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,442639.43,4.43,14,2025-10-26
-2026_WRD_BIKA_238171,NIT_35/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2802598.86,28.03,15,2025-04-19
-2026_DLB_BIKA_690724,NIT_13/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,662760.82,6.63,14,2025-10-09
-2026_WRD_BIKA_264160,NIT_35/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,15634500.34,156.35,6,2025-07-16
-2026_FORES_BIKA_828738,NIT_50/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3420830.72,34.21,12,2025-07-26
-2026_PHED_BIKA_696738,NIT_10/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,810342.12,8.1,8,2025-06-23
-2026_UIT_BIKA_379394,NIT_88/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,338636.84,3.39,12,2026-03-18
-2026_MEDIC_BIKA_258434,NIT_27/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,1363928.87,13.64,11,2025-10-07
-2026_PWD_BIKA_208540,NIT_15/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,591315.44,5.91,7,2026-03-25
-2026_MEDIC_BIKA_668553,NIT_82/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,424843.76,4.25,13,2025-10-08
-2026_MEDIC_BIKA_926051,NIT_38/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,2332314.77,23.32,14,2025-04-30
-2026_PWD_BIKA_675133,NIT_22/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,391036.97,3.91,15,2025-10-18
-2026_PWD_BIKA_522005,NIT_78/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,624134.23,6.24,14,2025-09-05
-2026_WRD_BIKA_616053,NIT_12/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,4523562.42,45.24,15,2025-06-28
-2026_PHED_BIKA_411042,NIT_87/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,896210.91,8.96,15,2026-01-22
-2026_DLB_BIKA_518386,NIT_39/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,605259.31,6.05,7,2025-11-16
-2026_DLB_BIKA_696478,NIT_46/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,215936.85,2.16,15,2025-11-24
-2026_PWD_BIKA_884803,NIT_19/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2356056.0,23.56,15,2025-04-27
-2026_UIT_BIKA_949130,NIT_63/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1968021.01,19.68,14,2025-05-27
-2026_FORES_BIKA_965445,NIT_65/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,2713360.82,27.13,15,2025-07-23
-2026_PWD_BIKA_390176,NIT_48/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,401117.28,4.01,12,2026-02-25
-2026_MEDIC_BIKA_637988,NIT_97/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,894917.7,8.95,13,2025-08-03
-2026_UIT_BIKA_242570,NIT_91/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,390372.1,3.9,10,2025-09-11
-2026_PWD_BIKA_662475,NIT_93/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,933607.89,9.34,8,2025-06-05
-2026_DLB_BIKA_372477,NIT_75/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,112440844.14,1124.41,36,2026-02-14
-2026_MEDIC_BIKA_485923,NIT_32/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,880260.85,8.8,13,2026-03-07
-2026_DLB_BIKA_107232,NIT_52/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,705188.01,7.05,10,2025-06-14
-2026_FORES_BIKA_167456,NIT_83/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,519556.27,5.2,12,2025-10-19
-2026_PHED_BIKA_761561,NIT_77/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1604914.75,16.05,10,2025-06-20
-2026_UIT_BIKA_651431,NIT_66/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3441567.4,34.42,17,2025-10-29
-2026_UIT_BIKA_663254,NIT_21/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1879649.4,18.8,11,2025-04-12
-2026_PHED_BIKA_778455,NIT_15/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,12718202.81,127.18,23,2026-01-27
-2026_MEDIC_BIKA_343728,NIT_63/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,416251.58,4.16,7,2026-03-08
-2026_PHED_BIKA_167452,NIT_88/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,166831.16,1.67,15,2026-01-10
-2026_PHED_BIKA_432236,NIT_77/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,366863.35,3.67,7,2025-12-19
-2026_FORES_BIKA_495420,NIT_55/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1522960.92,15.23,17,2025-08-28
-2026_UIT_BIKA_648382,NIT_59/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1231091.92,12.31,16,2025-07-28
-2026_DLB_BIKA_969489,NIT_75/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,911559.21,9.12,13,2026-01-27
-2026_PWD_BIKA_817760,NIT_87/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2691859.35,26.92,13,2025-06-28
-2026_FORES_BIKA_624750,NIT_57/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,2447321.84,24.47,17,2026-01-27
-2026_DLB_BIKA_379693,NIT_81/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,18050939.5,180.51,11,2025-06-24
-2026_UIT_BIKA_961727,NIT_33/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3015042.72,30.15,18,2025-06-04
-2026_DLB_BIKA_254442,NIT_62/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3981604.05,39.82,16,2025-09-21
-2026_DLB_BIKA_554712,NIT_75/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,277364.69,2.77,13,2025-11-27
-2026_PHED_BIKA_648704,NIT_32/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,4122844.14,41.23,17,2025-12-13
-2026_FORES_BIKA_957989,NIT_61/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,12189644.75,121.9,5,2025-12-26
-2026_MEDIC_BIKA_613770,NIT_75/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,695604.52,6.96,15,2025-10-20
-2026_DLB_BIKA_824701,NIT_29/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3650873.33,36.51,15,2025-08-26
-2026_PWD_BIKA_755413,NIT_56/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2822650.17,28.23,12,2025-10-24
-2026_MEDIC_BIKA_498868,NIT_69/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,820666.96,8.21,9,2025-10-02
-2026_DLB_BIKA_548843,NIT_54/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,2296011.84,22.96,11,2025-08-13
-2026_DLB_BIKA_478510,NIT_87/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,620146.81,6.2,11,2025-07-12
-2026_PWD_BIKA_723587,NIT_86/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,116790313.11,1167.9,33,2025-05-25
-2026_UIT_BIKA_778209,NIT_56/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,18981001.36,189.81,23,2025-10-12
-2026_UIT_BIKA_934449,NIT_57/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,360370.56,3.6,10,2026-03-09
-2026_MEDIC_BIKA_689033,NIT_15/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,490179.76,4.9,8,2025-12-09
-2026_WRD_BIKA_281860,NIT_56/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,4593537.21,45.94,16,2026-02-14
-2026_DLB_BIKA_881527,NIT_52/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,683223.51,6.83,14,2025-05-22
-2026_UIT_BIKA_914633,NIT_67/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,674711.2,6.75,9,2025-09-01
-2026_UIT_BIKA_955423,NIT_96/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,186519.39,1.87,12,2025-12-21
-2026_DLB_BIKA_213304,NIT_41/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,673715.47,6.74,10,2025-08-19
-2026_DLB_BIKA_372548,NIT_95/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,681829.68,6.82,7,2025-04-25
-2026_WRD_BIKA_420682,NIT_18/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,12645615.08,126.46,21,2025-04-19
-2026_PHED_BIKA_108281,NIT_73/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,18219596.56,182.2,19,2025-08-01
-2026_UIT_BIKA_494728,NIT_39/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,4199860.24,42.0,11,2025-09-13
-2026_FORES_BIKA_549234,NIT_50/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,12725740.3,127.26,18,2025-08-28
-2026_UIT_BIKA_132487,NIT_90/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,355433.77,3.55,10,2026-01-03
-2026_FORES_BIKA_377463,NIT_19/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,309852.01,3.1,7,2025-11-13
-2026_MEDIC_BIKA_593491,NIT_13/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,333149.8,3.33,7,2025-05-15
-2026_WRD_BIKA_169440,NIT_24/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2948813.41,29.49,10,2025-11-07
-2026_FORES_BIKA_145407,NIT_59/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,73209780.44,732.1,37,2026-02-12
-2026_DLB_BIKA_539965,NIT_44/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,4177103.45,41.77,17,2025-04-11
-2026_UIT_BIKA_459603,NIT_73/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,16204229.4,162.04,13,2026-02-26
-2026_PWD_BIKA_658966,NIT_14/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4357041.9,43.57,11,2025-12-27
-2026_FORES_BIKA_259426,NIT_63/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,901754.12,9.02,9,2025-05-02
-2026_PWD_BIKA_227523,NIT_88/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,632636.55,6.33,15,2026-01-11
-2026_DLB_BIKA_104888,NIT_87/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,182104.96,1.82,11,2025-06-23
-2026_PHED_BIKA_256938,NIT_62/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,738631.81,7.39,10,2026-03-27
-2026_WRD_BIKA_466136,NIT_61/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2207569.67,22.08,14,2025-04-18
-2026_FORES_BIKA_601971,NIT_85/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,694189.38,6.94,12,2026-02-01
-2026_PHED_BIKA_231887,NIT_11/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1674459.81,16.74,15,2025-06-06
-2026_PWD_BIKA_595353,NIT_62/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4430616.52,44.31,13,2025-09-23
-2026_MEDIC_BIKA_326694,NIT_29/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,442249.94,4.42,15,2025-07-13
-2026_FORES_BIKA_966161,NIT_70/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,182023.16,1.82,14,2025-12-02
-2026_WRD_BIKA_425970,NIT_20/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,661144.04,6.61,13,2025-06-17
-2026_PWD_BIKA_400266,NIT_99/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,410477.42,4.1,11,2026-03-14
-2026_FORES_BIKA_642312,NIT_99/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,13843562.86,138.44,16,2025-11-05
-2026_FORES_BIKA_889706,NIT_92/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,608034.64,6.08,8,2025-12-09
-2026_FORES_BIKA_437605,NIT_58/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3124389.41,31.24,16,2025-12-30
-2026_UIT_BIKA_903779,NIT_18/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,17327591.9,173.28,20,2025-09-16
-2026_FORES_BIKA_130959,NIT_21/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,13961541.63,139.62,15,2025-08-23
-2026_FORES_BIKA_117135,NIT_22/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,11895076.6,118.95,20,2026-01-25
-2026_PWD_BIKA_208222,NIT_91/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,286301.68,2.86,8,2025-07-27
-2026_PWD_BIKA_898870,NIT_76/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,562672.21,5.63,12,2025-11-16
-2026_PWD_BIKA_194838,NIT_63/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,172906.73,1.73,12,2026-01-19
-2026_WRD_BIKA_277634,NIT_54/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,704667.34,7.05,9,2025-10-02
-2026_PHED_BIKA_571640,NIT_11/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,13661427.99,136.61,21,2025-10-01
-2026_MEDIC_BIKA_968768,NIT_84/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3249642.79,32.5,14,2025-08-19
-2026_PWD_BIKA_675916,NIT_11/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,734852.37,7.35,15,2026-02-05
-2026_PHED_BIKA_786371,NIT_94/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,564731.34,5.65,12,2025-09-04
-2026_UIT_BIKA_949924,NIT_84/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,768463.18,7.68,13,2025-07-06
-2026_PWD_BIKA_629180,NIT_40/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3331424.42,33.31,17,2025-06-10
-2026_FORES_BIKA_962079,NIT_53/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1475486.22,14.75,18,2025-07-27
-2026_PHED_BIKA_687910,NIT_90/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,13341338.04,133.41,16,2025-04-18
-2026_PHED_BIKA_940332,NIT_59/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,43254222.19,432.54,33,2025-10-06
-2026_WRD_BIKA_370591,NIT_85/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,645246.18,6.45,14,2025-09-21
-2026_UIT_BIKA_434535,NIT_47/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,439119.77,4.39,9,2025-06-19
-2026_PHED_BIKA_778854,NIT_44/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,174150.7,1.74,7,2025-12-14
-2026_FORES_BIKA_693817,NIT_51/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,872511.88,8.73,11,2025-07-18
-2026_MEDIC_BIKA_251212,NIT_64/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,12060160.95,120.6,20,2026-01-23
-2026_MEDIC_BIKA_574314,NIT_58/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3016618.5,30.17,18,2025-05-06
-2026_PWD_BIKA_978175,NIT_55/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1507183.69,15.07,14,2025-11-10
-2026_MEDIC_BIKA_952607,NIT_30/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,614956.46,6.15,10,2026-02-16
-2026_MEDIC_BIKA_495024,NIT_96/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,323427.74,3.23,14,2025-06-26
-2026_PHED_BIKA_503303,NIT_41/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,673043.22,6.73,12,2025-12-14
-2026_WRD_BIKA_777531,NIT_85/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,585858.77,5.86,11,2025-10-08
-2026_DLB_BIKA_478583,NIT_77/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3747299.75,37.47,18,2025-10-27
-2026_MEDIC_BIKA_651490,NIT_13/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,443616.84,4.44,11,2025-09-08
-2026_PWD_BIKA_229257,NIT_52/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1717560.29,17.18,11,2025-12-26
-2026_FORES_BIKA_560919,NIT_20/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,16372965.54,163.73,3,2025-04-13
-2026_UIT_BIKA_308026,NIT_10/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,869740.1,8.7,9,2026-03-04
-2026_DLB_BIKA_440348,NIT_22/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,2789236.63,27.89,16,2025-07-23
-2026_PHED_BIKA_392868,NIT_89/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,394699.17,3.95,14,2026-03-24
-2026_MEDIC_BIKA_351074,NIT_64/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,4475480.45,44.75,10,2025-06-15
-2026_MEDIC_BIKA_629763,NIT_48/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3749558.37,37.5,15,2026-01-04
-2026_PHED_BIKA_945326,NIT_74/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,28001773.88,280.02,37,2025-06-25
-2026_UIT_BIKA_997653,NIT_70/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,174845.55,1.75,8,2025-07-17
-2026_MEDIC_BIKA_684731,NIT_73/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,774247.96,7.74,14,2026-03-12
-2026_PHED_BIKA_818613,NIT_79/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,346258.88,3.46,2,2025-11-03
-2026_UIT_BIKA_665036,NIT_74/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,751090.55,7.51,11,2026-01-05
-2026_DLB_BIKA_714319,NIT_46/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3336743.62,33.37,13,2025-07-11
-2026_PHED_BIKA_236250,NIT_13/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,10829174.19,108.29,23,2025-04-16
-2026_DLB_BIKA_268098,NIT_68/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,377424.71,3.77,15,2026-03-14
-2026_WRD_BIKA_503269,NIT_83/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,319143.13,3.19,9,2025-12-14
-2026_DLB_BIKA_879557,NIT_43/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,914530.68,9.15,11,2025-06-10
-2026_UIT_BIKA_154754,NIT_52/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,163451.06,1.63,7,2025-09-28
-2026_PWD_BIKA_686393,NIT_90/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,318643.45,3.19,11,2025-09-26
-2026_PWD_BIKA_305497,NIT_67/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,798591.49,7.99,9,2026-02-28
-2026_DLB_BIKA_916102,NIT_82/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,1697048.54,16.97,12,2025-11-05
-2026_PWD_BIKA_594628,NIT_57/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,216909.46,2.17,8,2025-12-24
-2026_MEDIC_BIKA_782479,NIT_27/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,858135.58,8.58,15,2025-11-18
-2026_PWD_BIKA_157747,NIT_28/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1304304.62,13.04,11,2025-07-20
-2026_MEDIC_BIKA_706679,NIT_82/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,777419.3,7.77,10,2026-01-26
-2026_FORES_BIKA_629397,NIT_66/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4166338.53,41.66,14,2025-09-16
-2026_PWD_BIKA_268330,NIT_28/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2801736.22,28.02,10,2025-11-17
-2026_UIT_BIKA_660187,NIT_63/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2659860.73,26.6,16,2025-08-27
-2026_WRD_BIKA_780067,NIT_95/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,251571.39,2.52,2,2025-04-20
-2026_DLB_BIKA_612927,NIT_23/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,334986.69,3.35,9,2025-07-30
-2026_PHED_BIKA_192303,NIT_32/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,12751032.2,127.51,16,2025-12-17
-2026_FORES_BIKA_550722,NIT_96/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4692608.62,46.93,6,2025-06-05
-2026_PHED_BIKA_178870,NIT_22/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,673833.69,6.74,9,2025-09-28
-2026_UIT_BIKA_571898,NIT_44/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,922931.88,9.23,11,2025-10-20
-2026_DLB_BIKA_839792,NIT_73/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,394375.55,3.94,12,2025-04-13
-2026_WRD_BIKA_573319,NIT_50/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,675485.27,6.75,10,2025-08-09
-2026_PHED_BIKA_452571,NIT_45/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2929807.22,29.3,10,2025-12-31
-2026_WRD_BIKA_878048,NIT_18/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,213473.39,2.13,11,2025-11-17
-2026_FORES_BIKA_970456,NIT_57/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,838688.89,8.39,11,2025-11-03
-2026_UIT_BIKA_488955,NIT_37/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2009562.53,20.1,14,2026-03-01
-2026_PHED_BIKA_258008,NIT_74/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,599274.4,5.99,9,2025-11-02
-2026_PWD_BIKA_278266,NIT_82/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2849746.82,28.5,14,2026-01-13
-2026_PWD_BIKA_953777,NIT_51/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2760264.47,27.6,18,2025-11-17
-2026_FORES_BIKA_960186,NIT_35/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,892650.36,8.93,9,2025-04-19
-2026_PWD_BIKA_644932,NIT_80/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3320140.31,33.2,11,2025-05-14
-2026_PWD_BIKA_817577,NIT_86/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2725572.67,27.26,13,2025-04-20
-2026_PHED_BIKA_963335,NIT_76/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,866171.29,8.66,12,2025-08-03
-2026_WRD_BIKA_837009,NIT_94/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,594606.28,5.95,15,2025-09-29
-2026_UIT_BIKA_988036,NIT_69/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,645289.82,6.45,14,2025-06-21
-2026_PWD_BIKA_378526,NIT_76/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,10723006.64,107.23,23,2025-09-30
-2026_WRD_BIKA_226578,NIT_95/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2343000.8,23.43,13,2025-08-08
-2026_DLB_BIKA_543558,NIT_66/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,338841.62,3.39,15,2025-04-04
-2026_WRD_BIKA_669337,NIT_94/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,1064724.9,10.65,17,2025-06-05
-2026_UIT_BIKA_616631,NIT_99/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,372115.6,3.72,5,2025-06-02
-2026_PWD_BIKA_483403,NIT_65/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4510148.42,45.1,13,2026-02-18
-2026_PWD_BIKA_872934,NIT_18/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1148823.19,11.49,18,2025-08-15
-2026_MEDIC_BIKA_488243,NIT_53/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,515064.06,5.15,10,2026-02-03
-2026_FORES_BIKA_924615,NIT_38/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,16701546.3,167.02,19,2025-04-10
-2026_PWD_BIKA_935286,NIT_46/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2891641.24,28.92,16,2025-08-20
-2026_MEDIC_BIKA_377170,NIT_65/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,1376482.33,13.76,11,2025-04-14
-2026_PWD_BIKA_414172,NIT_50/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,284747.32,2.85,14,2026-03-02
-2026_UIT_BIKA_207360,NIT_68/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,14356880.27,143.57,16,2025-05-06
-2026_PHED_BIKA_628800,NIT_66/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,17312705.25,173.13,12,2025-07-07
-2026_PWD_BIKA_767581,NIT_10/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,737244.05,7.37,8,2025-12-03
-2026_PHED_BIKA_457392,NIT_99/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,426163.37,4.26,14,2025-06-02
-2026_DLB_BIKA_600445,NIT_66/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,275231.26,2.75,13,2025-08-26
-2026_PWD_BIKA_931611,NIT_20/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4077144.77,40.77,15,2026-01-14
-2026_WRD_BIKA_305391,NIT_42/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2398239.89,23.98,17,2025-06-11
-2026_MEDIC_BIKA_883524,NIT_96/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,174826.91,1.75,10,2025-12-10
-2026_PHED_BIKA_436374,NIT_83/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,10000430.48,100.0,23,2026-02-01
-2026_UIT_BIKA_689400,NIT_35/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,830535.83,8.31,7,2025-05-25
-2026_WRD_BIKA_680567,NIT_25/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,3876781.72,38.77,12,2025-12-11
-2026_PWD_BIKA_886473,NIT_97/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,341160.34,3.41,13,2025-09-28
-2026_FORES_BIKA_599386,NIT_60/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,204095.2,2.04,7,2025-10-02
-2026_PHED_BIKA_953720,NIT_73/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,288471.09,2.88,14,2025-09-24
-2026_WRD_BIKA_305875,NIT_51/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,394702.85,3.95,7,2025-05-31
-2026_WRD_BIKA_280457,NIT_65/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,4116175.3,41.16,6,2025-12-30
-2026_DLB_BIKA_693572,NIT_89/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,1859597.11,18.6,18,2025-07-06
-2026_MEDIC_BIKA_608371,NIT_80/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,754428.78,7.54,8,2026-03-17
-2026_DLB_BIKA_519111,NIT_51/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,606879.74,6.07,11,2025-08-11
-2026_WRD_BIKA_117841,NIT_38/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,293057.86,2.93,9,2025-08-13
-2026_FORES_BIKA_634756,NIT_92/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4388240.34,43.88,11,2025-08-09
-2026_UIT_BIKA_266911,NIT_72/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2041633.88,20.42,15,2025-12-15
-2026_MEDIC_BIKA_207854,NIT_56/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,778272.91,7.78,11,2025-09-17
-2026_FORES_BIKA_668390,NIT_29/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4065668.13,40.66,17,2026-03-26
-2026_PHED_BIKA_124575,NIT_43/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,241522.64,2.42,10,2026-02-06
-2026_FORES_BIKA_379753,NIT_31/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,8872516.7,88.73,15,2025-08-27
-2026_MEDIC_BIKA_715426,NIT_17/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,5357738.81,53.58,10,2025-04-07
-2026_UIT_BIKA_650941,NIT_73/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,4751904.2,47.52,14,2025-04-16
-2026_MEDIC_BIKA_233636,NIT_81/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,8166975.57,81.67,15,2025-04-16
-2026_FORES_BIKA_706066,NIT_33/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,11669129.01,116.69,23,2026-02-02
-2026_UIT_BIKA_286869,NIT_50/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,12016698.29,120.17,21,2026-03-13
-2026_DLB_BIKA_265491,NIT_18/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3080661.56,30.81,11,2025-10-02
-2026_DLB_BIKA_615052,NIT_39/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,728714.6,7.29,12,2025-08-02
-2026_UIT_BIKA_525715,NIT_39/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,637085.13,6.37,13,2026-03-02
-2026_MEDIC_BIKA_144980,NIT_38/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,464106.78,4.64,15,2025-08-22
-2026_PHED_BIKA_743594,NIT_62/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,3058917.76,30.59,18,2026-03-02
-2026_PHED_BIKA_317631,NIT_62/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,616665.66,6.17,14,2025-05-26
-2026_DLB_BIKA_674464,NIT_36/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,158206.03,1.58,7,2026-02-17
-2026_WRD_BIKA_497333,NIT_49/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,351190.25,3.51,13,2026-01-06
-2026_MEDIC_BIKA_819935,NIT_72/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,826677.43,8.27,15,2025-11-19
-2026_WRD_BIKA_775194,NIT_78/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,3813110.31,38.13,13,2025-05-20
-2026_MEDIC_BIKA_970424,NIT_93/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,8566882.81,85.67,17,2025-05-15
-2026_WRD_BIKA_840659,NIT_72/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,1948542.39,19.49,12,2025-04-04
-2026_MEDIC_BIKA_319202,NIT_99/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,2589216.04,25.89,16,2026-03-26
-2026_PHED_BIKA_248938,NIT_74/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2809240.9,28.09,13,2025-05-15
-2026_PWD_BIKA_116261,NIT_85/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,554125.71,5.54,11,2025-12-23
-2026_UIT_BIKA_217230,NIT_62/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,226296.71,2.26,13,2025-06-28
-2026_MEDIC_BIKA_675999,NIT_97/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,16447268.3,164.47,15,2025-05-23
-2026_WRD_BIKA_670061,NIT_87/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,942148.02,9.42,8,2026-01-17
-2026_DLB_BIKA_465276,NIT_30/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,665315.89,6.65,7,2025-06-24
-2026_FORES_BIKA_976195,NIT_62/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4423396.98,44.23,18,2025-04-24
-2026_UIT_BIKA_314016,NIT_27/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,664004.19,6.64,10,2026-01-14
-2026_FORES_BIKA_868010,NIT_82/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,756792.39,7.57,9,2026-01-20
-2026_PWD_BIKA_705380,NIT_18/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,312679.1,3.13,8,2025-06-21
-2026_MEDIC_BIKA_932229,NIT_36/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,725926.77,7.26,8,2026-03-03
-2026_DLB_BIKA_461600,NIT_95/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,792367.41,7.92,12,2025-04-24
-2026_FORES_BIKA_659169,NIT_32/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,254271.3,2.54,11,2025-12-09
-2026_FORES_BIKA_808147,NIT_98/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3954877.83,39.55,12,2025-08-13
-2026_MEDIC_BIKA_805398,NIT_13/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,16907463.69,169.07,23,2025-06-30
-2026_WRD_BIKA_203782,NIT_80/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,933031.03,9.33,10,2025-09-28
-2026_DLB_BIKA_589991,NIT_28/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,5628734.09,56.29,15,2025-05-26
-2026_WRD_BIKA_843588,NIT_71/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,328585.3,3.29,9,2025-11-26
-2026_PHED_BIKA_281554,NIT_16/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,562801.51,5.63,15,2026-03-18
-2026_PWD_BIKA_744812,NIT_13/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,675244.2,6.75,8,2025-11-24
-2026_UIT_BIKA_397227,NIT_94/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3075054.48,30.75,18,2025-10-27
-2026_PHED_BIKA_233426,NIT_12/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,945954.66,9.46,13,2025-12-03
-2026_PHED_BIKA_530027,NIT_45/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1944961.05,19.45,14,2025-05-03
-2026_UIT_BIKA_490443,NIT_30/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1983175.26,19.83,12,2026-02-25
-2026_PWD_BIKA_241680,NIT_83/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,656263.4,6.56,13,2025-10-23
-2026_WRD_BIKA_210639,NIT_56/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,1312309.47,13.12,17,2025-06-21
-2026_PHED_BIKA_803408,NIT_46/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,8086257.58,80.86,21,2025-08-23
-2026_DLB_BIKA_751931,NIT_77/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,675699.01,6.76,13,2025-09-19
-2026_UIT_BIKA_783730,NIT_10/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,323868.75,3.24,11,2025-10-14
-2026_MEDIC_BIKA_915307,NIT_99/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,1226133.31,12.26,11,2025-09-12
-2026_FORES_BIKA_240878,NIT_67/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4032410.93,40.32,10,2026-02-14
-2026_UIT_BIKA_512060,NIT_14/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,347125.8,3.47,12,2026-03-22
-2026_MEDIC_BIKA_459703,NIT_62/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,636637.58,6.37,10,2026-03-23
-2026_MEDIC_BIKA_772135,NIT_63/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,870286.62,8.7,9,2025-06-28
-2026_MEDIC_BIKA_755188,NIT_25/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,636455.49,6.36,12,2026-03-21
-2026_DLB_BIKA_494929,NIT_40/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,668802.51,6.69,10,2026-02-01
-2026_MEDIC_BIKA_910954,NIT_73/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,6157442.38,61.57,15,2025-11-10
-2026_PWD_BIKA_736446,NIT_38/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4552787.41,45.53,17,2026-02-25
-2026_PWD_BIKA_515741,NIT_25/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,641008.69,6.41,15,2025-04-25
-2026_FORES_BIKA_184380,NIT_80/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,2796370.02,27.96,16,2025-10-14
-2026_FORES_BIKA_713879,NIT_82/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,18481358.72,184.81,20,2025-09-22
-2026_DLB_BIKA_611117,NIT_96/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,281715.48,2.82,14,2025-08-19
-2026_PHED_BIKA_136475,NIT_91/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,670298.84,6.7,15,2025-08-30
-2026_PHED_BIKA_764424,NIT_69/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,244804.16,2.45,8,2025-07-08
-2026_DLB_BIKA_985113,NIT_53/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,4352660.09,43.53,14,2026-01-11
-2026_DLB_BIKA_965025,NIT_66/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,747019.89,7.47,10,2025-10-29
-2026_WRD_BIKA_658181,NIT_83/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,108962718.46,1089.63,37,2025-09-09
-2026_MEDIC_BIKA_111698,NIT_74/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,560366.94,5.6,7,2025-05-01
-2026_UIT_BIKA_263103,NIT_57/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,236187.93,2.36,9,2026-01-11
-2026_PWD_BIKA_513681,NIT_15/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,283758.14,2.84,10,2025-07-30
-2026_WRD_BIKA_405562,NIT_18/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,830555.81,8.31,8,2025-04-01
-2026_PHED_BIKA_283075,NIT_14/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1325658.87,13.26,11,2025-10-28
-2026_PWD_BIKA_762885,NIT_83/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,113116034.89,1131.16,33,2025-11-21
-2026_PWD_BIKA_877478,NIT_86/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,734604.42,7.35,9,2025-11-01
-2026_PHED_BIKA_352660,NIT_29/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,76913344.49,769.13,30,2025-04-07
-2026_PHED_BIKA_949522,NIT_36/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,7548986.12,75.49,17,2025-08-16
-2026_PWD_BIKA_142799,NIT_59/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,821475.98,8.21,8,2025-12-04
-2026_WRD_BIKA_878439,NIT_77/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2569180.28,25.69,14,2026-01-29
-2026_FORES_BIKA_636909,NIT_74/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,740745.23,7.41,13,2026-02-06
-2026_PWD_BIKA_767027,NIT_31/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3269649.92,32.7,12,2025-11-24
-2026_DLB_BIKA_714335,NIT_87/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,615134.07,6.15,11,2025-09-09
-2026_PWD_BIKA_805078,NIT_81/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1749192.38,17.49,12,2025-11-08
-2026_FORES_BIKA_751737,NIT_26/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,515754.53,5.16,14,2025-06-22
-2026_UIT_BIKA_870222,NIT_52/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,8151251.27,81.51,22,2025-08-27
-2026_WRD_BIKA_336610,NIT_66/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,8878366.32,88.78,5,2025-10-14
-2026_MEDIC_BIKA_379600,NIT_88/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,178872.04,1.79,15,2025-09-24
-2026_DLB_BIKA_406708,NIT_35/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,264073.76,2.64,3,2026-02-13
-2026_PHED_BIKA_223386,NIT_28/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,940369.77,9.4,15,2025-06-30
-2026_DLB_BIKA_738267,NIT_16/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,2513944.19,25.14,14,2025-09-20
-2026_DLB_BIKA_349429,NIT_43/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,687159.61,6.87,11,2025-05-31
-2026_PHED_BIKA_980300,NIT_27/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1924979.68,19.25,11,2025-10-31
-2026_PHED_BIKA_976477,NIT_57/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,295749.48,2.96,15,2025-05-05
-2026_MEDIC_BIKA_801499,NIT_69/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,323921.39,3.24,11,2026-02-09
-2026_WRD_BIKA_449335,NIT_28/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,767905.84,7.68,9,2025-08-22
-2026_PHED_BIKA_787916,NIT_17/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,433301.94,4.33,14,2025-07-13
-2026_MEDIC_BIKA_779901,NIT_75/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3341708.66,33.42,5,2025-10-11
-2026_FORES_BIKA_219198,NIT_41/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,32925702.36,329.26,36,2025-07-26
-2026_FORES_BIKA_929484,NIT_94/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,800631.38,8.01,7,2025-04-13
-2026_UIT_BIKA_279502,NIT_27/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,157020.32,1.57,13,2025-11-20
-2026_MEDIC_BIKA_684040,NIT_63/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,617973.37,6.18,14,2025-04-01
-2026_UIT_BIKA_429150,NIT_72/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1157593.29,11.58,13,2026-02-19
-2026_PWD_BIKA_908117,NIT_97/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,941582.93,9.42,9,2025-05-01
-2026_PWD_BIKA_108886,NIT_95/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1191546.02,11.92,11,2025-05-27
-2026_PWD_BIKA_686288,NIT_16/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,5897577.91,58.98,17,2025-05-28
-2026_UIT_BIKA_103848,NIT_35/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,831706.86,8.32,15,2025-12-03
-2026_MEDIC_BIKA_210186,NIT_52/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,1479545.82,14.8,17,2025-12-14
-2026_MEDIC_BIKA_983550,NIT_30/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,490365.3,4.9,7,2025-05-11
-2026_UIT_BIKA_947770,NIT_60/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,290947.3,2.91,9,2026-01-30
-2026_WRD_BIKA_808735,NIT_56/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,444639.43,4.45,14,2025-04-26
-2026_MEDIC_BIKA_601473,NIT_84/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,221405.19,2.21,9,2025-06-29
-2026_FORES_BIKA_880516,NIT_16/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,437645.65,4.38,9,2025-12-23
-2026_PHED_BIKA_592317,NIT_18/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,707247.92,7.07,14,2025-09-16
-2026_WRD_BIKA_366843,NIT_88/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,474158.37,4.74,9,2025-08-28
-2026_DLB_BIKA_524641,NIT_17/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,399650.75,4.0,11,2025-12-18
-2026_WRD_BIKA_261261,NIT_33/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,4412073.79,44.12,10,2025-04-08
-2026_PWD_BIKA_882122,NIT_47/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,8288651.32,82.89,16,2025-11-09
-2026_FORES_BIKA_163526,NIT_87/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,503134.26,5.03,13,2025-11-22
-2026_FORES_BIKA_147167,NIT_42/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,725297.31,7.25,3,2025-05-26
-2026_MEDIC_BIKA_325846,NIT_54/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,175046.13,1.75,7,2025-10-07
-2026_WRD_BIKA_981471,NIT_32/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,8026906.52,80.27,16,2025-09-30
-2026_PWD_BIKA_676677,NIT_25/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3863037.04,38.63,14,2025-06-30
-2026_FORES_BIKA_668541,NIT_91/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,561277.29,5.61,11,2025-11-13
-2026_FORES_BIKA_352708,NIT_82/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,738268.4,7.38,12,2025-07-24
-2026_DLB_BIKA_708199,NIT_93/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,722880.87,7.23,8,2025-09-24
-2026_FORES_BIKA_451071,NIT_73/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,269600.98,2.7,13,2026-01-07
-2026_WRD_BIKA_779879,NIT_22/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,72660130.53,726.6,7,2026-01-10
-2026_PHED_BIKA_506727,NIT_24/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,16357524.31,163.58,19,2025-07-29
-2026_FORES_BIKA_406148,NIT_94/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,244793.32,2.45,10,2026-03-26
-2026_UIT_BIKA_701830,NIT_50/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,601916.87,6.02,12,2025-09-04
-2026_WRD_BIKA_860487,NIT_13/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,418030.18,4.18,13,2025-07-31
-2026_FORES_BIKA_246940,NIT_21/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,593023.28,5.93,7,2025-10-18
-2026_UIT_BIKA_964751,NIT_27/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,11124018.48,111.24,15,2026-01-11
-2026_UIT_BIKA_913094,NIT_48/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,387708.39,3.88,7,2026-02-22
-2026_DLB_BIKA_616808,NIT_86/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,556963.44,5.57,15,2026-01-14
-2026_DLB_BIKA_817571,NIT_30/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,566494.43,5.66,11,2025-07-21
-2026_PHED_BIKA_307622,NIT_89/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,14069085.74,140.69,23,2025-09-23
-2026_UIT_BIKA_921324,NIT_29/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2251150.83,22.51,18,2025-04-30
-2026_WRD_BIKA_698233,NIT_93/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,468734.92,4.69,9,2025-09-29
-2026_FORES_BIKA_437406,NIT_81/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,173472.34,1.73,8,2025-09-15
-2026_PHED_BIKA_733447,NIT_52/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,792195.87,7.92,10,2025-05-08
-2026_PHED_BIKA_473371,NIT_26/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,27602200.11,276.02,37,2025-09-21
-2026_PWD_BIKA_571922,NIT_44/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,337798.36,3.38,8,2026-02-05
-2026_UIT_BIKA_294418,NIT_90/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,478480.38,4.78,14,2026-03-19
-2026_PHED_BIKA_209578,NIT_48/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,440708.52,4.41,12,2025-09-02
-2026_PHED_BIKA_439317,NIT_75/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,3517768.15,35.18,10,2025-05-31
-2026_MEDIC_BIKA_819531,NIT_43/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,926860.17,9.27,8,2025-06-01
-2026_DLB_BIKA_100515,NIT_78/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,241668.72,2.42,11,2026-03-08
-2026_WRD_BIKA_267299,NIT_55/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2191152.46,21.91,16,2025-05-31
-2026_FORES_BIKA_989974,NIT_52/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1205732.94,12.06,15,2025-05-27
-2026_PWD_BIKA_151376,NIT_91/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3867002.0,38.67,10,2025-07-09
-2026_PWD_BIKA_520674,NIT_97/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,6800206.52,68.0,20,2025-11-24
-2026_MEDIC_BIKA_587852,NIT_17/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,348246.23,3.48,10,2025-05-27
-2026_PWD_BIKA_898854,NIT_84/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,397135.23,3.97,14,2025-05-10
-2026_PWD_BIKA_164001,NIT_35/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,62459399.75,624.59,30,2025-11-09
-2026_PHED_BIKA_259314,NIT_81/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,712331.81,7.12,15,2026-01-11
-2026_PWD_BIKA_898114,NIT_54/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3240295.74,32.4,15,2025-11-06
-2026_FORES_BIKA_164401,NIT_60/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3195369.09,31.95,15,2026-02-27
-2026_FORES_BIKA_720633,NIT_82/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,798981.43,7.99,11,2025-07-02
-2026_DLB_BIKA_825666,NIT_50/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,682584.41,6.83,8,2025-10-10
-2026_UIT_BIKA_768899,NIT_23/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2312594.13,23.13,16,2025-08-10
-2026_WRD_BIKA_911281,NIT_38/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,15739665.1,157.4,15,2025-08-06
-2026_PWD_BIKA_131061,NIT_49/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3578630.1,35.79,12,2025-04-23
-2026_MEDIC_BIKA_890320,NIT_30/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,312210.66,3.12,2,2025-12-19
-2026_MEDIC_BIKA_884926,NIT_75/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,698675.86,6.99,10,2025-05-05
-2026_PWD_BIKA_403538,NIT_85/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,474742.26,4.75,13,2025-12-10
-2026_DLB_BIKA_668142,NIT_42/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,879168.91,8.79,8,2026-03-03
-2026_UIT_BIKA_257689,NIT_24/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,847768.49,8.48,14,2025-04-27
-2026_DLB_BIKA_254981,NIT_28/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,82935144.6,829.35,34,2025-06-04
-2026_UIT_BIKA_532734,NIT_10/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1787066.65,17.87,7,2026-03-06
-2026_MEDIC_BIKA_122593,NIT_30/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3389848.86,33.9,14,2025-06-09
-2026_WRD_BIKA_738014,NIT_49/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,710193.55,7.1,15,2025-05-23
-2026_PWD_BIKA_249289,NIT_24/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,176509.7,1.77,7,2025-05-14
-2026_PHED_BIKA_817453,NIT_43/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,87801360.33,878.01,33,2025-10-21
-2026_PWD_BIKA_833053,NIT_28/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,405239.63,4.05,9,2026-03-24
-2026_PHED_BIKA_725629,NIT_25/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,511240.71,5.11,9,2025-04-27
-2026_MEDIC_BIKA_854603,NIT_51/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,812007.31,8.12,7,2026-02-12
-2026_PHED_BIKA_393231,NIT_39/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,17619899.67,176.2,23,2025-10-31
-2026_MEDIC_BIKA_210667,NIT_45/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,12794679.42,127.95,21,2025-10-08
-2026_UIT_BIKA_942155,NIT_60/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,699620.95,7.0,7,2026-02-19
-2026_MEDIC_BIKA_140471,NIT_41/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,12213481.75,122.13,21,2025-11-17
-2026_DLB_BIKA_184160,NIT_39/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,362737.07,3.63,10,2025-07-08
-2026_WRD_BIKA_986768,NIT_44/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,338275.0,3.38,11,2025-11-30
-2026_PWD_BIKA_422902,NIT_32/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,11896649.02,118.97,13,2025-07-08
-2026_MEDIC_BIKA_473882,NIT_46/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,16182698.26,161.83,21,2025-05-31
-2026_FORES_BIKA_866540,NIT_21/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1346733.29,13.47,12,2025-09-11
-2026_UIT_BIKA_938395,NIT_62/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3456684.13,34.57,16,2025-06-28
-2026_PHED_BIKA_903370,NIT_27/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,13967401.14,139.67,20,2025-05-16
-2026_UIT_BIKA_302081,NIT_69/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2838325.54,28.38,10,2025-09-29
-2026_WRD_BIKA_474803,NIT_86/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,5354016.64,53.54,18,2025-05-26
-2026_PWD_BIKA_327004,NIT_44/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2211594.58,22.12,13,2025-04-30
-2026_DLB_BIKA_395821,NIT_86/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,113962937.98,1139.63,32,2025-04-25
-2026_MEDIC_BIKA_990338,NIT_70/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,97655397.7,976.55,32,2025-11-26
-2026_MEDIC_BIKA_625488,NIT_76/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,718580.08,7.19,7,2025-05-05
-2026_FORES_BIKA_288209,NIT_28/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,10795978.37,107.96,15,2025-11-01
-2026_PHED_BIKA_735819,NIT_48/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,391868.61,3.92,9,2025-04-12
-2026_UIT_BIKA_310721,NIT_14/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,487583.03,4.88,14,2025-05-23
-2026_UIT_BIKA_252049,NIT_81/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2919559.76,29.2,13,2026-03-07
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+2026_WRD_BIKA_917549,NIT_75/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,17305572.98,173.06,15.0,2026-03-14,,,,,
+2026_PHED_BIKA_213861,NIT_86/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2840389.98,28.4,17.0,2025-08-11,,,,,
+2026_PHED_BIKA_245163,NIT_63/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,9386674.37,93.87,17.0,2025-10-02,,,,,
+2026_WRD_BIKA_225762,NIT_47/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,429683.45,4.3,15.0,2025-09-16,,,,,
+2026_PWD_BIKA_230276,NIT_79/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,295173.57,2.95,7.0,2026-02-08,,,,,
+2026_PWD_BIKA_110382,NIT_23/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,194847.6,1.95,7.0,2025-04-07,,,,,
+2026_FORES_BIKA_207118,NIT_87/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,616028.75,6.16,10.0,2026-01-16,,,,,
+2026_WRD_BIKA_688212,NIT_81/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,45466674.87,454.67,9.0,2026-02-02,,,,,
+2026_PWD_BIKA_544016,NIT_96/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1053236.46,10.53,11.0,2025-12-29,,,,,
+2026_UIT_BIKA_584164,NIT_32/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,798951.95,7.99,7.0,2025-07-07,,,,,
+2026_WRD_BIKA_429680,NIT_17/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,14531032.72,145.31,23.0,2025-06-26,,,,,
+2026_FORES_BIKA_145445,NIT_31/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1988259.55,19.88,14.0,2026-02-16,,,,,
+2026_UIT_BIKA_962150,NIT_36/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,640677.83,6.41,14.0,2025-08-27,,,,,
+2026_PHED_BIKA_256064,NIT_51/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,11967129.36,119.67,18.0,2025-04-05,,,,,
+2026_WRD_BIKA_998287,NIT_92/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,254864.37,2.55,10.0,2025-12-17,,,,,
+2026_PHED_BIKA_942001,NIT_35/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,341934.45,3.42,7.0,2025-05-06,,,,,
+2026_UIT_BIKA_722494,NIT_37/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,589262.96,5.89,15.0,2025-06-23,,,,,
+2026_PHED_BIKA_516566,NIT_69/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,922307.49,9.22,13.0,2025-05-22,,,,,
+2026_PWD_BIKA_726250,NIT_46/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,303610.45,3.04,14.0,2025-09-15,,,,,
+2026_DLB_BIKA_244532,NIT_85/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,508069.82,5.08,10.0,2025-09-30,,,,,
+2026_WRD_BIKA_319531,NIT_19/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,890532.41,8.91,11.0,2025-08-28,,,,,
+2026_UIT_BIKA_422856,NIT_59/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3298785.39,32.99,18.0,2025-07-12,,,,,
+2026_WRD_BIKA_510973,NIT_35/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,114896755.18,1148.97,36.0,2026-01-09,,,,,
+2026_FORES_BIKA_652672,NIT_17/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1449065.34,14.49,17.0,2025-05-15,,,,,
+2026_PWD_BIKA_671538,NIT_65/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,941781.02,9.42,11.0,2025-04-21,,,,,
+2026_DLB_BIKA_479825,NIT_13/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,191402.5,1.91,13.0,2025-09-03,,,,,
+2026_UIT_BIKA_187385,NIT_48/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,760229.6,7.6,8.0,2025-08-08,,,,,
+2026_UIT_BIKA_250251,NIT_20/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,718381.66,7.18,11.0,2025-08-04,,,,,
+2026_WRD_BIKA_879341,NIT_20/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,1767260.53,17.67,13.0,2025-08-12,,,,,
+2026_UIT_BIKA_719821,NIT_90/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2891208.01,28.91,12.0,2025-06-18,,,,,
+2026_MEDIC_BIKA_206906,NIT_17/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3744932.8,37.45,10.0,2025-11-12,,,,,
+2026_DLB_BIKA_668162,NIT_57/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,4387179.25,43.87,15.0,2026-02-07,,,,,
+2026_UIT_BIKA_758442,NIT_86/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,218525.26,2.19,15.0,2026-01-27,,,,,
+2026_FORES_BIKA_808819,NIT_29/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,244215.15,2.44,13.0,2026-01-26,,,,,
+2026_UIT_BIKA_549829,NIT_17/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,4564956.29,45.65,18.0,2025-07-30,,,,,
+2026_WRD_BIKA_614848,NIT_77/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,494354.34,4.94,13.0,2025-05-13,,,,,
+2026_FORES_BIKA_515468,NIT_25/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,415521.74,4.16,8.0,2025-12-29,,,,,
+2026_DLB_BIKA_122575,NIT_53/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,160323.01,1.6,7.0,2026-02-14,,,,,
+2026_PWD_BIKA_787607,NIT_73/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,577382.33,5.77,8.0,2026-03-24,,,,,
+2026_UIT_BIKA_367437,NIT_12/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,698158.62,6.98,7.0,2025-07-28,,,,,
+2026_WRD_BIKA_788339,NIT_69/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,5483373.33,54.83,18.0,2025-12-04,,,,,
+2026_WRD_BIKA_804971,NIT_62/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,16111200.38,161.11,20.0,2025-04-23,,,,,
+2026_FORES_BIKA_569454,NIT_43/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,515809.59,5.16,15.0,2026-01-19,,,,,
+2026_FORES_BIKA_354828,NIT_79/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,742875.05,7.43,12.0,2026-01-18,,,,,
+2026_PHED_BIKA_114191,NIT_19/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2522996.09,25.23,17.0,2025-05-02,,,,,
+2026_DLB_BIKA_169257,NIT_85/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,619595.47,6.2,12.0,2025-06-01,,,,,
+2026_PWD_BIKA_580077,NIT_19/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,352093.55,3.52,7.0,2025-07-08,,,,,
+2026_WRD_BIKA_286622,NIT_78/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,801528.86,8.02,13.0,2025-11-13,,,,,
+2026_PHED_BIKA_828285,NIT_24/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,734379.42,7.34,8.0,2025-11-25,,,,,
+2026_DLB_BIKA_504288,NIT_10/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,4514191.04,45.14,11.0,2026-03-15,,,,,
+2026_PHED_BIKA_534660,NIT_19/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,9945425.24,99.45,12.0,2025-12-19,,,,,
+2026_FORES_BIKA_484129,NIT_61/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,631634.29,6.32,10.0,2026-01-28,,,,,
+2026_PHED_BIKA_412754,NIT_81/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,247525.08,2.48,10.0,2025-09-07,,,,,
+2026_FORES_BIKA_456740,NIT_36/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,764904.68,7.65,14.0,2025-09-06,,,,,
+2026_FORES_BIKA_236031,NIT_28/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,224402.88,2.24,15.0,2025-05-20,,,,,
+2026_PWD_BIKA_478642,NIT_71/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,97854354.8,978.54,33.0,2025-10-16,,,,,
+2026_UIT_BIKA_807447,NIT_66/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3547516.26,35.48,15.0,2025-08-05,,,,,
+2026_UIT_BIKA_988767,NIT_66/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,635485.05,6.35,7.0,2025-10-17,,,,,
+2026_PHED_BIKA_748116,NIT_58/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,3561110.81,35.61,18.0,2025-05-09,,,,,
+2026_DLB_BIKA_950608,NIT_91/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,16873884.21,168.74,18.0,2025-05-05,,,,,
+2026_PWD_BIKA_813684,NIT_51/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,15458944.22,154.59,23.0,2025-08-28,,,,,
+2026_UIT_BIKA_323199,NIT_45/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,682236.11,6.82,8.0,2025-06-21,,,,,
+2026_PWD_BIKA_826095,NIT_79/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,839237.39,8.39,15.0,2025-12-25,,,,,
+2026_FORES_BIKA_921793,NIT_31/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3252104.58,32.52,14.0,2025-11-26,,,,,
+2026_PWD_BIKA_776428,NIT_94/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,406077.44,4.06,10.0,2025-07-17,,,,,
+2026_PHED_BIKA_197911,NIT_29/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,52748021.15,527.48,34.0,2025-07-08,,,,,
+2026_PHED_BIKA_829944,NIT_45/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2144979.8,21.45,12.0,2025-06-29,,,,,
+2026_PWD_BIKA_589174,NIT_75/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,117212270.55,1172.12,35.0,2025-04-16,,,,,
+2026_UIT_BIKA_674913,NIT_84/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,595817.64,5.96,11.0,2025-04-27,,,,,
+2026_FORES_BIKA_666857,NIT_98/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,15403537.4,154.04,17.0,2025-08-03,,,,,
+2026_UIT_BIKA_324298,NIT_61/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,617883.38,6.18,7.0,2025-11-24,,,,,
+2026_PHED_BIKA_637920,NIT_57/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,27230720.34,272.31,33.0,2025-10-03,,,,,
+2026_DLB_BIKA_600539,NIT_85/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,378371.54,3.78,7.0,2026-02-10,,,,,
+2026_WRD_BIKA_539253,NIT_22/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,505508.04,5.06,13.0,2025-07-10,,,,,
+2026_UIT_BIKA_612437,NIT_81/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3910441.89,39.1,17.0,2025-05-20,,,,,
+2026_FORES_BIKA_441966,NIT_21/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,331599.41,3.32,7.0,2025-10-20,,,,,
+2026_PHED_BIKA_411174,NIT_14/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,623651.07,6.24,8.0,2025-06-29,,,,,
+2026_FORES_BIKA_715771,NIT_83/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,37272754.97,372.73,33.0,2025-10-16,,,,,
+2026_PWD_BIKA_669631,NIT_24/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,442639.43,4.43,14.0,2025-10-26,,,,,
+2026_WRD_BIKA_238171,NIT_35/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2802598.86,28.03,15.0,2025-04-19,,,,,
+2026_DLB_BIKA_690724,NIT_13/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,662760.82,6.63,14.0,2025-10-09,,,,,
+2026_WRD_BIKA_264160,NIT_35/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,15634500.34,156.35,6.0,2025-07-16,,,,,
+2026_FORES_BIKA_828738,NIT_50/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3420830.72,34.21,12.0,2025-07-26,,,,,
+2026_PHED_BIKA_696738,NIT_10/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,810342.12,8.1,8.0,2025-06-23,,,,,
+2026_UIT_BIKA_379394,NIT_88/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,338636.84,3.39,12.0,2026-03-18,,,,,
+2026_MEDIC_BIKA_258434,NIT_27/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,1363928.87,13.64,11.0,2025-10-07,,,,,
+2026_PWD_BIKA_208540,NIT_15/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,591315.44,5.91,7.0,2026-03-25,,,,,
+2026_MEDIC_BIKA_668553,NIT_82/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,424843.76,4.25,13.0,2025-10-08,,,,,
+2026_MEDIC_BIKA_926051,NIT_38/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,2332314.77,23.32,14.0,2025-04-30,,,,,
+2026_PWD_BIKA_675133,NIT_22/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,391036.97,3.91,15.0,2025-10-18,,,,,
+2026_PWD_BIKA_522005,NIT_78/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,624134.23,6.24,14.0,2025-09-05,,,,,
+2026_WRD_BIKA_616053,NIT_12/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,4523562.42,45.24,15.0,2025-06-28,,,,,
+2026_PHED_BIKA_411042,NIT_87/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,896210.91,8.96,15.0,2026-01-22,,,,,
+2026_DLB_BIKA_518386,NIT_39/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,605259.31,6.05,7.0,2025-11-16,,,,,
+2026_DLB_BIKA_696478,NIT_46/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,215936.85,2.16,15.0,2025-11-24,,,,,
+2026_PWD_BIKA_884803,NIT_19/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2356056.0,23.56,15.0,2025-04-27,,,,,
+2026_UIT_BIKA_949130,NIT_63/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1968021.01,19.68,14.0,2025-05-27,,,,,
+2026_FORES_BIKA_965445,NIT_65/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,2713360.82,27.13,15.0,2025-07-23,,,,,
+2026_PWD_BIKA_390176,NIT_48/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,401117.28,4.01,12.0,2026-02-25,,,,,
+2026_MEDIC_BIKA_637988,NIT_97/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,894917.7,8.95,13.0,2025-08-03,,,,,
+2026_UIT_BIKA_242570,NIT_91/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,390372.1,3.9,10.0,2025-09-11,,,,,
+2026_PWD_BIKA_662475,NIT_93/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,933607.89,9.34,8.0,2025-06-05,,,,,
+2026_DLB_BIKA_372477,NIT_75/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,112440844.14,1124.41,36.0,2026-02-14,,,,,
+2026_MEDIC_BIKA_485923,NIT_32/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,880260.85,8.8,13.0,2026-03-07,,,,,
+2026_DLB_BIKA_107232,NIT_52/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,705188.01,7.05,10.0,2025-06-14,,,,,
+2026_FORES_BIKA_167456,NIT_83/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,519556.27,5.2,12.0,2025-10-19,,,,,
+2026_PHED_BIKA_761561,NIT_77/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1604914.75,16.05,10.0,2025-06-20,,,,,
+2026_UIT_BIKA_651431,NIT_66/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3441567.4,34.42,17.0,2025-10-29,,,,,
+2026_UIT_BIKA_663254,NIT_21/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1879649.4,18.8,11.0,2025-04-12,,,,,
+2026_PHED_BIKA_778455,NIT_15/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,12718202.81,127.18,23.0,2026-01-27,,,,,
+2026_MEDIC_BIKA_343728,NIT_63/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,416251.58,4.16,7.0,2026-03-08,,,,,
+2026_PHED_BIKA_167452,NIT_88/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,166831.16,1.67,15.0,2026-01-10,,,,,
+2026_PHED_BIKA_432236,NIT_77/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,366863.35,3.67,7.0,2025-12-19,,,,,
+2026_FORES_BIKA_495420,NIT_55/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1522960.92,15.23,17.0,2025-08-28,,,,,
+2026_UIT_BIKA_648382,NIT_59/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1231091.92,12.31,16.0,2025-07-28,,,,,
+2026_DLB_BIKA_969489,NIT_75/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,911559.21,9.12,13.0,2026-01-27,,,,,
+2026_PWD_BIKA_817760,NIT_87/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2691859.35,26.92,13.0,2025-06-28,,,,,
+2026_FORES_BIKA_624750,NIT_57/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,2447321.84,24.47,17.0,2026-01-27,,,,,
+2026_DLB_BIKA_379693,NIT_81/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,18050939.5,180.51,11.0,2025-06-24,,,,,
+2026_UIT_BIKA_961727,NIT_33/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3015042.72,30.15,18.0,2025-06-04,,,,,
+2026_DLB_BIKA_254442,NIT_62/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3981604.05,39.82,16.0,2025-09-21,,,,,
+2026_DLB_BIKA_554712,NIT_75/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,277364.69,2.77,13.0,2025-11-27,,,,,
+2026_PHED_BIKA_648704,NIT_32/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,4122844.14,41.23,17.0,2025-12-13,,,,,
+2026_FORES_BIKA_957989,NIT_61/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,12189644.75,121.9,5.0,2025-12-26,,,,,
+2026_MEDIC_BIKA_613770,NIT_75/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,695604.52,6.96,15.0,2025-10-20,,,,,
+2026_DLB_BIKA_824701,NIT_29/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3650873.33,36.51,15.0,2025-08-26,,,,,
+2026_PWD_BIKA_755413,NIT_56/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2822650.17,28.23,12.0,2025-10-24,,,,,
+2026_MEDIC_BIKA_498868,NIT_69/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,820666.96,8.21,9.0,2025-10-02,,,,,
+2026_DLB_BIKA_548843,NIT_54/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,2296011.84,22.96,11.0,2025-08-13,,,,,
+2026_DLB_BIKA_478510,NIT_87/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,620146.81,6.2,11.0,2025-07-12,,,,,
+2026_PWD_BIKA_723587,NIT_86/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,116790313.11,1167.9,33.0,2025-05-25,,,,,
+2026_UIT_BIKA_778209,NIT_56/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,18981001.36,189.81,23.0,2025-10-12,,,,,
+2026_UIT_BIKA_934449,NIT_57/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,360370.56,3.6,10.0,2026-03-09,,,,,
+2026_MEDIC_BIKA_689033,NIT_15/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,490179.76,4.9,8.0,2025-12-09,,,,,
+2026_WRD_BIKA_281860,NIT_56/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,4593537.21,45.94,16.0,2026-02-14,,,,,
+2026_DLB_BIKA_881527,NIT_52/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,683223.51,6.83,14.0,2025-05-22,,,,,
+2026_UIT_BIKA_914633,NIT_67/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,674711.2,6.75,9.0,2025-09-01,,,,,
+2026_UIT_BIKA_955423,NIT_96/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,186519.39,1.87,12.0,2025-12-21,,,,,
+2026_DLB_BIKA_213304,NIT_41/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,673715.47,6.74,10.0,2025-08-19,,,,,
+2026_DLB_BIKA_372548,NIT_95/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,681829.68,6.82,7.0,2025-04-25,,,,,
+2026_WRD_BIKA_420682,NIT_18/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,12645615.08,126.46,21.0,2025-04-19,,,,,
+2026_PHED_BIKA_108281,NIT_73/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,18219596.56,182.2,19.0,2025-08-01,,,,,
+2026_UIT_BIKA_494728,NIT_39/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,4199860.24,42.0,11.0,2025-09-13,,,,,
+2026_FORES_BIKA_549234,NIT_50/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,12725740.3,127.26,18.0,2025-08-28,,,,,
+2026_UIT_BIKA_132487,NIT_90/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,355433.77,3.55,10.0,2026-01-03,,,,,
+2026_FORES_BIKA_377463,NIT_19/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,309852.01,3.1,7.0,2025-11-13,,,,,
+2026_MEDIC_BIKA_593491,NIT_13/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,333149.8,3.33,7.0,2025-05-15,,,,,
+2026_WRD_BIKA_169440,NIT_24/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2948813.41,29.49,10.0,2025-11-07,,,,,
+2026_FORES_BIKA_145407,NIT_59/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,73209780.44,732.1,37.0,2026-02-12,,,,,
+2026_DLB_BIKA_539965,NIT_44/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,4177103.45,41.77,17.0,2025-04-11,,,,,
+2026_UIT_BIKA_459603,NIT_73/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,16204229.4,162.04,13.0,2026-02-26,,,,,
+2026_PWD_BIKA_658966,NIT_14/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4357041.9,43.57,11.0,2025-12-27,,,,,
+2026_FORES_BIKA_259426,NIT_63/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,901754.12,9.02,9.0,2025-05-02,,,,,
+2026_PWD_BIKA_227523,NIT_88/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,632636.55,6.33,15.0,2026-01-11,,,,,
+2026_DLB_BIKA_104888,NIT_87/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,182104.96,1.82,11.0,2025-06-23,,,,,
+2026_PHED_BIKA_256938,NIT_62/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,738631.81,7.39,10.0,2026-03-27,,,,,
+2026_WRD_BIKA_466136,NIT_61/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2207569.67,22.08,14.0,2025-04-18,,,,,
+2026_FORES_BIKA_601971,NIT_85/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,694189.38,6.94,12.0,2026-02-01,,,,,
+2026_PHED_BIKA_231887,NIT_11/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1674459.81,16.74,15.0,2025-06-06,,,,,
+2026_PWD_BIKA_595353,NIT_62/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4430616.52,44.31,13.0,2025-09-23,,,,,
+2026_MEDIC_BIKA_326694,NIT_29/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,442249.94,4.42,15.0,2025-07-13,,,,,
+2026_FORES_BIKA_966161,NIT_70/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,182023.16,1.82,14.0,2025-12-02,,,,,
+2026_WRD_BIKA_425970,NIT_20/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,661144.04,6.61,13.0,2025-06-17,,,,,
+2026_PWD_BIKA_400266,NIT_99/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,410477.42,4.1,11.0,2026-03-14,,,,,
+2026_FORES_BIKA_642312,NIT_99/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,13843562.86,138.44,16.0,2025-11-05,,,,,
+2026_FORES_BIKA_889706,NIT_92/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,608034.64,6.08,8.0,2025-12-09,,,,,
+2026_FORES_BIKA_437605,NIT_58/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3124389.41,31.24,16.0,2025-12-30,,,,,
+2026_UIT_BIKA_903779,NIT_18/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,17327591.9,173.28,20.0,2025-09-16,,,,,
+2026_FORES_BIKA_130959,NIT_21/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,13961541.63,139.62,15.0,2025-08-23,,,,,
+2026_FORES_BIKA_117135,NIT_22/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,11895076.6,118.95,20.0,2026-01-25,,,,,
+2026_PWD_BIKA_208222,NIT_91/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,286301.68,2.86,8.0,2025-07-27,,,,,
+2026_PWD_BIKA_898870,NIT_76/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,562672.21,5.63,12.0,2025-11-16,,,,,
+2026_PWD_BIKA_194838,NIT_63/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,172906.73,1.73,12.0,2026-01-19,,,,,
+2026_WRD_BIKA_277634,NIT_54/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,704667.34,7.05,9.0,2025-10-02,,,,,
+2026_PHED_BIKA_571640,NIT_11/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,13661427.99,136.61,21.0,2025-10-01,,,,,
+2026_MEDIC_BIKA_968768,NIT_84/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3249642.79,32.5,14.0,2025-08-19,,,,,
+2026_PWD_BIKA_675916,NIT_11/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,734852.37,7.35,15.0,2026-02-05,,,,,
+2026_PHED_BIKA_786371,NIT_94/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,564731.34,5.65,12.0,2025-09-04,,,,,
+2026_UIT_BIKA_949924,NIT_84/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,768463.18,7.68,13.0,2025-07-06,,,,,
+2026_PWD_BIKA_629180,NIT_40/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3331424.42,33.31,17.0,2025-06-10,,,,,
+2026_FORES_BIKA_962079,NIT_53/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1475486.22,14.75,18.0,2025-07-27,,,,,
+2026_PHED_BIKA_687910,NIT_90/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,13341338.04,133.41,16.0,2025-04-18,,,,,
+2026_PHED_BIKA_940332,NIT_59/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,43254222.19,432.54,33.0,2025-10-06,,,,,
+2026_WRD_BIKA_370591,NIT_85/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,645246.18,6.45,14.0,2025-09-21,,,,,
+2026_UIT_BIKA_434535,NIT_47/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,439119.77,4.39,9.0,2025-06-19,,,,,
+2026_PHED_BIKA_778854,NIT_44/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,174150.7,1.74,7.0,2025-12-14,,,,,
+2026_FORES_BIKA_693817,NIT_51/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,872511.88,8.73,11.0,2025-07-18,,,,,
+2026_MEDIC_BIKA_251212,NIT_64/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,12060160.95,120.6,20.0,2026-01-23,,,,,
+2026_MEDIC_BIKA_574314,NIT_58/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3016618.5,30.17,18.0,2025-05-06,,,,,
+2026_PWD_BIKA_978175,NIT_55/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1507183.69,15.07,14.0,2025-11-10,,,,,
+2026_MEDIC_BIKA_952607,NIT_30/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,614956.46,6.15,10.0,2026-02-16,,,,,
+2026_MEDIC_BIKA_495024,NIT_96/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,323427.74,3.23,14.0,2025-06-26,,,,,
+2026_PHED_BIKA_503303,NIT_41/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,673043.22,6.73,12.0,2025-12-14,,,,,
+2026_WRD_BIKA_777531,NIT_85/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,585858.77,5.86,11.0,2025-10-08,,,,,
+2026_DLB_BIKA_478583,NIT_77/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3747299.75,37.47,18.0,2025-10-27,,,,,
+2026_MEDIC_BIKA_651490,NIT_13/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,443616.84,4.44,11.0,2025-09-08,,,,,
+2026_PWD_BIKA_229257,NIT_52/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1717560.29,17.18,11.0,2025-12-26,,,,,
+2026_FORES_BIKA_560919,NIT_20/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,16372965.54,163.73,3.0,2025-04-13,,,,,
+2026_UIT_BIKA_308026,NIT_10/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,869740.1,8.7,9.0,2026-03-04,,,,,
+2026_DLB_BIKA_440348,NIT_22/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,2789236.63,27.89,16.0,2025-07-23,,,,,
+2026_PHED_BIKA_392868,NIT_89/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,394699.17,3.95,14.0,2026-03-24,,,,,
+2026_MEDIC_BIKA_351074,NIT_64/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,4475480.45,44.75,10.0,2025-06-15,,,,,
+2026_MEDIC_BIKA_629763,NIT_48/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3749558.37,37.5,15.0,2026-01-04,,,,,
+2026_PHED_BIKA_945326,NIT_74/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,28001773.88,280.02,37.0,2025-06-25,,,,,
+2026_UIT_BIKA_997653,NIT_70/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,174845.55,1.75,8.0,2025-07-17,,,,,
+2026_MEDIC_BIKA_684731,NIT_73/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,774247.96,7.74,14.0,2026-03-12,,,,,
+2026_PHED_BIKA_818613,NIT_79/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,346258.88,3.46,2.0,2025-11-03,,,,,
+2026_UIT_BIKA_665036,NIT_74/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,751090.55,7.51,11.0,2026-01-05,,,,,
+2026_DLB_BIKA_714319,NIT_46/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3336743.62,33.37,13.0,2025-07-11,,,,,
+2026_PHED_BIKA_236250,NIT_13/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,10829174.19,108.29,23.0,2025-04-16,,,,,
+2026_DLB_BIKA_268098,NIT_68/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,377424.71,3.77,15.0,2026-03-14,,,,,
+2026_WRD_BIKA_503269,NIT_83/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,319143.13,3.19,9.0,2025-12-14,,,,,
+2026_DLB_BIKA_879557,NIT_43/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,914530.68,9.15,11.0,2025-06-10,,,,,
+2026_UIT_BIKA_154754,NIT_52/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,163451.06,1.63,7.0,2025-09-28,,,,,
+2026_PWD_BIKA_686393,NIT_90/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,318643.45,3.19,11.0,2025-09-26,,,,,
+2026_PWD_BIKA_305497,NIT_67/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,798591.49,7.99,9.0,2026-02-28,,,,,
+2026_DLB_BIKA_916102,NIT_82/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,1697048.54,16.97,12.0,2025-11-05,,,,,
+2026_PWD_BIKA_594628,NIT_57/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,216909.46,2.17,8.0,2025-12-24,,,,,
+2026_MEDIC_BIKA_782479,NIT_27/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,858135.58,8.58,15.0,2025-11-18,,,,,
+2026_PWD_BIKA_157747,NIT_28/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1304304.62,13.04,11.0,2025-07-20,,,,,
+2026_MEDIC_BIKA_706679,NIT_82/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,777419.3,7.77,10.0,2026-01-26,,,,,
+2026_FORES_BIKA_629397,NIT_66/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4166338.53,41.66,14.0,2025-09-16,,,,,
+2026_PWD_BIKA_268330,NIT_28/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2801736.22,28.02,10.0,2025-11-17,,,,,
+2026_UIT_BIKA_660187,NIT_63/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2659860.73,26.6,16.0,2025-08-27,,,,,
+2026_WRD_BIKA_780067,NIT_95/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,251571.39,2.52,2.0,2025-04-20,,,,,
+2026_DLB_BIKA_612927,NIT_23/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,334986.69,3.35,9.0,2025-07-30,,,,,
+2026_PHED_BIKA_192303,NIT_32/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,12751032.2,127.51,16.0,2025-12-17,,,,,
+2026_FORES_BIKA_550722,NIT_96/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4692608.62,46.93,6.0,2025-06-05,,,,,
+2026_PHED_BIKA_178870,NIT_22/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,673833.69,6.74,9.0,2025-09-28,,,,,
+2026_UIT_BIKA_571898,NIT_44/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,922931.88,9.23,11.0,2025-10-20,,,,,
+2026_DLB_BIKA_839792,NIT_73/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,394375.55,3.94,12.0,2025-04-13,,,,,
+2026_WRD_BIKA_573319,NIT_50/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,675485.27,6.75,10.0,2025-08-09,,,,,
+2026_PHED_BIKA_452571,NIT_45/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2929807.22,29.3,10.0,2025-12-31,,,,,
+2026_WRD_BIKA_878048,NIT_18/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,213473.39,2.13,11.0,2025-11-17,,,,,
+2026_FORES_BIKA_970456,NIT_57/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,838688.89,8.39,11.0,2025-11-03,,,,,
+2026_UIT_BIKA_488955,NIT_37/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2009562.53,20.1,14.0,2026-03-01,,,,,
+2026_PHED_BIKA_258008,NIT_74/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,599274.4,5.99,9.0,2025-11-02,,,,,
+2026_PWD_BIKA_278266,NIT_82/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2849746.82,28.5,14.0,2026-01-13,,,,,
+2026_PWD_BIKA_953777,NIT_51/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2760264.47,27.6,18.0,2025-11-17,,,,,
+2026_FORES_BIKA_960186,NIT_35/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,892650.36,8.93,9.0,2025-04-19,,,,,
+2026_PWD_BIKA_644932,NIT_80/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3320140.31,33.2,11.0,2025-05-14,,,,,
+2026_PWD_BIKA_817577,NIT_86/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2725572.67,27.26,13.0,2025-04-20,,,,,
+2026_PHED_BIKA_963335,NIT_76/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,866171.29,8.66,12.0,2025-08-03,,,,,
+2026_WRD_BIKA_837009,NIT_94/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,594606.28,5.95,15.0,2025-09-29,,,,,
+2026_UIT_BIKA_988036,NIT_69/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,645289.82,6.45,14.0,2025-06-21,,,,,
+2026_PWD_BIKA_378526,NIT_76/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,10723006.64,107.23,23.0,2025-09-30,,,,,
+2026_WRD_BIKA_226578,NIT_95/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2343000.8,23.43,13.0,2025-08-08,,,,,
+2026_DLB_BIKA_543558,NIT_66/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,338841.62,3.39,15.0,2025-04-04,,,,,
+2026_WRD_BIKA_669337,NIT_94/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,1064724.9,10.65,17.0,2025-06-05,,,,,
+2026_UIT_BIKA_616631,NIT_99/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,372115.6,3.72,5.0,2025-06-02,,,,,
+2026_PWD_BIKA_483403,NIT_65/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4510148.42,45.1,13.0,2026-02-18,,,,,
+2026_PWD_BIKA_872934,NIT_18/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1148823.19,11.49,18.0,2025-08-15,,,,,
+2026_MEDIC_BIKA_488243,NIT_53/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,515064.06,5.15,10.0,2026-02-03,,,,,
+2026_FORES_BIKA_924615,NIT_38/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,16701546.3,167.02,19.0,2025-04-10,,,,,
+2026_PWD_BIKA_935286,NIT_46/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2891641.24,28.92,16.0,2025-08-20,,,,,
+2026_MEDIC_BIKA_377170,NIT_65/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,1376482.33,13.76,11.0,2025-04-14,,,,,
+2026_PWD_BIKA_414172,NIT_50/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,284747.32,2.85,14.0,2026-03-02,,,,,
+2026_UIT_BIKA_207360,NIT_68/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,14356880.27,143.57,16.0,2025-05-06,,,,,
+2026_PHED_BIKA_628800,NIT_66/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,17312705.25,173.13,12.0,2025-07-07,,,,,
+2026_PWD_BIKA_767581,NIT_10/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,737244.05,7.37,8.0,2025-12-03,,,,,
+2026_PHED_BIKA_457392,NIT_99/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,426163.37,4.26,14.0,2025-06-02,,,,,
+2026_DLB_BIKA_600445,NIT_66/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,275231.26,2.75,13.0,2025-08-26,,,,,
+2026_PWD_BIKA_931611,NIT_20/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4077144.77,40.77,15.0,2026-01-14,,,,,
+2026_WRD_BIKA_305391,NIT_42/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2398239.89,23.98,17.0,2025-06-11,,,,,
+2026_MEDIC_BIKA_883524,NIT_96/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,174826.91,1.75,10.0,2025-12-10,,,,,
+2026_PHED_BIKA_436374,NIT_83/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,10000430.48,100.0,23.0,2026-02-01,,,,,
+2026_UIT_BIKA_689400,NIT_35/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,830535.83,8.31,7.0,2025-05-25,,,,,
+2026_WRD_BIKA_680567,NIT_25/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,3876781.72,38.77,12.0,2025-12-11,,,,,
+2026_PWD_BIKA_886473,NIT_97/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,341160.34,3.41,13.0,2025-09-28,,,,,
+2026_FORES_BIKA_599386,NIT_60/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,204095.2,2.04,7.0,2025-10-02,,,,,
+2026_PHED_BIKA_953720,NIT_73/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,288471.09,2.88,14.0,2025-09-24,,,,,
+2026_WRD_BIKA_305875,NIT_51/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,394702.85,3.95,7.0,2025-05-31,,,,,
+2026_WRD_BIKA_280457,NIT_65/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,4116175.3,41.16,6.0,2025-12-30,,,,,
+2026_DLB_BIKA_693572,NIT_89/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,1859597.11,18.6,18.0,2025-07-06,,,,,
+2026_MEDIC_BIKA_608371,NIT_80/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,754428.78,7.54,8.0,2026-03-17,,,,,
+2026_DLB_BIKA_519111,NIT_51/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,606879.74,6.07,11.0,2025-08-11,,,,,
+2026_WRD_BIKA_117841,NIT_38/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,293057.86,2.93,9.0,2025-08-13,,,,,
+2026_FORES_BIKA_634756,NIT_92/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4388240.34,43.88,11.0,2025-08-09,,,,,
+2026_UIT_BIKA_266911,NIT_72/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2041633.88,20.42,15.0,2025-12-15,,,,,
+2026_MEDIC_BIKA_207854,NIT_56/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,778272.91,7.78,11.0,2025-09-17,,,,,
+2026_FORES_BIKA_668390,NIT_29/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4065668.13,40.66,17.0,2026-03-26,,,,,
+2026_PHED_BIKA_124575,NIT_43/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,241522.64,2.42,10.0,2026-02-06,,,,,
+2026_FORES_BIKA_379753,NIT_31/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,8872516.7,88.73,15.0,2025-08-27,,,,,
+2026_MEDIC_BIKA_715426,NIT_17/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,5357738.81,53.58,10.0,2025-04-07,,,,,
+2026_UIT_BIKA_650941,NIT_73/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,4751904.2,47.52,14.0,2025-04-16,,,,,
+2026_MEDIC_BIKA_233636,NIT_81/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,8166975.57,81.67,15.0,2025-04-16,,,,,
+2026_FORES_BIKA_706066,NIT_33/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,11669129.01,116.69,23.0,2026-02-02,,,,,
+2026_UIT_BIKA_286869,NIT_50/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,12016698.29,120.17,21.0,2026-03-13,,,,,
+2026_DLB_BIKA_265491,NIT_18/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,3080661.56,30.81,11.0,2025-10-02,,,,,
+2026_DLB_BIKA_615052,NIT_39/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,728714.6,7.29,12.0,2025-08-02,,,,,
+2026_UIT_BIKA_525715,NIT_39/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,637085.13,6.37,13.0,2026-03-02,,,,,
+2026_MEDIC_BIKA_144980,NIT_38/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,464106.78,4.64,15.0,2025-08-22,,,,,
+2026_PHED_BIKA_743594,NIT_62/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,3058917.76,30.59,18.0,2026-03-02,,,,,
+2026_PHED_BIKA_317631,NIT_62/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,616665.66,6.17,14.0,2025-05-26,,,,,
+2026_DLB_BIKA_674464,NIT_36/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,158206.03,1.58,7.0,2026-02-17,,,,,
+2026_WRD_BIKA_497333,NIT_49/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,351190.25,3.51,13.0,2026-01-06,,,,,
+2026_MEDIC_BIKA_819935,NIT_72/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,826677.43,8.27,15.0,2025-11-19,,,,,
+2026_WRD_BIKA_775194,NIT_78/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,3813110.31,38.13,13.0,2025-05-20,,,,,
+2026_MEDIC_BIKA_970424,NIT_93/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,8566882.81,85.67,17.0,2025-05-15,,,,,
+2026_WRD_BIKA_840659,NIT_72/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,1948542.39,19.49,12.0,2025-04-04,,,,,
+2026_MEDIC_BIKA_319202,NIT_99/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,2589216.04,25.89,16.0,2026-03-26,,,,,
+2026_PHED_BIKA_248938,NIT_74/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,2809240.9,28.09,13.0,2025-05-15,,,,,
+2026_PWD_BIKA_116261,NIT_85/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,554125.71,5.54,11.0,2025-12-23,,,,,
+2026_UIT_BIKA_217230,NIT_62/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,226296.71,2.26,13.0,2025-06-28,,,,,
+2026_MEDIC_BIKA_675999,NIT_97/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,16447268.3,164.47,15.0,2025-05-23,,,,,
+2026_WRD_BIKA_670061,NIT_87/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,942148.02,9.42,8.0,2026-01-17,,,,,
+2026_DLB_BIKA_465276,NIT_30/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,665315.89,6.65,7.0,2025-06-24,,,,,
+2026_FORES_BIKA_976195,NIT_62/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4423396.98,44.23,18.0,2025-04-24,,,,,
+2026_UIT_BIKA_314016,NIT_27/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,664004.19,6.64,10.0,2026-01-14,,,,,
+2026_FORES_BIKA_868010,NIT_82/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,756792.39,7.57,9.0,2026-01-20,,,,,
+2026_PWD_BIKA_705380,NIT_18/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,312679.1,3.13,8.0,2025-06-21,,,,,
+2026_MEDIC_BIKA_932229,NIT_36/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,725926.77,7.26,8.0,2026-03-03,,,,,
+2026_DLB_BIKA_461600,NIT_95/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,792367.41,7.92,12.0,2025-04-24,,,,,
+2026_FORES_BIKA_659169,NIT_32/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,254271.3,2.54,11.0,2025-12-09,,,,,
+2026_FORES_BIKA_808147,NIT_98/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3954877.83,39.55,12.0,2025-08-13,,,,,
+2026_MEDIC_BIKA_805398,NIT_13/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,16907463.69,169.07,23.0,2025-06-30,,,,,
+2026_WRD_BIKA_203782,NIT_80/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,933031.03,9.33,10.0,2025-09-28,,,,,
+2026_DLB_BIKA_589991,NIT_28/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,5628734.09,56.29,15.0,2025-05-26,,,,,
+2026_WRD_BIKA_843588,NIT_71/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,328585.3,3.29,9.0,2025-11-26,,,,,
+2026_PHED_BIKA_281554,NIT_16/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,562801.51,5.63,15.0,2026-03-18,,,,,
+2026_PWD_BIKA_744812,NIT_13/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,675244.2,6.75,8.0,2025-11-24,,,,,
+2026_UIT_BIKA_397227,NIT_94/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3075054.48,30.75,18.0,2025-10-27,,,,,
+2026_PHED_BIKA_233426,NIT_12/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,945954.66,9.46,13.0,2025-12-03,,,,,
+2026_PHED_BIKA_530027,NIT_45/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1944961.05,19.45,14.0,2025-05-03,,,,,
+2026_UIT_BIKA_490443,NIT_30/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1983175.26,19.83,12.0,2026-02-25,,,,,
+2026_PWD_BIKA_241680,NIT_83/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,656263.4,6.56,13.0,2025-10-23,,,,,
+2026_WRD_BIKA_210639,NIT_56/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,1312309.47,13.12,17.0,2025-06-21,,,,,
+2026_PHED_BIKA_803408,NIT_46/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,8086257.58,80.86,21.0,2025-08-23,,,,,
+2026_DLB_BIKA_751931,NIT_77/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,675699.01,6.76,13.0,2025-09-19,,,,,
+2026_UIT_BIKA_783730,NIT_10/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,323868.75,3.24,11.0,2025-10-14,,,,,
+2026_MEDIC_BIKA_915307,NIT_99/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,1226133.31,12.26,11.0,2025-09-12,,,,,
+2026_FORES_BIKA_240878,NIT_67/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,4032410.93,40.32,10.0,2026-02-14,,,,,
+2026_UIT_BIKA_512060,NIT_14/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,347125.8,3.47,12.0,2026-03-22,,,,,
+2026_MEDIC_BIKA_459703,NIT_62/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,636637.58,6.37,10.0,2026-03-23,,,,,
+2026_MEDIC_BIKA_772135,NIT_63/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,870286.62,8.7,9.0,2025-06-28,,,,,
+2026_MEDIC_BIKA_755188,NIT_25/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,636455.49,6.36,12.0,2026-03-21,,,,,
+2026_DLB_BIKA_494929,NIT_40/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,668802.51,6.69,10.0,2026-02-01,,,,,
+2026_MEDIC_BIKA_910954,NIT_73/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,6157442.38,61.57,15.0,2025-11-10,,,,,
+2026_PWD_BIKA_736446,NIT_38/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,4552787.41,45.53,17.0,2026-02-25,,,,,
+2026_PWD_BIKA_515741,NIT_25/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,641008.69,6.41,15.0,2025-04-25,,,,,
+2026_FORES_BIKA_184380,NIT_80/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,2796370.02,27.96,16.0,2025-10-14,,,,,
+2026_FORES_BIKA_713879,NIT_82/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,18481358.72,184.81,20.0,2025-09-22,,,,,
+2026_DLB_BIKA_611117,NIT_96/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,281715.48,2.82,14.0,2025-08-19,,,,,
+2026_PHED_BIKA_136475,NIT_91/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,670298.84,6.7,15.0,2025-08-30,,,,,
+2026_PHED_BIKA_764424,NIT_69/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,244804.16,2.45,8.0,2025-07-08,,,,,
+2026_DLB_BIKA_985113,NIT_53/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,4352660.09,43.53,14.0,2026-01-11,,,,,
+2026_DLB_BIKA_965025,NIT_66/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,747019.89,7.47,10.0,2025-10-29,,,,,
+2026_WRD_BIKA_658181,NIT_83/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,108962718.46,1089.63,37.0,2025-09-09,,,,,
+2026_MEDIC_BIKA_111698,NIT_74/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,560366.94,5.6,7.0,2025-05-01,,,,,
+2026_UIT_BIKA_263103,NIT_57/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,236187.93,2.36,9.0,2026-01-11,,,,,
+2026_PWD_BIKA_513681,NIT_15/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,283758.14,2.84,10.0,2025-07-30,,,,,
+2026_WRD_BIKA_405562,NIT_18/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,830555.81,8.31,8.0,2025-04-01,,,,,
+2026_PHED_BIKA_283075,NIT_14/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1325658.87,13.26,11.0,2025-10-28,,,,,
+2026_PWD_BIKA_762885,NIT_83/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,113116034.89,1131.16,33.0,2025-11-21,,,,,
+2026_PWD_BIKA_877478,NIT_86/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,734604.42,7.35,9.0,2025-11-01,,,,,
+2026_PHED_BIKA_352660,NIT_29/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,76913344.49,769.13,30.0,2025-04-07,,,,,
+2026_PHED_BIKA_949522,NIT_36/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,7548986.12,75.49,17.0,2025-08-16,,,,,
+2026_PWD_BIKA_142799,NIT_59/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,821475.98,8.21,8.0,2025-12-04,,,,,
+2026_WRD_BIKA_878439,NIT_77/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2569180.28,25.69,14.0,2026-01-29,,,,,
+2026_FORES_BIKA_636909,NIT_74/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,740745.23,7.41,13.0,2026-02-06,,,,,
+2026_PWD_BIKA_767027,NIT_31/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3269649.92,32.7,12.0,2025-11-24,,,,,
+2026_DLB_BIKA_714335,NIT_87/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,615134.07,6.15,11.0,2025-09-09,,,,,
+2026_PWD_BIKA_805078,NIT_81/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1749192.38,17.49,12.0,2025-11-08,,,,,
+2026_FORES_BIKA_751737,NIT_26/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,515754.53,5.16,14.0,2025-06-22,,,,,
+2026_UIT_BIKA_870222,NIT_52/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,8151251.27,81.51,22.0,2025-08-27,,,,,
+2026_WRD_BIKA_336610,NIT_66/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,8878366.32,88.78,5.0,2025-10-14,,,,,
+2026_MEDIC_BIKA_379600,NIT_88/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,178872.04,1.79,15.0,2025-09-24,,,,,
+2026_DLB_BIKA_406708,NIT_35/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,264073.76,2.64,3.0,2026-02-13,,,,,
+2026_PHED_BIKA_223386,NIT_28/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,940369.77,9.4,15.0,2025-06-30,,,,,
+2026_DLB_BIKA_738267,NIT_16/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,2513944.19,25.14,14.0,2025-09-20,,,,,
+2026_DLB_BIKA_349429,NIT_43/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,687159.61,6.87,11.0,2025-05-31,,,,,
+2026_PHED_BIKA_980300,NIT_27/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,1924979.68,19.25,11.0,2025-10-31,,,,,
+2026_PHED_BIKA_976477,NIT_57/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,295749.48,2.96,15.0,2025-05-05,,,,,
+2026_MEDIC_BIKA_801499,NIT_69/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,323921.39,3.24,11.0,2026-02-09,,,,,
+2026_WRD_BIKA_449335,NIT_28/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,767905.84,7.68,9.0,2025-08-22,,,,,
+2026_PHED_BIKA_787916,NIT_17/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,433301.94,4.33,14.0,2025-07-13,,,,,
+2026_MEDIC_BIKA_779901,NIT_75/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3341708.66,33.42,5.0,2025-10-11,,,,,
+2026_FORES_BIKA_219198,NIT_41/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,32925702.36,329.26,36.0,2025-07-26,,,,,
+2026_FORES_BIKA_929484,NIT_94/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,800631.38,8.01,7.0,2025-04-13,,,,,
+2026_UIT_BIKA_279502,NIT_27/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,157020.32,1.57,13.0,2025-11-20,,,,,
+2026_MEDIC_BIKA_684040,NIT_63/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,617973.37,6.18,14.0,2025-04-01,,,,,
+2026_UIT_BIKA_429150,NIT_72/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1157593.29,11.58,13.0,2026-02-19,,,,,
+2026_PWD_BIKA_908117,NIT_97/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,941582.93,9.42,9.0,2025-05-01,,,,,
+2026_PWD_BIKA_108886,NIT_95/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,1191546.02,11.92,11.0,2025-05-27,,,,,
+2026_PWD_BIKA_686288,NIT_16/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,5897577.91,58.98,17.0,2025-05-28,,,,,
+2026_UIT_BIKA_103848,NIT_35/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,831706.86,8.32,15.0,2025-12-03,,,,,
+2026_MEDIC_BIKA_210186,NIT_52/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,1479545.82,14.8,17.0,2025-12-14,,,,,
+2026_MEDIC_BIKA_983550,NIT_30/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,490365.3,4.9,7.0,2025-05-11,,,,,
+2026_UIT_BIKA_947770,NIT_60/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,290947.3,2.91,9.0,2026-01-30,,,,,
+2026_WRD_BIKA_808735,NIT_56/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,444639.43,4.45,14.0,2025-04-26,,,,,
+2026_MEDIC_BIKA_601473,NIT_84/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,221405.19,2.21,9.0,2025-06-29,,,,,
+2026_FORES_BIKA_880516,NIT_16/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,437645.65,4.38,9.0,2025-12-23,,,,,
+2026_PHED_BIKA_592317,NIT_18/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,707247.92,7.07,14.0,2025-09-16,,,,,
+2026_WRD_BIKA_366843,NIT_88/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,474158.37,4.74,9.0,2025-08-28,,,,,
+2026_DLB_BIKA_524641,NIT_17/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,399650.75,4.0,11.0,2025-12-18,,,,,
+2026_WRD_BIKA_261261,NIT_33/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,4412073.79,44.12,10.0,2025-04-08,,,,,
+2026_PWD_BIKA_882122,NIT_47/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,8288651.32,82.89,16.0,2025-11-09,,,,,
+2026_FORES_BIKA_163526,NIT_87/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,503134.26,5.03,13.0,2025-11-22,,,,,
+2026_FORES_BIKA_147167,NIT_42/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,725297.31,7.25,3.0,2025-05-26,,,,,
+2026_MEDIC_BIKA_325846,NIT_54/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,175046.13,1.75,7.0,2025-10-07,,,,,
+2026_WRD_BIKA_981471,NIT_32/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,8026906.52,80.27,16.0,2025-09-30,,,,,
+2026_PWD_BIKA_676677,NIT_25/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3863037.04,38.63,14.0,2025-06-30,,,,,
+2026_FORES_BIKA_668541,NIT_91/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,561277.29,5.61,11.0,2025-11-13,,,,,
+2026_FORES_BIKA_352708,NIT_82/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,738268.4,7.38,12.0,2025-07-24,,,,,
+2026_DLB_BIKA_708199,NIT_93/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,722880.87,7.23,8.0,2025-09-24,,,,,
+2026_FORES_BIKA_451071,NIT_73/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,269600.98,2.7,13.0,2026-01-07,,,,,
+2026_WRD_BIKA_779879,NIT_22/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,72660130.53,726.6,7.0,2026-01-10,,,,,
+2026_PHED_BIKA_506727,NIT_24/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,16357524.31,163.58,19.0,2025-07-29,,,,,
+2026_FORES_BIKA_406148,NIT_94/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,244793.32,2.45,10.0,2026-03-26,,,,,
+2026_UIT_BIKA_701830,NIT_50/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,601916.87,6.02,12.0,2025-09-04,,,,,
+2026_WRD_BIKA_860487,NIT_13/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,418030.18,4.18,13.0,2025-07-31,,,,,
+2026_FORES_BIKA_246940,NIT_21/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,593023.28,5.93,7.0,2025-10-18,,,,,
+2026_UIT_BIKA_964751,NIT_27/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,11124018.48,111.24,15.0,2026-01-11,,,,,
+2026_UIT_BIKA_913094,NIT_48/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,387708.39,3.88,7.0,2026-02-22,,,,,
+2026_DLB_BIKA_616808,NIT_86/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,556963.44,5.57,15.0,2026-01-14,,,,,
+2026_DLB_BIKA_817571,NIT_30/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,566494.43,5.66,11.0,2025-07-21,,,,,
+2026_PHED_BIKA_307622,NIT_89/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,14069085.74,140.69,23.0,2025-09-23,,,,,
+2026_UIT_BIKA_921324,NIT_29/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2251150.83,22.51,18.0,2025-04-30,,,,,
+2026_WRD_BIKA_698233,NIT_93/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,468734.92,4.69,9.0,2025-09-29,,,,,
+2026_FORES_BIKA_437406,NIT_81/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,173472.34,1.73,8.0,2025-09-15,,,,,
+2026_PHED_BIKA_733447,NIT_52/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,792195.87,7.92,10.0,2025-05-08,,,,,
+2026_PHED_BIKA_473371,NIT_26/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,27602200.11,276.02,37.0,2025-09-21,,,,,
+2026_PWD_BIKA_571922,NIT_44/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,337798.36,3.38,8.0,2026-02-05,,,,,
+2026_UIT_BIKA_294418,NIT_90/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,478480.38,4.78,14.0,2026-03-19,,,,,
+2026_PHED_BIKA_209578,NIT_48/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,440708.52,4.41,12.0,2025-09-02,,,,,
+2026_PHED_BIKA_439317,NIT_75/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,3517768.15,35.18,10.0,2025-05-31,,,,,
+2026_MEDIC_BIKA_819531,NIT_43/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,926860.17,9.27,8.0,2025-06-01,,,,,
+2026_DLB_BIKA_100515,NIT_78/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,241668.72,2.42,11.0,2026-03-08,,,,,
+2026_WRD_BIKA_267299,NIT_55/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,2191152.46,21.91,16.0,2025-05-31,,,,,
+2026_FORES_BIKA_989974,NIT_52/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1205732.94,12.06,15.0,2025-05-27,,,,,
+2026_PWD_BIKA_151376,NIT_91/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3867002.0,38.67,10.0,2025-07-09,,,,,
+2026_PWD_BIKA_520674,NIT_97/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,6800206.52,68.0,20.0,2025-11-24,,,,,
+2026_MEDIC_BIKA_587852,NIT_17/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,348246.23,3.48,10.0,2025-05-27,,,,,
+2026_PWD_BIKA_898854,NIT_84/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,397135.23,3.97,14.0,2025-05-10,,,,,
+2026_PWD_BIKA_164001,NIT_35/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,62459399.75,624.59,30.0,2025-11-09,,,,,
+2026_PHED_BIKA_259314,NIT_81/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,712331.81,7.12,15.0,2026-01-11,,,,,
+2026_PWD_BIKA_898114,NIT_54/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3240295.74,32.4,15.0,2025-11-06,,,,,
+2026_FORES_BIKA_164401,NIT_60/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,3195369.09,31.95,15.0,2026-02-27,,,,,
+2026_FORES_BIKA_720633,NIT_82/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,798981.43,7.99,11.0,2025-07-02,,,,,
+2026_DLB_BIKA_825666,NIT_50/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,682584.41,6.83,8.0,2025-10-10,,,,,
+2026_UIT_BIKA_768899,NIT_23/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2312594.13,23.13,16.0,2025-08-10,,,,,
+2026_WRD_BIKA_911281,NIT_38/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,15739665.1,157.4,15.0,2025-08-06,,,,,
+2026_PWD_BIKA_131061,NIT_49/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,3578630.1,35.79,12.0,2025-04-23,,,,,
+2026_MEDIC_BIKA_890320,NIT_30/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,312210.66,3.12,2.0,2025-12-19,,,,,
+2026_MEDIC_BIKA_884926,NIT_75/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,698675.86,6.99,10.0,2025-05-05,,,,,
+2026_PWD_BIKA_403538,NIT_85/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,474742.26,4.75,13.0,2025-12-10,,,,,
+2026_DLB_BIKA_668142,NIT_42/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,879168.91,8.79,8.0,2026-03-03,,,,,
+2026_UIT_BIKA_257689,NIT_24/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,847768.49,8.48,14.0,2025-04-27,,,,,
+2026_DLB_BIKA_254981,NIT_28/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,82935144.6,829.35,34.0,2025-06-04,,,,,
+2026_UIT_BIKA_532734,NIT_10/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,1787066.65,17.87,7.0,2026-03-06,,,,,
+2026_MEDIC_BIKA_122593,NIT_30/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,3389848.86,33.9,14.0,2025-06-09,,,,,
+2026_WRD_BIKA_738014,NIT_49/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,710193.55,7.1,15.0,2025-05-23,,,,,
+2026_PWD_BIKA_249289,NIT_24/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,176509.7,1.77,7.0,2025-05-14,,,,,
+2026_PHED_BIKA_817453,NIT_43/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,87801360.33,878.01,33.0,2025-10-21,,,,,
+2026_PWD_BIKA_833053,NIT_28/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,405239.63,4.05,9.0,2026-03-24,,,,,
+2026_PHED_BIKA_725629,NIT_25/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,511240.71,5.11,9.0,2025-04-27,,,,,
+2026_MEDIC_BIKA_854603,NIT_51/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,812007.31,8.12,7.0,2026-02-12,,,,,
+2026_PHED_BIKA_393231,NIT_39/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,17619899.67,176.2,23.0,2025-10-31,,,,,
+2026_MEDIC_BIKA_210667,NIT_45/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,12794679.42,127.95,21.0,2025-10-08,,,,,
+2026_UIT_BIKA_942155,NIT_60/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,699620.95,7.0,7.0,2026-02-19,,,,,
+2026_MEDIC_BIKA_140471,NIT_41/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,12213481.75,122.13,21.0,2025-11-17,,,,,
+2026_DLB_BIKA_184160,NIT_39/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,362737.07,3.63,10.0,2025-07-08,,,,,
+2026_WRD_BIKA_986768,NIT_44/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,338275.0,3.38,11.0,2025-11-30,,,,,
+2026_PWD_BIKA_422902,NIT_32/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,11896649.02,118.97,13.0,2025-07-08,,,,,
+2026_MEDIC_BIKA_473882,NIT_46/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,16182698.26,161.83,21.0,2025-05-31,,,,,
+2026_FORES_BIKA_866540,NIT_21/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,1346733.29,13.47,12.0,2025-09-11,,,,,
+2026_UIT_BIKA_938395,NIT_62/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,3456684.13,34.57,16.0,2025-06-28,,,,,
+2026_PHED_BIKA_903370,NIT_27/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,13967401.14,139.67,20.0,2025-05-16,,,,,
+2026_UIT_BIKA_302081,NIT_69/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2838325.54,28.38,10.0,2025-09-29,,,,,
+2026_WRD_BIKA_474803,NIT_86/BIK/2025-26,Water Resources Department (Bikaner Circle),Bikaner,Bikaner Division,5354016.64,53.54,18.0,2025-05-26,,,,,
+2026_PWD_BIKA_327004,NIT_44/BIK/2025-26,Public Works Department (Bikaner Circle),Bikaner,Bikaner Division,2211594.58,22.12,13.0,2025-04-30,,,,,
+2026_DLB_BIKA_395821,NIT_86/BIK/2025-26,Directorate of Local Bodies (Bikaner Circle),Bikaner,Bikaner Division,113962937.98,1139.63,32.0,2025-04-25,,,,,
+2026_MEDIC_BIKA_990338,NIT_70/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,97655397.7,976.55,32.0,2025-11-26,,,,,
+2026_MEDIC_BIKA_625488,NIT_76/BIK/2025-26,Department of Medical Education (Bikaner Circle),Bikaner,Bikaner Division,718580.08,7.19,7.0,2025-05-05,,,,,
+2026_FORES_BIKA_288209,NIT_28/BIK/2025-26,Forest Department (Bikaner Circle),Bikaner,Bikaner Division,10795978.37,107.96,15.0,2025-11-01,,,,,
+2026_PHED_BIKA_735819,NIT_48/BIK/2025-26,Public Health Engineering Department (Bikaner Circle),Bikaner,Bikaner Division,391868.61,3.92,9.0,2025-04-12,,,,,
+2026_UIT_BIKA_310721,NIT_14/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,487583.03,4.88,14.0,2025-05-23,,,,,
+2026_UIT_BIKA_252049,NIT_81/BIK/2025-26,UIT Bikaner,Bikaner,Bikaner Division,2919559.76,29.2,13.0,2026-03-07,,,,,
+2026_CECAD_599892_1,NIT 599892_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,53.0,10.0,0.0,False,0.0
+2026_CECAD_599892_2,NIT 599892_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,53.0,10.0,0.0,False,0.0
+2026_CECAD_599892_3,NIT 599892_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,53.0,10.0,0.0,False,0.0
+2026_DLB_604372_2,NIT 604372_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604372_1,NIT 604372_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604372_4,NIT 604372_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604372_3,NIT 604372_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604372_5,NIT 604372_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604372_6,NIT 604372_6,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604361_1,NIT 604361_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604368_1,NIT 604368_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604351_1,NIT 604351_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604331_1,NIT 604331_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,4.0,10.0,6.0,True,66.0
+2026_DLB_604331_2,NIT 604331_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,4.0,10.0,6.0,True,66.0
+2026_DLB_604291_1,NIT 604291_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_604196_1,NIT 604196_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_604197_1,NIT 604197_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_604278_1,NIT 604278_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,6.0,10.0,4.0,True,52.0
+2026_DLB_604277_1,NIT 604277_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,4.0,10.0,6.0,True,66.0
+2026_DLB_604279_1,NIT 604279_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,6.0,10.0,4.0,True,52.0
+2026_DLB_604271_1,NIT 604271_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,4.0,10.0,6.0,True,66.0
+2026_DLB_604183_9,NIT 604183_9,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_10,NIT 604183_10,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_8,NIT 604183_8,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_7,NIT 604183_7,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_6,NIT 604183_6,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_5,NIT 604183_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_4,NIT 604183_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_3,NIT 604183_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_1,NIT 604183_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604183_2,NIT 604183_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_DLB_604220_1,NIT 604220_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
+2026_DLB_604074_1,NIT 604074_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_DLB_603948_21,NIT 603948_21,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_1,NIT 603948_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_2,NIT 603948_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_3,NIT 603948_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_8,NIT 603948_8,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_5,NIT 603948_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_7,NIT 603948_7,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_9,NIT 603948_9,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_4,NIT 603948_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_6,NIT 603948_6,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_20,NIT 603948_20,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_10,NIT 603948_10,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_18,NIT 603948_18,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_11,NIT 603948_11,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_19,NIT 603948_19,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_12,NIT 603948_12,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_13,NIT 603948_13,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_22,NIT 603948_22,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_14,NIT 603948_14,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_15,NIT 603948_15,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_16,NIT 603948_16,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603948_17,NIT 603948_17,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603973_1,NIT 603973_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603976_1,NIT 603976_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603958_1,NIT 603958_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603977_1,NIT 603977_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603979_1,NIT 603979_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603872_6,NIT 603872_6,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603933_1,NIT 603933_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603925_1,NIT 603925_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603922_1,NIT 603922_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603918_1,NIT 603918_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603909_1,NIT 603909_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,7.0,10.0,3.0,True,45.0
+2026_DLB_603872_5,NIT 603872_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603872_2,NIT 603872_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603872_1,NIT 603872_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603872_4,NIT 603872_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603872_3,NIT 603872_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603831_18,NIT 603831_18,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_55,NIT 603831_55,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_54,NIT 603831_54,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_53,NIT 603831_53,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_52,NIT 603831_52,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_51,NIT 603831_51,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_50,NIT 603831_50,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_49,NIT 603831_49,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_48,NIT 603831_48,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_46,NIT 603831_46,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_47,NIT 603831_47,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_45,NIT 603831_45,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_44,NIT 603831_44,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_39,NIT 603831_39,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_38,NIT 603831_38,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_34,NIT 603831_34,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_42,NIT 603831_42,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_33,NIT 603831_33,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_43,NIT 603831_43,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_32,NIT 603831_32,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_37,NIT 603831_37,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_41,NIT 603831_41,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_28,NIT 603831_28,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_36,NIT 603831_36,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_31,NIT 603831_31,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_27,NIT 603831_27,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_22,NIT 603831_22,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_40,NIT 603831_40,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_21,NIT 603831_21,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_26,NIT 603831_26,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_20,NIT 603831_20,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_25,NIT 603831_25,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_35,NIT 603831_35,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_19,NIT 603831_19,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_24,NIT 603831_24,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_30,NIT 603831_30,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_17,NIT 603831_17,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_16,NIT 603831_16,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_23,NIT 603831_23,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_15,NIT 603831_15,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_14,NIT 603831_14,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_12,NIT 603831_12,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_29,NIT 603831_29,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_13,NIT 603831_13,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_10,NIT 603831_10,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_9,NIT 603831_9,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_11,NIT 603831_11,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_8,NIT 603831_8,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_7,NIT 603831_7,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_5,NIT 603831_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_4,NIT 603831_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_6,NIT 603831_6,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_3,NIT 603831_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_2,NIT 603831_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603831_1,NIT 603831_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_DLB_603805_1,NIT 603805_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603818_1,NIT 603818_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603814_1,NIT 603814_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603812_1,NIT 603812_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603810_1,NIT 603810_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603809_1,NIT 603809_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603819_1,NIT 603819_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603743_1,NIT 603743_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_DLB_603734_1,NIT 603734_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603749_1,NIT 603749_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_DLB_603747_1,NIT 603747_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603737_1,NIT 603737_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603748_1,NIT 603748_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603733_1,NIT 603733_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603679_1,NIT 603679_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_DLB_603490_3,NIT 603490_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603490_2,NIT 603490_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,12.0,10.0,0.0,False,0.0
+2026_DLB_603490_1,NIT 603490_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,13.0,10.0,0.0,False,0.0
+2026_DLB_603251_1,NIT 603251_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_DLB_603089_1,NIT 603089_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603089_3,NIT 603089_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603089_4,NIT 603089_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_DLB_603089_2,NIT 603089_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_FORES_604274_1,NIT 604274_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_FORES_604130_1,NIT 604130_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,10.0,10.0,0.0,False,0.0
+2026_IGNP_600669_1,NIT 600669_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,40.0,10.0,0.0,False,0.0
+2026_MGSUB_604337_1,NIT 604337_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,5.0,10.0,5.0,True,59.0
+2026_MGSUB_600784_1,NIT 600784_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,23.0,10.0,0.0,False,0.0
+2026_MGSUB_600747_1,NIT 600747_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,25.0,10.0,0.0,False,0.0
+2026_PHCJA_603538_1,NIT 603538_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603535_1,NIT 603535_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603543_1,NIT 603543_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603541_1,NIT 603541_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603531_1,NIT 603531_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603549_1,NIT 603549_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603529_1,NIT 603529_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603548_1,NIT 603548_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603528_1,NIT 603528_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603547_1,NIT 603547_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_603526_1,NIT 603526_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_PHCJA_602525_1,NIT 602525_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_604127_3,NIT 604127_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,5.0,10.0,5.0,True,59.0
+2026_CEPWD_604127_2,NIT 604127_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,5.0,10.0,5.0,True,59.0
+2026_CEPWD_604127_1,NIT 604127_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,6.0,10.0,4.0,True,52.0
+2026_CEPWD_604030_1,NIT 604030_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_602901_11,NIT 602901_11,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_603700_5,NIT 603700_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,8.0,10.0,2.0,True,38.0
+2026_CEPWD_603700_3,NIT 603700_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603700_4,NIT 603700_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603700_2,NIT 603700_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603700_1,NIT 603700_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,11.0,10.0,0.0,False,0.0
+2026_CEPWD_603564_2,NIT 603564_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_CEPWD_603564_1,NIT 603564_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_10,NIT 602901_10,Bikaner Division,Bikaner,,2500000.0,25.0,,,14.0,10.0,0.0,False,0.0
+2026_CEPWD_603253_1,NIT 603253_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603254_1,NIT 603254_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603253_7,NIT 603253_7,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603253_3,NIT 603253_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603253_5,NIT 603253_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603253_2,NIT 603253_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603253_6,NIT 603253_6,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_603253_4,NIT 603253_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,15.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_9,NIT 602901_9,Bikaner Division,Bikaner,,2500000.0,25.0,,,18.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_5,NIT 602901_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_6,NIT 602901_6,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_4,NIT 602901_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_1,NIT 602901_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_7,NIT 602901_7,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_8,NIT 602901_8,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_2,NIT 602901_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602901_3,NIT 602901_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,19.0,10.0,0.0,False,0.0
+2026_CEPWD_602026_1,NIT 602026_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_CEPWD_602386_3,NIT 602386_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_CEPWD_602386_2,NIT 602386_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_CEPWD_602386_1,NIT 602386_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_CEPWD_602401_1,NIT 602401_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_CEPWD_601374_3,NIT 601374_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,30.0,10.0,0.0,False,0.0
+2026_RAJUV_601570_5,NIT 601570_5,Bikaner Division,Bikaner,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RAJUV_601570_4,NIT 601570_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RAJUV_601570_1,NIT 601570_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RAJUV_601570_2,NIT 601570_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RAJUV_601570_3,NIT 601570_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
+2026_RCDF_604374_1,NIT 604374_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,6.0,10.0,4.0,True,52.0
+2026_RCDF_600289_1,NIT 600289_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,27.0,10.0,0.0,False,0.0
+2026_RCDF_600247_1,NIT 600247_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,29.0,10.0,0.0,False,0.0
+2026_RCDF_597779_1,NIT 597779_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,37.0,10.0,0.0,False,0.0
+2026_RSAMB_603795_2,NIT 603795_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_RSAMB_603795_1,NIT 603795_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_RSAMB_603795_3,NIT 603795_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_RSAMB_603114_2,NIT 603114_2,Bikaner Division,Bikaner,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_RSAMB_603114_4,NIT 603114_4,Bikaner Division,Bikaner,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_RSAMB_603114_1,NIT 603114_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_RSAMB_603114_3,NIT 603114_3,Bikaner Division,Bikaner,,2500000.0,25.0,,,16.0,10.0,0.0,False,0.0
+2026_SPMCB_602323_1,NIT 602323_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_SPMCB_602303_1,NIT 602303_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_SPMCB_602318_1,NIT 602318_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_SPMCB_602250_1,NIT 602250_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_SPMCB_602264_1,NIT 602264_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_SPMCB_602222_1,NIT 602222_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_SPMCB_602281_1,NIT 602281_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_SPMCB_602289_1,NIT 602289_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_SPMCB_602295_1,NIT 602295_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,20.0,10.0,0.0,False,0.0
+2026_SPMCB_602286_1,NIT 602286_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2026_SPMCB_602312_1,NIT 602312_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,21.0,10.0,0.0,False,0.0
+2025_SPMCB_500381_1,NIT 500381_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,404.0,10.0,0.0,False,0.0
+2025_SPMCB_500357_1,NIT 500357_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,404.0,10.0,0.0,False,0.0
+2026_UITBK_604263_1,NIT 604263_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,9.0,10.0,1.0,True,31.0
+2026_WRDAS_601928_1,NIT 601928_1,Bikaner Division,Bikaner,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
