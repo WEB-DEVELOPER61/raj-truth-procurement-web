@@ -21,26 +21,23 @@ except ImportError:
 # 1. PAGE CONFIGURATION & STYLES
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Project TRUTH | Forensic Procurement Engine",
+    page_title="⚖️ Project TRUTH: Automated Public Procurement Compliance Engine",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 st.markdown("""
 <style>
-    /* Hide default Streamlit header bar, top-right action menu, and branding */
-    header[data-testid="stHeader"] {
-        visibility: hidden;
-        height: 0%;
-    }
-    div[data-testid="stStatusWidget"] {
-        visibility: hidden;
+    /* Completely eliminate Streamlit top header bar and menus */
+    [data-testid="stHeader"] {
+        display: none !important;
     }
     #MainMenu {
-        visibility: hidden;
+        display: none !important;
     }
     footer {
-        visibility: hidden;
+        display: none !important;
     }
 
     .metric-card {
@@ -55,7 +52,7 @@ st.markdown("""
     .metric-sub-red { color: #f85149; font-size: 12px; font-weight: 600; margin-top: 4px; }
     .metric-sub-green { color: #3fb950; font-size: 12px; font-weight: 600; margin-top: 4px; }
 </style>
-""", unsafe_allow_html=True)
+""", unsafe_allow_html=True) 
 
 # -----------------------------------------------------------------------------
 # 2. CRYPTOGRAPHIC MERKLE TREE (RFC 6962 COMPLIANT)
