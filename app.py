@@ -18,7 +18,7 @@ except ImportError:
     HAS_DUCKDB = False
 
 # -----------------------------------------------------------------------------
-# 1. PAGE CONFIGURATION & STYLES (ENTERPRISE DARK MODE)
+# 1. PAGE CONFIGURATION & STYLES
 # -----------------------------------------------------------------------------
 st.set_page_config(
     page_title="Project TRUTH | Forensic Procurement Engine",
@@ -29,55 +29,16 @@ st.set_page_config(
 st.markdown("""
 <style>
     .metric-card {
-        background: #0E1726;
-        padding: 18px 20px;
+        background-color: #1e2130;
+        padding: 18px;
         border-radius: 8px;
-        border: 1px solid #1E293B;
+        border: 1px solid #2d3250;
         text-align: center;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
     }
-    .metric-title { 
-        color: #94A3B8; 
-        font-size: 11px; 
-        font-weight: 700; 
-        letter-spacing: 0.1em;
-        text-transform: uppercase; 
-        margin-bottom: 6px; 
-    }
-    .metric-val { 
-        color: #F8FAFC; 
-        font-size: 28px; 
-        font-weight: 800; 
-    }
-    .metric-sub-red { color: #F87171; font-size: 12px; font-weight: 600; margin-top: 4px; }
-    .metric-sub-green { color: #34D399; font-size: 12px; font-weight: 600; margin-top: 4px; }
-    
-    @keyframes live-pulse {
-        0% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7); }
-        70% { box-shadow: 0 0 0 6px rgba(16, 185, 129, 0); }
-        100% { box-shadow: 0 0 0 0 rgba(16, 185, 129, 0); }
-    }
-    .live-dot {
-        display: inline-block;
-        width: 8px;
-        height: 8px;
-        background-color: #10B981;
-        border-radius: 50%;
-        margin-right: 6px;
-        animation: live-pulse 1.8s infinite;
-    }
-    .tier-badge {
-        font-family: monospace;
-        font-size: 0.70rem;
-        font-weight: 700;
-        padding: 2px 6px;
-        border-radius: 4px;
-        margin-right: 6px;
-    }
-    .badge-blue { background: #1E3A8A; color: #93C5FD; }
-    .badge-green { background: #064E3B; color: #6EE7B7; }
-    .badge-yellow { background: #78350F; color: #FDE68A; }
-    .badge-red { background: #7F1D1D; color: #FCA5A5; }
+    .metric-title { color: #8b949e; font-size: 13px; font-weight: 600; text-transform: uppercase; margin-bottom: 6px; }
+    .metric-val { color: #f0f6fc; font-size: 28px; font-weight: 700; }
+    .metric-sub-red { color: #f85149; font-size: 12px; font-weight: 600; margin-top: 4px; }
+    .metric-sub-green { color: #3fb950; font-size: 12px; font-weight: 600; margin-top: 4px; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -299,21 +260,11 @@ def load_all_district_data():
 df_all = load_all_district_data()
 
 # -------------------------------------------------------------
-# 4. SIDEBAR CONTROLS (BALANCED & RESTYLED)
+# 4. SIDEBAR CONTROLS
 # -------------------------------------------------------------
 with st.sidebar:
-    st.markdown("""
-    <div style="background: #0B1120; border: 1px solid #1E293B; border-radius: 8px; padding: 12px 14px; margin-bottom: 15px;">
-        <div style="display: flex; align-items: center; justify-content: space-between;">
-            <span style="font-weight: 800; font-size: 1.05rem; color: #F8FAFC; letter-spacing: 0.06em;">PROJECT TRUTH</span>
-            <span style="font-size: 0.68rem; color: #38BDF8; font-weight: 700; background: #13233F; border: 1px solid #1D4ED8; padding: 2px 6px; border-radius: 4px;">CORE v2.4</span>
-        </div>
-        <div style="margin-top: 6px; font-size: 0.72rem; color: #94A3B8; display: flex; align-items: center;">
-            <span class="live-dot"></span>
-            <span style="color: #34D399; font-weight: 600;">ACTIVE TELEMETRY</span>
-        </div>
-    </div>
-    """, unsafe_allow_html=True)
+    st.markdown("## [TRUTH]")
+    st.caption("Forensic Systems Software • RTPP Act Compliance")
 
     if st.button("Sync & Clear Cache", use_container_width=True):
         st.cache_data.clear()
@@ -325,19 +276,13 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("#### Statutory Framework")
-    st.caption("**Rajasthan Transparency in Public Procurement (RTPP) Act**")
-    
-    st.markdown("""
-    <div style="font-size: 0.78rem; line-height: 1.8; color: #CBD5E1;">
-        <div><span class="tier-badge badge-blue">7D</span> Cost ≤ 10 Lakhs</div>
-        <div><span class="tier-badge badge-green">10D</span> 10L &lt; Cost ≤ 50 Lakhs</div>
-        <div><span class="tier-badge badge-yellow">15D</span> 50L &lt; Cost ≤ 2 Crores</div>
-        <div><span class="tier-badge badge-red">30D</span> Cost &gt; 2 Crores</div>
-    </div>
-    """, unsafe_allow_html=True)
-    
+    st.caption("Rajasthan Transparency in Public Procurement (RTPP) Act")
+    st.caption("• Rule 43(1)(a): Cost <= 10 Lakhs -> 7 Days Min")
+    st.caption("• Rule 43(1)(b): 10L < Cost <= 50 Lakhs -> 10 Days Min")
+    st.caption("• Rule 43(1)(c): 50L < Cost <= 2 Crores -> 15 Days Min")
+    st.caption("• Rule 43(1)(d): Cost > 2 Crores -> 30 Days Min")
     st.markdown("---")
-    st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Anomaly Detection")
+    st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Unsupervised Anomaly Engine")
 
 if selected_circle == "All Rajasthan":
     df_filtered = df_all.copy()
@@ -389,7 +334,7 @@ m1, m2, m3, m4 = st.columns(4)
 with m1:
     st.markdown(f"""
     <div class="metric-card">
-        <div class="metric-title">NOTICES AUDITED</div>
+        <div class="metric-title">Notices Audited</div>
         <div class="metric-val">{total_audited}</div>
         <div class="metric-sub-green">Empirical Ground Truth</div>
     </div>
@@ -398,16 +343,16 @@ with m1:
 with m2:
     st.markdown(f"""
     <div class="metric-card">
-        <div class="metric-title">CRITICAL VIOLATIONS</div>
+        <div class="metric-title">Critical Violations</div>
         <div class="metric-val">{critical_viols}</div>
-        <div class="metric-sub-red">{viol_rate:.1f}% Non-Compliant</div>
+        <div class="metric-sub-red">Non-Compliant: {viol_rate:.1f}%</div>
     </div>
     """, unsafe_allow_html=True)
 
 with m3:
     st.markdown(f"""
     <div class="metric-card">
-        <div class="metric-title">MEAN RISK INDEX (PRI)</div>
+        <div class="metric-title">Mean Risk Index (PRI)</div>
         <div class="metric-val">{mean_pri:.1f} / 100</div>
         <div class="metric-sub-red">Severity Weighted</div>
     </div>
@@ -416,7 +361,7 @@ with m3:
 with m4:
     st.markdown(f"""
     <div class="metric-card">
-        <div class="metric-title">MAX TIMELINE DEFICIT</div>
+        <div class="metric-title">Max Timeline Deficit</div>
         <div class="metric-val">{max_deficit:.1f} Days</div>
         <div class="metric-sub-red">Statutory Notice Squeeze</div>
     </div>
@@ -425,14 +370,14 @@ with m4:
 st.markdown("<br>", unsafe_allow_html=True)
 
 # -------------------------------------------------------------
-# 6. TABBED NAVIGATION (MINIMALIST & PROFESSIONAL)
+# 6. TABBED NAVIGATION (5 DISTINCT ARCHITECTURAL PILLARS)
 # -------------------------------------------------------------
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "1. Forensic Registry",
-    "2. Anomaly Engine (Isolation Forest)",
-    "3. Inferential Testing (Chi-Square)",
-    "4. Scalability Benchmark",
-    "5. Statutory Action Engine"
+    "1. Forensic Audit Registry",
+    "2. Algorithmic Anomaly Engine (Isolation Forest)",
+    "3. Inferential Hypothesis Testing (Chi-Square)",
+    "4. National Scalability Benchmark",
+    "5. Statutory RTI & Vigilance Action Engine"
 ])
 
 # -------------------------------------------------------------
@@ -479,7 +424,7 @@ with tab1:
             "nit_no": "Notice Reference",
             "division": "Administrative Authority",
             "district": "Circle",
-            "estimated_cost_lac": st.column_config.NumberColumn("Cost (₹ Lakhs)", format="₹ %.2f L"),
+            "estimated_cost_lac": st.column_config.NumberColumn("Cost (INR Lakhs)", format="INR %.2f L"),
             "actual_window_days": st.column_config.NumberColumn("Window (Days)", format="%d d"),
             "statutory_min_days": st.column_config.NumberColumn("Statutory Min", format="%d d"),
             "deficit_days": st.column_config.NumberColumn("Deficit", format="%.1f d"),
@@ -527,7 +472,7 @@ with tab1:
                     "Total_Notices": st.column_config.NumberColumn("Total Tenders", format="%d"),
                     "Violations": st.column_config.NumberColumn("Violations", format="%d"),
                     "Violation_Rate_%": st.column_config.ProgressColumn("Violation Rate", format="%.1f%%", min_value=0, max_value=100),
-                    "Capital_At_Risk_Cr": st.column_config.NumberColumn("Capital at Risk", format="₹ %.2f Cr"),
+                    "Capital_At_Risk_Cr": st.column_config.NumberColumn("Capital at Risk (Cr)", format="INR %.2f Cr"),
                     "Mean_Deficit": st.column_config.NumberColumn("Avg Deficit", format="%.1f d")
                 },
                 hide_index=True,
@@ -574,11 +519,11 @@ with tab2:
             x='actual_window_days',
             y='estimated_cost_lac',
             color='anomaly_label',
-            color_discrete_map={'Normal Tender': '#10B981', 'Statutory Anomaly': '#EF4444'},
+            color_discrete_map={'Normal Tender': '#3fb950', 'Statutory Anomaly': '#f85149'},
             hover_data=['tender_id', 'district', 'statutory_min_days', 'deficit_days'],
             log_y=True,
             title="Multi-variate Isolation Forest: Bidding Window vs Sanctioned Cost",
-            labels={'actual_window_days': 'Bidding Window (Days)', 'estimated_cost_lac': 'Sanctioned Cost (₹ Lakhs, Log Scale)'}
+            labels={'actual_window_days': 'Bidding Window (Days)', 'estimated_cost_lac': 'Sanctioned Cost (INR Lakhs, Log Scale)'}
         )
         fig_scatter.add_vline(x=7, line_dash="dash", line_color="#8b949e", annotation_text="7d Min (<10L)")
         fig_scatter.add_vline(x=10, line_dash="dash", line_color="#8b949e", annotation_text="10d Min (<50L)")
@@ -605,7 +550,7 @@ with tab2:
                 st.markdown(f"""
                 **Tender ID:** `{selected_sample['tender_id']}`  
                 **Authority:** {selected_sample['division']}  
-                **Sanctioned Cost:** ₹ {selected_sample['estimated_cost_lac']:.2f} Lakhs  
+                **Sanctioned Cost:** INR {selected_sample['estimated_cost_lac']:.2f} Lakhs  
                 **Published Window:** {int(selected_sample['actual_window_days'])} Days (Mandated: {int(selected_sample['statutory_min_days'])}d)  
                 **Statutory Deficit:** {selected_sample['deficit_days']:.1f} Days  
                 """)
@@ -631,7 +576,7 @@ with tab2:
                 attribution_df = pd.DataFrame({
                     "Feature": [
                         "Timeline Squeeze Ratio (Deficit / Statutory Min)",
-                        "Contract Valuation Exposure (log₁₀ Amount)",
+                        "Contract Valuation Exposure (log Amount)",
                         "Absolute Timeline Deficit (Days Lost)"
                     ],
                     "Attribution (%)": [
@@ -667,12 +612,12 @@ with tab3:
         
         ct_raw = pd.crosstab(high_val, viol)
         ct = ct_raw.reindex(index=[False, True], columns=[False, True], fill_value=0)
-        ct.index = ['Minor Works (< ₹50L)', 'High-Value Infrastructure (≥ ₹50L)']
+        ct.index = ['Minor Works (< INR 50L)', 'High-Value Infrastructure (>= INR 50L)']
         ct.columns = ['Compliant Notices', 'Timeline Compressed (Violations)']
         
         col_stat1, col_stat2 = st.columns([1, 1])
         with col_stat1:
-            st.markdown("##### 2×2 Contingency Matrix")
+            st.markdown("##### 2x2 Contingency Matrix")
             st.dataframe(ct, use_container_width=True)
             
             try:
@@ -691,10 +636,10 @@ with tab3:
             viol_capital = df_all[df_all['is_violation']]['tender_amount'].sum()
             savings_15 = viol_capital * 0.15
             
-            st.write(f"• **Sample Capital Under Compressed Timelines:** ₹{viol_capital/1e7:,.2f} Crore")
-            st.write(f"• **Recoverable Public Funds in Sample (15% Margin):** ₹{savings_15/1e7:,.2f} Crore")
-            st.write("• **Extrapolated Rajasthan Annual Fiscal Savings:** ~₹6,000 Crore / year")
-            st.write("• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
+            st.write(f"• **Sample Capital Under Compressed Timelines:** INR {viol_capital/1e7:,.2f} Crore")
+            st.write(f"• **Recoverable Public Funds in Sample (15% Margin):** INR {savings_15/1e7:,.2f} Crore")
+            st.write("• **Extrapolated State Annual Fiscal Savings:** ~INR 6,000 Crore / year")
+            st.write("• **National Potential Procurement Recovery:** ~INR 3.96 Lakh Crore / year")
             st.caption("Based on 15% median competitive discount achieved through non-collusive open bidding windows.")
 
         # March Rush Temporal Analysis
@@ -726,7 +671,7 @@ with tab3:
             if has_temporal_variance:
                 try:
                     chi2_q, p_val_q, _, _ = stats.chi2_contingency(active_quarters)
-                    st.metric("Temporal Chi-Square (χ²)", f"{chi2_q:.2f}")
+                    st.metric("Temporal Chi-Square", f"{chi2_q:.2f}")
                     st.metric("Temporal p-Value", f"{p_val_q:.4f}")
                     if p_val_q > 0.05:
                         st.info("Finding: No statistically significant clustering in Q4 (p > 0.05). Timeline compression occurs year-round and is not an isolated 'March Rush' artifact.")
@@ -748,7 +693,7 @@ with tab3:
             y='Violation Rate (%)',
             color='Violation Rate (%)',
             color_continuous_scale="Blues",
-            title="Notice Duration Violation Rate Across Indian Fiscal Quarters"
+            title="Notice Duration Violation Rate Across Fiscal Quarters"
         )
         fig_q.update_layout(template="plotly_dark", height=320)
         st.plotly_chart(fig_q, use_container_width=True)
@@ -763,7 +708,7 @@ with tab3:
             st.markdown("""
             <div style="background: #0B1120; border: 1px solid #1E293B; border-radius: 8px; padding: 16px;">
                 <div style="color: #94A3B8; font-size: 0.75rem; font-weight: 700; text-transform: uppercase;">Official Audit Authority Benchmark</div>
-                <div style="color: #F8FAFC; font-size: 1.05rem; font-weight: 800; margin: 4px 0 10px 0;">CAG State Public Works Audit (Rajasthan)</div>
+                <div style="color: #F8FAFC; font-size: 1.05rem; font-weight: 800; margin: 4px 0 10px 0;">CAG State Public Works Audit</div>
                 <ul style="color: #CBD5E1; font-size: 0.82rem; line-height: 1.6; margin: 0; padding-left: 18px;">
                     <li><strong>Statutory Finding:</strong> Recurring reduction of statutory notice timelines under Rule 43 without documented emergency file notings.</li>
                     <li><strong>Observed Consequence:</strong> Compressed notice intervals directly correlated with single-bidder submissions and restricted market turnout.</li>
@@ -778,7 +723,7 @@ with tab3:
                 <div style="color: #38BDF8; font-size: 1.05rem; font-weight: 800; margin: 4px 0 10px 0;">Project TRUTH Real-Time Alignment</div>
                 <ul style="color: #CBD5E1; font-size: 0.82rem; line-height: 1.6; margin: 0; padding-left: 18px;">
                     <li><strong>Automated Detection:</strong> Flagged violations systematically isolate the statutory deficit without human audit lag.</li>
-                    <li><strong>Statistical Validation:</strong> Pearson's Chi-Square test confirms non-random concentration in high-value tiers (p &lt; 0.001).</li>
+                    <li><strong>Statistical Validation:</strong> Pearson's Chi-Square test confirms non-random concentration in high-value tiers (p < 0.001).</li>
                     <li><strong>Actionable Remedy:</strong> Automatically drafts targeted Form 'A' RTI applications demanding the exact missing file notes cited in CAG reports.</li>
                 </ul>
             </div>
@@ -792,8 +737,8 @@ with tab4:
     st.markdown(
         """
         Validating that the cryptographic Merkle pipeline and Isolation Forest scale linearly 
-        O(N) and logarithmically O(N log N) to audit the combined annual procurement throughput 
-        of the Government of India without latency bottlenecks.
+        O(N) and logarithmically O(N log N) to audit combined national procurement throughput 
+        without latency bottlenecks.
         """
     )
 
@@ -808,8 +753,8 @@ with tab4:
 
     with c_bench2:
         st.info(
-            f"**Evaluation Scope:** Processing **{batch_size:,} contracts** simulates the concurrent "
-            f"national intake across Central Public Sector Undertakings (NHAI, Railways, CPWD, Defence). "
+            f"**Evaluation Scope:** Processing **{batch_size:,} contracts** simulates concurrent "
+            f"national intake across Central Public Sector Undertakings. "
             f"Real-time execution measures cryptographic hashing speed and ML inference throughput."
         )
 
@@ -974,7 +919,7 @@ with tab5:
             )
 
         col_meta1, col_meta2, col_meta3 = st.columns(3)
-        col_meta1.info(f"**Sanctioned Value:** ₹{target_row['estimated_cost_lac']:.2f} Lakhs")
+        col_meta1.info(f"**Sanctioned Value:** INR {target_row['estimated_cost_lac']:.2f} Lakhs")
         col_meta2.info(f"**Authority:** {target_row['division']}")
         col_meta3.warning(f"**Procurement Risk Score:** {target_row['risk_score']} / 100")
 
@@ -997,7 +942,7 @@ Respected Authority,
 
 2. PARTICULARS OF INFORMATION SOUGHT:
    This inquiry pertains to Tender Reference '{nit_no}' (Portal Tender ID: {tender_id}), 
-   sanctioned for ₹{cost:.2f} Lakhs with an advertised bidding window of only {window} days.
+   sanctioned for INR {cost:.2f} Lakhs with an advertised bidding window of only {window} days.
 
    Under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013, public works exceeding 
    statutory valuation thresholds legally require a mandatory minimum advertising window of {mandated} days. 
@@ -1017,7 +962,7 @@ Respected Authority,
    Audit Status: Confirmed High-Risk Statutory Anomaly (PRI Score: {risk}/100)
 
 4. APPLICATION FEE:
-   Prescribed fee of ₹10/- is tendered via Court Fee Stamp / IPO.
+   Prescribed fee of INR 10/- is tendered via Court Fee Stamp / IPO.
 
 Date: {today}
 Place: {district}, Rajasthan
