@@ -735,7 +735,7 @@ with tab3:
 # TAB 4: NATIONAL SCALABILITY BENCHMARK & DUCKDB CONSOLE
 # -------------------------------------------------------------
 with tab4:
-    st.subheader("⚡ National Scalability Benchmark (High-Throughput Stress Test)")
+    st.subheader(" ⏱️ National Scalability Benchmark (High-Throughput Stress Test)")
     st.markdown(
         """
         Validating that the cryptographic Merkle pipeline and Isolation Forest scale linearly 
