@@ -254,9 +254,13 @@ def build_rfc6962_merkle_root(tender_ids):
 # -------------------------------------------------------------
 # Sidebar: Exact Format from Yesterday Night
 # -------------------------------------------------------------
+
 with st.sidebar:
-    st.image("https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg", width=70)
-    
+    _, c_mid, _ = st.columns([1, 2, 1])
+    with c_mid:
+        st.image("https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg", width=100)
+        
+
     if st.button("🔄 Sync & Clear Cache", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
