@@ -21,7 +21,7 @@ except ImportError:
 # 1. PAGE CONFIGURATION & STYLES
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="  Project TRUTH | Forensic Procurement Engine",
+    page_title=" ⚖️ Project TRUTH | Forensic Procurement Engine",
     layout="wide",
     initial_sidebar_state="expanded"
 )
