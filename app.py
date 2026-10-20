@@ -515,6 +515,85 @@ with tab2:
             title="Isolation Forest Feature Space: Notice Window vs. Sanctioned Value"
         )
         st.plotly_chart(fig, use_container_width=True)
+        # ---------------------------------------------------------
+        # Explainable AI (XAI): Local Feature Attribution
+        # ---------------------------------------------------------
+        st.markdown("---")
+        st.subheader("🔍 Explainable AI (XAI): Forensic Feature Attribution")
+        st.caption("Decomposing multi-variate tree anomalies into interpretable feature contributions.")
+
+        anomalies_df = df_plot[df_plot['Anomaly_Status'] == "Forensic Anomaly"]
+        
+        if not anomalies_df.empty:
+            xai_col1, xai_col2 = st.columns([1, 2])
+            
+            with xai_col1:
+                target_anomaly_id = st.selectbox(
+                    "Select Anomaly to Explain:",
+                    anomalies_df['tender_id'].tolist(),
+                    key="xai_select_tid"
+                )
+                selected_sample = anomalies_df[anomalies_df['tender_id'] == target_anomaly_id].iloc[0]
+                
+                st.markdown(f"""
+                **Tender ID:** `{selected_sample['tender_id']}`  
+                **Authority:** {selected_sample['division']}  
+                **Sanctioned Cost:** ₹ {selected_sample['estimated_cost_lac']:.2f} Lakhs  
+                **Published Window:** {int(selected_sample['actual_window_days'])} Days (Mandated: {int(selected_sample['statutory_min_days'])}d)  
+                **Statutory Deficit:** {selected_sample['deficit_days']:.1f} Days  
+                """)
+
+            with xai_col2:
+                # Baseline comparison: compliant distribution
+                compliant_baseline = df_plot[df_plot['Anomaly_Status'] == "Standard Notice"]
+                if compliant_baseline.empty:
+                    compliant_baseline = df_plot
+
+                # Feature 1: Timeline Squeeze Ratio
+                base_ratio_mean = (compliant_baseline['deficit_days'] / compliant_baseline['statutory_min_days'].clip(lower=1)).mean()
+                sample_ratio = selected_sample['deficit_days'] / max(1, selected_sample['statutory_min_days'])
+                diff_ratio = max(0.0, sample_ratio - base_ratio_mean)
+
+                # Feature 2: Contract Scale Exposure (Log-space)
+                base_log_mean = np.log10(compliant_baseline['tender_amount'].clip(lower=1000)).mean()
+                sample_log = np.log10(max(1000.0, float(selected_sample['tender_amount'])))
+                diff_log = max(0.0, sample_log - base_log_mean)
+
+                # Feature 3: Absolute Duration Deficit
+                base_def_mean = compliant_baseline['deficit_days'].mean()
+                sample_def = selected_sample['deficit_days']
+                diff_def = max(0.0, sample_def - base_def_mean)
+
+                total_diff = diff_ratio + diff_log + diff_def
+                if total_diff == 0:
+                    total_diff = 1.0
+
+                attribution_df = pd.DataFrame({
+                    "Feature": [
+                        "Timeline Squeeze Ratio (Deficit / Statutory Min)",
+                        "Contract Valuation Exposure (log₁₀ Amount)",
+                        "Absolute Timeline Deficit (Days Lost)"
+                    ],
+                    "Attribution (%)": [
+                        round((diff_ratio / total_diff) * 100, 1),
+                        round((diff_log / total_diff) * 100, 1),
+                        round((diff_def / total_diff) * 100, 1)
+                    ]
+                }).sort_values(by="Attribution (%)", ascending=True)
+
+                fig_xai = px.bar(
+                    attribution_df,
+                    x="Attribution (%)",
+                    y="Feature",
+                    orientation="h",
+                    color="Attribution (%)",
+                    color_continuous_scale="Tealgrn",
+                    title="Feature Contribution Breakdown (Why Was This Flagged?)"
+                )
+                fig_xai.update_layout(height=240, margin=dict(l=0, r=20, t=35, b=20))
+                st.plotly_chart(fig_xai, use_container_width=True)
+        else:
+            st.info("No anomalies detected at the selected contamination threshold.")
     else:
         st.warning("Insufficient notices in selected circle to train Isolation Forest.")
 
