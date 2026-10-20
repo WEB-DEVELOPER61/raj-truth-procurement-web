@@ -121,7 +121,6 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
         df['district'] = default_district
     df['district'] = df['district'].fillna(default_district).astype(str).str.capitalize()
     
-    # Fill Authority & Notice References cleanly so 'None' never appears
     div_fallback = df['district'] + " Division"
     if 'division' not in df.columns:
         df['division'] = div_fallback
@@ -251,20 +250,40 @@ def build_rfc6962_merkle_root(tender_ids):
         current = next_level
     return current[0]
 
-# -------------------------------------------------------------
-# Sidebar: Exact Format from Yesterday Night
-# -------------------------------------------------------------
+# Pre-load data to supply baseline state hash to the sidebar monogram
+df_raw = load_all_district_data()
 
+if df_raw.empty:
+    st.error("No statutory procurement files found in data/districts/. Please run daily_scraper.py to populate records.")
+    st.stop()
+
+baseline_merkle = build_rfc6962_merkle_root(df_raw['tender_id'].tolist())
+short_hash = f"0x{baseline_merkle[:6]}...{baseline_merkle[-6:]}"
+
+# -------------------------------------------------------------
+# Sidebar: Pure Monospace System Monogram
+# -------------------------------------------------------------
 with st.sidebar:
-    _, c_mid, _ = st.columns([1, 2, 1])
-    with c_mid:
-        st.image("https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg", width=100)
+    st.markdown(f"""
+    <div style="background: #0A0F1D; border: 1px solid #1E293B; border-radius: 8px; padding: 14px 10px; margin-bottom: 14px; text-align: center;">
+        <div style="font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; font-size: 1.22rem; font-weight: 900; letter-spacing: 0.14em; color: #38BDF8;">
+            [ // TRUTH_SYS ]
+        </div>
+        <div style="font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em; color: #94A3B8; margin-top: 3px;">
+            PROCUREMENT FORENSIC CORE
+        </div>
+        <div style="margin-top: 10px; padding: 4px 8px; background: #0E1726; border: 1px solid #1E293B; border-radius: 4px; display: inline-block;">
+            <span style="font-family: monospace; font-size: 0.65rem; color: #10B981; font-weight: 700;">● NODE: ONLINE</span>
+            <span style="font-family: monospace; font-size: 0.65rem; color: #64748B; margin-left: 6px;">{short_hash}</span>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
 
     if st.button("🔄 Sync & Clear Cache", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
 
-    st.title("Forensic Controls")
+    st.markdown("### Forensic Controls")
     circle_option = st.selectbox(
         "Administrative Circle:",
         ["All Rajasthan", "Jaipur", "Jodhpur", "Bikaner", "Udaipur", "Kota"]
@@ -279,13 +298,6 @@ with st.sidebar:
     st.caption("Rule 43(1)(d): Greater than 2Cr -> 30 Days Min")
     st.markdown("---")
     st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Unsupervised Anomaly Engine")
-
-# Load Dataset
-df_raw = load_all_district_data()
-
-if df_raw.empty:
-    st.error("No statutory procurement files found in data/districts/. Please run daily_scraper.py to populate records.")
-    st.stop()
 
 # Filter by Circle
 if circle_option != "All Rajasthan":
