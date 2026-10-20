@@ -8,6 +8,7 @@ import streamlit as st
 import plotly.express as px
 from scipy.stats import chi2_contingency
 from sklearn.ensemble import IsolationForest
+import duckdb
 
 st.set_page_config(
     page_title="Project TRUTH | Public Procurement Integrity Engine",
@@ -779,6 +780,82 @@ with tab4:
     )
     fig_scale.add_scatter(x=[total_notices], y=[4.2 * (total_notices / 1000)], mode='markers', name='Current Live System', marker=dict(size=14, color='red'))
     st.plotly_chart(fig_scale, use_container_width=True)
+    # ---------------------------------------------------------
+    # In-Memory Columnar OLAP Engine (DuckDB Integration)
+    # ---------------------------------------------------------
+    st.markdown("---")
+    st.subheader("⚡ Embedded Columnar OLAP Engine (DuckDB)")
+    st.caption("Vectorized in-memory SQL execution over statutory procurement records.")
+
+    # Initialize in-memory DuckDB connection and register active dataset
+    con = duckdb.connect(database=':memory:')
+    con.register('procurement_registry', df_active)
+
+    sql_col1, sql_col2 = st.columns([1, 2])
+
+    with sql_col1:
+        st.markdown("##### Query Presets for Judges")
+        preset = st.radio(
+            "Select Analytical SQL Audit Query:",
+            [
+                "Division Non-Compliance Aggregation",
+                "High-Value Contract Risk Clustering",
+                "Severe Timeline Squeeze (Deficit > 10d)"
+            ]
+        )
+        
+        if preset == "Division Non-Compliance Aggregation":
+            default_sql = """SELECT 
+    division, 
+    COUNT(*) AS total_notices, 
+    SUM(CASE WHEN is_violation THEN 1 ELSE 0 END) AS violations,
+    ROUND(AVG(deficit_days), 1) AS avg_deficit_days,
+    ROUND(SUM(estimated_cost_lac) / 100.0, 2) AS capital_cr
+FROM procurement_registry
+GROUP BY division
+ORDER BY violations DESC;"""
+        elif preset == "High-Value Contract Risk Clustering":
+            default_sql = """SELECT 
+    tender_id, 
+    division, 
+    estimated_cost_lac, 
+    actual_window_days, 
+    deficit_days, 
+    risk_score
+FROM procurement_registry
+WHERE estimated_cost_lac >= 50.0 AND is_violation = true
+ORDER BY risk_score DESC
+LIMIT 10;"""
+        else:
+            default_sql = """SELECT 
+    tender_id, 
+    division, 
+    statutory_min_days, 
+    actual_window_days, 
+    deficit_days
+FROM procurement_registry
+WHERE deficit_days >= 10.0
+ORDER BY deficit_days DESC;"""
+
+    with sql_col2:
+        query_input = st.text_area("SQL Execution Buffer (Editable):", value=default_sql, height=140)
+        run_sql_btn = st.button("⚡ Execute Vectorized SQL", use_container_width=True)
+
+        if run_sql_btn or query_input:
+            try:
+                t_start = time.perf_counter()
+                query_result = con.execute(query_input).df()
+                exec_latency = (time.perf_counter() - t_start) * 1000.0
+
+                m_sql1, m_sql2, m_sql3 = st.columns(3)
+                m_sql1.metric("Query Latency", f"{exec_latency:.2f} ms")
+                m_sql2.metric("Rows Returned", f"{len(query_result):,}")
+                m_sql3.metric("Execution Vector", "SIMD Columnar")
+
+                st.dataframe(query_result, use_container_width=True, height=220)
+                st.caption(f"Executed via DuckDB in-memory OLAP pipeline over {total_notices:,} public records.")
+            except Exception as sql_err:
+                st.error(f"SQL Execution Error: {sql_err}")
 
 # TAB 5: Statutory RTI & Vigilance Action Engine
 with tab5:
