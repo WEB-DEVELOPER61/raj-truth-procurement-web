@@ -55,12 +55,38 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # -------------------------------------------------------------
+# Safe Formatting Helpers (Never Crashes on NaN or None)
+# -------------------------------------------------------------
+def format_days_safe(x):
+    try:
+        if pd.isna(x) or str(x).strip() == "":
+            return "0 d"
+        return f"{int(float(x))} d"
+    except (ValueError, TypeError):
+        return "0 d"
+
+def format_cost_safe(x):
+    try:
+        if pd.isna(x) or str(x).strip() == "":
+            return "₹ 0.00 L"
+        return f"₹ {float(x):,.2f} L"
+    except (ValueError, TypeError):
+        return "₹ 0.00 L"
+
+def format_deficit_safe(x):
+    try:
+        val = float(x)
+        return f"{val:.1f} d" if val > 0 else "0.0 d"
+    except (ValueError, TypeError):
+        return "0.0 d"
+
+# -------------------------------------------------------------
 # Dynamic Schema Normalization Engine (Guarantees Zero KeyErrors)
 # -------------------------------------------------------------
 def standardize_forensic_dataframe(df, default_district="Jaipur"):
     """Normalizes arbitrary raw CSVs into the verified 11-column forensic schema."""
-    col_map = {c: c.strip().lower() for c in df.columns}
-    df = df.rename(columns=col_map)
+    col_map = {c: c.strip().lower(): c for c in df.columns}
+    df = df.rename(columns={c: c.strip().lower() for c in df.columns})
     
     # 1. Tender ID
     if 'tender_id' not in df.columns:
@@ -120,12 +146,18 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
             
     if 'statutory_min_days' not in df.columns:
         df['statutory_min_days'] = df['tender_amount'].apply(get_statutory_min)
+    else:
+        df['statutory_min_days'] = pd.to_numeric(df['statutory_min_days'], errors='coerce').fillna(10).astype(int)
         
     if 'deficit_days' not in df.columns:
         df['deficit_days'] = (df['statutory_min_days'] - df['actual_window_days']).clip(lower=0.0)
+    else:
+        df['deficit_days'] = pd.to_numeric(df['deficit_days'], errors='coerce').fillna(0.0)
         
     if 'is_violation' not in df.columns:
         df['is_violation'] = df['deficit_days'] > 0
+    else:
+        df['is_violation'] = df['is_violation'].astype(bool)
         
     if 'risk_score' not in df.columns:
         def calc_risk(row):
@@ -136,6 +168,8 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
             raw = 70.0 * ratio + 3.62 * log_cost + 0.82
             return round(min(100.0, max(0.0, raw)), 1)
         df['risk_score'] = df.apply(calc_risk, axis=1)
+    else:
+        df['risk_score'] = pd.to_numeric(df['risk_score'], errors='coerce').fillna(0.0)
         
     return df
 
@@ -164,6 +198,13 @@ def load_all_district_data():
     if dfs:
         master = pd.concat(dfs, ignore_index=True)
         master.drop_duplicates(subset=['tender_id'], keep='first', inplace=True)
+        # Ensure final numeric column safety after concat
+        master['actual_window_days'] = pd.to_numeric(master['actual_window_days'], errors='coerce').fillna(10).astype(int)
+        master['statutory_min_days'] = pd.to_numeric(master['statutory_min_days'], errors='coerce').fillna(10).astype(int)
+        master['deficit_days'] = pd.to_numeric(master['deficit_days'], errors='coerce').fillna(0.0)
+        master['risk_score'] = pd.to_numeric(master['risk_score'], errors='coerce').fillna(0.0)
+        master['estimated_cost_lac'] = pd.to_numeric(master['estimated_cost_lac'], errors='coerce').fillna(25.0)
+        master['is_violation'] = master['deficit_days'] > 0
         return master
     return pd.DataFrame()
 
@@ -291,7 +332,7 @@ tab1, tab2, tab3, tab4 = st.tabs([
     "4. ⚡ National Scalability & RTI Generator"
 ])
 
-# TAB 1: Registry
+# TAB 1: Registry (Protected with Safe Formatters)
 with tab1:
     st.subheader(f"Empirical Ingestion Corpus (N = {total_notices} Active Notices)")
     
@@ -317,15 +358,16 @@ with tab1:
             df_display['division'].astype(str).str.contains(search_query, case=False, na=False)
         ]
 
+    # Safe display mapping
     formatted_view = pd.DataFrame({
         "Tender ID": df_display['tender_id'],
         "Notice Reference": df_display['nit_no'],
         "Administrative Authority": df_display['division'],
         "Circle": df_display['district'],
-        "Cost (₹ Lakhs)": df_display['estimated_cost_lac'].apply(lambda x: f"₹ {x:,.2f} L"),
-        "Window (Days)": df_display['actual_window_days'].apply(lambda x: f"{int(x)} d"),
-        "Statutory Min": df_display['statutory_min_days'].apply(lambda x: f"{int(x)} d"),
-        "Deficit": df_display['deficit_days'].apply(lambda x: f"{x:.1f} d" if x > 0 else "0.0 d"),
+        "Cost (₹ Lakhs)": df_display['estimated_cost_lac'].apply(format_cost_safe),
+        "Window (Days)": df_display['actual_window_days'].apply(format_days_safe),
+        "Statutory Min": df_display['statutory_min_days'].apply(format_days_safe),
+        "Deficit": df_display['deficit_days'].apply(format_deficit_safe),
         "Risk Score": df_display['risk_score']
     })
 
@@ -440,9 +482,9 @@ Under Section 6(1) of the RTI Act 2005, please furnish certified copies of the f
    - Tender Identification Number: {target_row['tender_id']}
    - Notice Inviting Tender (NIT): {target_row['nit_no']}
    - Sanctioned Valuation: ₹ {target_row['estimated_cost_lac']:.2f} Lakhs
-   - Actual Bidding Period Allowed: {int(target_row['actual_window_days'])} Days
-   - Mandated Statutory Period under Rule 43(1): {int(target_row['statutory_min_days'])} Days
-   - Statutory Notice Deficit: {target_row['deficit_days']:.1f} Days
+   - Actual Bidding Period Allowed: {format_days_safe(target_row['actual_window_days'])}
+   - Mandated Statutory Period under Rule 43(1): {format_days_safe(target_row['statutory_min_days'])}
+   - Statutory Notice Deficit: {format_deficit_safe(target_row['deficit_days'])}
 
 2. INFORMATION SOUGHT:
    a) Certified true copies of the official file notes recording the recorded reasons and prior administrative approvals justifying the reduction of the bidding window below the statutory timeline mandated under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013.
@@ -455,15 +497,4 @@ The information sought does not fall within the exemptions under Section 8 or 9 
 Date: {pd.Timestamp.now().strftime('%d-%b-%Y')}
 Place: Jodhpur, Rajasthan
 """
-        st.text_area("Legal RTI Petition Draft (Ready to File):", rti_text, height=300)
-        st.download_button(
-            "📄 Download RTI Petition (.txt)",
-            data=rti_text,
-            file_name=f"RTI_Petition_{target_row['tender_id']}.txt",
-            mime="text/plain"
-        )
-    else:
-        st.info("No critical violations currently selected to generate RTI petitions.")
-
-st.markdown("---")
-st.caption("Project TRUTH • Public Procurement Integrity Engine • Designed for IRIS National Science Fair / Harvard University Technical Presentation")
+        st.text_area("Legal RTI Petition Draft (Ready to File):", rti_text, height=3
