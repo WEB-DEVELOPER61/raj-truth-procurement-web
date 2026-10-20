@@ -226,17 +226,19 @@ df_all = load_all_district_data()
 base_payloads = [f"{r.tender_id}:{int(r.tender_amount)}" for r in df_all.itertuples()] if not df_all.empty else ["EMPTY_NODE"]
 baseline_root = RFC6962MerkleTree(base_payloads).get_root_hex()
 short_hash = f"0x{baseline_root[:6]}...{baseline_root[-6:]}"
-
+# -------------------------------------------------------------
+# 4. SIDEBAR CONTROLS (Minimalist Header)
+# -------------------------------------------------------------
 with st.sidebar:
     st.markdown("## Project TRUTH")
     st.caption("Statutory Compliance & Audit Pipeline")
-    
+
     if st.button("🔄 Sync & Clear Cache", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
 
-    st.markdown("---")
-    st.markdown("### Forensic Controls")
+    st.title("Forensic Controls")
+    
     circle_options = ["All Rajasthan", "Jaipur", "Jodhpur", "Udaipur", "Bikaner", "Kota"]
     selected_circle = st.selectbox("Administrative Circle:", circle_options)
 
