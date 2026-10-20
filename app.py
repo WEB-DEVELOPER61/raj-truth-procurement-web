@@ -85,8 +85,7 @@ def format_deficit_safe(x):
 # -------------------------------------------------------------
 def standardize_forensic_dataframe(df, default_district="Jaipur"):
     """Normalizes arbitrary raw CSVs into the verified 11-column forensic schema."""
-    col_map = {c: c.strip().lower(): c for c in df.columns}
-    df = df.rename(columns={c: c.strip().lower() for c in df.columns})
+    df = df.rename(columns={c: str(c).strip().lower() for c in df.columns})
     
     # 1. Tender ID
     if 'tender_id' not in df.columns:
@@ -189,7 +188,6 @@ def load_all_district_data():
             df = pd.read_csv(f)
             if len(df) > 0:
                 df_std = standardize_forensic_dataframe(df, default_district=filename)
-                # Discard table headers and navigation artifacts
                 valid_mask = df_std['tender_id'].astype(str).str.contains(r'^\d{4}_[A-Za-z0-9]+_\d+', na=False)
                 dfs.append(df_std[valid_mask])
         except Exception:
@@ -198,7 +196,6 @@ def load_all_district_data():
     if dfs:
         master = pd.concat(dfs, ignore_index=True)
         master.drop_duplicates(subset=['tender_id'], keep='first', inplace=True)
-        # Ensure final numeric column safety after concat
         master['actual_window_days'] = pd.to_numeric(master['actual_window_days'], errors='coerce').fillna(10).astype(int)
         master['statutory_min_days'] = pd.to_numeric(master['statutory_min_days'], errors='coerce').fillna(10).astype(int)
         master['deficit_days'] = pd.to_numeric(master['deficit_days'], errors='coerce').fillna(0.0)
@@ -497,4 +494,15 @@ The information sought does not fall within the exemptions under Section 8 or 9 
 Date: {pd.Timestamp.now().strftime('%d-%b-%Y')}
 Place: Jodhpur, Rajasthan
 """
-        st.text_area("Legal RTI Petition Draft (Ready to File):", rti_text, height=3
+        st.text_area("Legal RTI Petition Draft (Ready to File):", rti_text, height=300)
+        st.download_button(
+            "📄 Download RTI Petition (.txt)",
+            data=rti_text,
+            file_name=f"RTI_Petition_{target_row['tender_id']}.txt",
+            mime="text/plain"
+        )
+    else:
+        st.info("No critical violations currently selected to generate RTI petitions.")
+
+st.markdown("---")
+st.caption("Project TRUTH • Public Procurement Integrity Engine • Designed for IRIS National Science Fair / Harvard University Technical Presentation")
