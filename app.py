@@ -21,25 +21,13 @@ except ImportError:
 # 1. PAGE CONFIGURATION & STYLES
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="⚖️ Project TRUTH: Automated Public Procurement Compliance Engine",
-    page_icon="",
+    page_title=" ⚖️ Project TRUTH | Forensic Procurement Engine",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 st.markdown("""
 <style>
-    /* Completely eliminate Streamlit top header bar and menus */
-    [data-testid="stHeader"] {
-        display: none !important;
-    }
-    #MainMenu {
-        display: none !important;
-    }
-    footer {
-        display: none !important;
-    }
-
     .metric-card {
         background-color: #1e2130;
         padding: 18px;
@@ -52,7 +40,7 @@ st.markdown("""
     .metric-sub-red { color: #f85149; font-size: 12px; font-weight: 600; margin-top: 4px; }
     .metric-sub-green { color: #3fb950; font-size: 12px; font-weight: 600; margin-top: 4px; }
 </style>
-""", unsafe_allow_html=True) 
+""", unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
 # 2. CRYPTOGRAPHIC MERKLE TREE (RFC 6962 COMPLIANT)
@@ -301,7 +289,7 @@ else:
 # -----------------------------------------------------------------------------
 # 5. HEADER & TOP TELEMETRY METRICS
 # -----------------------------------------------------------------------------
-st.title(" ⚖️ Project TRUTH: Automated Public Procurement Compliance Engine")
+st.title("Project TRUTH: Automated Public Procurement Compliance Engine")
 st.caption("Forensic Systems Software for Statutory Rule 43 Auditing | Rajasthan State Public Procurement Portal (SPPP)")
 
 payloads = [
