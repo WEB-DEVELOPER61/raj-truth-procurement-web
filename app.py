@@ -17,7 +17,7 @@ st.set_page_config(
 )
 
 # -------------------------------------------------------------
-# Forensic UI Styling & Truth Stambh Insignia
+# Forensic UI Styling
 # -------------------------------------------------------------
 st.markdown("""
 <style>
@@ -52,32 +52,11 @@ st.markdown("""
         font-weight: 600;
         margin-top: 4px;
     }
-    .truth-stambh-box {
-        text-align: center;
-        background: linear-gradient(180deg, #0E1726 0%, #172554 100%);
-        border: 1px solid #3B82F6;
-        border-radius: 10px;
-        padding: 14px 10px;
-        margin-bottom: 18px;
-    }
-    .truth-stambh-title {
-        font-size: 1.15rem;
-        font-weight: 800;
-        color: #F8FAFC;
-        letter-spacing: 0.08em;
-    }
-    .truth-stambh-sub {
-        font-size: 0.72rem;
-        color: #93C5FD;
-        font-weight: 600;
-        letter-spacing: 0.05em;
-        margin-top: 2px;
-    }
 </style>
 """, unsafe_allow_html=True)
 
 # -------------------------------------------------------------
-# Safe Formatting Helpers (Guaranteed No NaN Crashes)
+# Safe Formatting Helpers
 # -------------------------------------------------------------
 def format_days_safe(x):
     try:
@@ -106,7 +85,6 @@ def format_deficit_safe(x):
 # Dynamic Schema Normalization Engine
 # -------------------------------------------------------------
 def standardize_forensic_dataframe(df, default_district="Jaipur"):
-    """Normalizes arbitrary raw CSVs into the verified forensic schema."""
     df = df.rename(columns={c: str(c).strip().lower() for c in df.columns})
     
     # 1. Tender ID
@@ -128,7 +106,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
             df['tender_amount'] = 2500000.0
     df['tender_amount'] = pd.to_numeric(df['tender_amount'], errors='coerce').fillna(2500000.0)
     
-    # 3. Actual Notice Duration
+    # 3. Notice Duration
     if 'actual_window_days' not in df.columns:
         for c in ['published_duration_days', 'window_days', 'window', 'duration_days', 'duration']:
             if c in df.columns:
@@ -154,7 +132,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
     if 'estimated_cost_lac' not in df.columns:
         df['estimated_cost_lac'] = (df['tender_amount'] / 100000.0).round(2)
         
-    # 5. Statutory Rule 43 Threshold Computation
+    # 5. Statutory Rule 43
     def get_statutory_min(amt):
         if amt <= 1000000.0: return 7
         elif amt <= 5000000.0: return 10
@@ -187,7 +165,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
     else:
         df['risk_score'] = pd.to_numeric(df['risk_score'], errors='coerce').fillna(0.0)
         
-    # 6. Fiscal Quarter Assignment (Indian Fiscal Year)
+    # 6. Fiscal Quarter
     q_labels = ["Q1 (Apr-Jun)", "Q2 (Jul-Sep)", "Q3 (Oct-Dec)", "Q4 (Jan-Mar: March Rush)"]
     if 'fiscal_quarter' not in df.columns:
         date_col = None
@@ -267,15 +245,14 @@ def build_rfc6962_merkle_root(tender_ids):
     return current[0]
 
 # -------------------------------------------------------------
-# Sidebar: Truth Stambh (Ashoka Lion Capital) & Controls
+# Sidebar: Clean Ashoka Lion Capital (Above Sync & Cache)
 # -------------------------------------------------------------
 st.sidebar.markdown("""
-<div class="truth-stambh-box">
+<div style="text-align: center; margin-top: 5px; margin-bottom: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/240px-Emblem_of_India.svg.png" 
-         style="width: 70px; display: block; margin: 0 auto 10px auto; filter: drop-shadow(0px 2px 8px rgba(0,0,0,0.6));" 
-         alt="Lion Capital of Ashoka">
-    <div class="truth-stambh-title">TRUTH STAMBH</div>
-    <div class="truth-stambh-sub">सत्यमेव जयते • PUBLIC VIGILANCE</div>
+         referrerpolicy="no-referrer"
+         style="width: 85px; display: inline-block;" 
+         alt="Ashoka Lion Capital">
 </div>
 """, unsafe_allow_html=True)
 
