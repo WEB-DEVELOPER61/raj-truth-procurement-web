@@ -1,0 +1,454 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_UIT_KARA_697468,NIT_30/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,53784144.62,537.84,33,2026-01-30
+2026_UIT_KARA_953314,NIT_53/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,629976.2,6.3,9,2025-07-20
+2026_UIT_KARA_478802,NIT_68/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,613696.93,6.14,10,2025-05-12
+2026_WRD_KARA_731614,NIT_21/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,748430.35,7.48,14,2025-11-29
+2026_WRD_KARA_779376,NIT_69/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,732107.4,7.32,10,2025-10-16
+2026_FORES_KARA_103704,NIT_33/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,393110.62,3.93,8,2026-01-29
+2026_DLB_KARA_807815,NIT_14/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,257677.19,2.58,13,2025-06-12
+2026_PHED_KARA_497933,NIT_49/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,186465.4,1.86,10,2025-12-19
+2026_DLB_KARA_316113,NIT_64/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,1087541.9,10.88,14,2025-11-29
+2026_UIT_KARA_142821,NIT_66/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,2599315.81,25.99,13,2025-05-14
+2026_PWD_KARA_145616,NIT_99/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,413275.19,4.13,9,2025-12-07
+2026_FORES_KARA_578697,NIT_65/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,15769482.43,157.69,22,2025-06-13
+2026_MEDIC_KARA_334312,NIT_91/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,3143380.0,31.43,13,2026-03-15
+2026_FORES_KARA_475348,NIT_80/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,17571354.66,175.71,16,2025-06-06
+2026_MEDIC_KARA_378593,NIT_78/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,883744.23,8.84,12,2025-04-17
+2026_WRD_KARA_553196,NIT_41/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,10344714.84,103.45,15,2026-03-19
+2026_DLB_KARA_563191,NIT_76/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,11286413.84,112.86,15,2026-02-19
+2026_DLB_KARA_309947,NIT_94/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,394826.56,3.95,13,2025-08-26
+2026_UIT_KARA_181350,NIT_21/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,801986.56,8.02,8,2025-07-28
+2026_MEDIC_KARA_300427,NIT_79/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,10593603.04,105.94,23,2026-03-11
+2026_WRD_KARA_627582,NIT_27/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,3853042.25,38.53,12,2026-02-12
+2026_MEDIC_KARA_248755,NIT_76/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,6823306.63,68.23,16,2026-03-13
+2026_MEDIC_KARA_272959,NIT_94/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,1846060.78,18.46,14,2026-03-03
+2026_PWD_KARA_703794,NIT_45/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,4708632.68,47.09,10,2025-12-01
+2026_MEDIC_KARA_783902,NIT_52/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,236984.29,2.37,8,2025-09-15
+2026_FORES_KARA_576881,NIT_72/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,438892.85,4.39,8,2025-05-26
+2026_MEDIC_KARA_114729,NIT_51/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,21657321.48,216.57,36,2026-02-03
+2026_PHED_KARA_243421,NIT_35/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,611323.88,6.11,15,2025-12-03
+2026_FORES_KARA_236783,NIT_84/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,317836.84,3.18,8,2025-12-02
+2026_MEDIC_KARA_558517,NIT_79/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,1263747.82,12.64,18,2026-01-12
+2026_PHED_KARA_781568,NIT_37/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,4198230.78,41.98,10,2025-09-29
+2026_PHED_KARA_264346,NIT_40/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,559408.61,5.59,11,2025-05-08
+2026_FORES_KARA_268421,NIT_91/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,447702.8,4.48,10,2025-11-22
+2026_WRD_KARA_606537,NIT_61/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,820012.38,8.2,8,2025-12-18
+2026_WRD_KARA_858179,NIT_15/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,748326.95,7.48,7,2026-01-01
+2026_FORES_KARA_617095,NIT_95/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4686449.61,46.86,11,2025-10-13
+2026_PWD_KARA_613565,NIT_42/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,245308.84,2.45,9,2025-11-16
+2026_PWD_KARA_973154,NIT_12/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,18691878.02,186.92,15,2025-07-19
+2026_PHED_KARA_396744,NIT_10/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,14613372.53,146.13,16,2025-11-01
+2026_PHED_KARA_655628,NIT_40/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,2078111.33,20.78,17,2025-09-21
+2026_WRD_KARA_660119,NIT_12/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,154120.78,1.54,9,2026-02-07
+2026_PWD_KARA_382937,NIT_65/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,860854.08,8.61,7,2026-01-02
+2026_MEDIC_KARA_541578,NIT_17/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,211773.95,2.12,14,2025-06-08
+2026_PHED_KARA_318446,NIT_75/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,766584.56,7.67,14,2025-04-19
+2026_MEDIC_KARA_934812,NIT_89/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,15253846.37,152.54,15,2026-02-15
+2026_FORES_KARA_739803,NIT_75/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,800092.67,8.0,11,2026-02-12
+2026_PWD_KARA_775673,NIT_15/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,17762402.8,177.62,11,2025-11-16
+2026_UIT_KARA_193180,NIT_17/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,793964.79,7.94,13,2026-02-27
+2026_DLB_KARA_517772,NIT_19/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,857811.99,8.58,8,2026-01-10
+2026_PHED_KARA_648901,NIT_98/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,89209087.83,892.09,33,2025-05-21
+2026_MEDIC_KARA_315807,NIT_86/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,3821962.2,38.22,11,2025-04-08
+2026_UIT_KARA_817086,NIT_40/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,406505.47,4.07,8,2025-07-03
+2026_PHED_KARA_165706,NIT_52/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,948546.06,9.49,14,2025-11-15
+2026_PWD_KARA_610826,NIT_38/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,337408.55,3.37,4,2026-01-08
+2026_DLB_KARA_761570,NIT_92/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,1570623.52,15.71,11,2025-04-21
+2026_PHED_KARA_197442,NIT_59/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,305239.18,3.05,15,2025-08-24
+2026_FORES_KARA_157217,NIT_74/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2635737.57,26.36,13,2025-10-23
+2026_UIT_KARA_395801,NIT_95/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,2232128.71,22.32,18,2025-09-22
+2026_DLB_KARA_720066,NIT_34/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,8992209.42,89.92,23,2025-09-14
+2026_MEDIC_KARA_539620,NIT_95/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,236452.65,2.36,10,2025-06-01
+2026_MEDIC_KARA_263264,NIT_84/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,310801.27,3.11,15,2025-06-07
+2026_DLB_KARA_782698,NIT_36/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,1203551.97,12.04,14,2026-03-16
+2026_PWD_KARA_820557,NIT_23/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,273962.86,2.74,13,2025-10-19
+2026_PWD_KARA_314829,NIT_38/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,349713.02,3.5,7,2026-03-24
+2026_WRD_KARA_805169,NIT_77/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,550729.05,5.51,12,2025-11-01
+2026_FORES_KARA_843739,NIT_52/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,309379.43,3.09,10,2025-08-30
+2026_PWD_KARA_447113,NIT_72/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,531907.83,5.32,7,2025-05-28
+2026_WRD_KARA_811735,NIT_98/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,813808.52,8.14,8,2025-10-28
+2026_MEDIC_KARA_985642,NIT_98/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,13059704.79,130.6,10,2025-12-09
+2026_FORES_KARA_182087,NIT_31/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1794477.65,17.94,17,2025-10-02
+2026_FORES_KARA_969716,NIT_14/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,840159.56,8.4,9,2025-08-18
+2026_UIT_KARA_407557,NIT_74/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,549363.34,5.49,10,2025-12-04
+2026_PHED_KARA_255097,NIT_68/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,2825681.34,28.26,11,2025-09-14
+2026_WRD_KARA_747917,NIT_14/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,17236940.27,172.37,22,2025-11-03
+2026_FORES_KARA_204081,NIT_39/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,175618.15,1.76,8,2025-11-10
+2026_DLB_KARA_613017,NIT_95/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,16464725.77,164.65,15,2025-12-14
+2026_PWD_KARA_750413,NIT_59/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,2062383.63,20.62,17,2025-05-20
+2026_DLB_KARA_587120,NIT_29/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,713127.17,7.13,8,2025-07-24
+2026_UIT_KARA_505107,NIT_16/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,76813885.59,768.14,34,2026-02-04
+2026_PHED_KARA_323413,NIT_10/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,4684043.11,46.84,14,2025-10-31
+2026_DLB_KARA_323352,NIT_35/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,6086547.73,60.87,23,2026-01-05
+2026_WRD_KARA_513576,NIT_63/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,241832.99,2.42,10,2026-01-20
+2026_PHED_KARA_920653,NIT_63/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,1610451.67,16.1,18,2025-07-10
+2026_FORES_KARA_600871,NIT_79/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,3778549.45,37.79,12,2025-10-12
+2026_WRD_KARA_744040,NIT_27/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,940835.22,9.41,12,2026-03-09
+2026_WRD_KARA_486977,NIT_33/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,3684204.41,36.84,11,2025-10-13
+2026_PWD_KARA_505803,NIT_59/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,757501.63,7.58,9,2025-07-30
+2026_MEDIC_KARA_476485,NIT_20/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,537018.06,5.37,8,2025-12-29
+2026_WRD_KARA_654572,NIT_19/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,338096.68,3.38,13,2025-11-24
+2026_FORES_KARA_312943,NIT_36/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1991128.95,19.91,16,2026-01-03
+2026_PHED_KARA_564902,NIT_81/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,16760128.71,167.6,21,2025-10-02
+2026_WRD_KARA_731289,NIT_56/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,949975.03,9.5,14,2025-05-28
+2026_FORES_KARA_768844,NIT_35/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1700162.46,17.0,11,2025-07-24
+2026_PHED_KARA_217100,NIT_10/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,346454.11,3.46,10,2025-10-14
+2026_PWD_KARA_716011,NIT_19/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,16206981.31,162.07,16,2025-11-07
+2026_MEDIC_KARA_222814,NIT_71/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,4050660.04,40.51,18,2025-12-29
+2026_PHED_KARA_274390,NIT_54/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,2254239.26,22.54,18,2026-03-07
+2026_UIT_KARA_487011,NIT_29/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,3093755.83,30.94,16,2026-03-11
+2026_PHED_KARA_625615,NIT_27/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,414205.87,4.14,7,2025-11-27
+2026_UIT_KARA_589364,NIT_97/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,717980.36,7.18,8,2025-07-26
+2026_PHED_KARA_535934,NIT_78/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,47972656.39,479.73,23,2025-08-19
+2026_MEDIC_KARA_114626,NIT_63/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,779360.2,7.79,14,2026-02-13
+2026_PHED_KARA_282829,NIT_34/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,2589411.41,25.89,13,2025-10-31
+2026_FORES_KARA_769572,NIT_23/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,115932208.33,1159.32,35,2025-05-18
+2026_FORES_KARA_308329,NIT_43/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,643007.88,6.43,14,2025-06-14
+2026_MEDIC_KARA_277898,NIT_55/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,9793111.61,97.93,9,2026-02-22
+2026_MEDIC_KARA_984623,NIT_15/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,15262883.77,152.63,18,2025-07-08
+2026_FORES_KARA_754436,NIT_89/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2524849.09,25.25,13,2025-05-21
+2026_DLB_KARA_288847,NIT_52/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,311158.68,3.11,8,2026-01-14
+2026_UIT_KARA_165235,NIT_29/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,949669.07,9.5,9,2026-02-28
+2026_PHED_KARA_311446,NIT_34/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,834483.1,8.34,11,2026-02-24
+2026_DLB_KARA_119860,NIT_17/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,18136785.77,181.37,6,2025-04-01
+2026_UIT_KARA_110050,NIT_78/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,10542887.93,105.43,17,2025-12-11
+2026_MEDIC_KARA_250542,NIT_43/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,1544075.35,15.44,18,2025-05-23
+2026_MEDIC_KARA_489024,NIT_97/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,462096.02,4.62,8,2026-03-16
+2026_MEDIC_KARA_731081,NIT_44/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,358982.2,3.59,9,2026-02-21
+2026_FORES_KARA_479348,NIT_59/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2419373.37,24.19,13,2025-04-01
+2026_WRD_KARA_831346,NIT_58/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,2861078.01,28.61,14,2025-11-21
+2026_PHED_KARA_896822,NIT_64/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,14668963.09,146.69,19,2025-08-10
+2026_PHED_KARA_259501,NIT_11/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,3378384.81,33.78,18,2026-01-12
+2026_WRD_KARA_637096,NIT_22/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,13268579.32,132.69,16,2025-11-23
+2026_FORES_KARA_213879,NIT_76/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4742065.31,47.42,15,2025-05-25
+2026_DLB_KARA_374157,NIT_56/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,2011195.43,20.11,13,2025-07-25
+2026_MEDIC_KARA_805042,NIT_92/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,674356.85,6.74,13,2025-04-14
+2026_PHED_KARA_984237,NIT_69/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,14143309.52,141.43,15,2025-06-30
+2026_WRD_KARA_788144,NIT_25/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,1367929.52,13.68,13,2025-09-10
+2026_PHED_KARA_593618,NIT_73/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,882171.03,8.82,8,2025-07-04
+2026_WRD_KARA_894104,NIT_88/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,793982.3,7.94,15,2025-09-14
+2026_WRD_KARA_456515,NIT_49/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,431967.79,4.32,11,2025-05-14
+2026_MEDIC_KARA_192754,NIT_15/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,675295.29,6.75,12,2025-08-20
+2026_UIT_KARA_360222,NIT_78/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,667696.69,6.68,15,2026-03-03
+2026_PHED_KARA_619685,NIT_80/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,324107.93,3.24,15,2025-04-10
+2026_PWD_KARA_735950,NIT_38/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,502702.31,5.03,7,2025-08-01
+2026_PHED_KARA_905471,NIT_81/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,679061.77,6.79,10,2025-07-03
+2026_DLB_KARA_693906,NIT_15/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,17960393.53,179.6,17,2025-09-21
+2026_FORES_KARA_322238,NIT_90/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,782696.71,7.83,8,2025-04-18
+2026_PWD_KARA_657755,NIT_87/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,4133636.75,41.34,15,2025-12-17
+2026_FORES_KARA_264404,NIT_35/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,949955.09,9.5,15,2025-10-15
+2026_UIT_KARA_888136,NIT_12/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,458514.62,4.59,9,2025-11-15
+2026_DLB_KARA_251823,NIT_57/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,611350.93,6.11,8,2025-08-27
+2026_PWD_KARA_289390,NIT_72/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,5529072.84,55.29,17,2026-01-15
+2026_FORES_KARA_461179,NIT_94/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,3528479.09,35.28,12,2026-01-04
+2026_DLB_KARA_449336,NIT_52/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,639935.3,6.4,14,2025-10-21
+2026_UIT_KARA_574530,NIT_24/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,4389935.28,43.9,16,2025-12-15
+2026_WRD_KARA_645316,NIT_17/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,598274.02,5.98,15,2026-02-06
+2026_PWD_KARA_592998,NIT_28/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,108415110.02,1084.15,35,2025-09-25
+2026_PWD_KARA_632863,NIT_76/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,113657276.45,1136.57,31,2025-07-10
+2026_PHED_KARA_264374,NIT_80/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,1634235.68,16.34,11,2026-02-15
+2026_DLB_KARA_173765,NIT_17/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,2732031.75,27.32,15,2025-09-22
+2026_FORES_KARA_492623,NIT_48/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,17291446.24,172.91,18,2026-01-24
+2026_MEDIC_KARA_190064,NIT_72/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,1429133.88,14.29,14,2025-06-25
+2026_PWD_KARA_852689,NIT_34/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,3333875.62,33.34,12,2025-08-07
+2026_WRD_KARA_631074,NIT_78/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,88156238.22,881.56,30,2026-03-07
+2026_DLB_KARA_330245,NIT_43/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,1791675.77,17.92,12,2025-12-08
+2026_FORES_KARA_982647,NIT_29/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1538872.86,15.39,13,2026-02-09
+2026_PWD_KARA_794988,NIT_77/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,16136180.37,161.36,22,2025-06-22
+2026_WRD_KARA_395966,NIT_96/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,3841711.38,38.42,17,2026-01-29
+2026_PHED_KARA_243221,NIT_78/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,1275732.15,12.76,11,2025-08-22
+2026_WRD_KARA_676313,NIT_60/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,250367.83,2.5,12,2025-11-22
+2026_WRD_KARA_126999,NIT_88/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,814761.16,8.15,13,2025-12-13
+2026_DLB_KARA_295653,NIT_66/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,664133.35,6.64,13,2025-08-23
+2026_PHED_KARA_391685,NIT_59/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,597399.76,5.97,9,2025-10-02
+2026_PWD_KARA_111730,NIT_43/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,319076.6,3.19,13,2025-12-29
+2026_WRD_KARA_475582,NIT_62/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,99823061.51,998.23,30,2025-08-31
+2026_PHED_KARA_574961,NIT_43/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,3373354.72,33.73,11,2025-08-01
+2026_FORES_KARA_335728,NIT_69/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1151376.93,11.51,10,2025-08-12
+2026_UIT_KARA_759122,NIT_14/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,368142.13,3.68,7,2025-10-25
+2026_FORES_KARA_604231,NIT_39/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,18206627.47,182.07,19,2025-07-04
+2026_PWD_KARA_319122,NIT_65/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,2490594.13,24.91,18,2025-06-15
+2026_PWD_KARA_171725,NIT_64/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,3470684.69,34.71,16,2025-07-01
+2026_UIT_KARA_626340,NIT_99/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,401567.5,4.02,14,2025-11-15
+2026_FORES_KARA_308246,NIT_81/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,840442.05,8.4,10,2025-08-24
+2026_PWD_KARA_532279,NIT_46/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,1735269.69,17.35,15,2026-02-25
+2026_DLB_KARA_968190,NIT_19/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,3355034.19,33.55,18,2026-03-08
+2026_UIT_KARA_928018,NIT_99/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,15420189.05,154.2,23,2025-06-08
+2026_DLB_KARA_666844,NIT_56/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,14460033.84,144.6,23,2025-07-28
+2026_PWD_KARA_594202,NIT_45/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,74985137.46,749.85,38,2025-06-01
+2026_UIT_KARA_159485,NIT_19/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,2158197.73,21.58,12,2025-04-03
+2026_PHED_KARA_290373,NIT_53/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,83147092.34,831.47,35,2025-10-26
+2026_WRD_KARA_209411,NIT_78/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,16318409.28,163.18,21,2026-03-14
+2026_PHED_KARA_921790,NIT_42/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,679353.52,6.79,11,2025-07-09
+2026_MEDIC_KARA_812610,NIT_46/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,207543.43,2.08,12,2025-07-02
+2026_MEDIC_KARA_619069,NIT_36/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,766845.98,7.67,11,2025-10-14
+2026_MEDIC_KARA_270171,NIT_18/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,264399.95,2.64,10,2026-03-06
+2026_FORES_KARA_256580,NIT_12/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,620669.72,6.21,14,2025-07-20
+2026_MEDIC_KARA_850504,NIT_80/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,169115.06,1.69,9,2025-12-11
+2026_MEDIC_KARA_518400,NIT_82/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,1519278.54,15.19,13,2026-03-08
+2026_PWD_KARA_143316,NIT_41/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,922698.74,9.23,8,2025-04-05
+2026_UIT_KARA_264917,NIT_64/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,937616.81,9.38,11,2025-06-04
+2026_PWD_KARA_418966,NIT_58/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,2908636.26,29.09,16,2025-05-24
+2026_DLB_KARA_787974,NIT_42/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,11821509.72,118.22,18,2026-02-13
+2026_PHED_KARA_685433,NIT_92/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,101692336.7,1016.92,34,2025-04-29
+2026_PWD_KARA_627519,NIT_76/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,3963867.9,39.64,11,2025-11-15
+2026_WRD_KARA_294440,NIT_10/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,525363.45,5.25,12,2025-10-10
+2026_FORES_KARA_897582,NIT_41/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,874695.8,8.75,15,2026-03-09
+2026_PWD_KARA_302519,NIT_18/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,165120.26,1.65,8,2025-07-22
+2026_FORES_KARA_825362,NIT_90/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,194145.02,1.94,13,2025-10-18
+2026_PHED_KARA_272367,NIT_85/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,153655.52,1.54,11,2025-12-03
+2026_FORES_KARA_106077,NIT_25/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,86720675.72,867.21,35,2025-06-20
+2026_DLB_KARA_799167,NIT_70/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,775641.13,7.76,13,2025-08-19
+2026_UIT_KARA_724132,NIT_35/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,605885.42,6.06,8,2025-07-25
+2026_PHED_KARA_731636,NIT_96/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,883319.31,8.83,10,2025-07-27
+2026_WRD_KARA_608127,NIT_36/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,3592708.87,35.93,10,2025-10-09
+2026_UIT_KARA_103006,NIT_78/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,794737.52,7.95,11,2025-04-25
+2026_DLB_KARA_645552,NIT_49/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,394113.97,3.94,7,2026-01-11
+2026_DLB_KARA_820600,NIT_80/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,345123.73,3.45,12,2026-01-07
+2026_UIT_KARA_485160,NIT_22/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,276124.0,2.76,7,2025-10-30
+2026_WRD_KARA_148694,NIT_15/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,221250.76,2.21,12,2026-01-10
+2026_MEDIC_KARA_273688,NIT_90/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,591981.37,5.92,7,2026-02-01
+2026_WRD_KARA_493901,NIT_32/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,431407.88,4.31,10,2026-03-02
+2026_WRD_KARA_875665,NIT_83/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,3933245.21,39.33,16,2025-11-01
+2026_DLB_KARA_325975,NIT_71/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,1699677.3,17.0,18,2025-04-25
+2026_FORES_KARA_436706,NIT_94/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4653356.78,46.53,13,2025-11-15
+2026_DLB_KARA_556037,NIT_57/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,660509.77,6.61,14,2025-12-18
+2026_PHED_KARA_810945,NIT_49/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,876654.5,8.77,10,2025-12-24
+2026_FORES_KARA_320078,NIT_45/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,747676.19,7.48,10,2025-04-01
+2026_PHED_KARA_563918,NIT_23/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,285848.73,2.86,15,2025-08-25
+2026_FORES_KARA_472863,NIT_47/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,730703.72,7.31,10,2025-12-06
+2026_UIT_KARA_392080,NIT_33/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,893492.64,8.93,9,2026-03-08
+2026_UIT_KARA_903948,NIT_92/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,3968187.4,39.68,11,2026-02-15
+2026_FORES_KARA_140411,NIT_75/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,14651681.76,146.52,19,2025-07-31
+2026_UIT_KARA_968156,NIT_78/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,1961194.85,19.61,11,2026-03-27
+2026_PHED_KARA_247756,NIT_20/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,887957.84,8.88,8,2025-04-12
+2026_FORES_KARA_899911,NIT_69/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2410372.78,24.1,17,2026-01-12
+2026_MEDIC_KARA_888444,NIT_60/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,934490.13,9.34,11,2025-12-02
+2026_MEDIC_KARA_814074,NIT_25/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,3669337.72,36.69,18,2026-01-28
+2026_DLB_KARA_682103,NIT_54/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,635148.87,6.35,8,2025-12-05
+2026_FORES_KARA_755389,NIT_30/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,486612.72,4.87,15,2025-06-20
+2026_PWD_KARA_321111,NIT_90/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,9614765.02,96.15,12,2025-06-23
+2026_FORES_KARA_904151,NIT_39/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1504745.4,15.05,6,2025-10-26
+2026_DLB_KARA_835300,NIT_87/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,656498.56,6.56,8,2025-11-13
+2026_FORES_KARA_192794,NIT_78/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,949740.75,9.5,9,2025-12-10
+2026_PHED_KARA_673956,NIT_81/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,891904.68,8.92,14,2025-08-19
+2026_PWD_KARA_357586,NIT_82/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,14198511.79,141.99,22,2025-12-10
+2026_PWD_KARA_494246,NIT_66/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,2272685.21,22.73,10,2025-08-24
+2026_FORES_KARA_634715,NIT_50/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,75021984.0,750.22,31,2025-06-20
+2026_MEDIC_KARA_967362,NIT_49/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,371258.27,3.71,11,2025-04-14
+2026_PWD_KARA_557792,NIT_30/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,3695896.27,36.96,17,2025-08-21
+2026_UIT_KARA_659776,NIT_77/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,4651985.51,46.52,16,2025-04-15
+2026_DLB_KARA_515992,NIT_17/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,733341.86,7.33,12,2025-11-01
+2026_WRD_KARA_165430,NIT_24/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,459590.31,4.6,12,2025-11-28
+2026_PHED_KARA_171970,NIT_88/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,3405380.1,34.05,18,2025-08-30
+2026_DLB_KARA_823196,NIT_12/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,3117213.61,31.17,15,2025-04-20
+2026_MEDIC_KARA_934760,NIT_27/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,4762609.94,47.63,17,2026-01-03
+2026_PHED_KARA_628068,NIT_56/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,3934790.87,39.35,16,2025-07-14
+2026_FORES_KARA_480579,NIT_99/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1791130.7,17.91,15,2026-01-03
+2026_UIT_KARA_983273,NIT_82/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,3215938.32,32.16,11,2025-11-11
+2026_PHED_KARA_946402,NIT_14/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,624363.12,6.24,8,2025-07-24
+2026_UIT_KARA_416660,NIT_65/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,584277.7,5.84,7,2026-03-15
+2026_PHED_KARA_533922,NIT_89/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,4628710.95,46.29,14,2025-06-15
+2026_UIT_KARA_549506,NIT_17/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,36600697.97,366.01,31,2025-09-21
+2026_PWD_KARA_688705,NIT_94/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,201500.86,2.02,8,2026-03-07
+2026_PWD_KARA_385997,NIT_39/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,793015.21,7.93,11,2025-10-17
+2026_WRD_KARA_750051,NIT_21/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,926657.16,9.27,13,2025-07-09
+2026_MEDIC_KARA_990971,NIT_21/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,292494.82,2.92,15,2025-10-26
+2026_PWD_KARA_917065,NIT_45/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,800709.44,8.01,9,2025-09-03
+2026_MEDIC_KARA_729506,NIT_76/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,2310936.13,23.11,14,2025-09-29
+2026_DLB_KARA_937125,NIT_49/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,764970.55,7.65,11,2025-11-22
+2026_FORES_KARA_352367,NIT_80/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4019353.08,40.19,12,2025-09-30
+2026_WRD_KARA_373721,NIT_44/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,5457797.51,54.58,22,2025-11-11
+2026_UIT_KARA_853504,NIT_54/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,57349198.32,573.49,37,2025-11-30
+2026_MEDIC_KARA_365314,NIT_27/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,174784.93,1.75,7,2026-01-25
+2026_PWD_KARA_961573,NIT_89/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,2438984.25,24.39,14,2025-08-07
+2026_WRD_KARA_959878,NIT_17/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,437743.73,4.38,12,2025-05-06
+2026_MEDIC_KARA_617217,NIT_24/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,812909.73,8.13,9,2025-07-26
+2026_FORES_KARA_229539,NIT_34/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,3561628.85,35.62,18,2025-06-03
+2026_FORES_KARA_482621,NIT_99/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1573311.96,15.73,18,2025-12-05
+2026_UIT_KARA_149186,NIT_31/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,250099.79,2.5,15,2026-02-28
+2026_WRD_KARA_391490,NIT_17/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,109874446.96,1098.74,33,2025-08-16
+2026_MEDIC_KARA_829727,NIT_88/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,15222732.02,152.23,17,2025-05-25
+2026_MEDIC_KARA_176811,NIT_86/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,3963839.77,39.64,14,2025-04-15
+2026_FORES_KARA_599115,NIT_73/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,3073616.99,30.74,13,2026-01-09
+2026_UIT_KARA_509283,NIT_92/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,338324.87,3.38,12,2025-12-30
+2026_FORES_KARA_948061,NIT_89/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2227635.32,22.28,16,2025-11-29
+2026_PWD_KARA_521920,NIT_12/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,574220.77,5.74,11,2025-11-29
+2026_UIT_KARA_887417,NIT_29/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,16903798.63,169.04,16,2025-07-22
+2026_UIT_KARA_231016,NIT_99/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,940108.43,9.4,7,2025-06-23
+2026_PHED_KARA_893497,NIT_10/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,511205.99,5.11,12,2025-04-02
+2026_UIT_KARA_370733,NIT_98/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,3312470.21,33.12,18,2025-08-27
+2026_PHED_KARA_550083,NIT_16/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,351477.51,3.51,14,2025-10-01
+2026_PHED_KARA_349427,NIT_62/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,426100.6,4.26,13,2025-09-03
+2026_FORES_KARA_354612,NIT_30/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,281519.19,2.82,7,2025-05-06
+2026_DLB_KARA_963211,NIT_84/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,8092314.11,80.92,19,2025-11-25
+2026_PWD_KARA_410555,NIT_17/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,568284.38,5.68,9,2026-03-06
+2026_MEDIC_KARA_275262,NIT_40/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,575382.45,5.75,13,2025-11-08
+2026_UIT_KARA_987692,NIT_45/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,472573.24,4.73,9,2026-02-12
+2026_UIT_KARA_712387,NIT_90/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,600383.33,6.0,11,2025-09-14
+2026_PWD_KARA_598157,NIT_81/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,359662.08,3.6,7,2025-06-08
+2026_FORES_KARA_751034,NIT_61/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2410531.9,24.11,16,2025-05-12
+2026_UIT_KARA_233675,NIT_22/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,389293.7,3.89,9,2025-12-14
+2026_FORES_KARA_322659,NIT_15/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,457267.37,4.57,15,2025-10-29
+2026_FORES_KARA_273574,NIT_98/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,861412.47,8.61,8,2025-06-07
+2026_DLB_KARA_584403,NIT_54/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,579434.77,5.79,15,2025-12-24
+2026_PHED_KARA_933499,NIT_44/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,239344.62,2.39,8,2025-07-27
+2026_DLB_KARA_966580,NIT_87/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,3202134.48,32.02,10,2026-03-04
+2026_WRD_KARA_479856,NIT_49/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,490988.79,4.91,14,2025-08-04
+2026_MEDIC_KARA_834824,NIT_98/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,849089.86,8.49,13,2025-12-07
+2026_WRD_KARA_617928,NIT_90/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,4229708.34,42.3,16,2026-01-03
+2026_WRD_KARA_847892,NIT_52/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,930855.21,9.31,13,2025-05-20
+2026_PHED_KARA_797713,NIT_47/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,4305663.49,43.06,15,2025-12-14
+2026_PWD_KARA_631135,NIT_65/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,587690.94,5.88,8,2025-07-07
+2026_UIT_KARA_967848,NIT_52/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,897034.51,8.97,13,2025-09-05
+2026_PHED_KARA_468859,NIT_88/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,6622324.06,66.22,19,2025-07-12
+2026_PHED_KARA_708665,NIT_70/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,358088.52,3.58,7,2026-01-01
+2026_FORES_KARA_841556,NIT_73/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,11278989.73,112.79,3,2025-10-24
+2026_MEDIC_KARA_176472,NIT_95/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,2928272.61,29.28,13,2025-08-29
+2026_UIT_KARA_455602,NIT_21/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,2893290.52,28.93,12,2026-01-17
+2026_DLB_KARA_660563,NIT_72/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,11328926.78,113.29,23,2025-08-29
+2026_WRD_KARA_302979,NIT_66/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,17722720.46,177.23,22,2025-06-14
+2026_UIT_KARA_633521,NIT_59/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,2138883.46,21.39,10,2026-02-19
+2026_UIT_KARA_706316,NIT_37/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,4149265.45,41.49,14,2026-02-11
+2026_UIT_KARA_248278,NIT_64/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,797829.36,7.98,10,2025-06-13
+2026_PHED_KARA_368495,NIT_21/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,237066.99,2.37,15,2026-03-17
+2026_UIT_KARA_330362,NIT_28/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,382904.39,3.83,13,2025-09-20
+2026_DLB_KARA_946334,NIT_30/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,572092.62,5.72,15,2025-11-20
+2026_DLB_KARA_804153,NIT_46/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,11928326.65,119.28,20,2026-01-18
+2026_FORES_KARA_320214,NIT_17/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,188902.71,1.89,15,2025-09-20
+2026_MEDIC_KARA_876767,NIT_81/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,729359.94,7.29,8,2025-07-19
+2026_MEDIC_KARA_220664,NIT_23/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,4710036.34,47.1,14,2026-02-02
+2026_FORES_KARA_759973,NIT_31/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,307794.77,3.08,12,2025-04-19
+2026_MEDIC_KARA_215549,NIT_57/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,349613.35,3.5,10,2025-04-17
+2026_FORES_KARA_209135,NIT_60/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2710142.85,27.1,17,2025-07-25
+2026_FORES_KARA_699450,NIT_35/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,1323513.0,13.24,13,2025-11-09
+2026_WRD_KARA_199962,NIT_54/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,3780368.17,37.8,18,2025-12-12
+2026_PWD_KARA_821931,NIT_71/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,684545.0,6.85,4,2025-11-09
+2026_MEDIC_KARA_264528,NIT_30/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,690572.89,6.91,11,2025-11-16
+2026_FORES_KARA_258296,NIT_79/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4340360.9,43.4,15,2025-04-02
+2026_PWD_KARA_781969,NIT_76/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,584919.96,5.85,12,2025-08-05
+2026_WRD_KARA_382001,NIT_56/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,4674279.67,46.74,13,2025-10-23
+2026_PHED_KARA_877285,NIT_31/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,12950311.65,129.5,16,2025-08-11
+2026_PWD_KARA_998386,NIT_11/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,403990.43,4.04,14,2025-06-23
+2026_WRD_KARA_380304,NIT_32/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,615698.87,6.16,11,2025-07-31
+2026_PHED_KARA_872152,NIT_76/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,734534.03,7.35,9,2025-10-19
+2026_WRD_KARA_777788,NIT_58/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,1695803.73,16.96,13,2026-01-24
+2026_MEDIC_KARA_260383,NIT_10/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,203161.16,2.03,7,2026-02-20
+2026_FORES_KARA_376762,NIT_20/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,258792.61,2.59,7,2025-10-26
+2026_UIT_KARA_933285,NIT_79/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,9115935.73,91.16,16,2025-09-06
+2026_MEDIC_KARA_880750,NIT_57/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,244845.71,2.45,11,2026-02-22
+2026_PHED_KARA_263681,NIT_62/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,483169.03,4.83,8,2026-01-22
+2026_UIT_KARA_626581,NIT_61/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,1680597.76,16.81,10,2025-09-17
+2026_FORES_KARA_806993,NIT_87/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,259100.99,2.59,12,2025-09-08
+2026_FORES_KARA_146540,NIT_94/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4706394.37,47.06,14,2025-12-21
+2026_UIT_KARA_650059,NIT_28/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,2845782.63,28.46,14,2025-10-25
+2026_FORES_KARA_618643,NIT_17/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,860351.08,8.6,9,2025-11-15
+2026_PHED_KARA_966919,NIT_87/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,15964954.24,159.65,15,2025-05-09
+2026_PHED_KARA_803651,NIT_18/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,497422.83,4.97,2,2025-04-10
+2026_FORES_KARA_554302,NIT_53/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,54993044.54,549.93,34,2025-04-03
+2026_FORES_KARA_890737,NIT_59/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,608411.62,6.08,11,2025-06-19
+2026_FORES_KARA_277184,NIT_19/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,577013.44,5.77,11,2025-05-03
+2026_PWD_KARA_439762,NIT_86/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,542047.77,5.42,8,2025-06-27
+2026_PHED_KARA_766128,NIT_62/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,298310.43,2.98,11,2025-10-02
+2026_PHED_KARA_571638,NIT_65/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,1305351.52,13.05,15,2025-04-16
+2026_UIT_KARA_806027,NIT_76/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,2898803.34,28.99,10,2026-01-13
+2026_MEDIC_KARA_834220,NIT_36/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,3265527.02,32.66,13,2025-08-29
+2026_FORES_KARA_792597,NIT_47/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,702008.09,7.02,9,2026-02-02
+2026_FORES_KARA_704725,NIT_89/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,270799.74,2.71,12,2025-07-11
+2026_DLB_KARA_375129,NIT_40/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,3000967.39,30.01,10,2025-08-02
+2026_PHED_KARA_982451,NIT_33/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,410186.14,4.1,15,2026-03-27
+2026_PHED_KARA_518952,NIT_77/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,2089154.75,20.89,11,2026-03-19
+2026_DLB_KARA_402754,NIT_14/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,2522097.13,25.22,14,2025-09-26
+2026_PWD_KARA_100238,NIT_55/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,421175.53,4.21,14,2026-02-26
+2026_UIT_KARA_445424,NIT_72/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,2299270.26,22.99,15,2025-05-27
+2026_WRD_KARA_556057,NIT_57/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,3406601.43,34.07,12,2025-06-19
+2026_PHED_KARA_805423,NIT_79/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,1430225.59,14.3,13,2025-11-06
+2026_DLB_KARA_297039,NIT_39/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,301127.13,3.01,9,2025-06-28
+2026_WRD_KARA_500891,NIT_30/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,529875.53,5.3,8,2025-05-24
+2026_PWD_KARA_159426,NIT_91/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,852562.9,8.53,14,2026-01-27
+2026_PWD_KARA_581416,NIT_13/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,928006.25,9.28,10,2025-11-06
+2026_MEDIC_KARA_564554,NIT_12/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,256026.08,2.56,15,2026-01-26
+2026_DLB_KARA_586531,NIT_71/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,13537934.11,135.38,20,2025-04-26
+2026_FORES_KARA_448070,NIT_64/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4587397.72,45.87,13,2026-02-21
+2026_MEDIC_KARA_488523,NIT_26/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,2886410.76,28.86,13,2025-10-15
+2026_PHED_KARA_844313,NIT_53/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,306726.84,3.07,10,2026-01-12
+2026_WRD_KARA_435795,NIT_68/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,6813272.41,68.13,18,2025-11-28
+2026_FORES_KARA_158144,NIT_92/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,819929.68,8.2,12,2025-08-07
+2026_UIT_KARA_625697,NIT_35/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,4669536.18,46.7,14,2026-01-18
+2026_PHED_KARA_315300,NIT_64/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,65273580.84,652.74,32,2025-05-22
+2026_PWD_KARA_289836,NIT_66/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,1608938.18,16.09,14,2025-05-31
+2026_WRD_KARA_501257,NIT_28/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,65376901.82,653.77,20,2025-04-01
+2026_FORES_KARA_418935,NIT_35/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4659518.93,46.6,16,2025-10-24
+2026_UIT_KARA_346814,NIT_75/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,868510.63,8.69,15,2025-05-03
+2026_DLB_KARA_121600,NIT_36/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,695306.07,6.95,11,2025-10-03
+2026_UIT_KARA_955605,NIT_19/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,551460.09,5.51,8,2025-11-05
+2026_MEDIC_KARA_541744,NIT_71/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,912990.5,9.13,14,2025-05-15
+2026_FORES_KARA_339838,NIT_26/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,4327876.0,43.28,16,2025-06-25
+2026_UIT_KARA_754066,NIT_28/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,704780.66,7.05,9,2025-08-01
+2026_FORES_KARA_608391,NIT_18/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,14200385.26,142.0,3,2025-07-22
+2026_MEDIC_KARA_774697,NIT_98/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,919909.09,9.2,9,2025-09-09
+2026_MEDIC_KARA_326661,NIT_83/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,247773.84,2.48,10,2025-06-08
+2026_PWD_KARA_730597,NIT_87/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,76624250.08,766.24,24,2025-11-24
+2026_PWD_KARA_362199,NIT_77/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,576191.87,5.76,11,2026-03-18
+2026_DLB_KARA_543362,NIT_12/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,2649322.31,26.49,12,2025-08-17
+2026_FORES_KARA_131714,NIT_53/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2572658.92,25.73,10,2026-02-09
+2026_WRD_KARA_593407,NIT_49/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,277817.08,2.78,13,2025-09-26
+2026_WRD_KARA_981893,NIT_97/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,681928.5,6.82,13,2025-04-07
+2026_FORES_KARA_749380,NIT_70/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,612323.43,6.12,12,2025-09-30
+2026_PHED_KARA_178523,NIT_49/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,4266515.48,42.67,17,2025-12-17
+2026_WRD_KARA_228133,NIT_29/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,2231422.56,22.31,5,2025-05-30
+2026_PWD_KARA_724943,NIT_91/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,548663.67,5.49,11,2025-05-12
+2026_DLB_KARA_341357,NIT_59/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,1600942.35,16.01,10,2025-09-21
+2026_PHED_KARA_813245,NIT_98/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,796350.86,7.96,10,2025-12-17
+2026_PWD_KARA_153921,NIT_47/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,2566422.42,25.66,6,2026-02-17
+2026_DLB_KARA_205234,NIT_85/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,10616436.4,106.16,21,2025-11-16
+2026_PWD_KARA_392400,NIT_39/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,13634498.03,136.34,6,2025-06-08
+2026_UIT_KARA_406171,NIT_99/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,3736937.07,37.37,16,2025-09-14
+2026_MEDIC_KARA_185028,NIT_69/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,613561.9,6.14,12,2025-08-11
+2026_WRD_KARA_759504,NIT_46/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,110128283.79,1101.28,32,2025-09-17
+2026_PHED_KARA_996119,NIT_21/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,398515.22,3.99,8,2025-06-10
+2026_UIT_KARA_393454,NIT_67/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,3154368.62,31.54,14,2026-01-21
+2026_WRD_KARA_650875,NIT_59/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,916367.43,9.16,10,2025-12-01
+2026_MEDIC_KARA_173814,NIT_22/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,49421653.71,494.22,35,2025-06-01
+2026_MEDIC_KARA_993281,NIT_45/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,1248859.88,12.49,13,2025-09-14
+2026_UIT_KARA_833983,NIT_14/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,3422179.5,34.22,16,2026-01-13
+2026_DLB_KARA_644518,NIT_65/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,559169.38,5.59,10,2026-02-16
+2026_WRD_KARA_437211,NIT_53/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,4269753.53,42.7,15,2026-02-01
+2026_UIT_KARA_345339,NIT_35/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,3315136.61,33.15,7,2025-10-31
+2026_DLB_KARA_537956,NIT_13/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,2722869.64,27.23,13,2025-11-08
+2026_MEDIC_KARA_888527,NIT_32/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,642841.73,6.43,10,2025-10-24
+2026_FORES_KARA_838298,NIT_80/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,671795.77,6.72,10,2025-09-01
+2026_DLB_KARA_798214,NIT_89/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,232137.47,2.32,10,2026-03-13
+2026_PWD_KARA_679649,NIT_35/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,696610.12,6.97,7,2026-02-12
+2026_DLB_KARA_610432,NIT_18/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,887068.86,8.87,14,2025-07-26
+2026_PHED_KARA_799330,NIT_63/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,831507.59,8.32,11,2025-05-11
+2026_PWD_KARA_822597,NIT_28/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,346466.88,3.46,15,2026-03-26
+2026_PHED_KARA_400309,NIT_51/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,779480.39,7.79,13,2025-06-19
+2026_FORES_KARA_375592,NIT_97/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,728887.61,7.29,10,2025-10-23
+2026_FORES_KARA_460989,NIT_40/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,18082515.01,180.83,17,2026-01-31
+2026_UIT_KARA_519948,NIT_57/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,690494.94,6.9,9,2025-06-01
+2026_PHED_KARA_729854,NIT_39/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,459253.71,4.59,13,2026-01-16
+2026_WRD_KARA_648862,NIT_57/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,404860.45,4.05,7,2025-07-23
+2026_FORES_KARA_316283,NIT_46/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,2968889.86,29.69,15,2025-06-30
+2026_WRD_KARA_116176,NIT_13/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,9881583.14,98.82,20,2025-12-07
+2026_PHED_KARA_854534,NIT_94/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,534183.79,5.34,14,2025-04-15
+2026_DLB_KARA_752787,NIT_53/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,200964.92,2.01,14,2025-04-25
+2026_FORES_KARA_975552,NIT_83/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,71418682.13,714.19,38,2025-04-07
+2026_DLB_KARA_606990,NIT_34/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,443363.26,4.43,13,2026-02-19
+2026_DLB_KARA_602230,NIT_98/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,852850.24,8.53,13,2025-04-19
+2026_UIT_KARA_888471,NIT_24/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,565438.52,5.65,14,2026-01-10
+2026_PHED_KARA_811145,NIT_91/KAR/2025-26,Public Health Engineering Department (Karauli Circle),Karauli,Bharatpur Division,819558.7,8.2,12,2025-04-02
+2026_FORES_KARA_473594,NIT_75/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,79827961.77,798.28,33,2026-02-09
+2026_DLB_KARA_959069,NIT_23/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,235374.15,2.35,14,2025-11-23
+2026_DLB_KARA_770552,NIT_64/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,12324301.49,123.24,17,2025-12-09
+2026_DLB_KARA_241440,NIT_33/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,29150132.07,291.5,33,2026-01-02
+2026_DLB_KARA_420181,NIT_72/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,2315876.83,23.16,16,2025-06-30
+2026_WRD_KARA_420234,NIT_69/KAR/2025-26,Water Resources Department (Karauli Circle),Karauli,Bharatpur Division,660440.26,6.6,9,2026-01-23
+2026_UIT_KARA_752989,NIT_36/KAR/2025-26,Municipal Council Karauli,Karauli,Bharatpur Division,255096.74,2.55,15,2026-02-25
+2026_PWD_KARA_426218,NIT_85/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,425606.12,4.26,9,2025-08-20
+2026_DLB_KARA_206358,NIT_85/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,465664.58,4.66,11,2025-06-03
+2026_DLB_KARA_541149,NIT_76/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,3840820.16,38.41,11,2025-11-16
+2026_PWD_KARA_131680,NIT_12/KAR/2025-26,Public Works Department (Karauli Circle),Karauli,Bharatpur Division,483933.77,4.84,9,2025-11-05
+2026_MEDIC_KARA_459346,NIT_54/KAR/2025-26,Department of Medical Education (Karauli Circle),Karauli,Bharatpur Division,5504738.14,55.05,15,2025-05-28
+2026_FORES_KARA_853456,NIT_65/KAR/2025-26,Forest Department (Karauli Circle),Karauli,Bharatpur Division,545720.27,5.46,9,2025-05-18
+2026_DLB_KARA_554513,NIT_53/KAR/2025-26,Directorate of Local Bodies (Karauli Circle),Karauli,Bharatpur Division,2135962.83,21.36,16,2026-03-15

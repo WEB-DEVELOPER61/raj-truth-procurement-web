@@ -1,0 +1,461 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_UIT_HANU_404031,NIT_14/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,452348.27,4.52,7,2025-12-29
+2026_MEDIC_HANU_567075,NIT_14/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,353931.21,3.54,8,2026-02-25
+2026_DLB_HANU_796974,NIT_12/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,535615.94,5.36,7,2025-06-17
+2026_DLB_HANU_830115,NIT_56/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,663655.47,6.64,11,2025-07-07
+2026_PHED_HANU_878076,NIT_11/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,436375.22,4.36,7,2026-01-30
+2026_UIT_HANU_797787,NIT_44/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,686015.34,6.86,13,2025-04-01
+2026_UIT_HANU_612757,NIT_53/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,48611284.73,486.11,32,2025-06-28
+2026_PHED_HANU_322278,NIT_65/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1081942.13,10.82,14,2025-07-08
+2026_UIT_HANU_412145,NIT_66/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,257108.85,2.57,10,2025-06-20
+2026_PWD_HANU_446111,NIT_26/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,609265.36,6.09,13,2025-05-11
+2026_FORES_HANU_939793,NIT_67/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,651009.92,6.51,15,2025-10-01
+2026_UIT_HANU_380879,NIT_79/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,738357.14,7.38,15,2025-06-10
+2026_DLB_HANU_379645,NIT_87/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,4049408.66,40.49,10,2026-03-14
+2026_MEDIC_HANU_362799,NIT_20/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,14902355.12,149.02,17,2025-08-31
+2026_DLB_HANU_313971,NIT_37/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,176815.93,1.77,12,2026-01-01
+2026_FORES_HANU_864112,NIT_46/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,16678145.35,166.78,19,2025-07-08
+2026_PWD_HANU_630949,NIT_83/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,894544.98,8.95,13,2025-10-28
+2026_DLB_HANU_844365,NIT_47/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,544419.51,5.44,12,2025-09-06
+2026_FORES_HANU_595853,NIT_22/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,784924.92,7.85,13,2025-05-31
+2026_PHED_HANU_886733,NIT_98/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,849032.11,8.49,7,2025-11-10
+2026_MEDIC_HANU_478142,NIT_71/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,14768162.9,147.68,23,2025-04-15
+2026_PHED_HANU_790964,NIT_93/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,556763.17,5.57,9,2025-12-09
+2026_FORES_HANU_239878,NIT_44/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,398496.78,3.98,13,2026-01-14
+2026_WRD_HANU_300952,NIT_57/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,110414043.4,1104.14,5,2025-11-25
+2026_PWD_HANU_226733,NIT_80/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,12229163.6,122.29,16,2025-11-14
+2026_PHED_HANU_342755,NIT_58/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3759988.46,37.6,18,2025-04-20
+2026_PWD_HANU_147941,NIT_23/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,13480546.74,134.81,15,2025-12-24
+2026_FORES_HANU_824711,NIT_70/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,352158.06,3.52,10,2025-07-14
+2026_WRD_HANU_532770,NIT_66/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,5601740.24,56.02,21,2026-03-10
+2026_WRD_HANU_218122,NIT_46/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1275666.23,12.76,16,2026-02-04
+2026_WRD_HANU_544965,NIT_32/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,15471710.56,154.72,19,2026-03-27
+2026_FORES_HANU_511421,NIT_20/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3932941.28,39.33,12,2025-12-26
+2026_MEDIC_HANU_256021,NIT_37/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,600424.54,6.0,11,2025-07-08
+2026_DLB_HANU_592222,NIT_26/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,4650163.01,46.5,13,2026-02-18
+2026_FORES_HANU_173459,NIT_81/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,927614.4,9.28,8,2026-03-26
+2026_DLB_HANU_428429,NIT_93/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,342711.94,3.43,14,2025-06-24
+2026_FORES_HANU_118876,NIT_43/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,550227.24,5.5,15,2025-05-21
+2026_MEDIC_HANU_255662,NIT_16/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,15780410.88,157.8,17,2025-09-17
+2026_PWD_HANU_535200,NIT_85/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,594648.57,5.95,9,2025-05-03
+2026_UIT_HANU_368031,NIT_99/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,665714.36,6.66,13,2026-02-17
+2026_MEDIC_HANU_771996,NIT_64/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,857613.8,8.58,13,2026-01-10
+2026_UIT_HANU_611585,NIT_10/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,48325045.05,483.25,31,2025-10-04
+2026_PWD_HANU_539507,NIT_63/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,617022.78,6.17,9,2025-05-14
+2026_MEDIC_HANU_203443,NIT_98/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,1454924.9,14.55,14,2025-10-19
+2026_WRD_HANU_788904,NIT_76/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,18338665.57,183.39,23,2026-01-01
+2026_MEDIC_HANU_754430,NIT_16/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,549570.09,5.5,14,2025-07-30
+2026_PWD_HANU_705818,NIT_81/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,898535.82,8.99,9,2025-07-02
+2026_MEDIC_HANU_252532,NIT_25/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,3432134.59,34.32,12,2025-05-31
+2026_UIT_HANU_467360,NIT_29/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,7903731.99,79.04,16,2025-11-21
+2026_FORES_HANU_837775,NIT_23/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3173349.09,31.73,12,2025-09-17
+2026_DLB_HANU_194896,NIT_66/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,512467.65,5.12,12,2025-04-22
+2026_DLB_HANU_421104,NIT_23/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,13399031.56,133.99,17,2025-04-13
+2026_PHED_HANU_514320,NIT_11/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,857774.71,8.58,8,2025-08-27
+2026_MEDIC_HANU_842669,NIT_76/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,2752024.06,27.52,17,2025-12-28
+2026_FORES_HANU_377070,NIT_45/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,10354946.53,103.55,21,2026-03-07
+2026_DLB_HANU_554928,NIT_96/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,321827.37,3.22,8,2026-03-26
+2026_PHED_HANU_807167,NIT_22/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3722168.13,37.22,13,2025-07-05
+2026_PHED_HANU_866774,NIT_39/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3244224.34,32.44,18,2025-04-19
+2026_UIT_HANU_926478,NIT_15/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,5881673.9,58.82,9,2025-11-11
+2026_PWD_HANU_478443,NIT_58/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,676677.86,6.77,15,2026-03-23
+2026_WRD_HANU_551276,NIT_76/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,570963.77,5.71,8,2025-04-19
+2026_MEDIC_HANU_761548,NIT_87/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,16901180.74,169.01,19,2025-12-30
+2026_FORES_HANU_294577,NIT_89/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,187942.81,1.88,7,2025-10-02
+2026_DLB_HANU_321274,NIT_26/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,740651.12,7.41,10,2025-05-01
+2026_WRD_HANU_535919,NIT_29/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,88805635.1,888.06,32,2025-07-14
+2026_DLB_HANU_125471,NIT_84/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,773049.03,7.73,11,2025-06-21
+2026_FORES_HANU_781782,NIT_78/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,72074415.24,720.74,33,2025-05-18
+2026_FORES_HANU_899797,NIT_64/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,155844.36,1.56,7,2026-02-14
+2026_PWD_HANU_296759,NIT_36/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,156704.44,1.57,14,2025-06-27
+2026_DLB_HANU_870496,NIT_27/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,3283758.26,32.84,15,2025-04-28
+2026_WRD_HANU_475370,NIT_39/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,4035835.12,40.36,12,2026-03-22
+2026_MEDIC_HANU_247331,NIT_48/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,4434280.03,44.34,18,2025-05-02
+2026_PHED_HANU_851457,NIT_51/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,517432.69,5.17,15,2025-10-09
+2026_MEDIC_HANU_713576,NIT_34/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,13518032.19,135.18,15,2025-12-31
+2026_MEDIC_HANU_541405,NIT_65/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,387820.23,3.88,15,2026-03-23
+2026_MEDIC_HANU_438324,NIT_97/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,445492.26,4.45,15,2026-01-15
+2026_WRD_HANU_785188,NIT_51/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,334273.17,3.34,11,2025-09-25
+2026_PHED_HANU_390265,NIT_54/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1680863.31,16.81,18,2025-10-05
+2026_PHED_HANU_215229,NIT_47/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,478548.56,4.79,8,2025-04-30
+2026_FORES_HANU_486431,NIT_54/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,625795.33,6.26,11,2025-07-04
+2026_PHED_HANU_886421,NIT_41/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,781013.08,7.81,9,2025-09-04
+2026_PHED_HANU_533953,NIT_98/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,878118.39,8.78,15,2026-02-03
+2026_FORES_HANU_322673,NIT_58/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,404022.1,4.04,13,2025-09-13
+2026_FORES_HANU_390611,NIT_55/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3643560.83,36.44,10,2025-07-25
+2026_WRD_HANU_523568,NIT_58/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,247966.17,2.48,13,2025-08-12
+2026_PWD_HANU_601810,NIT_60/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,14265866.63,142.66,15,2025-12-04
+2026_DLB_HANU_723179,NIT_43/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,3231940.71,32.32,10,2025-07-07
+2026_PHED_HANU_485712,NIT_75/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,672696.55,6.73,14,2025-04-16
+2026_PHED_HANU_183255,NIT_62/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3934307.56,39.34,17,2025-04-15
+2026_MEDIC_HANU_168537,NIT_29/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,940926.5,9.41,13,2026-03-25
+2026_DLB_HANU_215024,NIT_70/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,1864681.25,18.65,13,2025-11-28
+2026_MEDIC_HANU_614593,NIT_22/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,42152191.08,421.52,32,2026-02-19
+2026_DLB_HANU_174261,NIT_95/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,432845.68,4.33,10,2025-06-14
+2026_DLB_HANU_714265,NIT_15/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,1396914.36,13.97,13,2025-11-02
+2026_PHED_HANU_622049,NIT_58/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,812630.61,8.13,11,2025-06-22
+2026_PWD_HANU_665960,NIT_61/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,188453.96,1.88,8,2025-06-17
+2026_FORES_HANU_414747,NIT_19/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,10777868.39,107.78,22,2026-02-11
+2026_DLB_HANU_645923,NIT_78/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,275644.88,2.76,10,2025-06-07
+2026_PHED_HANU_763685,NIT_20/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,507868.35,5.08,15,2025-09-02
+2026_FORES_HANU_629224,NIT_70/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,726726.31,7.27,9,2025-04-07
+2026_UIT_HANU_318722,NIT_22/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,4752516.69,47.53,14,2026-03-14
+2026_MEDIC_HANU_881793,NIT_76/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,169701.53,1.7,14,2025-09-03
+2026_DLB_HANU_357442,NIT_75/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,8496171.68,84.96,19,2025-12-06
+2026_PWD_HANU_638784,NIT_36/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,875004.11,8.75,15,2025-09-28
+2026_DLB_HANU_408405,NIT_69/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,273597.87,2.74,13,2025-09-09
+2026_FORES_HANU_853269,NIT_97/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2431348.52,24.31,15,2026-01-26
+2026_UIT_HANU_286179,NIT_34/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,311259.21,3.11,9,2025-09-11
+2026_PWD_HANU_539941,NIT_84/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1509585.61,15.1,10,2025-10-31
+2026_MEDIC_HANU_336654,NIT_23/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,724480.29,7.24,9,2025-12-25
+2026_WRD_HANU_136288,NIT_40/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,354436.9,3.54,12,2026-02-09
+2026_PWD_HANU_624006,NIT_15/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,838869.03,8.39,12,2025-05-15
+2026_WRD_HANU_265625,NIT_56/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,16149429.1,161.49,21,2025-07-03
+2026_PWD_HANU_612854,NIT_14/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1105677.48,11.06,18,2025-05-05
+2026_PHED_HANU_873513,NIT_32/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3345308.76,33.45,11,2025-05-27
+2026_UIT_HANU_218395,NIT_78/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,855456.76,8.55,14,2026-02-05
+2026_MEDIC_HANU_851972,NIT_48/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,1279811.26,12.8,18,2025-06-11
+2026_DLB_HANU_345575,NIT_45/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,758812.75,7.59,15,2025-10-14
+2026_WRD_HANU_843344,NIT_89/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,75332813.48,753.33,32,2026-03-11
+2026_PWD_HANU_674166,NIT_55/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3015785.37,30.16,15,2025-09-18
+2026_UIT_HANU_115132,NIT_34/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,3398768.72,33.99,13,2025-04-23
+2026_DLB_HANU_854931,NIT_40/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,316015.98,3.16,15,2025-09-13
+2026_DLB_HANU_756057,NIT_54/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,207844.12,2.08,9,2025-09-26
+2026_UIT_HANU_312296,NIT_73/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,485223.85,4.85,15,2025-09-06
+2026_MEDIC_HANU_249841,NIT_80/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,7205391.06,72.05,15,2026-03-23
+2026_WRD_HANU_237499,NIT_12/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,677399.53,6.77,7,2025-05-15
+2026_FORES_HANU_756876,NIT_54/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,485124.37,4.85,8,2025-12-24
+2026_FORES_HANU_143232,NIT_90/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,769366.09,7.69,14,2025-10-13
+2026_FORES_HANU_391375,NIT_46/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,646506.05,6.47,9,2026-01-21
+2026_UIT_HANU_305560,NIT_34/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,176366.43,1.76,11,2025-06-23
+2026_PHED_HANU_256200,NIT_80/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,13544227.99,135.44,3,2025-09-07
+2026_MEDIC_HANU_900435,NIT_81/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,3079941.61,30.8,14,2025-08-17
+2026_PWD_HANU_527079,NIT_35/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,17313389.41,173.13,18,2025-11-08
+2026_DLB_HANU_899594,NIT_25/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,15387366.52,153.87,17,2025-07-02
+2026_WRD_HANU_717404,NIT_65/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,346475.38,3.46,13,2026-02-02
+2026_DLB_HANU_199838,NIT_63/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,630561.96,6.31,12,2025-10-06
+2026_FORES_HANU_405702,NIT_21/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,343935.82,3.44,8,2025-10-06
+2026_FORES_HANU_170721,NIT_18/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,14150145.43,141.5,4,2025-04-21
+2026_FORES_HANU_448938,NIT_80/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,653288.33,6.53,8,2025-05-26
+2026_UIT_HANU_936889,NIT_42/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,794129.28,7.94,11,2026-02-22
+2026_FORES_HANU_243964,NIT_42/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,610444.31,6.1,12,2025-10-16
+2026_PWD_HANU_302648,NIT_56/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,840027.7,8.4,13,2025-07-10
+2026_MEDIC_HANU_117004,NIT_66/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,306157.18,3.06,12,2025-11-09
+2026_WRD_HANU_809174,NIT_63/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,246789.3,2.47,8,2025-05-18
+2026_UIT_HANU_280664,NIT_87/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,2154676.66,21.55,10,2025-08-30
+2026_FORES_HANU_144109,NIT_19/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,7186622.33,71.87,16,2026-02-09
+2026_UIT_HANU_915187,NIT_73/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,432522.57,4.33,15,2026-03-11
+2026_DLB_HANU_307655,NIT_41/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,592929.97,5.93,12,2025-09-03
+2026_MEDIC_HANU_662545,NIT_99/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,10084882.57,100.85,22,2025-11-29
+2026_DLB_HANU_798415,NIT_69/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,592442.43,5.92,9,2025-05-07
+2026_FORES_HANU_871865,NIT_77/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,15467034.64,154.67,22,2025-06-15
+2026_DLB_HANU_431397,NIT_65/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,697080.44,6.97,9,2025-04-28
+2026_PWD_HANU_402968,NIT_50/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1293692.51,12.94,15,2025-09-30
+2026_UIT_HANU_741073,NIT_18/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,2279738.07,22.8,18,2025-06-14
+2026_DLB_HANU_343164,NIT_38/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,3641143.49,36.41,15,2025-04-28
+2026_PHED_HANU_219185,NIT_49/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,7457987.71,74.58,23,2026-02-01
+2026_UIT_HANU_647590,NIT_26/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,325823.1,3.26,9,2025-06-17
+2026_WRD_HANU_238624,NIT_75/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,263682.87,2.64,11,2025-06-12
+2026_MEDIC_HANU_813887,NIT_17/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,875654.45,8.76,9,2025-08-01
+2026_PWD_HANU_264743,NIT_53/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,8154051.32,81.54,3,2025-11-27
+2026_PHED_HANU_335814,NIT_28/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,377812.72,3.78,11,2025-08-16
+2026_WRD_HANU_391631,NIT_17/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,17752855.08,177.53,10,2025-08-23
+2026_FORES_HANU_670419,NIT_78/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,508399.04,5.08,11,2025-12-27
+2026_PWD_HANU_147624,NIT_55/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,524577.52,5.25,12,2025-06-18
+2026_UIT_HANU_702160,NIT_93/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,4231520.2,42.32,13,2025-04-27
+2026_MEDIC_HANU_836151,NIT_82/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,565190.31,5.65,10,2025-07-10
+2026_UIT_HANU_931722,NIT_27/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,862008.58,8.62,9,2025-12-22
+2026_UIT_HANU_291844,NIT_37/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,344735.67,3.45,8,2025-12-15
+2026_DLB_HANU_846955,NIT_23/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,936969.48,9.37,13,2025-06-27
+2026_DLB_HANU_769815,NIT_46/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,2366610.66,23.67,18,2025-04-22
+2026_DLB_HANU_646631,NIT_66/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,1525860.08,15.26,11,2025-07-24
+2026_FORES_HANU_931968,NIT_80/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,925856.85,9.26,7,2025-09-05
+2026_PWD_HANU_290865,NIT_31/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,540467.68,5.4,10,2025-04-05
+2026_FORES_HANU_990654,NIT_16/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,817970.57,8.18,15,2026-03-07
+2026_PHED_HANU_932917,NIT_88/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,915503.52,9.16,12,2025-10-06
+2026_PHED_HANU_500315,NIT_93/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,43326501.44,433.27,37,2026-02-23
+2026_PHED_HANU_578090,NIT_15/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,18292531.9,182.93,22,2025-11-13
+2026_PHED_HANU_787204,NIT_63/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,153121.39,1.53,10,2025-10-10
+2026_UIT_HANU_917702,NIT_13/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,488335.97,4.88,7,2025-10-14
+2026_DLB_HANU_770136,NIT_11/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,7085347.9,70.85,20,2025-04-24
+2026_MEDIC_HANU_203788,NIT_12/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,406451.82,4.06,8,2025-11-09
+2026_PHED_HANU_234398,NIT_83/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,476345.61,4.76,9,2025-05-24
+2026_UIT_HANU_215085,NIT_83/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,3029194.29,30.29,14,2025-11-30
+2026_PWD_HANU_302765,NIT_39/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,372164.95,3.72,9,2026-02-02
+2026_PWD_HANU_834509,NIT_58/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,757186.45,7.57,7,2025-10-11
+2026_PHED_HANU_440987,NIT_37/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,119454305.76,1194.54,33,2026-03-06
+2026_MEDIC_HANU_200472,NIT_76/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,2063644.63,20.64,16,2025-12-12
+2026_UIT_HANU_593027,NIT_69/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,208917.82,2.09,7,2026-03-15
+2026_MEDIC_HANU_354316,NIT_35/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,672326.1,6.72,7,2025-11-18
+2026_FORES_HANU_517188,NIT_33/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,441343.76,4.41,8,2025-10-15
+2026_MEDIC_HANU_488735,NIT_65/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,4552911.05,45.53,15,2026-01-14
+2026_FORES_HANU_829371,NIT_20/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,871339.48,8.71,8,2025-10-01
+2026_MEDIC_HANU_786663,NIT_29/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,781216.44,7.81,7,2025-04-06
+2026_PHED_HANU_940428,NIT_64/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,63766918.65,637.67,30,2026-02-19
+2026_MEDIC_HANU_289664,NIT_71/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,333771.53,3.34,14,2026-03-17
+2026_FORES_HANU_747037,NIT_36/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,206362.28,2.06,15,2026-02-10
+2026_FORES_HANU_299143,NIT_61/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,409521.46,4.1,15,2025-09-20
+2026_MEDIC_HANU_524018,NIT_76/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,421708.36,4.22,10,2026-03-02
+2026_PHED_HANU_483090,NIT_70/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,386173.8,3.86,10,2026-01-01
+2026_UIT_HANU_590607,NIT_99/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,17186117.44,171.86,16,2025-08-08
+2026_PHED_HANU_722371,NIT_37/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,18728764.54,187.29,16,2025-05-11
+2026_MEDIC_HANU_849074,NIT_63/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,734158.66,7.34,15,2025-11-01
+2026_PHED_HANU_218277,NIT_22/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,839195.76,8.39,12,2026-02-04
+2026_DLB_HANU_395647,NIT_74/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,3073813.13,30.74,10,2025-10-11
+2026_DLB_HANU_736263,NIT_69/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,677717.24,6.78,11,2025-06-18
+2026_MEDIC_HANU_907573,NIT_20/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,560755.18,5.61,12,2026-03-11
+2026_WRD_HANU_709153,NIT_12/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,6037186.73,60.37,18,2025-12-25
+2026_PWD_HANU_204923,NIT_32/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,226251.95,2.26,9,2025-08-10
+2026_FORES_HANU_403958,NIT_61/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,748805.54,7.49,9,2026-01-18
+2026_DLB_HANU_338866,NIT_83/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,785381.49,7.85,9,2025-12-07
+2026_FORES_HANU_419664,NIT_15/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,878728.06,8.79,9,2025-05-08
+2026_PHED_HANU_258884,NIT_77/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,316456.63,3.16,7,2025-10-28
+2026_FORES_HANU_879759,NIT_78/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,359017.3,3.59,7,2025-09-11
+2026_PWD_HANU_442541,NIT_59/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,313784.7,3.14,8,2025-07-31
+2026_PWD_HANU_344615,NIT_87/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3311400.18,33.11,12,2025-04-22
+2026_FORES_HANU_170592,NIT_34/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,843440.97,8.43,7,2025-07-14
+2026_UIT_HANU_424914,NIT_29/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,285789.55,2.86,12,2026-03-26
+2026_PWD_HANU_680216,NIT_94/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3850125.66,38.5,13,2025-06-04
+2026_WRD_HANU_502887,NIT_53/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,5409055.93,54.09,19,2025-10-27
+2026_FORES_HANU_799318,NIT_47/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,785335.6,7.85,12,2025-10-02
+2026_DLB_HANU_721986,NIT_85/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,721071.34,7.21,10,2025-10-22
+2026_UIT_HANU_468125,NIT_45/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,404211.58,4.04,12,2025-12-01
+2026_WRD_HANU_357688,NIT_48/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2806767.74,28.07,16,2025-08-29
+2026_FORES_HANU_357843,NIT_29/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,529760.25,5.3,13,2025-04-29
+2026_WRD_HANU_999836,NIT_40/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,288120.37,2.88,8,2025-05-17
+2026_PHED_HANU_226136,NIT_68/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,725198.61,7.25,10,2025-11-29
+2026_MEDIC_HANU_541376,NIT_54/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,170571.07,1.71,11,2025-07-12
+2026_PHED_HANU_909342,NIT_69/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,899142.5,8.99,8,2026-02-27
+2026_UIT_HANU_573195,NIT_49/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,620463.49,6.2,14,2026-01-07
+2026_PHED_HANU_607817,NIT_62/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,13583011.9,135.83,10,2026-03-18
+2026_PWD_HANU_788722,NIT_63/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2126762.31,21.27,17,2025-08-08
+2026_PHED_HANU_591261,NIT_50/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,695332.14,6.95,14,2025-12-08
+2026_MEDIC_HANU_421226,NIT_26/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,442568.0,4.43,15,2025-05-16
+2026_DLB_HANU_455988,NIT_93/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,552587.74,5.53,14,2025-05-10
+2026_PWD_HANU_698990,NIT_60/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,851990.99,8.52,11,2026-03-07
+2026_DLB_HANU_576119,NIT_53/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,16735843.65,167.36,22,2026-02-09
+2026_DLB_HANU_144799,NIT_65/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,94721643.93,947.22,35,2025-09-27
+2026_PWD_HANU_453472,NIT_46/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,197722.33,1.98,9,2026-01-08
+2026_MEDIC_HANU_256174,NIT_65/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,269791.02,2.7,10,2025-10-26
+2026_DLB_HANU_940341,NIT_61/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,598230.2,5.98,9,2026-01-11
+2026_MEDIC_HANU_421536,NIT_62/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,1428076.41,14.28,15,2025-09-10
+2026_WRD_HANU_489185,NIT_19/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,4284906.4,42.85,17,2025-09-23
+2026_WRD_HANU_917317,NIT_84/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,10277754.37,102.78,23,2025-06-17
+2026_PWD_HANU_465793,NIT_66/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1109773.21,11.1,16,2025-09-04
+2026_DLB_HANU_244864,NIT_87/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,433904.81,4.34,9,2025-07-19
+2026_PWD_HANU_631259,NIT_51/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2255532.62,22.56,14,2025-07-22
+2026_FORES_HANU_531595,NIT_48/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,4669025.9,46.69,17,2025-09-04
+2026_UIT_HANU_927156,NIT_71/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,612852.1,6.13,15,2025-11-29
+2026_FORES_HANU_847257,NIT_64/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,582743.76,5.83,15,2026-03-10
+2026_FORES_HANU_383625,NIT_84/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1418438.92,14.18,11,2025-10-05
+2026_DLB_HANU_836272,NIT_60/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,3844019.18,38.44,18,2026-01-28
+2026_WRD_HANU_683715,NIT_13/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2542694.6,25.43,13,2025-09-20
+2026_FORES_HANU_819642,NIT_21/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,4061861.72,40.62,16,2025-06-12
+2026_FORES_HANU_524285,NIT_43/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2806133.52,28.06,18,2026-01-07
+2026_PWD_HANU_702296,NIT_36/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3715798.33,37.16,17,2025-10-13
+2026_DLB_HANU_209162,NIT_68/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,515471.88,5.15,7,2025-06-25
+2026_PHED_HANU_824149,NIT_24/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3366237.0,33.66,12,2025-04-26
+2026_PWD_HANU_195409,NIT_45/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,403043.52,4.03,13,2025-06-09
+2026_WRD_HANU_411544,NIT_49/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,150084.79,1.5,7,2025-07-26
+2026_DLB_HANU_234109,NIT_26/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,392594.56,3.93,9,2025-09-03
+2026_PHED_HANU_155929,NIT_55/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2550186.71,25.5,10,2025-09-11
+2026_FORES_HANU_664450,NIT_17/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3155563.14,31.56,10,2025-04-15
+2026_DLB_HANU_587945,NIT_82/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,80646807.43,806.47,33,2026-01-22
+2026_WRD_HANU_452920,NIT_53/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,456057.45,4.56,9,2025-10-18
+2026_PWD_HANU_996285,NIT_95/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,575914.62,5.76,14,2025-10-07
+2026_MEDIC_HANU_584341,NIT_99/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,152970.84,1.53,8,2026-01-19
+2026_PWD_HANU_629864,NIT_15/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,821176.96,8.21,14,2026-02-02
+2026_FORES_HANU_413541,NIT_84/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3925684.82,39.26,11,2025-10-08
+2026_MEDIC_HANU_395957,NIT_76/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,875671.25,8.76,12,2025-12-16
+2026_UIT_HANU_835899,NIT_18/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,4381669.53,43.82,10,2026-02-28
+2026_FORES_HANU_786152,NIT_33/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,4620227.41,46.2,18,2025-06-02
+2026_FORES_HANU_176279,NIT_45/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,234799.48,2.35,12,2025-04-20
+2026_UIT_HANU_522878,NIT_54/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,17552784.81,175.53,18,2025-06-28
+2026_MEDIC_HANU_456299,NIT_21/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,413120.64,4.13,14,2025-08-14
+2026_FORES_HANU_237967,NIT_76/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,463053.46,4.63,8,2026-02-24
+2026_MEDIC_HANU_146955,NIT_32/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,7875129.53,78.75,21,2026-01-12
+2026_PHED_HANU_679058,NIT_99/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,11360261.06,113.6,22,2025-04-13
+2026_DLB_HANU_767726,NIT_84/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,397395.92,3.97,7,2025-09-23
+2026_PHED_HANU_722374,NIT_21/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,736228.41,7.36,7,2026-01-02
+2026_DLB_HANU_341257,NIT_89/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,265195.99,2.65,13,2026-01-28
+2026_UIT_HANU_952024,NIT_91/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,599946.27,6.0,10,2025-06-03
+2026_PWD_HANU_273702,NIT_46/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,83604622.17,836.05,38,2025-10-16
+2026_UIT_HANU_966977,NIT_95/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,1071915.73,10.72,16,2025-10-30
+2026_MEDIC_HANU_725715,NIT_82/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,409313.29,4.09,8,2025-05-24
+2026_MEDIC_HANU_485795,NIT_39/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,9704802.11,97.05,21,2025-08-10
+2026_PHED_HANU_820940,NIT_25/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,643051.27,6.43,11,2025-10-21
+2026_FORES_HANU_884054,NIT_20/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,755321.87,7.55,15,2025-11-15
+2026_WRD_HANU_819085,NIT_82/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,72587473.71,725.87,20,2025-10-31
+2026_PHED_HANU_669040,NIT_20/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,7497645.67,74.98,10,2026-03-11
+2026_MEDIC_HANU_260640,NIT_59/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,12806436.67,128.06,19,2025-12-17
+2026_PHED_HANU_595375,NIT_52/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,219917.31,2.2,8,2026-02-24
+2026_FORES_HANU_400240,NIT_15/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,4312161.47,43.12,15,2025-05-12
+2026_MEDIC_HANU_816356,NIT_54/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,510621.84,5.11,14,2025-08-28
+2026_DLB_HANU_928603,NIT_56/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,1547736.86,15.48,14,2026-01-03
+2026_PHED_HANU_788398,NIT_20/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,29018605.32,290.19,36,2025-09-06
+2026_WRD_HANU_344691,NIT_37/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,389620.67,3.9,12,2025-10-26
+2026_MEDIC_HANU_259634,NIT_45/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,1098073.51,10.98,15,2026-02-02
+2026_UIT_HANU_686537,NIT_65/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,877456.83,8.77,13,2025-12-27
+2026_WRD_HANU_646214,NIT_11/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,711438.8,7.11,12,2026-03-07
+2026_PHED_HANU_968365,NIT_29/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3089727.33,30.9,18,2025-12-03
+2026_WRD_HANU_766909,NIT_34/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,263766.02,2.64,9,2026-02-28
+2026_MEDIC_HANU_631752,NIT_92/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,1669773.38,16.7,15,2026-02-25
+2026_WRD_HANU_188095,NIT_22/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,912896.83,9.13,7,2025-10-10
+2026_MEDIC_HANU_860529,NIT_44/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,95464666.52,954.65,27,2026-03-14
+2026_PWD_HANU_509396,NIT_70/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,627951.46,6.28,8,2026-01-19
+2026_MEDIC_HANU_173857,NIT_29/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,178114.35,1.78,8,2025-05-05
+2026_UIT_HANU_213129,NIT_65/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,699120.97,6.99,9,2025-12-24
+2026_PHED_HANU_824664,NIT_16/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,93812805.28,938.13,31,2026-01-30
+2026_FORES_HANU_712138,NIT_93/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1069345.81,10.69,13,2026-01-23
+2026_FORES_HANU_952052,NIT_96/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3588820.12,35.89,5,2025-04-20
+2026_WRD_HANU_741329,NIT_28/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,288884.43,2.89,3,2025-10-29
+2026_PWD_HANU_788145,NIT_30/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,230309.69,2.3,14,2026-03-22
+2026_WRD_HANU_274224,NIT_56/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,844077.26,8.44,7,2025-11-12
+2026_MEDIC_HANU_666944,NIT_36/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,2415529.42,24.16,14,2025-08-18
+2026_DLB_HANU_233892,NIT_95/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,448014.51,4.48,8,2025-06-07
+2026_PWD_HANU_677032,NIT_62/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,83139561.21,831.4,30,2026-01-24
+2026_MEDIC_HANU_114396,NIT_71/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,1194277.48,11.94,13,2025-04-02
+2026_WRD_HANU_758913,NIT_79/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,392460.05,3.92,10,2025-08-21
+2026_WRD_HANU_226048,NIT_50/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,235587.11,2.36,13,2025-05-20
+2026_UIT_HANU_827720,NIT_29/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,3756788.75,37.57,10,2025-07-13
+2026_DLB_HANU_127349,NIT_25/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,916851.86,9.17,15,2025-07-02
+2026_DLB_HANU_105756,NIT_86/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,895742.85,8.96,7,2025-06-24
+2026_FORES_HANU_969294,NIT_42/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,157410.5,1.57,10,2026-03-21
+2026_WRD_HANU_906736,NIT_64/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3108516.18,31.09,15,2025-09-22
+2026_PHED_HANU_702106,NIT_85/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1403832.26,14.04,16,2025-06-09
+2026_UIT_HANU_726626,NIT_18/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,489052.66,4.89,14,2025-04-22
+2026_MEDIC_HANU_303571,NIT_28/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,941141.28,9.41,15,2025-06-07
+2026_UIT_HANU_471285,NIT_10/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,588132.17,5.88,7,2025-04-25
+2026_PWD_HANU_989793,NIT_70/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1225384.12,12.25,14,2025-04-22
+2026_PWD_HANU_361206,NIT_93/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,598432.17,5.98,13,2025-04-14
+2026_PHED_HANU_248376,NIT_62/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,223221.16,2.23,11,2025-07-09
+2026_PHED_HANU_571430,NIT_49/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,104444791.76,1044.45,38,2025-12-20
+2026_UIT_HANU_697473,NIT_65/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,113569261.77,1135.69,34,2025-12-04
+2026_PWD_HANU_564965,NIT_27/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,105883135.5,1058.83,35,2026-02-13
+2026_MEDIC_HANU_710690,NIT_72/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,13267908.93,132.68,21,2025-06-07
+2026_UIT_HANU_161977,NIT_53/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,820508.36,8.21,13,2025-12-04
+2026_PHED_HANU_635103,NIT_26/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,334654.27,3.35,4,2025-09-20
+2026_PHED_HANU_299410,NIT_37/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,624688.55,6.25,15,2025-11-01
+2026_PHED_HANU_783184,NIT_97/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,904623.9,9.05,7,2025-06-10
+2026_MEDIC_HANU_619198,NIT_42/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,117131097.04,1171.31,32,2026-01-01
+2026_FORES_HANU_295372,NIT_41/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3936731.34,39.37,11,2026-03-12
+2026_UIT_HANU_712375,NIT_68/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,4334760.25,43.35,11,2025-06-10
+2026_PHED_HANU_165142,NIT_65/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,653964.72,6.54,10,2025-07-11
+2026_WRD_HANU_210332,NIT_67/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,17431877.04,174.32,19,2025-10-17
+2026_MEDIC_HANU_424231,NIT_90/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,11130962.6,111.31,12,2025-08-24
+2026_DLB_HANU_208704,NIT_48/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,896020.11,8.96,12,2025-05-17
+2026_FORES_HANU_991197,NIT_63/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,6800523.13,68.01,15,2025-09-09
+2026_PHED_HANU_705095,NIT_42/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,515745.13,5.16,10,2025-05-03
+2026_PHED_HANU_337909,NIT_35/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,450377.55,4.5,10,2025-08-27
+2026_FORES_HANU_433068,NIT_64/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,4442976.5,44.43,16,2025-12-10
+2026_PWD_HANU_778402,NIT_21/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2326414.58,23.26,17,2025-07-25
+2026_FORES_HANU_115013,NIT_36/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,317001.89,3.17,8,2025-10-12
+2026_PWD_HANU_418082,NIT_59/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,283676.17,2.84,14,2025-04-18
+2026_MEDIC_HANU_457505,NIT_14/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,28564761.25,285.65,35,2026-02-23
+2026_FORES_HANU_969790,NIT_31/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2566726.76,25.67,10,2025-09-18
+2026_DLB_HANU_935915,NIT_13/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,1357710.78,13.58,13,2025-10-28
+2026_PHED_HANU_278695,NIT_43/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,630242.52,6.3,11,2026-03-26
+2026_UIT_HANU_446081,NIT_69/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,219232.38,2.19,13,2026-03-20
+2026_MEDIC_HANU_730886,NIT_20/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,813524.98,8.14,9,2025-09-22
+2026_PWD_HANU_374053,NIT_62/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,213698.45,2.14,14,2025-05-10
+2026_PHED_HANU_291711,NIT_72/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,849153.87,8.49,14,2025-05-26
+2026_PWD_HANU_670861,NIT_50/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,461382.53,4.61,7,2025-11-01
+2026_MEDIC_HANU_152270,NIT_62/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,3578567.41,35.79,16,2026-02-24
+2026_PWD_HANU_304171,NIT_22/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,294677.31,2.95,15,2025-12-22
+2026_DLB_HANU_366994,NIT_63/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,13993699.82,139.94,16,2025-10-12
+2026_PWD_HANU_240165,NIT_34/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,376246.14,3.76,8,2025-05-10
+2026_MEDIC_HANU_242910,NIT_60/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,313607.48,3.14,10,2025-04-20
+2026_MEDIC_HANU_140609,NIT_65/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,873329.28,8.73,15,2026-02-26
+2026_PHED_HANU_259189,NIT_81/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,333517.59,3.34,7,2026-01-21
+2026_UIT_HANU_382615,NIT_59/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,328089.39,3.28,8,2026-01-09
+2026_DLB_HANU_711172,NIT_55/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,52434512.89,524.35,31,2025-11-10
+2026_FORES_HANU_981382,NIT_80/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3619044.09,36.19,14,2026-01-17
+2026_PWD_HANU_826832,NIT_80/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,592972.86,5.93,9,2025-05-03
+2026_PHED_HANU_982839,NIT_13/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,311092.47,3.11,15,2026-03-27
+2026_PHED_HANU_818551,NIT_68/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1866634.93,18.67,13,2026-03-02
+2026_DLB_HANU_454667,NIT_62/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,2817613.73,28.18,16,2025-09-28
+2026_UIT_HANU_369808,NIT_33/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,175246.48,1.75,12,2026-01-09
+2026_UIT_HANU_261160,NIT_30/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,2736669.66,27.37,10,2026-02-24
+2026_WRD_HANU_401291,NIT_63/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,18517704.9,185.18,22,2025-04-18
+2026_PWD_HANU_831640,NIT_63/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3952286.36,39.52,18,2025-12-14
+2026_FORES_HANU_939327,NIT_55/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,17473289.84,174.73,16,2025-10-25
+2026_UIT_HANU_474961,NIT_76/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,16931486.46,169.31,19,2025-08-27
+2026_PWD_HANU_499570,NIT_77/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,16828589.17,168.29,20,2025-11-12
+2026_PHED_HANU_774193,NIT_96/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,369722.59,3.7,15,2025-09-21
+2026_PWD_HANU_326001,NIT_15/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2995805.46,29.96,12,2025-08-12
+2026_WRD_HANU_954979,NIT_84/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3819940.19,38.2,10,2025-04-05
+2026_MEDIC_HANU_971991,NIT_18/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,4547482.38,45.47,14,2025-06-20
+2026_PHED_HANU_185742,NIT_81/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,100623104.12,1006.23,32,2025-07-17
+2026_FORES_HANU_104488,NIT_70/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,370168.1,3.7,14,2025-08-26
+2026_UIT_HANU_841278,NIT_54/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,300153.99,3.0,7,2025-06-03
+2026_PWD_HANU_969756,NIT_95/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,915403.41,9.15,7,2025-06-15
+2026_FORES_HANU_774458,NIT_57/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,874546.05,8.75,12,2026-01-23
+2026_DLB_HANU_757415,NIT_30/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,582684.52,5.83,13,2025-10-27
+2026_DLB_HANU_409143,NIT_63/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,4119400.79,41.19,13,2025-06-08
+2026_WRD_HANU_214150,NIT_58/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,398823.05,3.99,15,2025-12-04
+2026_WRD_HANU_292893,NIT_73/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3482902.24,34.83,11,2026-03-25
+2026_MEDIC_HANU_746389,NIT_69/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,3822389.38,38.22,18,2026-03-17
+2026_WRD_HANU_642261,NIT_68/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,600344.19,6.0,13,2025-11-09
+2026_DLB_HANU_474533,NIT_50/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,267687.35,2.68,12,2025-07-24
+2026_PWD_HANU_358049,NIT_46/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2653210.49,26.53,17,2025-07-15
+2026_PWD_HANU_365520,NIT_16/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,4496648.83,44.97,6,2025-07-18
+2026_DLB_HANU_464897,NIT_92/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,11222215.64,112.22,17,2025-10-29
+2026_MEDIC_HANU_909996,NIT_72/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,10515641.58,105.16,23,2026-01-03
+2026_WRD_HANU_384881,NIT_24/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,51838640.78,518.39,36,2025-04-10
+2026_PHED_HANU_678685,NIT_65/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3309173.24,33.09,18,2025-12-11
+2026_DLB_HANU_431574,NIT_73/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,12535574.32,125.36,19,2025-08-28
+2026_DLB_HANU_952540,NIT_40/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,18641491.82,186.41,18,2025-09-27
+2026_DLB_HANU_423747,NIT_64/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,7354628.96,73.55,9,2025-10-26
+2026_WRD_HANU_261518,NIT_72/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,331219.24,3.31,13,2025-09-13
+2026_WRD_HANU_262136,NIT_77/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,76942412.36,769.42,4,2025-05-11
+2026_DLB_HANU_842165,NIT_61/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,615467.51,6.15,13,2025-11-06
+2026_FORES_HANU_623840,NIT_25/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2252866.51,22.53,13,2025-04-10
+2026_FORES_HANU_884695,NIT_66/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,861479.36,8.61,9,2025-09-22
+2026_UIT_HANU_571725,NIT_89/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,517034.72,5.17,13,2025-10-12
+2026_UIT_HANU_687990,NIT_16/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,768774.52,7.69,7,2025-06-27
+2026_DLB_HANU_317888,NIT_22/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,341297.4,3.41,13,2025-09-17
+2026_PWD_HANU_241183,NIT_51/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,400096.04,4.0,9,2025-10-09
+2026_PHED_HANU_358268,NIT_43/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,18339019.98,183.39,4,2025-06-01
+2026_MEDIC_HANU_741653,NIT_17/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,470330.93,4.7,13,2026-02-14
+2026_UIT_HANU_560597,NIT_68/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,742653.44,7.43,14,2026-03-04
+2026_DLB_HANU_400610,NIT_86/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,279938.19,2.8,7,2025-09-26
+2026_PWD_HANU_324430,NIT_23/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,3149780.73,31.5,13,2025-10-11
+2026_MEDIC_HANU_892459,NIT_94/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,684983.04,6.85,8,2026-02-06
+2026_FORES_HANU_206344,NIT_98/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,493501.75,4.94,14,2025-05-13
+2026_UIT_HANU_131104,NIT_77/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,467236.78,4.67,11,2025-11-16
+2026_MEDIC_HANU_359464,NIT_80/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,3712730.83,37.13,18,2025-07-10
+2026_MEDIC_HANU_247159,NIT_69/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,918571.53,9.19,14,2025-12-25
+2026_MEDIC_HANU_937651,NIT_55/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,687781.97,6.88,15,2025-11-08
+2026_MEDIC_HANU_100209,NIT_91/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,306570.39,3.07,11,2025-09-24
+2026_PWD_HANU_279658,NIT_85/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,105064320.34,1050.64,31,2025-10-30
+2026_FORES_HANU_580884,NIT_21/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,460661.08,4.61,7,2025-05-23
+2026_MEDIC_HANU_811471,NIT_25/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,1416105.8,14.16,13,2025-09-27
+2026_WRD_HANU_278038,NIT_73/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,561324.77,5.61,8,2025-06-13
+2026_DLB_HANU_867265,NIT_18/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,152123.03,1.52,10,2026-03-10
+2026_MEDIC_HANU_832002,NIT_78/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,312822.73,3.13,15,2025-11-15
+2026_FORES_HANU_586932,NIT_79/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,670494.14,6.7,11,2025-05-26
+2026_WRD_HANU_890742,NIT_59/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,530703.21,5.31,15,2025-04-12
+2026_MEDIC_HANU_555168,NIT_80/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,387919.93,3.88,12,2026-03-23
+2026_FORES_HANU_704312,NIT_83/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,471369.81,4.71,10,2025-07-10
+2026_WRD_HANU_505023,NIT_93/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1323086.48,13.23,11,2025-12-08
+2026_DLB_HANU_188685,NIT_17/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,105903542.66,1059.04,37,2025-12-30
+2026_DLB_HANU_370939,NIT_24/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,895457.68,8.95,11,2025-11-18
+2026_WRD_HANU_593682,NIT_19/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2766459.39,27.66,18,2025-12-28
+2026_DLB_HANU_640600,NIT_42/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,73898825.55,738.99,33,2026-01-11
+2026_PHED_HANU_383102,NIT_59/HAN/2025-26,Public Health Engineering Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,13432250.06,134.32,23,2025-09-27
+2026_UIT_HANU_467510,NIT_18/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,844668.12,8.45,9,2025-12-05
+2026_FORES_HANU_813089,NIT_70/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,1850486.87,18.5,12,2025-12-31
+2026_PWD_HANU_475550,NIT_87/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,889707.15,8.9,10,2025-10-25
+2026_FORES_HANU_199032,NIT_27/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,624896.3,6.25,12,2026-03-22
+2026_PWD_HANU_811064,NIT_59/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,319449.57,3.19,11,2025-09-22
+2026_PWD_HANU_812079,NIT_30/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,789626.05,7.9,15,2026-01-14
+2026_PWD_HANU_303113,NIT_10/HAN/2025-26,Public Works Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,551502.56,5.52,15,2025-05-13
+2026_FORES_HANU_621687,NIT_89/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,936923.42,9.37,8,2026-03-26
+2026_WRD_HANU_736702,NIT_95/HAN/2025-26,Water Resources Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,2965196.52,29.65,14,2025-12-27
+2026_FORES_HANU_320861,NIT_47/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,337886.17,3.38,13,2025-11-27
+2026_UIT_HANU_411159,NIT_18/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,466149.28,4.66,9,2025-07-30
+2026_MEDIC_HANU_649750,NIT_80/HAN/2025-26,Department of Medical Education (Hanumangarh Circle),Hanumangarh,Bikaner Division,639229.32,6.39,14,2026-02-08
+2026_DLB_HANU_656978,NIT_78/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,535345.75,5.35,14,2025-06-30
+2026_UIT_HANU_387758,NIT_35/HAN/2025-26,Municipal Council Hanumangarh,Hanumangarh,Bikaner Division,4148779.5,41.49,13,2025-11-09
+2026_FORES_HANU_589438,NIT_53/HAN/2025-26,Forest Department (Hanumangarh Circle),Hanumangarh,Bikaner Division,33542122.09,335.42,36,2025-08-02
+2026_DLB_HANU_205432,NIT_12/HAN/2025-26,Directorate of Local Bodies (Hanumangarh Circle),Hanumangarh,Bikaner Division,681197.04,6.81,15,2026-03-15

@@ -1,0 +1,464 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_MEDIC_DEEG_607789,NIT_40/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,443662.63,4.44,15,2026-03-08
+2026_PHED_DEEG_838949,NIT_45/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,662169.79,6.62,13,2025-12-02
+2026_FORES_DEEG_239212,NIT_85/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,14054812.74,140.55,19,2025-04-20
+2026_WRD_DEEG_338338,NIT_55/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,892247.47,8.92,9,2025-09-13
+2026_DLB_DEEG_937019,NIT_46/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,4471203.84,44.71,17,2025-10-04
+2026_UIT_DEEG_918219,NIT_98/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,794994.09,7.95,15,2026-03-03
+2026_PWD_DEEG_471847,NIT_50/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,856160.17,8.56,11,2025-05-20
+2026_UIT_DEEG_710083,NIT_68/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,930873.59,9.31,12,2025-11-26
+2026_DLB_DEEG_113901,NIT_24/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,209451.28,2.09,3,2025-06-16
+2026_MEDIC_DEEG_171985,NIT_83/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,3805859.28,38.06,15,2026-02-02
+2026_WRD_DEEG_105872,NIT_28/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,3800830.26,38.01,16,2025-05-07
+2026_WRD_DEEG_755509,NIT_40/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,807459.57,8.07,7,2026-01-21
+2026_PWD_DEEG_290620,NIT_57/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,2496687.25,24.97,12,2025-09-08
+2026_MEDIC_DEEG_546694,NIT_37/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,87830070.08,878.3,36,2025-12-09
+2026_WRD_DEEG_193607,NIT_43/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,2995904.5,29.96,15,2025-11-22
+2026_UIT_DEEG_629114,NIT_20/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,809691.01,8.1,9,2025-10-31
+2026_PWD_DEEG_970150,NIT_60/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,2220998.18,22.21,10,2025-07-24
+2026_UIT_DEEG_677361,NIT_88/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,240002.35,2.4,11,2025-08-12
+2026_DLB_DEEG_568387,NIT_88/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,17473519.26,174.74,16,2025-09-03
+2026_UIT_DEEG_615878,NIT_90/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,523767.74,5.24,8,2026-03-04
+2026_WRD_DEEG_988776,NIT_65/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,767618.67,7.68,7,2025-06-19
+2026_PHED_DEEG_360000,NIT_11/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,891966.1,8.92,8,2025-12-04
+2026_MEDIC_DEEG_912083,NIT_56/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,657204.99,6.57,9,2025-06-11
+2026_PWD_DEEG_588758,NIT_91/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,17167707.09,171.68,23,2026-03-05
+2026_PHED_DEEG_175216,NIT_96/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,257158.94,2.57,7,2025-06-20
+2026_DLB_DEEG_471509,NIT_81/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,167188.31,1.67,14,2025-09-06
+2026_FORES_DEEG_680661,NIT_62/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,8063329.73,80.63,18,2026-02-02
+2026_MEDIC_DEEG_757420,NIT_15/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,466277.82,4.66,9,2025-08-08
+2026_UIT_DEEG_666055,NIT_24/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,636364.86,6.36,11,2025-06-18
+2026_MEDIC_DEEG_253260,NIT_40/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,3160492.11,31.6,12,2025-06-27
+2026_PHED_DEEG_444742,NIT_61/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,321247.64,3.21,14,2025-10-01
+2026_FORES_DEEG_478413,NIT_86/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,805278.14,8.05,13,2025-07-17
+2026_MEDIC_DEEG_881136,NIT_15/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,733994.83,7.34,14,2025-07-27
+2026_PHED_DEEG_992765,NIT_83/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,1400841.88,14.01,18,2026-03-08
+2026_FORES_DEEG_305066,NIT_38/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,18310863.71,183.11,23,2026-02-27
+2026_PHED_DEEG_333478,NIT_65/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,753051.04,7.53,10,2025-05-06
+2026_PHED_DEEG_632629,NIT_74/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,293031.6,2.93,15,2025-08-04
+2026_FORES_DEEG_247768,NIT_11/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,365131.62,3.65,7,2025-12-21
+2026_UIT_DEEG_316254,NIT_48/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,9419371.09,94.19,23,2026-02-07
+2026_FORES_DEEG_543174,NIT_80/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,330328.58,3.3,9,2026-01-19
+2026_UIT_DEEG_251399,NIT_59/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,14836741.67,148.37,19,2025-12-16
+2026_MEDIC_DEEG_207328,NIT_49/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,773761.16,7.74,11,2025-08-19
+2026_PHED_DEEG_950702,NIT_37/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,47127029.58,471.27,33,2025-12-29
+2026_MEDIC_DEEG_311713,NIT_63/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,4330140.75,43.3,10,2025-07-09
+2026_DLB_DEEG_698593,NIT_12/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,1996245.9,19.96,16,2025-04-29
+2026_WRD_DEEG_139102,NIT_56/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,525774.25,5.26,13,2025-12-13
+2026_WRD_DEEG_370721,NIT_68/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,3517199.18,35.17,14,2025-11-02
+2026_UIT_DEEG_684327,NIT_31/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,766655.42,7.67,7,2025-11-06
+2026_WRD_DEEG_540019,NIT_41/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,289104.39,2.89,14,2025-08-29
+2026_WRD_DEEG_250417,NIT_17/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,699720.67,7.0,8,2025-08-21
+2026_DLB_DEEG_719650,NIT_16/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,12865952.25,128.66,18,2026-01-14
+2026_PHED_DEEG_812661,NIT_14/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,4733139.22,47.33,12,2025-11-22
+2026_PWD_DEEG_560933,NIT_31/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,393554.57,3.94,10,2025-06-05
+2026_FORES_DEEG_869151,NIT_41/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,2433322.25,24.33,12,2025-11-16
+2026_MEDIC_DEEG_169431,NIT_59/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,178358.57,1.78,10,2025-07-07
+2026_PWD_DEEG_876339,NIT_12/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,10211407.02,102.11,15,2025-07-02
+2026_PHED_DEEG_654136,NIT_99/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,3897204.08,38.97,12,2026-01-21
+2026_UIT_DEEG_104741,NIT_19/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,1053335.37,10.53,16,2026-03-18
+2026_FORES_DEEG_898937,NIT_68/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,578301.33,5.78,9,2025-09-08
+2026_UIT_DEEG_283518,NIT_82/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,29872342.92,298.72,34,2025-06-21
+2026_UIT_DEEG_247806,NIT_16/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,8186353.43,81.86,17,2026-01-19
+2026_WRD_DEEG_193108,NIT_70/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,4260177.69,42.6,16,2025-11-13
+2026_FORES_DEEG_581450,NIT_54/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,608568.52,6.09,7,2025-09-07
+2026_MEDIC_DEEG_798417,NIT_40/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,4454943.59,44.55,16,2025-07-07
+2026_PHED_DEEG_848070,NIT_41/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,4737976.42,47.38,11,2025-06-29
+2026_FORES_DEEG_525554,NIT_65/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,269624.28,2.7,7,2025-12-04
+2026_PHED_DEEG_494142,NIT_34/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,831702.71,8.32,7,2026-02-21
+2026_DLB_DEEG_626163,NIT_25/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,675001.43,6.75,11,2025-08-07
+2026_FORES_DEEG_399980,NIT_94/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,3957439.7,39.57,14,2026-03-06
+2026_WRD_DEEG_791084,NIT_28/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,880276.82,8.8,10,2025-11-12
+2026_UIT_DEEG_757899,NIT_64/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,862567.34,8.63,13,2026-01-10
+2026_PHED_DEEG_211733,NIT_81/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,3266132.63,32.66,15,2025-05-26
+2026_DLB_DEEG_967444,NIT_57/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,791873.58,7.92,12,2025-07-27
+2026_WRD_DEEG_947539,NIT_42/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,360134.33,3.6,9,2025-07-16
+2026_PWD_DEEG_223029,NIT_39/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,860629.09,8.61,14,2025-04-07
+2026_MEDIC_DEEG_864352,NIT_84/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,15155264.96,151.55,15,2025-11-15
+2026_PWD_DEEG_402796,NIT_28/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,2158888.41,21.59,17,2025-10-18
+2026_PWD_DEEG_580208,NIT_69/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,167352.11,1.67,15,2025-11-01
+2026_WRD_DEEG_752376,NIT_91/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,15428118.62,154.28,21,2025-04-28
+2026_PHED_DEEG_522034,NIT_13/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,620734.79,6.21,10,2025-04-04
+2026_WRD_DEEG_652270,NIT_31/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,29629596.6,296.3,37,2025-04-03
+2026_MEDIC_DEEG_396570,NIT_71/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,372493.94,3.72,10,2025-09-03
+2026_MEDIC_DEEG_218828,NIT_75/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,593784.48,5.94,14,2025-08-20
+2026_UIT_DEEG_586414,NIT_44/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,807051.03,8.07,14,2025-05-27
+2026_FORES_DEEG_354490,NIT_32/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,649561.11,6.5,15,2025-08-12
+2026_PWD_DEEG_980220,NIT_56/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,531464.15,5.31,15,2025-07-23
+2026_WRD_DEEG_277133,NIT_49/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,1384541.54,13.85,15,2026-01-07
+2026_MEDIC_DEEG_669167,NIT_78/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,7652188.81,76.52,22,2025-06-12
+2026_WRD_DEEG_689662,NIT_12/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,810009.15,8.1,12,2025-10-18
+2026_FORES_DEEG_527271,NIT_72/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,814968.03,8.15,11,2026-03-17
+2026_PWD_DEEG_696734,NIT_38/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,583208.66,5.83,9,2025-11-08
+2026_DLB_DEEG_115957,NIT_24/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,948490.34,9.48,11,2025-09-03
+2026_PWD_DEEG_744973,NIT_35/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,1657323.48,16.57,14,2025-10-04
+2026_FORES_DEEG_843595,NIT_13/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,257656.59,2.58,12,2025-08-23
+2026_PHED_DEEG_365959,NIT_40/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,1475327.13,14.75,11,2025-08-13
+2026_FORES_DEEG_216187,NIT_26/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,670987.83,6.71,14,2025-06-22
+2026_MEDIC_DEEG_205230,NIT_14/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,635963.0,6.36,9,2025-04-02
+2026_PHED_DEEG_935441,NIT_30/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,531343.53,5.31,13,2025-08-01
+2026_WRD_DEEG_911680,NIT_45/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,345033.51,3.45,7,2025-07-07
+2026_FORES_DEEG_713077,NIT_47/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,583010.87,5.83,8,2025-06-20
+2026_MEDIC_DEEG_604404,NIT_64/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,1998933.87,19.99,12,2025-04-23
+2026_FORES_DEEG_454391,NIT_23/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,934525.36,9.35,10,2025-07-19
+2026_UIT_DEEG_167065,NIT_96/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,403928.51,4.04,11,2025-08-26
+2026_DLB_DEEG_675533,NIT_79/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,4039258.92,40.39,10,2025-05-23
+2026_PWD_DEEG_147213,NIT_77/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,329096.45,3.29,13,2026-01-03
+2026_MEDIC_DEEG_800388,NIT_82/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,1257076.2,12.57,13,2026-02-21
+2026_DLB_DEEG_129199,NIT_37/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,753565.6,7.54,8,2025-11-07
+2026_PHED_DEEG_248492,NIT_39/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,948583.03,9.49,13,2025-10-19
+2026_PHED_DEEG_701021,NIT_36/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,13070830.39,130.71,23,2025-12-09
+2026_WRD_DEEG_109875,NIT_91/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,4561912.78,45.62,10,2025-12-17
+2026_UIT_DEEG_444561,NIT_93/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,290680.18,2.91,13,2025-12-27
+2026_WRD_DEEG_581998,NIT_86/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,939140.62,9.39,14,2025-06-23
+2026_DLB_DEEG_846160,NIT_76/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,14931407.67,149.31,22,2025-06-24
+2026_WRD_DEEG_178670,NIT_84/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,569991.16,5.7,14,2025-10-06
+2026_DLB_DEEG_251101,NIT_29/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,873526.28,8.74,14,2025-08-03
+2026_WRD_DEEG_245153,NIT_20/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,2066853.44,20.67,17,2025-12-11
+2026_WRD_DEEG_840335,NIT_77/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,3529862.59,35.3,11,2026-03-06
+2026_PWD_DEEG_428359,NIT_71/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,2703680.27,27.04,18,2026-02-23
+2026_WRD_DEEG_674965,NIT_31/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,2055598.49,20.56,15,2025-10-05
+2026_FORES_DEEG_627630,NIT_20/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,2987674.49,29.88,12,2025-10-09
+2026_WRD_DEEG_310342,NIT_60/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,17098703.95,170.99,16,2025-04-03
+2026_DLB_DEEG_486257,NIT_59/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,1548782.71,15.49,12,2025-10-16
+2026_MEDIC_DEEG_977723,NIT_49/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,273531.18,2.74,9,2025-06-30
+2026_UIT_DEEG_778157,NIT_21/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,333039.27,3.33,14,2026-03-09
+2026_MEDIC_DEEG_576403,NIT_88/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,3616150.53,36.16,12,2025-07-28
+2026_DLB_DEEG_762669,NIT_27/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,13816728.02,138.17,18,2026-03-23
+2026_PHED_DEEG_250300,NIT_13/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,357365.32,3.57,10,2026-02-07
+2026_WRD_DEEG_391731,NIT_57/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,514028.87,5.14,9,2025-10-16
+2026_PWD_DEEG_632414,NIT_62/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,11740657.58,117.41,22,2025-06-06
+2026_WRD_DEEG_697082,NIT_82/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,4250324.58,42.5,18,2025-10-12
+2026_PWD_DEEG_184684,NIT_73/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,529639.13,5.3,12,2025-11-09
+2026_PHED_DEEG_270138,NIT_25/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,3679322.38,36.79,16,2025-12-11
+2026_WRD_DEEG_783070,NIT_25/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,74461965.3,744.62,3,2025-09-22
+2026_MEDIC_DEEG_308084,NIT_79/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,13498160.56,134.98,16,2026-03-02
+2026_MEDIC_DEEG_748758,NIT_46/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,4407604.86,44.08,15,2025-12-12
+2026_WRD_DEEG_649711,NIT_21/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,661775.18,6.62,10,2025-11-06
+2026_MEDIC_DEEG_791581,NIT_12/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,11531453.65,115.31,18,2026-03-08
+2026_DLB_DEEG_215851,NIT_68/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,734791.63,7.35,14,2025-05-22
+2026_WRD_DEEG_474765,NIT_79/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,16061420.77,160.61,23,2026-03-06
+2026_UIT_DEEG_980932,NIT_69/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,335779.16,3.36,8,2025-08-16
+2026_WRD_DEEG_398898,NIT_63/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,863713.99,8.64,7,2025-11-25
+2026_UIT_DEEG_552303,NIT_43/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,888475.98,8.88,7,2025-07-23
+2026_FORES_DEEG_595573,NIT_82/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,803349.53,8.03,11,2025-09-03
+2026_MEDIC_DEEG_746512,NIT_73/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,1189434.73,11.89,15,2025-08-20
+2026_MEDIC_DEEG_929479,NIT_32/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,33134518.01,331.35,37,2025-09-29
+2026_MEDIC_DEEG_842202,NIT_84/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,4136717.77,41.37,18,2025-09-05
+2026_MEDIC_DEEG_540261,NIT_20/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,7603620.45,76.04,20,2025-09-15
+2026_WRD_DEEG_792627,NIT_87/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,830409.92,8.3,11,2025-10-22
+2026_PHED_DEEG_772994,NIT_26/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,4106053.04,41.06,17,2026-01-05
+2026_FORES_DEEG_229340,NIT_19/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,11042041.33,110.42,23,2026-02-26
+2026_PHED_DEEG_782836,NIT_83/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,1437509.72,14.38,18,2025-08-03
+2026_PHED_DEEG_772615,NIT_35/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,776204.32,7.76,12,2026-01-28
+2026_PWD_DEEG_865078,NIT_62/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,3434801.44,34.35,11,2025-04-29
+2026_DLB_DEEG_399481,NIT_59/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,2135555.78,21.36,12,2025-04-06
+2026_UIT_DEEG_952523,NIT_64/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,247561.22,2.48,7,2025-08-16
+2026_UIT_DEEG_794759,NIT_98/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,12802227.02,128.02,20,2025-11-20
+2026_MEDIC_DEEG_982915,NIT_72/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,68455066.12,684.55,38,2025-05-10
+2026_FORES_DEEG_116083,NIT_32/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,449118.93,4.49,7,2026-01-03
+2026_WRD_DEEG_894275,NIT_39/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,1663768.97,16.64,17,2025-06-20
+2026_DLB_DEEG_959957,NIT_54/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,3465825.82,34.66,16,2025-11-18
+2026_UIT_DEEG_806116,NIT_17/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,2862843.74,28.63,11,2026-02-24
+2026_DLB_DEEG_179741,NIT_71/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,182880.0,1.83,15,2025-08-20
+2026_UIT_DEEG_556689,NIT_13/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,13594859.7,135.95,22,2025-10-04
+2026_MEDIC_DEEG_120920,NIT_92/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,615528.5,6.16,15,2025-07-21
+2026_FORES_DEEG_124224,NIT_18/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,311372.89,3.11,12,2026-01-19
+2026_PWD_DEEG_588301,NIT_96/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,9842883.61,98.43,16,2025-05-08
+2026_MEDIC_DEEG_911843,NIT_34/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,1628040.81,16.28,12,2025-08-18
+2026_DLB_DEEG_407764,NIT_11/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,10417493.88,104.17,15,2026-02-27
+2026_WRD_DEEG_166920,NIT_87/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,182517.15,1.83,8,2025-05-22
+2026_MEDIC_DEEG_112998,NIT_28/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,386609.92,3.87,8,2025-07-06
+2026_DLB_DEEG_840229,NIT_20/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,11012803.21,110.13,22,2025-11-27
+2026_UIT_DEEG_983942,NIT_33/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,845359.15,8.45,14,2026-01-13
+2026_UIT_DEEG_360331,NIT_90/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,6969704.48,69.7,21,2025-05-29
+2026_PWD_DEEG_507254,NIT_98/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,13860204.59,138.6,23,2025-11-26
+2026_FORES_DEEG_194875,NIT_82/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,1504079.67,15.04,13,2025-12-16
+2026_DLB_DEEG_677358,NIT_41/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,300095.08,3.0,14,2025-10-27
+2026_UIT_DEEG_323405,NIT_67/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,2795361.89,27.95,10,2025-07-09
+2026_DLB_DEEG_831266,NIT_25/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,11867404.16,118.67,15,2026-03-16
+2026_WRD_DEEG_567962,NIT_69/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,862777.63,8.63,9,2025-12-05
+2026_FORES_DEEG_467945,NIT_33/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,569478.61,5.69,9,2025-04-06
+2026_MEDIC_DEEG_462339,NIT_16/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,646351.65,6.46,11,2026-01-29
+2026_MEDIC_DEEG_831072,NIT_10/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,414065.77,4.14,15,2026-02-16
+2026_DLB_DEEG_162255,NIT_91/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,11565144.89,115.65,16,2026-02-02
+2026_UIT_DEEG_194590,NIT_90/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,10129558.37,101.3,19,2025-10-01
+2026_PHED_DEEG_373059,NIT_50/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,48425889.03,484.26,32,2025-05-18
+2026_PWD_DEEG_656693,NIT_33/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,4025729.38,40.26,14,2025-07-19
+2026_UIT_DEEG_812078,NIT_79/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,3454171.09,34.54,18,2026-02-10
+2026_UIT_DEEG_533339,NIT_71/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,783995.44,7.84,8,2026-01-28
+2026_UIT_DEEG_211232,NIT_62/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,1235978.34,12.36,12,2025-10-16
+2026_MEDIC_DEEG_702929,NIT_66/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,4021112.48,40.21,15,2025-07-21
+2026_PHED_DEEG_990069,NIT_31/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,18400996.09,184.01,11,2025-11-08
+2026_UIT_DEEG_461246,NIT_74/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,7556529.05,75.57,6,2025-07-31
+2026_DLB_DEEG_604952,NIT_65/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,16424379.04,164.24,19,2026-02-11
+2026_PWD_DEEG_701423,NIT_82/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,13811675.24,138.12,16,2026-02-08
+2026_PWD_DEEG_764803,NIT_50/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,13518321.52,135.18,16,2025-08-08
+2026_DLB_DEEG_490578,NIT_81/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,643558.07,6.44,14,2025-10-01
+2026_UIT_DEEG_147907,NIT_68/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,5470696.88,54.71,11,2025-06-28
+2026_MEDIC_DEEG_218981,NIT_85/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,3778713.84,37.79,12,2026-02-19
+2026_PHED_DEEG_865405,NIT_11/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,350149.69,3.5,15,2025-12-15
+2026_DLB_DEEG_328067,NIT_83/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,347855.4,3.48,11,2026-01-02
+2026_DLB_DEEG_795013,NIT_13/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,3736547.31,37.37,12,2025-04-18
+2026_UIT_DEEG_521545,NIT_77/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,577281.93,5.77,11,2025-11-24
+2026_MEDIC_DEEG_630958,NIT_47/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,773077.74,7.73,8,2026-03-01
+2026_PHED_DEEG_919023,NIT_60/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,4607705.74,46.08,13,2026-01-11
+2026_FORES_DEEG_958071,NIT_65/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,18393918.35,183.94,15,2026-01-13
+2026_PWD_DEEG_231836,NIT_62/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,15503892.05,155.04,3,2025-11-22
+2026_MEDIC_DEEG_138920,NIT_15/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,502772.54,5.03,15,2025-09-26
+2026_PWD_DEEG_951489,NIT_93/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,175125.0,1.75,12,2025-05-25
+2026_DLB_DEEG_997977,NIT_68/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,456697.92,4.57,10,2025-08-29
+2026_UIT_DEEG_235131,NIT_58/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,899225.05,8.99,7,2025-08-03
+2026_WRD_DEEG_700753,NIT_20/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,210587.96,2.11,11,2025-05-16
+2026_WRD_DEEG_277659,NIT_10/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,106157297.0,1061.57,32,2025-10-28
+2026_WRD_DEEG_564239,NIT_25/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,4509359.39,45.09,11,2025-07-19
+2026_PWD_DEEG_374171,NIT_46/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,868065.92,8.68,15,2026-02-22
+2026_DLB_DEEG_404417,NIT_60/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,626125.2,6.26,7,2026-02-27
+2026_WRD_DEEG_718503,NIT_89/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,203075.31,2.03,14,2025-10-28
+2026_DLB_DEEG_598154,NIT_27/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,548794.79,5.49,14,2025-12-22
+2026_FORES_DEEG_557845,NIT_54/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,423457.26,4.23,9,2025-04-03
+2026_WRD_DEEG_382575,NIT_81/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,42470804.75,424.71,36,2026-02-05
+2026_FORES_DEEG_811132,NIT_15/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,490015.81,4.9,13,2025-08-07
+2026_PWD_DEEG_491092,NIT_88/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,150737.29,1.51,11,2025-08-14
+2026_PWD_DEEG_835806,NIT_80/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,798007.2,7.98,13,2026-01-25
+2026_PHED_DEEG_178267,NIT_52/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,4197579.53,41.98,10,2026-02-28
+2026_DLB_DEEG_936237,NIT_48/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,396474.9,3.96,9,2025-07-04
+2026_PWD_DEEG_303392,NIT_43/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,450215.04,4.5,10,2025-12-24
+2026_FORES_DEEG_990622,NIT_85/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,420330.75,4.2,8,2026-02-25
+2026_DLB_DEEG_911320,NIT_14/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,2034838.15,20.35,17,2025-07-30
+2026_WRD_DEEG_670678,NIT_74/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,359419.54,3.59,15,2025-06-03
+2026_PHED_DEEG_426680,NIT_61/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,225370.05,2.25,12,2025-11-22
+2026_PWD_DEEG_713576,NIT_78/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,255246.43,2.55,7,2025-12-26
+2026_MEDIC_DEEG_278511,NIT_85/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,174043.67,1.74,15,2025-12-31
+2026_PWD_DEEG_296651,NIT_56/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,441673.46,4.42,15,2026-02-28
+2026_UIT_DEEG_199385,NIT_12/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,698595.94,6.99,7,2026-01-20
+2026_MEDIC_DEEG_655124,NIT_10/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,722085.43,7.22,12,2025-08-30
+2026_PHED_DEEG_629174,NIT_64/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,759330.61,7.59,11,2025-08-09
+2026_UIT_DEEG_739107,NIT_47/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,854982.24,8.55,13,2026-03-02
+2026_PWD_DEEG_411038,NIT_33/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,415354.22,4.15,10,2025-09-03
+2026_DLB_DEEG_155384,NIT_83/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,505953.13,5.06,9,2025-08-09
+2026_PWD_DEEG_776207,NIT_66/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,16125503.54,161.26,19,2025-09-18
+2026_PWD_DEEG_717202,NIT_27/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,1224583.54,12.25,11,2026-02-14
+2026_WRD_DEEG_277792,NIT_27/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,12650561.04,126.51,12,2025-09-01
+2026_DLB_DEEG_205701,NIT_56/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,7508700.79,75.09,21,2025-10-12
+2026_UIT_DEEG_650385,NIT_71/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,23434676.76,234.35,26,2025-04-22
+2026_MEDIC_DEEG_305570,NIT_89/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,4616216.69,46.16,12,2025-04-28
+2026_DLB_DEEG_540978,NIT_83/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,2417777.84,24.18,13,2025-10-22
+2026_MEDIC_DEEG_925832,NIT_88/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,270736.73,2.71,15,2025-11-26
+2026_MEDIC_DEEG_300989,NIT_33/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,823118.75,8.23,14,2025-04-23
+2026_PHED_DEEG_923174,NIT_61/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,2798953.84,27.99,18,2025-05-03
+2026_PHED_DEEG_481911,NIT_32/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,101895517.77,1018.96,30,2025-12-04
+2026_DLB_DEEG_473139,NIT_86/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,757967.67,7.58,12,2026-01-15
+2026_PWD_DEEG_159491,NIT_85/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,2376499.63,23.76,18,2025-08-29
+2026_FORES_DEEG_730978,NIT_71/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,156813.44,1.57,14,2025-05-02
+2026_FORES_DEEG_332111,NIT_46/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,151580.53,1.52,11,2025-05-06
+2026_MEDIC_DEEG_216510,NIT_46/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,894697.23,8.95,9,2026-02-14
+2026_DLB_DEEG_131334,NIT_92/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,581057.21,5.81,7,2025-10-26
+2026_UIT_DEEG_689333,NIT_14/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,564876.27,5.65,10,2025-10-18
+2026_DLB_DEEG_265335,NIT_92/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,1504439.69,15.04,11,2025-07-27
+2026_PWD_DEEG_578512,NIT_19/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,15513425.52,155.13,20,2025-10-21
+2026_FORES_DEEG_126284,NIT_54/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,10466068.54,104.66,17,2025-10-27
+2026_MEDIC_DEEG_165297,NIT_82/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,849582.74,8.5,15,2026-02-12
+2026_FORES_DEEG_611509,NIT_56/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,9292467.45,92.92,19,2025-12-07
+2026_WRD_DEEG_930190,NIT_65/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,871761.9,8.72,10,2025-12-20
+2026_DLB_DEEG_716991,NIT_39/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,806472.06,8.06,12,2025-10-25
+2026_MEDIC_DEEG_709539,NIT_22/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,3795933.63,37.96,11,2025-04-19
+2026_DLB_DEEG_258665,NIT_90/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,477619.25,4.78,9,2026-01-30
+2026_PHED_DEEG_892602,NIT_22/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,948767.0,9.49,7,2025-10-19
+2026_MEDIC_DEEG_410761,NIT_36/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,519600.67,5.2,13,2025-06-11
+2026_DLB_DEEG_154331,NIT_42/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,2587829.79,25.88,17,2025-12-21
+2026_UIT_DEEG_246724,NIT_68/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,673888.91,6.74,10,2025-09-13
+2026_UIT_DEEG_949043,NIT_79/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,3602262.9,36.02,15,2026-03-24
+2026_MEDIC_DEEG_289145,NIT_36/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,3644946.65,36.45,10,2025-10-30
+2026_PHED_DEEG_574435,NIT_68/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,2750589.38,27.51,18,2026-02-01
+2026_PHED_DEEG_674747,NIT_35/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,12957271.76,129.57,12,2025-12-31
+2026_UIT_DEEG_430735,NIT_59/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,261322.86,2.61,8,2025-10-10
+2026_WRD_DEEG_551821,NIT_86/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,444205.39,4.44,13,2025-12-06
+2026_MEDIC_DEEG_522083,NIT_90/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,671603.22,6.72,8,2025-11-17
+2026_MEDIC_DEEG_175628,NIT_59/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,736270.96,7.36,13,2026-02-03
+2026_WRD_DEEG_663798,NIT_72/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,4253883.47,42.54,15,2025-10-23
+2026_UIT_DEEG_570537,NIT_40/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,667368.93,6.67,14,2025-12-05
+2026_WRD_DEEG_298770,NIT_54/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,824826.74,8.25,10,2026-01-16
+2026_FORES_DEEG_764482,NIT_62/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,1619942.23,16.2,13,2025-09-22
+2026_MEDIC_DEEG_991425,NIT_28/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,3824648.17,38.25,16,2026-03-18
+2026_PWD_DEEG_504881,NIT_21/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,3675394.08,36.75,16,2025-10-30
+2026_MEDIC_DEEG_190842,NIT_76/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,6992379.85,69.92,20,2025-11-24
+2026_DLB_DEEG_412793,NIT_84/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,1672881.96,16.73,12,2026-02-05
+2026_PHED_DEEG_144898,NIT_59/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,2712545.15,27.13,13,2026-01-05
+2026_WRD_DEEG_622362,NIT_35/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,438111.07,4.38,11,2025-04-18
+2026_WRD_DEEG_332689,NIT_82/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,104861722.16,1048.62,35,2025-10-01
+2026_WRD_DEEG_224116,NIT_11/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,4612073.75,46.12,16,2025-07-31
+2026_MEDIC_DEEG_700245,NIT_46/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,808584.61,8.09,11,2025-05-30
+2026_PHED_DEEG_781944,NIT_10/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,833957.64,8.34,10,2025-11-23
+2026_FORES_DEEG_242467,NIT_64/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,1417040.81,14.17,18,2025-06-11
+2026_PHED_DEEG_606827,NIT_51/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,8127745.18,81.28,17,2025-10-19
+2026_UIT_DEEG_166712,NIT_33/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,175171.37,1.75,7,2025-11-14
+2026_DLB_DEEG_414058,NIT_69/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,460704.25,4.61,14,2025-06-08
+2026_UIT_DEEG_763131,NIT_30/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,9416894.6,94.17,21,2025-07-08
+2026_PWD_DEEG_666529,NIT_49/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,12112139.03,121.12,4,2025-07-10
+2026_PHED_DEEG_181966,NIT_44/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,266847.34,2.67,11,2025-09-20
+2026_FORES_DEEG_922065,NIT_41/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,707423.84,7.07,12,2025-04-07
+2026_PHED_DEEG_853033,NIT_22/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,4234143.43,42.34,7,2025-08-14
+2026_WRD_DEEG_201154,NIT_40/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,333752.6,3.34,9,2025-08-13
+2026_UIT_DEEG_939989,NIT_99/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,9717407.92,97.17,18,2025-12-05
+2026_MEDIC_DEEG_359530,NIT_71/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,152868.24,1.53,15,2025-06-12
+2026_MEDIC_DEEG_975399,NIT_79/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,586497.75,5.86,9,2025-08-23
+2026_FORES_DEEG_700948,NIT_60/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,815928.16,8.16,9,2025-05-16
+2026_PWD_DEEG_198920,NIT_35/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,908330.17,9.08,5,2025-09-13
+2026_WRD_DEEG_260627,NIT_61/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,613140.31,6.13,7,2025-05-08
+2026_UIT_DEEG_753788,NIT_98/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,493957.71,4.94,13,2026-01-02
+2026_DLB_DEEG_344651,NIT_66/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,3866669.31,38.67,11,2025-11-01
+2026_UIT_DEEG_684175,NIT_25/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,397247.58,3.97,14,2026-03-01
+2026_WRD_DEEG_365137,NIT_69/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,8992972.92,89.93,15,2025-10-08
+2026_FORES_DEEG_813636,NIT_27/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,867912.6,8.68,9,2025-10-19
+2026_PHED_DEEG_483039,NIT_16/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,4349525.89,43.5,16,2025-07-15
+2026_DLB_DEEG_720516,NIT_17/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,821016.51,8.21,15,2025-04-25
+2026_UIT_DEEG_577667,NIT_71/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,821831.32,8.22,10,2025-04-14
+2026_UIT_DEEG_831544,NIT_38/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,1713220.92,17.13,14,2025-07-18
+2026_MEDIC_DEEG_859534,NIT_41/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,1612864.97,16.13,10,2026-03-17
+2026_DLB_DEEG_781880,NIT_15/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,3110936.0,31.11,14,2025-08-25
+2026_PHED_DEEG_752658,NIT_69/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,2559993.65,25.6,14,2025-11-03
+2026_PWD_DEEG_793418,NIT_19/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,2924451.43,29.24,16,2025-07-14
+2026_FORES_DEEG_859497,NIT_54/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,876833.48,8.77,10,2025-05-19
+2026_WRD_DEEG_431927,NIT_90/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,13652898.37,136.53,16,2025-12-23
+2026_DLB_DEEG_194836,NIT_13/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,4103067.34,41.03,16,2025-11-23
+2026_PHED_DEEG_633353,NIT_17/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,81698419.18,816.98,34,2026-01-10
+2026_UIT_DEEG_340138,NIT_67/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,6160648.85,61.61,21,2025-07-31
+2026_PWD_DEEG_378555,NIT_92/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,517419.9,5.17,11,2025-07-27
+2026_MEDIC_DEEG_374665,NIT_28/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,416667.45,4.17,14,2026-03-02
+2026_WRD_DEEG_977967,NIT_21/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,1865133.5,18.65,12,2026-03-12
+2026_UIT_DEEG_929578,NIT_46/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,2124503.14,21.25,13,2025-08-07
+2026_UIT_DEEG_952774,NIT_51/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,2031663.6,20.32,16,2026-03-13
+2026_UIT_DEEG_527329,NIT_57/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,4587204.6,45.87,15,2025-08-24
+2026_PWD_DEEG_195647,NIT_69/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,859830.44,8.6,11,2025-08-24
+2026_PWD_DEEG_346658,NIT_16/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,269562.64,2.7,12,2026-02-03
+2026_WRD_DEEG_244201,NIT_24/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,399192.16,3.99,2,2026-03-18
+2026_FORES_DEEG_708485,NIT_42/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,4673538.18,46.74,10,2025-07-23
+2026_PWD_DEEG_757836,NIT_11/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,3978356.4,39.78,16,2026-02-24
+2026_WRD_DEEG_261950,NIT_34/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,271920.45,2.72,9,2025-08-05
+2026_PWD_DEEG_398462,NIT_31/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,2197651.28,21.98,14,2026-01-19
+2026_PWD_DEEG_574865,NIT_24/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,546778.01,5.47,10,2025-08-02
+2026_FORES_DEEG_724627,NIT_38/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,642016.48,6.42,12,2025-07-12
+2026_WRD_DEEG_893375,NIT_80/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,1444398.14,14.44,12,2025-04-09
+2026_UIT_DEEG_302127,NIT_63/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,438503.32,4.39,8,2025-04-29
+2026_DLB_DEEG_474235,NIT_26/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,3007348.58,30.07,11,2026-02-23
+2026_DLB_DEEG_915699,NIT_28/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,10773867.79,107.74,18,2025-06-11
+2026_UIT_DEEG_272175,NIT_34/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,7984404.79,79.84,11,2026-01-04
+2026_MEDIC_DEEG_484874,NIT_25/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,690850.85,6.91,9,2025-11-25
+2026_PWD_DEEG_484671,NIT_48/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,688216.51,6.88,14,2025-10-26
+2026_FORES_DEEG_428443,NIT_24/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,2519304.84,25.19,15,2025-04-15
+2026_PWD_DEEG_639098,NIT_61/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,3215273.09,32.15,16,2025-06-09
+2026_WRD_DEEG_556180,NIT_51/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,1767675.74,17.68,13,2025-12-21
+2026_WRD_DEEG_326019,NIT_95/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,923392.77,9.23,14,2025-08-18
+2026_UIT_DEEG_346297,NIT_46/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,392886.29,3.93,15,2025-12-16
+2026_FORES_DEEG_997626,NIT_93/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,1104064.84,11.04,11,2026-02-06
+2026_PHED_DEEG_173225,NIT_12/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,4215040.22,42.15,14,2026-02-13
+2026_PWD_DEEG_900032,NIT_79/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,269684.86,2.7,15,2025-10-30
+2026_FORES_DEEG_141464,NIT_43/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,274178.43,2.74,8,2026-01-18
+2026_PWD_DEEG_123979,NIT_63/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,4670556.14,46.71,15,2025-09-02
+2026_DLB_DEEG_923011,NIT_40/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,627285.03,6.27,7,2025-10-12
+2026_PWD_DEEG_555018,NIT_48/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,567409.06,5.67,15,2025-12-18
+2026_MEDIC_DEEG_625817,NIT_68/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,368842.69,3.69,14,2025-11-19
+2026_FORES_DEEG_769482,NIT_30/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,312359.37,3.12,9,2025-05-13
+2026_PHED_DEEG_284537,NIT_86/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,1311316.23,13.11,16,2026-02-09
+2026_MEDIC_DEEG_415801,NIT_70/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,417060.28,4.17,14,2025-11-28
+2026_FORES_DEEG_594069,NIT_54/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,515347.21,5.15,13,2025-06-12
+2026_PWD_DEEG_823474,NIT_11/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,853041.45,8.53,14,2025-05-24
+2026_DLB_DEEG_808153,NIT_72/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,864637.64,8.65,10,2025-08-02
+2026_PHED_DEEG_912612,NIT_48/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,3083200.04,30.83,11,2025-04-18
+2026_WRD_DEEG_648529,NIT_60/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,582494.53,5.82,9,2025-10-20
+2026_FORES_DEEG_137649,NIT_22/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,4447295.63,44.47,15,2025-04-18
+2026_PWD_DEEG_480876,NIT_99/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,797149.28,7.97,10,2025-12-18
+2026_WRD_DEEG_317856,NIT_24/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,862723.6,8.63,11,2025-12-18
+2026_DLB_DEEG_788954,NIT_49/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,894800.11,8.95,13,2026-02-11
+2026_DLB_DEEG_817381,NIT_41/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,819337.5,8.19,8,2025-11-13
+2026_PHED_DEEG_212520,NIT_87/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,1325583.38,13.26,17,2026-03-25
+2026_MEDIC_DEEG_290024,NIT_10/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,161167.79,1.61,13,2025-12-13
+2026_DLB_DEEG_271525,NIT_60/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,8671958.34,86.72,22,2025-09-05
+2026_PHED_DEEG_557455,NIT_94/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,289829.34,2.9,8,2025-06-17
+2026_PWD_DEEG_349686,NIT_70/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,231824.79,2.32,8,2026-02-08
+2026_PHED_DEEG_249134,NIT_33/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,516845.54,5.17,11,2025-05-08
+2026_DLB_DEEG_522229,NIT_93/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,4664951.73,46.65,11,2025-09-18
+2026_FORES_DEEG_530178,NIT_85/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,870681.51,8.71,7,2026-02-15
+2026_MEDIC_DEEG_451117,NIT_22/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,694680.32,6.95,14,2025-11-03
+2026_FORES_DEEG_530529,NIT_98/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,931655.89,9.32,13,2025-12-02
+2026_PWD_DEEG_893299,NIT_20/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,609561.64,6.1,7,2025-04-26
+2026_WRD_DEEG_435218,NIT_58/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,12193272.67,121.93,10,2026-02-22
+2026_WRD_DEEG_889733,NIT_39/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,665570.8,6.66,8,2025-09-17
+2026_PHED_DEEG_642342,NIT_36/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,3457905.37,34.58,12,2025-11-08
+2026_UIT_DEEG_742824,NIT_29/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,1735463.22,17.35,14,2025-04-03
+2026_PWD_DEEG_723839,NIT_18/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,359015.35,3.59,8,2025-12-02
+2026_DLB_DEEG_283529,NIT_54/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,496613.63,4.97,9,2025-04-02
+2026_PWD_DEEG_715613,NIT_12/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,1305606.07,13.06,14,2025-09-16
+2026_MEDIC_DEEG_497768,NIT_72/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,460767.41,4.61,13,2025-10-25
+2026_DLB_DEEG_211966,NIT_44/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,937531.11,9.38,13,2025-07-06
+2026_MEDIC_DEEG_562614,NIT_65/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,2972721.81,29.73,17,2025-08-24
+2026_UIT_DEEG_695391,NIT_43/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,4742308.03,47.42,15,2025-05-28
+2026_FORES_DEEG_581991,NIT_38/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,1085938.92,10.86,11,2025-12-09
+2026_MEDIC_DEEG_825776,NIT_55/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,1893732.47,18.94,16,2025-08-04
+2026_PHED_DEEG_112075,NIT_87/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,554408.36,5.54,7,2025-04-08
+2026_PHED_DEEG_903787,NIT_59/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,749846.46,7.5,7,2025-05-18
+2026_MEDIC_DEEG_139723,NIT_89/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,832598.01,8.33,12,2026-03-10
+2026_WRD_DEEG_686341,NIT_96/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,4568655.89,45.69,15,2026-02-14
+2026_FORES_DEEG_537862,NIT_38/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,101024470.53,1010.24,33,2025-12-26
+2026_DLB_DEEG_770633,NIT_33/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,226204.14,2.26,7,2025-04-16
+2026_UIT_DEEG_999624,NIT_74/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,257508.97,2.58,13,2025-07-19
+2026_MEDIC_DEEG_112455,NIT_12/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,152597.75,1.53,13,2025-08-08
+2026_DLB_DEEG_382600,NIT_65/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,12212549.75,122.13,5,2025-12-07
+2026_UIT_DEEG_783209,NIT_85/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,3659593.36,36.6,15,2026-03-27
+2026_PHED_DEEG_140967,NIT_24/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,537665.72,5.38,10,2025-08-15
+2026_WRD_DEEG_860170,NIT_70/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,48196072.36,481.96,33,2025-06-21
+2026_PWD_DEEG_665223,NIT_14/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,7652505.98,76.53,18,2025-07-11
+2026_PHED_DEEG_883133,NIT_59/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,445954.42,4.46,8,2025-04-21
+2026_WRD_DEEG_131937,NIT_94/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,15529982.5,155.3,20,2026-03-02
+2026_PWD_DEEG_890340,NIT_38/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,607541.9,6.08,11,2025-05-10
+2026_MEDIC_DEEG_545404,NIT_79/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,498248.98,4.98,11,2025-07-04
+2026_WRD_DEEG_441355,NIT_84/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,796055.39,7.96,11,2025-05-03
+2026_DLB_DEEG_905218,NIT_94/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,9550623.79,95.51,19,2025-07-24
+2026_UIT_DEEG_598005,NIT_43/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,2982853.59,29.83,12,2026-02-18
+2026_UIT_DEEG_445863,NIT_45/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,787473.54,7.87,7,2025-04-03
+2026_DLB_DEEG_747802,NIT_48/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,61627797.15,616.28,34,2025-04-07
+2026_WRD_DEEG_930571,NIT_98/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,513169.64,5.13,15,2025-11-03
+2026_DLB_DEEG_643347,NIT_86/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,4516283.0,45.16,16,2025-09-24
+2026_MEDIC_DEEG_731109,NIT_53/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,1390760.87,13.91,15,2025-06-08
+2026_FORES_DEEG_134415,NIT_33/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,303127.78,3.03,8,2026-03-14
+2026_PHED_DEEG_251347,NIT_74/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,800741.94,8.01,13,2026-01-31
+2026_UIT_DEEG_655100,NIT_78/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,7572650.23,75.73,15,2026-02-22
+2026_PHED_DEEG_319896,NIT_72/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,892257.56,8.92,8,2025-06-28
+2026_DLB_DEEG_351415,NIT_35/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,2509165.13,25.09,12,2025-06-16
+2026_PHED_DEEG_447474,NIT_35/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,836523.71,8.37,9,2026-02-25
+2026_FORES_DEEG_667348,NIT_26/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,3014361.33,30.14,14,2026-01-18
+2026_WRD_DEEG_842670,NIT_34/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,586000.24,5.86,7,2025-07-31
+2026_PHED_DEEG_753247,NIT_84/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,236270.82,2.36,7,2025-06-15
+2026_UIT_DEEG_823971,NIT_45/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,864068.68,8.64,10,2026-02-12
+2026_UIT_DEEG_434501,NIT_33/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,12121156.82,121.21,20,2025-10-07
+2026_MEDIC_DEEG_835334,NIT_23/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,313126.5,3.13,10,2025-07-26
+2026_UIT_DEEG_826730,NIT_59/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,833922.65,8.34,13,2026-03-25
+2026_DLB_DEEG_322806,NIT_14/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,14003458.16,140.03,16,2025-11-23
+2026_MEDIC_DEEG_842398,NIT_46/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,3830091.84,38.3,18,2025-07-02
+2026_DLB_DEEG_119568,NIT_48/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,669497.39,6.69,8,2026-03-18
+2026_UIT_DEEG_975032,NIT_38/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,30462543.77,304.63,19,2026-01-04
+2026_UIT_DEEG_727086,NIT_86/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,2587374.16,25.87,17,2025-10-29
+2026_UIT_DEEG_565790,NIT_86/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,249212.28,2.49,9,2025-04-16
+2026_PHED_DEEG_534820,NIT_46/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,469614.34,4.7,7,2026-01-20
+2026_FORES_DEEG_672591,NIT_69/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,2840418.81,28.4,15,2025-10-26
+2026_UIT_DEEG_383017,NIT_43/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,3147943.68,31.48,17,2026-03-21
+2026_FORES_DEEG_670978,NIT_88/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,614115.95,6.14,15,2025-10-31
+2026_PWD_DEEG_346719,NIT_83/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,712774.54,7.13,7,2025-11-10
+2026_FORES_DEEG_910816,NIT_44/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,928684.71,9.29,12,2026-03-01
+2026_FORES_DEEG_372498,NIT_61/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,2539953.61,25.4,5,2025-08-09
+2026_MEDIC_DEEG_364828,NIT_71/DEE/2025-26,Department of Medical Education (Deeg Circle),Deeg,Bharatpur Division,927511.03,9.28,8,2025-10-09
+2026_DLB_DEEG_534347,NIT_17/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,723228.43,7.23,14,2026-03-25
+2026_UIT_DEEG_840559,NIT_73/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,2234070.27,22.34,17,2026-02-24
+2026_PHED_DEEG_659117,NIT_84/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,1780124.21,17.8,10,2026-03-24
+2026_FORES_DEEG_991087,NIT_51/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,779238.92,7.79,11,2026-01-01
+2026_PWD_DEEG_126559,NIT_71/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,316398.1,3.16,15,2025-10-27
+2026_PHED_DEEG_862719,NIT_80/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,454945.61,4.55,7,2025-04-19
+2026_WRD_DEEG_576601,NIT_87/DEE/2025-26,Water Resources Department (Deeg Circle),Deeg,Bharatpur Division,499055.86,4.99,10,2025-08-12
+2026_FORES_DEEG_423597,NIT_19/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,32489080.13,324.89,33,2025-07-30
+2026_DLB_DEEG_558645,NIT_63/DEE/2025-26,Directorate of Local Bodies (Deeg Circle),Deeg,Bharatpur Division,2641246.36,26.41,11,2025-11-06
+2026_UIT_DEEG_567138,NIT_27/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,837431.93,8.37,14,2025-10-27
+2026_PHED_DEEG_949165,NIT_97/DEE/2025-26,Public Health Engineering Department (Deeg Circle),Deeg,Bharatpur Division,339979.67,3.4,10,2025-05-12
+2026_FORES_DEEG_177243,NIT_24/DEE/2025-26,Forest Department (Deeg Circle),Deeg,Bharatpur Division,408266.22,4.08,10,2025-12-23
+2026_PWD_DEEG_638627,NIT_49/DEE/2025-26,Public Works Department (Deeg Circle),Deeg,Bharatpur Division,2135245.09,21.35,16,2025-11-17
+2026_UIT_DEEG_483750,NIT_40/DEE/2025-26,Municipal Council Deeg,Deeg,Bharatpur Division,312906.15,3.13,11,2025-08-20

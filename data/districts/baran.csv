@@ -1,0 +1,442 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_PHED_BARA_290177,NIT_62/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,899005.06,8.99,11,2025-12-28
+2026_PHED_BARA_224041,NIT_50/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,17421867.8,174.22,18,2025-04-20
+2026_UIT_BARA_215555,NIT_22/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,540869.5,5.41,12,2025-05-20
+2026_UIT_BARA_413760,NIT_54/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,812988.0,8.13,15,2025-09-30
+2026_WRD_BARA_753470,NIT_93/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,28703827.09,287.04,38,2025-11-07
+2026_DLB_BARA_687530,NIT_16/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,700301.97,7.0,13,2025-07-31
+2026_PWD_BARA_380345,NIT_37/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,519390.38,5.19,8,2025-09-05
+2026_PHED_BARA_637654,NIT_85/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,7383418.6,73.83,7,2025-08-30
+2026_DLB_BARA_312793,NIT_50/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,12592889.84,125.93,16,2025-04-27
+2026_PWD_BARA_618266,NIT_86/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,715771.98,7.16,7,2025-11-22
+2026_DLB_BARA_140380,NIT_54/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,824485.96,8.24,9,2026-02-13
+2026_DLB_BARA_492232,NIT_34/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,8226479.67,82.26,20,2025-11-18
+2026_PHED_BARA_979792,NIT_29/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,3254873.78,32.55,11,2025-06-16
+2026_FORES_BARA_637623,NIT_78/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,700130.49,7.0,9,2026-01-28
+2026_DLB_BARA_835050,NIT_84/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,839644.03,8.4,10,2025-12-13
+2026_MEDIC_BARA_375065,NIT_73/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,734241.3,7.34,14,2025-04-26
+2026_DLB_BARA_965740,NIT_33/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,15941515.04,159.42,10,2025-08-02
+2026_PHED_BARA_787618,NIT_34/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,12576529.88,125.77,9,2026-02-05
+2026_DLB_BARA_811094,NIT_55/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,26903478.67,269.03,38,2025-11-01
+2026_UIT_BARA_872443,NIT_54/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,17800646.74,178.01,16,2026-02-17
+2026_PHED_BARA_983412,NIT_51/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,2172979.99,21.73,15,2025-06-15
+2026_PHED_BARA_644855,NIT_82/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,517954.73,5.18,10,2025-08-05
+2026_MEDIC_BARA_945455,NIT_95/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,3976098.21,39.76,16,2025-05-02
+2026_PWD_BARA_149182,NIT_30/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,4419348.02,44.19,18,2025-06-25
+2026_MEDIC_BARA_716735,NIT_66/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,703162.55,7.03,14,2025-05-16
+2026_WRD_BARA_554900,NIT_76/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,861332.09,8.61,13,2026-02-19
+2026_PHED_BARA_236252,NIT_69/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,11583489.43,115.83,20,2025-10-06
+2026_WRD_BARA_141869,NIT_79/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,656878.13,6.57,15,2025-08-20
+2026_PWD_BARA_317986,NIT_60/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,790588.14,7.91,12,2025-09-13
+2026_WRD_BARA_425824,NIT_43/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,2859603.62,28.6,18,2026-02-01
+2026_DLB_BARA_106689,NIT_83/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,1679046.94,16.79,16,2025-12-24
+2026_MEDIC_BARA_654671,NIT_25/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,264427.27,2.64,15,2025-09-10
+2026_MEDIC_BARA_660265,NIT_52/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,8220060.4,82.2,17,2026-01-30
+2026_WRD_BARA_559519,NIT_97/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,582898.8,5.83,12,2025-04-10
+2026_UIT_BARA_978254,NIT_86/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,425998.98,4.26,12,2025-10-19
+2026_PHED_BARA_163056,NIT_77/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,154303.71,1.54,7,2025-07-31
+2026_FORES_BARA_673444,NIT_24/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,1145111.85,11.45,14,2025-05-27
+2026_PHED_BARA_554581,NIT_93/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,95138149.24,951.38,22,2025-05-16
+2026_PWD_BARA_334303,NIT_19/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,7115334.19,71.15,5,2026-01-30
+2026_FORES_BARA_941107,NIT_88/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,88855475.53,888.55,34,2025-11-18
+2026_WRD_BARA_500749,NIT_30/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,933732.27,9.34,13,2025-08-24
+2026_PWD_BARA_622623,NIT_59/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,343904.29,3.44,10,2026-02-17
+2026_PWD_BARA_635563,NIT_61/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,4302793.45,43.03,15,2025-09-08
+2026_UIT_BARA_417785,NIT_70/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,159705.59,1.6,14,2025-12-13
+2026_PWD_BARA_483892,NIT_49/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,5263576.12,52.64,5,2026-01-28
+2026_MEDIC_BARA_748636,NIT_86/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,3928702.31,39.29,10,2025-05-26
+2026_PWD_BARA_614591,NIT_64/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,35226645.62,352.27,38,2025-11-27
+2026_PHED_BARA_187250,NIT_45/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,406273.66,4.06,10,2025-08-06
+2026_PWD_BARA_488495,NIT_27/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,318627.14,3.19,12,2025-07-10
+2026_UIT_BARA_290413,NIT_28/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,177614.47,1.78,8,2025-07-04
+2026_FORES_BARA_621593,NIT_49/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,635137.98,6.35,8,2026-02-02
+2026_PWD_BARA_107262,NIT_22/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,4592863.95,45.93,14,2025-04-28
+2026_UIT_BARA_203182,NIT_73/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,262226.56,2.62,11,2025-10-19
+2026_FORES_BARA_622930,NIT_72/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,654815.36,6.55,12,2025-06-23
+2026_UIT_BARA_516893,NIT_80/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,814949.73,8.15,7,2025-12-29
+2026_UIT_BARA_264222,NIT_61/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,812226.87,8.12,12,2025-08-13
+2026_PHED_BARA_348931,NIT_79/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,293812.96,2.94,13,2026-02-06
+2026_MEDIC_BARA_674693,NIT_15/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,709307.07,7.09,8,2026-01-31
+2026_MEDIC_BARA_780966,NIT_18/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,536986.65,5.37,7,2025-05-30
+2026_WRD_BARA_734486,NIT_24/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,895191.27,8.95,14,2025-04-05
+2026_UIT_BARA_572381,NIT_48/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,749101.16,7.49,11,2025-11-29
+2026_FORES_BARA_870255,NIT_74/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,882413.16,8.82,14,2026-03-12
+2026_FORES_BARA_326705,NIT_81/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,783293.67,7.83,12,2025-10-05
+2026_PWD_BARA_470202,NIT_62/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,662872.83,6.63,9,2025-04-09
+2026_PHED_BARA_393320,NIT_44/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,2630737.06,26.31,12,2025-12-24
+2026_FORES_BARA_459241,NIT_84/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,4142693.87,41.43,15,2025-06-24
+2026_FORES_BARA_705033,NIT_33/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,18330801.95,183.31,15,2026-02-22
+2026_MEDIC_BARA_111972,NIT_47/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,272575.56,2.73,15,2025-08-28
+2026_PHED_BARA_284662,NIT_91/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,629815.59,6.3,14,2026-01-10
+2026_PWD_BARA_602949,NIT_73/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,7058101.94,70.58,19,2025-10-22
+2026_PHED_BARA_297250,NIT_33/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,940992.71,9.41,11,2025-09-12
+2026_UIT_BARA_754793,NIT_38/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,1144226.99,11.44,5,2025-10-09
+2026_MEDIC_BARA_851788,NIT_50/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,270390.79,2.7,9,2025-08-18
+2026_UIT_BARA_723976,NIT_29/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,768167.93,7.68,15,2025-11-27
+2026_DLB_BARA_377707,NIT_12/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,3900369.13,39.0,16,2026-01-19
+2026_DLB_BARA_368716,NIT_65/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,641073.55,6.41,13,2025-08-29
+2026_WRD_BARA_797551,NIT_27/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,725474.12,7.25,14,2025-04-05
+2026_PWD_BARA_907339,NIT_92/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,382522.54,3.83,12,2025-05-04
+2026_FORES_BARA_146145,NIT_54/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,774880.68,7.75,14,2025-12-06
+2026_WRD_BARA_592679,NIT_75/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,819946.04,8.2,9,2025-07-31
+2026_UIT_BARA_490596,NIT_92/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,3614656.75,36.15,17,2025-10-11
+2026_DLB_BARA_266837,NIT_60/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,3347186.43,33.47,11,2025-05-13
+2026_MEDIC_BARA_552242,NIT_40/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,3923623.97,39.24,12,2025-10-09
+2026_PHED_BARA_559966,NIT_77/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,497450.61,4.97,14,2025-05-02
+2026_PWD_BARA_759459,NIT_90/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,41870064.27,418.7,36,2026-01-11
+2026_MEDIC_BARA_736375,NIT_67/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,3027076.91,30.27,13,2026-03-06
+2026_FORES_BARA_893554,NIT_27/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,334701.01,3.35,12,2025-12-30
+2026_DLB_BARA_367720,NIT_83/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,6273817.42,62.74,20,2026-01-07
+2026_UIT_BARA_115828,NIT_37/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,4357499.16,43.57,11,2025-08-27
+2026_UIT_BARA_538278,NIT_15/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,1471151.18,14.71,15,2025-12-20
+2026_DLB_BARA_276017,NIT_44/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,387384.98,3.87,8,2025-08-03
+2026_MEDIC_BARA_605946,NIT_39/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,158924.61,1.59,10,2025-05-10
+2026_UIT_BARA_165375,NIT_57/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,16979157.84,169.79,23,2025-05-13
+2026_UIT_BARA_425852,NIT_64/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,755742.89,7.56,8,2025-04-05
+2026_DLB_BARA_849067,NIT_59/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,2036409.45,20.36,12,2025-10-23
+2026_UIT_BARA_316868,NIT_23/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,2113244.48,21.13,18,2025-06-13
+2026_FORES_BARA_255827,NIT_42/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,15096079.48,150.96,20,2025-05-24
+2026_WRD_BARA_352003,NIT_79/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,387749.37,3.88,9,2025-09-07
+2026_PWD_BARA_730307,NIT_71/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,2224773.02,22.25,16,2025-04-14
+2026_FORES_BARA_516295,NIT_62/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,925512.23,9.26,10,2025-06-03
+2026_PWD_BARA_333791,NIT_91/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,3695930.12,36.96,5,2025-08-01
+2026_DLB_BARA_602866,NIT_47/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,1284273.29,12.84,11,2026-02-06
+2026_UIT_BARA_376971,NIT_32/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,911118.85,9.11,9,2025-06-29
+2026_PWD_BARA_426498,NIT_35/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,1926155.27,19.26,8,2025-10-16
+2026_PHED_BARA_343057,NIT_17/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,904219.72,9.04,11,2025-11-12
+2026_MEDIC_BARA_246239,NIT_70/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,541535.8,5.42,12,2025-11-24
+2026_FORES_BARA_995328,NIT_35/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,737001.69,7.37,12,2025-06-14
+2026_FORES_BARA_553754,NIT_71/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,743037.31,7.43,15,2025-12-21
+2026_PHED_BARA_980407,NIT_53/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,729035.75,7.29,8,2025-11-17
+2026_DLB_BARA_358910,NIT_69/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,815928.35,8.16,13,2025-06-24
+2026_WRD_BARA_725723,NIT_36/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,3977189.9,39.77,14,2025-09-11
+2026_DLB_BARA_954618,NIT_46/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,2041537.32,20.42,15,2025-07-17
+2026_MEDIC_BARA_493809,NIT_60/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,4435272.27,44.35,16,2025-04-23
+2026_UIT_BARA_420953,NIT_75/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,627895.15,6.28,8,2026-01-12
+2026_WRD_BARA_192267,NIT_47/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,15965608.77,159.66,18,2025-10-19
+2026_MEDIC_BARA_970587,NIT_99/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,3324030.68,33.24,11,2025-12-21
+2026_MEDIC_BARA_800956,NIT_18/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,746144.55,7.46,10,2025-05-18
+2026_FORES_BARA_500774,NIT_70/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,10288185.85,102.88,16,2025-04-01
+2026_MEDIC_BARA_309169,NIT_77/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,769554.77,7.7,12,2025-10-11
+2026_PHED_BARA_577304,NIT_89/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,4557278.15,45.57,16,2025-12-05
+2026_MEDIC_BARA_696025,NIT_95/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,565644.31,5.66,7,2025-05-20
+2026_MEDIC_BARA_530396,NIT_30/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,287896.6,2.88,9,2025-05-23
+2026_PWD_BARA_794311,NIT_32/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,17743612.66,177.44,15,2025-08-19
+2026_WRD_BARA_383971,NIT_90/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,384853.92,3.85,9,2025-05-16
+2026_UIT_BARA_176522,NIT_25/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,918051.82,9.18,13,2025-10-21
+2026_UIT_BARA_574198,NIT_83/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,97977262.87,979.77,33,2026-02-07
+2026_PHED_BARA_849446,NIT_54/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,8511150.65,85.11,6,2025-10-24
+2026_PHED_BARA_324527,NIT_84/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,2300625.73,23.01,15,2025-11-30
+2026_DLB_BARA_628243,NIT_86/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,750107.48,7.5,14,2025-10-15
+2026_PWD_BARA_276391,NIT_66/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,815382.94,8.15,12,2025-05-28
+2026_UIT_BARA_369160,NIT_98/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,3283661.08,32.84,11,2025-04-04
+2026_PWD_BARA_940914,NIT_83/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,477779.5,4.78,11,2025-05-14
+2026_MEDIC_BARA_171042,NIT_90/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,342741.68,3.43,9,2025-04-19
+2026_DLB_BARA_504496,NIT_64/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,219679.55,2.2,7,2025-05-12
+2026_PWD_BARA_834992,NIT_67/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,368354.98,3.68,15,2026-02-25
+2026_MEDIC_BARA_952529,NIT_84/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,346158.57,3.46,10,2025-05-07
+2026_PWD_BARA_210986,NIT_20/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,733044.34,7.33,7,2025-07-28
+2026_PWD_BARA_886002,NIT_77/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,416794.3,4.17,14,2025-04-23
+2026_DLB_BARA_220602,NIT_32/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,821021.05,8.21,12,2025-05-30
+2026_MEDIC_BARA_484751,NIT_18/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,327753.54,3.28,9,2025-06-23
+2026_FORES_BARA_239708,NIT_63/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,496062.95,4.96,7,2026-02-03
+2026_MEDIC_BARA_127182,NIT_25/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,2844195.01,28.44,10,2026-02-15
+2026_FORES_BARA_472097,NIT_63/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,13052236.57,130.52,15,2025-08-22
+2026_WRD_BARA_563803,NIT_79/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,767573.06,7.68,8,2025-08-11
+2026_FORES_BARA_320247,NIT_55/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,208593.63,2.09,3,2025-09-24
+2026_FORES_BARA_960351,NIT_25/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,402666.27,4.03,15,2025-09-06
+2026_PHED_BARA_953900,NIT_60/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,413933.18,4.14,12,2026-01-06
+2026_UIT_BARA_507455,NIT_89/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,536249.12,5.36,11,2025-07-27
+2026_PWD_BARA_257328,NIT_67/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,560017.57,5.6,8,2025-11-22
+2026_FORES_BARA_423040,NIT_52/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,4294910.3,42.95,18,2025-09-18
+2026_PWD_BARA_272552,NIT_12/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,2450372.42,24.5,18,2025-07-11
+2026_UIT_BARA_427374,NIT_54/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,662083.34,6.62,15,2025-06-07
+2026_WRD_BARA_420943,NIT_18/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,328880.85,3.29,9,2025-05-08
+2026_WRD_BARA_815377,NIT_64/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,1181898.38,11.82,18,2025-05-09
+2026_MEDIC_BARA_981804,NIT_46/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,312606.31,3.13,10,2026-02-10
+2026_UIT_BARA_486521,NIT_92/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,2703124.65,27.03,14,2025-11-13
+2026_DLB_BARA_466001,NIT_10/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,422215.33,4.22,14,2025-08-14
+2026_UIT_BARA_379759,NIT_93/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,2312412.38,23.12,18,2025-10-31
+2026_DLB_BARA_645612,NIT_26/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,7952514.73,79.53,23,2025-08-18
+2026_FORES_BARA_254862,NIT_91/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,7997937.61,79.98,20,2026-02-17
+2026_PWD_BARA_597920,NIT_19/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,779416.37,7.79,10,2025-06-20
+2026_PHED_BARA_681045,NIT_34/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,496522.12,4.97,8,2025-09-05
+2026_PHED_BARA_116790,NIT_96/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,774057.48,7.74,14,2026-03-03
+2026_PHED_BARA_820622,NIT_46/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,15161860.05,151.62,22,2026-02-16
+2026_WRD_BARA_508760,NIT_29/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,613119.44,6.13,11,2025-06-04
+2026_MEDIC_BARA_332563,NIT_28/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,493488.74,4.93,12,2025-06-18
+2026_UIT_BARA_821888,NIT_16/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,565596.76,5.66,7,2025-12-04
+2026_WRD_BARA_723024,NIT_75/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,746922.17,7.47,10,2025-05-09
+2026_UIT_BARA_203355,NIT_65/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,170490.59,1.7,9,2025-08-26
+2026_FORES_BARA_114999,NIT_34/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,2650987.65,26.51,10,2026-01-02
+2026_PHED_BARA_593158,NIT_76/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,238895.46,2.39,14,2025-10-01
+2026_FORES_BARA_649680,NIT_45/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,617062.07,6.17,12,2026-02-18
+2026_PHED_BARA_647465,NIT_18/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,100240241.39,1002.4,33,2025-05-26
+2026_MEDIC_BARA_732942,NIT_93/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,1896060.97,18.96,13,2025-10-04
+2026_WRD_BARA_295216,NIT_39/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,6490789.48,64.91,23,2025-11-01
+2026_PHED_BARA_521602,NIT_74/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,808457.72,8.08,15,2025-09-15
+2026_FORES_BARA_902891,NIT_11/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,4383872.24,43.84,18,2025-10-13
+2026_FORES_BARA_151268,NIT_23/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,188147.46,1.88,10,2025-06-15
+2026_MEDIC_BARA_161347,NIT_10/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,188357.67,1.88,9,2025-05-24
+2026_MEDIC_BARA_714994,NIT_93/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,578926.29,5.79,10,2026-01-30
+2026_DLB_BARA_828611,NIT_15/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,542260.65,5.42,9,2025-10-06
+2026_DLB_BARA_829448,NIT_60/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,207556.04,2.08,9,2025-04-23
+2026_DLB_BARA_232924,NIT_24/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,47151051.31,471.51,11,2026-01-21
+2026_MEDIC_BARA_795927,NIT_76/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,806457.01,8.06,11,2026-03-18
+2026_PHED_BARA_210908,NIT_73/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,811626.92,8.12,8,2025-09-12
+2026_PHED_BARA_258714,NIT_35/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,248526.81,2.49,11,2025-05-17
+2026_UIT_BARA_483345,NIT_91/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,894980.79,8.95,14,2025-12-02
+2026_DLB_BARA_474131,NIT_96/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,2396872.98,23.97,12,2025-10-02
+2026_PHED_BARA_892617,NIT_29/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,805931.48,8.06,9,2025-09-10
+2026_UIT_BARA_957631,NIT_44/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,3655711.85,36.56,15,2025-11-28
+2026_DLB_BARA_281520,NIT_48/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,808240.91,8.08,15,2026-02-13
+2026_DLB_BARA_790551,NIT_23/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,3005705.77,30.06,12,2025-12-22
+2026_MEDIC_BARA_805394,NIT_33/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,2988300.0,29.88,12,2025-11-05
+2026_PHED_BARA_381716,NIT_50/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,12694183.79,126.94,18,2025-05-12
+2026_DLB_BARA_569892,NIT_26/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,5920952.86,59.21,23,2025-09-01
+2026_FORES_BARA_789080,NIT_64/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,1379889.71,13.8,16,2025-06-27
+2026_PHED_BARA_526389,NIT_93/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,817439.03,8.17,11,2025-04-07
+2026_UIT_BARA_881826,NIT_63/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,864620.82,8.65,11,2025-06-09
+2026_WRD_BARA_133179,NIT_57/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,2304799.67,23.05,17,2025-09-20
+2026_WRD_BARA_716638,NIT_39/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,18503507.67,185.04,21,2025-06-24
+2026_PWD_BARA_737499,NIT_75/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,426721.63,4.27,8,2025-09-21
+2026_WRD_BARA_760559,NIT_99/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,915976.14,9.16,15,2025-08-26
+2026_UIT_BARA_552701,NIT_83/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,3507219.55,35.07,13,2025-12-24
+2026_WRD_BARA_586771,NIT_37/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,458455.57,4.58,9,2025-12-09
+2026_FORES_BARA_551277,NIT_65/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,904131.64,9.04,10,2025-05-23
+2026_FORES_BARA_601828,NIT_59/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,757847.53,7.58,12,2026-02-15
+2026_FORES_BARA_625394,NIT_63/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,2422102.9,24.22,14,2025-12-15
+2026_DLB_BARA_160013,NIT_81/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,65233956.87,652.34,34,2025-04-22
+2026_PWD_BARA_112348,NIT_65/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,524821.97,5.25,11,2026-02-17
+2026_FORES_BARA_467887,NIT_94/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,369623.45,3.7,7,2025-06-24
+2026_UIT_BARA_161143,NIT_95/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,884278.45,8.84,10,2025-06-18
+2026_MEDIC_BARA_959739,NIT_52/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,746839.18,7.47,15,2026-02-15
+2026_PWD_BARA_771270,NIT_87/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,1258456.6,12.58,13,2025-12-19
+2026_PWD_BARA_464892,NIT_96/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,327714.7,3.28,7,2025-07-13
+2026_PHED_BARA_406897,NIT_13/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,831928.31,8.32,7,2025-11-30
+2026_PWD_BARA_836446,NIT_38/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,1212760.48,12.13,15,2026-02-24
+2026_WRD_BARA_882360,NIT_91/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,1744935.69,17.45,14,2025-12-22
+2026_MEDIC_BARA_651910,NIT_37/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,757242.76,7.57,13,2025-07-31
+2026_MEDIC_BARA_716948,NIT_52/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,655935.42,6.56,14,2026-02-16
+2026_FORES_BARA_297218,NIT_94/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,96738047.41,967.38,37,2025-08-07
+2026_DLB_BARA_883009,NIT_17/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,215470.26,2.15,7,2026-01-12
+2026_WRD_BARA_298076,NIT_89/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,4314665.67,43.15,10,2025-05-14
+2026_DLB_BARA_903286,NIT_90/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,660810.23,6.61,14,2025-09-28
+2026_PWD_BARA_368511,NIT_60/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,1125334.45,11.25,12,2025-09-09
+2026_PHED_BARA_120224,NIT_11/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,3380842.78,33.81,18,2026-02-24
+2026_WRD_BARA_141586,NIT_40/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,3476106.02,34.76,11,2026-01-17
+2026_WRD_BARA_863849,NIT_42/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,5244494.61,52.44,20,2025-04-11
+2026_PHED_BARA_431318,NIT_44/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,8710582.18,87.11,18,2025-04-28
+2026_WRD_BARA_924613,NIT_76/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,3810098.35,38.1,11,2025-07-07
+2026_WRD_BARA_486244,NIT_24/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,881161.49,8.81,13,2026-03-06
+2026_WRD_BARA_107383,NIT_13/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,598499.87,5.98,15,2026-03-03
+2026_DLB_BARA_468096,NIT_51/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,3388007.64,33.88,16,2026-01-03
+2026_UIT_BARA_163754,NIT_60/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,3602233.34,36.02,14,2025-07-10
+2026_PWD_BARA_544061,NIT_67/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,305297.53,3.05,7,2025-06-16
+2026_DLB_BARA_983694,NIT_79/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,501557.06,5.02,13,2025-06-23
+2026_UIT_BARA_982417,NIT_22/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,3111693.83,31.12,17,2025-11-21
+2026_UIT_BARA_369629,NIT_52/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,404160.43,4.04,15,2026-01-27
+2026_PWD_BARA_186146,NIT_63/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,453111.01,4.53,11,2026-03-25
+2026_UIT_BARA_616779,NIT_47/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,1718168.53,17.18,11,2025-08-26
+2026_PHED_BARA_202866,NIT_55/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,4327275.61,43.27,5,2025-04-24
+2026_DLB_BARA_213083,NIT_91/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,745567.27,7.46,7,2025-06-19
+2026_FORES_BARA_917581,NIT_37/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,377630.43,3.78,7,2026-02-08
+2026_FORES_BARA_522269,NIT_20/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,589069.62,5.89,7,2025-07-28
+2026_UIT_BARA_634635,NIT_63/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,289026.84,2.89,8,2026-01-13
+2026_MEDIC_BARA_858296,NIT_88/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,3316168.16,33.16,18,2025-08-10
+2026_UIT_BARA_144789,NIT_17/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,804609.3,8.05,9,2025-10-30
+2026_UIT_BARA_797181,NIT_91/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,635211.96,6.35,10,2025-06-27
+2026_UIT_BARA_986840,NIT_43/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,777461.7,7.77,8,2025-05-01
+2026_FORES_BARA_154256,NIT_97/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,853608.77,8.54,12,2026-01-26
+2026_FORES_BARA_201984,NIT_63/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,43231929.93,432.32,35,2025-07-18
+2026_FORES_BARA_413017,NIT_33/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,662449.93,6.62,12,2026-01-03
+2026_FORES_BARA_729730,NIT_23/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,6177295.14,61.77,18,2025-04-28
+2026_FORES_BARA_818423,NIT_55/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,7257248.67,72.57,19,2025-05-06
+2026_MEDIC_BARA_768935,NIT_45/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,394987.74,3.95,11,2025-07-17
+2026_MEDIC_BARA_837942,NIT_10/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,2912583.21,29.13,15,2025-10-01
+2026_WRD_BARA_875416,NIT_14/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,416053.13,4.16,12,2026-03-09
+2026_FORES_BARA_433702,NIT_81/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,2457504.79,24.58,15,2025-06-13
+2026_DLB_BARA_399205,NIT_60/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,442094.61,4.42,10,2025-05-17
+2026_UIT_BARA_801087,NIT_41/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,17281748.8,172.82,4,2026-03-02
+2026_DLB_BARA_259554,NIT_81/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,561816.41,5.62,10,2025-10-08
+2026_UIT_BARA_612634,NIT_53/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,1875090.82,18.75,14,2026-01-09
+2026_UIT_BARA_971488,NIT_10/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,570326.38,5.7,9,2025-10-23
+2026_PHED_BARA_345138,NIT_91/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,8376373.22,83.76,16,2026-01-29
+2026_FORES_BARA_355338,NIT_12/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,157168.06,1.57,7,2025-10-16
+2026_UIT_BARA_407657,NIT_67/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,1827037.96,18.27,15,2025-12-27
+2026_PWD_BARA_124515,NIT_79/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,746876.67,7.47,14,2025-08-14
+2026_WRD_BARA_174176,NIT_21/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,523075.83,5.23,9,2025-08-02
+2026_PWD_BARA_852565,NIT_79/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,4082355.73,40.82,16,2025-10-25
+2026_DLB_BARA_263953,NIT_89/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,71824214.22,718.24,38,2025-12-22
+2026_PHED_BARA_462667,NIT_75/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,662067.3,6.62,11,2026-02-19
+2026_PWD_BARA_592342,NIT_65/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,15709582.64,157.1,9,2025-04-09
+2026_PHED_BARA_729101,NIT_20/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,3313059.07,33.13,11,2025-06-19
+2026_DLB_BARA_167761,NIT_87/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,12513344.77,125.13,12,2025-12-20
+2026_UIT_BARA_924183,NIT_43/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,778453.54,7.78,13,2025-09-10
+2026_UIT_BARA_241657,NIT_48/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,656598.94,6.57,9,2025-11-05
+2026_WRD_BARA_241077,NIT_35/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,9063481.32,90.63,3,2025-10-15
+2026_UIT_BARA_329936,NIT_26/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,428175.64,4.28,12,2025-10-14
+2026_MEDIC_BARA_190067,NIT_11/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,306698.14,3.07,8,2025-10-06
+2026_WRD_BARA_408684,NIT_68/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,646602.58,6.47,12,2025-12-23
+2026_PWD_BARA_831852,NIT_79/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,404648.61,4.05,7,2025-05-29
+2026_PHED_BARA_120608,NIT_77/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,1822663.18,18.23,12,2025-05-21
+2026_PWD_BARA_530392,NIT_34/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,2053157.08,20.53,11,2025-10-22
+2026_UIT_BARA_934516,NIT_56/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,1991983.12,19.92,18,2025-08-18
+2026_PHED_BARA_742458,NIT_97/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,692860.45,6.93,10,2025-05-19
+2026_DLB_BARA_795107,NIT_62/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,668636.28,6.69,14,2025-07-21
+2026_PWD_BARA_216932,NIT_49/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,662744.94,6.63,7,2026-02-12
+2026_WRD_BARA_804474,NIT_86/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,551922.12,5.52,12,2025-10-28
+2026_DLB_BARA_732333,NIT_80/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,18359537.18,183.6,15,2025-12-12
+2026_MEDIC_BARA_509347,NIT_25/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,3064515.7,30.65,10,2025-08-17
+2026_PHED_BARA_778418,NIT_22/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,802579.98,8.03,10,2025-07-21
+2026_WRD_BARA_794006,NIT_17/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,6891388.42,68.91,16,2025-07-27
+2026_MEDIC_BARA_318855,NIT_38/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,766495.54,7.66,8,2025-12-10
+2026_MEDIC_BARA_672822,NIT_47/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,2032370.11,20.32,18,2025-07-13
+2026_WRD_BARA_668684,NIT_72/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,396544.87,3.97,12,2025-07-12
+2026_PWD_BARA_245483,NIT_44/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,3916258.32,39.16,15,2026-02-12
+2026_UIT_BARA_938307,NIT_23/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,789907.67,7.9,11,2026-01-13
+2026_UIT_BARA_771386,NIT_96/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,637898.84,6.38,14,2026-02-22
+2026_PWD_BARA_397285,NIT_65/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,709364.44,7.09,7,2025-04-28
+2026_PWD_BARA_905683,NIT_45/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,870872.06,8.71,10,2025-08-06
+2026_DLB_BARA_152581,NIT_82/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,658714.37,6.59,9,2025-10-20
+2026_PHED_BARA_215407,NIT_59/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,810703.65,8.11,14,2025-11-23
+2026_UIT_BARA_541617,NIT_21/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,431736.57,4.32,10,2025-09-27
+2026_WRD_BARA_773158,NIT_23/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,4675812.02,46.76,13,2026-02-16
+2026_PWD_BARA_206067,NIT_59/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,790839.96,7.91,12,2025-06-11
+2026_MEDIC_BARA_870284,NIT_90/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,2662194.8,26.62,14,2026-02-19
+2026_PHED_BARA_403742,NIT_93/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,542286.97,5.42,8,2025-09-06
+2026_MEDIC_BARA_279832,NIT_67/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,77738124.56,777.38,32,2025-10-10
+2026_MEDIC_BARA_986522,NIT_73/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,16167292.54,161.67,23,2026-02-11
+2026_UIT_BARA_124137,NIT_59/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,467823.06,4.68,11,2025-10-28
+2026_PHED_BARA_972614,NIT_90/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,2676611.56,26.77,14,2025-08-18
+2026_FORES_BARA_745698,NIT_69/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,760984.13,7.61,14,2025-11-20
+2026_FORES_BARA_959234,NIT_22/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,17373733.86,173.74,21,2025-12-06
+2026_UIT_BARA_791970,NIT_10/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,164103.13,1.64,8,2025-06-29
+2026_FORES_BARA_676486,NIT_12/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,167461.61,1.67,8,2026-01-10
+2026_UIT_BARA_187656,NIT_14/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,162166.68,1.62,9,2026-02-23
+2026_WRD_BARA_831224,NIT_37/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,320948.17,3.21,12,2026-02-08
+2026_FORES_BARA_400232,NIT_67/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,159784.53,1.6,13,2025-07-04
+2026_FORES_BARA_345406,NIT_59/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,2293554.07,22.94,15,2025-11-04
+2026_DLB_BARA_831950,NIT_89/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,608640.24,6.09,11,2026-03-10
+2026_UIT_BARA_920629,NIT_97/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,759430.58,7.59,12,2025-11-17
+2026_WRD_BARA_932088,NIT_83/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,927689.84,9.28,15,2026-01-04
+2026_UIT_BARA_770534,NIT_30/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,405475.88,4.05,15,2025-07-23
+2026_UIT_BARA_313362,NIT_90/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,727698.83,7.28,7,2026-03-05
+2026_MEDIC_BARA_262558,NIT_31/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,17033929.85,170.34,23,2025-11-19
+2026_MEDIC_BARA_593629,NIT_67/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,267084.94,2.67,15,2025-11-14
+2026_PHED_BARA_455117,NIT_62/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,3235708.21,32.36,13,2026-03-09
+2026_FORES_BARA_604138,NIT_48/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,480936.39,4.81,10,2026-01-22
+2026_UIT_BARA_962907,NIT_74/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,371854.08,3.72,12,2025-07-17
+2026_DLB_BARA_289220,NIT_74/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,2446308.69,24.46,13,2026-03-08
+2026_PWD_BARA_324901,NIT_49/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,796629.29,7.97,13,2025-04-24
+2026_DLB_BARA_798371,NIT_35/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,665000.52,6.65,12,2025-04-25
+2026_DLB_BARA_177006,NIT_41/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,3481598.23,34.82,16,2025-08-17
+2026_MEDIC_BARA_146832,NIT_16/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,754202.2,7.54,15,2025-12-25
+2026_FORES_BARA_101036,NIT_73/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,307944.69,3.08,7,2025-08-23
+2026_PWD_BARA_405007,NIT_73/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,3326393.57,33.26,11,2025-11-03
+2026_PWD_BARA_261553,NIT_39/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,2578313.99,25.78,13,2026-02-08
+2026_PHED_BARA_339096,NIT_95/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,410807.32,4.11,14,2025-08-09
+2026_WRD_BARA_487936,NIT_79/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,278969.12,2.79,14,2025-08-16
+2026_PHED_BARA_334113,NIT_73/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,783071.82,7.83,11,2025-07-30
+2026_MEDIC_BARA_328319,NIT_45/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,927120.59,9.27,10,2026-02-09
+2026_FORES_BARA_487743,NIT_23/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,3217407.28,32.17,18,2025-11-29
+2026_MEDIC_BARA_585544,NIT_98/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,6761056.06,67.61,15,2025-08-03
+2026_FORES_BARA_810892,NIT_76/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,18956745.01,189.57,21,2025-09-29
+2026_UIT_BARA_641984,NIT_91/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,729943.58,7.3,10,2025-06-27
+2026_FORES_BARA_101226,NIT_87/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,461719.28,4.62,9,2025-05-21
+2026_DLB_BARA_278433,NIT_50/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,3597108.95,35.97,15,2025-11-15
+2026_MEDIC_BARA_661151,NIT_42/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,318624.47,3.19,15,2025-09-28
+2026_PWD_BARA_674809,NIT_16/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,2957997.36,29.58,10,2025-09-08
+2026_FORES_BARA_589397,NIT_29/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,2608011.0,26.08,12,2025-12-14
+2026_FORES_BARA_869723,NIT_42/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,10652482.14,106.52,12,2025-10-20
+2026_WRD_BARA_415270,NIT_39/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,609713.71,6.1,12,2025-05-13
+2026_PWD_BARA_549656,NIT_56/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,483215.0,4.83,15,2025-10-11
+2026_FORES_BARA_560674,NIT_41/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,12401488.51,124.01,17,2025-06-25
+2026_DLB_BARA_449411,NIT_55/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,4471850.55,44.72,13,2025-07-17
+2026_UIT_BARA_210840,NIT_27/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,13654892.5,136.55,20,2025-07-01
+2026_PHED_BARA_891592,NIT_11/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,677168.49,6.77,8,2025-11-04
+2026_UIT_BARA_530276,NIT_91/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,2377711.93,23.78,14,2025-07-29
+2026_PWD_BARA_697718,NIT_45/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,2464195.52,24.64,17,2025-08-28
+2026_MEDIC_BARA_744920,NIT_76/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,204120.09,2.04,15,2025-09-03
+2026_UIT_BARA_971884,NIT_60/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,893254.11,8.93,10,2026-03-26
+2026_UIT_BARA_224412,NIT_47/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,4351220.9,43.51,10,2025-08-01
+2026_WRD_BARA_178549,NIT_18/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,870920.89,8.71,12,2026-01-19
+2026_UIT_BARA_971177,NIT_52/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,751184.94,7.51,15,2025-04-14
+2026_FORES_BARA_732046,NIT_45/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,4034202.1,40.34,15,2026-03-13
+2026_UIT_BARA_435078,NIT_37/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,371077.78,3.71,7,2026-01-29
+2026_WRD_BARA_532101,NIT_68/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,9140176.09,91.4,7,2025-05-25
+2026_PWD_BARA_417669,NIT_50/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,515354.85,5.15,10,2025-07-23
+2026_MEDIC_BARA_446080,NIT_96/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,201808.44,2.02,11,2025-11-06
+2026_PWD_BARA_536012,NIT_69/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,108792634.49,1087.93,20,2025-07-07
+2026_PWD_BARA_294057,NIT_42/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,11193765.53,111.94,15,2025-12-06
+2026_FORES_BARA_927113,NIT_29/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,742815.54,7.43,12,2025-09-19
+2026_PHED_BARA_172064,NIT_50/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,2722524.54,27.23,13,2025-05-21
+2026_WRD_BARA_685085,NIT_80/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,614508.07,6.15,12,2025-10-04
+2026_UIT_BARA_483936,NIT_82/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,482066.93,4.82,8,2025-07-06
+2026_MEDIC_BARA_695460,NIT_26/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,909669.42,9.1,15,2025-11-25
+2026_WRD_BARA_503746,NIT_85/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,714331.12,7.14,15,2025-09-08
+2026_UIT_BARA_932862,NIT_60/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,13513239.83,135.13,17,2025-12-29
+2026_FORES_BARA_901133,NIT_34/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,2335614.08,23.36,17,2025-10-11
+2026_UIT_BARA_798551,NIT_71/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,97836842.78,978.37,33,2026-02-26
+2026_PWD_BARA_487824,NIT_90/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,4073335.08,40.73,11,2025-11-25
+2026_PWD_BARA_986199,NIT_45/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,788228.24,7.88,13,2026-01-11
+2026_WRD_BARA_184778,NIT_86/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,4370000.84,43.7,10,2025-11-25
+2026_DLB_BARA_846001,NIT_56/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,32869590.89,328.7,33,2025-09-16
+2026_PWD_BARA_632330,NIT_38/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,3884535.64,38.85,10,2025-11-09
+2026_DLB_BARA_652874,NIT_44/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,2213171.3,22.13,14,2025-05-14
+2026_PWD_BARA_950143,NIT_40/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,10261741.19,102.62,17,2026-03-03
+2026_DLB_BARA_819885,NIT_10/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,167384.9,1.67,15,2025-06-16
+2026_PWD_BARA_728960,NIT_29/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,3326651.61,33.27,14,2025-09-10
+2026_PWD_BARA_561003,NIT_58/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,7684465.59,76.84,23,2025-05-25
+2026_UIT_BARA_464016,NIT_85/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,88277469.46,882.77,37,2025-12-03
+2026_WRD_BARA_357796,NIT_46/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,191365.74,1.91,14,2025-05-02
+2026_PHED_BARA_118739,NIT_63/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,884319.46,8.84,15,2025-07-14
+2026_PHED_BARA_333718,NIT_49/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,4287489.53,42.87,13,2025-08-14
+2026_PWD_BARA_483494,NIT_30/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,231049.88,2.31,13,2025-12-02
+2026_FORES_BARA_427281,NIT_22/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,3458868.1,34.59,14,2025-09-03
+2026_MEDIC_BARA_469187,NIT_89/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,156283.42,1.56,10,2026-01-13
+2026_WRD_BARA_449656,NIT_60/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,566916.74,5.67,13,2025-05-16
+2026_DLB_BARA_952538,NIT_30/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,889066.3,8.89,11,2025-07-22
+2026_UIT_BARA_916418,NIT_80/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,557836.23,5.58,10,2025-07-28
+2026_FORES_BARA_143383,NIT_93/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,721195.49,7.21,11,2026-01-15
+2026_FORES_BARA_672515,NIT_18/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,807598.89,8.08,12,2025-12-21
+2026_PWD_BARA_985622,NIT_28/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,320781.2,3.21,13,2025-11-19
+2026_PHED_BARA_722279,NIT_69/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,629515.61,6.3,15,2025-10-31
+2026_FORES_BARA_100321,NIT_93/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,539303.26,5.39,7,2025-07-21
+2026_PHED_BARA_270737,NIT_97/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,829087.75,8.29,10,2025-05-23
+2026_PHED_BARA_934779,NIT_95/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,3902489.09,39.02,11,2026-03-08
+2026_UIT_BARA_590993,NIT_66/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,2643475.67,26.43,16,2025-11-29
+2026_FORES_BARA_226060,NIT_40/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,611237.11,6.11,15,2025-10-02
+2026_UIT_BARA_799121,NIT_17/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,566331.04,5.66,11,2025-04-22
+2026_PWD_BARA_254855,NIT_74/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,1697732.82,16.98,15,2025-08-28
+2026_PHED_BARA_191716,NIT_26/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,435921.96,4.36,7,2025-10-25
+2026_WRD_BARA_585372,NIT_16/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,38892736.68,388.93,35,2025-06-16
+2026_PWD_BARA_711304,NIT_77/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,1514784.87,15.15,18,2025-10-08
+2026_WRD_BARA_663151,NIT_16/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,670630.92,6.71,7,2026-02-11
+2026_MEDIC_BARA_452619,NIT_21/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,903776.23,9.04,7,2025-09-10
+2026_PHED_BARA_907244,NIT_83/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,345561.52,3.46,8,2025-04-12
+2026_DLB_BARA_334454,NIT_67/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,779215.55,7.79,15,2025-06-05
+2026_PHED_BARA_473137,NIT_67/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,362398.11,3.62,11,2026-02-22
+2026_WRD_BARA_650140,NIT_15/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,494586.05,4.95,11,2025-08-30
+2026_FORES_BARA_514009,NIT_75/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,1200629.93,12.01,10,2025-12-07
+2026_PWD_BARA_289278,NIT_62/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,893357.31,8.93,14,2025-06-09
+2026_UIT_BARA_788476,NIT_64/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,183123.69,1.83,15,2025-04-05
+2026_UIT_BARA_346388,NIT_77/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,4246216.48,42.46,15,2026-02-12
+2026_PWD_BARA_732540,NIT_73/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,160347.86,1.6,9,2025-08-28
+2026_FORES_BARA_969551,NIT_80/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,703397.05,7.03,11,2025-08-23
+2026_PWD_BARA_176382,NIT_25/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,468045.38,4.68,13,2025-08-07
+2026_FORES_BARA_985821,NIT_85/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,4307010.02,43.07,17,2026-03-10
+2026_PWD_BARA_728720,NIT_63/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,92125420.44,921.25,35,2026-02-11
+2026_PWD_BARA_157718,NIT_12/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,670582.24,6.71,7,2025-12-07
+2026_PHED_BARA_485761,NIT_15/BAR/2025-26,Public Health Engineering Department (Baran Circle),Baran,Kota Division,858156.71,8.58,10,2025-08-20
+2026_MEDIC_BARA_397837,NIT_27/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,616121.8,6.16,15,2025-05-04
+2026_WRD_BARA_688815,NIT_84/BAR/2025-26,Water Resources Department (Baran Circle),Baran,Kota Division,546994.16,5.47,7,2026-02-09
+2026_PWD_BARA_709945,NIT_13/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,520126.89,5.2,9,2026-02-02
+2026_PWD_BARA_285792,NIT_75/BAR/2025-26,Public Works Department (Baran Circle),Baran,Kota Division,5723000.46,57.23,18,2025-06-08
+2026_DLB_BARA_646420,NIT_11/BAR/2025-26,Directorate of Local Bodies (Baran Circle),Baran,Kota Division,13597625.89,135.98,12,2025-05-26
+2026_UIT_BARA_412739,NIT_75/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,593189.5,5.93,10,2025-09-26
+2026_UIT_BARA_995398,NIT_64/BAR/2025-26,Municipal Council Baran,Baran,Kota Division,882485.26,8.82,14,2025-05-07
+2026_MEDIC_BARA_409122,NIT_87/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,4045457.24,40.45,15,2025-10-26
+2026_MEDIC_BARA_291993,NIT_20/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,732182.91,7.32,5,2025-12-31
+2026_MEDIC_BARA_413188,NIT_13/BAR/2025-26,Department of Medical Education (Baran Circle),Baran,Kota Division,308838.14,3.09,12,2025-07-16
+2026_FORES_BARA_480502,NIT_83/BAR/2025-26,Forest Department (Baran Circle),Baran,Kota Division,452799.35,4.53,12,2025-09-04

@@ -1,0 +1,442 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_MEDIC_BALO_889637,NIT_22/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,9390518.7,93.91,12,2025-11-11
+2026_PHED_BALO_360159,NIT_60/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,479841.19,4.8,13,2025-06-05
+2026_DLB_BALO_286627,NIT_74/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,493398.84,4.93,15,2025-06-03
+2026_WRD_BALO_904438,NIT_98/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,257466.76,2.57,10,2026-02-28
+2026_MEDIC_BALO_383524,NIT_94/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,409162.16,4.09,11,2025-10-23
+2026_PHED_BALO_211196,NIT_72/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,4337781.58,43.38,13,2025-08-30
+2026_MEDIC_BALO_310963,NIT_83/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,17678675.06,176.79,9,2025-11-16
+2026_WRD_BALO_135140,NIT_66/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,594730.22,5.95,13,2026-01-14
+2026_MEDIC_BALO_871516,NIT_99/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,17597525.59,175.98,22,2025-08-17
+2026_MEDIC_BALO_179037,NIT_21/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,193681.11,1.94,13,2025-11-21
+2026_FORES_BALO_258582,NIT_64/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,2136363.41,21.36,17,2026-02-14
+2026_PHED_BALO_784844,NIT_84/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,2737562.39,27.38,15,2025-07-20
+2026_DLB_BALO_595671,NIT_16/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,207983.42,2.08,10,2025-05-27
+2026_DLB_BALO_876507,NIT_44/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,435099.29,4.35,15,2025-06-15
+2026_WRD_BALO_358838,NIT_66/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,3099681.85,31.0,10,2025-08-28
+2026_PWD_BALO_605909,NIT_90/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,621344.42,6.21,8,2025-12-17
+2026_UIT_BALO_568772,NIT_57/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,465129.8,4.65,13,2026-03-23
+2026_MEDIC_BALO_246341,NIT_16/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,816943.48,8.17,10,2026-03-09
+2026_FORES_BALO_266760,NIT_70/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,115330089.19,1153.3,31,2025-06-12
+2026_WRD_BALO_508307,NIT_71/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,942179.9,9.42,9,2025-08-06
+2026_PWD_BALO_128168,NIT_80/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,15969913.12,159.7,20,2026-01-26
+2026_PWD_BALO_485257,NIT_39/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,263489.2,2.63,12,2025-10-16
+2026_DLB_BALO_120678,NIT_10/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,3226251.79,32.26,10,2025-09-18
+2026_DLB_BALO_950602,NIT_78/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,1848215.24,18.48,10,2026-03-24
+2026_PHED_BALO_132323,NIT_35/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,17645863.33,176.46,18,2026-02-21
+2026_DLB_BALO_454814,NIT_93/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,301238.51,3.01,12,2025-11-09
+2026_FORES_BALO_662147,NIT_44/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,3361996.69,33.62,17,2025-11-12
+2026_UIT_BALO_128954,NIT_73/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,4054755.52,40.55,10,2025-12-12
+2026_WRD_BALO_495656,NIT_22/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,815252.27,8.15,10,2025-11-14
+2026_PWD_BALO_153353,NIT_45/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,736604.52,7.37,14,2025-09-06
+2026_WRD_BALO_306543,NIT_59/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,597855.48,5.98,13,2025-08-01
+2026_MEDIC_BALO_836660,NIT_68/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,499330.37,4.99,12,2025-12-01
+2026_FORES_BALO_613584,NIT_48/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,16687797.8,166.88,20,2025-12-13
+2026_DLB_BALO_549925,NIT_25/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,568818.42,5.69,15,2025-12-12
+2026_WRD_BALO_170326,NIT_45/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,286271.94,2.86,10,2026-02-16
+2026_PWD_BALO_362870,NIT_23/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,3771723.73,37.72,18,2025-11-27
+2026_PHED_BALO_538582,NIT_36/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,717041.63,7.17,9,2025-05-13
+2026_FORES_BALO_268855,NIT_27/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,313963.48,3.14,15,2025-06-21
+2026_PWD_BALO_429298,NIT_82/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,778384.38,7.78,5,2025-07-18
+2026_UIT_BALO_245345,NIT_94/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,89907970.04,899.08,38,2025-08-11
+2026_UIT_BALO_468161,NIT_63/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,11456634.68,114.57,19,2025-05-27
+2026_FORES_BALO_587230,NIT_93/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,14801074.05,148.01,21,2026-01-06
+2026_MEDIC_BALO_978523,NIT_39/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,611384.21,6.11,13,2026-03-18
+2026_UIT_BALO_874465,NIT_49/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,2439686.67,24.4,17,2026-03-08
+2026_DLB_BALO_888356,NIT_61/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,895770.71,8.96,13,2025-10-15
+2026_DLB_BALO_363934,NIT_71/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,928131.71,9.28,12,2025-06-04
+2026_PWD_BALO_624428,NIT_95/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,739913.55,7.4,9,2026-01-26
+2026_DLB_BALO_425951,NIT_52/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,4351739.24,43.52,11,2025-12-08
+2026_WRD_BALO_165035,NIT_46/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,608581.06,6.09,14,2025-12-27
+2026_PHED_BALO_722104,NIT_81/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,551023.4,5.51,14,2025-10-02
+2026_WRD_BALO_876366,NIT_45/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,263394.55,2.63,5,2026-03-18
+2026_FORES_BALO_680922,NIT_56/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,703873.32,7.04,9,2026-01-30
+2026_UIT_BALO_662256,NIT_69/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,3988636.26,39.89,18,2025-11-08
+2026_UIT_BALO_818873,NIT_45/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,177760.84,1.78,14,2025-06-11
+2026_WRD_BALO_535039,NIT_65/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,1808134.69,18.08,12,2025-05-15
+2026_WRD_BALO_359178,NIT_17/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,305184.52,3.05,10,2026-01-16
+2026_UIT_BALO_350678,NIT_40/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,16527003.69,165.27,16,2025-12-17
+2026_WRD_BALO_801061,NIT_12/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,2551813.79,25.52,18,2025-09-13
+2026_WRD_BALO_648478,NIT_73/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,405826.05,4.06,11,2025-09-30
+2026_PHED_BALO_697177,NIT_60/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,233473.58,2.33,10,2025-10-28
+2026_MEDIC_BALO_579680,NIT_42/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,2349157.9,23.49,18,2025-07-18
+2026_WRD_BALO_176397,NIT_67/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,18415513.28,184.16,23,2025-11-20
+2026_FORES_BALO_193315,NIT_94/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,343228.72,3.43,13,2025-11-04
+2026_MEDIC_BALO_553012,NIT_41/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,675640.07,6.76,15,2026-01-20
+2026_WRD_BALO_845108,NIT_78/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,11235610.79,112.36,23,2025-06-12
+2026_WRD_BALO_815670,NIT_59/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,4439842.03,44.4,11,2025-11-08
+2026_PHED_BALO_376548,NIT_64/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,897417.22,8.97,14,2025-11-02
+2026_FORES_BALO_276287,NIT_85/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,306740.95,3.07,15,2025-08-24
+2026_PHED_BALO_552580,NIT_77/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,838004.7,8.38,14,2026-01-28
+2026_DLB_BALO_300528,NIT_65/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,2855199.3,28.55,10,2025-05-17
+2026_UIT_BALO_104115,NIT_26/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,673983.15,6.74,14,2025-05-10
+2026_MEDIC_BALO_895871,NIT_17/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,88287855.62,882.88,32,2025-04-05
+2026_PHED_BALO_666258,NIT_94/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,513357.25,5.13,9,2025-06-03
+2026_UIT_BALO_940592,NIT_56/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,659553.39,6.6,11,2025-09-28
+2026_FORES_BALO_935200,NIT_58/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,1693207.02,16.93,14,2025-10-31
+2026_FORES_BALO_291755,NIT_29/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,5691988.0,56.92,18,2026-02-18
+2026_UIT_BALO_347277,NIT_87/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,8127498.7,81.27,17,2025-08-26
+2026_PHED_BALO_867340,NIT_26/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,456608.68,4.57,15,2025-05-17
+2026_WRD_BALO_115197,NIT_40/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,1251203.44,12.51,15,2026-01-30
+2026_UIT_BALO_652654,NIT_46/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,1295796.62,12.96,12,2025-05-02
+2026_PHED_BALO_396833,NIT_77/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,388020.63,3.88,12,2025-04-26
+2026_DLB_BALO_393622,NIT_57/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,161586.13,1.62,10,2025-08-05
+2026_PHED_BALO_640531,NIT_16/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,833974.94,8.34,14,2025-04-13
+2026_PHED_BALO_377870,NIT_44/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,153127.59,1.53,10,2025-05-15
+2026_PWD_BALO_749839,NIT_11/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,11659190.55,116.59,11,2025-06-29
+2026_PHED_BALO_810597,NIT_52/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,712083.42,7.12,9,2025-12-07
+2026_DLB_BALO_760183,NIT_92/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,42840557.82,428.41,37,2025-10-21
+2026_PWD_BALO_558826,NIT_26/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,505050.49,5.05,10,2025-09-20
+2026_WRD_BALO_425042,NIT_81/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,4525320.93,45.25,11,2025-07-02
+2026_DLB_BALO_526022,NIT_64/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,234602.22,2.35,10,2026-01-23
+2026_PHED_BALO_937431,NIT_83/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,745980.28,7.46,11,2025-07-01
+2026_DLB_BALO_842184,NIT_16/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,815815.01,8.16,12,2025-05-01
+2026_FORES_BALO_202993,NIT_36/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,857761.8,8.58,10,2026-02-20
+2026_PHED_BALO_697052,NIT_16/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,2687490.17,26.87,18,2026-02-08
+2026_FORES_BALO_446619,NIT_74/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,294748.45,2.95,14,2025-11-29
+2026_PHED_BALO_325672,NIT_82/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,1312015.38,13.12,10,2025-07-23
+2026_DLB_BALO_217358,NIT_98/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,630411.35,6.3,14,2025-09-25
+2026_MEDIC_BALO_354196,NIT_82/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,707454.02,7.07,14,2026-03-08
+2026_PWD_BALO_401804,NIT_33/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,217420.63,2.17,13,2026-03-11
+2026_PHED_BALO_285886,NIT_14/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,16698619.28,166.99,20,2026-02-01
+2026_PWD_BALO_148085,NIT_10/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,3739280.33,37.39,13,2025-10-19
+2026_WRD_BALO_326063,NIT_60/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,363636.54,3.64,9,2026-01-14
+2026_UIT_BALO_932970,NIT_63/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,620591.58,6.21,9,2026-03-20
+2026_UIT_BALO_841913,NIT_10/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,655232.48,6.55,9,2025-06-24
+2026_DLB_BALO_517305,NIT_74/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,44658673.83,446.59,38,2025-11-15
+2026_MEDIC_BALO_435132,NIT_95/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,2859014.14,28.59,13,2025-07-06
+2026_MEDIC_BALO_887071,NIT_57/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,324437.87,3.24,5,2025-05-01
+2026_FORES_BALO_543543,NIT_37/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,3428011.06,34.28,18,2025-11-04
+2026_FORES_BALO_598958,NIT_67/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,857767.04,8.58,12,2026-01-08
+2026_DLB_BALO_226453,NIT_71/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,37404151.76,374.04,30,2025-08-02
+2026_WRD_BALO_387538,NIT_63/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,660177.89,6.6,11,2025-10-11
+2026_WRD_BALO_780009,NIT_95/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,2599159.32,25.99,14,2025-05-04
+2026_WRD_BALO_411098,NIT_62/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,737877.55,7.38,14,2025-09-08
+2026_DLB_BALO_313923,NIT_50/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,4698252.89,46.98,18,2025-10-05
+2026_PWD_BALO_925866,NIT_73/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,2534562.39,25.35,15,2026-03-27
+2026_UIT_BALO_693829,NIT_56/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,4474196.73,44.74,16,2025-04-07
+2026_PWD_BALO_923804,NIT_91/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,4505804.58,45.06,13,2025-07-22
+2026_DLB_BALO_880093,NIT_50/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,7317557.75,73.18,19,2025-12-21
+2026_WRD_BALO_768391,NIT_27/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,220620.56,2.21,9,2025-06-05
+2026_WRD_BALO_197078,NIT_43/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,420809.18,4.21,12,2025-07-11
+2026_DLB_BALO_772319,NIT_26/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,333881.76,3.34,7,2025-08-18
+2026_PWD_BALO_398571,NIT_28/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,113635661.87,1136.36,37,2025-04-24
+2026_MEDIC_BALO_181242,NIT_38/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,782060.17,7.82,15,2025-06-13
+2026_PWD_BALO_116925,NIT_89/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,3971862.08,39.72,12,2025-09-07
+2026_FORES_BALO_299431,NIT_87/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,1623108.86,16.23,15,2025-04-17
+2026_PWD_BALO_851094,NIT_96/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,683638.38,6.84,13,2025-06-08
+2026_MEDIC_BALO_372944,NIT_13/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,518692.23,5.19,12,2025-07-11
+2026_MEDIC_BALO_157079,NIT_79/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,524270.17,5.24,11,2025-12-12
+2026_DLB_BALO_580150,NIT_97/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,648961.85,6.49,14,2025-12-15
+2026_PHED_BALO_425796,NIT_48/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,469390.87,4.69,13,2026-02-06
+2026_WRD_BALO_821245,NIT_81/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,327584.82,3.28,7,2026-03-15
+2026_MEDIC_BALO_764569,NIT_49/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,8102990.24,81.03,20,2025-04-09
+2026_MEDIC_BALO_442862,NIT_52/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,78348857.71,783.49,32,2026-01-18
+2026_DLB_BALO_931265,NIT_33/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,451602.88,4.52,9,2025-07-17
+2026_UIT_BALO_915856,NIT_28/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,411915.54,4.12,9,2025-12-06
+2026_PHED_BALO_762707,NIT_48/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,724272.05,7.24,15,2026-02-05
+2026_FORES_BALO_273693,NIT_70/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,4653537.22,46.54,14,2025-11-26
+2026_PHED_BALO_301784,NIT_96/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,14583132.65,145.83,21,2025-10-31
+2026_DLB_BALO_210472,NIT_15/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,432750.43,4.33,11,2026-02-01
+2026_FORES_BALO_879769,NIT_59/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,219547.3,2.2,13,2025-12-19
+2026_DLB_BALO_277006,NIT_74/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,4101583.13,41.02,18,2026-03-23
+2026_MEDIC_BALO_593748,NIT_88/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,4676134.03,46.76,14,2026-02-04
+2026_WRD_BALO_119929,NIT_41/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,694144.68,6.94,12,2025-05-13
+2026_MEDIC_BALO_547997,NIT_89/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,3702286.41,37.02,11,2025-07-27
+2026_FORES_BALO_414253,NIT_44/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,187639.98,1.88,15,2025-07-26
+2026_FORES_BALO_787628,NIT_40/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,845061.6,8.45,15,2025-04-15
+2026_PWD_BALO_514231,NIT_84/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,3829505.96,38.3,16,2026-01-25
+2026_PWD_BALO_943580,NIT_27/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,14106539.04,141.07,22,2026-02-03
+2026_UIT_BALO_359734,NIT_90/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,925785.22,9.26,7,2025-05-17
+2026_UIT_BALO_806162,NIT_30/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,36834353.95,368.34,33,2025-05-20
+2026_MEDIC_BALO_901512,NIT_56/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,294304.44,2.94,4,2025-08-02
+2026_MEDIC_BALO_204234,NIT_56/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,1619634.4,16.2,13,2025-08-03
+2026_UIT_BALO_966092,NIT_60/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,659727.79,6.6,8,2025-08-28
+2026_UIT_BALO_105107,NIT_85/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,12835722.02,128.36,10,2025-04-24
+2026_PHED_BALO_356278,NIT_25/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,12779845.1,127.8,15,2025-05-28
+2026_PHED_BALO_752660,NIT_54/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,633516.16,6.34,10,2025-05-21
+2026_FORES_BALO_910846,NIT_68/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,11906218.34,119.06,15,2025-04-04
+2026_FORES_BALO_105980,NIT_98/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,6651744.13,66.52,16,2025-11-24
+2026_DLB_BALO_459403,NIT_37/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,4128107.72,41.28,14,2025-09-06
+2026_MEDIC_BALO_350041,NIT_42/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,942950.21,9.43,15,2025-12-03
+2026_PWD_BALO_490823,NIT_19/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,9514102.96,95.14,16,2025-05-29
+2026_DLB_BALO_756781,NIT_17/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,17591147.88,175.91,17,2025-12-04
+2026_PHED_BALO_658931,NIT_33/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,874890.88,8.75,7,2025-04-24
+2026_MEDIC_BALO_348948,NIT_94/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,119135104.88,1191.35,27,2025-08-23
+2026_FORES_BALO_848050,NIT_82/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,663210.04,6.63,10,2025-06-25
+2026_PWD_BALO_498919,NIT_95/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,695010.59,6.95,10,2025-07-01
+2026_WRD_BALO_831794,NIT_19/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,587107.57,5.87,12,2025-07-05
+2026_FORES_BALO_572769,NIT_59/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,1650664.96,16.51,10,2025-06-23
+2026_PWD_BALO_330941,NIT_24/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,1420230.63,14.2,15,2025-08-27
+2026_PHED_BALO_654835,NIT_37/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,283972.24,2.84,7,2025-05-22
+2026_FORES_BALO_894252,NIT_20/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,60688243.11,606.88,36,2025-11-26
+2026_UIT_BALO_969622,NIT_78/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,479147.61,4.79,7,2025-07-01
+2026_WRD_BALO_200506,NIT_52/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,301041.63,3.01,11,2025-06-26
+2026_DLB_BALO_563914,NIT_39/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,773770.92,7.74,7,2026-02-09
+2026_MEDIC_BALO_413384,NIT_20/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,2862477.92,28.62,15,2025-07-16
+2026_FORES_BALO_998765,NIT_12/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,9104202.98,91.04,18,2025-05-10
+2026_MEDIC_BALO_647257,NIT_45/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,3972398.71,39.72,15,2025-04-15
+2026_DLB_BALO_438010,NIT_50/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,5236277.33,52.36,23,2025-08-28
+2026_DLB_BALO_613160,NIT_67/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,199827.8,2.0,15,2025-08-07
+2026_DLB_BALO_574044,NIT_88/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,543709.99,5.44,15,2026-03-02
+2026_FORES_BALO_338259,NIT_13/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,670329.28,6.7,11,2025-04-21
+2026_WRD_BALO_634707,NIT_39/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,407544.56,4.08,7,2025-05-14
+2026_DLB_BALO_271358,NIT_66/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,283598.34,2.84,14,2025-08-03
+2026_FORES_BALO_244226,NIT_80/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,1752743.39,17.53,18,2025-07-30
+2026_PHED_BALO_111410,NIT_56/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,236352.03,2.36,8,2025-07-08
+2026_WRD_BALO_129033,NIT_64/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,4407716.82,44.08,18,2025-04-16
+2026_PWD_BALO_747968,NIT_86/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,181632.21,1.82,11,2025-04-22
+2026_DLB_BALO_430089,NIT_18/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,202914.61,2.03,11,2025-11-30
+2026_UIT_BALO_181411,NIT_21/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,2778331.06,27.78,14,2026-01-02
+2026_WRD_BALO_951440,NIT_66/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,603392.26,6.03,15,2025-10-25
+2026_PHED_BALO_761394,NIT_94/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,6435995.08,64.36,19,2025-04-29
+2026_DLB_BALO_874138,NIT_94/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,3315618.62,33.16,14,2026-01-04
+2026_FORES_BALO_184148,NIT_41/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,583926.98,5.84,8,2026-01-21
+2026_PWD_BALO_230334,NIT_22/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,119682641.99,1196.83,35,2026-03-24
+2026_DLB_BALO_624128,NIT_98/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,471693.69,4.72,8,2026-01-25
+2026_UIT_BALO_454762,NIT_26/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,364379.47,3.64,7,2025-05-20
+2026_DLB_BALO_140905,NIT_82/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,1624794.54,16.25,16,2025-09-04
+2026_WRD_BALO_178749,NIT_71/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,846001.34,8.46,7,2025-06-06
+2026_PHED_BALO_797807,NIT_36/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,12860639.74,128.61,18,2025-09-04
+2026_DLB_BALO_629322,NIT_30/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,11277904.54,112.78,18,2025-06-16
+2026_PWD_BALO_747253,NIT_55/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,83974986.35,839.75,34,2025-12-25
+2026_MEDIC_BALO_682619,NIT_70/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,777072.19,7.77,15,2025-12-12
+2026_PHED_BALO_580855,NIT_31/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,645519.33,6.46,10,2025-07-20
+2026_FORES_BALO_859959,NIT_53/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,3677202.48,36.77,10,2025-06-23
+2026_FORES_BALO_367319,NIT_13/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,865423.85,8.65,15,2025-10-23
+2026_FORES_BALO_544269,NIT_35/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,721093.92,7.21,11,2025-10-14
+2026_WRD_BALO_659641,NIT_46/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,363253.71,3.63,10,2026-01-25
+2026_MEDIC_BALO_343813,NIT_50/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,728269.16,7.28,12,2025-06-07
+2026_FORES_BALO_351392,NIT_87/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,211952.64,2.12,13,2026-03-05
+2026_DLB_BALO_524947,NIT_31/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,16088669.63,160.89,18,2025-07-30
+2026_UIT_BALO_426880,NIT_10/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,18159257.57,181.59,16,2025-10-28
+2026_DLB_BALO_303876,NIT_41/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,366135.76,3.66,11,2026-03-20
+2026_PHED_BALO_196328,NIT_57/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,468686.07,4.69,12,2025-06-30
+2026_UIT_BALO_535790,NIT_37/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,470921.23,4.71,15,2026-01-10
+2026_DLB_BALO_290785,NIT_37/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,7890424.16,78.9,19,2025-10-04
+2026_WRD_BALO_938035,NIT_25/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,742157.22,7.42,11,2025-07-14
+2026_WRD_BALO_404601,NIT_28/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,1365197.7,13.65,15,2025-08-14
+2026_MEDIC_BALO_377848,NIT_47/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,943301.35,9.43,11,2025-06-25
+2026_UIT_BALO_952441,NIT_20/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,3419161.71,34.19,14,2025-07-01
+2026_UIT_BALO_755842,NIT_48/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,452852.33,4.53,12,2025-05-09
+2026_PHED_BALO_754353,NIT_24/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,1511311.48,15.11,14,2025-12-08
+2026_FORES_BALO_740104,NIT_32/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,871660.37,8.72,11,2025-07-01
+2026_MEDIC_BALO_725194,NIT_74/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,4765114.48,47.65,17,2025-07-14
+2026_WRD_BALO_324822,NIT_93/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,875931.98,8.76,14,2025-10-09
+2026_UIT_BALO_776485,NIT_82/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,4094933.03,40.95,10,2025-05-02
+2026_DLB_BALO_431438,NIT_25/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,8803049.89,88.03,23,2025-07-22
+2026_UIT_BALO_391461,NIT_71/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,856754.65,8.57,10,2025-04-25
+2026_WRD_BALO_588151,NIT_81/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,7566924.85,75.67,16,2025-04-14
+2026_FORES_BALO_627614,NIT_21/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,1576177.64,15.76,14,2025-08-01
+2026_FORES_BALO_601639,NIT_78/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,661961.85,6.62,13,2025-06-26
+2026_WRD_BALO_315574,NIT_16/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,940228.82,9.4,11,2026-02-18
+2026_DLB_BALO_113889,NIT_64/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,486574.69,4.87,13,2025-05-29
+2026_FORES_BALO_127771,NIT_58/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,4083759.75,40.84,16,2025-08-03
+2026_FORES_BALO_567532,NIT_49/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,3326759.71,33.27,12,2025-05-03
+2026_MEDIC_BALO_614939,NIT_86/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,914601.71,9.15,13,2025-09-21
+2026_PWD_BALO_545372,NIT_19/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,829603.43,8.3,8,2025-09-27
+2026_MEDIC_BALO_109425,NIT_23/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,6683239.17,66.83,12,2025-05-12
+2026_DLB_BALO_146242,NIT_10/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,17754883.05,177.55,22,2025-06-24
+2026_MEDIC_BALO_950767,NIT_89/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,582906.83,5.83,15,2025-07-26
+2026_FORES_BALO_240157,NIT_24/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,112624819.32,1126.25,15,2025-05-11
+2026_WRD_BALO_883844,NIT_99/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,643679.41,6.44,12,2025-04-19
+2026_UIT_BALO_584540,NIT_89/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,466023.6,4.66,14,2025-12-15
+2026_WRD_BALO_271889,NIT_14/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,18053805.53,180.54,19,2025-08-17
+2026_PHED_BALO_369891,NIT_60/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,161072.38,1.61,14,2025-06-26
+2026_PHED_BALO_839829,NIT_78/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,883885.05,8.84,12,2026-01-22
+2026_WRD_BALO_277898,NIT_76/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,713704.56,7.14,11,2025-11-20
+2026_WRD_BALO_791743,NIT_70/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,14825902.24,148.26,22,2026-03-26
+2026_UIT_BALO_738377,NIT_74/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,7552023.78,75.52,22,2025-12-01
+2026_MEDIC_BALO_592022,NIT_94/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,806635.7,8.07,10,2025-10-17
+2026_DLB_BALO_555657,NIT_12/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,525237.15,5.25,8,2025-04-21
+2026_WRD_BALO_715126,NIT_37/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,634195.35,6.34,15,2025-05-23
+2026_WRD_BALO_104657,NIT_45/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,4114904.72,41.15,10,2025-07-31
+2026_WRD_BALO_947761,NIT_65/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,743659.69,7.44,15,2025-09-30
+2026_UIT_BALO_678330,NIT_90/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,2586805.73,25.87,16,2025-11-04
+2026_FORES_BALO_115810,NIT_89/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,485315.03,4.85,14,2025-10-19
+2026_PWD_BALO_609785,NIT_51/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,826208.41,8.26,8,2025-04-30
+2026_PWD_BALO_624716,NIT_47/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,253624.49,2.54,9,2025-10-12
+2026_WRD_BALO_979189,NIT_93/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,378569.8,3.79,7,2025-06-06
+2026_UIT_BALO_390899,NIT_54/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,78660353.86,786.6,14,2026-02-05
+2026_FORES_BALO_345506,NIT_51/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,474223.74,4.74,9,2025-08-20
+2026_FORES_BALO_356032,NIT_70/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,768305.98,7.68,12,2025-04-20
+2026_UIT_BALO_568988,NIT_63/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,886918.47,8.87,12,2025-11-21
+2026_PHED_BALO_609440,NIT_42/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,598104.66,5.98,12,2025-06-19
+2026_WRD_BALO_179742,NIT_31/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,286425.99,2.86,15,2025-08-27
+2026_DLB_BALO_580211,NIT_85/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,826561.61,8.27,14,2025-09-14
+2026_UIT_BALO_278150,NIT_30/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,831534.35,8.32,9,2026-02-13
+2026_WRD_BALO_689937,NIT_97/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,3902944.97,39.03,15,2025-06-22
+2026_PHED_BALO_924745,NIT_89/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,467926.8,4.68,7,2025-06-12
+2026_PWD_BALO_959761,NIT_38/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,681818.76,6.82,7,2025-11-11
+2026_PWD_BALO_161708,NIT_81/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,46960591.46,469.61,21,2025-05-13
+2026_PHED_BALO_396609,NIT_28/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,481880.54,4.82,14,2025-09-11
+2026_PHED_BALO_977822,NIT_98/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,584686.22,5.85,10,2026-03-12
+2026_MEDIC_BALO_605491,NIT_58/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,714346.29,7.14,11,2025-10-31
+2026_PWD_BALO_427462,NIT_26/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,728412.92,7.28,7,2025-08-17
+2026_PWD_BALO_635950,NIT_55/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,1577764.94,15.78,13,2025-07-14
+2026_WRD_BALO_527417,NIT_19/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,205158.26,2.05,15,2025-12-10
+2026_PHED_BALO_570625,NIT_28/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,3004797.82,30.05,15,2026-02-03
+2026_UIT_BALO_297754,NIT_94/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,324809.64,3.25,11,2025-05-23
+2026_FORES_BALO_742746,NIT_18/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,534770.5,5.35,13,2025-04-25
+2026_PHED_BALO_312160,NIT_96/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,1917776.76,19.18,15,2025-08-28
+2026_WRD_BALO_191055,NIT_77/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,670084.01,6.7,13,2025-04-28
+2026_FORES_BALO_289513,NIT_96/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,1109599.09,11.1,13,2025-05-15
+2026_PHED_BALO_594116,NIT_80/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,582229.85,5.82,8,2025-04-17
+2026_MEDIC_BALO_351967,NIT_63/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,2870710.82,28.71,16,2025-12-12
+2026_DLB_BALO_921163,NIT_69/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,513935.52,5.14,12,2025-11-20
+2026_DLB_BALO_426266,NIT_55/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,10010596.03,100.11,18,2025-08-07
+2026_MEDIC_BALO_216210,NIT_88/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,414658.91,4.15,11,2025-07-13
+2026_WRD_BALO_908995,NIT_24/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,6688725.74,66.89,9,2026-02-14
+2026_PHED_BALO_702090,NIT_50/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,447171.05,4.47,7,2026-01-01
+2026_MEDIC_BALO_867120,NIT_27/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,1770527.58,17.71,11,2025-07-15
+2026_WRD_BALO_811684,NIT_18/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,399060.84,3.99,12,2025-09-20
+2026_FORES_BALO_923620,NIT_13/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,11610238.84,116.1,21,2025-06-10
+2026_UIT_BALO_934291,NIT_64/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,161364.59,1.61,8,2025-09-11
+2026_FORES_BALO_229285,NIT_48/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,394567.73,3.95,13,2025-06-20
+2026_PWD_BALO_540470,NIT_46/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,599989.66,6.0,11,2026-03-05
+2026_PHED_BALO_575178,NIT_99/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,853000.22,8.53,14,2025-08-06
+2026_PWD_BALO_282729,NIT_84/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,375498.87,3.75,12,2025-12-01
+2026_PHED_BALO_461629,NIT_31/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,87002931.77,870.03,35,2025-12-16
+2026_MEDIC_BALO_316263,NIT_68/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,66747601.76,667.48,14,2026-01-05
+2026_PHED_BALO_663098,NIT_43/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,574577.41,5.75,8,2026-01-28
+2026_FORES_BALO_967433,NIT_85/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,18361295.33,183.61,16,2025-10-14
+2026_FORES_BALO_860457,NIT_52/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,649952.58,6.5,11,2025-09-08
+2026_UIT_BALO_956161,NIT_60/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,675449.07,6.75,11,2025-11-08
+2026_WRD_BALO_904735,NIT_51/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,1591423.65,15.91,10,2025-04-16
+2026_WRD_BALO_176074,NIT_57/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,1687031.33,16.87,18,2025-10-10
+2026_DLB_BALO_664495,NIT_56/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,53693138.76,536.93,28,2025-12-14
+2026_MEDIC_BALO_592753,NIT_72/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,629293.04,6.29,7,2025-06-03
+2026_FORES_BALO_415895,NIT_58/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,2742850.9,27.43,13,2025-11-03
+2026_DLB_BALO_250211,NIT_92/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,912444.22,9.12,9,2025-12-14
+2026_FORES_BALO_129212,NIT_17/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,787965.47,7.88,8,2025-11-23
+2026_DLB_BALO_845627,NIT_14/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,812924.46,8.13,11,2026-03-25
+2026_UIT_BALO_543922,NIT_15/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,87619160.19,876.19,6,2025-07-23
+2026_FORES_BALO_412551,NIT_11/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,15502075.14,155.02,16,2025-10-15
+2026_WRD_BALO_467054,NIT_71/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,2263551.22,22.64,15,2025-08-26
+2026_FORES_BALO_287886,NIT_74/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,719304.44,7.19,10,2025-06-04
+2026_UIT_BALO_688826,NIT_61/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,541908.71,5.42,12,2025-05-17
+2026_WRD_BALO_813089,NIT_16/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,488323.97,4.88,15,2025-12-17
+2026_PWD_BALO_464407,NIT_55/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,744172.48,7.44,12,2025-10-04
+2026_UIT_BALO_536081,NIT_96/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,483120.08,4.83,13,2026-01-12
+2026_MEDIC_BALO_416162,NIT_15/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,3171274.35,31.71,13,2025-10-16
+2026_WRD_BALO_527118,NIT_91/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,161320.8,1.61,12,2025-09-08
+2026_PWD_BALO_829392,NIT_62/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,243253.68,2.43,10,2025-07-16
+2026_MEDIC_BALO_450456,NIT_63/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,937324.46,9.37,11,2025-10-08
+2026_PWD_BALO_635570,NIT_29/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,448554.23,4.49,8,2026-01-29
+2026_PHED_BALO_185484,NIT_28/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,662991.27,6.63,14,2025-09-07
+2026_MEDIC_BALO_980286,NIT_99/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,17307505.23,173.08,23,2025-12-03
+2026_MEDIC_BALO_890274,NIT_74/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,3403023.87,34.03,13,2025-05-14
+2026_MEDIC_BALO_545495,NIT_38/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,6006680.86,60.07,19,2025-07-14
+2026_DLB_BALO_698426,NIT_33/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,294344.75,2.94,8,2025-11-03
+2026_WRD_BALO_239614,NIT_40/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,153459.51,1.53,14,2025-08-23
+2026_DLB_BALO_714895,NIT_11/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,238477.01,2.38,8,2026-02-05
+2026_PWD_BALO_698388,NIT_74/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,17099169.32,170.99,15,2025-12-25
+2026_WRD_BALO_799774,NIT_54/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,1898333.25,18.98,16,2025-06-16
+2026_PHED_BALO_302006,NIT_11/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,480582.42,4.81,14,2025-07-15
+2026_FORES_BALO_872703,NIT_55/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,542265.68,5.42,11,2025-06-25
+2026_UIT_BALO_737519,NIT_76/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,397510.41,3.98,11,2025-04-05
+2026_UIT_BALO_844421,NIT_14/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,1864079.91,18.64,17,2025-07-14
+2026_PWD_BALO_328591,NIT_26/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,51545260.09,515.45,34,2026-03-22
+2026_DLB_BALO_317074,NIT_51/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,1527467.79,15.27,15,2025-10-29
+2026_PWD_BALO_221567,NIT_81/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,561881.62,5.62,7,2025-08-03
+2026_UIT_BALO_666275,NIT_10/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,699385.86,6.99,12,2025-12-15
+2026_FORES_BALO_533144,NIT_27/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,679053.07,6.79,10,2026-02-27
+2026_FORES_BALO_167187,NIT_23/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,225109.81,2.25,15,2025-05-11
+2026_DLB_BALO_607958,NIT_87/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,174016.02,1.74,13,2025-11-04
+2026_DLB_BALO_512346,NIT_39/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,2521060.88,25.21,14,2025-12-02
+2026_PHED_BALO_631752,NIT_19/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,3487665.07,34.88,15,2026-01-23
+2026_MEDIC_BALO_393476,NIT_53/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,158136.74,1.58,14,2026-02-07
+2026_PWD_BALO_851960,NIT_32/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,14416233.87,144.16,15,2025-07-25
+2026_DLB_BALO_478773,NIT_37/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,426028.92,4.26,8,2026-03-04
+2026_PHED_BALO_262844,NIT_42/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,741711.54,7.42,14,2026-03-19
+2026_WRD_BALO_534688,NIT_67/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,814373.87,8.14,12,2025-04-25
+2026_UIT_BALO_945401,NIT_41/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,193611.68,1.94,14,2026-01-10
+2026_PWD_BALO_578235,NIT_18/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,250641.33,2.51,13,2025-09-16
+2026_PHED_BALO_397836,NIT_89/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,383687.94,3.84,8,2025-12-13
+2026_WRD_BALO_267744,NIT_86/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,914960.21,9.15,15,2025-06-26
+2026_PWD_BALO_847678,NIT_19/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,53472607.3,534.73,37,2025-10-29
+2026_WRD_BALO_702243,NIT_21/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,346873.51,3.47,13,2025-09-28
+2026_DLB_BALO_534038,NIT_54/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,260132.86,2.6,9,2025-06-08
+2026_FORES_BALO_944057,NIT_59/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,236816.67,2.37,12,2026-03-03
+2026_WRD_BALO_842847,NIT_82/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,3549037.07,35.49,12,2026-01-14
+2026_WRD_BALO_689193,NIT_43/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,614320.97,6.14,11,2025-09-11
+2026_DLB_BALO_603586,NIT_62/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,17115488.79,171.15,6,2026-01-03
+2026_MEDIC_BALO_985250,NIT_65/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,424609.02,4.25,7,2026-01-24
+2026_UIT_BALO_194795,NIT_99/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,444003.23,4.44,13,2025-11-14
+2026_MEDIC_BALO_296616,NIT_28/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,4597836.3,45.98,15,2026-01-28
+2026_UIT_BALO_297414,NIT_59/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,795653.22,7.96,11,2025-05-15
+2026_PHED_BALO_768066,NIT_68/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,174552.76,1.75,15,2025-09-15
+2026_FORES_BALO_340900,NIT_62/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,177470.13,1.77,15,2025-04-22
+2026_DLB_BALO_242409,NIT_10/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,3558529.78,35.59,13,2026-02-19
+2026_FORES_BALO_325091,NIT_80/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,901854.82,9.02,8,2025-06-20
+2026_PWD_BALO_895189,NIT_83/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,644244.37,6.44,14,2025-11-06
+2026_PHED_BALO_564388,NIT_30/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,114481552.04,1144.82,34,2025-08-07
+2026_MEDIC_BALO_334659,NIT_58/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,439277.79,4.39,14,2026-02-22
+2026_PWD_BALO_707445,NIT_90/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,14811968.4,148.12,20,2025-12-08
+2026_UIT_BALO_400943,NIT_34/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,3258574.67,32.59,10,2025-09-10
+2026_WRD_BALO_510091,NIT_67/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,310981.44,3.11,13,2025-08-07
+2026_FORES_BALO_725991,NIT_10/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,622274.86,6.22,12,2025-08-17
+2026_DLB_BALO_676456,NIT_93/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,576143.99,5.76,10,2026-03-05
+2026_PWD_BALO_891730,NIT_55/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,2990565.62,29.91,18,2025-06-03
+2026_PWD_BALO_991116,NIT_30/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,2289434.46,22.89,12,2026-01-27
+2026_UIT_BALO_284651,NIT_64/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,4196700.84,41.97,15,2025-08-18
+2026_DLB_BALO_915115,NIT_75/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,17545289.33,175.45,23,2025-04-27
+2026_WRD_BALO_114815,NIT_21/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,3973426.9,39.73,15,2026-02-06
+2026_UIT_BALO_589523,NIT_11/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,182708.25,1.83,7,2025-04-18
+2026_DLB_BALO_319818,NIT_76/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,555174.33,5.55,13,2025-11-12
+2026_UIT_BALO_843538,NIT_39/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,13905097.11,139.05,21,2026-01-19
+2026_PHED_BALO_960127,NIT_83/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,658981.85,6.59,11,2025-05-24
+2026_PHED_BALO_212525,NIT_83/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,574903.39,5.75,13,2025-12-11
+2026_PWD_BALO_649113,NIT_38/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,1587943.4,15.88,10,2025-09-27
+2026_WRD_BALO_231966,NIT_94/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,583251.26,5.83,9,2025-10-01
+2026_FORES_BALO_171055,NIT_23/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,6394894.38,63.95,18,2025-09-28
+2026_MEDIC_BALO_414815,NIT_11/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,3216838.1,32.17,14,2025-05-03
+2026_UIT_BALO_290254,NIT_50/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,601773.63,6.02,7,2026-03-16
+2026_PHED_BALO_897266,NIT_27/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,45443351.17,454.43,36,2025-11-26
+2026_DLB_BALO_993999,NIT_65/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,179019.0,1.79,9,2025-12-25
+2026_MEDIC_BALO_435734,NIT_19/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,865394.98,8.65,11,2025-04-09
+2026_FORES_BALO_322772,NIT_82/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,639515.25,6.4,15,2025-07-21
+2026_MEDIC_BALO_583535,NIT_46/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,382157.27,3.82,10,2025-04-11
+2026_MEDIC_BALO_204773,NIT_75/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,307242.31,3.07,10,2026-02-19
+2026_MEDIC_BALO_817313,NIT_67/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,714515.17,7.15,13,2025-08-03
+2026_MEDIC_BALO_274948,NIT_10/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,527539.0,5.28,11,2026-01-12
+2026_PWD_BALO_677693,NIT_51/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,243775.8,2.44,8,2025-05-10
+2026_UIT_BALO_592730,NIT_75/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,2606105.1,26.06,17,2025-10-25
+2026_UIT_BALO_574291,NIT_73/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,6186367.9,61.86,23,2026-01-08
+2026_MEDIC_BALO_241320,NIT_14/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,849657.56,8.5,9,2025-12-28
+2026_DLB_BALO_435114,NIT_66/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,365852.85,3.66,9,2025-07-31
+2026_FORES_BALO_976568,NIT_11/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,317371.36,3.17,2,2025-12-07
+2026_MEDIC_BALO_605596,NIT_24/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,625706.79,6.26,11,2026-01-31
+2026_DLB_BALO_794566,NIT_32/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,2467519.0,24.68,17,2025-05-03
+2026_PHED_BALO_524542,NIT_46/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,3210703.54,32.11,14,2026-03-24
+2026_WRD_BALO_199347,NIT_98/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,746080.51,7.46,14,2025-09-30
+2026_UIT_BALO_286329,NIT_55/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,504721.94,5.05,11,2026-03-14
+2026_UIT_BALO_963606,NIT_76/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,575474.91,5.75,12,2025-06-11
+2026_FORES_BALO_539626,NIT_93/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,4213626.5,42.14,10,2025-05-28
+2026_UIT_BALO_645915,NIT_56/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,908623.18,9.09,8,2025-05-28
+2026_WRD_BALO_871556,NIT_65/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,68156000.63,681.56,35,2025-05-09
+2026_WRD_BALO_582289,NIT_64/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,2125684.38,21.26,10,2026-02-27
+2026_WRD_BALO_163212,NIT_94/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,480966.27,4.81,15,2025-04-05
+2026_MEDIC_BALO_671050,NIT_35/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,2940018.21,29.4,11,2026-01-24
+2026_PHED_BALO_371766,NIT_65/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,9665830.83,96.66,10,2025-09-11
+2026_MEDIC_BALO_549132,NIT_16/BAL/2025-26,Department of Medical Education (Balotra Circle),Balotra,Jodhpur Division,1982340.38,19.82,15,2025-10-10
+2026_PHED_BALO_821578,NIT_40/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,833288.21,8.33,9,2025-08-04
+2026_WRD_BALO_753963,NIT_56/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,260725.36,2.61,14,2025-04-28
+2026_WRD_BALO_180877,NIT_50/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,17117340.8,171.17,23,2026-02-21
+2026_PHED_BALO_521976,NIT_34/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,3057804.29,30.58,7,2025-06-25
+2026_WRD_BALO_810130,NIT_28/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,2789952.23,27.9,18,2026-03-10
+2026_DLB_BALO_910442,NIT_30/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,15070540.07,150.71,21,2026-01-22
+2026_DLB_BALO_871580,NIT_42/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,11843340.99,118.43,18,2026-02-18
+2026_DLB_BALO_125779,NIT_36/BAL/2025-26,Directorate of Local Bodies (Balotra Circle),Balotra,Jodhpur Division,14646511.76,146.47,22,2026-01-12
+2026_UIT_BALO_565463,NIT_98/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,298336.67,2.98,10,2025-06-02
+2026_UIT_BALO_740375,NIT_29/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,293082.48,2.93,11,2025-05-17
+2026_UIT_BALO_932763,NIT_32/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,4549346.95,45.49,12,2025-12-18
+2026_UIT_BALO_831074,NIT_10/BAL/2025-26,Municipal Council Balotra,Balotra,Jodhpur Division,4301401.23,43.01,16,2025-07-04
+2026_WRD_BALO_352342,NIT_97/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,3224120.68,32.24,11,2025-12-13
+2026_WRD_BALO_387912,NIT_53/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,444445.59,4.44,15,2026-02-08
+2026_PHED_BALO_433759,NIT_78/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,4415778.66,44.16,13,2025-05-14
+2026_WRD_BALO_903023,NIT_10/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,1241872.35,12.42,16,2025-07-25
+2026_PWD_BALO_312887,NIT_30/BAL/2025-26,Public Works Department (Balotra Circle),Balotra,Jodhpur Division,554069.06,5.54,10,2025-09-15
+2026_FORES_BALO_417471,NIT_88/BAL/2025-26,Forest Department (Balotra Circle),Balotra,Jodhpur Division,157257.26,1.57,15,2025-10-12
+2026_WRD_BALO_564549,NIT_22/BAL/2025-26,Water Resources Department (Balotra Circle),Balotra,Jodhpur Division,491305.86,4.91,13,2026-03-01
+2026_PHED_BALO_196865,NIT_34/BAL/2025-26,Public Health Engineering Department (Balotra Circle),Balotra,Jodhpur Division,268207.31,2.68,12,2025-05-01

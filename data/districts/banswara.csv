@@ -1,0 +1,451 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_UIT_BANS_829376,NIT_99/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,2544399.93,25.44,14,2025-04-25
+2026_PHED_BANS_443419,NIT_91/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,3720353.01,37.2,10,2025-09-18
+2026_DLB_BANS_646006,NIT_44/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,1514191.53,15.14,17,2025-07-17
+2026_WRD_BANS_158481,NIT_60/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,601969.3,6.02,12,2025-08-13
+2026_PWD_BANS_338212,NIT_33/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,457108.32,4.57,7,2026-03-09
+2026_PWD_BANS_943016,NIT_50/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,4531142.3,45.31,18,2026-02-23
+2026_UIT_BANS_706793,NIT_26/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,255194.26,2.55,7,2026-01-28
+2026_PHED_BANS_251610,NIT_19/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,761787.4,7.62,14,2025-04-16
+2026_WRD_BANS_800052,NIT_51/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4005066.02,40.05,18,2025-10-27
+2026_PWD_BANS_620338,NIT_31/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,3372816.46,33.73,16,2025-06-11
+2026_MEDIC_BANS_579692,NIT_34/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,767233.69,7.67,9,2026-01-19
+2026_WRD_BANS_966402,NIT_24/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,13684058.66,136.84,23,2025-09-19
+2026_WRD_BANS_669136,NIT_59/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,549378.33,5.49,8,2025-10-12
+2026_UIT_BANS_141530,NIT_92/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,114520265.47,1145.2,34,2025-12-30
+2026_DLB_BANS_954778,NIT_63/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,772537.48,7.73,13,2025-05-19
+2026_PHED_BANS_655639,NIT_17/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,943772.27,9.44,12,2025-09-10
+2026_UIT_BANS_911466,NIT_30/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,17383248.77,173.83,12,2025-09-17
+2026_PHED_BANS_182925,NIT_60/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,835306.54,8.35,13,2025-11-28
+2026_FORES_BANS_680456,NIT_97/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,2315385.74,23.15,11,2025-07-18
+2026_WRD_BANS_176189,NIT_24/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,18963874.89,189.64,23,2026-03-17
+2026_UIT_BANS_644909,NIT_18/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,5318440.52,53.18,20,2026-02-15
+2026_PHED_BANS_365819,NIT_67/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,82380196.97,823.8,34,2025-09-29
+2026_PWD_BANS_945202,NIT_74/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,408828.8,4.09,15,2025-09-19
+2026_MEDIC_BANS_639247,NIT_90/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,3951035.35,39.51,16,2026-01-19
+2026_PWD_BANS_420786,NIT_40/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,613619.74,6.14,15,2025-12-27
+2026_MEDIC_BANS_735507,NIT_84/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,612394.77,6.12,15,2025-09-03
+2026_UIT_BANS_393552,NIT_10/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,10659373.96,106.59,15,2026-01-18
+2026_FORES_BANS_483557,NIT_86/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,395978.41,3.96,9,2025-05-24
+2026_MEDIC_BANS_651945,NIT_83/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,3365621.0,33.66,10,2025-12-11
+2026_DLB_BANS_622996,NIT_34/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,190864.33,1.91,15,2025-05-17
+2026_WRD_BANS_340994,NIT_12/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,1660475.74,16.6,13,2025-07-13
+2026_DLB_BANS_936268,NIT_69/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,65432885.97,654.33,32,2025-09-28
+2026_PHED_BANS_667013,NIT_49/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,230901.63,2.31,14,2026-01-27
+2026_FORES_BANS_209007,NIT_38/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,1587917.11,15.88,13,2025-06-11
+2026_FORES_BANS_474854,NIT_76/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,15648458.28,156.48,15,2025-09-03
+2026_UIT_BANS_182814,NIT_64/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,288241.68,2.88,9,2025-05-20
+2026_PHED_BANS_804360,NIT_24/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,220649.82,2.21,12,2025-09-02
+2026_FORES_BANS_384748,NIT_49/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,3476260.31,34.76,15,2025-04-08
+2026_PHED_BANS_810168,NIT_48/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,755181.8,7.55,7,2026-03-14
+2026_FORES_BANS_173975,NIT_59/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,815577.02,8.16,7,2025-12-10
+2026_PWD_BANS_358790,NIT_71/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,11887525.52,118.88,18,2025-04-08
+2026_MEDIC_BANS_764968,NIT_90/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,417884.95,4.18,11,2026-02-19
+2026_UIT_BANS_512885,NIT_11/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,11366612.5,113.67,19,2025-04-21
+2026_PHED_BANS_765661,NIT_32/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,18182676.25,181.83,11,2025-04-11
+2026_PWD_BANS_265889,NIT_19/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,2718604.79,27.19,16,2026-02-22
+2026_UIT_BANS_315207,NIT_93/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,755151.52,7.55,8,2025-08-19
+2026_WRD_BANS_482363,NIT_14/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,217829.45,2.18,11,2025-08-01
+2026_PWD_BANS_267209,NIT_77/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,931386.52,9.31,13,2025-11-06
+2026_DLB_BANS_559937,NIT_54/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,10491019.26,104.91,23,2026-03-10
+2026_PHED_BANS_501395,NIT_40/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,315035.25,3.15,7,2026-01-17
+2026_WRD_BANS_648322,NIT_22/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,475157.0,4.75,10,2025-05-14
+2026_MEDIC_BANS_706774,NIT_94/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,627208.66,6.27,14,2025-04-18
+2026_PWD_BANS_892908,NIT_48/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,454324.14,4.54,14,2025-04-30
+2026_UIT_BANS_758803,NIT_30/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,531099.16,5.31,9,2025-08-15
+2026_UIT_BANS_508873,NIT_69/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,3068109.28,30.68,14,2026-03-20
+2026_UIT_BANS_506969,NIT_45/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,276152.45,2.76,15,2025-12-21
+2026_FORES_BANS_284289,NIT_40/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,263086.17,2.63,10,2026-02-14
+2026_DLB_BANS_974779,NIT_83/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,495485.01,4.95,11,2026-03-10
+2026_DLB_BANS_810753,NIT_72/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,1848628.85,18.49,17,2025-06-20
+2026_WRD_BANS_720108,NIT_31/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,3316697.43,33.17,13,2025-07-28
+2026_PHED_BANS_420628,NIT_10/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,891246.36,8.91,13,2026-03-17
+2026_MEDIC_BANS_777048,NIT_46/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,2565744.09,25.66,12,2025-11-16
+2026_WRD_BANS_488932,NIT_13/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,889176.42,8.89,13,2026-02-11
+2026_WRD_BANS_798643,NIT_77/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,7517225.52,75.17,9,2026-01-24
+2026_PWD_BANS_309399,NIT_45/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,923370.76,9.23,15,2026-03-12
+2026_UIT_BANS_174043,NIT_29/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,3918205.97,39.18,10,2025-07-04
+2026_WRD_BANS_510966,NIT_31/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,6350507.19,63.51,15,2025-09-01
+2026_FORES_BANS_411490,NIT_17/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,9303007.49,93.03,21,2025-09-09
+2026_DLB_BANS_262500,NIT_64/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,206266.87,2.06,11,2025-10-24
+2026_WRD_BANS_358239,NIT_13/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,852932.28,8.53,9,2025-09-04
+2026_DLB_BANS_512510,NIT_59/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,4694244.57,46.94,6,2025-07-21
+2026_PWD_BANS_981205,NIT_37/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,643381.35,6.43,15,2025-07-17
+2026_DLB_BANS_397689,NIT_71/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,10392208.79,103.92,18,2025-12-09
+2026_DLB_BANS_863202,NIT_71/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,4466229.73,44.66,12,2025-08-10
+2026_PHED_BANS_606129,NIT_75/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,2219605.17,22.2,12,2026-01-01
+2026_FORES_BANS_615446,NIT_91/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,479778.52,4.8,8,2025-06-08
+2026_UIT_BANS_871829,NIT_74/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1592328.59,15.92,12,2025-08-22
+2026_UIT_BANS_848688,NIT_84/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,3347026.59,33.47,17,2025-11-16
+2026_MEDIC_BANS_694794,NIT_86/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,16845187.12,168.45,23,2025-05-08
+2026_MEDIC_BANS_426769,NIT_98/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,833254.43,8.33,15,2025-06-02
+2026_PHED_BANS_988028,NIT_68/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,427589.1,4.28,7,2025-08-29
+2026_PWD_BANS_686182,NIT_64/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,527761.23,5.28,9,2025-09-13
+2026_UIT_BANS_646527,NIT_60/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,552649.94,5.53,8,2025-04-16
+2026_DLB_BANS_992126,NIT_30/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,2084636.58,20.85,16,2025-09-25
+2026_DLB_BANS_745575,NIT_34/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,13879212.12,138.79,23,2025-11-01
+2026_WRD_BANS_172942,NIT_33/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,170491.51,1.7,12,2025-06-05
+2026_MEDIC_BANS_127614,NIT_71/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,12116170.23,121.16,22,2025-04-04
+2026_PWD_BANS_540747,NIT_84/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,450262.15,4.5,7,2025-06-17
+2026_FORES_BANS_351027,NIT_34/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,454232.71,4.54,7,2025-10-22
+2026_WRD_BANS_905598,NIT_41/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,688886.34,6.89,14,2026-01-02
+2026_MEDIC_BANS_447133,NIT_59/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,701641.54,7.02,12,2025-08-29
+2026_UIT_BANS_336830,NIT_56/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,14166819.19,141.67,12,2025-04-10
+2026_WRD_BANS_476850,NIT_79/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,789823.42,7.9,10,2026-01-08
+2026_WRD_BANS_979679,NIT_87/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4530809.35,45.31,10,2025-09-21
+2026_UIT_BANS_141000,NIT_17/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,372043.29,3.72,8,2025-04-12
+2026_FORES_BANS_518545,NIT_92/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,10461150.67,104.61,23,2025-04-23
+2026_MEDIC_BANS_431055,NIT_82/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,275109.03,2.75,15,2025-05-14
+2026_WRD_BANS_652111,NIT_90/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,559104.72,5.59,12,2025-12-07
+2026_PWD_BANS_276748,NIT_24/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,235847.52,2.36,13,2025-10-24
+2026_FORES_BANS_957911,NIT_15/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,278566.18,2.79,9,2025-12-25
+2026_UIT_BANS_198265,NIT_42/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,641644.74,6.42,12,2025-11-09
+2026_UIT_BANS_789038,NIT_85/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,14333616.94,143.34,10,2026-01-08
+2026_PWD_BANS_902591,NIT_56/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,4766853.24,47.67,18,2026-03-24
+2026_PHED_BANS_502575,NIT_21/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,3826403.36,38.26,13,2026-01-11
+2026_PHED_BANS_333370,NIT_58/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,460896.75,4.61,11,2025-08-24
+2026_MEDIC_BANS_306276,NIT_46/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,523061.79,5.23,7,2025-07-29
+2026_WRD_BANS_774199,NIT_28/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,494174.0,4.94,15,2025-08-16
+2026_UIT_BANS_457741,NIT_60/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,63990205.9,639.9,35,2025-09-27
+2026_DLB_BANS_689579,NIT_92/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,6264230.99,62.64,10,2025-09-05
+2026_FORES_BANS_160330,NIT_57/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,11254545.33,112.55,15,2025-05-09
+2026_DLB_BANS_671351,NIT_30/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,14529594.97,145.3,19,2026-02-16
+2026_DLB_BANS_338573,NIT_12/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,511979.27,5.12,7,2025-06-16
+2026_DLB_BANS_727639,NIT_73/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,734562.44,7.35,14,2025-07-13
+2026_PWD_BANS_217259,NIT_85/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,868139.09,8.68,11,2025-10-20
+2026_UIT_BANS_491072,NIT_29/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,234557.31,2.35,12,2026-03-01
+2026_DLB_BANS_429576,NIT_81/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,615622.25,6.16,15,2025-08-15
+2026_PHED_BANS_942050,NIT_80/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,488972.21,4.89,11,2025-07-25
+2026_FORES_BANS_684527,NIT_12/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,3554400.47,35.54,14,2025-05-25
+2026_UIT_BANS_418408,NIT_57/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,11634328.37,116.34,22,2025-07-10
+2026_MEDIC_BANS_168815,NIT_53/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,3424720.84,34.25,17,2026-02-24
+2026_PHED_BANS_655132,NIT_20/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,9944029.45,99.44,15,2025-06-04
+2026_UIT_BANS_757577,NIT_39/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,835343.19,8.35,13,2025-07-20
+2026_MEDIC_BANS_194671,NIT_60/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,718972.54,7.19,11,2026-02-03
+2026_DLB_BANS_316156,NIT_83/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,2740640.89,27.41,16,2025-10-05
+2026_MEDIC_BANS_528373,NIT_47/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,938074.2,9.38,15,2025-05-12
+2026_FORES_BANS_605780,NIT_55/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,926499.75,9.26,13,2025-05-26
+2026_FORES_BANS_702161,NIT_91/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,644106.97,6.44,12,2025-05-29
+2026_PWD_BANS_942419,NIT_72/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,402852.91,4.03,11,2025-08-22
+2026_PWD_BANS_532488,NIT_16/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,271891.71,2.72,8,2025-10-14
+2026_UIT_BANS_926188,NIT_33/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,496642.27,4.97,13,2025-12-02
+2026_PHED_BANS_909342,NIT_68/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,780529.65,7.81,10,2025-07-19
+2026_PHED_BANS_948967,NIT_32/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,2472303.3,24.72,17,2025-07-12
+2026_PWD_BANS_691909,NIT_62/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,787334.49,7.87,10,2025-11-02
+2026_MEDIC_BANS_624418,NIT_19/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,753499.5,7.53,7,2025-11-07
+2026_DLB_BANS_683357,NIT_98/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,642124.32,6.42,14,2025-06-01
+2026_WRD_BANS_542490,NIT_84/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,219024.83,2.19,14,2025-04-08
+2026_PWD_BANS_265340,NIT_89/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,4149782.94,41.5,14,2026-03-18
+2026_WRD_BANS_406890,NIT_20/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4344230.43,43.44,16,2025-04-14
+2026_DLB_BANS_819149,NIT_23/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,2366981.17,23.67,5,2025-09-25
+2026_PHED_BANS_675300,NIT_52/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,873737.87,8.74,11,2025-09-15
+2026_WRD_BANS_592242,NIT_98/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,3500935.67,35.01,18,2025-09-19
+2026_MEDIC_BANS_291202,NIT_29/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,1618175.52,16.18,10,2025-04-10
+2026_UIT_BANS_503561,NIT_54/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,726837.6,7.27,14,2026-02-26
+2026_DLB_BANS_420645,NIT_92/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,242273.13,2.42,7,2025-05-13
+2026_MEDIC_BANS_790263,NIT_10/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,318707.04,3.19,9,2025-04-01
+2026_FORES_BANS_496955,NIT_80/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,2802084.81,28.02,11,2025-12-12
+2026_PWD_BANS_394209,NIT_64/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,2616610.32,26.17,10,2026-03-05
+2026_UIT_BANS_852361,NIT_95/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,596427.91,5.96,13,2025-06-12
+2026_PWD_BANS_184484,NIT_65/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,2862791.42,28.63,10,2025-08-14
+2026_DLB_BANS_830300,NIT_53/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,555954.35,5.56,13,2025-10-04
+2026_MEDIC_BANS_738803,NIT_79/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,151807.49,1.52,8,2025-10-26
+2026_FORES_BANS_535294,NIT_55/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,75035919.27,750.36,36,2025-10-26
+2026_FORES_BANS_271645,NIT_31/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,96386448.78,963.86,30,2026-01-04
+2026_DLB_BANS_166019,NIT_97/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,172059.96,1.72,7,2026-03-24
+2026_WRD_BANS_125683,NIT_83/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,891301.26,8.91,11,2025-12-05
+2026_MEDIC_BANS_303610,NIT_47/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,573733.51,5.74,11,2025-10-21
+2026_PWD_BANS_893986,NIT_96/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,937419.76,9.37,11,2026-03-23
+2026_DLB_BANS_416658,NIT_11/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,18874179.72,188.74,19,2025-07-16
+2026_WRD_BANS_426797,NIT_46/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,100020879.19,1000.21,35,2025-10-10
+2026_DLB_BANS_988969,NIT_59/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,1385019.33,13.85,16,2025-07-05
+2026_PWD_BANS_333326,NIT_31/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,940287.48,9.4,9,2026-02-12
+2026_WRD_BANS_110370,NIT_24/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4488686.38,44.89,17,2025-10-14
+2026_PWD_BANS_141793,NIT_34/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,257691.75,2.58,12,2025-12-14
+2026_FORES_BANS_104815,NIT_81/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,11541660.27,115.42,15,2026-03-22
+2026_WRD_BANS_790784,NIT_19/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,15265721.57,152.66,23,2025-07-19
+2026_FORES_BANS_164817,NIT_87/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,1119487.44,11.19,18,2025-05-15
+2026_DLB_BANS_797726,NIT_70/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,820100.06,8.2,8,2026-02-02
+2026_PHED_BANS_110287,NIT_44/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,253274.99,2.53,8,2026-01-13
+2026_WRD_BANS_714163,NIT_17/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,767469.65,7.67,10,2025-05-27
+2026_PWD_BANS_902140,NIT_80/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,11251475.53,112.51,22,2025-07-05
+2026_PHED_BANS_387951,NIT_23/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,275289.03,2.75,12,2025-04-13
+2026_FORES_BANS_360442,NIT_76/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,399796.0,4.0,12,2026-01-23
+2026_MEDIC_BANS_758929,NIT_33/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,277688.14,2.78,9,2026-03-20
+2026_WRD_BANS_367178,NIT_43/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,5577807.02,55.78,16,2025-09-24
+2026_MEDIC_BANS_760130,NIT_32/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,704739.8,7.05,14,2025-10-15
+2026_FORES_BANS_808064,NIT_45/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,16504625.71,165.05,23,2025-06-26
+2026_WRD_BANS_942687,NIT_53/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,14703392.43,147.03,6,2025-06-30
+2026_UIT_BANS_177981,NIT_24/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,91126875.6,911.27,30,2025-09-24
+2026_PWD_BANS_636604,NIT_32/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,194363.31,1.94,15,2025-10-29
+2026_PWD_BANS_947055,NIT_67/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,901805.13,9.02,2,2025-05-27
+2026_PHED_BANS_456659,NIT_38/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,919097.08,9.19,14,2025-07-10
+2026_PHED_BANS_378016,NIT_29/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,874968.12,8.75,12,2025-11-24
+2026_PWD_BANS_883076,NIT_38/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,494644.35,4.95,12,2026-01-23
+2026_PHED_BANS_431276,NIT_71/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,1146508.88,11.47,17,2026-03-01
+2026_FORES_BANS_703205,NIT_30/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,631083.42,6.31,13,2026-01-20
+2026_FORES_BANS_745215,NIT_78/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,15637171.57,156.37,16,2025-11-11
+2026_PHED_BANS_190094,NIT_93/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,940860.95,9.41,9,2026-03-26
+2026_DLB_BANS_859143,NIT_19/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,2485927.46,24.86,17,2025-07-02
+2026_UIT_BANS_621712,NIT_16/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1616514.62,16.17,11,2025-04-20
+2026_UIT_BANS_273672,NIT_63/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1657594.22,16.58,13,2025-04-07
+2026_MEDIC_BANS_316530,NIT_33/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,5457961.42,54.58,16,2025-09-03
+2026_FORES_BANS_337363,NIT_91/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,1507899.04,15.08,18,2025-08-09
+2026_UIT_BANS_169718,NIT_52/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,16256155.22,162.56,16,2025-12-21
+2026_MEDIC_BANS_275644,NIT_39/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,192962.73,1.93,8,2025-07-27
+2026_MEDIC_BANS_585127,NIT_28/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,604271.81,6.04,9,2025-12-27
+2026_DLB_BANS_583722,NIT_19/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,318304.25,3.18,7,2025-09-02
+2026_PHED_BANS_994868,NIT_39/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,555972.05,5.56,15,2025-04-12
+2026_FORES_BANS_716043,NIT_10/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,161239.07,1.61,14,2026-02-10
+2026_DLB_BANS_395405,NIT_30/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,724418.41,7.24,7,2026-02-05
+2026_DLB_BANS_655612,NIT_57/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,269343.91,2.69,8,2025-07-06
+2026_MEDIC_BANS_438318,NIT_49/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,908822.01,9.09,14,2026-02-16
+2026_FORES_BANS_373839,NIT_42/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,579734.0,5.8,8,2026-01-24
+2026_WRD_BANS_365027,NIT_45/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,18247246.22,182.47,19,2025-04-22
+2026_PHED_BANS_491124,NIT_81/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,672062.01,6.72,12,2025-05-03
+2026_PWD_BANS_651041,NIT_77/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,3323697.27,33.24,11,2025-11-14
+2026_PWD_BANS_101462,NIT_76/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,681522.55,6.82,12,2025-08-03
+2026_PWD_BANS_456043,NIT_87/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,16724588.92,167.25,21,2025-08-26
+2026_FORES_BANS_963960,NIT_60/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,14832790.28,148.33,17,2025-09-21
+2026_WRD_BANS_623678,NIT_73/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4699848.23,47.0,18,2026-01-06
+2026_PWD_BANS_880846,NIT_67/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,4027119.08,40.27,15,2025-07-07
+2026_PHED_BANS_388744,NIT_70/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,569237.27,5.69,8,2025-04-06
+2026_UIT_BANS_795868,NIT_25/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,99516920.91,995.17,38,2026-01-17
+2026_UIT_BANS_928141,NIT_71/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,8725202.0,87.25,18,2025-05-17
+2026_DLB_BANS_686989,NIT_98/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,6426276.28,64.26,20,2026-03-14
+2026_FORES_BANS_176834,NIT_59/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,2128032.26,21.28,10,2025-12-09
+2026_PWD_BANS_763034,NIT_44/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,873070.33,8.73,13,2025-08-26
+2026_UIT_BANS_703900,NIT_33/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,8494695.32,84.95,9,2025-05-04
+2026_UIT_BANS_941771,NIT_88/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,160940.23,1.61,11,2025-12-22
+2026_UIT_BANS_407639,NIT_30/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,4688627.96,46.89,16,2025-11-24
+2026_PWD_BANS_728610,NIT_37/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,199849.24,2.0,11,2025-12-06
+2026_PHED_BANS_820936,NIT_84/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,5537693.61,55.38,20,2025-12-30
+2026_FORES_BANS_691499,NIT_81/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,313025.16,3.13,10,2025-09-16
+2026_FORES_BANS_731732,NIT_56/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,882569.13,8.83,8,2025-07-30
+2026_PHED_BANS_337427,NIT_18/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,4437379.81,44.37,15,2025-08-16
+2026_PHED_BANS_239863,NIT_41/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,1737741.45,17.38,13,2025-09-27
+2026_WRD_BANS_229294,NIT_63/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,3364244.54,33.64,13,2026-03-03
+2026_DLB_BANS_951777,NIT_70/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,535528.58,5.36,7,2025-09-05
+2026_PHED_BANS_689978,NIT_73/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,834917.91,8.35,15,2026-03-14
+2026_WRD_BANS_248600,NIT_69/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4221634.52,42.22,16,2025-09-09
+2026_DLB_BANS_395550,NIT_55/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,56578198.56,565.78,32,2025-12-23
+2026_WRD_BANS_119393,NIT_36/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,18232227.5,182.32,21,2025-09-01
+2026_FORES_BANS_488988,NIT_98/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,363098.19,3.63,7,2025-10-31
+2026_DLB_BANS_642905,NIT_86/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,13364165.63,133.64,17,2025-12-20
+2026_PHED_BANS_516165,NIT_84/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,335769.39,3.36,15,2025-04-16
+2026_PWD_BANS_202804,NIT_92/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,684847.96,6.85,9,2025-05-29
+2026_FORES_BANS_299014,NIT_82/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,584829.17,5.85,7,2025-06-24
+2026_PWD_BANS_828509,NIT_13/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,798241.33,7.98,12,2025-11-16
+2026_UIT_BANS_272363,NIT_95/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1811040.78,18.11,11,2025-10-26
+2026_FORES_BANS_149989,NIT_19/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,586058.49,5.86,8,2025-08-03
+2026_UIT_BANS_905704,NIT_65/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,691770.53,6.92,13,2026-01-29
+2026_WRD_BANS_667256,NIT_14/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,775585.2,7.76,8,2025-12-19
+2026_UIT_BANS_425496,NIT_15/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,387038.15,3.87,14,2025-08-02
+2026_WRD_BANS_137559,NIT_40/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4078041.06,40.78,18,2025-09-02
+2026_MEDIC_BANS_582324,NIT_47/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,201160.8,2.01,9,2025-12-26
+2026_WRD_BANS_471855,NIT_62/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,835819.48,8.36,10,2025-11-03
+2026_DLB_BANS_965648,NIT_94/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,1068353.1,10.68,12,2025-07-24
+2026_WRD_BANS_253939,NIT_21/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,2916822.49,29.17,12,2025-05-25
+2026_PWD_BANS_994571,NIT_81/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,1703711.05,17.04,11,2025-08-05
+2026_PWD_BANS_952164,NIT_99/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,408026.59,4.08,14,2025-05-14
+2026_MEDIC_BANS_118498,NIT_55/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,17625252.5,176.25,21,2026-03-08
+2026_PWD_BANS_842565,NIT_52/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,10402410.37,104.02,15,2026-01-28
+2026_WRD_BANS_580982,NIT_83/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,15424004.13,154.24,23,2025-12-26
+2026_WRD_BANS_861393,NIT_44/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,1790539.42,17.91,16,2025-08-19
+2026_WRD_BANS_630576,NIT_29/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,638393.23,6.38,10,2025-12-01
+2026_PHED_BANS_360356,NIT_38/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,113775975.16,1137.76,26,2025-04-04
+2026_WRD_BANS_578472,NIT_22/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,454915.43,4.55,9,2025-07-30
+2026_WRD_BANS_783859,NIT_32/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,442777.13,4.43,7,2025-06-01
+2026_PHED_BANS_764187,NIT_77/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,795961.96,7.96,11,2025-04-07
+2026_UIT_BANS_104085,NIT_23/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,221816.62,2.22,9,2025-04-27
+2026_DLB_BANS_796027,NIT_74/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,31108890.24,311.09,31,2025-09-03
+2026_DLB_BANS_464847,NIT_63/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,4148218.78,41.48,17,2025-04-23
+2026_DLB_BANS_139027,NIT_90/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,2027673.78,20.28,17,2025-07-09
+2026_UIT_BANS_578087,NIT_57/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1354028.06,13.54,13,2025-09-12
+2026_WRD_BANS_878150,NIT_43/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,492411.93,4.92,9,2026-03-15
+2026_MEDIC_BANS_843440,NIT_48/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,516558.69,5.17,13,2025-04-19
+2026_PWD_BANS_741013,NIT_72/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,2200772.13,22.01,10,2026-01-20
+2026_PWD_BANS_777837,NIT_29/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,2477252.76,24.77,15,2026-01-10
+2026_PWD_BANS_486706,NIT_22/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,388030.62,3.88,12,2026-02-13
+2026_UIT_BANS_411707,NIT_17/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1266366.52,12.66,16,2025-09-19
+2026_DLB_BANS_108164,NIT_80/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,350016.04,3.5,11,2026-03-10
+2026_WRD_BANS_726556,NIT_50/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,874841.09,8.75,14,2025-11-23
+2026_WRD_BANS_486465,NIT_64/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,881228.34,8.81,9,2025-08-04
+2026_WRD_BANS_118115,NIT_15/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,936890.52,9.37,12,2025-06-08
+2026_PHED_BANS_742116,NIT_13/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,17375980.17,173.76,4,2025-09-30
+2026_PWD_BANS_606174,NIT_65/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,7476956.56,74.77,15,2025-05-21
+2026_PHED_BANS_881665,NIT_23/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,517210.21,5.17,7,2026-01-29
+2026_WRD_BANS_333280,NIT_42/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,1702718.67,17.03,12,2025-08-31
+2026_UIT_BANS_188740,NIT_96/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,3295950.67,32.96,17,2025-11-20
+2026_FORES_BANS_636945,NIT_70/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,318804.67,3.19,10,2025-11-15
+2026_PHED_BANS_318024,NIT_15/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,724008.03,7.24,12,2025-12-09
+2026_PWD_BANS_768475,NIT_37/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,59629261.75,596.29,17,2025-11-25
+2026_WRD_BANS_705948,NIT_73/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,2977531.28,29.78,15,2025-07-16
+2026_FORES_BANS_815897,NIT_56/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,110863847.67,1108.64,33,2025-09-11
+2026_WRD_BANS_766271,NIT_89/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,606433.09,6.06,11,2025-05-24
+2026_WRD_BANS_360198,NIT_63/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4535902.61,45.36,18,2025-12-09
+2026_PHED_BANS_400847,NIT_40/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,151822.09,1.52,11,2026-01-11
+2026_UIT_BANS_524026,NIT_14/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,490949.36,4.91,8,2025-08-31
+2026_WRD_BANS_873974,NIT_29/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,440232.43,4.4,7,2026-01-16
+2026_UIT_BANS_810242,NIT_58/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,613193.46,6.13,14,2025-09-17
+2026_FORES_BANS_609377,NIT_83/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,696323.25,6.96,12,2025-04-09
+2026_MEDIC_BANS_672311,NIT_10/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,844339.68,8.44,12,2025-12-23
+2026_WRD_BANS_448461,NIT_44/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,427766.68,4.28,9,2026-02-03
+2026_DLB_BANS_460692,NIT_40/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,2859912.96,28.6,14,2025-11-29
+2026_DLB_BANS_860722,NIT_74/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,859269.74,8.59,12,2025-10-20
+2026_MEDIC_BANS_346849,NIT_50/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,193363.7,1.93,15,2025-07-31
+2026_WRD_BANS_422934,NIT_13/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,295805.74,2.96,11,2026-02-19
+2026_DLB_BANS_809416,NIT_16/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,249583.46,2.5,12,2025-04-11
+2026_PHED_BANS_760280,NIT_35/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,2654306.26,26.54,18,2025-07-25
+2026_WRD_BANS_137228,NIT_29/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,851053.67,8.51,11,2025-09-25
+2026_WRD_BANS_888893,NIT_83/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,2998321.9,29.98,14,2025-10-17
+2026_PWD_BANS_513787,NIT_56/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,300053.73,3.0,10,2025-04-11
+2026_MEDIC_BANS_543532,NIT_62/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,843519.19,8.44,10,2025-09-06
+2026_MEDIC_BANS_230322,NIT_63/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,10388152.36,103.88,8,2025-12-09
+2026_DLB_BANS_299415,NIT_83/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,1199716.03,12.0,14,2025-07-08
+2026_DLB_BANS_295214,NIT_38/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,304355.28,3.04,10,2025-05-08
+2026_FORES_BANS_263083,NIT_97/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,6226846.03,62.27,4,2025-05-31
+2026_FORES_BANS_142668,NIT_37/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,584163.85,5.84,15,2025-04-14
+2026_PWD_BANS_567811,NIT_73/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,15998514.58,159.99,23,2025-05-19
+2026_UIT_BANS_699120,NIT_98/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,2561047.67,25.61,17,2025-04-06
+2026_FORES_BANS_536535,NIT_59/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,4580429.8,45.8,18,2025-08-31
+2026_PHED_BANS_962807,NIT_35/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,113875514.61,1138.76,38,2025-07-19
+2026_PHED_BANS_658278,NIT_18/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,681066.46,6.81,11,2026-02-05
+2026_FORES_BANS_146755,NIT_23/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,4217740.81,42.18,15,2025-09-04
+2026_PHED_BANS_724873,NIT_39/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,373523.73,3.74,15,2026-02-02
+2026_MEDIC_BANS_378084,NIT_71/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,675131.82,6.75,11,2025-08-06
+2026_MEDIC_BANS_431936,NIT_37/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,835889.4,8.36,12,2025-12-21
+2026_PWD_BANS_194752,NIT_53/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,766492.73,7.66,12,2025-12-23
+2026_WRD_BANS_698797,NIT_62/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,1622966.81,16.23,13,2025-07-03
+2026_UIT_BANS_335550,NIT_14/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1658983.07,16.59,12,2025-10-12
+2026_FORES_BANS_661959,NIT_61/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,1277029.38,12.77,13,2025-12-16
+2026_WRD_BANS_438988,NIT_98/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,441359.19,4.41,12,2025-05-19
+2026_FORES_BANS_670307,NIT_21/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,810356.25,8.1,14,2026-03-13
+2026_DLB_BANS_196139,NIT_48/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,7397211.6,73.97,19,2025-07-26
+2026_DLB_BANS_618495,NIT_71/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,759745.36,7.6,3,2026-02-17
+2026_UIT_BANS_833028,NIT_21/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1375582.57,13.76,10,2026-02-18
+2026_PHED_BANS_775529,NIT_60/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,4400761.21,44.01,13,2025-09-12
+2026_FORES_BANS_717639,NIT_71/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,2019950.11,20.2,18,2026-01-29
+2026_WRD_BANS_524239,NIT_44/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,261725.24,2.62,12,2025-07-19
+2026_PWD_BANS_564675,NIT_72/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,15606844.33,156.07,12,2025-11-13
+2026_PHED_BANS_475518,NIT_62/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,425251.39,4.25,10,2025-12-11
+2026_PHED_BANS_369845,NIT_34/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,16904300.69,169.04,15,2025-04-13
+2026_UIT_BANS_971481,NIT_13/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,889369.37,8.89,9,2025-04-12
+2026_UIT_BANS_175773,NIT_26/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,509394.6,5.09,7,2025-10-17
+2026_DLB_BANS_239303,NIT_57/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,685842.2,6.86,14,2026-01-04
+2026_DLB_BANS_410216,NIT_48/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,1466926.65,14.67,18,2025-09-07
+2026_MEDIC_BANS_400981,NIT_32/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,224772.21,2.25,9,2025-12-05
+2026_WRD_BANS_906753,NIT_90/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,268846.33,2.69,11,2025-04-29
+2026_FORES_BANS_877626,NIT_46/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,936086.53,9.36,8,2025-07-13
+2026_DLB_BANS_603190,NIT_24/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,11226015.13,112.26,19,2026-01-27
+2026_FORES_BANS_990374,NIT_74/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,13873441.34,138.73,16,2026-02-19
+2026_PHED_BANS_502479,NIT_40/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,3637319.04,36.37,12,2025-11-18
+2026_MEDIC_BANS_423528,NIT_21/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,2199282.54,21.99,15,2025-04-02
+2026_MEDIC_BANS_588223,NIT_40/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,848788.09,8.49,7,2026-02-03
+2026_MEDIC_BANS_599746,NIT_15/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,327434.65,3.27,9,2026-03-27
+2026_WRD_BANS_982019,NIT_31/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,17763770.16,177.64,22,2025-05-01
+2026_WRD_BANS_744906,NIT_67/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,651590.8,6.52,11,2025-09-04
+2026_UIT_BANS_508818,NIT_36/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,794755.19,7.95,11,2025-12-03
+2026_WRD_BANS_696926,NIT_65/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,831064.47,8.31,10,2025-05-21
+2026_PWD_BANS_115166,NIT_19/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,909170.36,9.09,9,2025-05-08
+2026_UIT_BANS_755388,NIT_77/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,224625.51,2.25,12,2026-01-02
+2026_MEDIC_BANS_175774,NIT_30/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,306326.93,3.06,15,2025-12-26
+2026_DLB_BANS_502867,NIT_14/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,556573.04,5.57,9,2025-07-28
+2026_PHED_BANS_348690,NIT_57/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,230896.4,2.31,12,2025-06-24
+2026_PHED_BANS_438361,NIT_43/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,610300.97,6.1,12,2025-11-17
+2026_PWD_BANS_319187,NIT_20/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,525716.31,5.26,8,2025-04-29
+2026_UIT_BANS_973624,NIT_21/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,945051.05,9.45,9,2025-08-21
+2026_DLB_BANS_156468,NIT_71/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,1755078.74,17.55,14,2025-05-11
+2026_WRD_BANS_289265,NIT_38/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,501150.56,5.01,11,2025-09-23
+2026_FORES_BANS_387187,NIT_57/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,4287323.26,42.87,17,2025-07-28
+2026_UIT_BANS_772483,NIT_34/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1068981.63,10.69,14,2025-12-16
+2026_DLB_BANS_511148,NIT_57/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,2732678.36,27.33,15,2026-01-14
+2026_PWD_BANS_541139,NIT_60/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,895354.48,8.95,12,2025-09-19
+2026_FORES_BANS_805507,NIT_21/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,782547.83,7.83,15,2025-10-16
+2026_WRD_BANS_261660,NIT_19/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,764684.44,7.65,8,2025-12-02
+2026_UIT_BANS_197564,NIT_48/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,4568615.87,45.69,12,2025-06-28
+2026_UIT_BANS_808068,NIT_26/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,635862.82,6.36,11,2025-09-17
+2026_PHED_BANS_203609,NIT_82/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,10795190.76,107.95,19,2025-08-27
+2026_UIT_BANS_203267,NIT_80/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,14333117.26,143.33,15,2025-04-15
+2026_MEDIC_BANS_440945,NIT_38/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,564182.52,5.64,7,2026-03-07
+2026_FORES_BANS_734799,NIT_44/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,765431.81,7.65,14,2026-02-10
+2026_DLB_BANS_826899,NIT_23/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,3660220.22,36.6,17,2026-01-28
+2026_MEDIC_BANS_932145,NIT_85/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,490763.55,4.91,8,2025-07-25
+2026_PWD_BANS_210413,NIT_81/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,857619.61,8.58,15,2025-11-22
+2026_MEDIC_BANS_877098,NIT_19/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,9802208.51,98.02,16,2025-11-03
+2026_UIT_BANS_609605,NIT_18/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,488885.09,4.89,14,2025-04-26
+2026_FORES_BANS_703235,NIT_77/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,17611532.34,176.12,23,2025-12-30
+2026_WRD_BANS_223991,NIT_64/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,3114057.88,31.14,18,2025-10-06
+2026_PHED_BANS_786549,NIT_76/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,2422158.3,24.22,10,2025-05-04
+2026_UIT_BANS_453545,NIT_46/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,896863.29,8.97,12,2025-04-10
+2026_DLB_BANS_639172,NIT_84/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,596047.7,5.96,15,2026-01-09
+2026_FORES_BANS_195558,NIT_20/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,454416.27,4.54,14,2025-12-30
+2026_DLB_BANS_309407,NIT_44/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,559058.51,5.59,12,2025-05-30
+2026_FORES_BANS_364644,NIT_88/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,866311.15,8.66,14,2025-10-09
+2026_DLB_BANS_790856,NIT_22/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,706661.46,7.07,12,2025-08-27
+2026_PWD_BANS_247424,NIT_34/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,225087.69,2.25,10,2025-08-26
+2026_PHED_BANS_819701,NIT_59/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,598145.95,5.98,13,2026-01-26
+2026_MEDIC_BANS_460802,NIT_69/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,1406584.49,14.07,15,2025-11-24
+2026_PWD_BANS_147643,NIT_23/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,487945.21,4.88,12,2025-05-04
+2026_FORES_BANS_252937,NIT_31/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,735869.8,7.36,7,2025-06-29
+2026_PHED_BANS_644391,NIT_66/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,4082073.23,40.82,13,2025-04-23
+2026_PHED_BANS_663348,NIT_24/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,110318101.01,1103.18,30,2025-08-19
+2026_PWD_BANS_701667,NIT_60/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,849523.04,8.5,13,2025-06-13
+2026_MEDIC_BANS_268264,NIT_29/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,429634.24,4.3,12,2025-07-13
+2026_DLB_BANS_546519,NIT_31/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,1495418.13,14.95,6,2025-07-12
+2026_PHED_BANS_850493,NIT_66/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,6985937.71,69.86,15,2025-11-08
+2026_DLB_BANS_585492,NIT_57/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,4688108.98,46.88,10,2025-10-04
+2026_MEDIC_BANS_621945,NIT_37/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,4662176.2,46.62,15,2026-03-08
+2026_PHED_BANS_595602,NIT_42/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,449591.92,4.5,7,2025-12-16
+2026_UIT_BANS_837436,NIT_76/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,312997.0,3.13,15,2025-06-11
+2026_MEDIC_BANS_373002,NIT_76/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,248413.37,2.48,7,2025-08-21
+2026_MEDIC_BANS_822575,NIT_63/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,2880426.33,28.8,12,2025-11-15
+2026_FORES_BANS_750227,NIT_20/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,4462885.29,44.63,16,2025-07-18
+2026_DLB_BANS_827482,NIT_88/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,72779754.99,727.8,37,2025-06-14
+2026_PWD_BANS_274693,NIT_98/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,733393.86,7.33,15,2025-06-26
+2026_PHED_BANS_706388,NIT_66/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,600001.8,6.0,14,2025-04-02
+2026_UIT_BANS_688790,NIT_66/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,530872.93,5.31,12,2026-03-08
+2026_PHED_BANS_880360,NIT_48/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,3622951.72,36.23,14,2025-08-06
+2026_PWD_BANS_146587,NIT_26/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,3377378.82,33.77,12,2025-05-19
+2026_PWD_BANS_325233,NIT_61/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,527400.78,5.27,7,2025-04-19
+2026_MEDIC_BANS_293340,NIT_53/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,808366.48,8.08,11,2025-06-15
+2026_DLB_BANS_125119,NIT_85/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,561940.03,5.62,15,2025-06-02
+2026_MEDIC_BANS_163586,NIT_40/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,771104.46,7.71,14,2025-05-24
+2026_WRD_BANS_962915,NIT_79/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,15997357.12,159.97,20,2025-09-05
+2026_WRD_BANS_126120,NIT_80/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,255615.54,2.56,12,2026-03-18
+2026_MEDIC_BANS_671068,NIT_60/BAN/2025-26,Department of Medical Education (Banswara Circle),Banswara,Udaipur Division,2994165.55,29.94,11,2026-01-30
+2026_DLB_BANS_393750,NIT_74/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,3118622.96,31.19,14,2025-10-31
+2026_FORES_BANS_560683,NIT_43/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,3100350.19,31.0,13,2025-06-27
+2026_UIT_BANS_663338,NIT_61/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,926382.71,9.26,12,2025-04-05
+2026_WRD_BANS_527361,NIT_45/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,18445414.91,184.45,10,2025-08-28
+2026_PHED_BANS_505635,NIT_56/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,801963.72,8.02,11,2025-04-28
+2026_DLB_BANS_556628,NIT_20/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,879841.46,8.8,7,2025-05-13
+2026_PWD_BANS_553992,NIT_95/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,180237.39,1.8,11,2026-03-27
+2026_UIT_BANS_220265,NIT_80/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,234071.43,2.34,7,2025-11-20
+2026_DLB_BANS_287275,NIT_22/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,168380.23,1.68,13,2026-02-07
+2026_FORES_BANS_855370,NIT_30/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,476962.74,4.77,13,2026-01-13
+2026_WRD_BANS_591753,NIT_33/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,93383434.87,933.83,31,2025-09-07
+2026_PWD_BANS_944404,NIT_14/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,884384.44,8.84,11,2025-07-19
+2026_PHED_BANS_713536,NIT_55/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,3851404.31,38.51,10,2026-03-07
+2026_WRD_BANS_936109,NIT_65/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,105993259.96,1059.93,36,2025-06-03
+2026_FORES_BANS_615436,NIT_32/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,763588.51,7.64,14,2025-06-10
+2026_UIT_BANS_615980,NIT_96/BAN/2025-26,Municipal Council Banswara,Banswara,Udaipur Division,1832464.63,18.32,18,2026-01-17
+2026_DLB_BANS_138882,NIT_65/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,881556.33,8.82,13,2025-06-12
+2026_PWD_BANS_321012,NIT_66/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,375323.21,3.75,12,2025-11-30
+2026_PWD_BANS_704781,NIT_89/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,210938.02,2.11,14,2025-07-12
+2026_WRD_BANS_832249,NIT_28/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,16971125.44,169.71,5,2025-05-17
+2026_PWD_BANS_391958,NIT_13/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,520841.76,5.21,8,2025-07-28
+2026_DLB_BANS_795790,NIT_58/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,4129987.88,41.3,10,2025-12-10
+2026_PWD_BANS_300968,NIT_76/BAN/2025-26,Public Works Department (Banswara Circle),Banswara,Udaipur Division,799923.66,8.0,11,2025-06-28
+2026_DLB_BANS_220092,NIT_38/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,15235515.41,152.36,21,2026-03-08
+2026_WRD_BANS_797805,NIT_95/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,605112.93,6.05,9,2025-09-09
+2026_FORES_BANS_566717,NIT_22/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,2629359.23,26.29,10,2025-04-15
+2026_WRD_BANS_991575,NIT_74/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,4446357.53,44.46,15,2025-06-23
+2026_WRD_BANS_222894,NIT_44/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,1882849.33,18.83,15,2025-11-06
+2026_WRD_BANS_528072,NIT_60/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,42602448.62,426.02,30,2025-05-17
+2026_PHED_BANS_867665,NIT_15/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,10522151.72,105.22,22,2025-09-30
+2026_FORES_BANS_706356,NIT_88/BAN/2025-26,Forest Department (Banswara Circle),Banswara,Udaipur Division,719946.23,7.2,14,2025-09-09
+2026_DLB_BANS_582955,NIT_55/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,484862.2,4.85,13,2025-12-10
+2026_DLB_BANS_516033,NIT_66/BAN/2025-26,Directorate of Local Bodies (Banswara Circle),Banswara,Udaipur Division,793527.25,7.94,8,2025-07-22
+2026_WRD_BANS_836749,NIT_75/BAN/2025-26,Water Resources Department (Banswara Circle),Banswara,Udaipur Division,232551.51,2.33,11,2025-04-07
+2026_PHED_BANS_274096,NIT_48/BAN/2025-26,Public Health Engineering Department (Banswara Circle),Banswara,Udaipur Division,773003.82,7.73,13,2026-03-26

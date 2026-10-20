@@ -1,0 +1,441 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_WRD_KHAI_845965,NIT_20/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,10095023.53,100.95,21,2025-06-26
+2026_WRD_KHAI_992603,NIT_42/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,303618.52,3.04,15,2025-04-13
+2026_DLB_KHAI_434042,NIT_31/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,191608.86,1.92,11,2025-08-13
+2026_DLB_KHAI_553980,NIT_53/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,5758289.19,57.58,22,2026-03-04
+2026_PWD_KHAI_449090,NIT_80/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1167651.78,11.68,10,2026-01-19
+2026_PWD_KHAI_417414,NIT_58/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,309713.92,3.1,13,2025-04-19
+2026_FORES_KHAI_804542,NIT_44/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,707484.87,7.07,15,2025-11-04
+2026_DLB_KHAI_841637,NIT_53/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,7026293.83,70.26,18,2025-12-07
+2026_WRD_KHAI_379626,NIT_20/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4475090.06,44.75,11,2026-03-08
+2026_WRD_KHAI_633506,NIT_24/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,5517502.93,55.18,18,2025-05-09
+2026_PHED_KHAI_491526,NIT_18/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,7325284.56,73.25,16,2025-04-05
+2026_FORES_KHAI_114100,NIT_53/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4313098.48,43.13,12,2026-01-24
+2026_FORES_KHAI_583145,NIT_90/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,848721.15,8.49,8,2026-02-08
+2026_PWD_KHAI_158894,NIT_27/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,309617.05,3.1,8,2025-07-05
+2026_PWD_KHAI_853144,NIT_21/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,153072.91,1.53,10,2025-07-17
+2026_PWD_KHAI_851807,NIT_20/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,459520.76,4.6,10,2025-11-30
+2026_UIT_KHAI_306883,NIT_73/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,3320466.84,33.2,14,2026-03-13
+2026_MEDIC_KHAI_164242,NIT_66/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1743479.43,17.43,7,2025-07-11
+2026_WRD_KHAI_250882,NIT_79/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,13140990.32,131.41,16,2025-07-06
+2026_PHED_KHAI_989838,NIT_51/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,755028.99,7.55,13,2026-02-20
+2026_UIT_KHAI_721080,NIT_47/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,3305827.37,33.06,14,2025-07-21
+2026_DLB_KHAI_363139,NIT_54/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3807911.83,38.08,14,2025-08-23
+2026_UIT_KHAI_269097,NIT_18/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,1281073.4,12.81,10,2026-02-12
+2026_UIT_KHAI_957424,NIT_65/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,1349818.54,13.5,17,2025-04-07
+2026_FORES_KHAI_807265,NIT_21/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,404718.44,4.05,12,2026-03-24
+2026_FORES_KHAI_734919,NIT_96/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,917436.88,9.17,12,2025-11-17
+2026_WRD_KHAI_878245,NIT_71/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,446354.71,4.46,14,2025-09-08
+2026_MEDIC_KHAI_881156,NIT_34/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,332489.3,3.32,12,2025-10-27
+2026_DLB_KHAI_584064,NIT_51/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,888756.82,8.89,13,2025-11-24
+2026_UIT_KHAI_586950,NIT_67/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,1622568.17,16.23,16,2025-11-01
+2026_PWD_KHAI_246205,NIT_50/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,58764277.76,587.64,35,2025-04-08
+2026_DLB_KHAI_929816,NIT_94/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4445108.66,44.45,12,2025-07-21
+2026_PWD_KHAI_117185,NIT_60/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2821080.83,28.21,13,2025-04-12
+2026_DLB_KHAI_511284,NIT_30/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,392817.7,3.93,15,2025-08-21
+2026_PHED_KHAI_299172,NIT_72/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3325593.75,33.26,16,2025-06-21
+2026_DLB_KHAI_798130,NIT_17/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,432695.53,4.33,12,2025-12-01
+2026_MEDIC_KHAI_403375,NIT_28/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,338121.94,3.38,10,2025-10-31
+2026_DLB_KHAI_113597,NIT_49/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,655206.88,6.55,11,2026-03-17
+2026_MEDIC_KHAI_549836,NIT_88/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,247477.91,2.47,11,2025-09-22
+2026_FORES_KHAI_491490,NIT_98/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,841278.03,8.41,14,2025-05-03
+2026_PWD_KHAI_568795,NIT_57/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,483600.46,4.84,12,2026-03-19
+2026_PHED_KHAI_427718,NIT_91/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,882590.33,8.83,11,2026-01-10
+2026_WRD_KHAI_705258,NIT_52/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,90134625.15,901.35,33,2026-01-29
+2026_MEDIC_KHAI_348531,NIT_41/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,540870.34,5.41,7,2025-09-08
+2026_MEDIC_KHAI_200225,NIT_59/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,750153.86,7.5,8,2025-12-27
+2026_DLB_KHAI_585164,NIT_87/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,870344.43,8.7,11,2025-05-05
+2026_DLB_KHAI_508500,NIT_34/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4017305.92,40.17,12,2025-10-04
+2026_UIT_KHAI_915539,NIT_17/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,528997.55,5.29,7,2025-09-15
+2026_WRD_KHAI_964904,NIT_89/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,536042.5,5.36,11,2025-09-11
+2026_DLB_KHAI_429429,NIT_87/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,856570.8,8.57,10,2026-01-31
+2026_MEDIC_KHAI_226209,NIT_47/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,736735.93,7.37,10,2025-12-25
+2026_UIT_KHAI_628617,NIT_46/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,348581.18,3.49,7,2025-08-31
+2026_WRD_KHAI_314161,NIT_28/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,386882.7,3.87,13,2025-05-11
+2026_WRD_KHAI_587524,NIT_28/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,507348.08,5.07,9,2026-01-30
+2026_DLB_KHAI_895304,NIT_50/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,236195.9,2.36,11,2025-07-11
+2026_FORES_KHAI_736005,NIT_68/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,377810.22,3.78,12,2025-04-09
+2026_PWD_KHAI_154970,NIT_51/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,12825536.69,128.26,21,2026-01-07
+2026_PWD_KHAI_759439,NIT_65/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3473731.19,34.74,15,2026-02-08
+2026_UIT_KHAI_897475,NIT_14/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,664896.78,6.65,7,2025-12-18
+2026_PWD_KHAI_857886,NIT_26/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,547341.29,5.47,9,2025-06-17
+2026_PWD_KHAI_648175,NIT_30/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,18173694.48,181.74,20,2025-09-21
+2026_PWD_KHAI_532686,NIT_53/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,750680.55,7.51,15,2025-05-02
+2026_MEDIC_KHAI_536577,NIT_92/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,781782.96,7.82,15,2025-05-16
+2026_UIT_KHAI_317322,NIT_67/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,1646476.71,16.46,14,2025-07-26
+2026_PHED_KHAI_159259,NIT_92/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,696817.55,6.97,10,2025-12-02
+2026_PWD_KHAI_144224,NIT_38/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,756822.19,7.57,9,2025-12-13
+2026_WRD_KHAI_438637,NIT_59/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,754770.46,7.55,7,2025-12-18
+2026_UIT_KHAI_403708,NIT_73/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,5524481.27,55.24,16,2025-04-21
+2026_PHED_KHAI_718312,NIT_14/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,317069.29,3.17,7,2025-09-26
+2026_FORES_KHAI_184543,NIT_84/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4356176.09,43.56,12,2025-10-21
+2026_PHED_KHAI_259651,NIT_78/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,21727644.55,217.28,34,2026-01-10
+2026_WRD_KHAI_635696,NIT_59/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,277890.66,2.78,11,2025-09-19
+2026_PHED_KHAI_442945,NIT_43/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,464105.95,4.64,14,2025-04-15
+2026_DLB_KHAI_732677,NIT_93/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,687477.1,6.87,10,2025-07-04
+2026_PWD_KHAI_143683,NIT_59/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,793708.65,7.94,10,2025-07-12
+2026_UIT_KHAI_697905,NIT_48/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,816343.76,8.16,11,2025-10-02
+2026_DLB_KHAI_157008,NIT_92/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,13840423.34,138.4,19,2025-07-21
+2026_MEDIC_KHAI_124969,NIT_49/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1096351.26,10.96,15,2025-07-15
+2026_DLB_KHAI_854914,NIT_59/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3749884.78,37.5,16,2026-02-03
+2026_UIT_KHAI_273284,NIT_72/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,534140.46,5.34,10,2025-05-10
+2026_MEDIC_KHAI_212471,NIT_10/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,16967003.3,169.67,19,2025-04-01
+2026_WRD_KHAI_566679,NIT_58/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,93146074.66,931.46,35,2025-07-20
+2026_FORES_KHAI_300053,NIT_64/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,15437481.51,154.37,15,2025-08-31
+2026_UIT_KHAI_136692,NIT_25/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,391640.09,3.92,10,2025-06-01
+2026_FORES_KHAI_880413,NIT_97/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4022859.47,40.23,17,2025-06-29
+2026_PWD_KHAI_218055,NIT_21/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,729847.22,7.3,15,2025-08-18
+2026_WRD_KHAI_123654,NIT_99/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,600584.52,6.01,9,2025-07-20
+2026_PWD_KHAI_516849,NIT_96/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,451940.02,4.52,13,2025-11-25
+2026_DLB_KHAI_283524,NIT_11/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3212852.57,32.13,11,2025-08-22
+2026_FORES_KHAI_395246,NIT_71/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1810119.87,18.1,14,2025-07-06
+2026_PHED_KHAI_823176,NIT_67/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,798283.14,7.98,7,2026-01-14
+2026_UIT_KHAI_998627,NIT_65/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,597155.52,5.97,10,2025-04-25
+2026_WRD_KHAI_481718,NIT_21/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,628439.26,6.28,14,2026-01-04
+2026_PHED_KHAI_491399,NIT_94/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,871456.71,8.71,15,2025-06-14
+2026_WRD_KHAI_870907,NIT_91/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,427430.2,4.27,13,2025-10-08
+2026_DLB_KHAI_464314,NIT_47/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,268106.55,2.68,14,2026-03-12
+2026_MEDIC_KHAI_527636,NIT_56/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4655199.06,46.55,14,2025-06-10
+2026_WRD_KHAI_476091,NIT_92/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,523244.14,5.23,9,2025-04-22
+2026_WRD_KHAI_630949,NIT_90/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,266040.39,2.66,9,2026-01-19
+2026_PHED_KHAI_955908,NIT_36/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,809748.4,8.1,13,2025-05-28
+2026_MEDIC_KHAI_670421,NIT_15/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,72437315.79,724.37,38,2026-03-07
+2026_PHED_KHAI_875643,NIT_39/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3615040.09,36.15,17,2025-05-30
+2026_WRD_KHAI_867405,NIT_57/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3106690.15,31.07,16,2025-07-22
+2026_MEDIC_KHAI_468191,NIT_62/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,700240.75,7.0,10,2026-02-22
+2026_FORES_KHAI_575690,NIT_29/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4178809.8,41.79,13,2025-04-01
+2026_UIT_KHAI_629018,NIT_23/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,546162.33,5.46,11,2025-08-02
+2026_UIT_KHAI_525847,NIT_48/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,4144619.84,41.45,11,2025-07-07
+2026_PWD_KHAI_117007,NIT_13/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,9281820.19,92.82,16,2025-05-05
+2026_WRD_KHAI_574584,NIT_25/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2632190.73,26.32,16,2025-04-06
+2026_FORES_KHAI_726587,NIT_48/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,9935740.31,99.36,22,2026-02-20
+2026_MEDIC_KHAI_722158,NIT_15/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3596690.33,35.97,17,2025-09-11
+2026_WRD_KHAI_132548,NIT_42/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,710505.2,7.11,13,2026-01-01
+2026_UIT_KHAI_202767,NIT_64/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,14702557.76,147.03,22,2025-04-14
+2026_DLB_KHAI_140550,NIT_72/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,757239.58,7.57,11,2026-01-04
+2026_PWD_KHAI_186994,NIT_41/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,729422.91,7.29,8,2025-11-19
+2026_DLB_KHAI_885438,NIT_53/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,343102.91,3.43,7,2025-09-13
+2026_WRD_KHAI_679470,NIT_67/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,323244.28,3.23,7,2026-03-17
+2026_PHED_KHAI_722255,NIT_96/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,774667.92,7.75,14,2025-05-06
+2026_MEDIC_KHAI_290036,NIT_69/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,369792.92,3.7,15,2026-03-01
+2026_FORES_KHAI_151081,NIT_42/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,618528.85,6.19,14,2025-06-29
+2026_DLB_KHAI_407641,NIT_30/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1199311.85,11.99,16,2025-05-27
+2026_FORES_KHAI_262315,NIT_19/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,309298.46,3.09,7,2025-10-16
+2026_UIT_KHAI_880697,NIT_93/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,874327.97,8.74,7,2025-09-02
+2026_PHED_KHAI_334275,NIT_53/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4295870.96,42.96,17,2025-07-27
+2026_FORES_KHAI_566266,NIT_99/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,908432.91,9.08,9,2025-06-11
+2026_PHED_KHAI_876319,NIT_87/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3160390.33,31.6,15,2026-03-24
+2026_DLB_KHAI_121535,NIT_77/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4416335.5,44.16,18,2025-05-25
+2026_DLB_KHAI_596666,NIT_14/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,9048850.44,90.49,16,2025-05-15
+2026_WRD_KHAI_796990,NIT_55/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2829845.68,28.3,13,2025-06-10
+2026_PWD_KHAI_125280,NIT_30/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,219102.02,2.19,10,2025-11-15
+2026_FORES_KHAI_672437,NIT_57/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3140131.78,31.4,12,2026-01-24
+2026_DLB_KHAI_221477,NIT_81/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,181804.61,1.82,11,2025-06-08
+2026_FORES_KHAI_835548,NIT_60/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,158954.9,1.59,7,2025-05-28
+2026_MEDIC_KHAI_798258,NIT_44/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3245898.19,32.46,7,2025-09-11
+2026_PHED_KHAI_603724,NIT_37/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,300933.61,3.01,14,2025-07-19
+2026_PWD_KHAI_280793,NIT_59/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3123872.04,31.24,11,2025-06-14
+2026_FORES_KHAI_233122,NIT_75/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,7206556.11,72.07,16,2026-01-15
+2026_PHED_KHAI_359069,NIT_90/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,15597109.71,155.97,18,2025-08-13
+2026_DLB_KHAI_162571,NIT_65/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,5792142.9,57.92,18,2026-03-10
+2026_FORES_KHAI_491834,NIT_60/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,509862.67,5.1,10,2025-06-05
+2026_DLB_KHAI_744764,NIT_75/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,860995.31,8.61,9,2025-08-02
+2026_MEDIC_KHAI_646579,NIT_46/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2914250.57,29.14,10,2025-10-31
+2026_PWD_KHAI_688971,NIT_20/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,713579.5,7.14,7,2025-10-07
+2026_WRD_KHAI_512370,NIT_45/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2791901.6,27.92,15,2025-09-03
+2026_UIT_KHAI_661293,NIT_87/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,2276579.13,22.77,17,2025-12-18
+2026_DLB_KHAI_504848,NIT_98/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3260854.13,32.61,12,2025-11-27
+2026_WRD_KHAI_195407,NIT_98/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,541740.43,5.42,15,2026-02-10
+2026_FORES_KHAI_165991,NIT_42/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,653297.1,6.53,11,2026-01-30
+2026_MEDIC_KHAI_338909,NIT_50/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,891455.87,8.91,10,2026-01-15
+2026_PHED_KHAI_465442,NIT_49/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,303477.23,3.03,13,2025-08-21
+2026_WRD_KHAI_726797,NIT_64/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,14441647.81,144.42,17,2026-03-19
+2026_WRD_KHAI_299193,NIT_97/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,698783.73,6.99,15,2025-09-12
+2026_PHED_KHAI_936795,NIT_69/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,615399.22,6.15,11,2026-02-21
+2026_PHED_KHAI_315727,NIT_86/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,781956.02,7.82,9,2026-02-26
+2026_UIT_KHAI_621095,NIT_57/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,1971126.8,19.71,14,2026-01-16
+2026_DLB_KHAI_663513,NIT_53/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1598774.69,15.99,14,2025-06-03
+2026_DLB_KHAI_952612,NIT_80/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,937094.05,9.37,4,2025-08-09
+2026_DLB_KHAI_576851,NIT_80/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,616866.89,6.17,13,2025-07-11
+2026_WRD_KHAI_153470,NIT_64/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,652490.18,6.52,8,2025-11-30
+2026_DLB_KHAI_505678,NIT_50/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,245555.82,2.46,12,2025-04-28
+2026_PWD_KHAI_988327,NIT_18/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2090085.08,20.9,14,2025-06-05
+2026_UIT_KHAI_200548,NIT_97/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,2637239.55,26.37,10,2025-04-06
+2026_PWD_KHAI_454005,NIT_89/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,725657.57,7.26,10,2025-07-28
+2026_PHED_KHAI_748347,NIT_87/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,606493.68,6.06,15,2025-09-29
+2026_UIT_KHAI_347843,NIT_29/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,23272452.51,232.72,32,2025-10-14
+2026_PHED_KHAI_668025,NIT_88/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,163952.46,1.64,11,2025-12-05
+2026_PWD_KHAI_200331,NIT_41/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4220183.51,42.2,17,2026-02-07
+2026_PHED_KHAI_281973,NIT_38/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,373576.55,3.74,3,2025-11-09
+2026_MEDIC_KHAI_728848,NIT_59/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,506932.16,5.07,8,2025-10-27
+2026_FORES_KHAI_565707,NIT_66/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,270308.43,2.7,13,2025-04-12
+2026_MEDIC_KHAI_902219,NIT_44/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,314103.01,3.14,13,2025-12-25
+2026_WRD_KHAI_437725,NIT_12/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,70404182.95,704.04,33,2025-10-08
+2026_PHED_KHAI_837627,NIT_19/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,630762.84,6.31,13,2025-06-26
+2026_UIT_KHAI_523631,NIT_36/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,324342.69,3.24,11,2025-08-06
+2026_FORES_KHAI_404798,NIT_39/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,453555.25,4.54,7,2026-03-18
+2026_MEDIC_KHAI_355928,NIT_92/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,708064.73,7.08,7,2025-10-17
+2026_MEDIC_KHAI_461951,NIT_56/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,454776.75,4.55,14,2025-11-04
+2026_PWD_KHAI_558607,NIT_42/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,428584.04,4.29,11,2025-12-02
+2026_PHED_KHAI_276728,NIT_38/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4251176.05,42.51,18,2025-07-10
+2026_UIT_KHAI_138056,NIT_58/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,441657.47,4.42,8,2025-06-21
+2026_PWD_KHAI_745346,NIT_99/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,592259.22,5.92,15,2025-08-09
+2026_DLB_KHAI_256268,NIT_47/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,7154549.73,71.55,17,2025-07-27
+2026_DLB_KHAI_426734,NIT_31/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,566406.38,5.66,8,2026-02-12
+2026_PWD_KHAI_700424,NIT_93/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,98526973.75,985.27,32,2025-08-26
+2026_MEDIC_KHAI_593091,NIT_64/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,865937.6,8.66,10,2026-02-03
+2026_FORES_KHAI_180790,NIT_18/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,15865141.13,158.65,23,2025-06-03
+2026_UIT_KHAI_585005,NIT_80/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,3903226.06,39.03,12,2025-12-30
+2026_PHED_KHAI_357579,NIT_11/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,9691594.47,96.92,15,2025-12-13
+2026_MEDIC_KHAI_159611,NIT_60/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,34359961.32,343.6,7,2025-06-07
+2026_PHED_KHAI_738550,NIT_57/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,609091.6,6.09,10,2025-11-19
+2026_PHED_KHAI_844708,NIT_24/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,91629539.43,916.3,30,2025-05-05
+2026_DLB_KHAI_242505,NIT_10/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,379762.0,3.8,14,2026-03-13
+2026_UIT_KHAI_514205,NIT_80/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,583175.16,5.83,15,2025-11-25
+2026_FORES_KHAI_644898,NIT_55/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,779107.78,7.79,13,2025-08-07
+2026_MEDIC_KHAI_527481,NIT_31/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,552522.04,5.53,7,2025-07-15
+2026_PWD_KHAI_728934,NIT_57/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,823556.81,8.24,13,2025-10-13
+2026_DLB_KHAI_414067,NIT_57/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1139534.44,11.4,10,2025-07-20
+2026_DLB_KHAI_912721,NIT_91/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,750278.0,7.5,9,2026-02-27
+2026_UIT_KHAI_416640,NIT_60/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,1966844.17,19.67,13,2025-11-11
+2026_WRD_KHAI_610421,NIT_61/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,11635616.87,116.36,22,2025-06-06
+2026_DLB_KHAI_153840,NIT_41/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,908180.34,9.08,8,2025-08-30
+2026_WRD_KHAI_155699,NIT_54/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,522071.53,5.22,13,2025-05-10
+2026_MEDIC_KHAI_408230,NIT_55/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,806875.37,8.07,7,2025-12-02
+2026_PWD_KHAI_469604,NIT_52/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,304783.44,3.05,9,2025-04-06
+2026_PWD_KHAI_253028,NIT_81/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,365686.89,3.66,10,2026-02-17
+2026_MEDIC_KHAI_489301,NIT_13/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,508686.93,5.09,14,2025-09-25
+2026_MEDIC_KHAI_442406,NIT_46/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,444374.03,4.44,8,2025-11-11
+2026_UIT_KHAI_611198,NIT_65/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,96600325.11,966.0,27,2026-01-06
+2026_FORES_KHAI_885317,NIT_82/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2947304.02,29.47,12,2025-10-11
+2026_WRD_KHAI_792706,NIT_66/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,735159.87,7.35,9,2025-06-12
+2026_UIT_KHAI_305871,NIT_21/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,3363278.83,33.63,13,2025-04-22
+2026_PWD_KHAI_417624,NIT_11/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,912847.73,9.13,10,2025-10-31
+2026_UIT_KHAI_966042,NIT_29/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,491529.19,4.92,10,2025-04-01
+2026_PWD_KHAI_271328,NIT_14/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2045653.83,20.46,11,2025-07-22
+2026_DLB_KHAI_273648,NIT_96/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,544785.79,5.45,14,2025-09-23
+2026_MEDIC_KHAI_863281,NIT_57/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,830475.06,8.3,11,2026-01-21
+2026_MEDIC_KHAI_674541,NIT_52/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,83520927.79,835.21,38,2026-03-16
+2026_WRD_KHAI_945350,NIT_86/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,15940486.35,159.4,21,2025-12-04
+2026_WRD_KHAI_444094,NIT_75/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2177133.56,21.77,16,2025-04-27
+2026_MEDIC_KHAI_414931,NIT_42/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1449363.01,14.49,13,2025-07-22
+2026_PHED_KHAI_586903,NIT_29/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4522693.62,45.23,18,2025-10-03
+2026_DLB_KHAI_878592,NIT_61/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,485433.22,4.85,8,2025-08-03
+2026_PHED_KHAI_753323,NIT_71/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,908793.3,9.09,12,2025-04-30
+2026_DLB_KHAI_525642,NIT_65/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,273236.75,2.73,7,2025-09-18
+2026_WRD_KHAI_223969,NIT_49/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,338545.86,3.39,14,2025-10-20
+2026_MEDIC_KHAI_324425,NIT_61/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,494084.51,4.94,10,2026-02-07
+2026_UIT_KHAI_272904,NIT_53/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,277353.6,2.77,13,2025-05-13
+2026_PWD_KHAI_186082,NIT_20/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,99823235.51,998.23,20,2025-11-06
+2026_DLB_KHAI_196799,NIT_99/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,14141982.7,141.42,12,2025-04-17
+2026_PHED_KHAI_405579,NIT_56/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3595273.97,35.95,15,2026-03-08
+2026_MEDIC_KHAI_191771,NIT_15/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,282177.25,2.82,8,2025-04-20
+2026_MEDIC_KHAI_186345,NIT_15/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,13678214.13,136.78,17,2025-10-18
+2026_UIT_KHAI_614179,NIT_23/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,363864.23,3.64,15,2025-05-07
+2026_UIT_KHAI_742501,NIT_46/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,1569810.01,15.7,14,2025-06-20
+2026_FORES_KHAI_913773,NIT_99/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,561913.16,5.62,10,2026-03-19
+2026_WRD_KHAI_133589,NIT_60/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4245586.62,42.46,17,2025-11-18
+2026_WRD_KHAI_633595,NIT_49/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,384922.62,3.85,13,2025-11-01
+2026_UIT_KHAI_346546,NIT_49/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,14394324.03,143.94,17,2025-04-19
+2026_PWD_KHAI_161601,NIT_85/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,107639021.27,1076.39,32,2025-06-16
+2026_FORES_KHAI_177009,NIT_46/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,766293.37,7.66,10,2025-12-03
+2026_DLB_KHAI_529790,NIT_25/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,893898.62,8.94,15,2026-01-26
+2026_WRD_KHAI_843556,NIT_36/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,109663374.19,1096.63,36,2025-07-08
+2026_WRD_KHAI_169264,NIT_16/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,175103.61,1.75,11,2025-10-17
+2026_PHED_KHAI_951987,NIT_73/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,11596354.47,115.96,20,2025-11-17
+2026_PHED_KHAI_955408,NIT_51/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3844804.71,38.45,15,2026-01-16
+2026_UIT_KHAI_833851,NIT_33/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,155950.96,1.56,11,2025-10-30
+2026_PWD_KHAI_610545,NIT_52/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,268534.22,2.69,10,2025-12-19
+2026_MEDIC_KHAI_619420,NIT_45/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,875845.52,8.76,13,2025-04-20
+2026_UIT_KHAI_109673,NIT_90/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,2402728.24,24.03,15,2025-09-20
+2026_PWD_KHAI_209678,NIT_71/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,767254.42,7.67,10,2025-07-18
+2026_PHED_KHAI_448670,NIT_97/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,676932.51,6.77,15,2025-08-19
+2026_MEDIC_KHAI_509668,NIT_77/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,944904.86,9.45,10,2025-11-09
+2026_UIT_KHAI_866793,NIT_15/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,2756071.88,27.56,18,2025-08-27
+2026_MEDIC_KHAI_892486,NIT_68/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,5814288.51,58.14,16,2025-11-29
+2026_UIT_KHAI_537513,NIT_69/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,111496415.38,1114.96,35,2026-01-28
+2026_PHED_KHAI_571095,NIT_43/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,390226.01,3.9,7,2025-07-27
+2026_FORES_KHAI_707716,NIT_42/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,10648413.58,106.48,6,2025-04-21
+2026_PHED_KHAI_961412,NIT_67/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1946174.88,19.46,8,2025-05-09
+2026_UIT_KHAI_942304,NIT_45/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,3057216.14,30.57,16,2025-04-09
+2026_MEDIC_KHAI_868344,NIT_91/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,99011389.73,990.11,37,2026-01-23
+2026_PHED_KHAI_660033,NIT_94/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,591887.4,5.92,10,2025-10-17
+2026_MEDIC_KHAI_860973,NIT_52/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,291789.37,2.92,7,2026-03-17
+2026_DLB_KHAI_183547,NIT_52/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,14126433.13,141.26,17,2025-08-11
+2026_PHED_KHAI_789393,NIT_47/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,687448.69,6.87,13,2025-07-14
+2026_FORES_KHAI_271869,NIT_56/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,6546939.48,65.47,23,2026-03-21
+2026_MEDIC_KHAI_770063,NIT_18/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,6251915.66,62.52,15,2025-08-01
+2026_PWD_KHAI_916489,NIT_44/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,922114.94,9.22,14,2025-09-20
+2026_PWD_KHAI_624773,NIT_78/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,11621101.72,116.21,19,2025-05-13
+2026_WRD_KHAI_927326,NIT_21/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,432592.13,4.33,10,2026-01-05
+2026_WRD_KHAI_860548,NIT_12/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,878735.95,8.79,8,2025-05-03
+2026_PHED_KHAI_252895,NIT_53/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1651274.36,16.51,18,2025-07-09
+2026_DLB_KHAI_894101,NIT_90/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,10049079.65,100.49,21,2025-05-24
+2026_UIT_KHAI_637311,NIT_61/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,319887.98,3.2,14,2026-01-26
+2026_FORES_KHAI_831229,NIT_18/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,930909.81,9.31,14,2026-01-11
+2026_UIT_KHAI_580093,NIT_59/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,2258302.52,22.58,10,2025-04-19
+2026_DLB_KHAI_297216,NIT_10/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3191022.37,31.91,15,2026-02-27
+2026_WRD_KHAI_535718,NIT_10/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4685938.99,46.86,11,2025-06-08
+2026_UIT_KHAI_200639,NIT_86/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,566411.34,5.66,9,2025-11-29
+2026_DLB_KHAI_680476,NIT_80/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,730722.94,7.31,7,2026-02-21
+2026_WRD_KHAI_357989,NIT_49/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,579665.23,5.8,7,2025-05-25
+2026_PWD_KHAI_414787,NIT_95/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,18504276.42,185.04,21,2025-06-18
+2026_WRD_KHAI_456454,NIT_62/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,935048.21,9.35,12,2025-05-09
+2026_DLB_KHAI_423365,NIT_48/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,475496.7,4.75,11,2025-09-15
+2026_PHED_KHAI_846376,NIT_21/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,107080983.61,1070.81,31,2025-10-03
+2026_PWD_KHAI_199779,NIT_43/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,764399.02,7.64,8,2025-07-03
+2026_MEDIC_KHAI_322623,NIT_84/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,100236787.2,1002.37,38,2026-01-03
+2026_UIT_KHAI_183532,NIT_80/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,4557034.91,45.57,18,2025-08-31
+2026_MEDIC_KHAI_789857,NIT_48/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,6586012.91,65.86,19,2025-11-02
+2026_PWD_KHAI_789855,NIT_52/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,365238.55,3.65,8,2025-05-19
+2026_MEDIC_KHAI_104204,NIT_23/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,863121.9,8.63,12,2025-10-25
+2026_MEDIC_KHAI_212083,NIT_43/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1645526.05,16.46,13,2025-05-12
+2026_WRD_KHAI_276559,NIT_33/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,14149103.44,141.49,15,2025-11-27
+2026_PHED_KHAI_864148,NIT_26/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1685135.94,16.85,18,2025-08-01
+2026_DLB_KHAI_105543,NIT_97/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,568380.1,5.68,10,2025-12-09
+2026_MEDIC_KHAI_349468,NIT_17/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2661461.68,26.61,16,2025-07-08
+2026_UIT_KHAI_653418,NIT_47/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,2341004.51,23.41,16,2026-01-22
+2026_WRD_KHAI_382444,NIT_41/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3361443.18,33.61,16,2025-08-09
+2026_FORES_KHAI_734656,NIT_73/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1055447.4,10.55,13,2025-08-08
+2026_FORES_KHAI_234418,NIT_83/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,7744139.47,77.44,18,2025-06-07
+2026_FORES_KHAI_142159,NIT_39/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4793043.67,47.93,11,2026-03-17
+2026_DLB_KHAI_239420,NIT_37/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,371239.26,3.71,7,2026-02-28
+2026_PHED_KHAI_852076,NIT_24/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,813976.57,8.14,5,2025-09-22
+2026_PHED_KHAI_568791,NIT_28/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,267590.04,2.68,8,2025-10-06
+2026_WRD_KHAI_531097,NIT_58/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,677616.18,6.78,14,2026-03-06
+2026_PHED_KHAI_999422,NIT_91/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,266732.38,2.67,10,2026-03-07
+2026_UIT_KHAI_794475,NIT_41/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,541930.67,5.42,13,2025-04-26
+2026_WRD_KHAI_103205,NIT_65/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,520866.01,5.21,7,2025-11-21
+2026_MEDIC_KHAI_403114,NIT_36/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,480723.48,4.81,9,2025-08-24
+2026_WRD_KHAI_285660,NIT_64/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,15812939.18,158.13,16,2026-01-26
+2026_DLB_KHAI_464739,NIT_48/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,84780751.45,847.81,34,2025-12-01
+2026_DLB_KHAI_382737,NIT_30/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,534280.23,5.34,9,2025-04-09
+2026_UIT_KHAI_345808,NIT_92/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,69104353.99,691.04,38,2026-02-23
+2026_PHED_KHAI_215159,NIT_44/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,726994.14,7.27,8,2025-08-18
+2026_UIT_KHAI_790271,NIT_76/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,789569.07,7.9,7,2025-05-03
+2026_MEDIC_KHAI_212322,NIT_40/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,869020.54,8.69,10,2026-03-09
+2026_MEDIC_KHAI_997423,NIT_88/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,609530.94,6.1,9,2026-02-16
+2026_DLB_KHAI_653991,NIT_10/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1609111.13,16.09,18,2025-11-01
+2026_MEDIC_KHAI_457875,NIT_10/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2853822.2,28.54,14,2025-11-04
+2026_WRD_KHAI_829837,NIT_44/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,618953.88,6.19,12,2025-05-20
+2026_DLB_KHAI_594775,NIT_89/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,307015.0,3.07,7,2025-09-20
+2026_WRD_KHAI_594281,NIT_40/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,575988.79,5.76,13,2026-01-13
+2026_PWD_KHAI_823233,NIT_19/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,232553.93,2.33,10,2025-10-28
+2026_UIT_KHAI_146008,NIT_36/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,523666.3,5.24,8,2025-05-23
+2026_FORES_KHAI_675215,NIT_66/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,724744.77,7.25,10,2025-07-21
+2026_WRD_KHAI_201561,NIT_14/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,8739100.24,87.39,19,2026-02-24
+2026_MEDIC_KHAI_571688,NIT_36/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,6490064.83,64.9,16,2025-08-07
+2026_UIT_KHAI_727387,NIT_78/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,747134.19,7.47,10,2025-04-23
+2026_DLB_KHAI_822465,NIT_45/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,12666836.95,126.67,15,2025-12-07
+2026_UIT_KHAI_326868,NIT_62/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,859974.62,8.6,15,2026-01-24
+2026_PHED_KHAI_703638,NIT_45/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,150074.33,1.5,12,2025-11-18
+2026_MEDIC_KHAI_829744,NIT_31/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,171519.5,1.72,7,2026-03-08
+2026_WRD_KHAI_301897,NIT_32/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4133677.59,41.34,10,2025-07-01
+2026_PHED_KHAI_967463,NIT_36/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,40566822.02,405.67,37,2025-07-25
+2026_MEDIC_KHAI_241049,NIT_14/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1492035.86,14.92,13,2025-10-05
+2026_FORES_KHAI_893341,NIT_48/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,817797.12,8.18,8,2025-06-21
+2026_DLB_KHAI_496452,NIT_10/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1692656.82,16.93,12,2026-03-17
+2026_UIT_KHAI_540775,NIT_23/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,217861.85,2.18,8,2025-06-18
+2026_DLB_KHAI_213707,NIT_65/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,8363748.35,83.64,23,2026-01-10
+2026_FORES_KHAI_656653,NIT_85/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,869180.05,8.69,12,2025-11-18
+2026_PHED_KHAI_969034,NIT_86/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,576278.23,5.76,14,2025-11-04
+2026_PHED_KHAI_740626,NIT_66/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2096907.71,20.97,13,2025-04-11
+2026_PHED_KHAI_525529,NIT_47/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2458222.98,24.58,11,2026-01-23
+2026_PWD_KHAI_935297,NIT_98/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,251423.16,2.51,15,2025-05-28
+2026_MEDIC_KHAI_602605,NIT_60/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4459998.68,44.6,12,2025-04-28
+2026_MEDIC_KHAI_288526,NIT_78/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,850639.27,8.51,10,2025-04-26
+2026_MEDIC_KHAI_999996,NIT_87/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3088764.42,30.89,18,2026-01-08
+2026_PWD_KHAI_455584,NIT_77/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,12618417.27,126.18,17,2025-07-01
+2026_PWD_KHAI_548497,NIT_72/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,16933381.17,169.33,18,2026-03-24
+2026_FORES_KHAI_193724,NIT_76/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1604333.33,16.04,16,2026-02-19
+2026_MEDIC_KHAI_184050,NIT_51/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,518719.36,5.19,12,2025-04-16
+2026_PWD_KHAI_902663,NIT_11/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,774038.05,7.74,7,2025-04-16
+2026_PWD_KHAI_438162,NIT_31/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3890844.46,38.91,11,2025-05-13
+2026_FORES_KHAI_299671,NIT_71/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,912470.92,9.12,15,2026-02-26
+2026_WRD_KHAI_160028,NIT_90/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,748777.4,7.49,9,2025-09-28
+2026_WRD_KHAI_497457,NIT_96/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,242126.05,2.42,11,2025-08-28
+2026_WRD_KHAI_267011,NIT_20/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,586620.19,5.87,15,2025-12-01
+2026_WRD_KHAI_614996,NIT_76/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4463450.99,44.63,12,2025-08-26
+2026_MEDIC_KHAI_751852,NIT_15/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,401290.91,4.01,15,2025-11-09
+2026_DLB_KHAI_127526,NIT_15/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3297043.68,32.97,6,2025-08-04
+2026_DLB_KHAI_462127,NIT_91/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,423191.32,4.23,15,2025-08-19
+2026_MEDIC_KHAI_257242,NIT_61/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,452176.94,4.52,13,2025-06-16
+2026_UIT_KHAI_382496,NIT_75/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,332275.8,3.32,7,2025-10-05
+2026_WRD_KHAI_961487,NIT_31/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,778111.93,7.78,7,2026-01-08
+2026_FORES_KHAI_141288,NIT_90/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,525815.38,5.26,10,2025-10-28
+2026_MEDIC_KHAI_997607,NIT_88/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3143483.9,31.43,10,2026-02-14
+2026_UIT_KHAI_767151,NIT_77/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,297813.14,2.98,11,2025-04-25
+2026_PWD_KHAI_510702,NIT_42/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,16721595.37,167.22,23,2025-04-03
+2026_WRD_KHAI_755966,NIT_43/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,919721.64,9.2,15,2025-11-29
+2026_DLB_KHAI_361111,NIT_76/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,305084.96,3.05,10,2025-12-27
+2026_FORES_KHAI_167282,NIT_61/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2054247.9,20.54,11,2025-06-12
+2026_FORES_KHAI_519517,NIT_89/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,692322.43,6.92,15,2026-01-18
+2026_FORES_KHAI_802016,NIT_95/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,734441.42,7.34,9,2025-04-11
+2026_PHED_KHAI_540191,NIT_26/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,444605.21,4.45,15,2025-11-07
+2026_PHED_KHAI_209149,NIT_49/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,918618.92,9.19,14,2025-04-21
+2026_UIT_KHAI_509137,NIT_47/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,18247249.28,182.47,20,2025-08-27
+2026_UIT_KHAI_144374,NIT_33/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,472623.35,4.73,12,2025-09-22
+2026_MEDIC_KHAI_816369,NIT_33/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2151874.13,21.52,10,2026-03-09
+2026_PWD_KHAI_592654,NIT_58/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,9446666.7,94.47,23,2026-01-20
+2026_UIT_KHAI_656117,NIT_74/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,883019.56,8.83,10,2025-05-26
+2026_WRD_KHAI_353171,NIT_81/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,14824205.13,148.24,19,2025-09-17
+2026_FORES_KHAI_240775,NIT_69/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,638076.19,6.38,12,2025-04-20
+2026_WRD_KHAI_820190,NIT_91/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,26694819.5,266.95,33,2025-07-16
+2026_UIT_KHAI_963961,NIT_55/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,305463.13,3.05,12,2025-06-02
+2026_DLB_KHAI_863836,NIT_38/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4075143.72,40.75,11,2025-05-19
+2026_FORES_KHAI_728993,NIT_68/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,570969.13,5.71,8,2026-01-04
+2026_PWD_KHAI_735915,NIT_35/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,342877.06,3.43,10,2025-12-09
+2026_PHED_KHAI_241250,NIT_61/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3465105.88,34.65,10,2025-10-26
+2026_UIT_KHAI_136445,NIT_19/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,4635789.72,46.36,18,2025-12-11
+2026_UIT_KHAI_443346,NIT_59/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,226246.23,2.26,13,2026-01-08
+2026_FORES_KHAI_649950,NIT_11/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,158537.55,1.59,7,2025-04-16
+2026_MEDIC_KHAI_211931,NIT_52/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3969873.81,39.7,12,2026-01-31
+2026_MEDIC_KHAI_113757,NIT_41/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3631487.61,36.31,17,2025-08-14
+2026_FORES_KHAI_397427,NIT_86/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,32850393.62,328.5,30,2026-02-12
+2026_FORES_KHAI_324082,NIT_60/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2429643.17,24.3,12,2025-04-30
+2026_PWD_KHAI_426346,NIT_87/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,28020356.07,280.2,34,2025-05-26
+2026_MEDIC_KHAI_406439,NIT_38/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1917560.66,19.18,15,2025-04-14
+2026_MEDIC_KHAI_246059,NIT_62/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,305764.74,3.06,9,2025-07-20
+2026_MEDIC_KHAI_731205,NIT_74/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,268305.86,2.68,11,2025-09-19
+2026_WRD_KHAI_538586,NIT_19/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,1395842.78,13.96,14,2025-06-06
+2026_MEDIC_KHAI_662146,NIT_62/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4577503.97,45.78,15,2026-02-17
+2026_PWD_KHAI_915811,NIT_53/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,340118.92,3.4,13,2025-11-09
+2026_UIT_KHAI_879885,NIT_15/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,565471.4,5.65,9,2025-11-05
+2026_UIT_KHAI_987658,NIT_12/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,113945676.54,1139.46,30,2025-12-23
+2026_PHED_KHAI_478873,NIT_59/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,468264.25,4.68,7,2025-10-15
+2026_PHED_KHAI_818178,NIT_68/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,208143.53,2.08,10,2025-05-22
+2026_PHED_KHAI_904881,NIT_37/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,353221.54,3.53,7,2025-11-07
+2026_MEDIC_KHAI_677022,NIT_33/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,498992.37,4.99,14,2025-11-04
+2026_UIT_KHAI_688640,NIT_92/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,871934.29,8.72,15,2025-08-14
+2026_WRD_KHAI_886078,NIT_15/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,242662.85,2.43,15,2025-04-03
+2026_UIT_KHAI_653448,NIT_67/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,774194.61,7.74,10,2025-12-01
+2026_UIT_KHAI_799512,NIT_80/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,3812467.94,38.12,16,2025-04-24
+2026_PHED_KHAI_345101,NIT_92/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,449442.08,4.49,7,2025-05-23
+2026_FORES_KHAI_488563,NIT_67/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,14737287.33,147.37,3,2025-12-16
+2026_WRD_KHAI_691881,NIT_84/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,14964151.61,149.64,17,2025-04-09
+2026_FORES_KHAI_575118,NIT_42/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,616319.29,6.16,13,2026-02-14
+2026_MEDIC_KHAI_947322,NIT_58/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4310924.97,43.11,18,2026-02-23
+2026_MEDIC_KHAI_896387,NIT_86/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,746815.21,7.47,14,2025-05-16
+2026_MEDIC_KHAI_409904,NIT_28/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,12586651.51,125.87,18,2025-06-15
+2026_WRD_KHAI_692801,NIT_23/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,385526.0,3.86,11,2026-01-17
+2026_MEDIC_KHAI_930785,NIT_34/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,4624831.81,46.25,11,2025-07-04
+2026_UIT_KHAI_918240,NIT_38/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,2154118.71,21.54,16,2025-10-24
+2026_MEDIC_KHAI_687043,NIT_17/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,476255.28,4.76,15,2025-11-29
+2026_PHED_KHAI_517326,NIT_91/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,244173.33,2.44,7,2026-02-23
+2026_DLB_KHAI_282362,NIT_37/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,2210631.59,22.11,13,2025-12-23
+2026_MEDIC_KHAI_331103,NIT_51/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3563049.6,35.63,15,2026-02-27
+2026_PHED_KHAI_645478,NIT_27/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,675807.34,6.76,7,2025-08-24
+2026_UIT_KHAI_103221,NIT_54/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,4650077.02,46.5,11,2025-06-12
+2026_FORES_KHAI_693774,NIT_88/KHA/2025-26,Forest Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,497318.57,4.97,9,2025-10-25
+2026_MEDIC_KHAI_900173,NIT_55/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,3091876.59,30.92,14,2025-05-18
+2026_UIT_KHAI_677360,NIT_58/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,608330.62,6.08,8,2025-07-20
+2026_PWD_KHAI_689083,NIT_71/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,16360641.52,163.61,5,2025-07-07
+2026_UIT_KHAI_654177,NIT_50/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,607205.61,6.07,8,2025-08-07
+2026_UIT_KHAI_301369,NIT_44/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,468936.39,4.69,11,2025-12-17
+2026_WRD_KHAI_756451,NIT_15/KHA/2025-26,Water Resources Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,833709.54,8.34,9,2025-12-01
+2026_UIT_KHAI_334602,NIT_10/KHA/2025-26,Municipal Council Khairthal-Tijara,Khairthal-Tijara,Jaipur Division,155210.67,1.55,13,2026-02-02
+2026_DLB_KHAI_508196,NIT_18/KHA/2025-26,Directorate of Local Bodies (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,948754.79,9.49,13,2025-12-14
+2026_PHED_KHAI_178702,NIT_20/KHA/2025-26,Public Health Engineering Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,684652.04,6.85,12,2025-04-14
+2026_PWD_KHAI_169439,NIT_58/KHA/2025-26,Public Works Department (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,12483810.8,124.84,19,2026-02-17
+2026_MEDIC_KHAI_176716,NIT_51/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,193458.83,1.93,9,2026-02-17
+2026_MEDIC_KHAI_305415,NIT_84/KHA/2025-26,Department of Medical Education (Khairthal-Tijara Circle),Khairthal-Tijara,Jaipur Division,909538.97,9.1,9,2025-04-26

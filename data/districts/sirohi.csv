@@ -1,0 +1,459 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_UIT_SIRO_742074,NIT_71/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,227347.75,2.27,12,2025-07-26
+2026_PHED_SIRO_958456,NIT_41/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,859731.2,8.6,14,2025-06-24
+2026_MEDIC_SIRO_553127,NIT_88/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,523922.54,5.24,7,2025-07-15
+2026_UIT_SIRO_763938,NIT_48/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,43402374.85,434.02,35,2026-01-03
+2026_FORES_SIRO_473235,NIT_80/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,15093787.99,150.94,23,2025-12-16
+2026_PWD_SIRO_978569,NIT_70/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,559388.3,5.59,9,2025-05-30
+2026_WRD_SIRO_700506,NIT_85/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,1625423.95,16.25,13,2025-11-20
+2026_DLB_SIRO_330257,NIT_75/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,252050.86,2.52,7,2025-07-17
+2026_PHED_SIRO_223233,NIT_30/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,283903.3,2.84,12,2025-08-14
+2026_MEDIC_SIRO_142946,NIT_66/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,1101675.28,11.02,11,2025-09-07
+2026_FORES_SIRO_873644,NIT_77/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,324674.64,3.25,14,2025-09-06
+2026_DLB_SIRO_594507,NIT_73/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,46327993.65,463.28,36,2025-10-28
+2026_UIT_SIRO_899350,NIT_55/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,2558312.64,25.58,5,2025-10-11
+2026_FORES_SIRO_246013,NIT_30/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,833845.85,8.34,9,2025-06-01
+2026_UIT_SIRO_289776,NIT_97/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3468820.63,34.69,13,2025-12-14
+2026_DLB_SIRO_663279,NIT_31/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,534609.09,5.35,14,2025-06-08
+2026_DLB_SIRO_374127,NIT_37/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,628957.4,6.29,7,2025-09-01
+2026_FORES_SIRO_917100,NIT_56/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,665077.58,6.65,13,2026-01-17
+2026_PHED_SIRO_794427,NIT_14/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,870107.16,8.7,13,2025-04-17
+2026_WRD_SIRO_669461,NIT_55/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,4757014.0,47.57,13,2025-08-08
+2026_FORES_SIRO_377478,NIT_36/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,948785.02,9.49,11,2026-01-22
+2026_MEDIC_SIRO_196020,NIT_24/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,4674700.03,46.75,16,2025-09-27
+2026_PWD_SIRO_261501,NIT_43/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,1729933.48,17.3,16,2025-07-30
+2026_DLB_SIRO_684403,NIT_97/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,220678.59,2.21,7,2025-09-05
+2026_MEDIC_SIRO_844825,NIT_38/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,16092127.44,160.92,16,2025-05-13
+2026_FORES_SIRO_530723,NIT_53/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,613507.36,6.14,15,2026-02-15
+2026_FORES_SIRO_490355,NIT_83/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,895640.66,8.96,10,2025-12-12
+2026_MEDIC_SIRO_891366,NIT_35/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,887116.86,8.87,13,2025-07-09
+2026_FORES_SIRO_513010,NIT_53/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,610960.45,6.11,13,2025-11-23
+2026_DLB_SIRO_644910,NIT_73/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,530992.76,5.31,10,2025-10-02
+2026_UIT_SIRO_686153,NIT_64/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,1319634.77,13.2,14,2025-05-16
+2026_DLB_SIRO_369314,NIT_86/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,208379.0,2.08,15,2025-04-13
+2026_MEDIC_SIRO_784046,NIT_79/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,789557.88,7.9,14,2025-06-06
+2026_PHED_SIRO_310222,NIT_87/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,81086279.01,810.86,36,2025-05-29
+2026_WRD_SIRO_128907,NIT_14/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,1402413.24,14.02,11,2025-09-19
+2026_WRD_SIRO_651225,NIT_10/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,9447884.05,94.48,19,2025-12-12
+2026_MEDIC_SIRO_263875,NIT_19/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,359238.81,3.59,7,2025-05-15
+2026_PWD_SIRO_861394,NIT_77/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,4615353.64,46.15,16,2025-08-07
+2026_UIT_SIRO_582627,NIT_87/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,5455964.75,54.56,16,2025-09-23
+2026_DLB_SIRO_335061,NIT_77/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,3530552.07,35.31,17,2026-02-08
+2026_MEDIC_SIRO_499392,NIT_69/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,3548650.2,35.49,12,2025-04-19
+2026_MEDIC_SIRO_808401,NIT_60/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,244537.17,2.45,10,2025-11-21
+2026_PHED_SIRO_553350,NIT_49/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,328976.79,3.29,12,2025-12-17
+2026_UIT_SIRO_505750,NIT_82/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,602723.23,6.03,11,2025-10-03
+2026_MEDIC_SIRO_591753,NIT_23/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,681658.44,6.82,12,2025-10-03
+2026_FORES_SIRO_565495,NIT_89/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,7897475.7,78.97,15,2025-05-31
+2026_PWD_SIRO_814384,NIT_52/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,396603.57,3.97,14,2026-03-13
+2026_DLB_SIRO_315589,NIT_90/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,101029072.86,1010.29,30,2026-01-26
+2026_DLB_SIRO_632651,NIT_53/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,61223789.71,612.24,38,2025-11-02
+2026_UIT_SIRO_165888,NIT_14/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,892317.84,8.92,14,2025-07-12
+2026_WRD_SIRO_625288,NIT_58/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,939048.07,9.39,11,2025-07-18
+2026_FORES_SIRO_303997,NIT_62/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,8978531.85,89.79,21,2025-07-12
+2026_PHED_SIRO_613804,NIT_60/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,104126054.55,1041.26,35,2026-01-30
+2026_DLB_SIRO_947747,NIT_43/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,738281.51,7.38,13,2025-10-15
+2026_MEDIC_SIRO_371877,NIT_84/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,656410.59,6.56,8,2025-09-26
+2026_WRD_SIRO_982858,NIT_90/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,797318.81,7.97,14,2025-08-08
+2026_UIT_SIRO_435246,NIT_92/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,1185295.9,11.85,14,2025-04-13
+2026_UIT_SIRO_482252,NIT_40/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,504146.84,5.04,7,2026-01-12
+2026_FORES_SIRO_386149,NIT_96/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,4169061.09,41.69,16,2025-09-09
+2026_PHED_SIRO_772853,NIT_89/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,356958.61,3.57,10,2025-11-12
+2026_UIT_SIRO_954318,NIT_54/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,373726.17,3.74,7,2025-12-03
+2026_MEDIC_SIRO_107645,NIT_57/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,333657.66,3.34,15,2025-10-08
+2026_DLB_SIRO_708536,NIT_34/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,299223.75,2.99,10,2025-10-26
+2026_MEDIC_SIRO_498222,NIT_48/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,930814.3,9.31,11,2025-04-15
+2026_DLB_SIRO_332166,NIT_68/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,317225.52,3.17,11,2025-05-15
+2026_WRD_SIRO_101371,NIT_59/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,324738.72,3.25,11,2025-04-16
+2026_WRD_SIRO_208380,NIT_15/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,791732.48,7.92,13,2025-10-02
+2026_MEDIC_SIRO_341655,NIT_78/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,511564.51,5.12,10,2025-07-13
+2026_WRD_SIRO_513734,NIT_69/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,48832133.16,488.32,36,2025-11-08
+2026_FORES_SIRO_139156,NIT_41/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,324728.42,3.25,9,2025-12-05
+2026_PHED_SIRO_962177,NIT_83/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,645464.91,6.45,12,2026-01-30
+2026_PHED_SIRO_920573,NIT_16/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,3707670.88,37.08,14,2025-05-06
+2026_PWD_SIRO_193100,NIT_12/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,38724887.42,387.25,38,2025-05-27
+2026_FORES_SIRO_725291,NIT_51/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,241987.75,2.42,15,2025-08-13
+2026_MEDIC_SIRO_583900,NIT_70/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,3171680.52,31.72,18,2025-07-10
+2026_PHED_SIRO_975064,NIT_12/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,2651685.75,26.52,13,2025-09-12
+2026_DLB_SIRO_787132,NIT_57/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,2060968.63,20.61,18,2026-01-28
+2026_PHED_SIRO_996546,NIT_53/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,168341.52,1.68,12,2026-03-09
+2026_UIT_SIRO_905866,NIT_92/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3623467.38,36.23,12,2025-11-26
+2026_PWD_SIRO_861475,NIT_61/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,838573.92,8.39,13,2025-11-27
+2026_PWD_SIRO_604244,NIT_20/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,3436908.47,34.37,18,2026-03-15
+2026_PWD_SIRO_267688,NIT_86/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,1733750.29,17.34,16,2025-05-19
+2026_UIT_SIRO_329031,NIT_82/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,237829.91,2.38,14,2025-08-08
+2026_WRD_SIRO_727280,NIT_92/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,13317845.79,133.18,16,2026-03-25
+2026_FORES_SIRO_317161,NIT_41/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,548583.52,5.49,14,2025-04-05
+2026_WRD_SIRO_827107,NIT_74/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,15943320.02,159.43,12,2025-05-04
+2026_UIT_SIRO_147049,NIT_90/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,792115.65,7.92,12,2025-05-31
+2026_PWD_SIRO_958437,NIT_64/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,363862.5,3.64,14,2025-12-27
+2026_PHED_SIRO_898335,NIT_78/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,694584.28,6.95,15,2025-08-16
+2026_MEDIC_SIRO_305812,NIT_11/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,43571804.73,435.72,37,2025-07-19
+2026_DLB_SIRO_444523,NIT_94/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,377798.62,3.78,11,2025-08-13
+2026_MEDIC_SIRO_235576,NIT_71/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,297762.22,2.98,7,2025-07-06
+2026_PWD_SIRO_573627,NIT_80/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,845307.97,8.45,13,2025-08-10
+2026_PHED_SIRO_875272,NIT_20/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,2655084.91,26.55,15,2026-02-14
+2026_MEDIC_SIRO_968881,NIT_44/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,908532.26,9.09,7,2026-01-08
+2026_MEDIC_SIRO_791000,NIT_83/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,870800.06,8.71,10,2025-04-13
+2026_PHED_SIRO_295234,NIT_90/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,176939.45,1.77,12,2025-11-10
+2026_PWD_SIRO_985775,NIT_53/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,273612.07,2.74,7,2025-06-03
+2026_FORES_SIRO_479168,NIT_30/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,315378.11,3.15,7,2025-06-06
+2026_MEDIC_SIRO_727170,NIT_94/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,647960.51,6.48,10,2025-04-11
+2026_MEDIC_SIRO_962475,NIT_31/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,4463454.36,44.63,16,2025-09-28
+2026_WRD_SIRO_103373,NIT_41/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,173481.29,1.73,8,2025-09-28
+2026_WRD_SIRO_944202,NIT_17/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,793448.45,7.93,10,2025-06-23
+2026_PWD_SIRO_223181,NIT_28/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,843105.45,8.43,12,2025-07-20
+2026_PWD_SIRO_685552,NIT_51/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,21433536.19,214.34,38,2025-06-11
+2026_FORES_SIRO_140875,NIT_98/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,105578020.77,1055.78,30,2025-09-02
+2026_MEDIC_SIRO_230490,NIT_98/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,5648950.9,56.49,20,2025-08-31
+2026_MEDIC_SIRO_401869,NIT_67/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,324011.62,3.24,14,2025-12-05
+2026_MEDIC_SIRO_568787,NIT_36/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,619530.23,6.2,9,2025-08-17
+2026_UIT_SIRO_851504,NIT_52/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,660467.8,6.6,15,2025-05-24
+2026_WRD_SIRO_999700,NIT_20/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,578627.3,5.79,10,2025-12-20
+2026_UIT_SIRO_244790,NIT_65/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,895438.12,8.95,12,2025-05-21
+2026_MEDIC_SIRO_459971,NIT_33/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,4315585.21,43.16,17,2026-03-18
+2026_DLB_SIRO_911603,NIT_77/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,16011506.21,160.12,20,2026-01-28
+2026_PWD_SIRO_355515,NIT_16/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,18128671.38,181.29,20,2025-09-03
+2026_WRD_SIRO_877772,NIT_74/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,512786.1,5.13,12,2025-04-08
+2026_UIT_SIRO_843028,NIT_47/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,2971870.33,29.72,11,2025-09-14
+2026_FORES_SIRO_131928,NIT_75/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,607686.88,6.08,11,2025-10-26
+2026_FORES_SIRO_404591,NIT_15/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,339861.67,3.4,14,2025-10-29
+2026_MEDIC_SIRO_478653,NIT_54/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,3989453.6,39.89,13,2025-10-06
+2026_UIT_SIRO_448799,NIT_75/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,558623.71,5.59,15,2025-06-08
+2026_FORES_SIRO_259953,NIT_67/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,500911.43,5.01,14,2025-11-18
+2026_FORES_SIRO_620778,NIT_73/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,367207.52,3.67,9,2025-10-07
+2026_WRD_SIRO_842433,NIT_25/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,1523216.36,15.23,12,2025-08-26
+2026_FORES_SIRO_715298,NIT_41/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,2859478.12,28.59,10,2025-04-09
+2026_DLB_SIRO_165141,NIT_46/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,849332.67,8.49,11,2026-01-06
+2026_UIT_SIRO_425624,NIT_82/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,14694247.71,146.94,16,2025-11-10
+2026_DLB_SIRO_239011,NIT_35/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,692195.53,6.92,13,2026-03-04
+2026_UIT_SIRO_612312,NIT_25/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,273230.41,2.73,10,2025-09-23
+2026_PWD_SIRO_276953,NIT_67/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,2665971.68,26.66,10,2025-10-10
+2026_WRD_SIRO_229944,NIT_29/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,4467249.67,44.67,17,2025-06-15
+2026_FORES_SIRO_606121,NIT_60/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,56684239.57,566.84,35,2025-05-28
+2026_FORES_SIRO_758102,NIT_35/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,371044.02,3.71,7,2025-04-29
+2026_WRD_SIRO_396660,NIT_56/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,2311462.45,23.11,14,2025-09-28
+2026_WRD_SIRO_752724,NIT_53/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,4378988.15,43.79,16,2025-07-05
+2026_PWD_SIRO_544557,NIT_81/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,18397097.9,183.97,22,2026-03-25
+2026_UIT_SIRO_901415,NIT_63/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,481808.99,4.82,12,2025-04-04
+2026_WRD_SIRO_942565,NIT_84/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,1393716.79,13.94,10,2025-08-29
+2026_PHED_SIRO_183317,NIT_70/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,1382979.1,13.83,17,2026-01-12
+2026_WRD_SIRO_903165,NIT_30/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,224791.77,2.25,14,2026-01-24
+2026_PHED_SIRO_333903,NIT_60/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,594790.41,5.95,10,2025-05-06
+2026_FORES_SIRO_813000,NIT_63/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,178837.45,1.79,15,2025-12-16
+2026_MEDIC_SIRO_467274,NIT_92/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,3597062.87,35.97,10,2025-10-06
+2026_WRD_SIRO_928433,NIT_80/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,7917268.83,79.17,4,2025-10-07
+2026_UIT_SIRO_314548,NIT_32/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,1213914.27,12.14,10,2025-04-17
+2026_MEDIC_SIRO_842562,NIT_34/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,3622396.57,36.22,13,2026-01-18
+2026_DLB_SIRO_354797,NIT_73/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,619948.41,6.2,7,2026-03-07
+2026_FORES_SIRO_347677,NIT_79/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,598413.02,5.98,9,2026-03-02
+2026_PWD_SIRO_686780,NIT_78/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,641950.6,6.42,11,2025-11-17
+2026_MEDIC_SIRO_204165,NIT_62/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,768339.86,7.68,10,2025-08-18
+2026_UIT_SIRO_943458,NIT_27/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,741318.59,7.41,11,2025-12-19
+2026_FORES_SIRO_197208,NIT_33/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,385156.94,3.85,13,2025-11-09
+2026_WRD_SIRO_604086,NIT_45/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,269119.44,2.69,11,2025-08-19
+2026_UIT_SIRO_131442,NIT_42/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,520480.02,5.2,9,2025-12-10
+2026_MEDIC_SIRO_960284,NIT_65/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,475172.06,4.75,12,2025-12-22
+2026_PWD_SIRO_816281,NIT_98/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,589732.91,5.9,11,2025-08-18
+2026_MEDIC_SIRO_693995,NIT_31/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,398880.07,3.99,8,2025-09-04
+2026_WRD_SIRO_502676,NIT_88/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,8197727.83,81.98,20,2025-08-06
+2026_PWD_SIRO_949738,NIT_51/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,9757880.51,97.58,17,2025-07-10
+2026_MEDIC_SIRO_392708,NIT_11/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,4580806.42,45.81,10,2026-01-10
+2026_MEDIC_SIRO_944317,NIT_58/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,364615.18,3.65,13,2025-10-17
+2026_DLB_SIRO_800104,NIT_76/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,1289536.63,12.9,18,2025-07-03
+2026_UIT_SIRO_245862,NIT_83/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,15984731.7,159.85,17,2025-08-15
+2026_DLB_SIRO_687396,NIT_72/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,1565140.88,15.65,13,2025-11-26
+2026_PHED_SIRO_341595,NIT_72/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,715602.05,7.16,7,2025-10-16
+2026_FORES_SIRO_846899,NIT_18/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,1814072.35,18.14,14,2025-12-23
+2026_WRD_SIRO_619855,NIT_74/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,8575584.03,85.76,20,2026-01-25
+2026_DLB_SIRO_819832,NIT_51/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,3584173.2,35.84,16,2026-02-28
+2026_UIT_SIRO_798440,NIT_57/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,4146280.14,41.46,16,2026-01-13
+2026_FORES_SIRO_102232,NIT_16/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,859353.91,8.59,9,2025-10-20
+2026_FORES_SIRO_884975,NIT_71/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,671326.83,6.71,11,2026-02-03
+2026_WRD_SIRO_325271,NIT_63/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,882390.76,8.82,7,2025-10-06
+2026_DLB_SIRO_212586,NIT_42/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,4657983.05,46.58,14,2025-08-08
+2026_PHED_SIRO_144366,NIT_17/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,383471.47,3.83,15,2025-11-07
+2026_DLB_SIRO_362206,NIT_68/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,722287.09,7.22,9,2025-04-26
+2026_PHED_SIRO_441623,NIT_20/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,655257.74,6.55,15,2025-09-25
+2026_FORES_SIRO_789330,NIT_12/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,793573.24,7.94,8,2025-07-30
+2026_PHED_SIRO_431977,NIT_80/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,405603.61,4.06,11,2025-07-06
+2026_PHED_SIRO_973417,NIT_33/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,3710896.67,37.11,17,2025-11-03
+2026_DLB_SIRO_844717,NIT_36/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,1748125.41,17.48,10,2025-08-21
+2026_PHED_SIRO_317272,NIT_36/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,588373.83,5.88,5,2025-12-15
+2026_MEDIC_SIRO_181181,NIT_72/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,184574.21,1.85,9,2026-02-03
+2026_PWD_SIRO_654429,NIT_44/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,429657.38,4.3,11,2026-01-23
+2026_UIT_SIRO_903861,NIT_62/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,10193523.08,101.94,17,2025-11-29
+2026_PWD_SIRO_837453,NIT_33/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,431077.74,4.31,8,2025-05-28
+2026_UIT_SIRO_404015,NIT_37/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,403224.01,4.03,10,2025-04-23
+2026_WRD_SIRO_106542,NIT_90/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,537184.0,5.37,12,2025-06-03
+2026_PHED_SIRO_142098,NIT_64/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,1338040.16,13.38,12,2025-06-11
+2026_PWD_SIRO_520954,NIT_80/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,13309900.93,133.1,18,2025-11-22
+2026_PWD_SIRO_396239,NIT_67/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,8501053.4,85.01,18,2025-05-13
+2026_MEDIC_SIRO_232392,NIT_66/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,2107514.33,21.08,12,2025-10-29
+2026_DLB_SIRO_531209,NIT_54/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,468514.76,4.69,10,2025-07-13
+2026_DLB_SIRO_190647,NIT_62/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,924417.44,9.24,7,2025-11-01
+2026_UIT_SIRO_252615,NIT_42/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,512951.33,5.13,9,2025-11-02
+2026_DLB_SIRO_245590,NIT_16/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,689561.73,6.9,14,2025-04-30
+2026_PHED_SIRO_576781,NIT_50/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,240187.69,2.4,3,2026-03-17
+2026_DLB_SIRO_676569,NIT_72/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,183335.43,1.83,12,2025-11-23
+2026_PWD_SIRO_910131,NIT_19/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,927177.0,9.27,15,2025-05-17
+2026_UIT_SIRO_501679,NIT_68/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,107080545.87,1070.81,33,2025-10-04
+2026_UIT_SIRO_934394,NIT_34/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3203811.04,32.04,13,2025-04-09
+2026_FORES_SIRO_488576,NIT_44/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,12510207.19,125.1,16,2025-11-01
+2026_WRD_SIRO_596060,NIT_17/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,4411441.8,44.11,13,2025-06-14
+2026_UIT_SIRO_213532,NIT_77/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,331761.71,3.32,9,2025-10-20
+2026_FORES_SIRO_377942,NIT_62/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,3862035.66,38.62,15,2025-05-27
+2026_MEDIC_SIRO_125742,NIT_28/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,726595.31,7.27,8,2025-09-13
+2026_FORES_SIRO_419586,NIT_79/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,2941590.94,29.42,11,2025-04-26
+2026_MEDIC_SIRO_332110,NIT_34/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,377546.55,3.78,10,2025-07-24
+2026_DLB_SIRO_312947,NIT_40/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,21644805.63,216.45,34,2025-07-09
+2026_DLB_SIRO_834587,NIT_16/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,152318.52,1.52,11,2025-06-01
+2026_DLB_SIRO_908524,NIT_43/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,336629.8,3.37,7,2026-02-22
+2026_FORES_SIRO_253849,NIT_22/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,16050798.31,160.51,7,2025-11-12
+2026_PWD_SIRO_216726,NIT_33/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,422807.23,4.23,9,2026-01-08
+2026_FORES_SIRO_975219,NIT_38/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,4284781.49,42.85,17,2025-05-18
+2026_DLB_SIRO_773126,NIT_79/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,2452920.08,24.53,17,2025-10-11
+2026_MEDIC_SIRO_566039,NIT_57/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,5707979.83,57.08,18,2026-03-19
+2026_UIT_SIRO_690143,NIT_40/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,24022134.04,240.22,35,2025-10-03
+2026_UIT_SIRO_718305,NIT_20/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,97670742.46,976.71,33,2026-02-28
+2026_PWD_SIRO_611837,NIT_85/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,319505.88,3.2,11,2026-02-24
+2026_DLB_SIRO_129286,NIT_76/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,13509782.67,135.1,15,2025-10-15
+2026_WRD_SIRO_838414,NIT_90/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,2160057.32,21.6,15,2025-06-16
+2026_FORES_SIRO_450275,NIT_83/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,1809869.45,18.1,17,2025-04-11
+2026_FORES_SIRO_621627,NIT_58/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,842003.46,8.42,3,2025-10-18
+2026_PHED_SIRO_112949,NIT_70/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,3067442.51,30.67,16,2025-06-15
+2026_FORES_SIRO_856273,NIT_33/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,65566510.24,655.67,36,2025-04-14
+2026_UIT_SIRO_234920,NIT_90/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,14275542.71,142.76,16,2025-06-02
+2026_MEDIC_SIRO_557294,NIT_75/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,838592.78,8.39,8,2025-04-14
+2026_MEDIC_SIRO_926222,NIT_38/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,498804.24,4.99,5,2026-01-27
+2026_WRD_SIRO_985330,NIT_83/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,152790.53,1.53,14,2025-04-26
+2026_PWD_SIRO_305840,NIT_27/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,12094399.16,120.94,15,2025-09-24
+2026_UIT_SIRO_941237,NIT_95/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3551169.09,35.51,17,2025-12-08
+2026_UIT_SIRO_619846,NIT_16/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,217701.47,2.18,14,2025-06-08
+2026_FORES_SIRO_504432,NIT_74/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,253553.74,2.54,8,2026-01-14
+2026_WRD_SIRO_547534,NIT_92/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,674830.35,6.75,13,2025-09-04
+2026_DLB_SIRO_129539,NIT_72/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,509678.51,5.1,12,2025-10-17
+2026_FORES_SIRO_936928,NIT_82/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,14664684.28,146.65,17,2025-04-19
+2026_WRD_SIRO_955590,NIT_25/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,4691003.92,46.91,13,2026-01-17
+2026_FORES_SIRO_795096,NIT_68/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,787664.46,7.88,9,2025-09-28
+2026_PWD_SIRO_151073,NIT_73/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,435539.55,4.36,11,2025-12-25
+2026_DLB_SIRO_770000,NIT_70/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,301309.38,3.01,15,2025-06-06
+2026_FORES_SIRO_218495,NIT_72/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,92966895.0,929.67,34,2025-12-12
+2026_DLB_SIRO_736708,NIT_40/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,449052.73,4.49,12,2026-03-02
+2026_MEDIC_SIRO_421802,NIT_37/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,579637.58,5.8,14,2025-06-03
+2026_PHED_SIRO_467701,NIT_28/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,768417.02,7.68,10,2025-05-02
+2026_FORES_SIRO_498423,NIT_42/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,2646696.58,26.47,12,2025-10-13
+2026_UIT_SIRO_614748,NIT_24/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3214990.02,32.15,13,2025-07-17
+2026_WRD_SIRO_350583,NIT_96/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,1190893.93,11.91,13,2026-01-10
+2026_DLB_SIRO_683859,NIT_37/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,181684.44,1.82,15,2025-06-07
+2026_MEDIC_SIRO_936598,NIT_71/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,449128.84,4.49,12,2025-07-01
+2026_DLB_SIRO_823041,NIT_31/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,192610.63,1.93,11,2026-01-07
+2026_DLB_SIRO_365899,NIT_71/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,2940678.05,29.41,18,2025-06-20
+2026_DLB_SIRO_719593,NIT_95/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,621387.01,6.21,12,2025-06-02
+2026_DLB_SIRO_341967,NIT_83/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,4700829.38,47.01,12,2026-01-22
+2026_PHED_SIRO_186721,NIT_66/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,14098089.83,140.98,15,2025-08-04
+2026_MEDIC_SIRO_782646,NIT_45/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,14662109.27,146.62,15,2025-09-09
+2026_WRD_SIRO_605786,NIT_98/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,678133.39,6.78,8,2025-11-21
+2026_WRD_SIRO_313741,NIT_19/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,881702.64,8.82,10,2025-09-02
+2026_FORES_SIRO_434773,NIT_36/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,429793.73,4.3,8,2025-05-06
+2026_FORES_SIRO_446476,NIT_73/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,2368943.99,23.69,12,2025-11-22
+2026_PHED_SIRO_152600,NIT_89/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,8949099.91,89.49,6,2025-10-12
+2026_MEDIC_SIRO_835921,NIT_57/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,510565.86,5.11,13,2025-07-05
+2026_MEDIC_SIRO_369045,NIT_35/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,309573.81,3.1,15,2025-10-11
+2026_UIT_SIRO_929414,NIT_68/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,18675432.32,186.75,20,2025-04-09
+2026_DLB_SIRO_700446,NIT_44/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,8344043.6,83.44,19,2025-08-15
+2026_UIT_SIRO_211311,NIT_17/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,778679.51,7.79,11,2025-06-14
+2026_UIT_SIRO_610430,NIT_85/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,2827287.27,28.27,15,2025-08-21
+2026_UIT_SIRO_712930,NIT_29/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,241785.67,2.42,8,2025-12-25
+2026_UIT_SIRO_174452,NIT_74/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,586558.01,5.87,13,2026-02-07
+2026_MEDIC_SIRO_772662,NIT_24/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,8154964.89,81.55,18,2025-10-07
+2026_DLB_SIRO_436550,NIT_36/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,12495637.37,124.96,16,2025-05-22
+2026_PWD_SIRO_440735,NIT_73/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,1190938.96,11.91,17,2025-10-07
+2026_DLB_SIRO_155795,NIT_92/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,224006.86,2.24,13,2025-08-25
+2026_UIT_SIRO_820493,NIT_30/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,10504006.09,105.04,20,2025-08-24
+2026_DLB_SIRO_270568,NIT_10/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,879626.1,8.8,10,2025-09-22
+2026_FORES_SIRO_362836,NIT_59/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,648386.82,6.48,9,2026-03-06
+2026_PHED_SIRO_697285,NIT_46/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,153172.82,1.53,8,2025-11-14
+2026_PHED_SIRO_798779,NIT_47/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,333259.11,3.33,7,2026-02-14
+2026_WRD_SIRO_973673,NIT_43/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,2821066.6,28.21,10,2025-10-31
+2026_PWD_SIRO_934777,NIT_41/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,4523766.8,45.24,11,2025-04-27
+2026_DLB_SIRO_706171,NIT_55/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,236684.62,2.37,9,2025-05-09
+2026_WRD_SIRO_763126,NIT_20/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,742170.2,7.42,4,2025-06-24
+2026_WRD_SIRO_763861,NIT_23/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,540083.6,5.4,13,2025-12-20
+2026_PWD_SIRO_736876,NIT_53/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,498898.05,4.99,8,2025-12-27
+2026_FORES_SIRO_452086,NIT_44/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,1506924.06,15.07,13,2025-11-09
+2026_DLB_SIRO_477127,NIT_11/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,7138602.31,71.39,16,2025-09-16
+2026_DLB_SIRO_830482,NIT_50/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,591540.2,5.92,8,2026-03-08
+2026_WRD_SIRO_862343,NIT_70/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,589043.41,5.89,12,2025-06-30
+2026_FORES_SIRO_942000,NIT_48/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,3272432.71,32.72,11,2026-02-24
+2026_FORES_SIRO_207630,NIT_93/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,9107336.28,91.07,19,2025-12-14
+2026_PWD_SIRO_404289,NIT_24/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,377394.96,3.77,10,2025-12-19
+2026_WRD_SIRO_827048,NIT_60/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,871024.4,8.71,8,2025-08-24
+2026_UIT_SIRO_276589,NIT_62/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,2255427.87,22.55,8,2025-06-23
+2026_UIT_SIRO_845120,NIT_13/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,236458.11,2.36,7,2025-06-17
+2026_PWD_SIRO_749361,NIT_74/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,667281.7,6.67,13,2026-02-11
+2026_MEDIC_SIRO_638433,NIT_76/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,2516264.02,25.16,14,2026-01-04
+2026_PWD_SIRO_824599,NIT_79/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,1600783.25,16.01,11,2025-08-05
+2026_FORES_SIRO_504315,NIT_68/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,4375932.21,43.76,11,2025-10-31
+2026_WRD_SIRO_386377,NIT_98/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,3447241.34,34.47,15,2025-07-07
+2026_UIT_SIRO_256797,NIT_24/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3149049.18,31.49,11,2025-05-21
+2026_PHED_SIRO_164630,NIT_76/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,401716.33,4.02,8,2025-10-01
+2026_DLB_SIRO_969082,NIT_78/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,764002.03,7.64,10,2025-08-27
+2026_PHED_SIRO_669528,NIT_42/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,897268.94,8.97,9,2025-06-15
+2026_FORES_SIRO_870468,NIT_42/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,465628.82,4.66,14,2025-05-12
+2026_FORES_SIRO_354485,NIT_30/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,1087603.73,10.88,13,2025-08-08
+2026_PHED_SIRO_353484,NIT_78/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,11049983.74,110.5,22,2025-10-15
+2026_PWD_SIRO_426040,NIT_27/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,82288869.75,822.89,38,2025-12-09
+2026_FORES_SIRO_840377,NIT_64/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,3706231.08,37.06,14,2025-04-27
+2026_MEDIC_SIRO_834842,NIT_73/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,539435.89,5.39,7,2025-11-16
+2026_FORES_SIRO_454462,NIT_32/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,784793.37,7.85,7,2025-04-11
+2026_PHED_SIRO_973002,NIT_37/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,14845620.23,148.46,16,2025-04-10
+2026_FORES_SIRO_805916,NIT_86/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,3730067.74,37.3,12,2025-08-24
+2026_UIT_SIRO_584391,NIT_27/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,2342494.93,23.42,15,2025-08-27
+2026_PWD_SIRO_558089,NIT_95/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,4757953.34,47.58,13,2026-01-29
+2026_PHED_SIRO_608974,NIT_65/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,3871709.02,38.72,13,2026-01-23
+2026_MEDIC_SIRO_434561,NIT_99/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,7756867.14,77.57,23,2025-06-26
+2026_UIT_SIRO_636125,NIT_83/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,302579.47,3.03,10,2026-03-10
+2026_FORES_SIRO_274495,NIT_68/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,3109802.43,31.1,10,2025-12-01
+2026_FORES_SIRO_141661,NIT_45/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,7692909.55,76.93,22,2026-02-28
+2026_PHED_SIRO_182914,NIT_76/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,641356.82,6.41,10,2025-05-07
+2026_UIT_SIRO_184560,NIT_64/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3606345.56,36.06,11,2026-02-28
+2026_PHED_SIRO_434232,NIT_41/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,399969.15,4.0,7,2025-09-25
+2026_PWD_SIRO_954689,NIT_70/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,118357153.31,1183.57,25,2025-10-09
+2026_PWD_SIRO_858345,NIT_81/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,591262.89,5.91,11,2026-01-15
+2026_WRD_SIRO_790615,NIT_83/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,3335331.14,33.35,16,2025-07-11
+2026_UIT_SIRO_463334,NIT_68/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,452307.83,4.52,13,2025-06-04
+2026_UIT_SIRO_174126,NIT_40/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3100627.69,31.01,6,2026-01-22
+2026_WRD_SIRO_176503,NIT_88/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,774913.88,7.75,11,2025-10-01
+2026_WRD_SIRO_884599,NIT_31/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,280306.68,2.8,12,2025-09-20
+2026_PWD_SIRO_305672,NIT_34/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,716385.63,7.16,8,2025-09-27
+2026_WRD_SIRO_200943,NIT_84/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,10905893.22,109.06,16,2025-04-14
+2026_MEDIC_SIRO_530672,NIT_73/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,396897.96,3.97,10,2025-11-06
+2026_PHED_SIRO_521425,NIT_55/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,737307.7,7.37,3,2025-04-16
+2026_WRD_SIRO_168037,NIT_72/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,1940066.35,19.4,12,2025-06-12
+2026_PHED_SIRO_373484,NIT_27/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,485847.33,4.86,15,2025-11-25
+2026_UIT_SIRO_141458,NIT_35/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,17392571.88,173.93,23,2025-05-28
+2026_PHED_SIRO_641017,NIT_20/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,503078.65,5.03,15,2026-02-13
+2026_FORES_SIRO_860720,NIT_82/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,3862937.82,38.63,14,2026-03-12
+2026_DLB_SIRO_877753,NIT_97/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,831287.31,8.31,9,2025-06-01
+2026_PWD_SIRO_269063,NIT_66/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,749363.59,7.49,13,2025-08-04
+2026_UIT_SIRO_998240,NIT_73/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,4391804.16,43.92,11,2025-09-04
+2026_MEDIC_SIRO_982127,NIT_36/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,1944770.73,19.45,10,2025-12-30
+2026_MEDIC_SIRO_522313,NIT_30/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,4702458.93,47.02,16,2025-09-19
+2026_UIT_SIRO_709710,NIT_43/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,688665.7,6.89,10,2025-12-29
+2026_PWD_SIRO_634177,NIT_12/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,344763.38,3.45,15,2025-10-08
+2026_FORES_SIRO_197181,NIT_96/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,179947.63,1.8,8,2025-12-13
+2026_PHED_SIRO_419345,NIT_19/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,90935770.18,909.36,5,2025-11-16
+2026_PWD_SIRO_241259,NIT_76/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,359432.52,3.59,13,2026-02-19
+2026_MEDIC_SIRO_593441,NIT_78/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,506492.08,5.06,10,2025-07-04
+2026_UIT_SIRO_167350,NIT_46/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,604297.61,6.04,7,2025-07-17
+2026_FORES_SIRO_234594,NIT_12/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,2100391.08,21.0,17,2025-08-09
+2026_PHED_SIRO_859417,NIT_36/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,395429.51,3.95,7,2025-10-28
+2026_WRD_SIRO_169566,NIT_15/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,16306096.31,163.06,16,2025-04-07
+2026_FORES_SIRO_406494,NIT_24/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,309422.15,3.09,12,2025-09-18
+2026_FORES_SIRO_577327,NIT_83/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,9387768.3,93.88,10,2025-06-15
+2026_FORES_SIRO_814038,NIT_26/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,693212.21,6.93,12,2025-11-03
+2026_UIT_SIRO_826085,NIT_69/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,1539288.25,15.39,16,2025-05-10
+2026_FORES_SIRO_648126,NIT_86/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,17498867.9,174.99,22,2026-01-09
+2026_UIT_SIRO_963157,NIT_68/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,542885.22,5.43,14,2025-10-07
+2026_UIT_SIRO_166655,NIT_37/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,70510005.26,705.1,33,2026-02-05
+2026_MEDIC_SIRO_188106,NIT_78/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,926769.12,9.27,14,2026-02-24
+2026_FORES_SIRO_938736,NIT_30/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,25130254.67,251.3,34,2025-10-02
+2026_PWD_SIRO_715439,NIT_42/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,2246569.24,22.47,16,2025-12-18
+2026_UIT_SIRO_969306,NIT_20/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,666160.35,6.66,10,2025-08-22
+2026_PWD_SIRO_664711,NIT_81/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,869062.68,8.69,13,2025-09-07
+2026_FORES_SIRO_810238,NIT_15/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,348380.05,3.48,8,2025-09-26
+2026_DLB_SIRO_943954,NIT_50/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,557999.02,5.58,8,2026-01-02
+2026_FORES_SIRO_441090,NIT_40/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,679339.91,6.79,7,2025-10-03
+2026_WRD_SIRO_967422,NIT_49/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,630760.53,6.31,9,2025-11-16
+2026_PWD_SIRO_807025,NIT_82/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,402960.1,4.03,13,2025-07-26
+2026_MEDIC_SIRO_429266,NIT_63/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,4411520.2,44.12,8,2025-11-26
+2026_FORES_SIRO_178332,NIT_55/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,307775.86,3.08,11,2025-07-05
+2026_PWD_SIRO_820144,NIT_54/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,437233.09,4.37,12,2025-07-22
+2026_FORES_SIRO_435135,NIT_44/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,2109058.27,21.09,10,2025-11-17
+2026_UIT_SIRO_641221,NIT_85/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,692024.73,6.92,15,2025-12-26
+2026_MEDIC_SIRO_941475,NIT_85/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,891702.91,8.92,9,2025-05-25
+2026_UIT_SIRO_132803,NIT_14/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,514425.51,5.14,7,2025-08-20
+2026_PWD_SIRO_906384,NIT_89/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,9482908.31,94.83,16,2025-06-28
+2026_WRD_SIRO_522085,NIT_23/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,14695540.31,146.96,15,2025-08-22
+2026_PWD_SIRO_124102,NIT_98/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,938456.94,9.38,13,2025-12-04
+2026_PWD_SIRO_647164,NIT_63/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,2014170.6,20.14,16,2025-06-04
+2026_UIT_SIRO_406545,NIT_48/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,808980.5,8.09,7,2026-03-23
+2026_WRD_SIRO_690296,NIT_80/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,2604105.3,26.04,10,2025-05-31
+2026_MEDIC_SIRO_585685,NIT_69/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,3969705.91,39.7,12,2025-09-15
+2026_DLB_SIRO_914280,NIT_16/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,3648518.04,36.49,13,2025-04-15
+2026_DLB_SIRO_356139,NIT_27/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,396366.19,3.96,13,2025-12-28
+2026_MEDIC_SIRO_743368,NIT_71/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,675814.82,6.76,7,2025-07-19
+2026_FORES_SIRO_913483,NIT_17/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,358625.66,3.59,15,2025-05-22
+2026_UIT_SIRO_586578,NIT_66/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,13815721.56,138.16,17,2025-08-12
+2026_DLB_SIRO_982356,NIT_83/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,1653164.44,16.53,14,2025-12-27
+2026_PWD_SIRO_210396,NIT_97/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,7844760.49,78.45,9,2025-08-26
+2026_PHED_SIRO_242500,NIT_41/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,29290046.29,292.9,36,2025-10-08
+2026_PWD_SIRO_634883,NIT_25/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,282840.89,2.83,8,2025-11-30
+2026_PWD_SIRO_122621,NIT_41/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,2067102.1,20.67,17,2025-08-17
+2026_PHED_SIRO_864241,NIT_29/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,2377873.98,23.78,17,2025-08-30
+2026_PWD_SIRO_951986,NIT_98/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,53729766.84,537.3,32,2025-07-15
+2026_PWD_SIRO_176587,NIT_53/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,46525612.05,465.26,30,2026-02-22
+2026_PHED_SIRO_129116,NIT_58/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,1093426.12,10.93,16,2026-02-27
+2026_MEDIC_SIRO_313807,NIT_16/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,777247.49,7.77,9,2025-06-30
+2026_PWD_SIRO_807680,NIT_49/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,2042918.89,20.43,16,2025-11-11
+2026_FORES_SIRO_356213,NIT_56/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,803041.72,8.03,9,2025-09-09
+2026_UIT_SIRO_545036,NIT_25/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,1513850.86,15.14,15,2026-03-09
+2026_UIT_SIRO_751347,NIT_83/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,15072833.59,150.73,21,2026-03-26
+2026_PWD_SIRO_659875,NIT_45/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,830814.8,8.31,10,2025-11-11
+2026_UIT_SIRO_911575,NIT_50/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3057431.72,30.57,18,2025-06-05
+2026_FORES_SIRO_772300,NIT_89/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,444995.2,4.45,11,2026-02-08
+2026_MEDIC_SIRO_956715,NIT_94/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,398755.82,3.99,10,2025-06-08
+2026_PHED_SIRO_464209,NIT_81/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,446350.49,4.46,12,2025-12-18
+2026_PWD_SIRO_827359,NIT_36/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,4608773.13,46.09,15,2026-02-25
+2026_PHED_SIRO_632659,NIT_76/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,5617585.62,56.18,10,2025-09-09
+2026_PWD_SIRO_621220,NIT_95/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,71339546.37,713.4,37,2025-07-18
+2026_WRD_SIRO_371840,NIT_47/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,879655.11,8.8,11,2026-03-27
+2026_FORES_SIRO_596355,NIT_73/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,11943466.21,119.43,19,2026-01-15
+2026_DLB_SIRO_377393,NIT_85/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,1969807.62,19.7,14,2025-04-28
+2026_PWD_SIRO_555879,NIT_11/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,459225.68,4.59,15,2025-06-09
+2026_DLB_SIRO_412110,NIT_79/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,497512.2,4.98,14,2025-10-04
+2026_UIT_SIRO_482736,NIT_36/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,547471.27,5.47,15,2025-09-28
+2026_FORES_SIRO_404352,NIT_93/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,16301579.76,163.02,4,2025-06-11
+2026_PWD_SIRO_123214,NIT_42/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,1141339.93,11.41,15,2025-08-08
+2026_UIT_SIRO_471434,NIT_35/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,3311445.93,33.11,16,2025-05-01
+2026_MEDIC_SIRO_974367,NIT_88/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,833547.5,8.34,9,2026-02-18
+2026_FORES_SIRO_365155,NIT_69/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,1166557.7,11.67,16,2025-06-09
+2026_WRD_SIRO_800898,NIT_23/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,715329.25,7.15,8,2026-03-18
+2026_DLB_SIRO_911442,NIT_17/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,324085.3,3.24,10,2026-03-15
+2026_FORES_SIRO_914729,NIT_84/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,2164300.97,21.64,18,2025-12-28
+2026_WRD_SIRO_380428,NIT_29/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,517943.34,5.18,9,2026-03-18
+2026_PHED_SIRO_548140,NIT_21/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,16051742.84,160.52,21,2025-08-13
+2026_WRD_SIRO_937223,NIT_49/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,633597.56,6.34,12,2026-02-14
+2026_WRD_SIRO_983659,NIT_68/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,3798922.38,37.99,12,2025-11-16
+2026_FORES_SIRO_302423,NIT_23/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,544409.21,5.44,9,2025-11-11
+2026_FORES_SIRO_211642,NIT_77/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,1907181.67,19.07,14,2025-04-13
+2026_PHED_SIRO_323637,NIT_86/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,921992.67,9.22,9,2025-11-30
+2026_DLB_SIRO_207334,NIT_69/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,476924.0,4.77,7,2026-03-08
+2026_WRD_SIRO_142399,NIT_45/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,15251933.04,152.52,16,2025-05-12
+2026_PHED_SIRO_679266,NIT_58/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,335125.01,3.35,8,2025-04-09
+2026_WRD_SIRO_106867,NIT_27/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,14961423.01,149.61,17,2025-04-20
+2026_DLB_SIRO_912588,NIT_93/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,49903406.99,499.03,32,2025-12-26
+2026_FORES_SIRO_241381,NIT_66/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,773874.99,7.74,14,2025-12-03
+2026_UIT_SIRO_386164,NIT_33/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,315022.42,3.15,11,2025-07-21
+2026_UIT_SIRO_340372,NIT_91/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,4780423.39,47.8,12,2025-11-12
+2026_MEDIC_SIRO_326438,NIT_87/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,62404830.77,624.05,35,2025-06-01
+2026_PWD_SIRO_112498,NIT_27/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,10435104.94,104.35,16,2025-08-10
+2026_PHED_SIRO_758539,NIT_90/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,351104.83,3.51,15,2025-10-15
+2026_MEDIC_SIRO_798858,NIT_58/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,4692190.06,46.92,15,2025-07-20
+2026_UIT_SIRO_620846,NIT_18/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,438953.76,4.39,10,2025-05-28
+2026_PWD_SIRO_473394,NIT_33/SIR/2025-26,Public Works Department (Sirohi Circle),Sirohi,Jodhpur Division,21425840.39,214.26,38,2025-11-19
+2026_PHED_SIRO_131794,NIT_95/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,101180096.06,1011.8,33,2025-07-29
+2026_DLB_SIRO_571116,NIT_39/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,234360.27,2.34,14,2025-07-08
+2026_WRD_SIRO_189794,NIT_49/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,563755.41,5.64,9,2026-03-17
+2026_FORES_SIRO_575915,NIT_95/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,879959.15,8.8,7,2025-12-26
+2026_PHED_SIRO_531986,NIT_79/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,722945.44,7.23,5,2025-11-28
+2026_PHED_SIRO_281216,NIT_13/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,12938695.64,129.39,17,2025-06-02
+2026_MEDIC_SIRO_712728,NIT_45/SIR/2025-26,Department of Medical Education (Sirohi Circle),Sirohi,Jodhpur Division,427735.68,4.28,12,2026-01-17
+2026_DLB_SIRO_909947,NIT_14/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,255123.91,2.55,12,2026-02-12
+2026_UIT_SIRO_754140,NIT_76/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,727264.96,7.27,8,2025-11-22
+2026_WRD_SIRO_567119,NIT_89/SIR/2025-26,Water Resources Department (Sirohi Circle),Sirohi,Jodhpur Division,23926054.35,239.26,28,2025-11-09
+2026_UIT_SIRO_103172,NIT_87/SIR/2025-26,Municipal Council Sirohi,Sirohi,Jodhpur Division,2111285.29,21.11,15,2025-04-07
+2026_PHED_SIRO_933927,NIT_45/SIR/2025-26,Public Health Engineering Department (Sirohi Circle),Sirohi,Jodhpur Division,247411.23,2.47,7,2025-04-25
+2026_DLB_SIRO_638167,NIT_90/SIR/2025-26,Directorate of Local Bodies (Sirohi Circle),Sirohi,Jodhpur Division,587007.67,5.87,12,2025-12-21
+2026_FORES_SIRO_919325,NIT_72/SIR/2025-26,Forest Department (Sirohi Circle),Sirohi,Jodhpur Division,53129648.75,531.3,30,2026-01-26

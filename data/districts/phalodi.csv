@@ -1,0 +1,454 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_DLB_PHAL_281004,NIT_79/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,476226.41,4.76,13,2025-08-28
+2026_FORES_PHAL_320543,NIT_48/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,500603.16,5.01,15,2026-01-01
+2026_PHED_PHAL_321145,NIT_12/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,611295.83,6.11,15,2025-11-11
+2026_PHED_PHAL_645957,NIT_86/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,4017841.16,40.18,16,2025-11-26
+2026_FORES_PHAL_323837,NIT_60/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,1835014.44,18.35,13,2025-04-09
+2026_UIT_PHAL_681025,NIT_47/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,10546739.71,105.47,5,2025-10-19
+2026_PHED_PHAL_639124,NIT_11/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,338493.23,3.38,13,2025-09-07
+2026_MEDIC_PHAL_151486,NIT_75/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,810297.11,8.1,14,2025-08-23
+2026_MEDIC_PHAL_184657,NIT_90/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,6446207.41,64.46,18,2026-03-15
+2026_PWD_PHAL_339849,NIT_22/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,198850.47,1.99,8,2025-10-16
+2026_DLB_PHAL_346277,NIT_58/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,63721751.04,637.22,38,2025-08-19
+2026_WRD_PHAL_977748,NIT_50/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,9423173.36,94.23,11,2025-11-19
+2026_MEDIC_PHAL_994997,NIT_58/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,271810.84,2.72,12,2025-05-09
+2026_UIT_PHAL_978218,NIT_23/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,83751630.26,837.52,31,2025-04-19
+2026_DLB_PHAL_866628,NIT_63/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,747965.69,7.48,7,2025-07-03
+2026_UIT_PHAL_508384,NIT_10/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,386955.39,3.87,8,2025-11-13
+2026_WRD_PHAL_742235,NIT_94/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,2308126.72,23.08,11,2025-10-12
+2026_UIT_PHAL_240611,NIT_49/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,371965.02,3.72,13,2025-10-17
+2026_FORES_PHAL_615486,NIT_79/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,12711995.36,127.12,18,2025-06-15
+2026_PWD_PHAL_551489,NIT_54/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,194782.66,1.95,11,2025-06-18
+2026_PHED_PHAL_911793,NIT_77/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,607788.39,6.08,11,2025-04-08
+2026_DLB_PHAL_179969,NIT_18/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,3458396.63,34.58,17,2025-06-27
+2026_MEDIC_PHAL_640865,NIT_57/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,1139918.32,11.4,10,2025-09-25
+2026_FORES_PHAL_885413,NIT_13/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,822426.83,8.22,8,2025-08-08
+2026_MEDIC_PHAL_456325,NIT_39/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,894073.38,8.94,8,2025-12-12
+2026_UIT_PHAL_184493,NIT_42/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,11480126.3,114.8,16,2025-06-27
+2026_MEDIC_PHAL_938484,NIT_80/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,706000.24,7.06,9,2025-06-20
+2026_PWD_PHAL_960555,NIT_33/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,12205505.16,122.06,20,2026-03-01
+2026_PHED_PHAL_149868,NIT_75/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,3249412.03,32.49,15,2025-06-11
+2026_PWD_PHAL_985777,NIT_66/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,4323522.99,43.24,11,2025-06-20
+2026_DLB_PHAL_736776,NIT_65/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,1673417.08,16.73,15,2025-04-30
+2026_DLB_PHAL_872454,NIT_39/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,939481.48,9.39,8,2025-07-28
+2026_MEDIC_PHAL_409693,NIT_40/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,1253163.57,12.53,12,2025-10-05
+2026_PWD_PHAL_877906,NIT_31/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,11911546.23,119.12,18,2026-01-13
+2026_PHED_PHAL_630399,NIT_46/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,386550.25,3.87,10,2025-12-03
+2026_FORES_PHAL_512074,NIT_55/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,46432177.91,464.32,32,2026-01-13
+2026_UIT_PHAL_473673,NIT_77/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,165326.16,1.65,7,2025-12-24
+2026_DLB_PHAL_771681,NIT_42/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,806904.84,8.07,13,2026-03-02
+2026_PHED_PHAL_969781,NIT_26/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,622626.48,6.23,12,2025-04-11
+2026_WRD_PHAL_160005,NIT_44/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,113798030.11,1137.98,31,2025-09-19
+2026_MEDIC_PHAL_129078,NIT_50/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,244334.75,2.44,10,2025-11-25
+2026_DLB_PHAL_278672,NIT_23/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,6019083.51,60.19,7,2025-08-26
+2026_WRD_PHAL_593376,NIT_83/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,14734040.08,147.34,22,2025-06-03
+2026_DLB_PHAL_363637,NIT_11/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,173650.15,1.74,12,2025-10-19
+2026_MEDIC_PHAL_812613,NIT_74/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,700244.69,7.0,15,2025-10-20
+2026_WRD_PHAL_806958,NIT_72/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,3878670.26,38.79,14,2026-02-01
+2026_DLB_PHAL_524527,NIT_58/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,906503.0,9.07,10,2025-10-19
+2026_DLB_PHAL_865052,NIT_17/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,3928076.86,39.28,17,2025-08-13
+2026_PWD_PHAL_255168,NIT_10/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,596663.12,5.97,10,2025-11-10
+2026_MEDIC_PHAL_723076,NIT_36/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,550856.55,5.51,9,2025-12-30
+2026_FORES_PHAL_714077,NIT_90/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,2107647.15,21.08,13,2025-10-04
+2026_PWD_PHAL_521688,NIT_12/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,259385.89,2.59,12,2025-12-04
+2026_DLB_PHAL_491609,NIT_26/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,701952.71,7.02,15,2025-08-27
+2026_MEDIC_PHAL_153812,NIT_37/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,683151.51,6.83,10,2025-10-22
+2026_DLB_PHAL_648656,NIT_18/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,517946.6,5.18,15,2025-05-05
+2026_PHED_PHAL_454736,NIT_41/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,539987.78,5.4,9,2026-02-07
+2026_UIT_PHAL_640166,NIT_39/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,15630948.38,156.31,20,2025-08-02
+2026_MEDIC_PHAL_484507,NIT_27/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,742397.75,7.42,13,2025-04-22
+2026_MEDIC_PHAL_785206,NIT_78/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,935347.67,9.35,15,2025-11-26
+2026_PHED_PHAL_404380,NIT_13/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,1398720.48,13.99,17,2025-09-03
+2026_DLB_PHAL_445026,NIT_44/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,732011.2,7.32,14,2025-11-24
+2026_PWD_PHAL_388840,NIT_85/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,912211.47,9.12,13,2025-11-21
+2026_MEDIC_PHAL_171148,NIT_87/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,9478415.87,94.78,20,2026-01-20
+2026_DLB_PHAL_572613,NIT_39/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,3335995.93,33.36,10,2026-03-06
+2026_PHED_PHAL_910879,NIT_97/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,1990567.72,19.91,13,2025-10-23
+2026_MEDIC_PHAL_990155,NIT_84/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,1412141.27,14.12,10,2025-08-29
+2026_UIT_PHAL_214824,NIT_96/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,547530.26,5.48,13,2026-02-14
+2026_FORES_PHAL_391413,NIT_37/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,1168863.75,11.69,12,2025-05-24
+2026_FORES_PHAL_627286,NIT_94/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,784393.43,7.84,14,2025-05-05
+2026_FORES_PHAL_853830,NIT_64/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,912310.06,9.12,8,2025-10-16
+2026_WRD_PHAL_630894,NIT_69/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,294830.53,2.95,11,2025-05-06
+2026_PWD_PHAL_133606,NIT_43/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,580422.93,5.8,15,2025-11-01
+2026_DLB_PHAL_215738,NIT_28/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,458028.1,4.58,9,2026-01-07
+2026_UIT_PHAL_169914,NIT_80/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,116911104.3,1169.11,31,2025-06-25
+2026_UIT_PHAL_614372,NIT_81/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,649034.17,6.49,15,2025-10-05
+2026_FORES_PHAL_272600,NIT_43/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,611961.64,6.12,8,2026-02-14
+2026_DLB_PHAL_127087,NIT_91/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,573862.56,5.74,12,2026-03-13
+2026_MEDIC_PHAL_916197,NIT_52/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,850534.25,8.51,10,2025-05-02
+2026_FORES_PHAL_933409,NIT_45/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,1854392.01,18.54,13,2025-06-03
+2026_MEDIC_PHAL_436451,NIT_57/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,602388.35,6.02,7,2025-12-09
+2026_UIT_PHAL_229244,NIT_65/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,751100.83,7.51,11,2026-01-06
+2026_FORES_PHAL_988557,NIT_22/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,366786.69,3.67,7,2025-05-01
+2026_FORES_PHAL_869901,NIT_44/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,1185784.67,11.86,16,2025-04-24
+2026_PHED_PHAL_350024,NIT_25/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,190732.92,1.91,7,2025-11-14
+2026_UIT_PHAL_736765,NIT_72/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,277125.53,2.77,9,2025-06-30
+2026_FORES_PHAL_689106,NIT_74/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,679378.5,6.79,11,2025-06-18
+2026_DLB_PHAL_316145,NIT_44/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,356898.5,3.57,14,2026-01-20
+2026_UIT_PHAL_876839,NIT_86/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,269361.53,2.69,8,2026-02-23
+2026_MEDIC_PHAL_603778,NIT_98/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,1780898.21,17.81,15,2025-08-20
+2026_DLB_PHAL_868358,NIT_56/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,2957734.26,29.58,18,2026-03-26
+2026_FORES_PHAL_862355,NIT_41/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,18375545.05,183.76,15,2026-03-25
+2026_WRD_PHAL_296622,NIT_85/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,745884.85,7.46,7,2025-11-07
+2026_FORES_PHAL_945765,NIT_73/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,517672.5,5.18,10,2025-10-23
+2026_PWD_PHAL_905149,NIT_91/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,235454.66,2.35,10,2026-03-25
+2026_PWD_PHAL_369678,NIT_17/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,116338261.94,1163.38,30,2025-04-24
+2026_WRD_PHAL_226791,NIT_35/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,4426424.59,44.26,16,2025-12-10
+2026_DLB_PHAL_469227,NIT_28/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,2851113.07,28.51,17,2025-05-27
+2026_PHED_PHAL_569636,NIT_83/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,944305.63,9.44,14,2025-05-23
+2026_DLB_PHAL_550860,NIT_37/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,743031.37,7.43,13,2025-08-30
+2026_PHED_PHAL_830124,NIT_68/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,275827.33,2.76,7,2026-03-19
+2026_WRD_PHAL_320892,NIT_75/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,3104092.62,31.04,16,2025-11-23
+2026_DLB_PHAL_242075,NIT_31/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,16904968.76,169.05,20,2025-09-07
+2026_PHED_PHAL_175353,NIT_60/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,84394611.54,843.95,35,2025-12-18
+2026_WRD_PHAL_541458,NIT_44/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,858632.09,8.59,13,2025-04-28
+2026_UIT_PHAL_396495,NIT_59/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,795519.1,7.96,15,2025-06-20
+2026_FORES_PHAL_146979,NIT_97/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,41212275.25,412.12,31,2025-09-11
+2026_FORES_PHAL_934183,NIT_99/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,2365954.24,23.66,12,2025-10-19
+2026_PWD_PHAL_349097,NIT_42/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,173609.37,1.74,14,2025-07-25
+2026_PWD_PHAL_241627,NIT_29/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,784370.43,7.84,13,2025-10-14
+2026_DLB_PHAL_556578,NIT_61/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,926112.86,9.26,7,2025-09-14
+2026_PHED_PHAL_871629,NIT_91/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,293007.97,2.93,8,2026-03-21
+2026_UIT_PHAL_531880,NIT_82/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,372032.77,3.72,9,2025-12-13
+2026_FORES_PHAL_555434,NIT_19/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,2798856.84,27.99,15,2026-01-09
+2026_PWD_PHAL_351407,NIT_76/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,175617.77,1.76,10,2025-07-05
+2026_PWD_PHAL_334438,NIT_58/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,770613.26,7.71,15,2026-03-01
+2026_MEDIC_PHAL_503543,NIT_47/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,435518.49,4.36,9,2025-10-27
+2026_PWD_PHAL_430619,NIT_25/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,5616378.76,56.16,8,2026-03-07
+2026_WRD_PHAL_621903,NIT_11/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,2415637.92,24.16,15,2025-04-19
+2026_MEDIC_PHAL_517834,NIT_78/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,544169.58,5.44,11,2025-05-18
+2026_PHED_PHAL_909962,NIT_34/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,9942685.0,99.43,23,2026-01-27
+2026_DLB_PHAL_787656,NIT_32/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,18072329.62,180.72,17,2025-10-22
+2026_PHED_PHAL_428876,NIT_65/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,169964.52,1.7,9,2025-09-19
+2026_FORES_PHAL_462637,NIT_18/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,442963.58,4.43,14,2026-03-22
+2026_WRD_PHAL_179226,NIT_84/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,1802835.51,18.03,14,2026-01-27
+2026_WRD_PHAL_328463,NIT_18/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,16724531.07,167.25,19,2025-08-07
+2026_UIT_PHAL_450466,NIT_77/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,84990204.53,849.9,37,2025-11-03
+2026_FORES_PHAL_267251,NIT_24/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,7923564.11,79.24,21,2025-08-20
+2026_FORES_PHAL_495005,NIT_19/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,2249413.58,22.49,16,2025-09-19
+2026_PHED_PHAL_258511,NIT_28/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,252005.13,2.52,11,2025-11-17
+2026_PWD_PHAL_877479,NIT_96/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,558046.37,5.58,7,2025-05-25
+2026_WRD_PHAL_653674,NIT_98/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,236512.38,2.37,14,2025-05-08
+2026_MEDIC_PHAL_685493,NIT_78/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,367975.66,3.68,15,2026-02-02
+2026_FORES_PHAL_363266,NIT_41/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,2727889.73,27.28,14,2026-01-09
+2026_FORES_PHAL_901436,NIT_92/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,3777776.47,37.78,11,2025-06-09
+2026_DLB_PHAL_640358,NIT_24/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,2878250.74,28.78,13,2025-04-05
+2026_FORES_PHAL_114895,NIT_76/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,831341.85,8.31,15,2026-01-29
+2026_MEDIC_PHAL_112497,NIT_52/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,4247863.86,42.48,18,2025-04-22
+2026_MEDIC_PHAL_226603,NIT_44/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,162863.12,1.63,7,2025-09-22
+2026_PWD_PHAL_679722,NIT_24/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,705902.53,7.06,12,2025-10-10
+2026_FORES_PHAL_332108,NIT_53/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,4639485.68,46.39,16,2026-01-28
+2026_MEDIC_PHAL_139884,NIT_91/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,1741416.77,17.41,13,2025-05-06
+2026_PWD_PHAL_530893,NIT_99/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,62069273.06,620.69,32,2026-02-20
+2026_PWD_PHAL_268572,NIT_47/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,874574.11,8.75,13,2025-08-11
+2026_PHED_PHAL_630286,NIT_24/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,269225.94,2.69,12,2026-01-15
+2026_MEDIC_PHAL_299382,NIT_60/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,771860.57,7.72,11,2026-02-13
+2026_MEDIC_PHAL_963590,NIT_81/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,776737.04,7.77,12,2026-02-01
+2026_PWD_PHAL_988390,NIT_32/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,10565341.13,105.65,18,2025-07-24
+2026_PWD_PHAL_859162,NIT_43/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,3844076.56,38.44,15,2025-12-10
+2026_FORES_PHAL_225811,NIT_63/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,10592255.01,105.92,23,2026-02-18
+2026_PWD_PHAL_321335,NIT_12/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,378327.63,3.78,12,2025-04-30
+2026_WRD_PHAL_346542,NIT_74/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,13063372.76,130.63,16,2025-10-21
+2026_WRD_PHAL_468794,NIT_15/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,572690.56,5.73,12,2025-07-07
+2026_UIT_PHAL_236507,NIT_26/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,16888874.28,168.89,5,2025-08-17
+2026_FORES_PHAL_679426,NIT_72/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,458438.51,4.58,9,2025-10-29
+2026_PWD_PHAL_328138,NIT_95/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,843125.67,8.43,12,2025-12-07
+2026_WRD_PHAL_436168,NIT_79/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,467488.62,4.67,7,2026-03-19
+2026_WRD_PHAL_996784,NIT_74/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,40807682.9,408.08,30,2025-12-22
+2026_PHED_PHAL_486917,NIT_44/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,656791.41,6.57,9,2026-03-12
+2026_FORES_PHAL_596842,NIT_75/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,574320.53,5.74,15,2025-06-03
+2026_MEDIC_PHAL_280338,NIT_11/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,11180514.52,111.81,18,2025-07-01
+2026_WRD_PHAL_796573,NIT_86/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,481829.48,4.82,14,2025-11-10
+2026_FORES_PHAL_271161,NIT_27/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,341994.15,3.42,8,2025-06-29
+2026_DLB_PHAL_456994,NIT_39/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,874619.94,8.75,10,2026-02-08
+2026_FORES_PHAL_736838,NIT_54/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,922201.55,9.22,14,2026-01-13
+2026_UIT_PHAL_884753,NIT_14/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,7421788.97,74.22,17,2025-12-20
+2026_PWD_PHAL_192201,NIT_68/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,2914250.69,29.14,10,2025-11-02
+2026_PHED_PHAL_691426,NIT_47/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,440283.73,4.4,9,2025-10-15
+2026_FORES_PHAL_895240,NIT_83/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,49340083.32,493.4,33,2025-08-21
+2026_PWD_PHAL_979691,NIT_92/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,375499.51,3.75,8,2025-04-16
+2026_FORES_PHAL_327501,NIT_33/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,909824.43,9.1,8,2025-12-27
+2026_DLB_PHAL_978684,NIT_94/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,748731.76,7.49,7,2025-11-04
+2026_DLB_PHAL_770806,NIT_72/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,917761.6,9.18,14,2026-02-25
+2026_FORES_PHAL_242337,NIT_16/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,719944.34,7.2,7,2025-08-30
+2026_PWD_PHAL_678084,NIT_39/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,71420390.49,714.2,38,2025-06-28
+2026_DLB_PHAL_118710,NIT_20/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,3459041.1,34.59,17,2026-02-12
+2026_UIT_PHAL_462589,NIT_92/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,327351.0,3.27,11,2025-06-12
+2026_PHED_PHAL_440265,NIT_37/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,3268023.19,32.68,12,2025-06-08
+2026_WRD_PHAL_234373,NIT_56/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,4369022.12,43.69,17,2025-07-02
+2026_DLB_PHAL_578347,NIT_42/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,56849085.44,568.49,31,2026-03-04
+2026_UIT_PHAL_646481,NIT_77/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,17306244.17,173.06,19,2025-12-26
+2026_WRD_PHAL_552959,NIT_14/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,331819.43,3.32,15,2025-07-27
+2026_MEDIC_PHAL_967282,NIT_60/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,3718140.4,37.18,18,2025-12-15
+2026_UIT_PHAL_412195,NIT_32/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,4092507.46,40.93,14,2025-11-23
+2026_WRD_PHAL_821484,NIT_90/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,3644791.63,36.45,18,2025-08-05
+2026_WRD_PHAL_795611,NIT_74/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,783276.54,7.83,14,2025-04-29
+2026_DLB_PHAL_704219,NIT_99/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,911743.63,9.12,9,2025-12-26
+2026_WRD_PHAL_353070,NIT_26/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,666171.22,6.66,12,2025-09-06
+2026_DLB_PHAL_185158,NIT_63/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,720150.59,7.2,14,2026-01-29
+2026_WRD_PHAL_531498,NIT_66/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,665875.76,6.66,8,2025-12-23
+2026_UIT_PHAL_697171,NIT_76/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,4002736.46,40.03,16,2025-05-11
+2026_UIT_PHAL_335746,NIT_83/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,410454.52,4.1,12,2026-01-25
+2026_PHED_PHAL_838473,NIT_18/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,1480372.64,14.8,17,2025-06-28
+2026_PHED_PHAL_763284,NIT_52/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,918986.53,9.19,11,2025-11-22
+2026_PHED_PHAL_618341,NIT_72/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,77523782.71,775.24,38,2026-01-24
+2026_DLB_PHAL_970980,NIT_55/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,383647.77,3.84,14,2026-03-14
+2026_DLB_PHAL_697889,NIT_20/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,716400.04,7.16,9,2025-06-09
+2026_PWD_PHAL_146129,NIT_80/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,3742870.93,37.43,10,2025-05-20
+2026_FORES_PHAL_367934,NIT_32/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,12163614.41,121.64,15,2025-10-20
+2026_PHED_PHAL_435268,NIT_20/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,52859339.32,528.59,34,2026-01-24
+2026_UIT_PHAL_891418,NIT_15/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,602049.91,6.02,8,2026-02-18
+2026_FORES_PHAL_922610,NIT_95/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,942712.86,9.43,5,2025-04-01
+2026_FORES_PHAL_378049,NIT_90/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,18172979.45,181.73,17,2025-08-18
+2026_PHED_PHAL_790967,NIT_32/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,537016.66,5.37,11,2026-03-21
+2026_MEDIC_PHAL_513220,NIT_64/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,2360891.15,23.61,14,2025-12-21
+2026_PHED_PHAL_994939,NIT_15/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,909880.59,9.1,14,2025-06-03
+2026_MEDIC_PHAL_587324,NIT_29/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,744353.8,7.44,10,2025-08-10
+2026_PHED_PHAL_895731,NIT_40/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,412037.31,4.12,14,2025-10-09
+2026_FORES_PHAL_569233,NIT_97/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,537249.31,5.37,11,2025-06-06
+2026_DLB_PHAL_937986,NIT_52/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,3045121.72,30.45,10,2025-07-15
+2026_FORES_PHAL_172979,NIT_11/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,50656092.67,506.56,31,2025-08-10
+2026_PWD_PHAL_593158,NIT_71/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,210009.78,2.1,9,2025-12-18
+2026_PWD_PHAL_926789,NIT_62/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,6377679.05,63.78,15,2025-12-03
+2026_UIT_PHAL_377034,NIT_60/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,464429.22,4.64,13,2026-02-04
+2026_UIT_PHAL_621704,NIT_95/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,368359.43,3.68,8,2025-11-22
+2026_PWD_PHAL_887164,NIT_31/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,381864.77,3.82,13,2025-11-03
+2026_MEDIC_PHAL_788320,NIT_41/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,16000354.51,160.0,20,2025-07-10
+2026_DLB_PHAL_988737,NIT_83/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,2443930.91,24.44,15,2025-09-14
+2026_MEDIC_PHAL_567129,NIT_58/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,2886075.9,28.86,10,2025-11-29
+2026_MEDIC_PHAL_896152,NIT_21/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,15496423.8,154.96,18,2026-03-01
+2026_MEDIC_PHAL_411987,NIT_69/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,4204265.3,42.04,16,2026-03-14
+2026_PWD_PHAL_292323,NIT_97/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,58508873.13,585.09,33,2026-03-03
+2026_DLB_PHAL_802733,NIT_40/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,1452437.71,14.52,12,2025-11-12
+2026_WRD_PHAL_513624,NIT_99/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,9313961.73,93.14,15,2026-01-24
+2026_WRD_PHAL_166724,NIT_90/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,634124.54,6.34,13,2025-07-21
+2026_PWD_PHAL_164659,NIT_93/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,465092.48,4.65,8,2025-04-28
+2026_WRD_PHAL_811797,NIT_19/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,461072.64,4.61,15,2025-11-23
+2026_UIT_PHAL_876959,NIT_92/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,194378.4,1.94,15,2025-05-26
+2026_PWD_PHAL_314414,NIT_93/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,2414796.4,24.15,13,2026-03-19
+2026_FORES_PHAL_599561,NIT_90/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,944881.8,9.45,13,2025-10-04
+2026_PHED_PHAL_606179,NIT_90/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,4375644.31,43.76,15,2026-01-23
+2026_FORES_PHAL_670556,NIT_60/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,502533.4,5.03,7,2025-09-19
+2026_WRD_PHAL_412684,NIT_76/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,624179.47,6.24,7,2025-11-29
+2026_PWD_PHAL_290994,NIT_98/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,620252.31,6.2,8,2025-09-14
+2026_WRD_PHAL_837991,NIT_80/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,39124992.53,391.25,30,2026-03-03
+2026_PHED_PHAL_701757,NIT_41/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,323512.74,3.24,8,2025-07-18
+2026_PHED_PHAL_510092,NIT_75/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,607542.75,6.08,11,2025-11-02
+2026_PWD_PHAL_264211,NIT_18/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,1986426.54,19.86,18,2025-08-26
+2026_PWD_PHAL_477179,NIT_73/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,2857610.95,28.58,11,2025-12-26
+2026_WRD_PHAL_281174,NIT_99/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,650323.19,6.5,12,2025-10-29
+2026_UIT_PHAL_189101,NIT_70/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,498586.61,4.99,12,2025-09-20
+2026_MEDIC_PHAL_729181,NIT_30/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,274110.83,2.74,12,2025-06-06
+2026_FORES_PHAL_673356,NIT_51/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,76080835.91,760.81,36,2025-07-09
+2026_PWD_PHAL_921910,NIT_95/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,271089.1,2.71,9,2026-02-06
+2026_PHED_PHAL_936111,NIT_40/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,435451.6,4.35,14,2025-12-26
+2026_MEDIC_PHAL_622036,NIT_23/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,449651.44,4.5,12,2026-02-01
+2026_FORES_PHAL_529854,NIT_48/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,537539.45,5.38,15,2026-03-07
+2026_WRD_PHAL_991806,NIT_73/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,2047809.87,20.48,15,2025-09-12
+2026_PWD_PHAL_576948,NIT_97/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,270712.45,2.71,8,2025-04-06
+2026_PWD_PHAL_677375,NIT_55/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,730779.51,7.31,15,2025-04-26
+2026_MEDIC_PHAL_603508,NIT_50/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,472497.03,4.72,12,2025-04-14
+2026_FORES_PHAL_810566,NIT_53/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,584349.28,5.84,12,2025-12-28
+2026_PWD_PHAL_214160,NIT_10/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,599609.6,6.0,13,2025-12-06
+2026_MEDIC_PHAL_615713,NIT_43/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,8700214.31,87.0,22,2025-12-29
+2026_UIT_PHAL_909446,NIT_80/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,4630425.06,46.3,16,2026-02-19
+2026_WRD_PHAL_507541,NIT_52/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,8542869.18,85.43,22,2025-11-13
+2026_WRD_PHAL_879881,NIT_83/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,10836249.21,108.36,17,2025-06-19
+2026_UIT_PHAL_826028,NIT_65/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,4499540.12,45.0,11,2026-02-10
+2026_PWD_PHAL_461683,NIT_10/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,295054.55,2.95,10,2026-01-07
+2026_FORES_PHAL_622963,NIT_41/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,2131122.71,21.31,15,2025-06-24
+2026_PWD_PHAL_729445,NIT_47/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,5319689.56,53.2,10,2025-06-06
+2026_UIT_PHAL_536950,NIT_13/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,3391176.35,33.91,16,2025-06-23
+2026_MEDIC_PHAL_179728,NIT_44/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,434322.26,4.34,14,2025-07-30
+2026_DLB_PHAL_495993,NIT_12/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,607712.33,6.08,12,2026-01-23
+2026_PWD_PHAL_735959,NIT_81/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,6485247.0,64.85,18,2025-10-17
+2026_DLB_PHAL_482561,NIT_36/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,3352491.07,33.52,18,2025-09-27
+2026_MEDIC_PHAL_572279,NIT_48/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,71090551.23,710.91,35,2025-11-18
+2026_PWD_PHAL_356628,NIT_24/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,789831.27,7.9,11,2025-08-13
+2026_WRD_PHAL_931149,NIT_86/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,896164.72,8.96,13,2025-08-03
+2026_UIT_PHAL_691907,NIT_50/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,294872.32,2.95,14,2025-12-01
+2026_DLB_PHAL_391155,NIT_40/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,2694705.92,26.95,12,2025-07-23
+2026_MEDIC_PHAL_387482,NIT_75/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,514081.72,5.14,8,2026-02-12
+2026_PWD_PHAL_674918,NIT_82/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,816085.12,8.16,12,2025-12-09
+2026_MEDIC_PHAL_801301,NIT_78/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,104986032.2,1049.86,30,2026-02-22
+2026_UIT_PHAL_129850,NIT_17/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,408949.88,4.09,3,2025-09-27
+2026_FORES_PHAL_218814,NIT_66/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,8375583.29,83.76,15,2025-09-13
+2026_FORES_PHAL_694831,NIT_18/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,607322.07,6.07,9,2025-08-27
+2026_DLB_PHAL_231790,NIT_94/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,15403502.52,154.04,18,2026-02-07
+2026_PHED_PHAL_358959,NIT_17/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,3955412.11,39.55,15,2025-07-31
+2026_PHED_PHAL_489922,NIT_34/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,17299596.82,173.0,20,2026-01-25
+2026_FORES_PHAL_668015,NIT_12/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,13070439.52,130.7,17,2026-03-27
+2026_PWD_PHAL_723285,NIT_61/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,882981.51,8.83,15,2025-12-07
+2026_UIT_PHAL_759770,NIT_51/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,656315.14,6.56,15,2025-06-14
+2026_UIT_PHAL_835638,NIT_70/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,937385.4,9.37,13,2025-08-05
+2026_PWD_PHAL_716551,NIT_70/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,2758711.68,27.59,18,2025-08-05
+2026_UIT_PHAL_558589,NIT_59/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,10884427.06,108.84,22,2025-12-14
+2026_UIT_PHAL_441734,NIT_52/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,930865.71,9.31,7,2026-03-18
+2026_FORES_PHAL_406536,NIT_45/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,4784825.33,47.85,17,2026-03-27
+2026_PHED_PHAL_729776,NIT_61/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,275662.43,2.76,7,2026-03-18
+2026_PWD_PHAL_118054,NIT_66/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,13647724.09,136.48,17,2025-10-25
+2026_WRD_PHAL_254891,NIT_67/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,72162576.23,721.63,30,2025-09-18
+2026_MEDIC_PHAL_419070,NIT_95/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,212727.52,2.13,14,2025-06-01
+2026_PWD_PHAL_581100,NIT_66/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,405590.21,4.06,14,2025-06-24
+2026_WRD_PHAL_940482,NIT_91/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,402585.17,4.03,15,2025-11-22
+2026_FORES_PHAL_135965,NIT_74/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,3567211.35,35.67,17,2025-09-16
+2026_FORES_PHAL_430745,NIT_35/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,702546.07,7.03,12,2025-07-10
+2026_FORES_PHAL_510918,NIT_53/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,644870.12,6.45,13,2025-12-24
+2026_PHED_PHAL_749292,NIT_57/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,176589.46,1.77,7,2025-09-26
+2026_PWD_PHAL_936243,NIT_34/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,831644.34,8.32,13,2025-11-16
+2026_PHED_PHAL_167974,NIT_26/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,577783.44,5.78,15,2025-08-03
+2026_MEDIC_PHAL_571756,NIT_13/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,4154789.9,41.55,18,2025-09-18
+2026_PHED_PHAL_571644,NIT_82/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,851936.56,8.52,9,2025-05-28
+2026_WRD_PHAL_860265,NIT_83/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,1689934.06,16.9,17,2025-05-23
+2026_DLB_PHAL_353056,NIT_10/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,4315485.31,43.15,13,2026-01-15
+2026_PWD_PHAL_969140,NIT_77/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,447583.18,4.48,13,2026-01-12
+2026_WRD_PHAL_816668,NIT_74/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,313350.89,3.13,15,2025-06-03
+2026_DLB_PHAL_564566,NIT_30/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,1796067.68,17.96,15,2026-03-08
+2026_DLB_PHAL_148158,NIT_61/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,68005530.62,680.06,35,2025-11-16
+2026_UIT_PHAL_355342,NIT_51/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,382488.53,3.82,12,2026-02-22
+2026_FORES_PHAL_563385,NIT_71/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,870162.46,8.7,7,2025-08-29
+2026_PWD_PHAL_287522,NIT_52/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,700756.61,7.01,15,2026-02-28
+2026_MEDIC_PHAL_873207,NIT_74/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,3105459.58,31.05,18,2025-09-11
+2026_UIT_PHAL_441136,NIT_77/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,508043.26,5.08,14,2025-12-14
+2026_WRD_PHAL_892798,NIT_56/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,777349.39,7.77,7,2025-12-26
+2026_PWD_PHAL_260344,NIT_46/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,4579498.51,45.79,14,2025-05-14
+2026_WRD_PHAL_162146,NIT_69/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,3806783.9,38.07,14,2026-01-22
+2026_PHED_PHAL_222623,NIT_61/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,453180.08,4.53,8,2025-11-06
+2026_UIT_PHAL_813589,NIT_24/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,218792.42,2.19,13,2025-11-10
+2026_PWD_PHAL_342176,NIT_92/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,2116997.78,21.17,17,2026-03-06
+2026_FORES_PHAL_473601,NIT_15/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,183673.75,1.84,11,2025-09-19
+2026_MEDIC_PHAL_415484,NIT_14/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,909170.47,9.09,9,2025-06-06
+2026_FORES_PHAL_600755,NIT_12/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,10804700.42,108.05,15,2026-02-28
+2026_DLB_PHAL_425235,NIT_87/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,781706.36,7.82,12,2025-11-10
+2026_FORES_PHAL_465202,NIT_99/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,4246124.25,42.46,18,2025-04-21
+2026_FORES_PHAL_336206,NIT_93/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,10633632.36,106.34,22,2025-06-11
+2026_UIT_PHAL_272745,NIT_48/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,440255.97,4.4,8,2025-12-05
+2026_PWD_PHAL_649430,NIT_38/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,338569.98,3.39,11,2026-02-24
+2026_FORES_PHAL_292914,NIT_43/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,2070551.04,20.71,16,2025-10-23
+2026_FORES_PHAL_359821,NIT_95/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,13583066.14,135.83,19,2025-09-30
+2026_PHED_PHAL_720440,NIT_80/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,22799643.7,228.0,38,2026-01-04
+2026_UIT_PHAL_872426,NIT_63/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,2909307.03,29.09,15,2025-05-24
+2026_WRD_PHAL_110743,NIT_97/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,610282.78,6.1,14,2025-04-27
+2026_MEDIC_PHAL_707701,NIT_74/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,4594578.65,45.95,17,2025-04-08
+2026_MEDIC_PHAL_625425,NIT_24/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,860031.92,8.6,15,2026-01-13
+2026_PWD_PHAL_333704,NIT_12/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,333858.2,3.34,11,2025-10-12
+2026_MEDIC_PHAL_213856,NIT_96/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,294506.48,2.95,7,2025-05-22
+2026_DLB_PHAL_364642,NIT_51/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,358887.24,3.59,9,2025-10-07
+2026_DLB_PHAL_342886,NIT_24/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,1630453.3,16.3,16,2025-05-26
+2026_PHED_PHAL_562815,NIT_61/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,624803.15,6.25,9,2025-06-22
+2026_UIT_PHAL_892635,NIT_84/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,433724.28,4.34,11,2025-12-07
+2026_WRD_PHAL_481534,NIT_14/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,594298.39,5.94,15,2026-02-10
+2026_UIT_PHAL_573277,NIT_25/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,11634212.8,116.34,20,2025-12-10
+2026_PWD_PHAL_544912,NIT_14/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,4401773.5,44.02,11,2025-08-14
+2026_UIT_PHAL_907400,NIT_42/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,508237.85,5.08,12,2025-04-19
+2026_UIT_PHAL_377777,NIT_43/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,762849.03,7.63,13,2025-08-12
+2026_WRD_PHAL_461760,NIT_97/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,677678.34,6.78,9,2026-02-01
+2026_UIT_PHAL_534202,NIT_86/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,9144129.05,91.44,16,2025-07-22
+2026_FORES_PHAL_957526,NIT_69/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,3141393.44,31.41,18,2025-12-05
+2026_UIT_PHAL_549389,NIT_27/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,166734.39,1.67,15,2025-07-08
+2026_DLB_PHAL_358505,NIT_86/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,2520663.55,25.21,12,2025-09-07
+2026_PHED_PHAL_956426,NIT_70/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,686093.91,6.86,2,2025-08-23
+2026_FORES_PHAL_808704,NIT_25/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,9491702.63,94.92,19,2025-04-02
+2026_UIT_PHAL_278632,NIT_65/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,705032.88,7.05,10,2025-08-23
+2026_PHED_PHAL_441363,NIT_55/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,423189.27,4.23,10,2025-06-13
+2026_UIT_PHAL_551141,NIT_29/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,814897.48,8.15,11,2025-06-02
+2026_UIT_PHAL_821347,NIT_56/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,425742.01,4.26,12,2025-08-18
+2026_PHED_PHAL_758956,NIT_56/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,15863696.95,158.64,20,2025-10-23
+2026_MEDIC_PHAL_627767,NIT_91/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,199407.12,1.99,15,2025-06-28
+2026_FORES_PHAL_113887,NIT_66/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,7357687.75,73.58,9,2025-07-06
+2026_PHED_PHAL_421758,NIT_14/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,3645998.9,36.46,13,2025-12-07
+2026_MEDIC_PHAL_210436,NIT_41/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,271156.93,2.71,14,2025-08-05
+2026_PHED_PHAL_262163,NIT_62/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,250299.37,2.5,13,2025-11-11
+2026_WRD_PHAL_555519,NIT_88/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,418594.49,4.19,15,2025-06-03
+2026_MEDIC_PHAL_765383,NIT_47/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,3908686.11,39.09,17,2026-02-22
+2026_FORES_PHAL_580042,NIT_47/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,616855.87,6.17,11,2025-08-16
+2026_MEDIC_PHAL_740234,NIT_34/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,779892.21,7.8,14,2025-09-25
+2026_FORES_PHAL_618945,NIT_30/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,940551.77,9.41,13,2025-10-27
+2026_MEDIC_PHAL_373294,NIT_87/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,4664762.21,46.65,6,2025-07-27
+2026_DLB_PHAL_780667,NIT_64/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,868051.56,8.68,10,2025-07-05
+2026_PWD_PHAL_300686,NIT_19/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,467465.99,4.67,10,2025-05-25
+2026_DLB_PHAL_572052,NIT_86/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,161851.04,1.62,7,2025-07-16
+2026_MEDIC_PHAL_813648,NIT_78/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,327286.54,3.27,12,2026-03-07
+2026_FORES_PHAL_200491,NIT_75/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,5416993.52,54.17,15,2025-06-20
+2026_PHED_PHAL_543940,NIT_27/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,580196.48,5.8,10,2025-12-13
+2026_MEDIC_PHAL_977185,NIT_98/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,15378921.82,153.79,18,2025-05-07
+2026_PWD_PHAL_470788,NIT_45/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,3955850.57,39.56,13,2026-01-14
+2026_DLB_PHAL_670611,NIT_22/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,2398048.03,23.98,11,2025-09-10
+2026_MEDIC_PHAL_942496,NIT_20/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,1130582.85,11.31,16,2025-04-07
+2026_MEDIC_PHAL_540652,NIT_33/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,338544.41,3.39,7,2025-08-27
+2026_DLB_PHAL_139713,NIT_28/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,478318.38,4.78,9,2025-06-13
+2026_WRD_PHAL_618475,NIT_80/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,3446615.6,34.47,15,2025-05-24
+2026_FORES_PHAL_919798,NIT_80/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,944503.97,9.45,13,2026-02-23
+2026_PWD_PHAL_930550,NIT_41/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,2315065.53,23.15,12,2025-05-04
+2026_PWD_PHAL_655080,NIT_47/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,176532.65,1.77,14,2026-02-09
+2026_MEDIC_PHAL_620533,NIT_93/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,5443729.01,54.44,23,2025-05-03
+2026_PWD_PHAL_691744,NIT_88/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,2841051.96,28.41,16,2025-12-28
+2026_DLB_PHAL_538723,NIT_57/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,189694.06,1.9,13,2026-01-08
+2026_PWD_PHAL_899854,NIT_60/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,595722.48,5.96,9,2025-05-29
+2026_WRD_PHAL_144011,NIT_66/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,4626818.04,46.27,13,2025-04-28
+2026_MEDIC_PHAL_819222,NIT_68/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,1360339.01,13.6,13,2026-01-22
+2026_PWD_PHAL_304483,NIT_89/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,158009.44,1.58,9,2025-04-14
+2026_PWD_PHAL_457867,NIT_95/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,10597898.57,105.98,15,2026-02-18
+2026_PHED_PHAL_783641,NIT_46/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,543950.14,5.44,12,2026-03-01
+2026_DLB_PHAL_753998,NIT_76/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,723013.83,7.23,9,2025-05-03
+2026_PHED_PHAL_276410,NIT_69/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,8352087.13,83.52,8,2025-06-29
+2026_PHED_PHAL_725008,NIT_36/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,7586306.14,75.86,17,2025-09-15
+2026_WRD_PHAL_138978,NIT_24/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,2162681.37,21.63,13,2026-01-07
+2026_FORES_PHAL_986840,NIT_47/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,11952379.84,119.52,16,2025-12-16
+2026_MEDIC_PHAL_521337,NIT_49/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,438806.05,4.39,15,2025-04-27
+2026_PWD_PHAL_598652,NIT_90/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,16669944.87,166.7,19,2025-11-06
+2026_PHED_PHAL_519203,NIT_62/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,939591.99,9.4,10,2025-12-01
+2026_UIT_PHAL_467406,NIT_56/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,932455.87,9.32,7,2025-08-22
+2026_UIT_PHAL_452512,NIT_79/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,345207.0,3.45,7,2025-04-07
+2026_UIT_PHAL_877711,NIT_73/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,748141.62,7.48,7,2025-07-06
+2026_PWD_PHAL_565358,NIT_28/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,225991.85,2.26,10,2025-10-03
+2026_MEDIC_PHAL_840937,NIT_74/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,151891.79,1.52,10,2025-05-27
+2026_UIT_PHAL_894152,NIT_57/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,688663.68,6.89,11,2025-04-10
+2026_PWD_PHAL_151129,NIT_20/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,399905.9,4.0,10,2025-07-16
+2026_WRD_PHAL_294607,NIT_10/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,4234527.98,42.35,12,2025-10-14
+2026_PWD_PHAL_819926,NIT_82/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,315653.97,3.16,11,2025-06-06
+2026_UIT_PHAL_505095,NIT_61/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,820303.45,8.2,8,2025-10-12
+2026_PWD_PHAL_407059,NIT_16/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,4440521.39,44.41,13,2025-05-24
+2026_PWD_PHAL_166906,NIT_70/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,6382868.45,63.83,19,2025-09-10
+2026_DLB_PHAL_874343,NIT_42/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,1223254.39,12.23,15,2025-04-15
+2026_MEDIC_PHAL_177178,NIT_86/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,866789.79,8.67,3,2025-10-29
+2026_UIT_PHAL_562396,NIT_39/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,3441328.77,34.41,16,2025-07-25
+2026_WRD_PHAL_727154,NIT_57/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,219622.63,2.2,10,2025-10-03
+2026_PHED_PHAL_376544,NIT_24/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,341846.48,3.42,9,2026-03-27
+2026_PHED_PHAL_945452,NIT_77/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,776706.31,7.77,8,2025-04-28
+2026_DLB_PHAL_534334,NIT_51/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,15446375.22,154.46,7,2026-01-23
+2026_PHED_PHAL_302657,NIT_56/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,856896.62,8.57,11,2025-05-12
+2026_FORES_PHAL_415636,NIT_84/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,185075.86,1.85,14,2025-09-20
+2026_PHED_PHAL_258501,NIT_26/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,720683.54,7.21,14,2026-03-22
+2026_UIT_PHAL_810609,NIT_54/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,7452362.26,74.52,22,2025-12-24
+2026_MEDIC_PHAL_837296,NIT_77/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,3280409.73,32.8,16,2026-01-09
+2026_UIT_PHAL_361383,NIT_22/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,531880.69,5.32,8,2025-05-18
+2026_PWD_PHAL_370593,NIT_30/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,3762445.59,37.62,14,2026-03-26
+2026_UIT_PHAL_625075,NIT_49/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,945200.53,9.45,13,2025-11-12
+2026_PHED_PHAL_177975,NIT_96/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,4557123.33,45.57,17,2025-08-14
+2026_PWD_PHAL_701216,NIT_10/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,695914.55,6.96,12,2025-09-06
+2026_WRD_PHAL_786454,NIT_16/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,12689931.34,126.9,18,2025-08-09
+2026_PWD_PHAL_228184,NIT_93/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,934379.73,9.34,14,2025-10-24
+2026_PWD_PHAL_583924,NIT_13/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,2501071.89,25.01,10,2025-05-29
+2026_PWD_PHAL_804751,NIT_26/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,511547.86,5.12,8,2026-03-07
+2026_MEDIC_PHAL_762139,NIT_93/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,220278.33,2.2,10,2025-09-10
+2026_DLB_PHAL_715651,NIT_58/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,436124.86,4.36,11,2025-04-07
+2026_PWD_PHAL_166743,NIT_82/PHA/2025-26,Public Works Department (Phalodi Circle),Phalodi,Jodhpur Division,201060.01,2.01,12,2025-08-27
+2026_UIT_PHAL_236189,NIT_61/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,728238.67,7.28,14,2026-01-09
+2026_UIT_PHAL_255768,NIT_47/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,1331702.55,13.32,14,2025-07-15
+2026_WRD_PHAL_899331,NIT_98/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,288022.34,2.88,8,2025-06-02
+2026_WRD_PHAL_596004,NIT_50/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,4341187.93,43.41,16,2025-06-13
+2026_WRD_PHAL_889466,NIT_77/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,7212803.87,72.13,21,2025-08-29
+2026_PHED_PHAL_878403,NIT_19/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,4037229.3,40.37,18,2025-08-12
+2026_DLB_PHAL_157476,NIT_38/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,2994447.86,29.94,15,2025-05-21
+2026_FORES_PHAL_835778,NIT_53/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,3350181.07,33.5,16,2025-10-18
+2026_WRD_PHAL_253996,NIT_18/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,826400.97,8.26,13,2025-08-10
+2026_WRD_PHAL_297472,NIT_39/PHA/2025-26,Water Resources Department (Phalodi Circle),Phalodi,Jodhpur Division,6559983.4,65.6,20,2025-04-05
+2026_DLB_PHAL_135371,NIT_51/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,666459.39,6.66,8,2026-03-20
+2026_PHED_PHAL_598917,NIT_93/PHA/2025-26,Public Health Engineering Department (Phalodi Circle),Phalodi,Jodhpur Division,1440846.63,14.41,14,2026-02-23
+2026_DLB_PHAL_878913,NIT_40/PHA/2025-26,Directorate of Local Bodies (Phalodi Circle),Phalodi,Jodhpur Division,3422761.67,34.23,10,2025-12-11
+2026_MEDIC_PHAL_727700,NIT_97/PHA/2025-26,Department of Medical Education (Phalodi Circle),Phalodi,Jodhpur Division,186410.4,1.86,13,2026-01-21
+2026_UIT_PHAL_817750,NIT_51/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,512295.29,5.12,8,2026-01-11
+2026_UIT_PHAL_903169,NIT_77/PHA/2025-26,Municipal Council Phalodi,Phalodi,Jodhpur Division,331937.4,3.32,5,2026-03-23
+2026_FORES_PHAL_438386,NIT_91/PHA/2025-26,Forest Department (Phalodi Circle),Phalodi,Jodhpur Division,17049591.55,170.5,19,2025-12-12

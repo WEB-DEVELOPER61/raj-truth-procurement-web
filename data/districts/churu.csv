@@ -1,0 +1,477 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_WRD_CHUR_630529,NIT_12/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,670319.39,6.7,7,2025-05-08
+2026_PHED_CHUR_558612,NIT_17/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,805340.35,8.05,11,2025-12-10
+2026_WRD_CHUR_850258,NIT_26/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,6857241.52,68.57,23,2025-07-02
+2026_DLB_CHUR_203994,NIT_81/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,775339.33,7.75,11,2025-09-11
+2026_DLB_CHUR_923573,NIT_60/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,616916.74,6.17,13,2025-06-20
+2026_WRD_CHUR_688940,NIT_99/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,17181815.96,171.82,15,2025-12-03
+2026_FORES_CHUR_263706,NIT_24/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,525957.44,5.26,12,2026-02-14
+2026_PWD_CHUR_468758,NIT_38/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,186581.8,1.87,10,2025-05-15
+2026_FORES_CHUR_739750,NIT_69/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,390253.61,3.9,10,2026-02-25
+2026_UIT_CHUR_749934,NIT_56/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,646735.55,6.47,7,2025-04-22
+2026_MEDIC_CHUR_566027,NIT_46/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,1281441.71,12.81,13,2026-01-17
+2026_DLB_CHUR_328008,NIT_51/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,18977125.16,189.77,15,2026-01-23
+2026_PHED_CHUR_796860,NIT_36/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,940759.61,9.41,15,2025-08-02
+2026_FORES_CHUR_710537,NIT_77/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,14657303.21,146.57,21,2026-02-11
+2026_PHED_CHUR_511666,NIT_58/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,918928.08,9.19,10,2026-01-24
+2026_PWD_CHUR_810613,NIT_80/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,609723.9,6.1,8,2025-12-13
+2026_FORES_CHUR_100615,NIT_71/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,1928600.86,19.29,11,2025-12-22
+2026_MEDIC_CHUR_910463,NIT_90/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2381806.91,23.82,11,2026-02-09
+2026_DLB_CHUR_825339,NIT_36/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,2091225.66,20.91,16,2025-04-17
+2026_DLB_CHUR_816624,NIT_21/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,513764.17,5.14,12,2025-08-27
+2026_WRD_CHUR_911534,NIT_12/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,537641.89,5.38,12,2025-10-20
+2026_MEDIC_CHUR_790140,NIT_64/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,588896.61,5.89,14,2025-12-11
+2026_FORES_CHUR_700388,NIT_16/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,774755.89,7.75,10,2026-01-12
+2026_UIT_CHUR_828466,NIT_78/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,2410818.73,24.11,18,2025-11-22
+2026_PWD_CHUR_706636,NIT_21/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,349964.52,3.5,8,2025-12-06
+2026_PWD_CHUR_877571,NIT_51/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,3228452.22,32.28,16,2026-01-27
+2026_DLB_CHUR_211774,NIT_43/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,910417.91,9.1,14,2026-03-09
+2026_MEDIC_CHUR_308401,NIT_75/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,614673.34,6.15,11,2025-12-25
+2026_PWD_CHUR_336992,NIT_95/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,347880.24,3.48,9,2026-01-27
+2026_FORES_CHUR_472451,NIT_45/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,655116.58,6.55,7,2025-09-26
+2026_FORES_CHUR_404548,NIT_52/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,8402633.44,84.03,19,2025-08-02
+2026_UIT_CHUR_189575,NIT_98/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,886437.57,8.86,12,2025-05-29
+2026_MEDIC_CHUR_722463,NIT_85/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,768555.9,7.69,11,2025-04-13
+2026_PHED_CHUR_516905,NIT_94/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,17395709.36,173.96,17,2026-01-22
+2026_MEDIC_CHUR_968197,NIT_21/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2674485.74,26.74,18,2026-02-21
+2026_PHED_CHUR_322525,NIT_33/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,453748.7,4.54,7,2025-07-25
+2026_FORES_CHUR_999809,NIT_79/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,419511.83,4.2,14,2025-06-06
+2026_MEDIC_CHUR_225669,NIT_52/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2441012.51,24.41,12,2025-05-24
+2026_MEDIC_CHUR_654859,NIT_34/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,61403459.97,614.03,30,2025-12-31
+2026_PWD_CHUR_904216,NIT_91/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,11578793.92,115.79,22,2025-11-07
+2026_PWD_CHUR_231508,NIT_45/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,253004.72,2.53,11,2025-05-09
+2026_WRD_CHUR_513234,NIT_79/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,89062120.23,890.62,30,2025-11-28
+2026_PHED_CHUR_607453,NIT_96/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,859195.24,8.59,11,2026-01-18
+2026_FORES_CHUR_743313,NIT_45/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,836916.64,8.37,8,2025-12-21
+2026_MEDIC_CHUR_959067,NIT_76/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,13170087.7,131.7,18,2026-02-25
+2026_DLB_CHUR_571690,NIT_42/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,194949.86,1.95,12,2025-10-27
+2026_FORES_CHUR_140626,NIT_13/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,785504.15,7.86,9,2026-01-24
+2026_WRD_CHUR_892208,NIT_72/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,169904.7,1.7,10,2025-09-25
+2026_FORES_CHUR_493206,NIT_37/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,366034.91,3.66,7,2025-12-02
+2026_MEDIC_CHUR_822887,NIT_76/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2893447.79,28.93,13,2025-11-01
+2026_FORES_CHUR_679099,NIT_88/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,1514626.6,15.15,12,2025-04-23
+2026_MEDIC_CHUR_988722,NIT_77/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,396572.29,3.97,10,2025-08-24
+2026_DLB_CHUR_566449,NIT_69/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,355994.73,3.56,11,2025-11-06
+2026_UIT_CHUR_305571,NIT_90/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,16402037.16,164.02,16,2026-02-08
+2026_PWD_CHUR_192107,NIT_32/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,12838920.77,128.39,19,2025-07-12
+2026_UIT_CHUR_703226,NIT_43/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,917408.32,9.17,7,2025-11-14
+2026_WRD_CHUR_625337,NIT_17/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,27758954.27,277.59,30,2025-09-25
+2026_DLB_CHUR_429700,NIT_27/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,1690956.07,16.91,12,2025-11-01
+2026_FORES_CHUR_675530,NIT_12/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,521241.61,5.21,7,2026-01-18
+2026_DLB_CHUR_579640,NIT_10/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,560324.71,5.6,15,2025-12-27
+2026_FORES_CHUR_652950,NIT_11/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,493031.47,4.93,10,2025-07-11
+2026_MEDIC_CHUR_234872,NIT_74/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2861308.28,28.61,11,2026-03-17
+2026_DLB_CHUR_258211,NIT_35/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,902910.91,9.03,9,2026-01-11
+2026_FORES_CHUR_664153,NIT_23/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,434590.8,4.35,10,2025-11-08
+2026_MEDIC_CHUR_913260,NIT_87/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,285605.42,2.86,7,2025-04-13
+2026_PHED_CHUR_320364,NIT_84/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,15987641.52,159.88,19,2025-07-23
+2026_PWD_CHUR_317768,NIT_47/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,433959.09,4.34,12,2025-05-03
+2026_DLB_CHUR_315910,NIT_77/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,12277626.34,122.78,17,2025-12-15
+2026_MEDIC_CHUR_739131,NIT_66/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,88203354.57,882.03,37,2025-09-12
+2026_WRD_CHUR_824045,NIT_88/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,586555.49,5.87,8,2025-12-30
+2026_PWD_CHUR_745337,NIT_81/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,222168.79,2.22,7,2026-01-05
+2026_MEDIC_CHUR_677322,NIT_93/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,921550.79,9.22,8,2025-05-31
+2026_PHED_CHUR_633232,NIT_24/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,9334086.69,93.34,23,2026-03-13
+2026_WRD_CHUR_133850,NIT_23/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,777099.48,7.77,11,2025-04-15
+2026_FORES_CHUR_905708,NIT_35/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,307484.23,3.07,13,2026-01-24
+2026_PWD_CHUR_163601,NIT_68/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,181355.7,1.81,7,2026-02-12
+2026_DLB_CHUR_240889,NIT_72/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,507433.12,5.07,13,2026-01-25
+2026_MEDIC_CHUR_530253,NIT_78/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,108010766.65,1080.11,17,2025-12-10
+2026_DLB_CHUR_285150,NIT_61/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,1249991.98,12.5,12,2025-12-02
+2026_FORES_CHUR_422256,NIT_57/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,8592813.29,85.93,21,2026-02-11
+2026_UIT_CHUR_536943,NIT_80/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,282307.51,2.82,7,2025-10-24
+2026_MEDIC_CHUR_251441,NIT_81/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,807261.0,8.07,8,2025-11-17
+2026_MEDIC_CHUR_759568,NIT_57/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,76032885.56,760.33,30,2025-07-31
+2026_PHED_CHUR_458119,NIT_16/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,171810.26,1.72,13,2025-10-19
+2026_PWD_CHUR_135404,NIT_33/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,102828344.11,1028.28,33,2026-01-10
+2026_UIT_CHUR_393777,NIT_96/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,501183.29,5.01,7,2025-11-01
+2026_MEDIC_CHUR_781586,NIT_89/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,907367.66,9.07,8,2025-11-26
+2026_PHED_CHUR_552186,NIT_67/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,4177482.45,41.77,12,2025-08-06
+2026_FORES_CHUR_182628,NIT_17/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,113054742.32,1130.55,34,2025-09-28
+2026_UIT_CHUR_705387,NIT_69/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,56142158.9,561.42,3,2025-05-26
+2026_PHED_CHUR_110538,NIT_73/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,328882.25,3.29,8,2025-10-10
+2026_PHED_CHUR_402961,NIT_74/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,241504.66,2.42,12,2025-04-11
+2026_PHED_CHUR_909196,NIT_69/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,3918930.97,39.19,15,2026-02-26
+2026_DLB_CHUR_934744,NIT_68/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,4665278.14,46.65,11,2026-02-04
+2026_WRD_CHUR_657351,NIT_49/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,3972366.45,39.72,11,2026-03-25
+2026_PHED_CHUR_620354,NIT_34/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,871983.07,8.72,15,2026-03-03
+2026_PHED_CHUR_404183,NIT_34/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,50512248.75,505.12,30,2025-12-17
+2026_WRD_CHUR_569660,NIT_58/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,4631265.16,46.31,13,2025-10-15
+2026_PHED_CHUR_348618,NIT_83/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,6337438.8,63.37,20,2025-04-02
+2026_PHED_CHUR_425545,NIT_78/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,839736.13,8.4,12,2025-09-10
+2026_UIT_CHUR_892595,NIT_32/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,419310.49,4.19,14,2026-03-21
+2026_UIT_CHUR_757943,NIT_16/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,73011241.85,730.11,25,2025-07-15
+2026_WRD_CHUR_994929,NIT_71/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,3991986.58,39.92,18,2026-02-16
+2026_MEDIC_CHUR_676104,NIT_28/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,5797725.5,57.98,22,2025-06-28
+2026_MEDIC_CHUR_286589,NIT_88/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,30554098.51,305.54,34,2025-07-28
+2026_PWD_CHUR_758414,NIT_61/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,3377051.95,33.77,18,2025-05-01
+2026_PWD_CHUR_921686,NIT_62/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,567933.38,5.68,8,2025-11-05
+2026_PWD_CHUR_272584,NIT_90/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,193383.81,1.93,8,2025-06-26
+2026_PHED_CHUR_211474,NIT_27/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,434195.72,4.34,11,2025-12-08
+2026_UIT_CHUR_260199,NIT_40/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,568882.52,5.69,15,2025-08-25
+2026_MEDIC_CHUR_698669,NIT_98/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,858920.96,8.59,13,2026-01-18
+2026_MEDIC_CHUR_116258,NIT_99/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,252766.72,2.53,7,2026-01-14
+2026_PWD_CHUR_327359,NIT_57/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,678652.04,6.79,15,2025-05-17
+2026_PHED_CHUR_592764,NIT_99/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,363848.37,3.64,8,2025-09-03
+2026_UIT_CHUR_182369,NIT_50/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,750202.91,7.5,12,2025-06-07
+2026_UIT_CHUR_228419,NIT_17/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,755058.49,7.55,7,2025-09-23
+2026_MEDIC_CHUR_662369,NIT_85/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,602831.96,6.03,8,2025-04-13
+2026_FORES_CHUR_412673,NIT_47/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,3783578.34,37.84,16,2026-03-09
+2026_FORES_CHUR_950620,NIT_23/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,712315.55,7.12,11,2025-07-12
+2026_WRD_CHUR_113734,NIT_54/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,199847.22,2.0,13,2025-12-13
+2026_PWD_CHUR_971690,NIT_87/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,2197081.75,21.97,15,2025-11-19
+2026_UIT_CHUR_429983,NIT_42/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,14901955.11,149.02,20,2025-12-19
+2026_MEDIC_CHUR_589679,NIT_26/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,616086.83,6.16,7,2025-09-27
+2026_UIT_CHUR_482482,NIT_28/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,2101254.58,21.01,18,2025-12-06
+2026_FORES_CHUR_191673,NIT_51/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,51241235.43,512.41,32,2025-06-28
+2026_MEDIC_CHUR_818327,NIT_96/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,7892889.73,78.93,22,2025-06-21
+2026_WRD_CHUR_854507,NIT_47/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,592957.13,5.93,12,2026-02-04
+2026_MEDIC_CHUR_432119,NIT_68/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,1751017.38,17.51,18,2025-10-09
+2026_UIT_CHUR_967733,NIT_52/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,678474.41,6.78,10,2026-03-17
+2026_UIT_CHUR_131883,NIT_87/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,3771582.49,37.72,12,2026-01-30
+2026_DLB_CHUR_817341,NIT_68/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,97755650.79,977.56,36,2025-05-11
+2026_MEDIC_CHUR_631762,NIT_27/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,853976.06,8.54,7,2025-08-16
+2026_PWD_CHUR_539240,NIT_26/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,5934401.05,59.34,18,2025-08-23
+2026_PWD_CHUR_111038,NIT_29/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,811486.72,8.11,7,2025-05-25
+2026_UIT_CHUR_795237,NIT_35/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,26048065.17,260.48,5,2025-08-04
+2026_PHED_CHUR_507845,NIT_40/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,1976513.35,19.77,16,2025-12-20
+2026_WRD_CHUR_720757,NIT_62/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,490858.49,4.91,14,2025-07-12
+2026_WRD_CHUR_870859,NIT_75/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,1518506.64,15.19,13,2026-01-18
+2026_UIT_CHUR_951717,NIT_21/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,296298.25,2.96,8,2026-02-02
+2026_PWD_CHUR_366435,NIT_34/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,709110.43,7.09,13,2025-04-17
+2026_WRD_CHUR_539875,NIT_83/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,5962386.85,59.62,19,2026-03-24
+2026_FORES_CHUR_366903,NIT_42/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,729505.53,7.3,13,2026-02-10
+2026_WRD_CHUR_417183,NIT_27/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,3481312.75,34.81,10,2025-10-28
+2026_DLB_CHUR_114892,NIT_88/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,638348.53,6.38,12,2025-07-16
+2026_FORES_CHUR_139369,NIT_39/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,286864.01,2.87,8,2025-09-21
+2026_PWD_CHUR_763028,NIT_81/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,66647918.78,666.48,3,2026-03-13
+2026_UIT_CHUR_420396,NIT_45/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,893902.52,8.94,13,2025-07-27
+2026_MEDIC_CHUR_704929,NIT_81/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,3222923.69,32.23,14,2025-04-20
+2026_PWD_CHUR_422811,NIT_42/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,3817629.68,38.18,17,2026-01-18
+2026_PWD_CHUR_830255,NIT_92/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,4482066.44,44.82,17,2026-02-23
+2026_PHED_CHUR_441906,NIT_74/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,6053899.51,60.54,16,2025-11-07
+2026_PHED_CHUR_209656,NIT_75/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,3308258.69,33.08,17,2025-09-30
+2026_PWD_CHUR_901146,NIT_10/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,480698.39,4.81,9,2025-05-23
+2026_WRD_CHUR_298807,NIT_88/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,14231999.24,142.32,11,2025-04-13
+2026_FORES_CHUR_536822,NIT_71/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,720443.43,7.2,15,2026-02-16
+2026_UIT_CHUR_229680,NIT_67/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,641225.27,6.41,7,2025-07-13
+2026_FORES_CHUR_762044,NIT_39/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,113316234.76,1133.16,33,2025-12-04
+2026_WRD_CHUR_915464,NIT_92/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,3544952.18,35.45,11,2025-07-20
+2026_FORES_CHUR_101264,NIT_98/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,6578627.49,65.79,19,2025-08-24
+2026_MEDIC_CHUR_438845,NIT_69/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,1312453.86,13.12,14,2025-05-29
+2026_PWD_CHUR_293458,NIT_86/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,5574397.03,55.74,9,2026-01-16
+2026_PWD_CHUR_968837,NIT_79/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,96648725.74,966.49,36,2025-05-10
+2026_PWD_CHUR_534445,NIT_73/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,172642.92,1.73,13,2025-12-03
+2026_PWD_CHUR_294119,NIT_51/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,715756.23,7.16,9,2025-11-30
+2026_UIT_CHUR_210082,NIT_70/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,535122.28,5.35,9,2025-10-21
+2026_MEDIC_CHUR_786067,NIT_51/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,3723988.43,37.24,17,2025-12-30
+2026_UIT_CHUR_174293,NIT_17/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,778668.42,7.79,15,2026-01-29
+2026_WRD_CHUR_165743,NIT_62/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,801638.39,8.02,13,2025-07-29
+2026_PWD_CHUR_624745,NIT_55/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,447204.75,4.47,13,2025-11-21
+2026_DLB_CHUR_838263,NIT_72/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,74439059.56,744.39,35,2025-09-01
+2026_PWD_CHUR_184972,NIT_64/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,3546960.76,35.47,11,2025-05-15
+2026_WRD_CHUR_317451,NIT_46/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,166628.96,1.67,12,2025-06-14
+2026_UIT_CHUR_418745,NIT_27/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,489577.41,4.9,13,2026-03-05
+2026_MEDIC_CHUR_926535,NIT_65/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,606134.45,6.06,13,2025-12-21
+2026_DLB_CHUR_745322,NIT_83/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,802649.28,8.03,14,2026-01-11
+2026_PHED_CHUR_627636,NIT_25/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,470210.72,4.7,11,2025-05-29
+2026_UIT_CHUR_355599,NIT_73/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,13345187.29,133.45,15,2025-08-27
+2026_MEDIC_CHUR_960860,NIT_71/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,25221689.92,252.22,30,2025-08-01
+2026_PWD_CHUR_205737,NIT_19/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,445694.14,4.46,14,2025-04-28
+2026_PWD_CHUR_664823,NIT_38/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,159820.74,1.6,14,2025-12-16
+2026_WRD_CHUR_742187,NIT_12/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,553195.44,5.53,12,2025-10-11
+2026_PWD_CHUR_817074,NIT_89/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,381726.17,3.82,9,2025-04-13
+2026_PWD_CHUR_306349,NIT_15/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,270839.15,2.71,9,2025-07-10
+2026_MEDIC_CHUR_906029,NIT_91/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,349796.8,3.5,7,2025-08-05
+2026_WRD_CHUR_572842,NIT_20/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,336473.83,3.36,15,2025-08-12
+2026_WRD_CHUR_609855,NIT_30/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,3399238.54,33.99,12,2025-05-27
+2026_MEDIC_CHUR_508929,NIT_93/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,3718845.97,37.19,17,2025-07-28
+2026_UIT_CHUR_487833,NIT_20/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,2257734.98,22.58,16,2025-04-25
+2026_FORES_CHUR_504130,NIT_65/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,199544.94,2.0,13,2025-10-27
+2026_WRD_CHUR_608474,NIT_21/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,7228911.77,72.29,21,2026-02-23
+2026_UIT_CHUR_956752,NIT_81/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,42840264.82,428.4,37,2025-09-22
+2026_PWD_CHUR_819425,NIT_52/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,819249.75,8.19,7,2025-04-13
+2026_WRD_CHUR_983198,NIT_75/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,335603.42,3.36,14,2026-02-20
+2026_PHED_CHUR_524753,NIT_16/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,497305.68,4.97,7,2025-05-07
+2026_DLB_CHUR_977494,NIT_87/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,565830.85,5.66,8,2025-04-21
+2026_MEDIC_CHUR_452958,NIT_89/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,292028.46,2.92,10,2025-07-29
+2026_PHED_CHUR_659426,NIT_52/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,3391562.29,33.92,18,2025-07-27
+2026_WRD_CHUR_433710,NIT_24/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,210446.23,2.1,8,2026-03-23
+2026_PWD_CHUR_965388,NIT_59/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,426694.12,4.27,8,2025-07-20
+2026_MEDIC_CHUR_257171,NIT_31/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,281875.83,2.82,10,2025-10-12
+2026_UIT_CHUR_455806,NIT_75/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,75251571.66,752.52,36,2025-04-25
+2026_WRD_CHUR_257594,NIT_14/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,727855.25,7.28,15,2025-06-12
+2026_WRD_CHUR_252549,NIT_58/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,4119556.56,41.2,11,2025-07-08
+2026_UIT_CHUR_630243,NIT_74/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,449308.68,4.49,13,2026-01-21
+2026_WRD_CHUR_139636,NIT_88/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,388888.59,3.89,14,2025-05-10
+2026_MEDIC_CHUR_656781,NIT_27/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,3282175.54,32.82,17,2025-12-30
+2026_PWD_CHUR_904461,NIT_73/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,861876.25,8.62,12,2025-08-09
+2026_WRD_CHUR_837806,NIT_76/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,739785.16,7.4,13,2025-05-24
+2026_MEDIC_CHUR_562531,NIT_16/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,171800.91,1.72,10,2025-10-29
+2026_WRD_CHUR_171776,NIT_28/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,1742522.7,17.43,13,2025-10-02
+2026_DLB_CHUR_513006,NIT_87/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,1444187.7,14.44,17,2025-07-03
+2026_UIT_CHUR_817457,NIT_52/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,624450.09,6.24,13,2026-01-04
+2026_WRD_CHUR_285419,NIT_22/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,3744705.68,37.45,18,2025-09-10
+2026_PHED_CHUR_903247,NIT_51/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,802808.17,8.03,11,2025-08-04
+2026_PWD_CHUR_199269,NIT_91/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,4494361.94,44.94,12,2025-10-20
+2026_UIT_CHUR_583620,NIT_39/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,469609.33,4.7,12,2025-05-25
+2026_WRD_CHUR_349778,NIT_21/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,1214453.67,12.14,13,2025-04-12
+2026_MEDIC_CHUR_129540,NIT_47/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,52727188.63,527.27,27,2025-04-19
+2026_PHED_CHUR_439825,NIT_88/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,5823486.91,58.23,22,2025-11-10
+2026_MEDIC_CHUR_192051,NIT_69/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,237296.87,2.37,12,2025-05-05
+2026_FORES_CHUR_632195,NIT_45/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,18701808.79,187.02,22,2025-06-16
+2026_MEDIC_CHUR_415901,NIT_70/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,808551.68,8.09,8,2026-02-07
+2026_MEDIC_CHUR_259169,NIT_72/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,37935488.22,379.35,38,2026-03-27
+2026_DLB_CHUR_664423,NIT_35/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,800110.56,8.0,7,2025-11-03
+2026_WRD_CHUR_462315,NIT_94/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,646560.36,6.47,14,2025-10-21
+2026_PWD_CHUR_353682,NIT_55/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,424263.28,4.24,7,2026-03-24
+2026_PHED_CHUR_235302,NIT_66/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,646329.57,6.46,14,2025-11-20
+2026_FORES_CHUR_128922,NIT_14/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,1377596.99,13.78,10,2026-01-08
+2026_WRD_CHUR_916907,NIT_53/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,89404269.0,894.04,34,2026-01-05
+2026_MEDIC_CHUR_846010,NIT_86/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,3113686.31,31.14,11,2025-05-18
+2026_MEDIC_CHUR_635478,NIT_83/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2672505.07,26.73,14,2025-04-18
+2026_WRD_CHUR_245024,NIT_96/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,2265401.24,22.65,14,2025-04-11
+2026_FORES_CHUR_505056,NIT_13/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,655857.92,6.56,10,2025-06-10
+2026_MEDIC_CHUR_111326,NIT_16/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,558621.13,5.59,7,2026-01-20
+2026_PWD_CHUR_450330,NIT_73/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,697132.8,6.97,12,2025-04-02
+2026_UIT_CHUR_909797,NIT_65/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,712384.93,7.12,13,2025-06-27
+2026_PHED_CHUR_732596,NIT_78/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,871231.28,8.71,9,2025-09-16
+2026_PWD_CHUR_462450,NIT_41/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,557208.8,5.57,10,2025-05-18
+2026_PHED_CHUR_305292,NIT_50/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,597590.27,5.98,11,2025-06-18
+2026_PWD_CHUR_699456,NIT_43/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,224655.51,2.25,11,2025-11-07
+2026_FORES_CHUR_893303,NIT_30/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,18705573.2,187.06,5,2025-09-05
+2026_WRD_CHUR_869624,NIT_73/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,658237.57,6.58,9,2025-11-16
+2026_PHED_CHUR_905232,NIT_21/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,788747.6,7.89,9,2025-05-16
+2026_PWD_CHUR_774146,NIT_75/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,1175869.57,11.76,12,2026-03-07
+2026_MEDIC_CHUR_332798,NIT_79/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,178869.24,1.79,15,2025-09-23
+2026_UIT_CHUR_776559,NIT_68/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,817343.19,8.17,10,2025-06-09
+2026_PWD_CHUR_790844,NIT_65/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,417394.01,4.17,12,2025-10-05
+2026_DLB_CHUR_771555,NIT_68/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,339546.94,3.4,13,2025-05-08
+2026_PWD_CHUR_576634,NIT_27/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,783118.05,7.83,15,2026-03-26
+2026_DLB_CHUR_863572,NIT_63/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,654159.86,6.54,14,2025-07-30
+2026_PHED_CHUR_404913,NIT_63/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,1150822.68,11.51,10,2025-09-26
+2026_PWD_CHUR_242559,NIT_98/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,1389121.69,13.89,15,2025-04-06
+2026_FORES_CHUR_916461,NIT_57/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,558842.98,5.59,10,2025-10-20
+2026_FORES_CHUR_646756,NIT_31/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,413383.14,4.13,7,2026-02-21
+2026_PHED_CHUR_393256,NIT_93/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,890056.0,8.9,12,2026-02-27
+2026_UIT_CHUR_934847,NIT_28/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,10379389.8,103.79,18,2025-08-25
+2026_WRD_CHUR_298874,NIT_32/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,756151.06,7.56,15,2025-07-08
+2026_DLB_CHUR_972481,NIT_31/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,4155000.57,41.55,10,2025-07-04
+2026_FORES_CHUR_618640,NIT_36/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,1749414.81,17.49,14,2025-09-03
+2026_MEDIC_CHUR_402576,NIT_11/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,663971.1,6.64,3,2025-07-20
+2026_WRD_CHUR_402859,NIT_45/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,464575.72,4.65,9,2025-12-12
+2026_FORES_CHUR_940016,NIT_87/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,824823.7,8.25,14,2025-06-18
+2026_DLB_CHUR_284742,NIT_45/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,768569.51,7.69,14,2025-11-16
+2026_PHED_CHUR_816216,NIT_12/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,362488.38,3.62,11,2025-08-25
+2026_PHED_CHUR_963794,NIT_72/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,945796.12,9.46,9,2026-02-21
+2026_MEDIC_CHUR_957987,NIT_29/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,419180.55,4.19,11,2026-01-11
+2026_WRD_CHUR_686027,NIT_30/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,747693.33,7.48,12,2026-01-21
+2026_DLB_CHUR_482209,NIT_57/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,13416028.66,134.16,19,2025-05-25
+2026_PHED_CHUR_125853,NIT_10/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,555148.79,5.55,14,2025-05-18
+2026_PWD_CHUR_542395,NIT_28/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,8232840.83,82.33,21,2026-01-14
+2026_PHED_CHUR_901885,NIT_23/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,70985123.1,709.85,34,2025-10-15
+2026_FORES_CHUR_401367,NIT_84/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,52900234.02,529.0,36,2026-03-10
+2026_FORES_CHUR_450173,NIT_61/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,14832692.85,148.33,3,2025-12-09
+2026_DLB_CHUR_778518,NIT_28/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,373762.55,3.74,8,2025-07-31
+2026_FORES_CHUR_162524,NIT_84/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,476526.85,4.77,9,2025-11-22
+2026_FORES_CHUR_336705,NIT_47/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,3699827.95,37.0,17,2026-02-01
+2026_UIT_CHUR_788493,NIT_49/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,4764519.28,47.65,18,2025-08-26
+2026_FORES_CHUR_412743,NIT_31/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,11213297.39,112.13,20,2025-07-24
+2026_DLB_CHUR_142130,NIT_57/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,67656389.57,676.56,34,2025-05-13
+2026_WRD_CHUR_637127,NIT_69/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,395708.48,3.96,12,2026-03-08
+2026_PWD_CHUR_281524,NIT_28/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,275537.51,2.76,8,2026-01-04
+2026_FORES_CHUR_490999,NIT_94/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,930371.14,9.3,13,2025-12-20
+2026_PWD_CHUR_178411,NIT_58/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,712069.66,7.12,15,2026-02-06
+2026_PWD_CHUR_425125,NIT_86/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,199223.99,1.99,13,2026-02-04
+2026_MEDIC_CHUR_223192,NIT_57/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2794321.61,27.94,10,2025-05-01
+2026_WRD_CHUR_865846,NIT_74/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,14470561.81,144.71,15,2025-12-25
+2026_FORES_CHUR_113858,NIT_29/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,451506.67,4.52,15,2025-06-13
+2026_PHED_CHUR_367344,NIT_83/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,5414975.78,54.15,18,2025-09-06
+2026_PHED_CHUR_915167,NIT_73/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,2058910.85,20.59,18,2025-08-30
+2026_DLB_CHUR_436571,NIT_31/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,7466874.01,74.67,16,2025-09-09
+2026_DLB_CHUR_294712,NIT_91/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,388630.64,3.89,14,2025-06-11
+2026_MEDIC_CHUR_730476,NIT_50/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,16286317.82,162.86,17,2025-04-18
+2026_WRD_CHUR_316632,NIT_14/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,1406347.52,14.06,12,2025-10-30
+2026_UIT_CHUR_341578,NIT_73/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,446159.47,4.46,14,2026-03-20
+2026_FORES_CHUR_291950,NIT_83/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,901934.89,9.02,15,2025-10-03
+2026_MEDIC_CHUR_947000,NIT_53/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,11512637.14,115.13,20,2025-11-27
+2026_WRD_CHUR_724806,NIT_83/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,527209.47,5.27,9,2026-01-17
+2026_FORES_CHUR_186607,NIT_78/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,572740.23,5.73,8,2026-02-13
+2026_WRD_CHUR_142803,NIT_54/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,374320.72,3.74,11,2025-10-29
+2026_FORES_CHUR_475333,NIT_32/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,3226712.89,32.27,18,2026-01-25
+2026_PHED_CHUR_478384,NIT_76/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,5913695.85,59.14,22,2025-10-15
+2026_UIT_CHUR_671209,NIT_27/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,692677.68,6.93,3,2025-08-07
+2026_UIT_CHUR_242360,NIT_61/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,168907.73,1.69,11,2025-06-04
+2026_FORES_CHUR_226495,NIT_21/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,68879122.11,688.79,34,2026-02-09
+2026_DLB_CHUR_261480,NIT_67/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,2032936.52,20.33,16,2026-01-12
+2026_UIT_CHUR_857353,NIT_49/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,12674932.35,126.75,3,2025-05-05
+2026_PHED_CHUR_834400,NIT_48/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,261242.49,2.61,12,2025-09-10
+2026_FORES_CHUR_124622,NIT_45/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,395176.68,3.95,7,2025-10-08
+2026_DLB_CHUR_856555,NIT_24/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,917529.72,9.18,13,2025-06-06
+2026_PWD_CHUR_634448,NIT_92/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,1173317.78,11.73,8,2025-04-27
+2026_WRD_CHUR_192490,NIT_28/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,914211.04,9.14,15,2025-10-28
+2026_FORES_CHUR_146157,NIT_47/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,628069.91,6.28,9,2026-02-24
+2026_PHED_CHUR_428530,NIT_15/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,647436.48,6.47,7,2025-06-03
+2026_PWD_CHUR_745833,NIT_79/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,551589.86,5.52,13,2025-05-14
+2026_DLB_CHUR_246485,NIT_76/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,15922763.59,159.23,21,2025-06-01
+2026_PHED_CHUR_491883,NIT_82/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,251702.09,2.52,14,2025-10-25
+2026_PWD_CHUR_363495,NIT_15/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,1733729.62,17.34,13,2025-04-08
+2026_UIT_CHUR_222304,NIT_11/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,5885119.04,58.85,20,2025-06-15
+2026_WRD_CHUR_373577,NIT_14/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,840482.0,8.4,10,2025-10-04
+2026_FORES_CHUR_217621,NIT_94/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,3788788.3,37.89,13,2025-08-20
+2026_FORES_CHUR_431610,NIT_73/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,59047994.02,590.48,37,2025-12-15
+2026_FORES_CHUR_719654,NIT_68/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,82466909.19,824.67,31,2025-05-13
+2026_DLB_CHUR_783678,NIT_98/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,735042.62,7.35,11,2025-10-17
+2026_DLB_CHUR_512067,NIT_95/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,651955.25,6.52,13,2025-07-24
+2026_FORES_CHUR_840920,NIT_20/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,560330.85,5.6,14,2025-12-14
+2026_UIT_CHUR_772619,NIT_68/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,2483040.9,24.83,12,2025-08-28
+2026_WRD_CHUR_644902,NIT_91/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,2185981.67,21.86,11,2025-10-19
+2026_DLB_CHUR_291103,NIT_64/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,1885994.02,18.86,15,2025-08-30
+2026_FORES_CHUR_634918,NIT_47/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,414057.63,4.14,12,2025-08-15
+2026_UIT_CHUR_217881,NIT_62/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,939511.25,9.4,10,2025-06-01
+2026_WRD_CHUR_286405,NIT_24/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,3560447.69,35.6,17,2025-07-01
+2026_FORES_CHUR_348905,NIT_76/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,175850.25,1.76,14,2025-04-26
+2026_WRD_CHUR_448211,NIT_48/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,2095079.52,20.95,14,2025-05-18
+2026_UIT_CHUR_281741,NIT_42/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,329029.95,3.29,12,2025-12-27
+2026_MEDIC_CHUR_761553,NIT_30/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,173451.11,1.73,7,2026-02-25
+2026_WRD_CHUR_780383,NIT_29/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,457890.02,4.58,13,2025-05-20
+2026_FORES_CHUR_876644,NIT_41/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,453507.3,4.54,10,2025-09-05
+2026_FORES_CHUR_646930,NIT_56/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,255870.59,2.56,9,2026-02-06
+2026_WRD_CHUR_638476,NIT_10/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,316091.11,3.16,9,2025-04-14
+2026_PWD_CHUR_338076,NIT_31/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,743856.93,7.44,13,2025-12-19
+2026_WRD_CHUR_486462,NIT_82/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,799569.83,8.0,9,2025-05-10
+2026_FORES_CHUR_192085,NIT_70/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,888864.34,8.89,15,2025-04-09
+2026_PWD_CHUR_275515,NIT_74/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,1471826.65,14.72,13,2026-02-04
+2026_PWD_CHUR_943196,NIT_41/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,193632.23,1.94,8,2025-10-10
+2026_DLB_CHUR_798913,NIT_12/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,1668783.68,16.69,12,2026-02-15
+2026_UIT_CHUR_750498,NIT_17/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,4036825.94,40.37,13,2025-08-20
+2026_PWD_CHUR_205377,NIT_12/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,2781825.85,27.82,15,2026-03-13
+2026_PWD_CHUR_237144,NIT_25/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,101094822.35,1010.95,33,2025-04-29
+2026_FORES_CHUR_551055,NIT_98/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,150980.61,1.51,10,2025-12-17
+2026_FORES_CHUR_254898,NIT_89/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,1389945.22,13.9,13,2026-01-28
+2026_UIT_CHUR_965915,NIT_44/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,118300001.27,1183.0,23,2025-05-31
+2026_MEDIC_CHUR_977450,NIT_71/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,7170893.13,71.71,18,2025-07-28
+2026_UIT_CHUR_186683,NIT_69/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,425445.96,4.25,10,2025-11-08
+2026_PHED_CHUR_996961,NIT_24/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,241176.02,2.41,13,2026-02-26
+2026_MEDIC_CHUR_938968,NIT_54/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,651655.07,6.52,8,2025-11-21
+2026_MEDIC_CHUR_163181,NIT_79/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,3128772.21,31.29,17,2025-10-19
+2026_PHED_CHUR_374436,NIT_25/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,3859548.16,38.6,15,2025-07-24
+2026_PWD_CHUR_547861,NIT_44/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,172960.42,1.73,10,2025-11-17
+2026_PHED_CHUR_701734,NIT_37/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,917921.01,9.18,11,2025-10-06
+2026_FORES_CHUR_826926,NIT_69/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,4678689.02,46.79,12,2026-02-09
+2026_UIT_CHUR_682686,NIT_64/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,166489.68,1.66,10,2025-11-30
+2026_DLB_CHUR_693113,NIT_13/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,17000505.04,170.01,18,2025-05-13
+2026_DLB_CHUR_766911,NIT_13/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,4624644.39,46.25,17,2025-06-28
+2026_PWD_CHUR_967691,NIT_90/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,833671.68,8.34,14,2026-03-08
+2026_MEDIC_CHUR_689713,NIT_93/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,4428461.04,44.28,12,2026-01-02
+2026_UIT_CHUR_575982,NIT_75/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,911566.72,9.12,12,2025-04-05
+2026_PWD_CHUR_756397,NIT_36/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,1345304.22,13.45,13,2025-10-09
+2026_UIT_CHUR_397118,NIT_75/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,118602867.98,1186.03,32,2025-09-11
+2026_PHED_CHUR_747697,NIT_58/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,11967181.45,119.67,17,2025-07-20
+2026_MEDIC_CHUR_444119,NIT_35/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,154301.59,1.54,12,2026-01-17
+2026_WRD_CHUR_295103,NIT_29/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,320688.42,3.21,10,2025-05-25
+2026_WRD_CHUR_726554,NIT_94/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,698684.48,6.99,12,2026-03-23
+2026_PWD_CHUR_670870,NIT_52/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,183604.62,1.84,14,2025-06-04
+2026_PHED_CHUR_632795,NIT_22/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,189658.73,1.9,8,2026-01-11
+2026_FORES_CHUR_629366,NIT_66/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,156610.85,1.57,15,2025-09-18
+2026_PWD_CHUR_143654,NIT_16/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,326554.66,3.27,8,2025-05-22
+2026_FORES_CHUR_332028,NIT_26/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,864299.03,8.64,7,2026-01-14
+2026_DLB_CHUR_130503,NIT_34/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,331383.53,3.31,13,2025-05-07
+2026_PHED_CHUR_521478,NIT_84/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,102513441.39,1025.13,38,2025-05-01
+2026_DLB_CHUR_732886,NIT_41/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,3654874.57,36.55,16,2026-02-05
+2026_DLB_CHUR_736509,NIT_10/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,660947.2,6.61,9,2025-07-20
+2026_PWD_CHUR_705650,NIT_40/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,504131.49,5.04,15,2025-05-02
+2026_WRD_CHUR_381088,NIT_61/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,151665.16,1.52,8,2026-02-04
+2026_WRD_CHUR_714759,NIT_31/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,322550.07,3.23,9,2025-05-01
+2026_PHED_CHUR_609238,NIT_36/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,909023.0,9.09,7,2025-09-06
+2026_UIT_CHUR_705586,NIT_82/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,11962329.82,119.62,15,2025-05-25
+2026_WRD_CHUR_391483,NIT_38/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,1063720.42,10.64,11,2026-02-15
+2026_DLB_CHUR_610264,NIT_13/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,4007985.37,40.08,12,2026-03-18
+2026_PWD_CHUR_159969,NIT_70/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,400796.98,4.01,10,2025-09-29
+2026_UIT_CHUR_811884,NIT_47/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,14615664.64,146.16,20,2026-03-09
+2026_PHED_CHUR_904528,NIT_71/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,10000030.56,100.0,17,2026-02-20
+2026_MEDIC_CHUR_288000,NIT_59/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,784277.75,7.84,11,2026-01-16
+2026_PWD_CHUR_381972,NIT_76/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,417318.49,4.17,8,2025-12-16
+2026_MEDIC_CHUR_408793,NIT_61/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,407884.46,4.08,12,2025-08-09
+2026_FORES_CHUR_561551,NIT_38/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,807087.64,8.07,10,2026-02-27
+2026_PWD_CHUR_187833,NIT_64/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,1495912.64,14.96,17,2026-02-05
+2026_PHED_CHUR_412551,NIT_33/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,452469.41,4.52,8,2025-05-04
+2026_UIT_CHUR_436121,NIT_12/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,509362.28,5.09,9,2025-07-15
+2026_PHED_CHUR_911837,NIT_25/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,865757.55,8.66,11,2025-10-11
+2026_DLB_CHUR_431966,NIT_36/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,925099.53,9.25,12,2025-12-06
+2026_PWD_CHUR_446189,NIT_55/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,11385609.01,113.86,4,2025-08-19
+2026_PHED_CHUR_963445,NIT_94/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,4296770.68,42.97,17,2025-10-18
+2026_DLB_CHUR_785732,NIT_89/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,3515948.17,35.16,18,2025-06-05
+2026_WRD_CHUR_905351,NIT_45/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,156419.85,1.56,9,2025-12-29
+2026_PHED_CHUR_234756,NIT_42/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,1684052.03,16.84,15,2025-08-15
+2026_PWD_CHUR_140756,NIT_75/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,791397.64,7.91,14,2026-02-05
+2026_FORES_CHUR_526059,NIT_70/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,2519395.44,25.19,13,2025-07-27
+2026_FORES_CHUR_319613,NIT_25/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,311905.18,3.12,9,2025-05-14
+2026_PHED_CHUR_762668,NIT_69/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,369699.96,3.7,11,2025-04-07
+2026_FORES_CHUR_448628,NIT_57/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,230835.83,2.31,9,2026-02-04
+2026_DLB_CHUR_589858,NIT_29/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,640297.41,6.4,13,2026-01-27
+2026_PHED_CHUR_392470,NIT_83/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,102995390.74,1029.95,12,2025-10-20
+2026_WRD_CHUR_674163,NIT_67/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,650518.49,6.51,9,2025-04-29
+2026_DLB_CHUR_985408,NIT_94/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,618939.25,6.19,9,2025-05-01
+2026_DLB_CHUR_454823,NIT_70/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,164946.97,1.65,13,2025-08-19
+2026_MEDIC_CHUR_809953,NIT_35/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,17389083.46,173.89,16,2025-09-10
+2026_PHED_CHUR_894652,NIT_17/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,304125.34,3.04,8,2025-12-06
+2026_WRD_CHUR_948143,NIT_74/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,1442397.37,14.42,16,2025-11-21
+2026_WRD_CHUR_336758,NIT_23/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,16138414.82,161.38,23,2025-07-02
+2026_DLB_CHUR_259408,NIT_54/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,601530.09,6.02,10,2025-08-30
+2026_FORES_CHUR_622041,NIT_50/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,844474.9,8.44,14,2026-01-13
+2026_WRD_CHUR_830668,NIT_20/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,928688.08,9.29,11,2025-11-23
+2026_FORES_CHUR_454873,NIT_58/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,5520979.62,55.21,20,2025-11-26
+2026_FORES_CHUR_822644,NIT_57/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,371218.85,3.71,14,2026-02-09
+2026_DLB_CHUR_225899,NIT_94/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,358788.29,3.59,9,2025-07-28
+2026_WRD_CHUR_244203,NIT_99/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,3101929.18,31.02,17,2025-12-26
+2026_MEDIC_CHUR_543205,NIT_26/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,4776655.06,47.77,15,2025-07-27
+2026_UIT_CHUR_390812,NIT_32/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,269890.52,2.7,9,2026-01-11
+2026_DLB_CHUR_661198,NIT_73/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,704806.55,7.05,14,2025-07-21
+2026_PHED_CHUR_443745,NIT_82/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,885814.23,8.86,13,2025-04-27
+2026_MEDIC_CHUR_704817,NIT_41/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,845015.38,8.45,14,2025-09-30
+2026_MEDIC_CHUR_491363,NIT_89/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,555460.52,5.55,11,2025-08-12
+2026_PHED_CHUR_259587,NIT_75/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,5802874.73,58.03,19,2026-03-12
+2026_PWD_CHUR_748415,NIT_46/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,442274.14,4.42,7,2026-03-25
+2026_PWD_CHUR_613069,NIT_19/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,9989833.01,99.9,19,2026-01-15
+2026_UIT_CHUR_867040,NIT_50/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,1252778.9,12.53,16,2025-06-04
+2026_PHED_CHUR_552130,NIT_95/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,161046.13,1.61,15,2025-06-23
+2026_UIT_CHUR_553702,NIT_39/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,2719871.45,27.2,10,2025-10-13
+2026_MEDIC_CHUR_981424,NIT_51/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,606010.1,6.06,12,2025-06-10
+2026_UIT_CHUR_170150,NIT_52/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,106744999.97,1067.45,35,2025-10-13
+2026_FORES_CHUR_512485,NIT_51/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,18459001.98,184.59,23,2026-01-15
+2026_MEDIC_CHUR_591882,NIT_97/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,629296.88,6.29,2,2025-04-03
+2026_UIT_CHUR_100725,NIT_45/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,467803.49,4.68,12,2026-03-15
+2026_PHED_CHUR_239851,NIT_99/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,888655.9,8.89,9,2025-09-01
+2026_DLB_CHUR_216760,NIT_35/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,853977.42,8.54,9,2025-04-02
+2026_DLB_CHUR_380804,NIT_13/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,913657.4,9.14,8,2026-02-12
+2026_FORES_CHUR_183149,NIT_67/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,740838.24,7.41,13,2025-11-08
+2026_MEDIC_CHUR_339768,NIT_50/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2162947.09,21.63,11,2026-03-27
+2026_FORES_CHUR_124276,NIT_30/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,779375.62,7.79,8,2025-08-14
+2026_FORES_CHUR_129857,NIT_85/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,6389303.38,63.89,21,2025-12-07
+2026_PHED_CHUR_648458,NIT_37/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,8401409.14,84.01,15,2025-08-28
+2026_MEDIC_CHUR_962189,NIT_76/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,305883.62,3.06,10,2025-07-04
+2026_DLB_CHUR_593377,NIT_16/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,8154653.09,81.55,12,2025-07-22
+2026_PHED_CHUR_628857,NIT_74/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,795261.65,7.95,14,2025-09-22
+2026_PHED_CHUR_432362,NIT_69/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,491717.95,4.92,14,2025-09-26
+2026_FORES_CHUR_289620,NIT_61/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,2047363.56,20.47,17,2026-01-29
+2026_DLB_CHUR_869703,NIT_53/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,259993.34,2.6,8,2025-11-22
+2026_PWD_CHUR_901631,NIT_87/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,4178569.05,41.79,16,2025-12-26
+2026_WRD_CHUR_845600,NIT_87/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,17143804.8,171.44,17,2025-10-11
+2026_PHED_CHUR_916329,NIT_49/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,89595241.12,895.95,30,2025-09-14
+2026_FORES_CHUR_321391,NIT_69/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,2419144.43,24.19,14,2026-01-14
+2026_MEDIC_CHUR_157580,NIT_45/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,3319277.76,33.19,11,2025-05-04
+2026_FORES_CHUR_367636,NIT_24/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,865869.42,8.66,15,2026-02-10
+2026_FORES_CHUR_660186,NIT_69/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,801403.2,8.01,7,2025-09-27
+2026_MEDIC_CHUR_923658,NIT_49/CHU/2025-26,Department of Medical Education (Churu Circle),Churu,Bikaner Division,2736074.22,27.36,13,2026-01-29
+2026_PHED_CHUR_494292,NIT_98/CHU/2025-26,Public Health Engineering Department (Churu Circle),Churu,Bikaner Division,455918.3,4.56,12,2026-03-18
+2026_UIT_CHUR_854416,NIT_88/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,557242.22,5.57,10,2025-11-28
+2026_FORES_CHUR_104479,NIT_34/CHU/2025-26,Forest Department (Churu Circle),Churu,Bikaner Division,613668.8,6.14,10,2025-05-26
+2026_UIT_CHUR_294363,NIT_90/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,2284813.39,22.85,17,2025-04-24
+2026_DLB_CHUR_467727,NIT_22/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,385684.62,3.86,14,2025-11-01
+2026_DLB_CHUR_424828,NIT_17/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,1265068.26,12.65,16,2025-12-05
+2026_WRD_CHUR_866716,NIT_22/CHU/2025-26,Water Resources Department (Churu Circle),Churu,Bikaner Division,482164.73,4.82,14,2025-08-01
+2026_UIT_CHUR_194699,NIT_84/CHU/2025-26,Municipal Council Churu,Churu,Bikaner Division,888799.22,8.89,7,2025-08-17
+2026_DLB_CHUR_657428,NIT_81/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,262409.93,2.62,13,2026-03-18
+2026_DLB_CHUR_209921,NIT_33/CHU/2025-26,Directorate of Local Bodies (Churu Circle),Churu,Bikaner Division,853673.91,8.54,9,2025-08-31
+2026_PWD_CHUR_980627,NIT_76/CHU/2025-26,Public Works Department (Churu Circle),Churu,Bikaner Division,7253376.11,72.53,17,2025-11-13

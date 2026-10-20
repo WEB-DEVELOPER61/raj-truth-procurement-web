@@ -1,0 +1,434 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_FORES_PRAT_187385,NIT_22/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,150080.31,1.5,15,2025-04-14
+2026_DLB_PRAT_587799,NIT_98/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,1370679.63,13.71,11,2025-06-25
+2026_PWD_PRAT_818849,NIT_42/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,724355.17,7.24,10,2025-12-18
+2026_DLB_PRAT_737320,NIT_56/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,3335006.69,33.35,13,2025-12-24
+2026_FORES_PRAT_417249,NIT_51/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,349892.6,3.5,13,2026-01-05
+2026_PWD_PRAT_749991,NIT_63/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,457411.36,4.57,7,2025-04-05
+2026_PHED_PRAT_565255,NIT_39/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,10595131.74,105.95,20,2025-12-01
+2026_UIT_PRAT_953248,NIT_14/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,12350207.13,123.5,15,2025-11-20
+2026_DLB_PRAT_667117,NIT_38/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,321379.99,3.21,9,2025-10-28
+2026_PWD_PRAT_404782,NIT_98/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4191814.24,41.92,14,2025-09-29
+2026_WRD_PRAT_569992,NIT_54/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,863890.82,8.64,7,2025-06-09
+2026_DLB_PRAT_548690,NIT_81/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,637265.32,6.37,9,2025-11-29
+2026_WRD_PRAT_566067,NIT_19/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,8973183.9,89.73,20,2025-09-27
+2026_PHED_PRAT_749878,NIT_22/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,693438.97,6.93,14,2026-01-16
+2026_WRD_PRAT_388980,NIT_67/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,45899021.06,458.99,26,2025-09-18
+2026_MEDIC_PRAT_778037,NIT_62/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,805153.58,8.05,11,2026-01-21
+2026_UIT_PRAT_280071,NIT_66/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,4058292.74,40.58,15,2025-06-26
+2026_UIT_PRAT_655477,NIT_34/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,4198960.04,41.99,12,2025-08-19
+2026_PWD_PRAT_952724,NIT_27/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,300658.22,3.01,8,2025-06-09
+2026_PHED_PRAT_881923,NIT_84/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,375663.32,3.76,8,2025-09-08
+2026_PWD_PRAT_212255,NIT_16/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,7249904.29,72.5,19,2025-05-30
+2026_WRD_PRAT_795113,NIT_26/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3572900.57,35.73,10,2026-01-17
+2026_WRD_PRAT_142434,NIT_25/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,503474.63,5.03,11,2026-02-14
+2026_FORES_PRAT_202341,NIT_82/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,289945.68,2.9,9,2025-08-30
+2026_MEDIC_PRAT_488070,NIT_22/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,239454.69,2.39,13,2026-03-25
+2026_UIT_PRAT_845302,NIT_67/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,174677.51,1.75,11,2026-02-13
+2026_PWD_PRAT_176824,NIT_63/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,612201.61,6.12,11,2025-11-21
+2026_FORES_PRAT_684368,NIT_67/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,520619.82,5.21,14,2025-08-18
+2026_FORES_PRAT_508175,NIT_66/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,13573798.65,135.74,22,2025-06-15
+2026_PWD_PRAT_903155,NIT_72/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4212046.36,42.12,12,2025-12-04
+2026_MEDIC_PRAT_923652,NIT_13/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,91699139.01,916.99,26,2025-12-19
+2026_FORES_PRAT_365225,NIT_60/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2139705.31,21.4,13,2025-09-02
+2026_WRD_PRAT_793490,NIT_66/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,113353504.12,1133.54,38,2025-11-22
+2026_PHED_PRAT_201853,NIT_21/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1370345.66,13.7,14,2026-02-08
+2026_PHED_PRAT_428733,NIT_81/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2484845.52,24.85,16,2025-08-27
+2026_WRD_PRAT_335291,NIT_25/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,41345188.97,413.45,35,2025-10-15
+2026_PWD_PRAT_312775,NIT_63/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2925282.14,29.25,13,2026-03-05
+2026_FORES_PRAT_252338,NIT_89/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,718528.47,7.19,13,2025-04-02
+2026_UIT_PRAT_642541,NIT_47/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,2498140.56,24.98,17,2025-08-31
+2026_PWD_PRAT_593029,NIT_27/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,9171365.86,91.71,15,2025-05-26
+2026_MEDIC_PRAT_600921,NIT_89/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,3380182.87,33.8,17,2026-02-04
+2026_PWD_PRAT_666979,NIT_42/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3138562.51,31.39,12,2025-12-07
+2026_DLB_PRAT_830216,NIT_23/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,1321245.74,13.21,12,2025-12-09
+2026_WRD_PRAT_836403,NIT_11/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,67111950.25,671.12,36,2025-05-13
+2026_UIT_PRAT_967025,NIT_40/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,299873.77,3.0,13,2025-08-06
+2026_UIT_PRAT_270744,NIT_31/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,1777363.83,17.77,18,2025-05-19
+2026_FORES_PRAT_983050,NIT_84/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,795248.67,7.95,8,2025-05-24
+2026_UIT_PRAT_186045,NIT_37/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,1148788.29,11.49,16,2025-10-16
+2026_PWD_PRAT_936838,NIT_86/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3690456.42,36.9,11,2026-01-22
+2026_DLB_PRAT_718493,NIT_65/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,779576.3,7.8,15,2025-05-05
+2026_DLB_PRAT_281580,NIT_61/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,453734.04,4.54,11,2025-05-03
+2026_DLB_PRAT_933626,NIT_79/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,1701475.61,17.01,15,2026-01-23
+2026_DLB_PRAT_143039,NIT_16/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,506149.01,5.06,8,2025-06-10
+2026_DLB_PRAT_176744,NIT_95/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,731207.41,7.31,12,2025-06-03
+2026_UIT_PRAT_751206,NIT_66/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,17476540.13,174.77,21,2025-06-18
+2026_DLB_PRAT_329597,NIT_23/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,786385.1,7.86,11,2026-01-16
+2026_MEDIC_PRAT_257024,NIT_80/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,821058.39,8.21,14,2025-12-23
+2026_DLB_PRAT_870647,NIT_21/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,102632782.19,1026.33,35,2025-09-01
+2026_MEDIC_PRAT_465516,NIT_93/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,240350.47,2.4,8,2025-06-04
+2026_FORES_PRAT_495887,NIT_75/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,803466.2,8.03,14,2025-04-07
+2026_PWD_PRAT_383645,NIT_44/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3369783.39,33.7,18,2025-11-20
+2026_DLB_PRAT_206157,NIT_99/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,3639409.2,36.39,12,2025-12-09
+2026_MEDIC_PRAT_936829,NIT_22/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,18621613.65,186.22,23,2025-07-29
+2026_PHED_PRAT_852963,NIT_82/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,14650633.22,146.51,10,2026-03-07
+2026_MEDIC_PRAT_324318,NIT_63/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,2930566.41,29.31,14,2025-06-21
+2026_PWD_PRAT_431434,NIT_18/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,214550.65,2.15,13,2025-05-05
+2026_PWD_PRAT_716259,NIT_18/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,729071.71,7.29,9,2025-12-02
+2026_DLB_PRAT_430575,NIT_58/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,676663.58,6.77,15,2026-03-26
+2026_PHED_PRAT_614744,NIT_64/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,722272.47,7.22,10,2025-06-20
+2026_DLB_PRAT_890974,NIT_49/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,4782678.8,47.83,16,2025-11-17
+2026_DLB_PRAT_321999,NIT_13/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,1376165.37,13.76,13,2025-09-22
+2026_FORES_PRAT_243434,NIT_72/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,690086.39,6.9,10,2025-08-23
+2026_PWD_PRAT_579947,NIT_19/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,14860469.17,148.6,22,2025-10-23
+2026_DLB_PRAT_372012,NIT_71/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,572814.08,5.73,11,2025-12-24
+2026_DLB_PRAT_129517,NIT_92/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,402292.33,4.02,8,2025-07-27
+2026_PWD_PRAT_842711,NIT_12/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2553141.74,25.53,10,2025-06-18
+2026_MEDIC_PRAT_835825,NIT_73/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,264827.42,2.65,8,2025-07-13
+2026_FORES_PRAT_471951,NIT_62/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,155121.18,1.55,8,2026-03-03
+2026_WRD_PRAT_934448,NIT_76/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,161336.83,1.61,7,2025-11-06
+2026_FORES_PRAT_455174,NIT_85/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,816293.08,8.16,7,2025-07-14
+2026_FORES_PRAT_518659,NIT_37/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3608158.99,36.08,12,2025-07-26
+2026_DLB_PRAT_438034,NIT_12/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,9827521.95,98.28,18,2025-06-18
+2026_PHED_PRAT_854948,NIT_63/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,158054.18,1.58,15,2025-08-19
+2026_DLB_PRAT_835373,NIT_33/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,376588.84,3.77,15,2025-07-14
+2026_DLB_PRAT_953536,NIT_52/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,3281332.38,32.81,15,2025-12-25
+2026_DLB_PRAT_988946,NIT_99/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,26384967.42,263.85,37,2026-02-21
+2026_UIT_PRAT_168328,NIT_15/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,749747.93,7.5,7,2025-04-12
+2026_DLB_PRAT_572049,NIT_49/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,234778.05,2.35,14,2026-02-07
+2026_WRD_PRAT_806080,NIT_26/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2125904.27,21.26,18,2025-12-10
+2026_FORES_PRAT_386481,NIT_22/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2235229.6,22.35,15,2025-04-09
+2026_DLB_PRAT_448113,NIT_72/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,927459.83,9.27,13,2026-02-15
+2026_PHED_PRAT_913670,NIT_83/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1735012.1,17.35,11,2026-01-17
+2026_DLB_PRAT_425664,NIT_31/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,828474.04,8.28,7,2025-08-23
+2026_UIT_PRAT_305045,NIT_61/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,442675.25,4.43,8,2026-01-28
+2026_PWD_PRAT_846946,NIT_64/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,190244.95,1.9,9,2025-06-17
+2026_DLB_PRAT_814359,NIT_52/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,17743176.96,177.43,17,2025-11-02
+2026_DLB_PRAT_240946,NIT_48/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,333483.97,3.33,8,2025-11-24
+2026_UIT_PRAT_669538,NIT_94/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,202039.66,2.02,7,2026-01-01
+2026_MEDIC_PRAT_839092,NIT_59/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,438457.76,4.38,15,2025-10-13
+2026_PWD_PRAT_413325,NIT_62/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,13658693.42,136.59,16,2026-03-21
+2026_PWD_PRAT_988883,NIT_84/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,327860.56,3.28,15,2025-11-24
+2026_UIT_PRAT_479983,NIT_71/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,370210.8,3.7,9,2025-12-17
+2026_DLB_PRAT_549485,NIT_72/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,159469.91,1.59,11,2025-11-29
+2026_UIT_PRAT_174485,NIT_78/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,2501416.93,25.01,11,2025-07-26
+2026_MEDIC_PRAT_154337,NIT_42/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,179401.62,1.79,13,2025-06-11
+2026_FORES_PRAT_867742,NIT_76/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,757868.57,7.58,12,2026-03-25
+2026_WRD_PRAT_765181,NIT_71/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,230797.45,2.31,7,2026-01-26
+2026_PHED_PRAT_187925,NIT_86/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,6348430.08,63.48,17,2025-09-19
+2026_UIT_PRAT_787761,NIT_84/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,4108956.41,41.09,15,2025-07-19
+2026_FORES_PRAT_241271,NIT_46/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1497300.43,14.97,16,2025-10-24
+2026_FORES_PRAT_286464,NIT_94/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,5825119.06,58.25,21,2025-04-23
+2026_UIT_PRAT_888995,NIT_88/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,5248713.09,52.49,19,2025-05-06
+2026_PWD_PRAT_974431,NIT_19/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,722108.33,7.22,7,2025-05-17
+2026_WRD_PRAT_135369,NIT_29/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,98384469.9,983.84,35,2025-10-07
+2026_UIT_PRAT_932588,NIT_42/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,726332.89,7.26,14,2026-03-10
+2026_PWD_PRAT_776978,NIT_44/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,201695.08,2.02,12,2025-06-09
+2026_UIT_PRAT_646773,NIT_78/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,11709721.58,117.1,23,2025-04-11
+2026_UIT_PRAT_748325,NIT_13/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,716268.33,7.16,12,2025-06-19
+2026_DLB_PRAT_129023,NIT_52/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,712865.97,7.13,15,2025-10-06
+2026_UIT_PRAT_407484,NIT_59/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,371229.99,3.71,10,2025-12-05
+2026_PHED_PRAT_954657,NIT_81/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1452581.64,14.53,13,2025-05-10
+2026_WRD_PRAT_374865,NIT_81/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,576585.03,5.77,13,2025-11-03
+2026_MEDIC_PRAT_134771,NIT_32/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,3331245.51,33.31,18,2025-09-23
+2026_UIT_PRAT_690995,NIT_91/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,17952323.28,179.52,17,2025-10-28
+2026_WRD_PRAT_944930,NIT_72/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1192609.19,11.93,16,2025-06-11
+2026_MEDIC_PRAT_833694,NIT_47/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,377002.27,3.77,9,2026-02-13
+2026_FORES_PRAT_134109,NIT_79/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,6415506.39,64.16,3,2026-01-30
+2026_DLB_PRAT_286652,NIT_88/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,698468.39,6.98,12,2026-02-21
+2026_DLB_PRAT_195895,NIT_34/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,455692.51,4.56,8,2025-04-05
+2026_UIT_PRAT_107567,NIT_36/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,546542.1,5.47,9,2025-06-03
+2026_UIT_PRAT_257441,NIT_11/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,3373314.57,33.73,18,2025-10-15
+2026_PWD_PRAT_151556,NIT_98/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,723078.86,7.23,12,2025-11-15
+2026_PWD_PRAT_479392,NIT_56/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,778938.68,7.79,9,2026-03-20
+2026_PHED_PRAT_703157,NIT_97/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,377168.59,3.77,13,2026-03-27
+2026_MEDIC_PRAT_166008,NIT_46/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,817794.74,8.18,12,2026-02-12
+2026_UIT_PRAT_833156,NIT_94/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,3793365.95,37.93,11,2026-02-03
+2026_FORES_PRAT_677531,NIT_13/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,13292812.77,132.93,15,2025-10-01
+2026_DLB_PRAT_118551,NIT_37/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,4130340.59,41.3,16,2025-06-08
+2026_FORES_PRAT_828134,NIT_53/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,736560.12,7.37,8,2025-10-04
+2026_UIT_PRAT_360125,NIT_13/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,557347.04,5.57,10,2025-07-26
+2026_PWD_PRAT_989469,NIT_30/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,48358642.09,483.59,36,2026-01-09
+2026_FORES_PRAT_681910,NIT_67/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,735447.47,7.35,11,2025-05-16
+2026_PWD_PRAT_632634,NIT_16/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,18773348.8,187.73,15,2025-11-27
+2026_FORES_PRAT_263643,NIT_82/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,641257.28,6.41,9,2025-06-30
+2026_WRD_PRAT_907290,NIT_77/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,54535538.2,545.36,23,2025-11-16
+2026_PWD_PRAT_312493,NIT_43/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,312409.06,3.12,8,2025-11-11
+2026_UIT_PRAT_180432,NIT_94/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,190038.17,1.9,12,2025-12-09
+2026_FORES_PRAT_142766,NIT_52/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4359411.7,43.59,13,2026-02-26
+2026_UIT_PRAT_423023,NIT_85/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,4713253.99,47.13,17,2025-08-24
+2026_DLB_PRAT_493085,NIT_17/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,493697.35,4.94,15,2025-09-20
+2026_PHED_PRAT_691246,NIT_89/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4272688.74,42.73,12,2025-12-16
+2026_DLB_PRAT_856678,NIT_36/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,2459344.57,24.59,13,2025-08-07
+2026_FORES_PRAT_183876,NIT_18/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,795935.95,7.96,13,2025-08-16
+2026_UIT_PRAT_206280,NIT_93/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,469438.39,4.69,13,2025-08-30
+2026_PHED_PRAT_840229,NIT_39/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,815585.76,8.16,11,2025-05-02
+2026_UIT_PRAT_859438,NIT_61/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,605977.13,6.06,11,2025-12-18
+2026_PHED_PRAT_503894,NIT_81/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1711671.53,17.12,16,2025-08-05
+2026_MEDIC_PRAT_359749,NIT_14/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,199959.62,2.0,9,2026-03-16
+2026_PHED_PRAT_392021,NIT_19/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,223083.9,2.23,12,2025-09-28
+2026_FORES_PRAT_301339,NIT_64/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,901494.66,9.01,14,2025-08-27
+2026_PHED_PRAT_923746,NIT_18/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,233354.86,2.33,9,2025-11-08
+2026_FORES_PRAT_730765,NIT_40/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,485862.39,4.86,14,2025-04-21
+2026_DLB_PRAT_299423,NIT_88/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,646068.83,6.46,10,2025-05-18
+2026_PWD_PRAT_936392,NIT_40/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,654091.82,6.54,13,2026-01-03
+2026_MEDIC_PRAT_907058,NIT_64/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,40254690.28,402.55,33,2025-04-05
+2026_FORES_PRAT_934723,NIT_70/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,844395.81,8.44,14,2025-09-02
+2026_WRD_PRAT_361347,NIT_69/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4606542.43,46.07,16,2025-08-08
+2026_PHED_PRAT_243341,NIT_56/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,480863.89,4.81,12,2025-05-05
+2026_DLB_PRAT_129937,NIT_35/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,237587.58,2.38,8,2025-09-01
+2026_WRD_PRAT_238775,NIT_34/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,582860.68,5.83,12,2025-08-20
+2026_PWD_PRAT_356736,NIT_27/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,531475.29,5.31,12,2025-08-09
+2026_DLB_PRAT_363395,NIT_33/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,36366807.75,363.67,32,2025-12-12
+2026_PWD_PRAT_754005,NIT_33/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,117511940.53,1175.12,12,2025-08-19
+2026_PWD_PRAT_803386,NIT_23/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2150982.59,21.51,12,2026-02-06
+2026_UIT_PRAT_802118,NIT_72/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,2955928.35,29.56,12,2026-02-21
+2026_MEDIC_PRAT_399574,NIT_51/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,303951.89,3.04,9,2026-01-18
+2026_FORES_PRAT_230877,NIT_90/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,497222.84,4.97,11,2026-03-23
+2026_PWD_PRAT_821556,NIT_13/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,94063667.23,940.64,36,2026-01-03
+2026_FORES_PRAT_570873,NIT_15/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1298496.98,12.98,15,2026-03-22
+2026_PWD_PRAT_659046,NIT_43/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3473644.26,34.74,17,2025-08-23
+2026_WRD_PRAT_934086,NIT_15/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,199670.73,2.0,10,2026-02-23
+2026_PWD_PRAT_803434,NIT_30/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,251635.97,2.52,13,2025-09-01
+2026_MEDIC_PRAT_294795,NIT_38/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,36398159.82,363.98,35,2025-04-18
+2026_PHED_PRAT_628127,NIT_83/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,868462.1,8.68,13,2026-03-01
+2026_WRD_PRAT_752123,NIT_84/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,406503.52,4.07,10,2025-06-17
+2026_UIT_PRAT_434651,NIT_35/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,732439.57,7.32,11,2025-07-02
+2026_PHED_PRAT_771622,NIT_62/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,15670814.71,156.71,7,2026-01-06
+2026_WRD_PRAT_353025,NIT_54/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,247463.18,2.47,11,2026-03-11
+2026_DLB_PRAT_240882,NIT_59/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,5751529.53,57.52,20,2025-09-29
+2026_WRD_PRAT_667759,NIT_74/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,420521.48,4.21,8,2026-02-20
+2026_MEDIC_PRAT_693694,NIT_17/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,8232294.62,82.32,19,2025-08-19
+2026_FORES_PRAT_746769,NIT_83/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2360335.32,23.6,18,2025-09-19
+2026_PHED_PRAT_838447,NIT_87/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,757107.02,7.57,8,2025-05-06
+2026_PHED_PRAT_157316,NIT_78/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4125954.99,41.26,11,2025-07-05
+2026_PWD_PRAT_996634,NIT_64/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,230959.87,2.31,14,2025-11-01
+2026_PHED_PRAT_473776,NIT_21/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,757795.73,7.58,10,2026-03-14
+2026_PWD_PRAT_770421,NIT_13/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,7242461.49,72.42,18,2025-07-21
+2026_PWD_PRAT_250451,NIT_65/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,410681.19,4.11,15,2025-05-19
+2026_PWD_PRAT_157921,NIT_66/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,376746.13,3.77,15,2026-01-06
+2026_FORES_PRAT_785204,NIT_78/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,533338.18,5.33,12,2025-08-09
+2026_MEDIC_PRAT_405886,NIT_14/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,369178.28,3.69,15,2025-04-28
+2026_PWD_PRAT_668090,NIT_58/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,10845526.83,108.46,16,2025-09-09
+2026_UIT_PRAT_318995,NIT_89/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,348502.82,3.49,9,2025-06-14
+2026_PHED_PRAT_908027,NIT_40/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,113609429.74,1136.09,36,2026-01-19
+2026_WRD_PRAT_380502,NIT_82/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,88311339.95,883.11,32,2025-04-08
+2026_WRD_PRAT_415195,NIT_76/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,596026.35,5.96,14,2025-07-18
+2026_PHED_PRAT_486102,NIT_69/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,630954.38,6.31,7,2025-12-03
+2026_DLB_PRAT_273677,NIT_63/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,13563004.6,135.63,17,2025-04-21
+2026_MEDIC_PRAT_742837,NIT_93/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,473835.55,4.74,9,2025-09-22
+2026_UIT_PRAT_135143,NIT_72/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,159020.2,1.59,7,2025-04-07
+2026_UIT_PRAT_676520,NIT_46/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,186593.84,1.87,15,2025-12-19
+2026_PHED_PRAT_236663,NIT_28/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2846164.13,28.46,18,2025-09-12
+2026_MEDIC_PRAT_746975,NIT_38/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,4358023.67,43.58,15,2025-12-15
+2026_DLB_PRAT_629653,NIT_94/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,893902.88,8.94,7,2025-09-27
+2026_PHED_PRAT_666320,NIT_60/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,878326.34,8.78,13,2025-11-11
+2026_DLB_PRAT_112778,NIT_96/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,7800955.78,78.01,18,2025-11-13
+2026_MEDIC_PRAT_956621,NIT_61/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,4564304.81,45.64,18,2025-04-21
+2026_PHED_PRAT_528609,NIT_66/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4353355.79,43.53,14,2026-03-17
+2026_DLB_PRAT_877371,NIT_57/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,4147290.08,41.47,13,2025-09-20
+2026_DLB_PRAT_651856,NIT_28/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,915896.94,9.16,11,2026-02-08
+2026_FORES_PRAT_583359,NIT_14/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4517692.46,45.18,10,2025-11-09
+2026_PHED_PRAT_494319,NIT_28/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,649554.79,6.5,13,2025-09-07
+2026_WRD_PRAT_176798,NIT_44/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,581036.22,5.81,14,2025-11-12
+2026_FORES_PRAT_407540,NIT_53/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3187793.14,31.88,11,2025-12-13
+2026_MEDIC_PRAT_338474,NIT_58/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,562317.38,5.62,15,2026-01-23
+2026_UIT_PRAT_651399,NIT_77/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,111530053.1,1115.3,33,2025-06-25
+2026_PWD_PRAT_560171,NIT_86/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,462003.78,4.62,15,2025-05-04
+2026_DLB_PRAT_971812,NIT_55/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,18322245.24,183.22,20,2025-07-27
+2026_MEDIC_PRAT_169543,NIT_90/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,7718219.76,77.18,17,2025-09-12
+2026_PWD_PRAT_128882,NIT_34/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,190628.89,1.91,14,2025-07-12
+2026_FORES_PRAT_598702,NIT_62/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1240154.86,12.4,18,2025-11-29
+2026_PWD_PRAT_308584,NIT_41/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,256595.72,2.57,12,2025-12-13
+2026_UIT_PRAT_319569,NIT_90/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,10777657.77,107.78,12,2025-06-04
+2026_MEDIC_PRAT_964348,NIT_54/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,569815.96,5.7,14,2025-08-17
+2026_PHED_PRAT_759761,NIT_59/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1134597.94,11.35,18,2025-12-23
+2026_PHED_PRAT_353046,NIT_60/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,259949.37,2.6,8,2025-11-11
+2026_FORES_PRAT_432010,NIT_10/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,496685.04,4.97,11,2025-11-24
+2026_PWD_PRAT_660343,NIT_75/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,563654.01,5.64,13,2026-03-11
+2026_MEDIC_PRAT_772819,NIT_98/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,426312.1,4.26,10,2025-05-14
+2026_MEDIC_PRAT_227686,NIT_45/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,1662606.66,16.63,13,2025-04-08
+2026_DLB_PRAT_365176,NIT_60/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,4050982.23,40.51,16,2025-07-14
+2026_MEDIC_PRAT_495830,NIT_47/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,2508112.49,25.08,17,2026-01-06
+2026_FORES_PRAT_894249,NIT_22/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,287435.5,2.87,11,2026-02-12
+2026_PWD_PRAT_594071,NIT_64/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,410326.14,4.1,15,2026-02-07
+2026_MEDIC_PRAT_633563,NIT_26/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,326172.84,3.26,13,2025-06-14
+2026_DLB_PRAT_136049,NIT_47/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,13823693.81,138.24,23,2025-10-03
+2026_DLB_PRAT_987905,NIT_26/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,44517404.97,445.17,33,2025-05-27
+2026_DLB_PRAT_622991,NIT_32/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,614689.0,6.15,14,2025-06-11
+2026_UIT_PRAT_812986,NIT_49/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,663423.49,6.63,11,2025-05-31
+2026_FORES_PRAT_741144,NIT_55/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,928808.53,9.29,14,2025-08-31
+2026_WRD_PRAT_484966,NIT_28/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4567969.6,45.68,10,2025-07-11
+2026_WRD_PRAT_743869,NIT_31/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3450413.31,34.5,17,2026-02-26
+2026_UIT_PRAT_135758,NIT_80/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,1786549.62,17.87,12,2025-10-30
+2026_PHED_PRAT_936224,NIT_10/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,902037.02,9.02,14,2025-12-15
+2026_UIT_PRAT_889996,NIT_39/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,3399582.53,34.0,16,2025-08-12
+2026_PHED_PRAT_862723,NIT_87/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2082872.98,20.83,11,2025-06-15
+2026_FORES_PRAT_470049,NIT_92/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,794392.24,7.94,15,2026-03-06
+2026_FORES_PRAT_228782,NIT_98/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,282734.87,2.83,8,2026-03-17
+2026_DLB_PRAT_130421,NIT_35/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,191203.53,1.91,9,2026-03-14
+2026_UIT_PRAT_806710,NIT_57/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,472147.04,4.72,8,2025-05-15
+2026_WRD_PRAT_122559,NIT_31/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,15231347.56,152.31,23,2025-04-08
+2026_UIT_PRAT_396525,NIT_17/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,278428.12,2.78,8,2025-11-25
+2026_DLB_PRAT_672352,NIT_22/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,7528397.56,75.28,18,2025-08-04
+2026_PHED_PRAT_329838,NIT_45/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4565176.3,45.65,12,2025-07-15
+2026_FORES_PRAT_792220,NIT_20/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,748225.27,7.48,15,2025-05-27
+2026_DLB_PRAT_286323,NIT_24/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,3783038.7,37.83,17,2025-10-30
+2026_WRD_PRAT_783084,NIT_65/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,420877.56,4.21,14,2025-11-04
+2026_PHED_PRAT_170840,NIT_98/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,353593.22,3.54,10,2025-09-08
+2026_PWD_PRAT_811319,NIT_27/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,201333.33,2.01,7,2025-10-11
+2026_FORES_PRAT_226116,NIT_25/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,831797.18,8.32,7,2025-10-17
+2026_WRD_PRAT_437235,NIT_53/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,909990.45,9.1,7,2026-03-16
+2026_MEDIC_PRAT_367089,NIT_18/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,703990.95,7.04,11,2025-10-01
+2026_PWD_PRAT_493554,NIT_22/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,939795.68,9.4,13,2025-09-18
+2026_PHED_PRAT_920964,NIT_69/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,151954.24,1.52,15,2026-03-09
+2026_DLB_PRAT_737585,NIT_76/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,16543717.61,165.44,18,2025-06-26
+2026_UIT_PRAT_871255,NIT_41/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,719437.36,7.19,14,2025-04-13
+2026_MEDIC_PRAT_678038,NIT_82/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,4124219.6,41.24,14,2025-06-15
+2026_WRD_PRAT_826908,NIT_18/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,547000.25,5.47,12,2025-12-13
+2026_MEDIC_PRAT_995306,NIT_21/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,3593815.64,35.94,15,2025-09-27
+2026_PHED_PRAT_376922,NIT_81/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,610979.7,6.11,7,2025-12-15
+2026_DLB_PRAT_229196,NIT_36/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,22299980.63,223.0,5,2026-01-10
+2026_MEDIC_PRAT_128008,NIT_49/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,766089.74,7.66,8,2025-05-24
+2026_FORES_PRAT_290162,NIT_18/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,14315987.18,143.16,15,2025-11-04
+2026_FORES_PRAT_224137,NIT_16/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,715823.54,7.16,13,2025-11-28
+2026_WRD_PRAT_538726,NIT_86/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,525720.89,5.26,10,2025-08-24
+2026_MEDIC_PRAT_920497,NIT_34/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,1442943.41,14.43,13,2026-03-23
+2026_UIT_PRAT_418695,NIT_79/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,338318.11,3.38,11,2026-01-21
+2026_PWD_PRAT_668145,NIT_53/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,501862.31,5.02,14,2025-05-13
+2026_DLB_PRAT_564007,NIT_23/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,405815.07,4.06,15,2026-01-20
+2026_FORES_PRAT_494585,NIT_42/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1933825.62,19.34,14,2025-10-18
+2026_MEDIC_PRAT_505161,NIT_39/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,31576167.73,315.76,35,2025-12-29
+2026_MEDIC_PRAT_742754,NIT_63/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,151560.37,1.52,9,2025-10-16
+2026_PHED_PRAT_363743,NIT_35/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,5917946.37,59.18,19,2025-12-19
+2026_PHED_PRAT_363868,NIT_12/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,239141.67,2.39,9,2025-05-06
+2026_DLB_PRAT_904407,NIT_36/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,581739.37,5.82,15,2026-02-09
+2026_DLB_PRAT_350017,NIT_36/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,14782092.33,147.82,16,2025-09-23
+2026_FORES_PRAT_270303,NIT_53/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,12887487.47,128.87,21,2025-11-30
+2026_UIT_PRAT_345334,NIT_88/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,1276469.33,12.76,16,2026-01-17
+2026_DLB_PRAT_915393,NIT_32/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,821121.54,8.21,15,2025-12-18
+2026_WRD_PRAT_775685,NIT_78/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,350305.56,3.5,11,2025-07-27
+2026_PWD_PRAT_699423,NIT_12/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,878881.26,8.79,15,2025-09-29
+2026_FORES_PRAT_569757,NIT_99/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,319745.67,3.2,15,2025-11-09
+2026_FORES_PRAT_583686,NIT_53/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,697833.12,6.98,14,2025-05-02
+2026_PWD_PRAT_445746,NIT_98/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,15267007.54,152.67,17,2026-03-05
+2026_FORES_PRAT_617064,NIT_15/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,13761953.94,137.62,20,2025-11-30
+2026_DLB_PRAT_783186,NIT_30/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,177830.28,1.78,7,2025-09-12
+2026_FORES_PRAT_345714,NIT_63/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,772482.95,7.72,7,2026-01-09
+2026_MEDIC_PRAT_553129,NIT_44/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,8245607.23,82.46,18,2026-01-04
+2026_PHED_PRAT_133346,NIT_23/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,581542.25,5.82,14,2026-03-23
+2026_PWD_PRAT_271663,NIT_83/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2058225.16,20.58,14,2025-05-10
+2026_PWD_PRAT_488223,NIT_38/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,655323.67,6.55,8,2025-06-16
+2026_FORES_PRAT_617647,NIT_17/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,793944.64,7.94,13,2025-10-22
+2026_PHED_PRAT_154167,NIT_62/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,84912143.37,849.12,32,2025-08-11
+2026_WRD_PRAT_576314,NIT_11/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,810326.73,8.1,13,2025-11-27
+2026_WRD_PRAT_482382,NIT_11/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,512807.29,5.13,10,2026-01-28
+2026_PHED_PRAT_473945,NIT_27/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,498000.3,4.98,12,2025-09-18
+2026_FORES_PRAT_763120,NIT_66/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,18250101.49,182.5,23,2025-06-02
+2026_PWD_PRAT_270595,NIT_10/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,5700385.54,57.0,20,2025-09-25
+2026_PHED_PRAT_151000,NIT_95/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,351630.18,3.52,11,2025-07-11
+2026_FORES_PRAT_724506,NIT_36/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,574645.71,5.75,14,2025-04-05
+2026_DLB_PRAT_785191,NIT_56/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,3322482.02,33.22,15,2026-02-12
+2026_FORES_PRAT_952747,NIT_32/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,378811.77,3.79,11,2025-08-07
+2026_MEDIC_PRAT_235788,NIT_41/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,3631068.37,36.31,10,2025-05-20
+2026_FORES_PRAT_594388,NIT_18/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,179349.0,1.79,15,2025-05-09
+2026_FORES_PRAT_944141,NIT_25/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,586403.01,5.86,10,2026-01-04
+2026_PHED_PRAT_712533,NIT_97/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3690359.01,36.9,15,2025-08-12
+2026_PHED_PRAT_390531,NIT_90/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,416559.89,4.17,8,2025-06-08
+2026_UIT_PRAT_685821,NIT_46/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,5964655.58,59.65,15,2025-10-06
+2026_MEDIC_PRAT_655562,NIT_69/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,776457.29,7.76,8,2026-01-16
+2026_PHED_PRAT_950508,NIT_24/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,587597.41,5.88,9,2025-07-29
+2026_FORES_PRAT_301446,NIT_51/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,31084440.79,310.84,36,2025-06-11
+2026_PHED_PRAT_982158,NIT_41/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,393758.37,3.94,12,2026-01-16
+2026_UIT_PRAT_883671,NIT_95/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,1966220.8,19.66,18,2025-07-30
+2026_PHED_PRAT_306122,NIT_36/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,506604.06,5.07,10,2026-03-09
+2026_FORES_PRAT_340919,NIT_51/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3845169.73,38.45,18,2025-06-22
+2026_MEDIC_PRAT_759562,NIT_84/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,4552873.74,45.53,15,2026-01-17
+2026_FORES_PRAT_628249,NIT_18/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,376505.02,3.77,7,2025-09-13
+2026_MEDIC_PRAT_450522,NIT_18/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,10029891.69,100.3,19,2025-06-08
+2026_UIT_PRAT_291823,NIT_69/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,1795909.5,17.96,13,2025-10-18
+2026_WRD_PRAT_585710,NIT_14/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,372306.24,3.72,7,2025-08-29
+2026_UIT_PRAT_247357,NIT_77/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,4473692.39,44.74,14,2026-03-09
+2026_MEDIC_PRAT_739033,NIT_23/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,3314184.98,33.14,14,2025-11-13
+2026_DLB_PRAT_324898,NIT_35/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,658449.66,6.58,10,2025-12-18
+2026_PWD_PRAT_366519,NIT_67/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,777463.16,7.77,7,2025-07-11
+2026_DLB_PRAT_550726,NIT_11/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,883111.4,8.83,8,2025-12-09
+2026_MEDIC_PRAT_692503,NIT_69/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,167076.22,1.67,14,2025-07-20
+2026_PWD_PRAT_121449,NIT_74/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1245746.74,12.46,11,2025-07-26
+2026_DLB_PRAT_274200,NIT_33/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,875240.23,8.75,15,2025-08-23
+2026_PWD_PRAT_691244,NIT_11/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,45671722.99,456.72,33,2026-03-24
+2026_MEDIC_PRAT_632839,NIT_64/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,642985.28,6.43,8,2026-01-10
+2026_DLB_PRAT_554424,NIT_13/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,854516.88,8.55,3,2025-05-11
+2026_FORES_PRAT_890228,NIT_84/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2256915.57,22.57,12,2025-08-08
+2026_PWD_PRAT_530992,NIT_81/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,422476.16,4.22,11,2025-09-27
+2026_FORES_PRAT_933962,NIT_36/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,730806.8,7.31,15,2026-03-05
+2026_PWD_PRAT_756291,NIT_14/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,927405.75,9.27,11,2025-04-05
+2026_WRD_PRAT_332779,NIT_47/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,547517.23,5.48,9,2026-02-22
+2026_UIT_PRAT_946902,NIT_37/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,183279.32,1.83,7,2025-11-28
+2026_FORES_PRAT_752421,NIT_84/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,110283673.55,1102.84,36,2025-10-01
+2026_PWD_PRAT_335281,NIT_85/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,683040.33,6.83,9,2025-10-16
+2026_DLB_PRAT_970536,NIT_48/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,16972779.37,169.73,18,2026-02-09
+2026_DLB_PRAT_238236,NIT_50/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,3777776.27,37.78,11,2025-11-12
+2026_UIT_PRAT_676952,NIT_13/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,672666.15,6.73,14,2025-05-21
+2026_WRD_PRAT_295046,NIT_27/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,512056.2,5.12,9,2025-06-11
+2026_DLB_PRAT_309279,NIT_77/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,18324300.53,183.24,10,2025-05-27
+2026_DLB_PRAT_689364,NIT_18/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,7861340.48,78.61,20,2025-12-26
+2026_PWD_PRAT_924682,NIT_73/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,555521.14,5.56,12,2025-06-18
+2026_WRD_PRAT_775114,NIT_51/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,159953.75,1.6,15,2025-07-18
+2026_WRD_PRAT_425766,NIT_32/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,207184.66,2.07,10,2026-02-28
+2026_UIT_PRAT_760821,NIT_53/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,528752.75,5.29,8,2025-09-06
+2026_WRD_PRAT_411172,NIT_12/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1276742.98,12.77,17,2026-02-04
+2026_MEDIC_PRAT_417582,NIT_38/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,6342470.45,63.42,16,2025-05-27
+2026_PWD_PRAT_811585,NIT_69/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,394000.06,3.94,7,2025-10-25
+2026_WRD_PRAT_900388,NIT_40/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1086387.08,10.86,10,2025-04-14
+2026_DLB_PRAT_663434,NIT_61/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,4015187.36,40.15,13,2025-06-20
+2026_PWD_PRAT_417982,NIT_27/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,816800.71,8.17,9,2025-06-15
+2026_WRD_PRAT_587505,NIT_11/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,359287.58,3.59,11,2025-12-13
+2026_WRD_PRAT_150936,NIT_19/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1804382.78,18.04,14,2025-09-20
+2026_PWD_PRAT_687849,NIT_88/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,8471230.65,84.71,23,2025-09-10
+2026_FORES_PRAT_822791,NIT_80/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,3598919.9,35.99,15,2025-06-14
+2026_PWD_PRAT_697152,NIT_38/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,278026.28,2.78,11,2026-03-05
+2026_DLB_PRAT_421288,NIT_38/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,229215.58,2.29,8,2025-06-08
+2026_PWD_PRAT_691481,NIT_72/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,498552.89,4.99,15,2025-07-19
+2026_FORES_PRAT_476366,NIT_73/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1477751.59,14.78,17,2025-12-23
+2026_UIT_PRAT_543987,NIT_27/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,1098214.34,10.98,12,2025-11-21
+2026_MEDIC_PRAT_704901,NIT_73/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,642830.12,6.43,10,2025-06-29
+2026_MEDIC_PRAT_364503,NIT_76/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,5427603.45,54.28,15,2025-06-01
+2026_DLB_PRAT_469305,NIT_17/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,1407436.22,14.07,14,2025-11-18
+2026_UIT_PRAT_464677,NIT_14/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,1876624.43,18.77,16,2026-02-18
+2026_UIT_PRAT_828053,NIT_75/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,33132893.15,331.33,34,2025-04-08
+2026_FORES_PRAT_738627,NIT_63/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,598071.37,5.98,7,2025-04-10
+2026_PHED_PRAT_693724,NIT_12/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,18471920.81,184.72,22,2025-04-30
+2026_FORES_PRAT_422060,NIT_66/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,474733.59,4.75,12,2025-08-30
+2026_UIT_PRAT_402857,NIT_14/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,596913.35,5.97,12,2025-04-06
+2026_PHED_PRAT_941617,NIT_72/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,7443154.26,74.43,15,2025-09-05
+2026_UIT_PRAT_196334,NIT_81/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,16073847.29,160.74,17,2026-01-26
+2026_UIT_PRAT_527532,NIT_12/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,720517.31,7.21,9,2025-04-29
+2026_UIT_PRAT_919477,NIT_80/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,2922495.94,29.22,14,2025-07-22
+2026_PHED_PRAT_276109,NIT_22/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,2423433.39,24.23,14,2025-07-11
+2026_MEDIC_PRAT_847060,NIT_72/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,11005327.35,110.05,17,2025-08-03
+2026_MEDIC_PRAT_200134,NIT_53/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,763232.61,7.63,10,2026-03-27
+2026_PHED_PRAT_927725,NIT_92/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,13572690.52,135.73,22,2025-09-29
+2026_WRD_PRAT_349414,NIT_77/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,333308.08,3.33,12,2026-03-22
+2026_WRD_PRAT_175408,NIT_34/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,783901.99,7.84,14,2026-02-22
+2026_UIT_PRAT_387460,NIT_42/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,348690.12,3.49,9,2026-03-20
+2026_UIT_PRAT_102762,NIT_33/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,865095.44,8.65,9,2025-06-03
+2026_UIT_PRAT_251517,NIT_40/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,88148519.32,881.49,33,2025-06-19
+2026_FORES_PRAT_954349,NIT_93/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,704839.03,7.05,15,2026-02-06
+2026_FORES_PRAT_596930,NIT_17/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,88132552.65,881.33,30,2025-04-30
+2026_FORES_PRAT_469218,NIT_27/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,198903.82,1.99,8,2025-04-16
+2026_UIT_PRAT_977321,NIT_77/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,2127159.19,21.27,16,2026-01-24
+2026_FORES_PRAT_824869,NIT_73/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,11740307.09,117.4,17,2025-08-03
+2026_MEDIC_PRAT_511943,NIT_34/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,3542209.23,35.42,13,2025-10-24
+2026_FORES_PRAT_409887,NIT_28/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,1486206.94,14.86,17,2025-06-22
+2026_UIT_PRAT_277499,NIT_75/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,3748919.06,37.49,14,2026-03-27
+2026_FORES_PRAT_334305,NIT_60/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,13507983.7,135.08,17,2025-07-18
+2026_MEDIC_PRAT_155591,NIT_93/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,12585615.99,125.86,16,2025-12-24
+2026_PWD_PRAT_701225,NIT_78/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,233168.73,2.33,12,2025-09-16
+2026_FORES_PRAT_237294,NIT_67/PRA/2025-26,Forest Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,15854899.14,158.55,15,2025-04-13
+2026_WRD_PRAT_216250,NIT_14/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,288627.81,2.89,13,2025-06-21
+2026_MEDIC_PRAT_496585,NIT_46/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,900567.58,9.01,9,2025-12-08
+2026_DLB_PRAT_783616,NIT_16/PRA/2025-26,Directorate of Local Bodies (Pratapgarh Circle),Pratapgarh,Udaipur Division,8566714.83,85.67,16,2026-03-10
+2026_PHED_PRAT_830476,NIT_94/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,876207.1,8.76,11,2026-01-23
+2026_PWD_PRAT_944445,NIT_41/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,11159135.17,111.59,23,2025-12-22
+2026_MEDIC_PRAT_613156,NIT_28/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,621906.07,6.22,7,2025-05-09
+2026_PWD_PRAT_187357,NIT_79/PRA/2025-26,Public Works Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,428932.91,4.29,7,2025-10-09
+2026_UIT_PRAT_608442,NIT_43/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,379179.31,3.79,7,2025-07-22
+2026_MEDIC_PRAT_190006,NIT_98/PRA/2025-26,Department of Medical Education (Pratapgarh Circle),Pratapgarh,Udaipur Division,867518.56,8.68,11,2025-12-04
+2026_WRD_PRAT_730222,NIT_12/PRA/2025-26,Water Resources Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,4035474.57,40.35,12,2025-08-03
+2026_PHED_PRAT_651456,NIT_57/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,312300.42,3.12,10,2025-10-21
+2026_PHED_PRAT_308454,NIT_13/PRA/2025-26,Public Health Engineering Department (Pratapgarh Circle),Pratapgarh,Udaipur Division,704278.92,7.04,13,2025-06-17
+2026_UIT_PRAT_821137,NIT_16/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,712398.95,7.12,13,2025-10-26
+2026_UIT_PRAT_732660,NIT_41/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,247734.13,2.48,12,2025-12-13
+2026_UIT_PRAT_456077,NIT_32/PRA/2025-26,Municipal Council Pratapgarh,Pratapgarh,Udaipur Division,4616897.9,46.17,18,2025-11-09

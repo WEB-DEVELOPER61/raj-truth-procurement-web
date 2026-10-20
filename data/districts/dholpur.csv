@@ -1,0 +1,475 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_PHED_DHOL_255049,NIT_33/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,637550.59,6.38,13,2026-01-23
+2026_MEDIC_DHOL_744629,NIT_36/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,768867.08,7.69,8,2026-03-21
+2026_UIT_DHOL_906303,NIT_49/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,9671909.09,96.72,17,2025-12-28
+2026_PHED_DHOL_763997,NIT_55/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1433881.54,14.34,16,2025-09-17
+2026_PHED_DHOL_779633,NIT_10/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,218875.14,2.19,15,2025-08-31
+2026_FORES_DHOL_369194,NIT_13/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,873650.71,8.74,14,2025-09-30
+2026_PWD_DHOL_477706,NIT_31/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,3730148.95,37.3,16,2025-07-02
+2026_MEDIC_DHOL_641727,NIT_50/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,17214236.01,172.14,15,2025-06-30
+2026_PWD_DHOL_527583,NIT_71/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,305787.35,3.06,7,2025-09-03
+2026_DLB_DHOL_530087,NIT_67/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,4203127.13,42.03,18,2026-02-27
+2026_PHED_DHOL_738004,NIT_17/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1368668.24,13.69,18,2025-08-23
+2026_FORES_DHOL_393758,NIT_17/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,331663.1,3.32,7,2025-05-20
+2026_PWD_DHOL_309212,NIT_90/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,2162885.17,21.63,12,2025-09-16
+2026_WRD_DHOL_727983,NIT_17/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,748765.93,7.49,15,2026-01-10
+2026_FORES_DHOL_595900,NIT_27/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,33472291.32,334.72,33,2025-04-25
+2026_PHED_DHOL_331603,NIT_62/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,2851759.17,28.52,12,2025-12-17
+2026_FORES_DHOL_695413,NIT_22/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,2504183.82,25.04,12,2025-10-14
+2026_UIT_DHOL_779552,NIT_76/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,797776.84,7.98,15,2025-07-03
+2026_FORES_DHOL_421961,NIT_83/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,707196.33,7.07,9,2026-01-07
+2026_FORES_DHOL_810772,NIT_37/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,277766.72,2.78,14,2026-02-28
+2026_WRD_DHOL_408701,NIT_49/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,2307548.35,23.08,13,2025-10-07
+2026_MEDIC_DHOL_337422,NIT_57/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,1989376.82,19.89,13,2025-06-24
+2026_FORES_DHOL_557306,NIT_69/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,592540.13,5.93,13,2026-03-27
+2026_DLB_DHOL_223169,NIT_25/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,1938631.02,19.39,14,2025-08-24
+2026_WRD_DHOL_403381,NIT_24/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,17277079.29,172.77,21,2025-12-28
+2026_MEDIC_DHOL_121559,NIT_64/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,327555.28,3.28,13,2025-05-06
+2026_FORES_DHOL_377657,NIT_42/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,904673.4,9.05,15,2026-01-29
+2026_PWD_DHOL_508708,NIT_50/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,3226027.96,32.26,13,2025-04-01
+2026_PWD_DHOL_323009,NIT_97/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,883772.22,8.84,12,2025-11-22
+2026_PWD_DHOL_551761,NIT_82/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,3780084.14,37.8,11,2025-12-26
+2026_UIT_DHOL_867670,NIT_51/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,859110.98,8.59,15,2025-11-09
+2026_UIT_DHOL_595527,NIT_48/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,85486696.62,854.87,35,2025-12-22
+2026_DLB_DHOL_866289,NIT_28/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,816146.02,8.16,14,2025-09-17
+2026_WRD_DHOL_818922,NIT_12/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,662169.83,6.62,14,2025-04-04
+2026_FORES_DHOL_258320,NIT_29/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,384878.06,3.85,9,2025-11-20
+2026_DLB_DHOL_915952,NIT_25/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,801869.38,8.02,3,2026-02-08
+2026_UIT_DHOL_592983,NIT_64/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,237081.42,2.37,7,2025-05-29
+2026_WRD_DHOL_795994,NIT_57/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,249322.12,2.49,11,2025-05-21
+2026_PHED_DHOL_306510,NIT_98/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,27294733.64,272.95,9,2025-08-05
+2026_DLB_DHOL_979947,NIT_92/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,69038245.26,690.38,34,2025-11-27
+2026_UIT_DHOL_411706,NIT_65/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,528682.05,5.29,15,2026-02-05
+2026_DLB_DHOL_859123,NIT_12/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,1080965.96,10.81,12,2025-04-17
+2026_DLB_DHOL_515217,NIT_39/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,210624.23,2.11,14,2026-03-17
+2026_DLB_DHOL_218881,NIT_97/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,7029921.44,70.3,23,2025-04-26
+2026_WRD_DHOL_844716,NIT_46/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,1521608.74,15.22,11,2025-10-13
+2026_DLB_DHOL_994272,NIT_15/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,751256.08,7.51,9,2026-01-31
+2026_UIT_DHOL_853649,NIT_89/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,4180557.92,41.81,15,2025-09-21
+2026_PHED_DHOL_899277,NIT_46/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,2282122.79,22.82,18,2025-07-25
+2026_WRD_DHOL_964226,NIT_77/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,294015.21,2.94,14,2025-12-26
+2026_MEDIC_DHOL_310126,NIT_43/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,17341873.81,173.42,18,2025-07-09
+2026_DLB_DHOL_252444,NIT_44/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,18159477.64,181.59,15,2025-04-03
+2026_PWD_DHOL_963384,NIT_22/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,910222.18,9.1,10,2026-01-11
+2026_DLB_DHOL_947760,NIT_93/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,2576758.96,25.77,11,2026-02-16
+2026_FORES_DHOL_891109,NIT_49/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,66984371.12,669.84,32,2025-05-02
+2026_FORES_DHOL_519266,NIT_95/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,309973.86,3.1,12,2026-03-04
+2026_PHED_DHOL_394476,NIT_23/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,155608.82,1.56,11,2025-09-30
+2026_WRD_DHOL_826210,NIT_54/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,194628.84,1.95,12,2025-07-14
+2026_PWD_DHOL_809941,NIT_72/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,14352449.9,143.52,15,2025-04-16
+2026_PHED_DHOL_240861,NIT_85/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1062970.38,10.63,17,2025-08-03
+2026_DLB_DHOL_791550,NIT_94/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,788294.25,7.88,12,2025-04-19
+2026_UIT_DHOL_402139,NIT_49/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,93391451.8,933.91,32,2025-06-28
+2026_UIT_DHOL_112916,NIT_96/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,1774430.05,17.74,15,2025-11-29
+2026_FORES_DHOL_463556,NIT_41/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,16729990.25,167.3,5,2026-02-06
+2026_MEDIC_DHOL_721948,NIT_23/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,726623.49,7.27,9,2026-02-19
+2026_PWD_DHOL_236600,NIT_76/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,836992.99,8.37,10,2025-06-28
+2026_FORES_DHOL_523775,NIT_45/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,3689141.9,36.89,11,2025-10-19
+2026_DLB_DHOL_246346,NIT_75/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,644388.57,6.44,10,2025-05-02
+2026_MEDIC_DHOL_197862,NIT_96/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,2390458.88,23.9,10,2025-11-26
+2026_MEDIC_DHOL_908661,NIT_64/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,6526497.52,65.26,23,2025-09-15
+2026_MEDIC_DHOL_840181,NIT_56/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,166388.3,1.66,14,2025-11-05
+2026_FORES_DHOL_703360,NIT_31/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,18026726.34,180.27,15,2025-11-24
+2026_PHED_DHOL_888876,NIT_68/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,878283.27,8.78,7,2026-02-14
+2026_FORES_DHOL_113341,NIT_92/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,556279.54,5.56,9,2025-09-22
+2026_UIT_DHOL_912047,NIT_82/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,380987.99,3.81,15,2026-01-19
+2026_DLB_DHOL_419537,NIT_65/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,608403.41,6.08,11,2025-07-06
+2026_UIT_DHOL_390617,NIT_24/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,340470.73,3.4,9,2025-09-19
+2026_WRD_DHOL_406449,NIT_85/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,10095433.3,100.95,23,2026-02-10
+2026_UIT_DHOL_263648,NIT_21/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,2661655.21,26.62,12,2026-03-26
+2026_FORES_DHOL_357910,NIT_48/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,174808.37,1.75,15,2025-11-21
+2026_MEDIC_DHOL_790508,NIT_56/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,2768305.13,27.68,13,2026-02-22
+2026_UIT_DHOL_578281,NIT_50/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,633849.63,6.34,9,2025-08-17
+2026_UIT_DHOL_877194,NIT_58/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,457524.49,4.58,13,2025-12-09
+2026_DLB_DHOL_828952,NIT_19/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,4307257.0,43.07,17,2025-07-26
+2026_DLB_DHOL_903931,NIT_82/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,3715233.1,37.15,10,2026-02-17
+2026_PHED_DHOL_437302,NIT_65/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,3910377.51,39.1,17,2025-09-01
+2026_FORES_DHOL_240446,NIT_88/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,921347.89,9.21,10,2025-04-09
+2026_WRD_DHOL_307579,NIT_21/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,1355013.03,13.55,10,2025-05-18
+2026_PHED_DHOL_909471,NIT_19/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,4019508.86,40.2,10,2025-04-19
+2026_PWD_DHOL_596391,NIT_90/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,98195910.28,981.96,36,2025-10-29
+2026_FORES_DHOL_384291,NIT_19/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,571192.64,5.71,11,2025-06-17
+2026_MEDIC_DHOL_387424,NIT_80/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,4005374.65,40.05,10,2025-10-12
+2026_WRD_DHOL_768103,NIT_96/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,4755981.79,47.56,18,2025-09-15
+2026_MEDIC_DHOL_109747,NIT_94/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,83435852.39,834.36,38,2025-08-15
+2026_PHED_DHOL_414338,NIT_91/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,619906.72,6.2,12,2026-02-03
+2026_UIT_DHOL_606881,NIT_86/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,433714.57,4.34,10,2025-06-16
+2026_UIT_DHOL_412392,NIT_70/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,942304.59,9.42,11,2025-11-10
+2026_PHED_DHOL_761576,NIT_67/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,529614.44,5.3,7,2026-01-05
+2026_FORES_DHOL_153179,NIT_68/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,668423.6,6.68,15,2025-07-10
+2026_WRD_DHOL_487451,NIT_34/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,938576.55,9.39,13,2025-11-07
+2026_DLB_DHOL_190485,NIT_32/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,3127501.08,31.28,16,2025-08-20
+2026_PWD_DHOL_332553,NIT_33/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,846364.57,8.46,13,2025-07-14
+2026_UIT_DHOL_763725,NIT_50/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,584818.2,5.85,14,2026-01-20
+2026_PHED_DHOL_972961,NIT_19/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,264099.01,2.64,8,2025-11-04
+2026_PWD_DHOL_976744,NIT_39/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,818472.89,8.18,15,2026-01-30
+2026_FORES_DHOL_670178,NIT_86/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,105365945.08,1053.66,35,2025-06-08
+2026_WRD_DHOL_858167,NIT_70/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,4340763.96,43.41,12,2025-06-17
+2026_UIT_DHOL_908414,NIT_84/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,6327629.54,63.28,21,2025-05-14
+2026_MEDIC_DHOL_191499,NIT_86/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,785625.55,7.86,15,2025-11-21
+2026_WRD_DHOL_685614,NIT_26/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,18131754.61,181.32,21,2025-07-01
+2026_PHED_DHOL_281860,NIT_59/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,239474.82,2.39,2,2025-04-17
+2026_PHED_DHOL_227333,NIT_98/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,4373342.98,43.73,12,2025-09-24
+2026_UIT_DHOL_840785,NIT_24/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,195319.84,1.95,8,2025-04-23
+2026_UIT_DHOL_730565,NIT_11/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,3944559.61,39.45,13,2026-02-15
+2026_DLB_DHOL_150985,NIT_94/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,3854238.11,38.54,16,2026-03-12
+2026_FORES_DHOL_225738,NIT_71/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,252647.64,2.53,15,2025-12-21
+2026_PHED_DHOL_244607,NIT_26/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,672536.72,6.73,15,2025-08-06
+2026_UIT_DHOL_612265,NIT_47/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,2625988.15,26.26,10,2025-11-23
+2026_PWD_DHOL_574599,NIT_36/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,208209.07,2.08,8,2025-12-01
+2026_WRD_DHOL_839368,NIT_69/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,467477.58,4.67,14,2026-02-04
+2026_UIT_DHOL_496617,NIT_73/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,438497.53,4.38,13,2025-07-22
+2026_FORES_DHOL_576560,NIT_60/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,338582.54,3.39,14,2025-07-12
+2026_UIT_DHOL_304276,NIT_52/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,18507900.17,185.08,19,2025-04-16
+2026_PWD_DHOL_651827,NIT_86/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,203258.86,2.03,8,2025-04-05
+2026_MEDIC_DHOL_819732,NIT_53/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,482604.56,4.83,15,2025-12-21
+2026_DLB_DHOL_218720,NIT_52/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,16726912.95,167.27,20,2025-05-09
+2026_FORES_DHOL_348742,NIT_51/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,3585447.36,35.85,10,2025-11-22
+2026_DLB_DHOL_534452,NIT_72/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,625114.83,6.25,13,2025-12-17
+2026_WRD_DHOL_239345,NIT_73/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,9736565.0,97.37,21,2025-10-19
+2026_FORES_DHOL_233700,NIT_35/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,393066.24,3.93,9,2025-06-08
+2026_DLB_DHOL_670978,NIT_70/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,459996.2,4.6,15,2026-03-24
+2026_DLB_DHOL_107302,NIT_54/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,68238172.42,682.38,31,2025-07-16
+2026_WRD_DHOL_927663,NIT_35/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,100979527.85,1009.8,34,2025-07-18
+2026_PWD_DHOL_260847,NIT_24/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,552546.0,5.53,8,2025-12-26
+2026_PHED_DHOL_191151,NIT_94/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,473069.87,4.73,7,2025-04-06
+2026_PWD_DHOL_734186,NIT_10/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,926567.38,9.27,15,2025-10-12
+2026_UIT_DHOL_728572,NIT_66/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,276638.24,2.77,12,2025-11-18
+2026_MEDIC_DHOL_817891,NIT_24/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,772031.11,7.72,7,2025-05-21
+2026_UIT_DHOL_101537,NIT_40/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,940236.28,9.4,7,2025-08-13
+2026_MEDIC_DHOL_370515,NIT_71/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,61552182.21,615.52,33,2026-02-02
+2026_DLB_DHOL_230493,NIT_61/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,9227003.42,92.27,15,2026-02-13
+2026_DLB_DHOL_398911,NIT_28/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,712450.65,7.12,12,2025-04-19
+2026_PHED_DHOL_696676,NIT_25/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1777692.66,17.78,10,2025-07-05
+2026_UIT_DHOL_910759,NIT_37/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,612891.72,6.13,8,2025-08-31
+2026_MEDIC_DHOL_549277,NIT_69/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,338142.64,3.38,8,2025-04-22
+2026_DLB_DHOL_123472,NIT_11/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,807878.8,8.08,13,2025-06-19
+2026_PWD_DHOL_479703,NIT_84/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,4776147.97,47.76,18,2025-04-18
+2026_WRD_DHOL_642999,NIT_65/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,784358.87,7.84,8,2026-03-01
+2026_MEDIC_DHOL_437437,NIT_58/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,8521592.08,85.22,23,2026-03-02
+2026_DLB_DHOL_458117,NIT_23/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,2515459.37,25.15,18,2026-02-17
+2026_DLB_DHOL_706067,NIT_24/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,279090.45,2.79,12,2026-03-24
+2026_MEDIC_DHOL_287063,NIT_79/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,294317.38,2.94,10,2025-09-28
+2026_MEDIC_DHOL_228309,NIT_90/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,2543871.76,25.44,15,2025-12-07
+2026_PWD_DHOL_438571,NIT_84/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,17605290.93,176.05,17,2026-02-08
+2026_MEDIC_DHOL_368966,NIT_68/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,3114116.84,31.14,11,2025-10-26
+2026_MEDIC_DHOL_337486,NIT_87/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,689116.11,6.89,13,2025-05-22
+2026_WRD_DHOL_692877,NIT_15/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,4620506.07,46.21,16,2025-11-03
+2026_FORES_DHOL_779706,NIT_95/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,742891.39,7.43,13,2025-06-09
+2026_FORES_DHOL_980248,NIT_50/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,59234058.6,592.34,35,2025-12-02
+2026_MEDIC_DHOL_207965,NIT_59/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,2432920.44,24.33,15,2025-12-19
+2026_PWD_DHOL_253327,NIT_74/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,3452649.97,34.53,10,2026-02-19
+2026_PHED_DHOL_820673,NIT_22/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,175623.86,1.76,9,2025-07-07
+2026_FORES_DHOL_588103,NIT_16/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,1614260.25,16.14,16,2026-01-19
+2026_FORES_DHOL_209650,NIT_86/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,940603.19,9.41,12,2025-12-06
+2026_PHED_DHOL_509409,NIT_53/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,276764.31,2.77,8,2026-03-20
+2026_PHED_DHOL_556641,NIT_54/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,696457.31,6.96,9,2025-08-13
+2026_PHED_DHOL_695651,NIT_48/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,8027247.44,80.27,23,2026-03-02
+2026_WRD_DHOL_841267,NIT_12/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,4731586.54,47.32,15,2026-01-01
+2026_DLB_DHOL_180189,NIT_53/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,813302.03,8.13,10,2025-09-22
+2026_MEDIC_DHOL_958019,NIT_93/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,14677329.25,146.77,16,2026-03-15
+2026_MEDIC_DHOL_934758,NIT_77/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,658107.18,6.58,13,2026-03-27
+2026_UIT_DHOL_608250,NIT_55/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,702240.03,7.02,7,2025-04-23
+2026_UIT_DHOL_508254,NIT_62/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,275778.92,2.76,8,2026-03-20
+2026_PHED_DHOL_211876,NIT_11/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1670754.81,16.71,17,2025-09-03
+2026_PHED_DHOL_838162,NIT_26/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,775665.96,7.76,12,2025-11-08
+2026_MEDIC_DHOL_839239,NIT_14/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,840298.65,8.4,14,2025-05-24
+2026_DLB_DHOL_379584,NIT_57/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,2070549.11,20.71,12,2025-09-20
+2026_PWD_DHOL_569775,NIT_37/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,776460.26,7.76,15,2026-02-25
+2026_WRD_DHOL_188863,NIT_92/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,2890146.52,28.9,12,2025-06-13
+2026_DLB_DHOL_671118,NIT_38/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,681985.28,6.82,12,2025-06-14
+2026_PHED_DHOL_482894,NIT_87/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,3797590.67,37.98,12,2026-03-02
+2026_PHED_DHOL_157711,NIT_84/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1260195.81,12.6,14,2025-05-02
+2026_FORES_DHOL_129119,NIT_67/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,1668048.03,16.68,11,2025-06-08
+2026_PWD_DHOL_643657,NIT_67/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,589558.29,5.9,12,2025-08-28
+2026_FORES_DHOL_282322,NIT_71/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,1053914.3,10.54,14,2025-09-14
+2026_WRD_DHOL_575576,NIT_42/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,707938.42,7.08,7,2025-08-28
+2026_UIT_DHOL_353413,NIT_38/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,6760972.13,67.61,22,2025-11-12
+2026_MEDIC_DHOL_486414,NIT_31/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,790174.94,7.9,9,2025-04-20
+2026_DLB_DHOL_773695,NIT_22/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,810614.38,8.11,8,2026-02-05
+2026_PHED_DHOL_839243,NIT_68/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1455279.33,14.55,17,2026-03-05
+2026_WRD_DHOL_948218,NIT_53/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,1170698.71,11.71,14,2025-10-02
+2026_PHED_DHOL_211779,NIT_21/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,444656.18,4.45,14,2026-01-10
+2026_FORES_DHOL_556676,NIT_98/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,14002322.87,140.02,16,2025-07-19
+2026_PHED_DHOL_950182,NIT_61/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,27969667.3,279.7,32,2025-09-08
+2026_WRD_DHOL_103349,NIT_77/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,4550142.79,45.5,15,2025-05-09
+2026_PHED_DHOL_690238,NIT_22/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,671535.38,6.72,15,2026-02-22
+2026_DLB_DHOL_148770,NIT_87/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,2324617.19,23.25,16,2026-02-24
+2026_PHED_DHOL_564425,NIT_44/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,291487.35,2.91,12,2025-07-20
+2026_MEDIC_DHOL_536639,NIT_40/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,868398.06,8.68,15,2025-07-20
+2026_FORES_DHOL_797806,NIT_53/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,9750086.36,97.5,22,2025-08-13
+2026_DLB_DHOL_532056,NIT_51/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,115316050.99,1153.16,38,2025-08-11
+2026_PHED_DHOL_266045,NIT_45/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,11805820.68,118.06,16,2025-09-07
+2026_PHED_DHOL_376082,NIT_38/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,558855.22,5.59,7,2025-10-26
+2026_MEDIC_DHOL_695955,NIT_71/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,689919.71,6.9,11,2025-11-04
+2026_UIT_DHOL_687324,NIT_95/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,764641.24,7.65,11,2026-02-05
+2026_PWD_DHOL_744361,NIT_95/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,934094.26,9.34,9,2026-02-08
+2026_UIT_DHOL_669640,NIT_10/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,509702.71,5.1,13,2026-03-27
+2026_WRD_DHOL_314886,NIT_33/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,201502.55,2.02,8,2025-05-26
+2026_DLB_DHOL_922121,NIT_70/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,3479807.25,34.8,14,2026-02-03
+2026_UIT_DHOL_825037,NIT_60/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,2214517.75,22.15,15,2025-12-24
+2026_FORES_DHOL_638034,NIT_88/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,3982727.97,39.83,12,2025-05-09
+2026_FORES_DHOL_427100,NIT_73/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,10348002.72,103.48,19,2025-04-15
+2026_MEDIC_DHOL_906369,NIT_86/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,683266.97,6.83,9,2025-10-20
+2026_WRD_DHOL_770212,NIT_36/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,832159.77,8.32,7,2025-06-05
+2026_FORES_DHOL_489163,NIT_76/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,2222697.85,22.23,12,2025-09-27
+2026_PWD_DHOL_531954,NIT_25/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,265170.82,2.65,12,2025-08-23
+2026_PWD_DHOL_192929,NIT_67/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,3327434.27,33.27,18,2026-02-22
+2026_FORES_DHOL_735356,NIT_81/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,341536.38,3.42,14,2025-04-23
+2026_PHED_DHOL_401090,NIT_18/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,185751.46,1.86,10,2025-10-04
+2026_MEDIC_DHOL_533762,NIT_41/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,1808373.06,18.08,13,2025-11-12
+2026_WRD_DHOL_223558,NIT_73/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,7619167.38,76.19,16,2025-08-07
+2026_UIT_DHOL_896345,NIT_71/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,11548367.75,115.48,9,2025-04-07
+2026_PHED_DHOL_831864,NIT_16/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,209884.08,2.1,9,2026-02-18
+2026_MEDIC_DHOL_949529,NIT_70/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,191726.73,1.92,10,2025-06-05
+2026_PWD_DHOL_828686,NIT_12/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,16949264.12,169.49,18,2025-10-20
+2026_PHED_DHOL_289227,NIT_60/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,207177.23,2.07,11,2025-11-22
+2026_DLB_DHOL_885229,NIT_11/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,455018.57,4.55,10,2025-12-11
+2026_PWD_DHOL_824603,NIT_95/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,7532146.75,75.32,18,2026-01-02
+2026_WRD_DHOL_219815,NIT_32/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,2698361.59,26.98,16,2025-07-09
+2026_MEDIC_DHOL_198402,NIT_52/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,6922358.35,69.22,19,2026-01-27
+2026_FORES_DHOL_958988,NIT_65/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,322531.09,3.23,9,2025-12-11
+2026_PWD_DHOL_130666,NIT_90/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,289742.18,2.9,7,2025-04-15
+2026_FORES_DHOL_886539,NIT_53/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,12776008.69,127.76,17,2025-10-17
+2026_FORES_DHOL_271346,NIT_64/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,475747.21,4.76,15,2025-04-19
+2026_UIT_DHOL_398543,NIT_28/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,3092898.86,30.93,6,2025-07-25
+2026_DLB_DHOL_594668,NIT_19/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,514804.13,5.15,11,2025-11-30
+2026_PHED_DHOL_642434,NIT_41/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,10229439.63,102.29,19,2026-02-20
+2026_PWD_DHOL_985740,NIT_77/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,3453640.4,34.54,14,2026-03-21
+2026_UIT_DHOL_585094,NIT_23/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,561356.82,5.61,10,2026-03-19
+2026_PWD_DHOL_135242,NIT_23/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,212810.39,2.13,9,2025-11-24
+2026_WRD_DHOL_618164,NIT_14/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,3528464.15,35.28,18,2025-09-15
+2026_FORES_DHOL_862681,NIT_60/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,2765782.93,27.66,12,2025-05-14
+2026_WRD_DHOL_365968,NIT_42/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,463943.02,4.64,11,2025-12-01
+2026_MEDIC_DHOL_899544,NIT_69/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,17681128.45,176.81,22,2026-02-18
+2026_WRD_DHOL_353617,NIT_74/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,864717.83,8.65,9,2025-10-01
+2026_PWD_DHOL_279582,NIT_74/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,373952.38,3.74,15,2026-02-23
+2026_UIT_DHOL_186657,NIT_74/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,422991.78,4.23,8,2026-03-01
+2026_PHED_DHOL_378400,NIT_41/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,12948156.03,129.48,16,2025-08-17
+2026_PWD_DHOL_103797,NIT_15/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,630658.57,6.31,15,2025-06-21
+2026_FORES_DHOL_708733,NIT_44/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,747040.05,7.47,14,2025-10-25
+2026_WRD_DHOL_828538,NIT_40/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,16979715.62,169.8,17,2025-11-19
+2026_FORES_DHOL_243552,NIT_21/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,419390.22,4.19,10,2026-01-28
+2026_FORES_DHOL_554441,NIT_99/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,552382.3,5.52,8,2025-10-27
+2026_MEDIC_DHOL_254051,NIT_19/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,582363.15,5.82,11,2025-04-19
+2026_UIT_DHOL_507834,NIT_42/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,3182637.38,31.83,10,2025-11-18
+2026_PHED_DHOL_925416,NIT_57/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,3519097.22,35.19,12,2025-04-20
+2026_PHED_DHOL_819445,NIT_93/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,18581196.96,185.81,20,2025-05-20
+2026_PHED_DHOL_762989,NIT_19/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,18249229.31,182.49,19,2026-03-07
+2026_FORES_DHOL_793349,NIT_77/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,3863490.72,38.63,17,2026-02-16
+2026_FORES_DHOL_810612,NIT_95/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,1207672.22,12.08,17,2025-08-02
+2026_UIT_DHOL_119072,NIT_95/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,296194.33,2.96,7,2025-05-24
+2026_PHED_DHOL_878700,NIT_85/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,622168.84,6.22,14,2025-10-25
+2026_WRD_DHOL_739208,NIT_75/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,2094494.64,20.94,12,2025-05-05
+2026_FORES_DHOL_756535,NIT_15/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,14219773.18,142.2,23,2025-06-01
+2026_UIT_DHOL_113761,NIT_63/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,621681.72,6.22,10,2026-01-07
+2026_UIT_DHOL_563500,NIT_41/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,691602.04,6.92,11,2025-07-25
+2026_WRD_DHOL_922090,NIT_71/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,833187.32,8.33,7,2025-06-04
+2026_FORES_DHOL_339708,NIT_49/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,500533.59,5.01,11,2025-11-27
+2026_FORES_DHOL_242236,NIT_95/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,607668.73,6.08,10,2025-12-22
+2026_MEDIC_DHOL_970792,NIT_22/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,668796.77,6.69,10,2025-11-15
+2026_PHED_DHOL_692258,NIT_86/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,585442.76,5.85,13,2025-08-06
+2026_PHED_DHOL_256226,NIT_93/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1428915.1,14.29,11,2025-08-21
+2026_WRD_DHOL_147037,NIT_86/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,808301.92,8.08,13,2026-01-17
+2026_FORES_DHOL_385229,NIT_79/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,1700280.42,17.0,12,2026-03-07
+2026_PWD_DHOL_367390,NIT_74/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,9161893.81,91.62,22,2025-11-30
+2026_PWD_DHOL_367145,NIT_30/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,55790929.13,557.91,33,2025-07-28
+2026_PWD_DHOL_618575,NIT_26/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,2817466.93,28.17,11,2025-06-08
+2026_FORES_DHOL_925924,NIT_53/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,496773.5,4.97,13,2025-10-15
+2026_PWD_DHOL_845850,NIT_46/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,115090532.11,1150.91,35,2025-10-18
+2026_PWD_DHOL_370313,NIT_31/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,4730019.57,47.3,16,2026-02-25
+2026_FORES_DHOL_763851,NIT_92/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,199391.48,1.99,10,2026-01-16
+2026_PHED_DHOL_856953,NIT_11/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,316160.86,3.16,7,2025-04-09
+2026_MEDIC_DHOL_659050,NIT_86/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,778753.22,7.79,10,2026-01-27
+2026_DLB_DHOL_934525,NIT_24/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,880830.49,8.81,11,2025-07-24
+2026_FORES_DHOL_376379,NIT_26/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,591348.5,5.91,8,2025-12-18
+2026_WRD_DHOL_518668,NIT_98/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,14625848.28,146.26,17,2025-04-08
+2026_PWD_DHOL_153224,NIT_72/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,250679.44,2.51,14,2025-05-30
+2026_FORES_DHOL_911128,NIT_20/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,4748825.64,47.49,18,2025-12-21
+2026_FORES_DHOL_901912,NIT_72/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,12786480.16,127.86,18,2026-02-25
+2026_DLB_DHOL_338298,NIT_33/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,1166677.06,11.67,13,2025-09-17
+2026_PHED_DHOL_744663,NIT_63/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,9555251.19,95.55,17,2026-03-24
+2026_DLB_DHOL_658968,NIT_62/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,102466259.48,1024.66,36,2025-04-22
+2026_DLB_DHOL_389511,NIT_19/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,484493.43,4.84,8,2026-02-18
+2026_PWD_DHOL_341003,NIT_46/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,117262739.68,1172.63,38,2025-09-20
+2026_WRD_DHOL_305801,NIT_77/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,3197085.66,31.97,17,2025-09-23
+2026_FORES_DHOL_159173,NIT_90/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,878761.88,8.79,12,2025-10-27
+2026_FORES_DHOL_181977,NIT_43/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,3146204.54,31.46,11,2026-01-27
+2026_PHED_DHOL_754449,NIT_45/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1810882.64,18.11,18,2025-12-01
+2026_PWD_DHOL_344809,NIT_42/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,9326601.46,93.27,18,2026-02-26
+2026_UIT_DHOL_528321,NIT_73/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,432037.38,4.32,11,2025-11-10
+2026_WRD_DHOL_434095,NIT_71/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,2384962.31,23.85,12,2025-06-01
+2026_UIT_DHOL_891620,NIT_91/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,655459.77,6.55,15,2026-03-09
+2026_UIT_DHOL_605494,NIT_89/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,934274.08,9.34,5,2025-09-05
+2026_PWD_DHOL_438747,NIT_53/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,663781.65,6.64,7,2025-05-28
+2026_FORES_DHOL_730089,NIT_22/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,707668.12,7.08,11,2025-11-10
+2026_PHED_DHOL_231043,NIT_33/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,6084080.65,60.84,18,2025-05-12
+2026_PWD_DHOL_840205,NIT_88/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,938516.54,9.39,13,2026-01-27
+2026_PHED_DHOL_714869,NIT_50/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,923603.2,9.24,11,2026-03-15
+2026_FORES_DHOL_739658,NIT_11/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,624316.51,6.24,8,2025-12-24
+2026_MEDIC_DHOL_911146,NIT_15/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,199635.03,2.0,8,2025-08-04
+2026_UIT_DHOL_235716,NIT_57/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,925331.01,9.25,8,2025-06-16
+2026_UIT_DHOL_716986,NIT_16/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,704537.61,7.05,9,2025-11-24
+2026_FORES_DHOL_113506,NIT_11/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,1944002.97,19.44,11,2025-12-16
+2026_WRD_DHOL_176908,NIT_34/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,838249.08,8.38,7,2025-10-03
+2026_PHED_DHOL_993091,NIT_13/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,326159.63,3.26,15,2025-09-12
+2026_WRD_DHOL_479846,NIT_13/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,759040.89,7.59,11,2025-07-29
+2026_FORES_DHOL_556522,NIT_14/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,2204547.54,22.05,10,2025-08-04
+2026_DLB_DHOL_964159,NIT_95/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,352017.59,3.52,7,2025-04-25
+2026_WRD_DHOL_766704,NIT_51/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,1511892.52,15.12,16,2025-08-16
+2026_MEDIC_DHOL_603760,NIT_81/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,14965921.64,149.66,18,2025-12-04
+2026_FORES_DHOL_502505,NIT_24/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,1182135.69,11.82,15,2026-01-16
+2026_WRD_DHOL_399764,NIT_57/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,275436.33,2.75,8,2025-08-16
+2026_MEDIC_DHOL_642604,NIT_19/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,3531148.58,35.31,13,2025-08-31
+2026_UIT_DHOL_198433,NIT_57/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,2875825.35,28.76,12,2026-01-28
+2026_PWD_DHOL_283726,NIT_64/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,595042.87,5.95,8,2025-10-16
+2026_FORES_DHOL_615176,NIT_23/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,6216411.58,62.16,12,2026-01-13
+2026_WRD_DHOL_180446,NIT_83/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,7658317.37,76.58,23,2025-05-01
+2026_WRD_DHOL_993782,NIT_40/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,13207393.56,132.07,22,2025-05-31
+2026_DLB_DHOL_556891,NIT_84/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,7919705.79,79.2,20,2025-06-12
+2026_PHED_DHOL_133465,NIT_35/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,3775699.94,37.76,12,2025-10-31
+2026_FORES_DHOL_108444,NIT_33/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,4459335.73,44.59,16,2026-02-05
+2026_DLB_DHOL_526198,NIT_40/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,3527582.8,35.28,13,2025-09-07
+2026_UIT_DHOL_868420,NIT_63/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,7169527.58,71.7,16,2025-10-20
+2026_MEDIC_DHOL_922062,NIT_31/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,2130738.37,21.31,17,2025-09-16
+2026_PHED_DHOL_322998,NIT_27/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,596393.02,5.96,11,2025-04-17
+2026_MEDIC_DHOL_332059,NIT_87/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,730953.81,7.31,10,2025-10-04
+2026_UIT_DHOL_130816,NIT_36/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,8370109.65,83.7,21,2025-08-19
+2026_PWD_DHOL_666836,NIT_25/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,457343.99,4.57,7,2026-01-30
+2026_PHED_DHOL_573834,NIT_15/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,2918010.9,29.18,16,2025-12-29
+2026_MEDIC_DHOL_185224,NIT_15/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,97976048.75,979.76,17,2025-06-21
+2026_MEDIC_DHOL_896356,NIT_33/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,2014699.38,20.15,10,2025-10-12
+2026_PHED_DHOL_861188,NIT_83/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,103108935.82,1031.09,32,2026-02-27
+2026_PHED_DHOL_784963,NIT_33/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,3450539.25,34.51,12,2025-10-30
+2026_UIT_DHOL_628577,NIT_96/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,320324.02,3.2,14,2026-03-25
+2026_WRD_DHOL_340007,NIT_15/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,6395634.32,63.96,12,2026-01-31
+2026_UIT_DHOL_854958,NIT_18/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,820967.07,8.21,8,2026-03-24
+2026_DLB_DHOL_865444,NIT_48/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,422368.65,4.22,7,2026-02-09
+2026_UIT_DHOL_738053,NIT_70/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,389903.6,3.9,13,2025-08-24
+2026_FORES_DHOL_739884,NIT_32/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,509164.69,5.09,12,2026-01-25
+2026_PHED_DHOL_220763,NIT_88/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,379537.53,3.8,13,2025-04-29
+2026_FORES_DHOL_253395,NIT_23/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,592412.81,5.92,12,2026-03-01
+2026_DLB_DHOL_639189,NIT_55/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,3112709.81,31.13,10,2026-03-16
+2026_PWD_DHOL_542174,NIT_67/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,12939452.01,129.39,20,2025-10-23
+2026_FORES_DHOL_893203,NIT_28/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,329585.86,3.3,15,2025-05-20
+2026_UIT_DHOL_274778,NIT_70/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,754575.63,7.55,15,2025-08-15
+2026_UIT_DHOL_152851,NIT_24/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,4657726.12,46.58,18,2025-12-14
+2026_FORES_DHOL_745909,NIT_71/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,4415718.35,44.16,17,2025-09-06
+2026_MEDIC_DHOL_473412,NIT_58/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,6307786.89,63.08,17,2026-01-13
+2026_DLB_DHOL_298786,NIT_47/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,875471.31,8.75,13,2025-06-07
+2026_PWD_DHOL_692712,NIT_96/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,12423352.28,124.23,17,2025-05-22
+2026_DLB_DHOL_981885,NIT_74/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,901318.8,9.01,7,2026-03-08
+2026_FORES_DHOL_204430,NIT_27/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,4217457.41,42.17,12,2025-09-11
+2026_PHED_DHOL_265513,NIT_44/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,934679.14,9.35,12,2026-01-25
+2026_UIT_DHOL_718293,NIT_25/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,354200.57,3.54,9,2025-10-21
+2026_WRD_DHOL_158125,NIT_58/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,371431.13,3.71,9,2025-07-12
+2026_FORES_DHOL_617031,NIT_87/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,450506.56,4.51,10,2025-10-08
+2026_DLB_DHOL_642215,NIT_33/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,476479.89,4.76,15,2025-07-09
+2026_PHED_DHOL_705943,NIT_46/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,6329725.26,63.3,9,2025-12-27
+2026_DLB_DHOL_501556,NIT_91/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,4508712.49,45.09,18,2026-02-04
+2026_PWD_DHOL_692717,NIT_49/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,4282452.9,42.82,11,2025-11-08
+2026_MEDIC_DHOL_867702,NIT_16/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,803205.61,8.03,12,2025-04-21
+2026_FORES_DHOL_742992,NIT_31/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,716932.72,7.17,14,2025-06-26
+2026_MEDIC_DHOL_510714,NIT_65/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,45712799.39,457.13,33,2025-04-17
+2026_PWD_DHOL_960676,NIT_45/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,2898833.82,28.99,11,2026-01-18
+2026_WRD_DHOL_826529,NIT_23/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,454358.88,4.54,11,2025-08-12
+2026_PHED_DHOL_338534,NIT_51/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,589525.13,5.9,9,2025-09-02
+2026_DLB_DHOL_561467,NIT_17/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,4042764.81,40.43,14,2026-03-27
+2026_WRD_DHOL_112406,NIT_45/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,339333.14,3.39,14,2025-05-06
+2026_FORES_DHOL_232474,NIT_51/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,467247.43,4.67,15,2025-05-14
+2026_PWD_DHOL_111478,NIT_42/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,11681674.5,116.82,20,2025-07-31
+2026_UIT_DHOL_211661,NIT_75/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,4404364.95,44.04,16,2026-03-24
+2026_UIT_DHOL_595102,NIT_17/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,1431915.03,14.32,11,2025-07-28
+2026_UIT_DHOL_474816,NIT_90/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,361164.61,3.61,15,2025-05-08
+2026_UIT_DHOL_239000,NIT_63/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,382521.1,3.83,14,2026-02-08
+2026_WRD_DHOL_528371,NIT_72/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,17059005.96,170.59,22,2025-11-05
+2026_MEDIC_DHOL_912075,NIT_18/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,16691865.45,166.92,20,2025-12-17
+2026_PHED_DHOL_403798,NIT_30/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,264648.63,2.65,15,2025-06-13
+2026_DLB_DHOL_920248,NIT_97/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,628105.55,6.28,12,2026-02-15
+2026_PHED_DHOL_448606,NIT_42/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,449612.23,4.5,9,2025-12-16
+2026_PWD_DHOL_301938,NIT_65/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,252219.19,2.52,13,2025-11-25
+2026_MEDIC_DHOL_278913,NIT_67/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,3725412.68,37.25,15,2025-08-10
+2026_PWD_DHOL_321501,NIT_34/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,32514458.76,325.14,36,2025-06-18
+2026_PHED_DHOL_951074,NIT_77/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,343172.17,3.43,10,2025-10-27
+2026_MEDIC_DHOL_995986,NIT_10/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,424196.85,4.24,8,2025-09-06
+2026_WRD_DHOL_874841,NIT_22/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,7148294.1,71.48,18,2026-01-30
+2026_WRD_DHOL_289621,NIT_42/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,937337.31,9.37,13,2025-07-07
+2026_FORES_DHOL_251145,NIT_20/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,96826396.97,968.26,38,2025-04-02
+2026_MEDIC_DHOL_100826,NIT_67/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,1863040.36,18.63,15,2025-05-21
+2026_PWD_DHOL_320333,NIT_35/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,36808605.94,368.09,37,2026-02-22
+2026_WRD_DHOL_141217,NIT_25/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,875413.44,8.75,9,2025-05-17
+2026_FORES_DHOL_624902,NIT_78/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,182241.47,1.82,14,2026-02-08
+2026_PWD_DHOL_765789,NIT_18/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,365850.78,3.66,14,2025-08-06
+2026_FORES_DHOL_908682,NIT_56/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,511608.07,5.12,5,2025-06-08
+2026_PHED_DHOL_549569,NIT_38/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,932241.15,9.32,7,2025-04-14
+2026_UIT_DHOL_180300,NIT_87/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,97580176.47,975.8,38,2025-12-27
+2026_PWD_DHOL_753348,NIT_28/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,12801813.29,128.02,15,2025-04-21
+2026_WRD_DHOL_444286,NIT_13/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,3087760.28,30.88,11,2025-12-13
+2026_DLB_DHOL_956142,NIT_99/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,691669.78,6.92,11,2025-10-11
+2026_PHED_DHOL_536518,NIT_19/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,1857402.56,18.57,16,2025-12-27
+2026_PHED_DHOL_657141,NIT_11/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,4642998.42,46.43,16,2025-07-01
+2026_PWD_DHOL_595267,NIT_40/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,725983.45,7.26,2,2025-05-06
+2026_UIT_DHOL_346878,NIT_46/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,18508764.2,185.09,20,2025-08-04
+2026_MEDIC_DHOL_389511,NIT_46/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,326190.89,3.26,9,2025-04-30
+2026_WRD_DHOL_211203,NIT_10/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,751057.16,7.51,15,2025-04-10
+2026_PHED_DHOL_360038,NIT_14/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,657881.7,6.58,13,2026-02-07
+2026_WRD_DHOL_146123,NIT_12/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,4348096.64,43.48,13,2025-07-15
+2026_UIT_DHOL_828290,NIT_82/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,4428959.5,44.29,18,2026-03-27
+2026_FORES_DHOL_687150,NIT_12/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,738381.77,7.38,10,2025-05-10
+2026_PHED_DHOL_927831,NIT_98/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,270976.29,2.71,15,2025-12-13
+2026_PWD_DHOL_731437,NIT_80/DHO/2025-26,Public Works Department (Dholpur Circle),Dholpur,Bharatpur Division,253636.25,2.54,11,2025-06-04
+2026_WRD_DHOL_648951,NIT_29/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,493526.25,4.94,15,2025-10-18
+2026_PHED_DHOL_729122,NIT_90/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,908192.33,9.08,14,2025-11-27
+2026_FORES_DHOL_201737,NIT_50/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,451268.56,4.51,7,2025-05-31
+2026_MEDIC_DHOL_103667,NIT_39/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,400129.48,4.0,9,2025-05-15
+2026_WRD_DHOL_292420,NIT_45/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,5512917.22,55.13,18,2025-09-30
+2026_PHED_DHOL_622179,NIT_50/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,473758.22,4.74,8,2026-03-04
+2026_PHED_DHOL_700810,NIT_68/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,4463975.65,44.64,16,2025-12-07
+2026_PHED_DHOL_892562,NIT_69/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,506427.72,5.06,8,2025-07-03
+2026_WRD_DHOL_521513,NIT_29/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,762217.8,7.62,15,2025-11-17
+2026_UIT_DHOL_645876,NIT_19/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,874647.32,8.75,10,2025-09-30
+2026_UIT_DHOL_597647,NIT_31/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,792880.84,7.93,10,2025-12-08
+2026_UIT_DHOL_110052,NIT_15/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,556055.13,5.56,9,2025-07-09
+2026_MEDIC_DHOL_933180,NIT_18/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,15523267.11,155.23,21,2025-07-13
+2026_FORES_DHOL_338486,NIT_64/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,10046139.44,100.46,23,2025-08-20
+2026_DLB_DHOL_584046,NIT_67/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,337727.84,3.38,9,2025-07-16
+2026_WRD_DHOL_286669,NIT_90/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,430213.03,4.3,9,2026-01-01
+2026_MEDIC_DHOL_548631,NIT_64/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,94181012.03,941.81,35,2025-07-21
+2026_PHED_DHOL_462926,NIT_97/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,434491.87,4.34,10,2026-01-10
+2026_PHED_DHOL_402035,NIT_12/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,4131943.97,41.32,13,2025-10-10
+2026_WRD_DHOL_295266,NIT_74/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,80111626.52,801.12,35,2026-02-22
+2026_WRD_DHOL_142159,NIT_56/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,96629400.18,966.29,36,2025-07-14
+2026_PHED_DHOL_610720,NIT_17/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,459598.49,4.6,14,2026-02-11
+2026_UIT_DHOL_221327,NIT_13/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,370006.82,3.7,12,2025-09-09
+2026_UIT_DHOL_609894,NIT_88/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,945310.21,9.45,9,2025-06-01
+2026_FORES_DHOL_985654,NIT_61/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,7250156.18,72.5,23,2025-12-29
+2026_FORES_DHOL_135255,NIT_39/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,10256640.16,102.57,16,2025-08-14
+2026_UIT_DHOL_280145,NIT_25/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,3352480.34,33.52,16,2025-08-12
+2026_DLB_DHOL_517190,NIT_61/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,1267840.06,12.68,18,2026-01-31
+2026_WRD_DHOL_450547,NIT_41/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,4077124.03,40.77,13,2025-10-05
+2026_DLB_DHOL_939082,NIT_75/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,4078051.73,40.78,18,2025-08-13
+2026_DLB_DHOL_909538,NIT_24/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,10338010.26,103.38,22,2025-04-01
+2026_FORES_DHOL_469693,NIT_42/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,3964678.81,39.65,14,2025-09-27
+2026_PHED_DHOL_140854,NIT_48/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,725588.18,7.26,10,2026-03-23
+2026_UIT_DHOL_429927,NIT_65/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,486443.33,4.86,14,2025-06-15
+2026_DLB_DHOL_932645,NIT_97/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,1748910.77,17.49,16,2025-06-27
+2026_DLB_DHOL_923923,NIT_55/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,580372.05,5.8,13,2025-06-15
+2026_FORES_DHOL_951461,NIT_52/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,464164.31,4.64,8,2025-04-03
+2026_MEDIC_DHOL_437904,NIT_66/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,16483844.47,164.84,15,2025-09-04
+2026_WRD_DHOL_716759,NIT_74/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,3818755.53,38.19,14,2025-05-12
+2026_MEDIC_DHOL_727458,NIT_60/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,16823182.5,168.23,19,2025-07-31
+2026_PHED_DHOL_735233,NIT_10/DHO/2025-26,Public Health Engineering Department (Dholpur Circle),Dholpur,Bharatpur Division,526136.49,5.26,9,2025-08-07
+2026_FORES_DHOL_400135,NIT_78/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,3271257.34,32.71,17,2025-08-16
+2026_MEDIC_DHOL_688958,NIT_53/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,354732.72,3.55,7,2025-10-22
+2026_DLB_DHOL_802232,NIT_75/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,16164021.57,161.64,19,2026-03-14
+2026_MEDIC_DHOL_409055,NIT_92/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,431505.89,4.32,9,2025-08-13
+2026_MEDIC_DHOL_779095,NIT_54/DHO/2025-26,Department of Medical Education (Dholpur Circle),Dholpur,Bharatpur Division,3282856.32,32.83,11,2025-04-22
+2026_DLB_DHOL_187072,NIT_54/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,3533228.09,35.33,13,2025-07-28
+2026_DLB_DHOL_504650,NIT_70/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,829029.1,8.29,15,2025-12-28
+2026_UIT_DHOL_182664,NIT_16/DHO/2025-26,Municipal Council Dholpur,Dholpur,Bharatpur Division,88855005.85,888.55,30,2025-12-24
+2026_WRD_DHOL_961561,NIT_75/DHO/2025-26,Water Resources Department (Dholpur Circle),Dholpur,Bharatpur Division,17296801.96,172.97,19,2025-10-10
+2026_FORES_DHOL_886877,NIT_57/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,298009.29,2.98,9,2025-09-27
+2026_DLB_DHOL_516565,NIT_31/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,637865.6,6.38,10,2025-04-02
+2026_FORES_DHOL_482613,NIT_38/DHO/2025-26,Forest Department (Dholpur Circle),Dholpur,Bharatpur Division,873322.52,8.73,10,2025-06-30
+2026_DLB_DHOL_111509,NIT_74/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,542184.17,5.42,11,2025-10-23
+2026_DLB_DHOL_262908,NIT_31/DHO/2025-26,Directorate of Local Bodies (Dholpur Circle),Dholpur,Bharatpur Division,8415880.41,84.16,16,2025-09-19

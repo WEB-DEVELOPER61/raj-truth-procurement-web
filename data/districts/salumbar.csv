@@ -1,0 +1,437 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_UIT_SALU_627058,NIT_36/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,632372.27,6.32,7,2025-10-18
+2026_FORES_SALU_545807,NIT_37/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,6994837.86,69.95,23,2025-10-10
+2026_WRD_SALU_560672,NIT_49/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,551103.38,5.51,10,2025-10-23
+2026_DLB_SALU_996448,NIT_91/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,5452207.9,54.52,22,2025-10-01
+2026_PWD_SALU_102524,NIT_37/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,569188.96,5.69,11,2026-02-26
+2026_PWD_SALU_369880,NIT_36/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,107625759.41,1076.26,33,2025-05-06
+2026_WRD_SALU_106634,NIT_11/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,95458255.62,954.58,33,2025-09-02
+2026_FORES_SALU_668145,NIT_51/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,672127.2,6.72,9,2025-09-17
+2026_WRD_SALU_516960,NIT_18/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,9000460.02,90.0,22,2025-12-23
+2026_WRD_SALU_329158,NIT_67/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,10581807.02,105.82,11,2025-07-11
+2026_PHED_SALU_916867,NIT_55/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,532237.46,5.32,8,2026-03-25
+2026_DLB_SALU_725355,NIT_55/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,3660885.85,36.61,15,2025-06-16
+2026_WRD_SALU_806986,NIT_62/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,758375.57,7.58,13,2025-04-27
+2026_WRD_SALU_896736,NIT_33/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,9727272.49,97.27,15,2025-05-06
+2026_MEDIC_SALU_353536,NIT_83/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,786054.7,7.86,15,2026-01-20
+2026_MEDIC_SALU_183568,NIT_75/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,732199.98,7.32,9,2025-08-22
+2026_UIT_SALU_422448,NIT_56/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,547047.06,5.47,10,2025-09-07
+2026_FORES_SALU_291899,NIT_50/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,3265829.04,32.66,12,2025-06-19
+2026_MEDIC_SALU_522500,NIT_84/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,9806535.57,98.07,23,2025-06-22
+2026_PWD_SALU_151608,NIT_65/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,36264768.0,362.65,32,2025-05-21
+2026_FORES_SALU_145013,NIT_15/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,712759.69,7.13,7,2025-05-10
+2026_PHED_SALU_292272,NIT_91/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,431743.62,4.32,7,2026-02-25
+2026_UIT_SALU_418976,NIT_46/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,4043842.95,40.44,14,2025-12-17
+2026_PHED_SALU_255756,NIT_45/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,3883347.62,38.83,10,2025-07-03
+2026_WRD_SALU_744318,NIT_51/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,553451.2,5.53,12,2025-11-14
+2026_PHED_SALU_722855,NIT_38/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,634448.67,6.34,13,2025-04-04
+2026_MEDIC_SALU_476354,NIT_55/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,185553.05,1.86,13,2025-06-20
+2026_UIT_SALU_972551,NIT_57/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,783939.65,7.84,8,2025-08-15
+2026_UIT_SALU_809484,NIT_40/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,4209609.1,42.1,15,2026-01-30
+2026_UIT_SALU_434053,NIT_62/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,631661.12,6.32,9,2025-04-08
+2026_DLB_SALU_164559,NIT_41/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,11208208.25,112.08,23,2026-02-02
+2026_UIT_SALU_313342,NIT_70/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,305027.55,3.05,7,2025-05-20
+2026_WRD_SALU_783799,NIT_33/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,527383.09,5.27,10,2025-11-26
+2026_WRD_SALU_852448,NIT_79/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,16136193.86,161.36,11,2025-09-02
+2026_WRD_SALU_672800,NIT_73/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,3052224.43,30.52,15,2025-06-16
+2026_MEDIC_SALU_205693,NIT_79/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,829465.22,8.29,7,2025-05-02
+2026_UIT_SALU_276113,NIT_53/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,4067775.75,40.68,17,2025-12-18
+2026_PHED_SALU_439773,NIT_69/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,309248.32,3.09,10,2025-04-12
+2026_PHED_SALU_264129,NIT_13/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,18400124.17,184.0,20,2025-09-02
+2026_PWD_SALU_999048,NIT_56/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,662087.19,6.62,11,2025-04-01
+2026_UIT_SALU_200584,NIT_63/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,2091898.39,20.92,17,2026-01-04
+2026_FORES_SALU_478685,NIT_95/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,198633.03,1.99,7,2026-02-14
+2026_FORES_SALU_339909,NIT_35/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,549592.11,5.5,13,2025-09-28
+2026_MEDIC_SALU_435050,NIT_19/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,23092861.0,230.93,31,2025-08-26
+2026_DLB_SALU_438263,NIT_43/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,12619638.01,126.2,6,2025-06-28
+2026_UIT_SALU_274853,NIT_12/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,782394.87,7.82,8,2025-09-28
+2026_PHED_SALU_817669,NIT_50/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,837868.77,8.38,8,2025-11-11
+2026_DLB_SALU_731183,NIT_75/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,719779.54,7.2,7,2025-09-01
+2026_DLB_SALU_770895,NIT_99/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1168937.98,11.69,16,2025-07-03
+2026_PHED_SALU_438114,NIT_15/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,1334917.4,13.35,17,2025-09-18
+2026_MEDIC_SALU_181448,NIT_69/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,3621282.58,36.21,10,2026-02-02
+2026_PHED_SALU_308893,NIT_82/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,778538.82,7.79,7,2026-03-25
+2026_WRD_SALU_772407,NIT_45/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,11890299.68,118.9,15,2025-11-01
+2026_DLB_SALU_153662,NIT_55/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,544423.69,5.44,12,2025-06-05
+2026_DLB_SALU_315681,NIT_83/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,827227.52,8.27,15,2025-08-05
+2026_PWD_SALU_866392,NIT_22/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,1648580.11,16.49,18,2025-06-21
+2026_PHED_SALU_955911,NIT_20/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,72024872.69,720.25,30,2025-05-27
+2026_DLB_SALU_263504,NIT_97/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,2141765.43,21.42,15,2025-05-07
+2026_DLB_SALU_737843,NIT_62/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1358893.2,13.59,13,2025-08-12
+2026_PWD_SALU_965497,NIT_79/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,3559374.57,35.59,18,2025-09-13
+2026_PHED_SALU_227763,NIT_50/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,15049797.16,150.5,22,2026-02-20
+2026_WRD_SALU_353811,NIT_82/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,345064.9,3.45,8,2026-01-14
+2026_PWD_SALU_816885,NIT_58/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,431916.26,4.32,11,2026-01-02
+2026_PWD_SALU_530152,NIT_27/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,26423763.94,264.24,37,2026-02-09
+2026_WRD_SALU_624771,NIT_91/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,16502353.32,165.02,5,2025-09-29
+2026_PWD_SALU_981684,NIT_86/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,302018.9,3.02,10,2025-04-12
+2026_PHED_SALU_152641,NIT_63/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,766337.23,7.66,9,2025-04-07
+2026_WRD_SALU_325089,NIT_75/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,376050.84,3.76,15,2025-05-28
+2026_PHED_SALU_362422,NIT_83/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,524719.46,5.25,14,2025-09-11
+2026_UIT_SALU_257041,NIT_38/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,35336338.4,353.36,33,2026-01-07
+2026_PHED_SALU_218442,NIT_25/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,569573.89,5.7,12,2025-04-23
+2026_FORES_SALU_234431,NIT_57/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,16144931.02,161.45,21,2025-06-28
+2026_MEDIC_SALU_411576,NIT_33/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,776312.33,7.76,13,2025-08-27
+2026_FORES_SALU_742548,NIT_73/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,760918.48,7.61,7,2025-07-21
+2026_WRD_SALU_454176,NIT_58/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,289646.98,2.9,12,2025-06-09
+2026_DLB_SALU_368449,NIT_29/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,4636695.85,46.37,11,2026-01-25
+2026_WRD_SALU_895618,NIT_72/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,2382240.14,23.82,14,2025-05-29
+2026_FORES_SALU_695590,NIT_11/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,1990812.34,19.91,10,2025-11-09
+2026_WRD_SALU_415710,NIT_73/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,570897.92,5.71,9,2025-09-01
+2026_PWD_SALU_787211,NIT_88/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,551431.59,5.51,13,2025-10-24
+2026_PWD_SALU_791810,NIT_23/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,842999.94,8.43,14,2025-04-30
+2026_UIT_SALU_113998,NIT_66/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,365535.36,3.66,15,2026-02-05
+2026_UIT_SALU_113299,NIT_11/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,2608299.07,26.08,12,2025-04-17
+2026_PHED_SALU_220449,NIT_57/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,2436160.18,24.36,17,2025-09-10
+2026_PHED_SALU_220781,NIT_62/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,1782728.94,17.83,12,2026-02-15
+2026_WRD_SALU_869882,NIT_45/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,390966.27,3.91,7,2025-11-17
+2026_DLB_SALU_438858,NIT_49/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,515191.32,5.15,15,2026-01-21
+2026_PWD_SALU_936192,NIT_50/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,784433.56,7.84,15,2026-01-25
+2026_DLB_SALU_614984,NIT_56/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,903975.46,9.04,8,2025-09-05
+2026_PHED_SALU_434619,NIT_74/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,5490482.94,54.9,16,2025-06-22
+2026_PWD_SALU_918942,NIT_34/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,4760403.02,47.6,13,2025-10-29
+2026_PWD_SALU_111603,NIT_23/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,391581.83,3.92,10,2025-06-30
+2026_PHED_SALU_237416,NIT_89/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,237329.87,2.37,7,2025-08-14
+2026_UIT_SALU_205465,NIT_72/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,13318529.8,133.19,23,2025-08-28
+2026_PHED_SALU_115647,NIT_71/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,1315394.99,13.15,16,2025-11-07
+2026_PWD_SALU_736107,NIT_13/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,1963940.03,19.64,14,2026-01-31
+2026_PWD_SALU_785939,NIT_36/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,324727.43,3.25,8,2025-08-05
+2026_MEDIC_SALU_304609,NIT_58/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,741500.1,7.42,12,2026-03-24
+2026_DLB_SALU_255457,NIT_16/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,88288010.27,882.88,36,2025-12-07
+2026_UIT_SALU_532577,NIT_97/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,1706652.18,17.07,16,2025-10-01
+2026_MEDIC_SALU_239057,NIT_61/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,337424.43,3.37,8,2025-10-10
+2026_UIT_SALU_181376,NIT_74/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,5981480.56,59.81,6,2025-12-25
+2026_DLB_SALU_950424,NIT_84/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,3905873.13,39.06,16,2025-07-18
+2026_FORES_SALU_396350,NIT_10/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,735630.85,7.36,14,2025-10-01
+2026_WRD_SALU_176280,NIT_52/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,820999.61,8.21,15,2025-07-25
+2026_PHED_SALU_296497,NIT_87/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,807659.75,8.08,15,2025-05-05
+2026_PHED_SALU_631519,NIT_90/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,155476.41,1.55,8,2025-11-26
+2026_DLB_SALU_831565,NIT_13/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1350460.43,13.5,18,2025-07-05
+2026_UIT_SALU_611158,NIT_69/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,667098.78,6.67,14,2026-01-28
+2026_WRD_SALU_524022,NIT_73/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,12358777.65,123.59,21,2025-11-10
+2026_PWD_SALU_262088,NIT_20/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,91412801.0,914.13,34,2025-08-11
+2026_WRD_SALU_213625,NIT_54/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,820521.21,8.21,11,2025-07-19
+2026_UIT_SALU_935826,NIT_71/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,863899.62,8.64,15,2025-07-04
+2026_WRD_SALU_658814,NIT_19/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,8176129.48,81.76,16,2025-12-15
+2026_PWD_SALU_921578,NIT_22/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,4652059.64,46.52,15,2025-09-28
+2026_MEDIC_SALU_386003,NIT_95/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,2080032.78,20.8,13,2025-09-14
+2026_PHED_SALU_509499,NIT_43/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,177923.59,1.78,11,2026-02-16
+2026_MEDIC_SALU_187873,NIT_35/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,236095.49,2.36,12,2025-06-13
+2026_DLB_SALU_426199,NIT_17/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,4695588.08,46.96,16,2025-08-07
+2026_WRD_SALU_393414,NIT_37/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,27653866.81,276.54,38,2025-06-30
+2026_DLB_SALU_434598,NIT_22/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,272472.47,2.72,14,2025-07-04
+2026_MEDIC_SALU_710532,NIT_26/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,10794316.51,107.94,15,2026-02-01
+2026_WRD_SALU_227126,NIT_18/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,324629.49,3.25,8,2026-03-14
+2026_UIT_SALU_293450,NIT_28/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,36454586.79,364.55,31,2025-09-27
+2026_MEDIC_SALU_366830,NIT_29/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,2351791.7,23.52,18,2025-11-29
+2026_FORES_SALU_410356,NIT_33/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,275885.94,2.76,12,2025-12-16
+2026_PHED_SALU_191790,NIT_99/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,3886860.69,38.87,17,2025-09-27
+2026_DLB_SALU_127523,NIT_35/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,383076.67,3.83,14,2025-05-31
+2026_FORES_SALU_661450,NIT_21/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,364168.48,3.64,11,2025-07-27
+2026_DLB_SALU_252208,NIT_91/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,769652.47,7.7,11,2025-12-23
+2026_UIT_SALU_865267,NIT_23/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,598994.7,5.99,14,2026-01-09
+2026_UIT_SALU_904183,NIT_50/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,257867.03,2.58,11,2025-06-23
+2026_UIT_SALU_633116,NIT_42/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,3507183.35,35.07,18,2025-09-10
+2026_PWD_SALU_719433,NIT_29/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,2560520.37,25.61,15,2026-03-18
+2026_MEDIC_SALU_953001,NIT_61/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,815879.93,8.16,11,2025-06-22
+2026_FORES_SALU_741775,NIT_16/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,16644754.54,166.45,12,2025-06-01
+2026_DLB_SALU_227399,NIT_15/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1567436.08,15.67,11,2025-05-22
+2026_DLB_SALU_135197,NIT_48/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,23023395.46,230.23,37,2025-07-27
+2026_DLB_SALU_413786,NIT_75/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1234849.17,12.35,17,2025-04-02
+2026_PHED_SALU_148751,NIT_73/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,883559.39,8.84,14,2025-04-29
+2026_FORES_SALU_183746,NIT_63/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,693128.06,6.93,13,2025-06-06
+2026_MEDIC_SALU_430852,NIT_75/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,4594917.27,45.95,17,2025-12-02
+2026_PWD_SALU_710085,NIT_60/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,675251.45,6.75,14,2025-08-10
+2026_PWD_SALU_819427,NIT_61/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,457787.87,4.58,13,2025-08-15
+2026_MEDIC_SALU_454714,NIT_80/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,933691.67,9.34,15,2026-01-02
+2026_FORES_SALU_400907,NIT_90/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,790941.91,7.91,9,2025-08-25
+2026_WRD_SALU_161066,NIT_44/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,736574.34,7.37,15,2025-10-24
+2026_WRD_SALU_993566,NIT_55/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,327716.95,3.28,11,2025-09-09
+2026_PWD_SALU_280500,NIT_63/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,413917.56,4.14,13,2025-11-02
+2026_DLB_SALU_348949,NIT_23/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,2336506.25,23.37,14,2025-05-18
+2026_FORES_SALU_588817,NIT_79/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,4771586.39,47.72,11,2025-05-11
+2026_PHED_SALU_498305,NIT_78/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,911986.18,9.12,15,2025-10-07
+2026_PWD_SALU_988616,NIT_60/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,321675.83,3.22,15,2026-03-12
+2026_WRD_SALU_536961,NIT_98/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,621880.71,6.22,8,2025-04-01
+2026_WRD_SALU_485111,NIT_93/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,926689.02,9.27,15,2025-07-03
+2026_DLB_SALU_832708,NIT_40/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,392186.91,3.92,9,2025-07-15
+2026_WRD_SALU_746221,NIT_33/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,574409.04,5.74,14,2025-04-06
+2026_PWD_SALU_448024,NIT_27/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,2359623.81,23.6,16,2025-07-03
+2026_DLB_SALU_994637,NIT_32/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,411995.22,4.12,13,2025-05-31
+2026_MEDIC_SALU_292824,NIT_22/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,202130.26,2.02,15,2025-08-18
+2026_FORES_SALU_625833,NIT_69/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,356949.99,3.57,12,2026-02-18
+2026_UIT_SALU_426729,NIT_69/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,1488011.18,14.88,16,2025-06-04
+2026_DLB_SALU_492351,NIT_68/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,13902642.53,139.03,15,2025-04-13
+2026_DLB_SALU_199787,NIT_24/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,4294897.87,42.95,13,2025-11-09
+2026_MEDIC_SALU_739357,NIT_54/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,4553505.39,45.54,17,2025-08-24
+2026_UIT_SALU_916829,NIT_79/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,157839.54,1.58,10,2025-07-28
+2026_FORES_SALU_980734,NIT_55/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,277994.29,2.78,15,2026-02-17
+2026_WRD_SALU_814712,NIT_57/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,13445173.65,134.45,23,2025-09-05
+2026_DLB_SALU_165364,NIT_67/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,380727.21,3.81,13,2026-02-07
+2026_MEDIC_SALU_991167,NIT_25/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,52363869.08,523.64,36,2026-03-24
+2026_PWD_SALU_932714,NIT_95/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,2215667.91,22.16,11,2026-02-19
+2026_PWD_SALU_404394,NIT_33/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,2057829.0,20.58,18,2025-08-12
+2026_DLB_SALU_492461,NIT_76/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,907695.12,9.08,10,2025-08-04
+2026_UIT_SALU_938134,NIT_53/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,2838233.87,28.38,16,2026-01-06
+2026_UIT_SALU_847441,NIT_56/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,303808.26,3.04,11,2026-01-28
+2026_MEDIC_SALU_932954,NIT_44/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,167583.52,1.68,11,2025-11-18
+2026_DLB_SALU_254832,NIT_70/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,641627.34,6.42,15,2025-04-13
+2026_MEDIC_SALU_245602,NIT_73/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,18675590.4,186.76,15,2025-04-13
+2026_UIT_SALU_816846,NIT_46/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,785180.02,7.85,7,2025-12-27
+2026_DLB_SALU_730737,NIT_79/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,230112.21,2.3,13,2025-05-27
+2026_MEDIC_SALU_650502,NIT_53/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,510016.12,5.1,11,2025-10-04
+2026_PHED_SALU_219963,NIT_59/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,2146592.46,21.47,10,2026-03-21
+2026_PWD_SALU_216268,NIT_76/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,1238963.99,12.39,15,2025-08-08
+2026_FORES_SALU_689269,NIT_93/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,2244871.4,22.45,11,2026-02-28
+2026_PHED_SALU_217965,NIT_98/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,441741.83,4.42,13,2025-08-04
+2026_PHED_SALU_359287,NIT_81/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,235830.63,2.36,14,2026-01-17
+2026_FORES_SALU_661169,NIT_42/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,1603155.3,16.03,10,2025-05-22
+2026_DLB_SALU_589874,NIT_13/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,859623.21,8.6,7,2026-03-20
+2026_UIT_SALU_445695,NIT_39/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,110880033.18,1108.8,33,2025-10-12
+2026_PHED_SALU_732535,NIT_88/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,3010573.47,30.11,16,2025-09-21
+2026_PWD_SALU_372284,NIT_91/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,871040.25,8.71,13,2025-08-07
+2026_DLB_SALU_292774,NIT_82/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,454825.86,4.55,7,2025-09-24
+2026_WRD_SALU_852948,NIT_53/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,7686166.38,76.86,17,2025-10-20
+2026_DLB_SALU_230337,NIT_33/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,921374.2,9.21,11,2025-04-06
+2026_WRD_SALU_938471,NIT_73/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,481791.47,4.82,10,2025-04-14
+2026_DLB_SALU_358913,NIT_52/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,4435801.82,44.36,10,2025-12-06
+2026_MEDIC_SALU_582522,NIT_42/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,197520.07,1.98,14,2025-11-10
+2026_MEDIC_SALU_467510,NIT_58/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,2061656.19,20.62,12,2025-09-08
+2026_UIT_SALU_456311,NIT_83/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,334661.39,3.35,15,2025-10-13
+2026_MEDIC_SALU_434695,NIT_49/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,2574520.15,25.75,12,2025-06-30
+2026_PWD_SALU_797660,NIT_88/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,504610.43,5.05,12,2025-07-13
+2026_PWD_SALU_842447,NIT_73/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,869007.05,8.69,12,2026-01-15
+2026_DLB_SALU_239539,NIT_97/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,14459915.27,144.6,18,2025-07-28
+2026_WRD_SALU_791037,NIT_25/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,4402955.95,44.03,13,2025-08-26
+2026_UIT_SALU_349830,NIT_91/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,845452.67,8.45,14,2025-09-22
+2026_PHED_SALU_511512,NIT_88/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,797595.77,7.98,14,2025-09-30
+2026_PHED_SALU_726112,NIT_18/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,2485376.77,24.85,13,2026-02-13
+2026_WRD_SALU_498242,NIT_80/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,775716.3,7.76,9,2025-12-04
+2026_DLB_SALU_516011,NIT_21/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,58254020.79,582.54,38,2025-05-24
+2026_UIT_SALU_226293,NIT_68/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,36013658.56,360.14,32,2025-09-14
+2026_DLB_SALU_419724,NIT_76/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1493431.26,14.93,13,2025-07-01
+2026_WRD_SALU_553991,NIT_91/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,191484.7,1.91,10,2026-02-04
+2026_MEDIC_SALU_213016,NIT_90/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,569496.83,5.69,12,2025-08-18
+2026_PHED_SALU_136823,NIT_60/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,1058630.64,10.59,13,2026-02-07
+2026_UIT_SALU_755643,NIT_60/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,192561.0,1.93,15,2026-01-19
+2026_FORES_SALU_370558,NIT_83/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,764011.33,7.64,7,2025-10-23
+2026_PWD_SALU_610779,NIT_68/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,294696.9,2.95,15,2025-06-08
+2026_PWD_SALU_578124,NIT_54/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,207899.08,2.08,15,2025-11-07
+2026_WRD_SALU_572668,NIT_85/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,485046.53,4.85,8,2025-04-07
+2026_PHED_SALU_295438,NIT_17/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,259893.97,2.6,8,2025-12-06
+2026_PHED_SALU_811923,NIT_30/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,3146884.57,31.47,15,2026-03-23
+2026_WRD_SALU_319191,NIT_18/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,264124.75,2.64,14,2025-08-07
+2026_PWD_SALU_833821,NIT_10/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,839473.13,8.39,11,2025-08-03
+2026_DLB_SALU_675417,NIT_22/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,844424.91,8.44,12,2025-12-27
+2026_DLB_SALU_852690,NIT_38/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,2622642.71,26.23,16,2026-03-24
+2026_UIT_SALU_343406,NIT_43/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,181998.55,1.82,8,2025-07-13
+2026_PWD_SALU_148388,NIT_54/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,2785660.84,27.86,15,2025-07-15
+2026_PHED_SALU_574157,NIT_82/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,32294941.66,322.95,31,2025-10-27
+2026_DLB_SALU_224476,NIT_63/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,939821.14,9.4,13,2026-03-23
+2026_MEDIC_SALU_168667,NIT_94/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,524233.62,5.24,15,2025-05-18
+2026_WRD_SALU_409066,NIT_26/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,669777.65,6.7,12,2025-06-19
+2026_FORES_SALU_203402,NIT_50/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,61145920.89,611.46,32,2025-09-02
+2026_UIT_SALU_989934,NIT_73/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,2199845.43,22.0,18,2025-12-02
+2026_MEDIC_SALU_239045,NIT_73/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,6381316.3,63.81,18,2025-11-26
+2026_PWD_SALU_318770,NIT_99/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,431165.68,4.31,14,2026-02-01
+2026_DLB_SALU_975211,NIT_79/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,118353471.82,1183.53,38,2026-02-19
+2026_WRD_SALU_204986,NIT_68/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,559614.18,5.6,14,2026-02-11
+2026_FORES_SALU_920619,NIT_38/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,642687.33,6.43,13,2026-01-31
+2026_PHED_SALU_698797,NIT_48/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,15387593.06,153.88,20,2025-12-08
+2026_PHED_SALU_131274,NIT_26/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,5908753.47,59.09,15,2025-09-02
+2026_MEDIC_SALU_200880,NIT_25/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,814818.1,8.15,13,2025-12-27
+2026_FORES_SALU_193359,NIT_41/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,857021.26,8.57,10,2025-08-03
+2026_PWD_SALU_321934,NIT_77/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,494405.16,4.94,11,2026-01-20
+2026_PHED_SALU_325643,NIT_51/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,706232.13,7.06,9,2025-08-21
+2026_MEDIC_SALU_306396,NIT_72/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,748235.52,7.48,11,2025-05-21
+2026_DLB_SALU_517270,NIT_33/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,100767813.57,1007.68,31,2025-04-04
+2026_PHED_SALU_781358,NIT_10/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,4564198.81,45.64,11,2025-10-28
+2026_WRD_SALU_979836,NIT_15/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,3821305.78,38.21,17,2026-03-03
+2026_DLB_SALU_235680,NIT_24/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1464574.11,14.65,10,2025-11-10
+2026_MEDIC_SALU_138784,NIT_45/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,345698.3,3.46,8,2025-05-26
+2026_WRD_SALU_778163,NIT_75/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,1601573.88,16.02,11,2025-06-26
+2026_PWD_SALU_494012,NIT_28/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,4097207.96,40.97,14,2025-05-03
+2026_MEDIC_SALU_431078,NIT_12/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,205335.26,2.05,13,2025-08-28
+2026_FORES_SALU_182903,NIT_53/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,4131771.77,41.32,15,2025-12-10
+2026_FORES_SALU_956503,NIT_52/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,458671.07,4.59,8,2026-02-26
+2026_PHED_SALU_364973,NIT_38/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,6261661.2,62.62,18,2025-05-19
+2026_WRD_SALU_713268,NIT_39/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,80846991.85,808.47,32,2025-06-20
+2026_PHED_SALU_484859,NIT_88/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,829901.37,8.3,14,2025-06-25
+2026_UIT_SALU_975952,NIT_64/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,1673705.51,16.74,17,2025-05-24
+2026_MEDIC_SALU_899872,NIT_39/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,607405.58,6.07,9,2025-11-14
+2026_FORES_SALU_563655,NIT_35/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,1070490.08,10.7,12,2026-03-12
+2026_WRD_SALU_110640,NIT_39/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,466801.19,4.67,7,2025-04-07
+2026_FORES_SALU_273168,NIT_95/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,914379.9,9.14,11,2025-04-05
+2026_DLB_SALU_843901,NIT_44/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,871679.52,8.72,13,2026-03-09
+2026_DLB_SALU_542996,NIT_56/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,4597679.13,45.98,17,2025-12-12
+2026_FORES_SALU_428629,NIT_38/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,275633.86,2.76,9,2025-07-14
+2026_FORES_SALU_502063,NIT_51/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,15354440.48,153.54,19,2026-01-26
+2026_PHED_SALU_104626,NIT_13/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,207883.28,2.08,7,2025-07-21
+2026_MEDIC_SALU_291270,NIT_42/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,18298251.95,182.98,17,2026-03-11
+2026_MEDIC_SALU_334783,NIT_49/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,1805103.6,18.05,14,2025-10-07
+2026_DLB_SALU_545268,NIT_35/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,168682.22,1.69,7,2025-10-11
+2026_DLB_SALU_698596,NIT_50/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,589511.01,5.9,11,2026-02-08
+2026_WRD_SALU_119819,NIT_60/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,4660416.37,46.6,14,2025-09-07
+2026_DLB_SALU_991964,NIT_57/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1299792.6,13.0,17,2026-03-06
+2026_MEDIC_SALU_259599,NIT_98/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,1919416.2,19.19,12,2025-12-26
+2026_MEDIC_SALU_312503,NIT_45/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,612495.12,6.12,15,2025-08-15
+2026_UIT_SALU_411128,NIT_52/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,412361.6,4.12,7,2025-11-30
+2026_WRD_SALU_982104,NIT_92/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,101637294.39,1016.37,32,2026-01-04
+2026_PWD_SALU_305768,NIT_72/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,924406.16,9.24,11,2025-04-16
+2026_PWD_SALU_110641,NIT_18/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,152937.52,1.53,13,2025-12-28
+2026_MEDIC_SALU_607148,NIT_70/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,627745.71,6.28,13,2025-08-10
+2026_MEDIC_SALU_494920,NIT_48/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,2180517.1,21.81,12,2025-05-29
+2026_UIT_SALU_522355,NIT_84/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,2574915.67,25.75,12,2026-03-22
+2026_MEDIC_SALU_553466,NIT_82/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,539306.67,5.39,10,2025-08-29
+2026_MEDIC_SALU_435275,NIT_89/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,495976.3,4.96,12,2025-11-29
+2026_PHED_SALU_234808,NIT_95/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,309671.76,3.1,9,2026-03-11
+2026_DLB_SALU_134951,NIT_56/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,700576.87,7.01,11,2026-01-06
+2026_PWD_SALU_428195,NIT_68/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,405182.35,4.05,7,2025-04-19
+2026_PWD_SALU_883631,NIT_57/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,51369415.6,513.69,34,2025-10-08
+2026_DLB_SALU_346500,NIT_71/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,692825.89,6.93,11,2025-12-18
+2026_UIT_SALU_139771,NIT_17/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,267346.04,2.67,4,2025-06-26
+2026_UIT_SALU_643688,NIT_73/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,16952774.07,169.53,23,2026-01-21
+2026_UIT_SALU_503069,NIT_18/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,532913.75,5.33,10,2025-06-16
+2026_FORES_SALU_961790,NIT_27/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,2449017.11,24.49,11,2025-10-06
+2026_FORES_SALU_962388,NIT_56/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,511885.75,5.12,9,2025-07-04
+2026_PHED_SALU_836801,NIT_27/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,471454.12,4.71,14,2025-10-01
+2026_WRD_SALU_250905,NIT_60/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,82691247.93,826.91,33,2025-06-25
+2026_PWD_SALU_743825,NIT_83/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,4144916.51,41.45,14,2025-06-16
+2026_PHED_SALU_425971,NIT_80/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,300703.22,3.01,7,2025-11-01
+2026_PWD_SALU_837847,NIT_76/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,2065115.05,20.65,17,2025-06-13
+2026_DLB_SALU_635836,NIT_54/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,11818120.64,118.18,6,2026-03-05
+2026_FORES_SALU_720572,NIT_47/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,596071.82,5.96,14,2025-05-11
+2026_WRD_SALU_513101,NIT_70/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,336970.68,3.37,7,2026-02-13
+2026_PHED_SALU_228044,NIT_41/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,95018323.72,950.18,19,2025-07-18
+2026_UIT_SALU_263906,NIT_72/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,359798.18,3.6,10,2025-05-30
+2026_DLB_SALU_718989,NIT_46/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,3445060.32,34.45,14,2025-08-02
+2026_WRD_SALU_190079,NIT_78/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,3040338.87,30.4,15,2026-02-18
+2026_DLB_SALU_783322,NIT_64/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,4173650.09,41.74,15,2025-05-13
+2026_WRD_SALU_163793,NIT_28/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,227408.89,2.27,11,2025-09-22
+2026_MEDIC_SALU_687383,NIT_27/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,218770.76,2.19,12,2025-05-14
+2026_DLB_SALU_528036,NIT_41/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,2968646.59,29.69,10,2026-01-06
+2026_WRD_SALU_415733,NIT_11/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,654585.43,6.55,7,2025-07-09
+2026_PHED_SALU_476105,NIT_38/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,446050.99,4.46,12,2025-07-10
+2026_MEDIC_SALU_570908,NIT_33/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,158845.37,1.59,12,2025-10-29
+2026_PWD_SALU_103239,NIT_91/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,484114.22,4.84,11,2025-06-11
+2026_PWD_SALU_735711,NIT_32/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,105383906.65,1053.84,33,2026-02-11
+2026_UIT_SALU_534720,NIT_69/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,791821.44,7.92,8,2025-04-22
+2026_DLB_SALU_840461,NIT_12/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,113739422.35,1137.39,33,2026-02-18
+2026_UIT_SALU_104541,NIT_38/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,258609.49,2.59,9,2025-08-06
+2026_WRD_SALU_844141,NIT_49/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,1889189.14,18.89,14,2025-09-11
+2026_PHED_SALU_958119,NIT_65/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,711370.43,7.11,7,2025-06-10
+2026_DLB_SALU_598673,NIT_49/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,4358479.62,43.58,11,2025-10-20
+2026_PHED_SALU_632969,NIT_31/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,1990871.69,19.91,16,2025-07-05
+2026_PHED_SALU_337896,NIT_89/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,659020.03,6.59,15,2025-08-13
+2026_PHED_SALU_699939,NIT_64/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,15184099.05,151.84,21,2026-03-24
+2026_PWD_SALU_934088,NIT_68/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,615902.68,6.16,8,2025-04-03
+2026_WRD_SALU_200318,NIT_55/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,3412472.07,34.12,11,2026-02-16
+2026_UIT_SALU_162663,NIT_77/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,102951488.83,1029.51,35,2025-07-12
+2026_FORES_SALU_457985,NIT_83/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,14938232.38,149.38,16,2025-10-04
+2026_FORES_SALU_310919,NIT_90/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,105417846.19,1054.18,22,2025-06-27
+2026_MEDIC_SALU_339521,NIT_93/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,447661.94,4.48,11,2026-02-22
+2026_MEDIC_SALU_447614,NIT_11/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,713526.27,7.14,9,2026-03-16
+2026_MEDIC_SALU_115265,NIT_16/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,731802.11,7.32,15,2025-10-27
+2026_PWD_SALU_756212,NIT_50/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,507496.59,5.07,10,2026-03-13
+2026_PHED_SALU_381091,NIT_61/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,3707867.23,37.08,14,2026-02-04
+2026_UIT_SALU_278694,NIT_76/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,885752.84,8.86,15,2026-02-11
+2026_FORES_SALU_689874,NIT_83/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,2593628.07,25.94,7,2025-11-02
+2026_DLB_SALU_697837,NIT_88/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,304124.57,3.04,12,2025-09-07
+2026_DLB_SALU_522393,NIT_45/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,924743.82,9.25,11,2026-02-11
+2026_WRD_SALU_421849,NIT_28/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,3832364.36,38.32,18,2025-05-17
+2026_MEDIC_SALU_301026,NIT_29/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,419825.34,4.2,9,2025-10-10
+2026_DLB_SALU_929387,NIT_86/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,6105204.69,61.05,22,2025-06-20
+2026_MEDIC_SALU_580853,NIT_33/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,239959.05,2.4,7,2026-01-11
+2026_DLB_SALU_548848,NIT_12/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,1681440.59,16.81,16,2025-07-27
+2026_PWD_SALU_530364,NIT_55/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,826030.54,8.26,9,2025-08-19
+2026_UIT_SALU_162500,NIT_47/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,933630.99,9.34,4,2025-09-07
+2026_PWD_SALU_603313,NIT_63/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,1065143.97,10.65,17,2025-05-29
+2026_PHED_SALU_624258,NIT_71/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,11828648.44,118.29,19,2025-04-12
+2026_WRD_SALU_588317,NIT_13/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,367372.52,3.67,7,2026-03-05
+2026_MEDIC_SALU_990909,NIT_64/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,791031.53,7.91,14,2025-12-28
+2026_DLB_SALU_297726,NIT_56/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,709022.01,7.09,10,2025-04-08
+2026_FORES_SALU_830271,NIT_19/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,786504.23,7.87,11,2025-05-31
+2026_WRD_SALU_355860,NIT_94/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,9662031.04,96.62,22,2025-04-07
+2026_FORES_SALU_779190,NIT_54/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,3871895.14,38.72,12,2025-06-15
+2026_PWD_SALU_890692,NIT_62/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,841835.15,8.42,10,2025-06-28
+2026_UIT_SALU_289600,NIT_45/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,156968.56,1.57,15,2025-08-29
+2026_FORES_SALU_117226,NIT_93/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,2917425.67,29.17,18,2025-08-03
+2026_WRD_SALU_183851,NIT_62/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,262047.17,2.62,9,2025-09-12
+2026_FORES_SALU_890784,NIT_27/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,2962000.75,29.62,10,2025-06-11
+2026_MEDIC_SALU_217779,NIT_35/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,318590.14,3.19,13,2025-04-11
+2026_UIT_SALU_317051,NIT_85/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,4639301.71,46.39,11,2025-10-28
+2026_UIT_SALU_442724,NIT_74/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,752874.77,7.53,10,2026-02-15
+2026_MEDIC_SALU_489358,NIT_52/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,15416029.88,154.16,21,2025-10-24
+2026_FORES_SALU_347496,NIT_24/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,563467.58,5.63,15,2025-08-04
+2026_UIT_SALU_990401,NIT_11/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,641095.65,6.41,7,2026-03-04
+2026_WRD_SALU_493899,NIT_35/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,16745141.9,167.45,10,2025-07-29
+2026_FORES_SALU_214611,NIT_80/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,808312.16,8.08,10,2025-11-26
+2026_DLB_SALU_479356,NIT_40/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,324450.33,3.24,11,2026-02-21
+2026_PWD_SALU_697738,NIT_50/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,946687.1,9.47,10,2025-07-08
+2026_PHED_SALU_776296,NIT_44/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,693495.6,6.93,10,2025-09-15
+2026_UIT_SALU_120047,NIT_60/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,13146947.37,131.47,19,2025-08-03
+2026_PHED_SALU_866858,NIT_76/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,3371918.02,33.72,14,2025-12-12
+2026_FORES_SALU_193768,NIT_94/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,880268.69,8.8,15,2025-04-03
+2026_UIT_SALU_923574,NIT_60/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,2466245.87,24.66,18,2025-10-04
+2026_FORES_SALU_526414,NIT_71/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,783539.26,7.84,13,2025-12-20
+2026_MEDIC_SALU_278944,NIT_60/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,15534609.89,155.35,16,2025-06-15
+2026_DLB_SALU_903866,NIT_16/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,741975.27,7.42,10,2025-11-02
+2026_PWD_SALU_514625,NIT_38/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,4046990.21,40.47,17,2025-04-07
+2026_UIT_SALU_832734,NIT_93/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,890569.08,8.91,11,2025-09-30
+2026_DLB_SALU_845283,NIT_53/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,233139.81,2.33,8,2025-08-21
+2026_PHED_SALU_331357,NIT_99/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,923013.92,9.23,11,2025-09-09
+2026_PWD_SALU_737371,NIT_49/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,249961.92,2.5,15,2025-06-27
+2026_PHED_SALU_939572,NIT_55/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,3945544.47,39.46,10,2025-05-14
+2026_FORES_SALU_109626,NIT_23/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,687039.45,6.87,12,2025-04-18
+2026_FORES_SALU_417436,NIT_49/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,93588504.61,935.89,34,2025-09-10
+2026_MEDIC_SALU_821415,NIT_14/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,669038.71,6.69,7,2026-02-19
+2026_FORES_SALU_516211,NIT_99/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,1899272.36,18.99,11,2026-01-22
+2026_DLB_SALU_920036,NIT_28/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,60485059.36,604.85,35,2025-10-31
+2026_WRD_SALU_980057,NIT_80/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,1644816.4,16.45,18,2025-06-09
+2026_FORES_SALU_853849,NIT_50/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,18102809.67,181.03,22,2025-06-08
+2026_PHED_SALU_150279,NIT_57/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,5799531.33,58.0,15,2025-06-11
+2026_DLB_SALU_643575,NIT_48/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,689646.74,6.9,14,2025-12-10
+2026_DLB_SALU_877082,NIT_25/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,3240342.43,32.4,17,2025-10-23
+2026_PHED_SALU_560877,NIT_67/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,423133.7,4.23,14,2026-02-13
+2026_UIT_SALU_411603,NIT_39/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,232954.88,2.33,10,2025-10-14
+2026_DLB_SALU_566183,NIT_21/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,223274.91,2.23,12,2025-07-13
+2026_WRD_SALU_287635,NIT_27/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,4734323.61,47.34,18,2025-10-21
+2026_PHED_SALU_702314,NIT_93/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,215134.21,2.15,10,2026-03-04
+2026_FORES_SALU_772641,NIT_97/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,808121.7,8.08,10,2026-02-15
+2026_DLB_SALU_765574,NIT_26/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,532570.53,5.33,10,2025-05-10
+2026_UIT_SALU_919063,NIT_51/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,72493784.54,724.94,37,2025-05-08
+2026_PHED_SALU_995365,NIT_77/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,607433.33,6.07,14,2026-03-09
+2026_MEDIC_SALU_452375,NIT_48/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,659217.34,6.59,11,2025-09-24
+2026_PHED_SALU_745056,NIT_37/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,368870.45,3.69,10,2025-10-26
+2026_WRD_SALU_962870,NIT_62/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,89617625.0,896.18,30,2025-10-10
+2026_MEDIC_SALU_518453,NIT_68/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,89222000.36,892.22,26,2025-11-22
+2026_WRD_SALU_105650,NIT_53/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,2439591.71,24.4,17,2025-09-09
+2026_PWD_SALU_230083,NIT_62/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,5200965.29,52.01,19,2025-12-02
+2026_MEDIC_SALU_997871,NIT_67/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,684494.26,6.84,9,2025-07-28
+2026_DLB_SALU_865187,NIT_32/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,76033332.5,760.33,36,2025-12-22
+2026_WRD_SALU_554921,NIT_42/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,271231.67,2.71,10,2026-02-11
+2026_UIT_SALU_707847,NIT_93/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,622938.28,6.23,11,2025-11-28
+2026_PWD_SALU_620797,NIT_98/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,500802.26,5.01,8,2025-11-03
+2026_MEDIC_SALU_542989,NIT_72/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,2110242.51,21.1,16,2025-05-31
+2026_FORES_SALU_452544,NIT_23/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,3514728.68,35.15,10,2026-01-10
+2026_PWD_SALU_367078,NIT_46/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,908719.32,9.09,15,2025-07-26
+2026_UIT_SALU_460045,NIT_23/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,21186609.56,211.87,30,2025-11-15
+2026_FORES_SALU_552624,NIT_13/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,347071.64,3.47,11,2025-10-05
+2026_PHED_SALU_120388,NIT_14/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,673895.12,6.74,10,2025-08-22
+2026_PWD_SALU_477113,NIT_29/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,533901.13,5.34,9,2025-05-14
+2026_PHED_SALU_663522,NIT_25/SAL/2025-26,Public Health Engineering Department (Salumbar Circle),Salumbar,Udaipur Division,1971564.58,19.72,14,2025-08-02
+2026_UIT_SALU_651199,NIT_17/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,6852772.99,68.53,22,2025-09-28
+2026_UIT_SALU_298066,NIT_68/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,928350.27,9.28,9,2025-10-31
+2026_PWD_SALU_125761,NIT_30/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,4686414.76,46.86,17,2025-08-15
+2026_WRD_SALU_816856,NIT_75/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,458758.74,4.59,11,2025-06-06
+2026_UIT_SALU_130850,NIT_59/SAL/2025-26,Municipal Council Salumbar,Salumbar,Udaipur Division,1614359.88,16.14,18,2025-12-30
+2026_DLB_SALU_626453,NIT_26/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,108861128.1,1088.61,38,2025-06-13
+2026_WRD_SALU_304426,NIT_64/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,428180.25,4.28,9,2025-04-12
+2026_WRD_SALU_298624,NIT_78/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,9161976.93,91.62,17,2025-09-28
+2026_PWD_SALU_460826,NIT_69/SAL/2025-26,Public Works Department (Salumbar Circle),Salumbar,Udaipur Division,3962132.64,39.62,11,2026-02-03
+2026_WRD_SALU_849515,NIT_48/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,478092.82,4.78,7,2026-03-03
+2026_WRD_SALU_418690,NIT_23/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,75102260.09,751.02,31,2025-07-16
+2026_MEDIC_SALU_309457,NIT_93/SAL/2025-26,Department of Medical Education (Salumbar Circle),Salumbar,Udaipur Division,685941.59,6.86,13,2025-08-05
+2026_WRD_SALU_404723,NIT_69/SAL/2025-26,Water Resources Department (Salumbar Circle),Salumbar,Udaipur Division,469767.78,4.7,15,2026-03-22
+2026_FORES_SALU_871597,NIT_80/SAL/2025-26,Forest Department (Salumbar Circle),Salumbar,Udaipur Division,775371.08,7.75,11,2025-11-21
+2026_DLB_SALU_286852,NIT_10/SAL/2025-26,Directorate of Local Bodies (Salumbar Circle),Salumbar,Udaipur Division,490504.47,4.91,10,2026-02-26

@@ -1,0 +1,430 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_MEDIC_BHAR_626610,NIT_52/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,1833298.2,18.33,13,2025-12-27
+2026_FORES_BHAR_887842,NIT_23/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,15902966.19,159.03,21,2025-06-30
+2026_PHED_BHAR_756134,NIT_47/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4769360.19,47.69,7,2025-05-09
+2026_DLB_BHAR_369155,NIT_63/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,98579240.35,985.79,33,2025-08-20
+2026_UIT_BHAR_789505,NIT_29/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,633407.72,6.33,9,2025-09-02
+2026_MEDIC_BHAR_238619,NIT_89/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,3572930.12,35.73,14,2025-07-25
+2026_PHED_BHAR_270160,NIT_98/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4277635.87,42.78,11,2025-09-11
+2026_PHED_BHAR_317580,NIT_54/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,731150.28,7.31,11,2026-01-08
+2026_PWD_BHAR_989196,NIT_80/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,6044180.83,60.44,19,2025-04-07
+2026_WRD_BHAR_640200,NIT_26/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,70009300.48,700.09,30,2025-08-12
+2026_PWD_BHAR_868549,NIT_80/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,699842.5,7.0,7,2025-09-26
+2026_DLB_BHAR_948692,NIT_40/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,551320.83,5.51,7,2025-09-04
+2026_WRD_BHAR_482863,NIT_33/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,814481.62,8.14,13,2025-09-08
+2026_WRD_BHAR_509320,NIT_17/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,10766729.69,107.67,23,2025-12-17
+2026_PHED_BHAR_361061,NIT_47/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3684856.19,36.85,10,2026-01-19
+2026_DLB_BHAR_853026,NIT_88/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,478626.49,4.79,3,2025-10-23
+2026_UIT_BHAR_596405,NIT_56/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,407020.55,4.07,14,2025-10-23
+2026_FORES_BHAR_944907,NIT_48/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,740655.67,7.41,8,2025-07-26
+2026_PHED_BHAR_742738,NIT_11/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1077695.11,10.78,12,2025-12-21
+2026_DLB_BHAR_698799,NIT_23/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,247804.73,2.48,7,2025-10-31
+2026_FORES_BHAR_869014,NIT_78/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,321729.48,3.22,14,2025-12-10
+2026_DLB_BHAR_515014,NIT_34/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,4380885.23,43.81,11,2026-03-03
+2026_MEDIC_BHAR_678677,NIT_98/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,499952.35,5.0,7,2025-10-08
+2026_UIT_BHAR_360859,NIT_72/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,487188.33,4.87,11,2025-05-13
+2026_WRD_BHAR_220065,NIT_11/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,468875.27,4.69,12,2025-06-13
+2026_PWD_BHAR_523638,NIT_17/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,400218.86,4.0,10,2025-08-17
+2026_UIT_BHAR_840758,NIT_25/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,916692.21,9.17,8,2026-03-25
+2026_UIT_BHAR_407378,NIT_74/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,111074967.01,1110.75,35,2025-12-07
+2026_FORES_BHAR_696784,NIT_51/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,10746927.92,107.47,22,2025-08-02
+2026_DLB_BHAR_560691,NIT_20/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,15713863.13,157.14,19,2025-06-23
+2026_PWD_BHAR_989195,NIT_50/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,16327509.18,163.28,18,2025-06-23
+2026_PHED_BHAR_109157,NIT_61/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,661359.42,6.61,11,2026-03-16
+2026_FORES_BHAR_211387,NIT_67/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,884977.36,8.85,8,2025-08-25
+2026_FORES_BHAR_368191,NIT_98/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,297978.83,2.98,7,2025-06-20
+2026_PWD_BHAR_723123,NIT_31/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,6083646.86,60.84,5,2026-02-26
+2026_FORES_BHAR_625669,NIT_41/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3728940.97,37.29,16,2025-07-06
+2026_FORES_BHAR_999647,NIT_97/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,944515.74,9.45,14,2026-03-15
+2026_UIT_BHAR_779932,NIT_73/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,746399.02,7.46,14,2025-07-01
+2026_MEDIC_BHAR_843119,NIT_50/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,876863.28,8.77,9,2025-09-13
+2026_FORES_BHAR_284093,NIT_22/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,746027.77,7.46,8,2026-03-22
+2026_DLB_BHAR_711141,NIT_66/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,15072126.65,150.72,21,2025-10-07
+2026_WRD_BHAR_103707,NIT_92/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,863245.19,8.63,11,2025-07-10
+2026_MEDIC_BHAR_513868,NIT_52/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,7730432.55,77.3,23,2025-11-07
+2026_FORES_BHAR_128756,NIT_50/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,311085.26,3.11,7,2026-02-13
+2026_PWD_BHAR_962942,NIT_56/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3158923.96,31.59,18,2025-05-18
+2026_PHED_BHAR_532176,NIT_97/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,15596201.96,155.96,20,2025-10-29
+2026_WRD_BHAR_529498,NIT_60/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,10659909.15,106.6,23,2025-04-05
+2026_PHED_BHAR_447924,NIT_42/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,321726.61,3.22,13,2025-11-16
+2026_DLB_BHAR_739729,NIT_74/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,519479.12,5.19,11,2025-10-21
+2026_WRD_BHAR_515042,NIT_12/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,708784.33,7.09,12,2026-03-10
+2026_PWD_BHAR_133011,NIT_44/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,587392.65,5.87,15,2025-04-28
+2026_PWD_BHAR_802083,NIT_68/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3855857.01,38.56,16,2026-02-03
+2026_DLB_BHAR_522784,NIT_32/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,63052792.04,630.53,37,2025-07-12
+2026_FORES_BHAR_105705,NIT_23/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,297849.7,2.98,12,2026-02-15
+2026_UIT_BHAR_514414,NIT_59/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,279159.01,2.79,12,2025-10-01
+2026_PHED_BHAR_829906,NIT_59/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,763622.73,7.64,13,2026-02-26
+2026_PHED_BHAR_225502,NIT_82/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,11861886.89,118.62,23,2025-10-22
+2026_FORES_BHAR_127934,NIT_80/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,32196717.58,321.97,31,2026-02-22
+2026_FORES_BHAR_186675,NIT_37/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,332351.14,3.32,14,2025-11-30
+2026_PHED_BHAR_890035,NIT_73/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,945652.3,9.46,11,2025-05-05
+2026_DLB_BHAR_681419,NIT_49/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1282317.16,12.82,11,2025-10-04
+2026_DLB_BHAR_815742,NIT_34/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,4118252.58,41.18,16,2025-05-11
+2026_UIT_BHAR_732062,NIT_97/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,183040.51,1.83,15,2025-07-06
+2026_UIT_BHAR_505272,NIT_11/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,5669779.34,56.7,21,2025-12-15
+2026_UIT_BHAR_111316,NIT_38/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,30359752.28,303.6,33,2026-02-25
+2026_UIT_BHAR_589288,NIT_57/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,3875322.4,38.75,16,2025-06-02
+2026_FORES_BHAR_868075,NIT_29/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2646934.09,26.47,14,2025-04-22
+2026_DLB_BHAR_710590,NIT_80/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,284207.82,2.84,7,2026-02-18
+2026_DLB_BHAR_301191,NIT_41/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1407292.01,14.07,16,2026-02-21
+2026_UIT_BHAR_606138,NIT_88/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,286263.9,2.86,9,2025-04-06
+2026_FORES_BHAR_569632,NIT_20/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,289792.3,2.9,10,2026-02-15
+2026_UIT_BHAR_642724,NIT_69/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,858343.41,8.58,14,2025-04-14
+2026_MEDIC_BHAR_344889,NIT_84/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,516465.2,5.16,12,2025-07-10
+2026_UIT_BHAR_872473,NIT_48/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,551462.03,5.51,8,2025-07-13
+2026_WRD_BHAR_966810,NIT_90/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,178685.4,1.79,10,2026-01-16
+2026_DLB_BHAR_472484,NIT_93/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,2762171.85,27.62,14,2026-02-14
+2026_UIT_BHAR_492231,NIT_54/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,1580636.36,15.81,15,2025-12-11
+2026_DLB_BHAR_833174,NIT_51/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,154164.28,1.54,14,2025-08-21
+2026_WRD_BHAR_738649,NIT_22/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,378307.34,3.78,10,2026-02-16
+2026_WRD_BHAR_584197,NIT_20/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,17300448.28,173.0,15,2025-09-22
+2026_DLB_BHAR_965126,NIT_42/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,246161.7,2.46,10,2026-03-05
+2026_PHED_BHAR_189094,NIT_92/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,55269644.21,552.7,38,2025-12-01
+2026_WRD_BHAR_918189,NIT_24/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,561897.07,5.62,15,2026-01-31
+2026_PWD_BHAR_453276,NIT_28/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4657942.06,46.58,18,2025-05-20
+2026_WRD_BHAR_675334,NIT_76/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,518421.42,5.18,13,2026-01-26
+2026_WRD_BHAR_844029,NIT_59/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1748304.35,17.48,11,2025-08-31
+2026_DLB_BHAR_464543,NIT_77/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,13253697.44,132.54,21,2025-07-31
+2026_PWD_BHAR_559246,NIT_71/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,67087339.28,670.87,30,2025-10-10
+2026_PWD_BHAR_268188,NIT_21/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,38474691.54,384.75,32,2025-07-20
+2026_FORES_BHAR_907113,NIT_24/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,861221.97,8.61,13,2026-03-14
+2026_PWD_BHAR_148496,NIT_54/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4497668.6,44.98,14,2026-01-25
+2026_FORES_BHAR_732199,NIT_92/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,395866.17,3.96,10,2025-05-21
+2026_PWD_BHAR_130081,NIT_29/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4620977.49,46.21,10,2025-07-15
+2026_DLB_BHAR_512863,NIT_74/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,868543.82,8.69,2,2025-09-06
+2026_PWD_BHAR_747270,NIT_94/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,15425588.41,154.26,22,2025-11-18
+2026_UIT_BHAR_356651,NIT_25/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,17355935.72,173.56,23,2025-05-06
+2026_PWD_BHAR_210223,NIT_37/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,298176.38,2.98,15,2026-03-03
+2026_WRD_BHAR_758342,NIT_80/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,688912.22,6.89,13,2025-06-21
+2026_DLB_BHAR_185689,NIT_26/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,457659.12,4.58,15,2026-03-10
+2026_MEDIC_BHAR_978717,NIT_31/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,3605006.18,36.05,10,2025-06-15
+2026_UIT_BHAR_924104,NIT_96/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,471842.88,4.72,11,2026-02-09
+2026_UIT_BHAR_774631,NIT_79/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,16173788.63,161.74,17,2025-09-04
+2026_MEDIC_BHAR_432583,NIT_74/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,1258260.83,12.58,15,2025-07-18
+2026_PWD_BHAR_248092,NIT_16/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3449008.4,34.49,15,2025-09-02
+2026_PWD_BHAR_343031,NIT_82/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4076582.92,40.77,10,2025-07-19
+2026_DLB_BHAR_695583,NIT_73/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,755490.82,7.55,11,2026-01-25
+2026_PWD_BHAR_897875,NIT_56/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,17349248.46,173.49,19,2025-04-07
+2026_UIT_BHAR_386577,NIT_42/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,2188825.76,21.89,13,2025-12-08
+2026_DLB_BHAR_163629,NIT_94/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,115048296.4,1150.48,16,2025-11-29
+2026_DLB_BHAR_970766,NIT_40/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,320677.37,3.21,12,2025-09-24
+2026_DLB_BHAR_970516,NIT_33/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1397467.3,13.97,13,2025-11-25
+2026_PWD_BHAR_514578,NIT_48/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,164826.52,1.65,11,2026-01-13
+2026_DLB_BHAR_755806,NIT_98/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1792130.92,17.92,10,2025-04-19
+2026_UIT_BHAR_587264,NIT_18/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,1403091.94,14.03,11,2025-11-18
+2026_WRD_BHAR_204953,NIT_81/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2695416.51,26.95,11,2026-02-23
+2026_FORES_BHAR_925324,NIT_45/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3119506.69,31.2,11,2025-08-24
+2026_FORES_BHAR_963576,NIT_64/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,799904.87,8.0,11,2025-11-14
+2026_WRD_BHAR_611024,NIT_56/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,40215276.04,402.15,30,2026-03-05
+2026_UIT_BHAR_182914,NIT_70/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,96177592.35,961.78,15,2025-09-18
+2026_MEDIC_BHAR_296987,NIT_77/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,430618.91,4.31,14,2026-03-08
+2026_PHED_BHAR_672657,NIT_33/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,17912266.5,179.12,20,2025-12-13
+2026_FORES_BHAR_485198,NIT_52/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,226358.51,2.26,9,2025-08-15
+2026_WRD_BHAR_738217,NIT_45/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4557182.73,45.57,17,2025-04-30
+2026_FORES_BHAR_834380,NIT_85/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,320887.26,3.21,14,2025-08-29
+2026_FORES_BHAR_868811,NIT_44/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,104960275.34,1049.6,30,2026-01-30
+2026_PHED_BHAR_782732,NIT_58/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,681840.43,6.82,13,2025-06-28
+2026_PWD_BHAR_481509,NIT_67/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,738389.99,7.38,11,2025-06-25
+2026_DLB_BHAR_672649,NIT_67/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,868280.3,8.68,8,2025-07-05
+2026_DLB_BHAR_635086,NIT_18/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,454094.06,4.54,8,2025-10-15
+2026_MEDIC_BHAR_664117,NIT_91/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,3142476.3,31.42,13,2026-01-31
+2026_MEDIC_BHAR_149123,NIT_24/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,698624.83,6.99,12,2025-11-03
+2026_DLB_BHAR_447123,NIT_68/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1635959.24,16.36,11,2026-02-18
+2026_UIT_BHAR_927266,NIT_30/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,95906199.99,959.06,33,2026-03-18
+2026_PHED_BHAR_397100,NIT_24/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,16471609.68,164.72,15,2025-05-19
+2026_FORES_BHAR_316740,NIT_40/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,18509614.25,185.1,18,2025-10-18
+2026_MEDIC_BHAR_204698,NIT_82/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,760288.83,7.6,15,2025-12-08
+2026_UIT_BHAR_579914,NIT_64/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,528497.7,5.28,14,2025-05-13
+2026_UIT_BHAR_694655,NIT_99/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,358080.19,3.58,8,2025-06-14
+2026_WRD_BHAR_992485,NIT_15/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,704618.7,7.05,14,2025-05-01
+2026_UIT_BHAR_140068,NIT_87/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,31528269.92,315.28,26,2025-09-09
+2026_PHED_BHAR_933591,NIT_70/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,532538.84,5.33,13,2025-06-28
+2026_MEDIC_BHAR_415592,NIT_15/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,10655085.94,106.55,17,2025-12-14
+2026_PHED_BHAR_702894,NIT_62/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,542445.51,5.42,14,2025-07-05
+2026_MEDIC_BHAR_665012,NIT_55/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,17422027.93,174.22,4,2025-08-31
+2026_MEDIC_BHAR_838341,NIT_85/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,737630.07,7.38,8,2025-11-09
+2026_PHED_BHAR_197918,NIT_56/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,868550.76,8.69,10,2025-12-25
+2026_FORES_BHAR_255828,NIT_38/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4017940.07,40.18,11,2025-09-07
+2026_PWD_BHAR_867067,NIT_10/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,380534.89,3.81,14,2025-05-26
+2026_WRD_BHAR_903806,NIT_63/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1387775.92,13.88,16,2025-11-06
+2026_FORES_BHAR_570287,NIT_19/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4498767.76,44.99,15,2025-10-21
+2026_WRD_BHAR_114986,NIT_43/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,941519.49,9.42,14,2025-10-14
+2026_WRD_BHAR_958660,NIT_53/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,5702265.92,57.02,22,2025-06-08
+2026_PHED_BHAR_495953,NIT_91/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,376670.01,3.77,15,2025-08-03
+2026_PWD_BHAR_742670,NIT_26/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3165093.25,31.65,16,2025-12-03
+2026_PWD_BHAR_834044,NIT_48/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,707435.37,7.07,9,2025-07-12
+2026_WRD_BHAR_211577,NIT_24/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3455669.16,34.56,18,2025-06-20
+2026_FORES_BHAR_831100,NIT_31/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,286595.55,2.87,15,2025-09-06
+2026_UIT_BHAR_458425,NIT_78/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,244653.8,2.45,12,2026-03-11
+2026_UIT_BHAR_289042,NIT_66/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,518032.18,5.18,10,2025-05-09
+2026_WRD_BHAR_227833,NIT_67/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,497249.89,4.97,15,2025-06-16
+2026_PHED_BHAR_912868,NIT_55/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,438093.21,4.38,10,2025-06-30
+2026_DLB_BHAR_469071,NIT_85/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1572182.15,15.72,14,2025-04-23
+2026_PHED_BHAR_628317,NIT_17/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3340112.69,33.4,17,2026-01-11
+2026_DLB_BHAR_635237,NIT_50/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,200231.55,2.0,12,2025-08-05
+2026_FORES_BHAR_625559,NIT_81/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,400148.27,4.0,15,2025-10-12
+2026_UIT_BHAR_497482,NIT_42/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,664254.14,6.64,15,2025-10-29
+2026_PHED_BHAR_542042,NIT_69/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,610967.6,6.11,12,2026-03-01
+2026_MEDIC_BHAR_458918,NIT_58/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,370108.85,3.7,8,2025-09-02
+2026_WRD_BHAR_708848,NIT_15/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,576410.64,5.76,9,2025-06-10
+2026_UIT_BHAR_479676,NIT_76/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,26825315.44,268.25,37,2025-06-07
+2026_DLB_BHAR_626145,NIT_24/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,3337723.3,33.38,12,2025-07-19
+2026_FORES_BHAR_528362,NIT_47/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,606760.81,6.07,8,2025-11-25
+2026_WRD_BHAR_607528,NIT_74/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,356860.7,3.57,10,2025-10-15
+2026_DLB_BHAR_240105,NIT_29/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1259995.33,12.6,13,2025-07-12
+2026_DLB_BHAR_936773,NIT_13/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,471985.08,4.72,9,2025-11-29
+2026_WRD_BHAR_730622,NIT_45/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4464111.43,44.64,15,2025-08-14
+2026_UIT_BHAR_247531,NIT_54/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,8401409.98,84.01,22,2026-01-23
+2026_UIT_BHAR_687987,NIT_13/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,3878184.59,38.78,13,2025-04-19
+2026_UIT_BHAR_762824,NIT_80/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,676022.61,6.76,13,2026-02-01
+2026_WRD_BHAR_599895,NIT_90/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3103103.97,31.03,10,2025-11-21
+2026_WRD_BHAR_426374,NIT_53/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,85972378.05,859.72,35,2025-05-20
+2026_FORES_BHAR_242526,NIT_33/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1158298.64,11.58,18,2025-11-11
+2026_PWD_BHAR_574155,NIT_94/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3063459.35,30.63,12,2025-05-10
+2026_MEDIC_BHAR_224061,NIT_58/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,627612.23,6.28,14,2025-09-18
+2026_PHED_BHAR_899595,NIT_93/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,934608.75,9.35,14,2025-08-23
+2026_DLB_BHAR_980977,NIT_43/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1370478.24,13.7,17,2025-08-08
+2026_MEDIC_BHAR_113686,NIT_74/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,10492205.79,104.92,19,2025-12-27
+2026_FORES_BHAR_890151,NIT_87/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3550574.58,35.51,13,2025-09-22
+2026_PHED_BHAR_527554,NIT_25/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4745860.33,47.46,10,2025-08-05
+2026_MEDIC_BHAR_563637,NIT_48/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,590624.76,5.91,11,2025-08-31
+2026_WRD_BHAR_518975,NIT_96/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,641254.26,6.41,7,2025-04-21
+2026_UIT_BHAR_445164,NIT_36/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,345605.04,3.46,11,2025-04-06
+2026_FORES_BHAR_154228,NIT_69/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,806099.33,8.06,13,2025-10-07
+2026_MEDIC_BHAR_690840,NIT_18/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,2141182.52,21.41,16,2025-10-04
+2026_FORES_BHAR_183718,NIT_82/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,150433.28,1.5,11,2026-01-20
+2026_MEDIC_BHAR_769236,NIT_38/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,4274507.44,42.75,17,2025-12-14
+2026_WRD_BHAR_596207,NIT_97/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,5582811.3,55.83,15,2025-11-11
+2026_MEDIC_BHAR_567074,NIT_67/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,723609.13,7.24,11,2025-06-14
+2026_UIT_BHAR_469353,NIT_95/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,274171.44,2.74,12,2026-01-24
+2026_FORES_BHAR_908449,NIT_51/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1919736.3,19.2,11,2025-04-28
+2026_DLB_BHAR_910694,NIT_46/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,51218663.32,512.19,23,2025-06-28
+2026_PWD_BHAR_677602,NIT_24/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3776193.65,37.76,11,2025-12-21
+2026_WRD_BHAR_215315,NIT_81/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,471363.7,4.71,9,2025-06-13
+2026_PHED_BHAR_486485,NIT_85/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,943003.41,9.43,10,2026-03-22
+2026_UIT_BHAR_803315,NIT_98/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,600731.6,6.01,9,2025-09-01
+2026_UIT_BHAR_636994,NIT_89/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,543100.66,5.43,15,2025-06-24
+2026_MEDIC_BHAR_403337,NIT_76/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,16625298.68,166.25,9,2025-08-02
+2026_UIT_BHAR_395905,NIT_30/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,15758449.27,157.58,18,2025-12-01
+2026_PWD_BHAR_794696,NIT_47/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,174720.87,1.75,15,2025-10-26
+2026_DLB_BHAR_354592,NIT_97/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,224038.45,2.24,9,2026-01-24
+2026_PWD_BHAR_210573,NIT_51/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,772022.16,7.72,7,2025-05-06
+2026_FORES_BHAR_413589,NIT_11/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,6618088.06,66.18,20,2026-03-21
+2026_PWD_BHAR_324174,NIT_15/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,914147.45,9.14,7,2025-10-21
+2026_FORES_BHAR_377700,NIT_59/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4154652.25,41.55,17,2025-08-06
+2026_UIT_BHAR_199679,NIT_95/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,310197.88,3.1,11,2026-03-20
+2026_WRD_BHAR_908340,NIT_99/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4357100.02,43.57,12,2025-10-12
+2026_MEDIC_BHAR_187001,NIT_18/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,702358.97,7.02,11,2025-05-07
+2026_WRD_BHAR_458122,NIT_99/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,212173.58,2.12,7,2025-10-29
+2026_WRD_BHAR_918395,NIT_94/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2680255.53,26.8,11,2025-05-13
+2026_WRD_BHAR_859956,NIT_98/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1087452.67,10.87,18,2025-09-03
+2026_MEDIC_BHAR_471599,NIT_37/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,647127.74,6.47,10,2026-02-25
+2026_MEDIC_BHAR_708148,NIT_50/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,448390.67,4.48,14,2026-02-28
+2026_MEDIC_BHAR_829328,NIT_48/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,339478.67,3.39,10,2025-06-10
+2026_PHED_BHAR_256624,NIT_66/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,907154.12,9.07,8,2025-12-28
+2026_PWD_BHAR_290836,NIT_53/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4149193.72,41.49,12,2026-03-08
+2026_PHED_BHAR_548661,NIT_60/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,10233643.96,102.34,17,2025-10-24
+2026_WRD_BHAR_673217,NIT_23/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,349284.49,3.49,9,2025-08-09
+2026_PHED_BHAR_115603,NIT_90/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,360295.42,3.6,13,2025-12-16
+2026_WRD_BHAR_553328,NIT_96/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,387850.22,3.88,8,2025-07-06
+2026_PHED_BHAR_956154,NIT_32/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,730857.06,7.31,14,2025-05-07
+2026_PWD_BHAR_668512,NIT_42/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,268265.83,2.68,15,2026-01-24
+2026_PHED_BHAR_669999,NIT_46/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3968482.5,39.68,11,2025-09-28
+2026_MEDIC_BHAR_164235,NIT_65/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,725395.27,7.25,9,2025-06-28
+2026_PWD_BHAR_371358,NIT_31/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2539672.27,25.4,17,2026-03-19
+2026_UIT_BHAR_538794,NIT_43/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,6120220.43,61.2,19,2025-05-20
+2026_UIT_BHAR_162739,NIT_74/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,13826276.13,138.26,18,2025-09-04
+2026_DLB_BHAR_202758,NIT_80/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,71360032.85,713.6,34,2026-03-16
+2026_FORES_BHAR_430666,NIT_28/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2165027.03,21.65,16,2025-12-18
+2026_PWD_BHAR_184132,NIT_72/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,17649374.36,176.49,6,2026-01-02
+2026_DLB_BHAR_707644,NIT_70/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,752471.54,7.52,11,2026-03-19
+2026_PWD_BHAR_669799,NIT_52/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,306101.5,3.06,14,2025-09-29
+2026_DLB_BHAR_474907,NIT_18/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,379437.84,3.79,13,2026-02-09
+2026_WRD_BHAR_390244,NIT_58/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1101115.57,11.01,18,2025-06-13
+2026_PHED_BHAR_210279,NIT_91/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,17417159.71,174.17,16,2025-05-28
+2026_PWD_BHAR_258888,NIT_33/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,433945.26,4.34,13,2025-08-21
+2026_MEDIC_BHAR_411409,NIT_21/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,1894329.47,18.94,12,2025-11-04
+2026_MEDIC_BHAR_574524,NIT_92/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,1284717.13,12.85,13,2025-06-28
+2026_MEDIC_BHAR_905269,NIT_57/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,12288114.33,122.88,16,2026-02-27
+2026_WRD_BHAR_968053,NIT_67/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4217746.85,42.18,13,2026-02-04
+2026_WRD_BHAR_330527,NIT_60/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,61183229.71,611.83,32,2026-03-07
+2026_PHED_BHAR_594526,NIT_49/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,508744.49,5.09,15,2025-12-04
+2026_WRD_BHAR_124629,NIT_61/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,260690.51,2.61,14,2025-08-04
+2026_UIT_BHAR_851853,NIT_79/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,219007.14,2.19,12,2025-10-24
+2026_MEDIC_BHAR_450387,NIT_49/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,446854.31,4.47,14,2025-10-02
+2026_PHED_BHAR_518097,NIT_21/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,834442.18,8.34,9,2025-04-21
+2026_DLB_BHAR_728152,NIT_74/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,4243315.77,42.43,17,2025-07-23
+2026_PWD_BHAR_583772,NIT_29/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1600277.61,16.0,10,2025-09-30
+2026_PHED_BHAR_364778,NIT_32/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1071389.24,10.71,16,2025-07-26
+2026_WRD_BHAR_762659,NIT_88/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,834773.92,8.35,14,2025-04-12
+2026_UIT_BHAR_818736,NIT_76/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,785616.79,7.86,11,2026-02-22
+2026_PWD_BHAR_275166,NIT_21/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,759626.96,7.6,10,2025-06-02
+2026_WRD_BHAR_437314,NIT_36/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,592521.32,5.93,8,2025-09-29
+2026_PHED_BHAR_905297,NIT_82/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4167198.3,41.67,10,2025-06-23
+2026_UIT_BHAR_268711,NIT_36/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,502240.68,5.02,14,2026-02-04
+2026_DLB_BHAR_419672,NIT_44/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,779693.95,7.8,8,2025-06-29
+2026_PWD_BHAR_857715,NIT_85/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3747775.62,37.48,12,2025-07-26
+2026_FORES_BHAR_571551,NIT_24/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,538789.53,5.39,12,2025-08-23
+2026_MEDIC_BHAR_107035,NIT_71/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,28049542.56,280.5,31,2026-02-12
+2026_DLB_BHAR_936056,NIT_42/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,197469.9,1.97,8,2025-09-11
+2026_FORES_BHAR_141929,NIT_12/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,115014362.28,1150.14,33,2025-12-25
+2026_WRD_BHAR_843805,NIT_33/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,565507.08,5.66,11,2025-05-27
+2026_PHED_BHAR_241481,NIT_98/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3599983.71,36.0,14,2025-08-04
+2026_UIT_BHAR_908546,NIT_86/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,232978.35,2.33,10,2025-04-20
+2026_PHED_BHAR_236040,NIT_36/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,15627414.03,156.27,3,2026-02-14
+2026_PHED_BHAR_634197,NIT_70/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,576753.17,5.77,9,2026-01-18
+2026_WRD_BHAR_508455,NIT_50/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,700301.78,7.0,14,2025-06-17
+2026_MEDIC_BHAR_323000,NIT_97/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,6181256.74,61.81,21,2025-12-16
+2026_MEDIC_BHAR_998665,NIT_33/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,648017.3,6.48,12,2025-11-07
+2026_MEDIC_BHAR_964200,NIT_76/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,586956.56,5.87,8,2026-02-20
+2026_WRD_BHAR_777777,NIT_86/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,353730.9,3.54,13,2026-01-17
+2026_FORES_BHAR_272638,NIT_41/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4144699.0,41.45,16,2025-04-13
+2026_PWD_BHAR_621671,NIT_88/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,831260.75,8.31,10,2025-07-17
+2026_DLB_BHAR_663308,NIT_11/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,364216.13,3.64,14,2026-03-18
+2026_UIT_BHAR_250571,NIT_86/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,764350.17,7.64,8,2025-06-15
+2026_PHED_BHAR_625893,NIT_59/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3141593.61,31.42,12,2025-04-03
+2026_FORES_BHAR_366328,NIT_96/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1646490.16,16.46,14,2025-09-02
+2026_PHED_BHAR_917977,NIT_18/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,297174.92,2.97,13,2026-03-27
+2026_MEDIC_BHAR_127666,NIT_85/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,198119.55,1.98,13,2026-01-14
+2026_FORES_BHAR_130961,NIT_60/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,704286.82,7.04,9,2026-01-06
+2026_DLB_BHAR_973333,NIT_12/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,163426.08,1.63,13,2025-06-28
+2026_WRD_BHAR_705123,NIT_88/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,886941.87,8.87,8,2025-08-22
+2026_MEDIC_BHAR_289223,NIT_59/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,888413.17,8.88,11,2025-06-23
+2026_WRD_BHAR_167506,NIT_87/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,381105.3,3.81,14,2025-09-21
+2026_DLB_BHAR_856954,NIT_96/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,74436627.5,744.37,33,2025-08-06
+2026_PWD_BHAR_724563,NIT_99/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,697640.92,6.98,15,2025-06-29
+2026_UIT_BHAR_799575,NIT_48/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,2475077.5,24.75,13,2025-12-05
+2026_PHED_BHAR_918889,NIT_27/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,838381.22,8.38,9,2025-05-01
+2026_FORES_BHAR_219893,NIT_50/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,933051.78,9.33,13,2025-12-12
+2026_WRD_BHAR_781603,NIT_31/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,5466469.83,54.66,11,2025-10-31
+2026_PWD_BHAR_350306,NIT_93/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,265003.16,2.65,13,2025-09-11
+2026_WRD_BHAR_396165,NIT_87/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,630548.69,6.31,13,2026-01-29
+2026_PWD_BHAR_823126,NIT_60/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2330024.35,23.3,12,2025-04-30
+2026_WRD_BHAR_358262,NIT_77/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,682105.18,6.82,11,2025-05-16
+2026_PHED_BHAR_169484,NIT_45/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,887930.98,8.88,13,2025-10-31
+2026_WRD_BHAR_390001,NIT_56/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,530504.04,5.31,7,2025-04-02
+2026_MEDIC_BHAR_122662,NIT_57/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,164242.84,1.64,7,2025-08-12
+2026_WRD_BHAR_661911,NIT_89/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2396029.97,23.96,15,2025-07-03
+2026_PHED_BHAR_197270,NIT_51/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,581098.27,5.81,10,2026-03-11
+2026_PHED_BHAR_250802,NIT_48/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,842749.92,8.43,14,2025-07-17
+2026_MEDIC_BHAR_509271,NIT_63/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,467836.79,4.68,7,2025-05-09
+2026_UIT_BHAR_133256,NIT_69/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,646188.54,6.46,12,2025-04-05
+2026_MEDIC_BHAR_778574,NIT_79/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,103733560.23,1037.34,31,2025-10-02
+2026_DLB_BHAR_744913,NIT_55/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,474358.58,4.74,12,2025-11-27
+2026_PHED_BHAR_212584,NIT_99/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,108112976.6,1081.13,34,2025-04-03
+2026_UIT_BHAR_263252,NIT_58/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,3645743.8,36.46,17,2026-03-17
+2026_DLB_BHAR_428103,NIT_45/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1896457.4,18.96,13,2025-12-16
+2026_PWD_BHAR_438158,NIT_35/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,826681.82,8.27,9,2025-10-10
+2026_WRD_BHAR_778921,NIT_74/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,593424.24,5.93,15,2025-12-30
+2026_PWD_BHAR_957292,NIT_54/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,5376699.93,53.77,20,2025-04-26
+2026_UIT_BHAR_149304,NIT_31/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,16397241.97,163.97,22,2025-11-15
+2026_DLB_BHAR_471234,NIT_79/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,261289.18,2.61,14,2025-06-14
+2026_DLB_BHAR_353163,NIT_57/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,585213.44,5.85,9,2025-12-21
+2026_PWD_BHAR_854856,NIT_53/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,822191.48,8.22,8,2025-09-18
+2026_PWD_BHAR_986303,NIT_34/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,5252036.15,52.52,22,2025-05-13
+2026_FORES_BHAR_991006,NIT_31/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,576980.41,5.77,7,2025-04-23
+2026_PWD_BHAR_257591,NIT_72/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4678007.36,46.78,16,2025-07-24
+2026_UIT_BHAR_583300,NIT_91/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,3276033.96,32.76,18,2026-01-22
+2026_WRD_BHAR_362307,NIT_96/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1391666.08,13.92,12,2025-09-20
+2026_MEDIC_BHAR_630453,NIT_42/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,3230893.99,32.31,11,2026-01-29
+2026_PHED_BHAR_240592,NIT_75/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,603010.61,6.03,12,2025-04-17
+2026_PHED_BHAR_603352,NIT_45/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,93451213.38,934.51,36,2026-03-27
+2026_FORES_BHAR_133524,NIT_60/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2732156.4,27.32,13,2025-11-24
+2026_UIT_BHAR_146256,NIT_39/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,3369199.91,33.69,16,2026-01-10
+2026_DLB_BHAR_859392,NIT_63/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,899891.15,9.0,14,2025-05-21
+2026_PHED_BHAR_253507,NIT_34/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2764406.26,27.64,12,2025-04-19
+2026_PHED_BHAR_768399,NIT_17/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,523389.56,5.23,7,2026-02-23
+2026_WRD_BHAR_939754,NIT_70/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,195282.08,1.95,13,2025-04-21
+2026_DLB_BHAR_991059,NIT_82/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1188996.82,11.89,18,2025-04-21
+2026_DLB_BHAR_681034,NIT_20/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,278694.8,2.79,8,2025-10-22
+2026_PWD_BHAR_999649,NIT_49/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4015480.71,40.15,11,2026-01-13
+2026_FORES_BHAR_900768,NIT_85/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,856167.0,8.56,13,2025-09-20
+2026_PWD_BHAR_137988,NIT_39/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4678917.7,46.79,11,2025-10-03
+2026_DLB_BHAR_673055,NIT_35/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,838473.55,8.38,14,2025-05-22
+2026_UIT_BHAR_795944,NIT_25/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,1829210.78,18.29,13,2026-01-28
+2026_WRD_BHAR_838258,NIT_87/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,267762.45,2.68,11,2025-10-14
+2026_MEDIC_BHAR_202159,NIT_64/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,1619607.21,16.2,18,2025-12-14
+2026_UIT_BHAR_840445,NIT_37/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,11329906.23,113.3,10,2025-05-18
+2026_UIT_BHAR_380966,NIT_12/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,473620.5,4.74,11,2025-12-10
+2026_PWD_BHAR_216060,NIT_28/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,347988.74,3.48,10,2025-09-21
+2026_MEDIC_BHAR_445383,NIT_72/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,4049143.89,40.49,14,2026-02-03
+2026_PHED_BHAR_935355,NIT_68/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2506173.36,25.06,11,2025-07-13
+2026_PWD_BHAR_158855,NIT_79/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2435938.68,24.36,10,2025-09-07
+2026_MEDIC_BHAR_713284,NIT_20/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,2900797.32,29.01,14,2025-05-06
+2026_DLB_BHAR_593960,NIT_66/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,445500.45,4.46,8,2025-11-05
+2026_WRD_BHAR_660628,NIT_63/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,365800.72,3.66,9,2025-11-06
+2026_PWD_BHAR_188575,NIT_65/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,587964.08,5.88,14,2025-08-15
+2026_PHED_BHAR_531254,NIT_84/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,663698.8,6.64,13,2026-01-12
+2026_PWD_BHAR_479630,NIT_46/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3868609.22,38.69,13,2025-09-20
+2026_FORES_BHAR_386981,NIT_20/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,410372.72,4.1,10,2026-03-03
+2026_MEDIC_BHAR_551258,NIT_40/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,18405475.25,184.05,17,2026-01-15
+2026_PWD_BHAR_803437,NIT_48/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,11202541.55,112.03,16,2025-06-12
+2026_UIT_BHAR_522169,NIT_72/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,8322558.42,83.23,11,2026-02-17
+2026_DLB_BHAR_717198,NIT_93/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,17644878.52,176.45,23,2025-07-08
+2026_DLB_BHAR_363904,NIT_15/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,720804.59,7.21,12,2025-06-28
+2026_UIT_BHAR_897029,NIT_78/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,16886289.13,168.86,15,2025-07-23
+2026_FORES_BHAR_477230,NIT_37/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,906246.56,9.06,11,2025-09-11
+2026_DLB_BHAR_529468,NIT_74/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,576432.89,5.76,10,2025-07-17
+2026_WRD_BHAR_197969,NIT_60/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2538203.47,25.38,13,2025-12-24
+2026_DLB_BHAR_511727,NIT_68/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,303152.14,3.03,15,2025-10-27
+2026_FORES_BHAR_838970,NIT_79/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,90793592.4,907.94,37,2025-05-24
+2026_FORES_BHAR_302474,NIT_33/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1094414.46,10.94,13,2025-07-04
+2026_FORES_BHAR_531767,NIT_72/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4179700.73,41.8,12,2025-06-22
+2026_DLB_BHAR_811354,NIT_61/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,844078.87,8.44,9,2025-07-19
+2026_UIT_BHAR_275597,NIT_83/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,4233257.5,42.33,17,2025-09-20
+2026_FORES_BHAR_868870,NIT_65/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,573300.42,5.73,15,2025-05-07
+2026_MEDIC_BHAR_471694,NIT_51/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,17236761.52,172.37,22,2025-10-15
+2026_FORES_BHAR_733332,NIT_62/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,230616.51,2.31,8,2025-10-31
+2026_MEDIC_BHAR_282328,NIT_19/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,1141777.39,11.42,13,2025-05-01
+2026_MEDIC_BHAR_250187,NIT_47/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,836956.65,8.37,7,2025-09-05
+2026_MEDIC_BHAR_521716,NIT_78/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,538377.8,5.38,7,2025-12-24
+2026_MEDIC_BHAR_340298,NIT_65/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,701069.75,7.01,9,2025-06-23
+2026_PHED_BHAR_570671,NIT_91/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,192928.08,1.93,13,2025-05-18
+2026_DLB_BHAR_558313,NIT_83/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,2366152.17,23.66,13,2025-07-02
+2026_MEDIC_BHAR_456339,NIT_17/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,723702.66,7.24,13,2025-04-13
+2026_PWD_BHAR_951521,NIT_21/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,847540.48,8.48,8,2025-10-21
+2026_DLB_BHAR_107375,NIT_70/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,1720797.5,17.21,18,2026-02-25
+2026_DLB_BHAR_441177,NIT_75/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,806442.5,8.06,15,2025-07-24
+2026_DLB_BHAR_540740,NIT_93/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,393200.05,3.93,8,2025-10-30
+2026_WRD_BHAR_117059,NIT_70/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,15111752.1,151.12,18,2026-01-01
+2026_UIT_BHAR_468076,NIT_68/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,444523.72,4.45,8,2025-08-24
+2026_WRD_BHAR_278975,NIT_31/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,397942.28,3.98,8,2026-02-25
+2026_FORES_BHAR_158456,NIT_83/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,778335.27,7.78,10,2026-01-19
+2026_UIT_BHAR_123545,NIT_46/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,183710.35,1.84,11,2025-08-12
+2026_PWD_BHAR_681221,NIT_24/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,777173.64,7.77,10,2025-09-23
+2026_PWD_BHAR_681237,NIT_37/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,713673.64,7.14,7,2025-04-25
+2026_UIT_BHAR_509755,NIT_50/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,2972910.16,29.73,12,2025-07-17
+2026_FORES_BHAR_962817,NIT_38/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,934931.08,9.35,9,2025-04-09
+2026_DLB_BHAR_310132,NIT_78/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,170806.73,1.71,13,2026-02-14
+2026_DLB_BHAR_263188,NIT_86/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,175240.86,1.75,11,2025-08-01
+2026_FORES_BHAR_769932,NIT_81/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,4139276.92,41.39,14,2025-06-19
+2026_MEDIC_BHAR_256880,NIT_41/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,79724854.6,797.25,36,2025-07-31
+2026_UIT_BHAR_667204,NIT_75/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,831605.89,8.32,15,2025-11-13
+2026_PWD_BHAR_433831,NIT_26/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,68326725.42,683.27,33,2025-09-17
+2026_WRD_BHAR_966294,NIT_76/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,926101.7,9.26,13,2025-10-24
+2026_UIT_BHAR_699040,NIT_22/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,376807.84,3.77,12,2025-09-05
+2026_PHED_BHAR_440210,NIT_93/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,780369.1,7.8,9,2026-03-20
+2026_UIT_BHAR_645828,NIT_53/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,931187.4,9.31,15,2025-12-11
+2026_DLB_BHAR_438295,NIT_91/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,861601.26,8.62,9,2025-08-10
+2026_PWD_BHAR_680941,NIT_39/BHA/2025-26,Public Works Department (Bharatpur Circle),Bharatpur,Bharatpur Division,360958.96,3.61,12,2026-01-13
+2026_PHED_BHAR_713916,NIT_34/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,462464.97,4.62,12,2026-03-06
+2026_FORES_BHAR_301324,NIT_66/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,731655.45,7.32,8,2025-09-15
+2026_MEDIC_BHAR_474184,NIT_12/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,836482.21,8.36,13,2025-06-04
+2026_DLB_BHAR_628195,NIT_57/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,381520.24,3.82,7,2025-10-08
+2026_DLB_BHAR_977885,NIT_77/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,13216546.07,132.17,19,2025-06-18
+2026_UIT_BHAR_747235,NIT_52/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,876197.7,8.76,13,2025-11-21
+2026_PHED_BHAR_494153,NIT_84/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,2487237.65,24.87,11,2025-06-30
+2026_PHED_BHAR_941808,NIT_79/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1100547.02,11.01,13,2025-07-24
+2026_WRD_BHAR_117795,NIT_49/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,283072.8,2.83,12,2026-03-24
+2026_UIT_BHAR_317827,NIT_90/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,918061.03,9.18,13,2025-12-15
+2026_PHED_BHAR_456364,NIT_25/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,204627.73,2.05,10,2026-03-02
+2026_WRD_BHAR_947156,NIT_82/BHA/2025-26,Water Resources Department (Bharatpur Circle),Bharatpur,Bharatpur Division,1783752.04,17.84,15,2025-10-23
+2026_PHED_BHAR_637956,NIT_80/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,427964.17,4.28,12,2025-08-02
+2026_FORES_BHAR_192013,NIT_87/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,701961.48,7.02,12,2025-09-29
+2026_FORES_BHAR_546484,NIT_93/BHA/2025-26,Forest Department (Bharatpur Circle),Bharatpur,Bharatpur Division,391449.89,3.91,9,2025-11-29
+2026_UIT_BHAR_789614,NIT_68/BHA/2025-26,UIT Bharatpur,Bharatpur,Bharatpur Division,12568574.19,125.69,23,2025-05-06
+2026_PHED_BHAR_942856,NIT_20/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,367187.79,3.67,7,2025-08-07
+2026_PHED_BHAR_936803,NIT_49/BHA/2025-26,Public Health Engineering Department (Bharatpur Circle),Bharatpur,Bharatpur Division,3362328.67,33.62,13,2026-02-06
+2026_DLB_BHAR_927972,NIT_65/BHA/2025-26,Directorate of Local Bodies (Bharatpur Circle),Bharatpur,Bharatpur Division,571699.22,5.72,15,2025-08-07
+2026_MEDIC_BHAR_127685,NIT_15/BHA/2025-26,Department of Medical Education (Bharatpur Circle),Bharatpur,Bharatpur Division,17332653.04,173.33,15,2026-02-18

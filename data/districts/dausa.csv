@@ -1,0 +1,471 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_WRD_DAUS_670977,NIT_98/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,338923.46,3.39,8,2026-01-19
+2026_UIT_DAUS_610268,NIT_24/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,623730.51,6.24,15,2025-05-20
+2026_UIT_DAUS_566843,NIT_32/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2205133.96,22.05,11,2026-03-17
+2026_UIT_DAUS_725376,NIT_58/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,411926.59,4.12,7,2025-05-17
+2026_PHED_DAUS_956721,NIT_27/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,859809.23,8.6,7,2025-06-15
+2026_FORES_DAUS_256464,NIT_67/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,12531330.33,125.31,18,2025-07-15
+2026_FORES_DAUS_431976,NIT_48/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,77457364.38,774.57,36,2025-09-24
+2026_PWD_DAUS_711033,NIT_11/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,639192.6,6.39,9,2025-08-29
+2026_PWD_DAUS_487158,NIT_80/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,924319.61,9.24,3,2025-05-27
+2026_UIT_DAUS_395917,NIT_13/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,338192.94,3.38,13,2026-02-15
+2026_WRD_DAUS_846348,NIT_58/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,474826.12,4.75,10,2026-03-06
+2026_PHED_DAUS_597938,NIT_27/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,7797530.37,77.98,21,2025-06-18
+2026_WRD_DAUS_802615,NIT_26/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,257421.96,2.57,7,2025-06-13
+2026_FORES_DAUS_610343,NIT_94/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,2687756.68,26.88,11,2025-06-10
+2026_FORES_DAUS_945091,NIT_63/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,838122.21,8.38,13,2026-02-14
+2026_PHED_DAUS_576467,NIT_75/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,2640467.57,26.4,16,2025-09-29
+2026_PHED_DAUS_294816,NIT_64/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,3317149.71,33.17,13,2025-12-13
+2026_WRD_DAUS_530794,NIT_79/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,13153662.47,131.54,3,2026-01-16
+2026_DLB_DAUS_839122,NIT_57/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,240531.5,2.41,8,2025-06-12
+2026_FORES_DAUS_866816,NIT_77/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,936863.28,9.37,11,2025-11-25
+2026_MEDIC_DAUS_182034,NIT_76/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,861932.38,8.62,14,2026-02-17
+2026_FORES_DAUS_795978,NIT_95/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,6277530.47,62.78,19,2026-02-08
+2026_PWD_DAUS_460234,NIT_78/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,15943674.44,159.44,22,2026-01-19
+2026_FORES_DAUS_447617,NIT_63/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,2373429.53,23.73,14,2025-08-27
+2026_PHED_DAUS_137042,NIT_98/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,4510741.94,45.11,14,2025-05-02
+2026_FORES_DAUS_596144,NIT_84/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,1684047.15,16.84,14,2026-02-14
+2026_PWD_DAUS_400748,NIT_72/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,216008.13,2.16,11,2025-08-08
+2026_PHED_DAUS_745710,NIT_45/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,8997996.18,89.98,17,2026-01-28
+2026_FORES_DAUS_258477,NIT_94/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,507322.53,5.07,11,2026-03-25
+2026_PHED_DAUS_608473,NIT_33/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,789497.61,7.89,12,2025-05-14
+2026_PHED_DAUS_724473,NIT_29/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,820091.38,8.2,13,2025-10-14
+2026_PHED_DAUS_792759,NIT_66/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,730799.27,7.31,12,2025-04-28
+2026_FORES_DAUS_377238,NIT_24/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,192018.56,1.92,14,2025-09-02
+2026_DLB_DAUS_882395,NIT_78/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,1926229.92,19.26,16,2025-11-29
+2026_WRD_DAUS_252200,NIT_77/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,846222.19,8.46,2,2025-10-13
+2026_FORES_DAUS_431023,NIT_77/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,3610786.17,36.11,18,2026-02-21
+2026_WRD_DAUS_985249,NIT_65/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,638388.45,6.38,11,2025-09-19
+2026_WRD_DAUS_380061,NIT_22/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,354275.14,3.54,14,2026-03-12
+2026_FORES_DAUS_353542,NIT_96/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,620979.43,6.21,12,2026-03-13
+2026_FORES_DAUS_288656,NIT_50/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,588090.04,5.88,8,2025-04-07
+2026_DLB_DAUS_202444,NIT_77/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,1439652.32,14.4,13,2025-08-24
+2026_WRD_DAUS_302458,NIT_14/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,168960.38,1.69,10,2026-02-01
+2026_FORES_DAUS_227706,NIT_25/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,1373948.9,13.74,16,2026-03-03
+2026_UIT_DAUS_779378,NIT_82/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,792560.05,7.93,8,2026-03-23
+2026_PHED_DAUS_365641,NIT_47/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,2801083.41,28.01,17,2025-08-20
+2026_UIT_DAUS_547724,NIT_98/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,17666802.6,176.67,17,2025-05-08
+2026_WRD_DAUS_914854,NIT_17/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,2485496.26,24.85,10,2025-08-11
+2026_UIT_DAUS_377521,NIT_32/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,502459.87,5.02,10,2026-02-07
+2026_DLB_DAUS_287110,NIT_92/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,543645.84,5.44,13,2025-07-21
+2026_MEDIC_DAUS_774588,NIT_23/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,880087.38,8.8,8,2025-04-18
+2026_PWD_DAUS_173832,NIT_83/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,3778294.32,37.78,10,2025-12-11
+2026_PHED_DAUS_784578,NIT_91/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,150694.11,1.51,13,2025-08-15
+2026_PHED_DAUS_834061,NIT_52/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,873694.03,8.74,15,2025-12-08
+2026_DLB_DAUS_557239,NIT_61/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,4215184.33,42.15,11,2026-01-02
+2026_PHED_DAUS_103468,NIT_59/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,913324.28,9.13,14,2025-06-02
+2026_MEDIC_DAUS_661307,NIT_55/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,2300398.92,23.0,10,2026-02-18
+2026_FORES_DAUS_195071,NIT_56/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,577701.04,5.78,8,2025-11-22
+2026_UIT_DAUS_903741,NIT_47/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,668234.06,6.68,7,2025-10-14
+2026_FORES_DAUS_300281,NIT_48/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,3659558.54,36.6,15,2025-12-06
+2026_PWD_DAUS_763529,NIT_66/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,738259.35,7.38,10,2025-04-13
+2026_FORES_DAUS_721748,NIT_40/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,2884622.06,28.85,18,2026-02-24
+2026_WRD_DAUS_623956,NIT_78/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,921963.08,9.22,7,2025-04-19
+2026_WRD_DAUS_158777,NIT_53/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,780222.83,7.8,8,2025-07-18
+2026_UIT_DAUS_785611,NIT_95/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,12419051.02,124.19,23,2025-06-16
+2026_FORES_DAUS_707488,NIT_39/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,4518059.29,45.18,12,2025-12-07
+2026_FORES_DAUS_119989,NIT_70/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,4451920.79,44.52,13,2026-03-26
+2026_FORES_DAUS_236878,NIT_11/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,287799.21,2.88,11,2025-05-20
+2026_DLB_DAUS_740916,NIT_31/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,4182570.59,41.83,11,2025-05-29
+2026_DLB_DAUS_723879,NIT_88/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,326458.02,3.26,13,2025-09-20
+2026_UIT_DAUS_976500,NIT_96/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,471606.89,4.72,15,2025-06-10
+2026_WRD_DAUS_977057,NIT_37/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,15746344.78,157.46,16,2025-08-19
+2026_PHED_DAUS_894348,NIT_63/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,284440.68,2.84,9,2025-11-11
+2026_PHED_DAUS_710256,NIT_15/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,34203716.83,342.04,36,2025-06-20
+2026_PWD_DAUS_610622,NIT_20/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,155079.66,1.55,8,2026-02-28
+2026_MEDIC_DAUS_397514,NIT_63/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,704802.82,7.05,14,2026-03-21
+2026_PHED_DAUS_316174,NIT_28/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,661860.56,6.62,13,2025-08-01
+2026_PHED_DAUS_740195,NIT_98/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,5719172.73,57.19,16,2026-02-16
+2026_UIT_DAUS_920597,NIT_48/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2354450.88,23.54,7,2025-07-08
+2026_PWD_DAUS_655953,NIT_22/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,13741108.97,137.41,23,2025-07-22
+2026_DLB_DAUS_907750,NIT_90/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,3522476.84,35.22,13,2025-05-28
+2026_UIT_DAUS_256465,NIT_97/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,4214181.35,42.14,17,2025-06-30
+2026_PHED_DAUS_802695,NIT_15/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,5945581.08,59.46,19,2025-09-19
+2026_MEDIC_DAUS_944264,NIT_68/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,184653.99,1.85,15,2025-06-30
+2026_PHED_DAUS_923648,NIT_13/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,538049.12,5.38,10,2025-11-14
+2026_MEDIC_DAUS_707924,NIT_51/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,485253.02,4.85,12,2025-07-27
+2026_UIT_DAUS_215482,NIT_51/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,43550424.33,435.5,33,2025-10-10
+2026_PHED_DAUS_177101,NIT_70/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,78924133.5,789.24,16,2025-06-14
+2026_PHED_DAUS_739037,NIT_68/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,292448.61,2.92,14,2025-07-09
+2026_FORES_DAUS_476009,NIT_44/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,1808290.84,18.08,10,2025-08-22
+2026_PHED_DAUS_216506,NIT_69/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,11528389.16,115.28,19,2026-02-04
+2026_PHED_DAUS_927899,NIT_91/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,912208.11,9.12,15,2025-07-27
+2026_PWD_DAUS_531694,NIT_76/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,2884550.24,28.85,17,2025-11-23
+2026_WRD_DAUS_115208,NIT_64/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,15359268.26,153.59,18,2026-01-28
+2026_PHED_DAUS_701568,NIT_10/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,484217.48,4.84,14,2025-12-15
+2026_PWD_DAUS_546376,NIT_77/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,2528700.59,25.29,11,2025-11-18
+2026_DLB_DAUS_352194,NIT_20/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,596789.57,5.97,2,2025-07-21
+2026_PHED_DAUS_475815,NIT_47/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,8499061.07,84.99,19,2025-06-22
+2026_FORES_DAUS_581592,NIT_83/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,94981382.96,949.81,17,2025-11-24
+2026_UIT_DAUS_245357,NIT_61/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,39309628.09,393.1,30,2026-02-16
+2026_PWD_DAUS_503575,NIT_98/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,416324.91,4.16,13,2025-08-17
+2026_FORES_DAUS_742254,NIT_79/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,13138165.27,131.38,20,2025-04-29
+2026_MEDIC_DAUS_807424,NIT_56/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,17454095.1,174.54,8,2025-11-25
+2026_MEDIC_DAUS_142859,NIT_56/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,443146.4,4.43,8,2026-01-13
+2026_FORES_DAUS_911152,NIT_36/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,7110000.14,71.1,22,2026-01-23
+2026_UIT_DAUS_836984,NIT_36/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,752538.8,7.53,12,2025-09-28
+2026_WRD_DAUS_628027,NIT_97/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,2635984.22,26.36,15,2025-09-24
+2026_DLB_DAUS_609845,NIT_74/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,571346.08,5.71,15,2026-03-14
+2026_UIT_DAUS_658739,NIT_47/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,511582.71,5.12,8,2025-07-06
+2026_DLB_DAUS_191549,NIT_20/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,462546.0,4.63,8,2025-05-26
+2026_PHED_DAUS_389346,NIT_24/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,3664057.92,36.64,13,2025-12-23
+2026_FORES_DAUS_123792,NIT_47/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,483229.33,4.83,9,2025-11-29
+2026_WRD_DAUS_540538,NIT_66/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,3816409.66,38.16,13,2025-05-03
+2026_PWD_DAUS_940946,NIT_39/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,817958.01,8.18,12,2025-10-28
+2026_MEDIC_DAUS_459443,NIT_93/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,666840.98,6.67,15,2026-01-06
+2026_DLB_DAUS_580255,NIT_48/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,603801.33,6.04,11,2025-06-27
+2026_UIT_DAUS_372637,NIT_39/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2865911.67,28.66,10,2025-06-15
+2026_WRD_DAUS_398196,NIT_68/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,914971.08,9.15,9,2025-12-31
+2026_WRD_DAUS_291134,NIT_32/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,4197493.79,41.97,12,2025-06-22
+2026_PHED_DAUS_222596,NIT_15/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,18914067.93,189.14,20,2025-07-04
+2026_PHED_DAUS_689810,NIT_14/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,3545824.81,35.46,12,2025-10-08
+2026_DLB_DAUS_666091,NIT_30/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,576914.37,5.77,7,2025-10-25
+2026_DLB_DAUS_905849,NIT_28/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,908231.24,9.08,9,2025-04-03
+2026_FORES_DAUS_672675,NIT_74/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,9771672.92,97.72,19,2026-01-19
+2026_FORES_DAUS_254228,NIT_82/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,732835.03,7.33,12,2026-03-19
+2026_PWD_DAUS_867180,NIT_71/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,17622407.67,176.22,19,2025-04-13
+2026_DLB_DAUS_747518,NIT_38/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,506778.15,5.07,7,2026-02-06
+2026_FORES_DAUS_304629,NIT_84/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,12464787.02,124.65,18,2025-04-12
+2026_PWD_DAUS_664566,NIT_67/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,3588987.71,35.89,18,2025-10-19
+2026_PHED_DAUS_614290,NIT_50/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,80714015.59,807.14,35,2025-10-21
+2026_PHED_DAUS_850742,NIT_64/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,445703.97,4.46,11,2025-09-24
+2026_WRD_DAUS_423050,NIT_67/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,4328631.51,43.29,17,2025-10-30
+2026_UIT_DAUS_563999,NIT_46/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,281032.27,2.81,13,2025-10-30
+2026_PHED_DAUS_976097,NIT_85/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,628348.57,6.28,11,2025-11-30
+2026_UIT_DAUS_650818,NIT_52/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,1297934.18,12.98,16,2025-05-16
+2026_PWD_DAUS_529350,NIT_91/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,17818864.85,178.19,17,2025-07-12
+2026_PHED_DAUS_972712,NIT_58/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,49656853.49,496.57,34,2026-01-25
+2026_WRD_DAUS_618101,NIT_81/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,3824460.09,38.24,10,2025-06-18
+2026_WRD_DAUS_414750,NIT_91/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,817394.46,8.17,11,2025-10-31
+2026_PHED_DAUS_615780,NIT_98/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,665828.68,6.66,11,2025-12-09
+2026_PWD_DAUS_727983,NIT_56/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,3228996.64,32.29,14,2026-02-16
+2026_FORES_DAUS_599164,NIT_98/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,804624.64,8.05,7,2025-08-11
+2026_PHED_DAUS_709908,NIT_17/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,266909.7,2.67,9,2025-09-30
+2026_PHED_DAUS_155457,NIT_44/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,438930.76,4.39,12,2025-04-25
+2026_WRD_DAUS_405831,NIT_77/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,661157.22,6.61,10,2026-02-16
+2026_PHED_DAUS_901834,NIT_22/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,629009.99,6.29,12,2025-09-09
+2026_UIT_DAUS_986041,NIT_97/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,789901.76,7.9,12,2025-05-20
+2026_MEDIC_DAUS_708222,NIT_55/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,808651.85,8.09,3,2025-10-08
+2026_UIT_DAUS_608453,NIT_62/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,422250.47,4.22,8,2025-07-21
+2026_PHED_DAUS_627835,NIT_38/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,103325781.92,1033.26,38,2025-12-29
+2026_FORES_DAUS_677883,NIT_99/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,755045.39,7.55,14,2025-05-10
+2026_PWD_DAUS_958620,NIT_26/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,888727.8,8.89,11,2026-03-20
+2026_WRD_DAUS_245766,NIT_66/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,4386473.95,43.86,15,2025-06-28
+2026_FORES_DAUS_419484,NIT_13/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,745568.17,7.46,9,2026-03-22
+2026_PHED_DAUS_821469,NIT_39/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,51435404.04,514.35,36,2026-03-20
+2026_UIT_DAUS_922114,NIT_24/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,1341507.37,13.42,16,2025-04-22
+2026_PHED_DAUS_213054,NIT_14/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,784444.15,7.84,7,2025-11-27
+2026_PWD_DAUS_365302,NIT_15/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,202997.89,2.03,8,2025-06-03
+2026_MEDIC_DAUS_315378,NIT_85/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,17636213.17,176.36,16,2025-06-14
+2026_UIT_DAUS_882445,NIT_45/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,114930368.9,1149.3,38,2026-02-08
+2026_PHED_DAUS_629435,NIT_82/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,204669.63,2.05,7,2025-12-27
+2026_PHED_DAUS_850582,NIT_34/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,4665989.25,46.66,18,2025-04-03
+2026_FORES_DAUS_203479,NIT_37/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,886381.74,8.86,14,2025-10-05
+2026_FORES_DAUS_718010,NIT_33/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,64526917.09,645.27,35,2025-10-12
+2026_DLB_DAUS_324682,NIT_75/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,332043.37,3.32,12,2025-06-03
+2026_DLB_DAUS_215674,NIT_76/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,34455324.62,344.55,38,2025-04-21
+2026_PWD_DAUS_444053,NIT_73/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,1483959.78,14.84,14,2026-03-18
+2026_UIT_DAUS_565521,NIT_38/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,3127184.59,31.27,16,2025-07-06
+2026_UIT_DAUS_172990,NIT_70/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,901265.6,9.01,7,2026-03-12
+2026_DLB_DAUS_804743,NIT_23/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,467095.81,4.67,8,2025-06-01
+2026_PHED_DAUS_513989,NIT_61/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,706029.69,7.06,9,2025-05-04
+2026_WRD_DAUS_308757,NIT_53/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,310210.8,3.1,13,2025-06-02
+2026_PHED_DAUS_978821,NIT_64/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,730160.4,7.3,11,2026-02-24
+2026_DLB_DAUS_473395,NIT_70/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,3550038.79,35.5,17,2025-12-18
+2026_WRD_DAUS_254532,NIT_68/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,236429.33,2.36,14,2025-07-28
+2026_FORES_DAUS_241147,NIT_13/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,229682.71,2.3,8,2025-12-12
+2026_FORES_DAUS_128048,NIT_32/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,58880665.29,588.81,31,2025-05-10
+2026_FORES_DAUS_888119,NIT_76/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,15792495.1,157.92,22,2025-12-08
+2026_MEDIC_DAUS_374375,NIT_79/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,9941895.97,99.42,15,2025-11-07
+2026_PWD_DAUS_502265,NIT_67/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,52141360.58,521.41,30,2025-06-30
+2026_MEDIC_DAUS_791442,NIT_48/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,857760.18,8.58,13,2025-06-08
+2026_WRD_DAUS_850490,NIT_59/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,539963.94,5.4,14,2026-03-04
+2026_MEDIC_DAUS_818666,NIT_79/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,3195788.38,31.96,12,2025-12-16
+2026_PWD_DAUS_510396,NIT_43/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,2905091.74,29.05,15,2025-08-24
+2026_WRD_DAUS_164407,NIT_13/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,622370.73,6.22,12,2025-09-26
+2026_UIT_DAUS_878103,NIT_84/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,5571217.83,55.71,16,2025-11-06
+2026_WRD_DAUS_474725,NIT_62/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,431015.41,4.31,10,2025-07-30
+2026_FORES_DAUS_427260,NIT_85/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,217953.39,2.18,11,2025-05-29
+2026_WRD_DAUS_278026,NIT_12/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,580733.45,5.81,13,2026-01-16
+2026_MEDIC_DAUS_541631,NIT_44/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,1126508.52,11.27,10,2025-09-10
+2026_DLB_DAUS_698059,NIT_59/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,2259080.13,22.59,17,2025-05-22
+2026_FORES_DAUS_807905,NIT_36/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,418773.97,4.19,12,2025-06-25
+2026_MEDIC_DAUS_414070,NIT_56/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,18578102.99,185.78,16,2025-12-31
+2026_PHED_DAUS_401314,NIT_43/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,188025.09,1.88,13,2025-07-25
+2026_MEDIC_DAUS_878974,NIT_21/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,724165.47,7.24,12,2025-08-18
+2026_PWD_DAUS_693943,NIT_77/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,11758703.47,117.59,19,2025-12-15
+2026_UIT_DAUS_414477,NIT_65/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,86682213.03,866.82,34,2026-02-14
+2026_MEDIC_DAUS_575244,NIT_95/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,15735502.57,157.36,23,2025-07-05
+2026_MEDIC_DAUS_623452,NIT_37/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,14319125.78,143.19,19,2026-02-21
+2026_MEDIC_DAUS_948228,NIT_88/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,4247904.93,42.48,10,2025-12-24
+2026_PHED_DAUS_481969,NIT_69/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,1604038.83,16.04,14,2025-11-09
+2026_DLB_DAUS_434132,NIT_18/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,657141.99,6.57,11,2025-08-25
+2026_FORES_DAUS_268384,NIT_42/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,699483.92,6.99,10,2025-05-29
+2026_PHED_DAUS_301238,NIT_13/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,346469.29,3.46,14,2025-12-05
+2026_MEDIC_DAUS_557318,NIT_64/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,667537.64,6.68,9,2025-08-18
+2026_PHED_DAUS_130557,NIT_43/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,4011261.9,40.11,18,2025-06-30
+2026_FORES_DAUS_993933,NIT_15/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,921029.51,9.21,7,2025-04-29
+2026_UIT_DAUS_188006,NIT_50/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,631279.79,6.31,13,2025-10-04
+2026_FORES_DAUS_789365,NIT_21/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,467516.04,4.68,9,2025-07-30
+2026_PWD_DAUS_698708,NIT_74/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,4548507.93,45.49,18,2025-08-07
+2026_DLB_DAUS_194632,NIT_40/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,629857.05,6.3,12,2025-09-16
+2026_UIT_DAUS_712710,NIT_59/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,16320614.19,163.21,18,2025-06-13
+2026_PWD_DAUS_283662,NIT_37/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,925938.78,9.26,11,2026-01-27
+2026_PWD_DAUS_614178,NIT_78/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,449763.99,4.5,12,2026-01-05
+2026_DLB_DAUS_597920,NIT_97/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,1973800.09,19.74,12,2025-10-03
+2026_DLB_DAUS_850435,NIT_57/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,16534842.05,165.35,12,2025-04-18
+2026_UIT_DAUS_875369,NIT_94/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,789153.06,7.89,10,2025-08-08
+2026_MEDIC_DAUS_503376,NIT_49/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,3446058.97,34.46,11,2025-12-30
+2026_UIT_DAUS_347864,NIT_66/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2506766.31,25.07,16,2025-08-09
+2026_WRD_DAUS_194634,NIT_40/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,387938.32,3.88,9,2025-11-11
+2026_FORES_DAUS_432591,NIT_92/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,10806785.66,108.07,4,2025-12-08
+2026_DLB_DAUS_872739,NIT_62/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,4524364.57,45.24,16,2025-05-22
+2026_UIT_DAUS_268132,NIT_99/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2028637.78,20.29,16,2026-02-03
+2026_FORES_DAUS_952941,NIT_80/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,15381440.18,153.81,15,2026-02-23
+2026_FORES_DAUS_292664,NIT_90/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,11318988.6,113.19,12,2026-02-16
+2026_WRD_DAUS_428961,NIT_83/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,1358370.19,13.58,18,2026-02-27
+2026_UIT_DAUS_236412,NIT_86/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,14663396.62,146.63,22,2025-06-08
+2026_WRD_DAUS_281905,NIT_97/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,3273826.56,32.74,14,2025-07-11
+2026_PWD_DAUS_534631,NIT_57/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,1732084.7,17.32,13,2025-04-11
+2026_PWD_DAUS_685661,NIT_92/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,3345011.85,33.45,11,2025-11-23
+2026_PHED_DAUS_374499,NIT_99/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,4244365.77,42.44,16,2026-02-02
+2026_WRD_DAUS_256501,NIT_21/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,916426.29,9.16,8,2025-04-08
+2026_FORES_DAUS_651380,NIT_65/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,15872358.62,158.72,22,2025-05-31
+2026_PHED_DAUS_848225,NIT_36/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,7829509.48,78.3,19,2025-12-10
+2026_DLB_DAUS_236523,NIT_65/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,835070.18,8.35,11,2026-03-13
+2026_PHED_DAUS_538651,NIT_33/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,10837632.61,108.38,19,2025-07-30
+2026_MEDIC_DAUS_572883,NIT_41/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,445710.19,4.46,14,2025-05-14
+2026_PWD_DAUS_591658,NIT_27/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,847154.78,8.47,13,2026-03-18
+2026_PHED_DAUS_847986,NIT_59/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,3706699.37,37.07,14,2025-05-08
+2026_PWD_DAUS_684056,NIT_17/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,191690.09,1.92,14,2025-09-29
+2026_MEDIC_DAUS_803375,NIT_86/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,14992010.32,149.92,10,2025-09-02
+2026_DLB_DAUS_803869,NIT_57/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,7024887.9,70.25,17,2025-08-12
+2026_PHED_DAUS_628216,NIT_73/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,894261.55,8.94,9,2025-05-16
+2026_WRD_DAUS_844756,NIT_77/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,496343.73,4.96,12,2025-04-23
+2026_PHED_DAUS_623460,NIT_45/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,748258.69,7.48,11,2025-08-13
+2026_MEDIC_DAUS_969887,NIT_43/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,2988647.57,29.89,12,2025-09-09
+2026_FORES_DAUS_615138,NIT_29/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,76011796.12,760.12,37,2025-04-28
+2026_PHED_DAUS_255840,NIT_16/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,1911977.05,19.12,14,2025-06-23
+2026_FORES_DAUS_589824,NIT_65/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,242819.24,2.43,14,2025-04-21
+2026_DLB_DAUS_473838,NIT_81/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,2869498.18,28.69,12,2025-06-03
+2026_WRD_DAUS_198123,NIT_36/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,844538.49,8.45,9,2025-12-17
+2026_UIT_DAUS_386042,NIT_82/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,4390854.46,43.91,10,2025-12-26
+2026_UIT_DAUS_698514,NIT_33/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,483135.19,4.83,14,2026-03-13
+2026_PWD_DAUS_444622,NIT_13/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,2116054.69,21.16,11,2025-10-19
+2026_WRD_DAUS_719014,NIT_23/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,819581.77,8.2,8,2025-11-22
+2026_UIT_DAUS_842084,NIT_94/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,68505654.28,685.06,30,2025-09-16
+2026_PWD_DAUS_788047,NIT_89/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,910716.77,9.11,9,2025-07-18
+2026_UIT_DAUS_151047,NIT_92/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2111077.54,21.11,11,2026-01-06
+2026_MEDIC_DAUS_499917,NIT_21/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,10704247.26,107.04,21,2025-05-16
+2026_PWD_DAUS_993749,NIT_36/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,280352.55,2.8,11,2026-02-26
+2026_UIT_DAUS_785836,NIT_29/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,6864307.38,68.64,19,2026-03-17
+2026_MEDIC_DAUS_237664,NIT_55/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,3545701.11,35.46,18,2025-07-12
+2026_DLB_DAUS_567080,NIT_59/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,531151.75,5.31,13,2025-05-17
+2026_UIT_DAUS_543061,NIT_57/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,641094.23,6.41,13,2025-05-18
+2026_PWD_DAUS_638277,NIT_53/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,4699769.21,47.0,12,2025-12-10
+2026_MEDIC_DAUS_760141,NIT_92/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,569742.23,5.7,13,2025-05-11
+2026_UIT_DAUS_600811,NIT_48/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,1607274.52,16.07,14,2025-08-06
+2026_MEDIC_DAUS_548509,NIT_47/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,604828.55,6.05,7,2025-12-19
+2026_PWD_DAUS_635456,NIT_64/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,2598822.77,25.99,14,2025-09-29
+2026_WRD_DAUS_714012,NIT_20/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,764917.42,7.65,14,2025-07-01
+2026_UIT_DAUS_291059,NIT_60/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,5824570.29,58.25,20,2026-01-26
+2026_FORES_DAUS_577100,NIT_95/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,65544842.67,655.45,32,2025-07-18
+2026_PHED_DAUS_182020,NIT_87/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,46672449.61,466.72,30,2025-04-03
+2026_DLB_DAUS_222346,NIT_11/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,1694007.57,16.94,16,2026-03-03
+2026_FORES_DAUS_731124,NIT_72/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,392239.99,3.92,12,2026-03-20
+2026_FORES_DAUS_823825,NIT_96/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,2531239.64,25.31,12,2025-06-09
+2026_PWD_DAUS_300070,NIT_24/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,802774.58,8.03,10,2025-04-14
+2026_PHED_DAUS_604487,NIT_93/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,266123.35,2.66,15,2025-07-07
+2026_PWD_DAUS_415535,NIT_69/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,268532.52,2.69,8,2025-06-25
+2026_PHED_DAUS_874668,NIT_99/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,506212.76,5.06,7,2025-11-17
+2026_MEDIC_DAUS_354415,NIT_35/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,2155617.78,21.56,16,2025-04-27
+2026_WRD_DAUS_108256,NIT_23/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,3414037.05,34.14,16,2025-12-10
+2026_FORES_DAUS_706770,NIT_86/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,734862.84,7.35,7,2025-12-06
+2026_DLB_DAUS_609713,NIT_75/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,622831.42,6.23,14,2025-07-28
+2026_FORES_DAUS_163653,NIT_77/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,22882946.24,228.83,34,2026-02-26
+2026_DLB_DAUS_596330,NIT_24/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,545831.04,5.46,12,2025-11-16
+2026_FORES_DAUS_557420,NIT_12/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,279066.75,2.79,14,2025-09-24
+2026_DLB_DAUS_343377,NIT_74/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,325761.88,3.26,12,2026-02-03
+2026_UIT_DAUS_983390,NIT_94/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2806752.3,28.07,16,2025-10-31
+2026_UIT_DAUS_805804,NIT_93/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,3804692.37,38.05,12,2026-02-13
+2026_PHED_DAUS_396177,NIT_98/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,749403.44,7.49,9,2025-06-28
+2026_PHED_DAUS_263907,NIT_87/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,543748.59,5.44,14,2025-09-03
+2026_PHED_DAUS_319606,NIT_81/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,1226435.01,12.26,14,2025-09-30
+2026_FORES_DAUS_266309,NIT_32/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,4154807.58,41.55,10,2025-05-03
+2026_WRD_DAUS_551538,NIT_24/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,644050.34,6.44,10,2025-12-06
+2026_WRD_DAUS_456855,NIT_55/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,97168016.25,971.68,32,2026-03-20
+2026_UIT_DAUS_640422,NIT_87/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,685588.71,6.86,14,2025-11-21
+2026_UIT_DAUS_892476,NIT_24/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,929727.81,9.3,8,2026-01-13
+2026_PWD_DAUS_631948,NIT_23/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,37537583.53,375.38,9,2025-10-03
+2026_PHED_DAUS_863729,NIT_47/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,716530.69,7.17,14,2025-05-21
+2026_PHED_DAUS_778526,NIT_56/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,2304778.22,23.05,13,2025-11-11
+2026_DLB_DAUS_906584,NIT_10/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,346252.85,3.46,12,2025-08-25
+2026_MEDIC_DAUS_279581,NIT_20/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,362812.5,3.63,13,2025-10-02
+2026_FORES_DAUS_797298,NIT_41/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,36009510.24,360.1,33,2025-06-10
+2026_UIT_DAUS_549653,NIT_62/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,884416.05,8.84,15,2026-03-16
+2026_WRD_DAUS_131208,NIT_66/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,7209063.42,72.09,11,2025-05-06
+2026_PWD_DAUS_454737,NIT_50/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,471320.69,4.71,13,2025-05-02
+2026_DLB_DAUS_896070,NIT_14/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,678140.94,6.78,7,2026-02-18
+2026_FORES_DAUS_937886,NIT_94/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,850650.67,8.51,13,2025-10-23
+2026_FORES_DAUS_834831,NIT_80/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,4325798.87,43.26,15,2025-09-24
+2026_PWD_DAUS_967176,NIT_45/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,870166.82,8.7,9,2026-03-25
+2026_DLB_DAUS_567863,NIT_92/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,8030843.29,80.31,22,2026-03-24
+2026_WRD_DAUS_951266,NIT_93/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,473604.56,4.74,11,2025-05-14
+2026_PWD_DAUS_663539,NIT_52/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,59609360.35,596.09,38,2026-01-02
+2026_WRD_DAUS_324116,NIT_21/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,559337.29,5.59,12,2026-02-20
+2026_PHED_DAUS_124559,NIT_13/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,17486406.87,174.86,19,2025-11-03
+2026_MEDIC_DAUS_215806,NIT_17/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,4205937.9,42.06,18,2025-09-29
+2026_PWD_DAUS_150051,NIT_93/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,4580036.37,45.8,10,2025-11-19
+2026_WRD_DAUS_347565,NIT_84/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,13005241.73,130.05,23,2026-01-30
+2026_PHED_DAUS_467355,NIT_48/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,2117008.11,21.17,12,2025-10-11
+2026_MEDIC_DAUS_873337,NIT_41/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,1444600.96,14.45,13,2025-10-02
+2026_DLB_DAUS_202747,NIT_28/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,719312.34,7.19,8,2025-05-18
+2026_PWD_DAUS_545526,NIT_26/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,531002.46,5.31,12,2026-03-13
+2026_MEDIC_DAUS_522317,NIT_85/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,12913764.62,129.14,22,2026-02-20
+2026_DLB_DAUS_561457,NIT_98/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,4541383.53,45.41,16,2025-06-23
+2026_PHED_DAUS_630354,NIT_26/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,2867866.51,28.68,18,2025-12-27
+2026_PWD_DAUS_828205,NIT_37/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,514345.9,5.14,9,2026-01-12
+2026_WRD_DAUS_224535,NIT_87/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,831854.24,8.32,12,2026-01-18
+2026_WRD_DAUS_142238,NIT_76/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,272643.61,2.73,12,2025-09-03
+2026_WRD_DAUS_609529,NIT_13/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,4017013.88,40.17,16,2025-04-25
+2026_WRD_DAUS_397252,NIT_37/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,296461.71,2.96,7,2025-06-02
+2026_MEDIC_DAUS_465584,NIT_18/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,846341.23,8.46,11,2026-01-15
+2026_DLB_DAUS_454233,NIT_58/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,530182.04,5.3,9,2025-06-10
+2026_MEDIC_DAUS_767376,NIT_68/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,759343.02,7.59,9,2025-09-14
+2026_PWD_DAUS_938663,NIT_89/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,3541883.67,35.42,13,2025-10-20
+2026_WRD_DAUS_667273,NIT_15/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,916463.59,9.16,11,2026-02-25
+2026_PWD_DAUS_273659,NIT_13/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,3194980.48,31.95,14,2026-01-13
+2026_FORES_DAUS_229794,NIT_92/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,597482.26,5.97,15,2026-01-21
+2026_UIT_DAUS_155442,NIT_82/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,567403.03,5.67,15,2025-04-10
+2026_PWD_DAUS_790229,NIT_78/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,293794.72,2.94,10,2025-08-04
+2026_UIT_DAUS_839893,NIT_84/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,505383.58,5.05,12,2025-10-23
+2026_MEDIC_DAUS_147168,NIT_72/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,839579.47,8.4,13,2025-07-02
+2026_DLB_DAUS_125225,NIT_77/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,403905.95,4.04,8,2025-05-21
+2026_MEDIC_DAUS_276324,NIT_46/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,1590128.45,15.9,11,2025-06-18
+2026_WRD_DAUS_527060,NIT_96/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,285352.84,2.85,12,2025-07-02
+2026_PWD_DAUS_847949,NIT_17/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,2167591.26,21.68,12,2025-10-29
+2026_WRD_DAUS_370463,NIT_58/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,18193769.71,181.94,18,2026-01-31
+2026_MEDIC_DAUS_347978,NIT_73/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,2957329.78,29.57,11,2025-08-16
+2026_PWD_DAUS_433799,NIT_69/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,592496.87,5.92,7,2025-10-26
+2026_FORES_DAUS_345094,NIT_12/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,365327.79,3.65,8,2025-08-05
+2026_UIT_DAUS_681652,NIT_93/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,778171.35,7.78,13,2025-11-15
+2026_PWD_DAUS_987386,NIT_91/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,550345.9,5.5,9,2025-10-09
+2026_MEDIC_DAUS_276358,NIT_41/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,74216027.35,742.16,37,2025-04-22
+2026_PWD_DAUS_952118,NIT_69/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,918891.55,9.19,9,2025-04-01
+2026_PWD_DAUS_605608,NIT_44/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,628294.2,6.28,13,2025-09-27
+2026_UIT_DAUS_762917,NIT_37/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,3244346.87,32.44,10,2025-06-22
+2026_FORES_DAUS_660033,NIT_82/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,1312257.07,13.12,11,2025-06-11
+2026_FORES_DAUS_683510,NIT_45/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,4343547.35,43.44,18,2025-09-10
+2026_FORES_DAUS_459279,NIT_91/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,359088.43,3.59,14,2025-08-18
+2026_PHED_DAUS_794447,NIT_51/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,423303.84,4.23,12,2025-04-09
+2026_FORES_DAUS_240221,NIT_92/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,887806.22,8.88,7,2025-04-05
+2026_FORES_DAUS_281965,NIT_62/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,594632.52,5.95,14,2025-10-19
+2026_MEDIC_DAUS_185090,NIT_93/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,671013.18,6.71,14,2026-03-11
+2026_PWD_DAUS_470141,NIT_58/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,811973.47,8.12,9,2026-03-23
+2026_PWD_DAUS_230824,NIT_69/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,446384.51,4.46,7,2025-07-23
+2026_FORES_DAUS_120742,NIT_45/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,694443.48,6.94,10,2025-05-17
+2026_UIT_DAUS_743241,NIT_90/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,392542.83,3.93,10,2025-12-09
+2026_WRD_DAUS_138583,NIT_45/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,2898142.03,28.98,13,2025-04-04
+2026_PHED_DAUS_961010,NIT_91/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,2535323.17,25.35,18,2025-12-09
+2026_PHED_DAUS_678588,NIT_34/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,14305770.21,143.06,17,2025-05-04
+2026_MEDIC_DAUS_234476,NIT_18/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,251944.73,2.52,10,2025-12-24
+2026_FORES_DAUS_920251,NIT_45/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,303481.24,3.03,15,2026-02-09
+2026_WRD_DAUS_813745,NIT_81/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,856481.55,8.56,2,2026-02-23
+2026_FORES_DAUS_781605,NIT_16/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,4251974.29,42.52,16,2025-08-19
+2026_PWD_DAUS_813213,NIT_76/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,2799700.23,28.0,10,2025-07-24
+2026_PWD_DAUS_391433,NIT_63/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,575928.23,5.76,13,2025-07-09
+2026_WRD_DAUS_185782,NIT_83/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,16345886.17,163.46,21,2025-05-09
+2026_PHED_DAUS_306440,NIT_31/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,413379.71,4.13,8,2025-04-15
+2026_DLB_DAUS_552931,NIT_13/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,624024.62,6.24,12,2025-08-07
+2026_PHED_DAUS_213079,NIT_70/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,1943847.05,19.44,10,2025-09-18
+2026_MEDIC_DAUS_932685,NIT_40/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,18220956.57,182.21,16,2026-02-15
+2026_DLB_DAUS_707056,NIT_25/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,1370755.12,13.71,10,2025-10-11
+2026_WRD_DAUS_988869,NIT_98/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,6097389.42,60.97,22,2025-04-29
+2026_WRD_DAUS_740405,NIT_90/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,495471.19,4.95,7,2026-01-12
+2026_PWD_DAUS_409242,NIT_58/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,10743226.27,107.43,15,2025-11-19
+2026_DLB_DAUS_586758,NIT_64/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,853950.53,8.54,12,2026-02-28
+2026_FORES_DAUS_920960,NIT_13/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,11466259.33,114.66,16,2025-04-07
+2026_MEDIC_DAUS_847948,NIT_18/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,624309.2,6.24,9,2026-02-21
+2026_MEDIC_DAUS_368735,NIT_55/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,11009896.65,110.1,18,2025-06-10
+2026_UIT_DAUS_146211,NIT_17/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,252144.6,2.52,15,2026-02-28
+2026_UIT_DAUS_475121,NIT_49/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,3238747.21,32.39,12,2025-06-15
+2026_DLB_DAUS_423668,NIT_87/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,424320.25,4.24,7,2025-12-22
+2026_MEDIC_DAUS_789624,NIT_96/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,1592251.44,15.92,18,2025-04-28
+2026_DLB_DAUS_460517,NIT_35/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,931208.62,9.31,10,2025-05-06
+2026_WRD_DAUS_298553,NIT_95/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,530580.05,5.31,14,2026-02-02
+2026_FORES_DAUS_447231,NIT_84/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,602877.53,6.03,11,2025-11-01
+2026_WRD_DAUS_270162,NIT_23/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,513441.68,5.13,7,2025-12-10
+2026_PHED_DAUS_103876,NIT_91/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,8277746.22,82.78,18,2025-12-03
+2026_FORES_DAUS_905671,NIT_52/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,795817.05,7.96,13,2025-07-04
+2026_UIT_DAUS_107052,NIT_56/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,21979317.08,219.79,32,2025-08-27
+2026_DLB_DAUS_303846,NIT_90/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,618549.11,6.19,7,2025-04-16
+2026_PHED_DAUS_307434,NIT_46/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,289317.29,2.89,9,2025-09-21
+2026_UIT_DAUS_681440,NIT_41/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,1719530.37,17.2,14,2025-05-22
+2026_PWD_DAUS_971834,NIT_96/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,1564663.25,15.65,11,2025-09-21
+2026_PHED_DAUS_419891,NIT_68/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,342119.95,3.42,9,2025-12-26
+2026_UIT_DAUS_753476,NIT_65/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,4343954.39,43.44,12,2025-06-06
+2026_UIT_DAUS_298853,NIT_34/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,3047080.17,30.47,15,2026-02-01
+2026_DLB_DAUS_767044,NIT_41/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,886810.88,8.87,10,2025-12-31
+2026_WRD_DAUS_927942,NIT_29/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,53440379.85,534.4,11,2025-06-04
+2026_UIT_DAUS_632959,NIT_84/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,108697594.49,1086.98,37,2026-03-06
+2026_MEDIC_DAUS_168024,NIT_31/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,2957301.77,29.57,18,2025-10-09
+2026_DLB_DAUS_644098,NIT_69/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,293198.81,2.93,15,2026-03-22
+2026_DLB_DAUS_850413,NIT_73/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,2826593.08,28.27,10,2025-07-16
+2026_PHED_DAUS_312861,NIT_67/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,840534.61,8.41,11,2025-11-04
+2026_DLB_DAUS_699125,NIT_30/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,898399.13,8.98,15,2025-05-14
+2026_PHED_DAUS_888133,NIT_20/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,386038.41,3.86,10,2026-01-24
+2026_PWD_DAUS_587853,NIT_75/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,646900.66,6.47,14,2025-11-08
+2026_DLB_DAUS_485364,NIT_73/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,9574881.88,95.75,18,2025-08-14
+2026_FORES_DAUS_179574,NIT_55/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,4430534.43,44.31,18,2025-12-19
+2026_MEDIC_DAUS_774920,NIT_20/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,3997024.86,39.97,11,2025-05-31
+2026_PWD_DAUS_477735,NIT_14/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,586820.85,5.87,12,2025-08-07
+2026_WRD_DAUS_881410,NIT_97/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,826358.59,8.26,9,2026-01-04
+2026_WRD_DAUS_108948,NIT_48/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,375476.22,3.75,13,2025-10-25
+2026_UIT_DAUS_708125,NIT_93/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,22177181.32,221.77,32,2025-10-21
+2026_PHED_DAUS_337949,NIT_36/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,529550.6,5.3,15,2025-11-26
+2026_FORES_DAUS_953957,NIT_69/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,9901102.1,99.01,6,2025-11-06
+2026_UIT_DAUS_831844,NIT_63/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,1835942.83,18.36,18,2025-04-16
+2026_WRD_DAUS_245699,NIT_83/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,849000.17,8.49,7,2025-12-12
+2026_UIT_DAUS_790852,NIT_55/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2324333.41,23.24,16,2026-03-20
+2026_MEDIC_DAUS_414192,NIT_51/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,619564.07,6.2,7,2025-06-11
+2026_PHED_DAUS_446292,NIT_82/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,13891782.44,138.92,21,2025-10-13
+2026_PHED_DAUS_509611,NIT_18/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,12575970.01,125.76,22,2026-02-22
+2026_WRD_DAUS_197770,NIT_31/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,233450.54,2.33,7,2026-03-19
+2026_MEDIC_DAUS_612348,NIT_13/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,299353.68,2.99,13,2025-08-24
+2026_PHED_DAUS_344359,NIT_47/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,3523387.1,35.23,10,2025-10-06
+2026_MEDIC_DAUS_111583,NIT_31/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,9709454.57,97.09,16,2025-06-06
+2026_MEDIC_DAUS_538738,NIT_71/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,744514.2,7.45,10,2025-06-06
+2026_UIT_DAUS_315667,NIT_49/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,2670752.54,26.71,17,2025-06-21
+2026_MEDIC_DAUS_703027,NIT_49/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,3253094.83,32.53,17,2025-08-20
+2026_PHED_DAUS_107804,NIT_28/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,2721493.43,27.21,13,2025-12-26
+2026_WRD_DAUS_696879,NIT_72/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,518163.65,5.18,8,2025-08-26
+2026_FORES_DAUS_578472,NIT_54/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,3676187.02,36.76,14,2025-10-18
+2026_MEDIC_DAUS_963428,NIT_32/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,10927728.07,109.28,21,2025-11-21
+2026_DLB_DAUS_791095,NIT_33/DAU/2025-26,Directorate of Local Bodies (Dausa Circle),Dausa,Jaipur Division,708817.63,7.09,7,2025-08-01
+2026_UIT_DAUS_265603,NIT_45/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,856044.67,8.56,8,2026-03-24
+2026_FORES_DAUS_857501,NIT_37/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,110964910.63,1109.65,31,2025-10-06
+2026_PWD_DAUS_892091,NIT_23/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,553515.87,5.54,13,2025-11-17
+2026_PHED_DAUS_365045,NIT_36/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,12183691.09,121.84,22,2025-10-13
+2026_WRD_DAUS_882193,NIT_61/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,834618.52,8.35,7,2025-08-07
+2026_PWD_DAUS_843544,NIT_27/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,411688.29,4.12,14,2025-11-23
+2026_PWD_DAUS_186558,NIT_80/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,14266911.94,142.67,22,2025-08-21
+2026_UIT_DAUS_269205,NIT_31/DAU/2025-26,Municipal Council Dausa,Dausa,Jaipur Division,820796.68,8.21,9,2025-08-29
+2026_PWD_DAUS_660625,NIT_60/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,284762.7,2.85,7,2026-03-13
+2026_WRD_DAUS_260952,NIT_66/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,436469.59,4.36,7,2026-03-12
+2026_MEDIC_DAUS_326667,NIT_66/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,3662783.86,36.63,18,2026-02-23
+2026_FORES_DAUS_851210,NIT_94/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,867607.9,8.68,11,2025-11-14
+2026_PWD_DAUS_727263,NIT_10/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,188931.76,1.89,10,2025-08-06
+2026_WRD_DAUS_350127,NIT_35/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,30047256.58,300.47,35,2025-07-08
+2026_FORES_DAUS_801444,NIT_18/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,326454.28,3.26,9,2025-06-25
+2026_PWD_DAUS_535872,NIT_75/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,1453814.36,14.54,18,2026-02-15
+2026_PHED_DAUS_755017,NIT_36/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,897461.89,8.97,13,2025-06-01
+2026_PHED_DAUS_324164,NIT_23/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,2387161.22,23.87,16,2026-03-01
+2026_WRD_DAUS_112563,NIT_59/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,320214.35,3.2,11,2026-02-27
+2026_MEDIC_DAUS_486903,NIT_15/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,27665795.58,276.66,37,2025-05-23
+2026_FORES_DAUS_662227,NIT_82/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,287167.29,2.87,12,2026-02-18
+2026_FORES_DAUS_507440,NIT_96/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,889642.72,8.9,9,2025-09-18
+2026_PHED_DAUS_766216,NIT_98/DAU/2025-26,Public Health Engineering Department (Dausa Circle),Dausa,Jaipur Division,404373.58,4.04,14,2025-05-05
+2026_WRD_DAUS_118506,NIT_87/DAU/2025-26,Water Resources Department (Dausa Circle),Dausa,Jaipur Division,879682.6,8.8,15,2026-02-22
+2026_FORES_DAUS_343715,NIT_74/DAU/2025-26,Forest Department (Dausa Circle),Dausa,Jaipur Division,619974.84,6.2,10,2025-04-11
+2026_MEDIC_DAUS_895807,NIT_25/DAU/2025-26,Department of Medical Education (Dausa Circle),Dausa,Jaipur Division,397078.9,3.97,10,2026-02-12
+2026_PWD_DAUS_162833,NIT_27/DAU/2025-26,Public Works Department (Dausa Circle),Dausa,Jaipur Division,10368426.07,103.68,18,2026-02-23

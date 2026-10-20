@@ -1,0 +1,467 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_UIT_ALWA_207402,NIT_23/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,400681.18,4.01,9,2025-10-13
+2026_UIT_ALWA_952878,NIT_27/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,3455910.56,34.56,11,2025-12-28
+2026_MEDIC_ALWA_108886,NIT_88/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,3487575.8,34.88,13,2026-02-16
+2026_FORES_ALWA_258727,NIT_62/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,3360285.05,33.6,13,2025-05-15
+2026_PWD_ALWA_246814,NIT_25/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,79367817.86,793.68,35,2025-06-11
+2026_PHED_ALWA_390421,NIT_92/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,217398.97,2.17,11,2026-03-20
+2026_PWD_ALWA_989079,NIT_94/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,850661.75,8.51,15,2025-07-06
+2026_FORES_ALWA_510780,NIT_47/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,14117142.89,141.17,18,2025-12-10
+2026_DLB_ALWA_218220,NIT_40/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,549666.03,5.5,15,2025-04-07
+2026_WRD_ALWA_431845,NIT_26/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,59296986.63,592.97,38,2026-03-16
+2026_PHED_ALWA_899776,NIT_70/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,913562.39,9.14,7,2026-01-26
+2026_PWD_ALWA_114463,NIT_43/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,42358550.91,423.59,36,2025-12-16
+2026_WRD_ALWA_759104,NIT_74/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,763688.0,7.64,13,2025-05-13
+2026_FORES_ALWA_662628,NIT_78/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,13701449.37,137.01,23,2025-07-14
+2026_UIT_ALWA_262924,NIT_78/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,411400.24,4.11,8,2025-09-06
+2026_FORES_ALWA_558737,NIT_40/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,26732688.46,267.33,16,2025-05-30
+2026_DLB_ALWA_742039,NIT_87/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,194022.9,1.94,9,2025-06-01
+2026_PWD_ALWA_842287,NIT_27/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,3680623.54,36.81,15,2025-12-24
+2026_MEDIC_ALWA_921021,NIT_43/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,37529332.47,375.29,34,2025-05-31
+2026_UIT_ALWA_130782,NIT_52/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,795686.28,7.96,8,2025-08-13
+2026_FORES_ALWA_704663,NIT_90/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,1339012.62,13.39,15,2025-04-29
+2026_DLB_ALWA_694423,NIT_31/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,2428829.17,24.29,11,2026-01-19
+2026_FORES_ALWA_857888,NIT_24/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,332723.54,3.33,7,2025-04-07
+2026_PHED_ALWA_148215,NIT_70/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,2414911.86,24.15,12,2025-04-19
+2026_MEDIC_ALWA_942127,NIT_93/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,2622634.89,26.23,16,2025-09-11
+2026_WRD_ALWA_966120,NIT_19/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,13087196.28,130.87,3,2025-07-01
+2026_PHED_ALWA_943409,NIT_76/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,935131.09,9.35,8,2025-11-25
+2026_UIT_ALWA_396020,NIT_49/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,411840.74,4.12,7,2025-10-06
+2026_PHED_ALWA_405759,NIT_82/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,98666214.51,986.66,35,2026-01-28
+2026_DLB_ALWA_910143,NIT_35/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,15307994.05,153.08,17,2025-04-04
+2026_DLB_ALWA_125071,NIT_39/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,583236.16,5.83,7,2025-09-19
+2026_PWD_ALWA_895794,NIT_94/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,2461030.61,24.61,14,2025-05-24
+2026_PHED_ALWA_655550,NIT_40/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,485852.67,4.86,9,2025-08-22
+2026_PWD_ALWA_146032,NIT_39/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,867829.98,8.68,12,2025-11-21
+2026_FORES_ALWA_189026,NIT_84/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,226461.6,2.26,13,2025-05-09
+2026_MEDIC_ALWA_695403,NIT_17/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,497986.3,4.98,10,2025-08-28
+2026_WRD_ALWA_992247,NIT_50/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,4522657.32,45.23,15,2025-09-10
+2026_DLB_ALWA_385166,NIT_39/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,209749.95,2.1,8,2025-06-19
+2026_PWD_ALWA_272359,NIT_67/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,67139456.13,671.39,33,2025-11-18
+2026_WRD_ALWA_585854,NIT_43/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,105395736.38,1053.96,24,2025-09-03
+2026_UIT_ALWA_838936,NIT_99/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,3312384.32,33.12,15,2025-06-15
+2026_PWD_ALWA_845702,NIT_41/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,924720.0,9.25,7,2026-03-13
+2026_WRD_ALWA_372804,NIT_32/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,174865.67,1.75,14,2026-01-10
+2026_FORES_ALWA_676843,NIT_41/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,6507208.82,65.07,5,2025-06-02
+2026_PWD_ALWA_164664,NIT_38/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,1540182.14,15.4,15,2026-03-18
+2026_FORES_ALWA_776001,NIT_20/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,615859.04,6.16,8,2025-04-12
+2026_PWD_ALWA_307356,NIT_92/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,11319352.27,113.19,20,2025-06-02
+2026_PWD_ALWA_583388,NIT_16/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,7518251.08,75.18,21,2025-12-11
+2026_PWD_ALWA_501320,NIT_97/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,63239737.82,632.4,34,2025-08-22
+2026_DLB_ALWA_255851,NIT_14/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,3352899.67,33.53,14,2025-12-12
+2026_DLB_ALWA_677438,NIT_71/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,1278671.51,12.79,12,2025-11-01
+2026_PHED_ALWA_773870,NIT_77/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,349318.2,3.49,15,2025-04-10
+2026_DLB_ALWA_919898,NIT_55/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,11819645.26,118.2,23,2025-09-12
+2026_DLB_ALWA_383572,NIT_33/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,5559668.96,55.6,19,2025-04-30
+2026_UIT_ALWA_594596,NIT_77/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,435946.31,4.36,10,2025-06-21
+2026_PWD_ALWA_359896,NIT_94/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,342922.24,3.43,7,2025-07-22
+2026_MEDIC_ALWA_987624,NIT_59/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,433843.71,4.34,9,2025-06-30
+2026_PHED_ALWA_721301,NIT_50/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,16325701.11,163.26,15,2026-03-27
+2026_FORES_ALWA_468765,NIT_82/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,76797042.19,767.97,37,2026-01-03
+2026_WRD_ALWA_284084,NIT_72/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,180370.99,1.8,10,2025-04-11
+2026_MEDIC_ALWA_601207,NIT_10/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,2294002.48,22.94,12,2025-09-22
+2026_FORES_ALWA_286080,NIT_51/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,197644.77,1.98,9,2025-05-27
+2026_UIT_ALWA_651860,NIT_56/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,116095316.28,1160.95,36,2026-01-26
+2026_PWD_ALWA_452909,NIT_48/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,9651924.22,96.52,21,2026-02-22
+2026_DLB_ALWA_780714,NIT_50/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,7603996.86,76.04,20,2025-07-24
+2026_FORES_ALWA_717558,NIT_32/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,452707.29,4.53,11,2025-06-05
+2026_PHED_ALWA_864234,NIT_10/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,909030.48,9.09,13,2026-01-16
+2026_PWD_ALWA_290926,NIT_87/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,404573.53,4.05,10,2026-02-22
+2026_MEDIC_ALWA_209167,NIT_73/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,262514.69,2.63,10,2025-09-25
+2026_WRD_ALWA_276042,NIT_91/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,17417419.5,174.17,8,2025-11-15
+2026_PWD_ALWA_378095,NIT_36/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,8643663.91,86.44,7,2025-05-26
+2026_FORES_ALWA_101343,NIT_16/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,59207772.7,592.08,36,2025-12-09
+2026_DLB_ALWA_468292,NIT_79/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,58159409.46,581.59,33,2025-06-23
+2026_DLB_ALWA_177289,NIT_14/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,2155907.3,21.56,11,2025-05-08
+2026_WRD_ALWA_278368,NIT_58/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,1653391.86,16.53,11,2025-09-21
+2026_MEDIC_ALWA_743453,NIT_71/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,90745960.01,907.46,36,2025-06-20
+2026_PWD_ALWA_206176,NIT_52/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,8036596.58,80.37,23,2025-08-14
+2026_FORES_ALWA_395198,NIT_48/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,340038.63,3.4,15,2025-12-08
+2026_PHED_ALWA_157152,NIT_56/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,153052.46,1.53,14,2025-07-12
+2026_PWD_ALWA_126985,NIT_36/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,286665.75,2.87,8,2025-11-29
+2026_UIT_ALWA_221119,NIT_49/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,98702780.73,987.03,34,2025-05-17
+2026_FORES_ALWA_670557,NIT_59/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,1743304.58,17.43,15,2025-07-05
+2026_DLB_ALWA_146784,NIT_43/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,501792.34,5.02,11,2026-01-14
+2026_PWD_ALWA_258471,NIT_99/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,3553006.72,35.53,15,2026-01-03
+2026_DLB_ALWA_893202,NIT_85/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,1903172.84,19.03,16,2025-12-24
+2026_DLB_ALWA_661527,NIT_97/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,843515.21,8.44,10,2025-11-30
+2026_WRD_ALWA_182790,NIT_60/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,872221.76,8.72,15,2026-01-18
+2026_MEDIC_ALWA_939333,NIT_83/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,3590755.82,35.91,11,2025-11-16
+2026_PHED_ALWA_275284,NIT_37/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,796768.58,7.97,13,2025-05-11
+2026_FORES_ALWA_556542,NIT_35/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,4789759.6,47.9,14,2025-09-11
+2026_FORES_ALWA_946561,NIT_18/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,219621.95,2.2,15,2025-09-14
+2026_UIT_ALWA_389617,NIT_76/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,11522569.1,115.23,23,2025-11-01
+2026_PWD_ALWA_534574,NIT_29/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,1605749.03,16.06,11,2025-05-25
+2026_MEDIC_ALWA_917411,NIT_22/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,3996546.11,39.97,15,2025-10-28
+2026_WRD_ALWA_501650,NIT_93/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,11901070.13,119.01,19,2025-10-24
+2026_PHED_ALWA_748276,NIT_87/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,694650.29,6.95,13,2025-09-17
+2026_FORES_ALWA_349119,NIT_16/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,746599.86,7.47,12,2025-04-11
+2026_WRD_ALWA_957091,NIT_48/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,398759.44,3.99,8,2025-07-26
+2026_PHED_ALWA_415076,NIT_66/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,3952615.88,39.53,16,2026-02-04
+2026_FORES_ALWA_193624,NIT_34/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,2706437.24,27.06,16,2025-12-05
+2026_UIT_ALWA_641590,NIT_57/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,4128815.22,41.29,12,2025-05-04
+2026_WRD_ALWA_844037,NIT_74/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,472708.11,4.73,15,2026-01-17
+2026_PWD_ALWA_282176,NIT_34/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,850144.44,8.5,7,2025-08-06
+2026_PWD_ALWA_578621,NIT_16/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,884424.86,8.84,11,2025-10-06
+2026_UIT_ALWA_586768,NIT_74/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,467553.82,4.68,7,2025-08-02
+2026_WRD_ALWA_612530,NIT_86/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,2722887.87,27.23,17,2026-01-26
+2026_MEDIC_ALWA_466749,NIT_54/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,280810.89,2.81,8,2025-08-24
+2026_PWD_ALWA_505343,NIT_16/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,280325.92,2.8,10,2025-07-23
+2026_FORES_ALWA_336047,NIT_96/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,8052887.61,80.53,15,2025-11-29
+2026_PHED_ALWA_778818,NIT_32/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,630913.56,6.31,3,2026-02-06
+2026_UIT_ALWA_420297,NIT_92/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,370302.85,3.7,12,2025-11-22
+2026_WRD_ALWA_328808,NIT_69/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,2183044.09,21.83,16,2026-01-25
+2026_PWD_ALWA_107704,NIT_75/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,949543.5,9.5,12,2026-01-13
+2026_FORES_ALWA_722615,NIT_87/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,2110038.29,21.1,17,2025-05-03
+2026_WRD_ALWA_389913,NIT_91/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,9686891.57,96.87,19,2025-07-06
+2026_PHED_ALWA_642421,NIT_40/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,110069017.43,1100.69,36,2026-03-05
+2026_WRD_ALWA_813824,NIT_27/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,727026.56,7.27,11,2025-08-11
+2026_DLB_ALWA_524252,NIT_59/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,15366902.92,153.67,18,2025-09-23
+2026_FORES_ALWA_848021,NIT_38/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,699054.49,6.99,14,2026-03-10
+2026_WRD_ALWA_631958,NIT_48/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,826335.4,8.26,15,2025-07-02
+2026_WRD_ALWA_202344,NIT_70/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,252355.31,2.52,15,2025-07-03
+2026_FORES_ALWA_451936,NIT_93/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,29840682.38,298.41,34,2025-11-02
+2026_UIT_ALWA_447411,NIT_57/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,358447.39,3.58,8,2025-11-27
+2026_PWD_ALWA_765213,NIT_84/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,614250.49,6.14,14,2025-07-09
+2026_MEDIC_ALWA_225636,NIT_97/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,2481259.57,24.81,10,2025-06-17
+2026_PHED_ALWA_310026,NIT_53/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,477353.48,4.77,14,2025-06-13
+2026_WRD_ALWA_850432,NIT_33/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,773152.94,7.73,9,2025-09-08
+2026_FORES_ALWA_160831,NIT_10/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,511642.58,5.12,9,2026-01-21
+2026_UIT_ALWA_266131,NIT_72/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,778168.72,7.78,9,2026-02-09
+2026_DLB_ALWA_764259,NIT_64/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,472714.78,4.73,13,2025-04-03
+2026_PWD_ALWA_659711,NIT_35/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,734527.26,7.35,12,2025-12-28
+2026_PHED_ALWA_118786,NIT_96/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,1065464.38,10.65,13,2026-03-22
+2026_WRD_ALWA_427252,NIT_26/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,232166.58,2.32,11,2025-06-25
+2026_PWD_ALWA_963862,NIT_15/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,388561.8,3.89,15,2026-01-31
+2026_MEDIC_ALWA_454245,NIT_65/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,17454041.8,174.54,22,2025-10-01
+2026_UIT_ALWA_297579,NIT_31/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,908467.48,9.08,13,2025-04-10
+2026_PHED_ALWA_335217,NIT_26/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,1841963.36,18.42,18,2025-06-26
+2026_PWD_ALWA_484398,NIT_93/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,783701.72,7.84,11,2025-12-30
+2026_MEDIC_ALWA_150947,NIT_86/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,945744.19,9.46,7,2025-04-25
+2026_FORES_ALWA_221414,NIT_63/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,505451.43,5.05,11,2025-11-29
+2026_FORES_ALWA_260565,NIT_36/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,706153.62,7.06,11,2025-11-02
+2026_FORES_ALWA_205885,NIT_94/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,566247.39,5.66,9,2025-11-01
+2026_UIT_ALWA_210010,NIT_75/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,725012.98,7.25,8,2025-05-25
+2026_DLB_ALWA_308296,NIT_87/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,309799.51,3.1,15,2025-07-13
+2026_WRD_ALWA_837606,NIT_62/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,386280.96,3.86,14,2025-07-16
+2026_FORES_ALWA_604012,NIT_52/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,337604.21,3.38,5,2025-05-27
+2026_UIT_ALWA_702042,NIT_95/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,545283.22,5.45,15,2025-05-09
+2026_FORES_ALWA_858724,NIT_22/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,873823.51,8.74,14,2025-08-30
+2026_WRD_ALWA_586830,NIT_16/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,229847.13,2.3,7,2025-08-27
+2026_WRD_ALWA_940534,NIT_96/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,2222651.65,22.23,11,2025-04-24
+2026_PWD_ALWA_993385,NIT_27/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,680684.02,6.81,12,2025-11-11
+2026_MEDIC_ALWA_381342,NIT_21/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,2447333.07,24.47,11,2025-10-23
+2026_DLB_ALWA_578715,NIT_44/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,4183906.3,41.84,17,2025-11-02
+2026_FORES_ALWA_935620,NIT_31/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,240445.25,2.4,7,2025-06-21
+2026_PWD_ALWA_536236,NIT_85/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,11860912.94,118.61,21,2025-10-01
+2026_MEDIC_ALWA_130216,NIT_97/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,17343313.4,173.43,22,2025-12-06
+2026_PWD_ALWA_531262,NIT_66/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,186777.86,1.87,12,2025-04-07
+2026_FORES_ALWA_810859,NIT_77/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,764022.97,7.64,10,2026-03-09
+2026_UIT_ALWA_454733,NIT_76/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,12418823.82,124.19,18,2025-12-03
+2026_WRD_ALWA_795951,NIT_96/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,3455266.7,34.55,18,2026-02-08
+2026_PWD_ALWA_112210,NIT_92/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,897497.14,8.97,14,2025-12-10
+2026_UIT_ALWA_273438,NIT_19/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,751144.0,7.51,12,2025-08-21
+2026_PWD_ALWA_631553,NIT_38/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,590396.46,5.9,10,2025-05-11
+2026_DLB_ALWA_565765,NIT_83/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,508478.87,5.08,14,2025-09-09
+2026_PWD_ALWA_621533,NIT_93/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,1116634.23,11.17,10,2026-01-11
+2026_MEDIC_ALWA_100177,NIT_21/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,783426.63,7.83,11,2025-12-17
+2026_MEDIC_ALWA_316899,NIT_93/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,687179.5,6.87,12,2025-04-28
+2026_UIT_ALWA_333746,NIT_68/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,2294897.35,22.95,17,2026-03-03
+2026_WRD_ALWA_850689,NIT_67/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,241218.69,2.41,10,2025-04-02
+2026_WRD_ALWA_472390,NIT_91/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,921546.95,9.22,15,2025-10-09
+2026_FORES_ALWA_211486,NIT_15/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,4413289.2,44.13,16,2025-05-25
+2026_WRD_ALWA_740524,NIT_35/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,7788098.93,77.88,22,2025-07-07
+2026_FORES_ALWA_454349,NIT_23/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,755719.47,7.56,8,2025-11-17
+2026_DLB_ALWA_790441,NIT_85/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,914952.26,9.15,14,2025-04-03
+2026_MEDIC_ALWA_871976,NIT_16/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,592581.06,5.93,14,2025-12-17
+2026_UIT_ALWA_285810,NIT_98/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,612843.51,6.13,9,2025-05-24
+2026_DLB_ALWA_789461,NIT_86/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,634928.62,6.35,13,2025-11-01
+2026_MEDIC_ALWA_826155,NIT_41/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,368876.7,3.69,11,2025-11-18
+2026_UIT_ALWA_239850,NIT_27/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,480196.38,4.8,15,2025-09-01
+2026_UIT_ALWA_835570,NIT_80/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,838566.04,8.39,15,2026-02-18
+2026_PHED_ALWA_310647,NIT_36/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,649334.07,6.49,12,2026-03-11
+2026_PHED_ALWA_844904,NIT_93/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,930143.59,9.3,15,2026-03-22
+2026_FORES_ALWA_438041,NIT_24/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,758620.02,7.59,13,2026-03-12
+2026_FORES_ALWA_982260,NIT_78/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,378742.38,3.79,7,2025-12-24
+2026_PWD_ALWA_126499,NIT_58/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,266261.37,2.66,10,2025-08-15
+2026_UIT_ALWA_923690,NIT_30/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,18772747.03,187.73,15,2026-03-20
+2026_UIT_ALWA_409477,NIT_36/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,3875977.31,38.76,17,2025-05-23
+2026_MEDIC_ALWA_808340,NIT_81/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,4293155.57,42.93,18,2025-10-17
+2026_PHED_ALWA_635740,NIT_99/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,2128644.95,21.29,16,2025-10-16
+2026_DLB_ALWA_926394,NIT_97/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,400123.18,4.0,7,2025-08-07
+2026_PHED_ALWA_750706,NIT_66/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,813986.79,8.14,12,2026-01-27
+2026_MEDIC_ALWA_874320,NIT_87/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,307175.27,3.07,10,2025-08-29
+2026_DLB_ALWA_286044,NIT_97/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,1329258.73,13.29,18,2025-06-01
+2026_DLB_ALWA_142608,NIT_64/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,2096670.92,20.97,12,2026-01-25
+2026_UIT_ALWA_367403,NIT_10/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,414450.23,4.14,9,2025-04-21
+2026_PHED_ALWA_438302,NIT_86/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,190684.35,1.91,11,2025-12-08
+2026_UIT_ALWA_700495,NIT_80/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,436468.47,4.36,12,2025-12-26
+2026_PHED_ALWA_292800,NIT_76/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,204541.18,2.05,13,2026-01-04
+2026_MEDIC_ALWA_523013,NIT_21/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,2360261.07,23.6,15,2025-09-17
+2026_WRD_ALWA_407835,NIT_37/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,4613656.04,46.14,17,2026-01-13
+2026_UIT_ALWA_888669,NIT_93/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,157042.96,1.57,14,2025-08-02
+2026_FORES_ALWA_743512,NIT_89/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,45138889.22,451.39,13,2025-10-13
+2026_UIT_ALWA_218881,NIT_59/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,2012214.59,20.12,10,2025-12-21
+2026_UIT_ALWA_907921,NIT_57/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,561447.25,5.61,14,2025-04-23
+2026_WRD_ALWA_783176,NIT_34/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,406250.21,4.06,8,2025-06-25
+2026_UIT_ALWA_664107,NIT_78/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,155864.47,1.56,10,2026-03-17
+2026_DLB_ALWA_976258,NIT_23/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,314463.65,3.14,13,2026-02-26
+2026_UIT_ALWA_175623,NIT_97/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,273003.66,2.73,12,2025-04-20
+2026_PWD_ALWA_176806,NIT_16/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,292393.73,2.92,8,2026-01-20
+2026_UIT_ALWA_338703,NIT_43/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,476106.22,4.76,13,2025-11-08
+2026_WRD_ALWA_117711,NIT_59/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,688638.99,6.89,8,2026-01-25
+2026_PWD_ALWA_834928,NIT_19/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,10136261.91,101.36,19,2026-02-05
+2026_PWD_ALWA_395192,NIT_66/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,455130.86,4.55,7,2025-11-29
+2026_PHED_ALWA_659381,NIT_38/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,259105.17,2.59,15,2025-08-30
+2026_FORES_ALWA_251074,NIT_48/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,691831.24,6.92,12,2025-04-06
+2026_MEDIC_ALWA_682032,NIT_28/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,33200280.73,332.0,22,2025-10-19
+2026_MEDIC_ALWA_674122,NIT_20/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,393752.92,3.94,12,2025-07-18
+2026_DLB_ALWA_777308,NIT_75/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,263964.09,2.64,11,2025-07-09
+2026_PWD_ALWA_290167,NIT_95/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,100166345.31,1001.66,38,2025-11-23
+2026_FORES_ALWA_676365,NIT_19/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,9211006.81,92.11,4,2025-07-11
+2026_FORES_ALWA_708798,NIT_72/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,18331250.71,183.31,18,2025-05-22
+2026_WRD_ALWA_749609,NIT_18/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,870094.87,8.7,14,2025-09-16
+2026_MEDIC_ALWA_791454,NIT_49/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,704766.5,7.05,12,2025-09-09
+2026_DLB_ALWA_276831,NIT_10/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,2224555.43,22.25,16,2025-08-20
+2026_UIT_ALWA_476948,NIT_27/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,14578206.48,145.78,22,2025-10-01
+2026_UIT_ALWA_420310,NIT_72/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,3118769.35,31.19,11,2025-08-22
+2026_UIT_ALWA_966589,NIT_27/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,4392363.9,43.92,11,2025-05-09
+2026_PWD_ALWA_990856,NIT_74/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,655301.2,6.55,13,2026-01-28
+2026_PHED_ALWA_138436,NIT_80/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,2027311.21,20.27,18,2025-11-28
+2026_FORES_ALWA_912853,NIT_29/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,442654.9,4.43,11,2025-06-08
+2026_DLB_ALWA_625465,NIT_75/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,222443.22,2.22,7,2026-03-06
+2026_PHED_ALWA_989173,NIT_88/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,697329.33,6.97,9,2025-11-15
+2026_PHED_ALWA_287847,NIT_82/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,908969.47,9.09,9,2025-12-04
+2026_WRD_ALWA_142383,NIT_38/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,759177.9,7.59,11,2025-10-07
+2026_PHED_ALWA_144887,NIT_95/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,315419.26,3.15,12,2025-10-16
+2026_DLB_ALWA_576728,NIT_15/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,1199642.62,12.0,11,2026-03-27
+2026_MEDIC_ALWA_764343,NIT_45/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,817897.81,8.18,15,2026-01-17
+2026_PHED_ALWA_494956,NIT_93/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,2469444.44,24.69,11,2025-12-21
+2026_WRD_ALWA_494609,NIT_38/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,563097.43,5.63,12,2025-12-06
+2026_UIT_ALWA_605529,NIT_87/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,155278.15,1.55,14,2025-06-24
+2026_PHED_ALWA_180832,NIT_75/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,664781.6,6.65,9,2025-06-20
+2026_WRD_ALWA_731264,NIT_25/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,678887.71,6.79,12,2025-05-29
+2026_DLB_ALWA_808029,NIT_71/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,533216.93,5.33,13,2025-04-12
+2026_PHED_ALWA_145240,NIT_26/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,608789.21,6.09,15,2025-04-21
+2026_MEDIC_ALWA_253999,NIT_17/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,283073.09,2.83,15,2025-10-25
+2026_MEDIC_ALWA_690982,NIT_91/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,22843383.53,228.43,34,2025-05-14
+2026_PHED_ALWA_571023,NIT_87/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,944220.66,9.44,9,2025-07-22
+2026_UIT_ALWA_530720,NIT_86/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,7169427.49,71.69,23,2025-08-14
+2026_PHED_ALWA_859364,NIT_97/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,424137.02,4.24,8,2025-07-27
+2026_DLB_ALWA_504186,NIT_26/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,1457137.93,14.57,18,2026-03-17
+2026_DLB_ALWA_966662,NIT_29/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,3320666.32,33.21,10,2025-12-29
+2026_MEDIC_ALWA_888930,NIT_25/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,1399462.37,13.99,18,2025-04-01
+2026_UIT_ALWA_811521,NIT_93/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,495197.46,4.95,7,2026-03-24
+2026_MEDIC_ALWA_549793,NIT_39/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,900737.3,9.01,13,2025-09-27
+2026_MEDIC_ALWA_943706,NIT_99/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,610896.65,6.11,11,2025-12-01
+2026_UIT_ALWA_343807,NIT_20/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,9109080.02,91.09,18,2025-04-03
+2026_FORES_ALWA_879769,NIT_10/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,13176222.61,131.76,3,2025-10-10
+2026_FORES_ALWA_315397,NIT_98/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,100624428.13,1006.24,36,2026-02-28
+2026_MEDIC_ALWA_365953,NIT_43/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,833981.54,8.34,12,2026-02-08
+2026_WRD_ALWA_813666,NIT_60/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,3881144.63,38.81,18,2025-12-04
+2026_PHED_ALWA_488196,NIT_81/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,12857776.72,128.58,20,2025-10-21
+2026_FORES_ALWA_244775,NIT_94/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,245268.61,2.45,9,2025-05-22
+2026_PHED_ALWA_633036,NIT_61/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,778864.9,7.79,7,2025-06-22
+2026_DLB_ALWA_766764,NIT_10/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,4066385.1,40.66,17,2026-02-02
+2026_DLB_ALWA_192422,NIT_18/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,2036594.99,20.37,10,2025-10-14
+2026_DLB_ALWA_743789,NIT_93/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,12389876.5,123.9,17,2026-02-22
+2026_DLB_ALWA_560295,NIT_11/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,311365.79,3.11,15,2025-08-25
+2026_PHED_ALWA_135241,NIT_86/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,2964554.44,29.65,12,2026-03-12
+2026_PWD_ALWA_477214,NIT_40/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,674015.3,6.74,8,2025-08-20
+2026_UIT_ALWA_518836,NIT_55/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,685729.64,6.86,10,2025-12-22
+2026_PWD_ALWA_872722,NIT_18/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,885341.94,8.85,15,2026-01-24
+2026_WRD_ALWA_464354,NIT_45/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,8322878.08,83.23,21,2026-01-20
+2026_PWD_ALWA_373791,NIT_32/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,2576754.85,25.77,11,2025-12-14
+2026_WRD_ALWA_456480,NIT_24/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,792353.79,7.92,15,2026-01-20
+2026_WRD_ALWA_827912,NIT_66/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,922844.36,9.23,10,2025-09-21
+2026_UIT_ALWA_581137,NIT_97/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,11557942.09,115.58,16,2025-08-11
+2026_PWD_ALWA_501261,NIT_91/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,780924.81,7.81,10,2025-09-09
+2026_DLB_ALWA_470248,NIT_76/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,12591996.32,125.92,19,2025-05-18
+2026_DLB_ALWA_806423,NIT_53/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,210823.06,2.11,14,2025-09-08
+2026_WRD_ALWA_329183,NIT_83/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,365260.63,3.65,10,2025-12-12
+2026_FORES_ALWA_309365,NIT_40/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,738343.25,7.38,10,2025-07-27
+2026_PHED_ALWA_975498,NIT_41/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,819067.77,8.19,8,2025-06-01
+2026_PWD_ALWA_808640,NIT_94/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,2897493.24,28.97,8,2025-12-03
+2026_WRD_ALWA_750817,NIT_50/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,543872.3,5.44,11,2025-12-08
+2026_PHED_ALWA_901387,NIT_75/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,374213.3,3.74,9,2025-04-28
+2026_MEDIC_ALWA_938095,NIT_64/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,11800817.06,118.01,21,2026-03-18
+2026_UIT_ALWA_283291,NIT_68/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,931205.76,9.31,14,2025-09-09
+2026_FORES_ALWA_108827,NIT_11/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,689282.45,6.89,8,2025-09-14
+2026_WRD_ALWA_742544,NIT_43/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,7782703.7,77.83,20,2025-10-05
+2026_PHED_ALWA_622998,NIT_64/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,1839496.81,18.39,15,2025-10-04
+2026_UIT_ALWA_520051,NIT_45/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,510583.19,5.11,10,2025-05-22
+2026_FORES_ALWA_383062,NIT_40/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,12863692.65,128.64,17,2025-11-29
+2026_UIT_ALWA_110215,NIT_32/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,2630702.51,26.31,18,2025-12-30
+2026_FORES_ALWA_431064,NIT_72/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,390027.35,3.9,7,2025-10-21
+2026_PWD_ALWA_824087,NIT_30/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,198029.1,1.98,14,2026-02-17
+2026_PWD_ALWA_571706,NIT_52/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,2024134.21,20.24,18,2025-08-10
+2026_WRD_ALWA_120798,NIT_62/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,1504640.58,15.05,13,2026-01-21
+2026_MEDIC_ALWA_781433,NIT_93/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,580750.6,5.81,11,2025-09-29
+2026_WRD_ALWA_805893,NIT_75/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,11927413.67,119.27,21,2026-02-09
+2026_WRD_ALWA_586279,NIT_90/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,4637229.12,46.37,15,2025-11-02
+2026_FORES_ALWA_742053,NIT_83/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,473818.18,4.74,8,2025-06-22
+2026_WRD_ALWA_339303,NIT_50/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,403502.59,4.04,11,2026-02-04
+2026_FORES_ALWA_514664,NIT_44/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,860153.45,8.6,12,2026-01-26
+2026_MEDIC_ALWA_572161,NIT_62/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,1677442.9,16.77,12,2025-07-30
+2026_FORES_ALWA_363871,NIT_99/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,749791.79,7.5,13,2025-05-23
+2026_PWD_ALWA_166891,NIT_70/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,3106626.54,31.07,16,2025-12-25
+2026_UIT_ALWA_187295,NIT_23/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,2034195.99,20.34,16,2025-09-06
+2026_PHED_ALWA_359414,NIT_46/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,11315613.89,113.16,17,2025-04-15
+2026_PWD_ALWA_795781,NIT_55/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,838295.05,8.38,14,2025-11-26
+2026_UIT_ALWA_666843,NIT_44/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,12769924.79,127.7,23,2025-06-30
+2026_MEDIC_ALWA_726612,NIT_68/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,654838.02,6.55,13,2025-12-25
+2026_FORES_ALWA_770593,NIT_78/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,9473326.33,94.73,16,2025-11-13
+2026_WRD_ALWA_483551,NIT_62/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,357845.64,3.58,7,2025-12-24
+2026_UIT_ALWA_895128,NIT_27/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,425107.93,4.25,7,2026-03-19
+2026_DLB_ALWA_892170,NIT_71/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,2173539.44,21.74,14,2026-01-31
+2026_PHED_ALWA_935471,NIT_10/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,588569.76,5.89,15,2025-11-10
+2026_DLB_ALWA_362035,NIT_30/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,721950.39,7.22,13,2025-07-22
+2026_WRD_ALWA_183057,NIT_64/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,3394961.3,33.95,14,2025-08-24
+2026_FORES_ALWA_879015,NIT_78/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,4083032.43,40.83,11,2025-07-03
+2026_PHED_ALWA_403662,NIT_24/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,3438347.66,34.38,14,2026-03-25
+2026_MEDIC_ALWA_615895,NIT_34/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,2252413.96,22.52,18,2025-04-12
+2026_PHED_ALWA_207241,NIT_46/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,365356.11,3.65,7,2025-07-29
+2026_PWD_ALWA_258003,NIT_11/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,544863.64,5.45,11,2025-12-12
+2026_WRD_ALWA_586208,NIT_99/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,783139.77,7.83,9,2025-04-29
+2026_WRD_ALWA_913331,NIT_60/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,207107.76,2.07,10,2025-08-07
+2026_UIT_ALWA_500112,NIT_11/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,6883069.48,68.83,22,2025-08-05
+2026_FORES_ALWA_135138,NIT_35/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,2778129.88,27.78,18,2026-03-07
+2026_PHED_ALWA_595793,NIT_59/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,695153.86,6.95,12,2025-06-21
+2026_FORES_ALWA_863611,NIT_15/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,745779.66,7.46,8,2025-08-08
+2026_DLB_ALWA_769536,NIT_48/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,40673639.55,406.74,33,2025-05-28
+2026_PHED_ALWA_763653,NIT_65/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,409610.79,4.1,11,2026-01-25
+2026_PWD_ALWA_515035,NIT_41/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,1083486.96,10.83,17,2026-03-19
+2026_MEDIC_ALWA_262520,NIT_57/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,766637.6,7.67,14,2025-05-17
+2026_FORES_ALWA_748696,NIT_53/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,4540682.94,45.41,10,2025-05-01
+2026_WRD_ALWA_775885,NIT_29/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,711062.51,7.11,9,2025-12-06
+2026_PHED_ALWA_432125,NIT_81/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,16082153.2,160.82,22,2025-07-08
+2026_PWD_ALWA_822730,NIT_58/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,10142711.46,101.43,22,2025-11-11
+2026_MEDIC_ALWA_409030,NIT_79/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,3663891.66,36.64,12,2026-01-04
+2026_WRD_ALWA_439403,NIT_69/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,2082466.74,20.82,18,2025-06-22
+2026_PWD_ALWA_656937,NIT_29/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,11401501.96,114.02,22,2025-04-01
+2026_UIT_ALWA_769018,NIT_74/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,2471413.39,24.71,10,2026-02-12
+2026_UIT_ALWA_481760,NIT_89/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,341029.25,3.41,15,2025-10-16
+2026_PHED_ALWA_649526,NIT_97/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,2915809.35,29.16,14,2025-09-13
+2026_DLB_ALWA_772036,NIT_51/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,1464240.5,14.64,11,2025-04-23
+2026_UIT_ALWA_236078,NIT_32/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,848794.22,8.49,14,2025-07-08
+2026_PWD_ALWA_133362,NIT_83/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,3456568.76,34.57,17,2025-12-26
+2026_MEDIC_ALWA_835381,NIT_85/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,8731951.72,87.32,16,2025-04-07
+2026_PHED_ALWA_787603,NIT_72/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,18011971.33,180.12,15,2025-10-02
+2026_MEDIC_ALWA_879592,NIT_63/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,807621.21,8.08,7,2026-02-10
+2026_WRD_ALWA_654718,NIT_15/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,737440.27,7.37,8,2025-07-20
+2026_MEDIC_ALWA_201836,NIT_22/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,92792021.35,927.92,38,2026-03-03
+2026_PHED_ALWA_697717,NIT_90/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,18275546.15,182.76,16,2026-02-21
+2026_MEDIC_ALWA_475351,NIT_96/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,516976.47,5.17,8,2025-06-25
+2026_UIT_ALWA_289159,NIT_80/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,10741489.0,107.41,22,2025-09-28
+2026_WRD_ALWA_676802,NIT_51/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,16858985.41,168.59,20,2026-02-06
+2026_PHED_ALWA_690500,NIT_79/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,321142.51,3.21,11,2025-10-02
+2026_DLB_ALWA_569237,NIT_60/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,1050733.6,10.51,14,2026-01-31
+2026_PWD_ALWA_642752,NIT_27/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,944729.61,9.45,11,2025-07-23
+2026_PHED_ALWA_997287,NIT_50/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,167361.1,1.67,11,2026-01-09
+2026_MEDIC_ALWA_683347,NIT_83/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,890737.96,8.91,7,2025-11-22
+2026_WRD_ALWA_263690,NIT_27/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,8856836.87,88.57,19,2025-09-01
+2026_PWD_ALWA_698199,NIT_61/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,605251.95,6.05,8,2025-09-14
+2026_UIT_ALWA_605972,NIT_32/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,540621.12,5.41,8,2026-01-30
+2026_FORES_ALWA_414985,NIT_14/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,734631.49,7.35,8,2025-04-29
+2026_UIT_ALWA_450632,NIT_54/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,853834.0,8.54,8,2025-07-26
+2026_FORES_ALWA_784488,NIT_87/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,18015413.69,180.15,15,2025-09-04
+2026_MEDIC_ALWA_143182,NIT_50/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,581943.78,5.82,15,2026-03-24
+2026_PHED_ALWA_260639,NIT_16/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,688908.19,6.89,14,2026-01-30
+2026_MEDIC_ALWA_629247,NIT_21/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,1882821.11,18.83,16,2025-06-15
+2026_PHED_ALWA_452497,NIT_20/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,530683.72,5.31,15,2025-10-22
+2026_WRD_ALWA_189211,NIT_61/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,551458.49,5.51,9,2025-06-09
+2026_DLB_ALWA_686464,NIT_35/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,540288.88,5.4,10,2026-01-13
+2026_MEDIC_ALWA_871403,NIT_77/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,346996.67,3.47,13,2025-09-13
+2026_FORES_ALWA_703998,NIT_21/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,240023.9,2.4,12,2025-09-26
+2026_PHED_ALWA_436318,NIT_54/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,625101.72,6.25,11,2025-06-26
+2026_WRD_ALWA_746154,NIT_66/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,648545.73,6.49,10,2025-07-12
+2026_FORES_ALWA_491979,NIT_29/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,15656726.2,156.57,15,2025-08-03
+2026_MEDIC_ALWA_254850,NIT_46/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,160986.63,1.61,8,2025-09-04
+2026_DLB_ALWA_594078,NIT_12/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,2294537.7,22.95,13,2025-07-14
+2026_MEDIC_ALWA_648684,NIT_43/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,3108000.21,31.08,12,2026-03-22
+2026_FORES_ALWA_800722,NIT_12/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,451285.34,4.51,15,2025-04-23
+2026_WRD_ALWA_278593,NIT_17/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,2115050.78,21.15,14,2025-04-28
+2026_DLB_ALWA_786563,NIT_11/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,203278.23,2.03,12,2025-05-26
+2026_PWD_ALWA_406703,NIT_93/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,59265799.39,592.66,31,2025-09-09
+2026_DLB_ALWA_726111,NIT_78/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,220416.54,2.2,14,2026-01-13
+2026_FORES_ALWA_122532,NIT_15/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,347913.71,3.48,12,2025-12-07
+2026_DLB_ALWA_880550,NIT_30/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,164697.78,1.65,12,2026-02-15
+2026_WRD_ALWA_347678,NIT_74/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,48311949.62,483.12,11,2025-10-16
+2026_UIT_ALWA_130897,NIT_81/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,909293.13,9.09,12,2025-10-19
+2026_FORES_ALWA_243928,NIT_21/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,3787086.24,37.87,13,2025-10-31
+2026_PHED_ALWA_700727,NIT_29/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,491172.0,4.91,12,2025-11-16
+2026_MEDIC_ALWA_238173,NIT_36/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,3496772.42,34.97,13,2025-06-10
+2026_WRD_ALWA_821978,NIT_77/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,877650.17,8.78,9,2026-03-02
+2026_MEDIC_ALWA_265725,NIT_50/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,6135833.77,61.36,17,2025-09-10
+2026_UIT_ALWA_252591,NIT_13/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,762348.01,7.62,13,2025-10-28
+2026_WRD_ALWA_564523,NIT_91/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,896600.02,8.97,10,2025-05-25
+2026_PHED_ALWA_293720,NIT_13/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,759957.99,7.6,11,2026-02-05
+2026_MEDIC_ALWA_742108,NIT_39/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,627088.55,6.27,7,2025-10-01
+2026_PWD_ALWA_821568,NIT_71/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,1552824.85,15.53,17,2026-02-27
+2026_WRD_ALWA_292913,NIT_59/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,543156.48,5.43,10,2025-07-25
+2026_PWD_ALWA_528436,NIT_11/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,4520381.56,45.2,13,2026-03-10
+2026_PHED_ALWA_894586,NIT_36/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,202909.06,2.03,14,2026-02-10
+2026_DLB_ALWA_821276,NIT_51/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,843419.92,8.43,13,2025-10-25
+2026_UIT_ALWA_143858,NIT_87/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,738265.42,7.38,12,2025-10-19
+2026_MEDIC_ALWA_878533,NIT_83/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,625044.64,6.25,7,2025-12-23
+2026_PWD_ALWA_573546,NIT_68/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,4151287.88,41.51,13,2025-12-22
+2026_MEDIC_ALWA_514828,NIT_15/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,596160.76,5.96,7,2025-07-07
+2026_WRD_ALWA_560905,NIT_60/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,857518.06,8.58,11,2025-11-23
+2026_PHED_ALWA_542983,NIT_47/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,13661253.05,136.61,11,2025-06-12
+2026_DLB_ALWA_970206,NIT_92/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,65718110.7,657.18,38,2025-06-09
+2026_DLB_ALWA_533648,NIT_51/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,510708.68,5.11,10,2025-11-19
+2026_PWD_ALWA_362230,NIT_51/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,703373.94,7.03,9,2025-06-03
+2026_PWD_ALWA_219710,NIT_67/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,3427771.57,34.28,16,2025-12-18
+2026_MEDIC_ALWA_267666,NIT_58/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,590276.71,5.9,9,2025-09-19
+2026_MEDIC_ALWA_791567,NIT_29/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,279699.28,2.8,7,2025-11-01
+2026_WRD_ALWA_424553,NIT_67/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,381024.43,3.81,9,2025-07-13
+2026_PWD_ALWA_752801,NIT_42/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,1095779.12,10.96,17,2026-01-04
+2026_UIT_ALWA_106029,NIT_87/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,4360135.95,43.6,17,2025-11-19
+2026_DLB_ALWA_563339,NIT_20/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,630973.25,6.31,3,2026-02-12
+2026_FORES_ALWA_684632,NIT_36/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,189135.04,1.89,12,2025-04-19
+2026_PHED_ALWA_995304,NIT_14/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,683597.23,6.84,11,2025-09-17
+2026_PWD_ALWA_151413,NIT_23/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,2613588.46,26.14,14,2026-02-07
+2026_FORES_ALWA_825104,NIT_99/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,625975.19,6.26,9,2025-11-20
+2026_FORES_ALWA_707090,NIT_56/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,895183.86,8.95,11,2025-09-13
+2026_WRD_ALWA_497346,NIT_18/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,3894157.45,38.94,11,2025-08-28
+2026_DLB_ALWA_241081,NIT_25/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,705695.55,7.06,15,2025-10-29
+2026_MEDIC_ALWA_320038,NIT_99/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,1833941.18,18.34,18,2025-05-15
+2026_DLB_ALWA_859246,NIT_98/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,633822.42,6.34,11,2025-11-05
+2026_MEDIC_ALWA_988980,NIT_50/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,357728.03,3.58,12,2025-06-06
+2026_MEDIC_ALWA_689964,NIT_73/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,565764.64,5.66,14,2025-07-02
+2026_MEDIC_ALWA_344026,NIT_47/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,4722216.22,47.22,8,2025-11-25
+2026_FORES_ALWA_935434,NIT_25/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,15377063.58,153.77,21,2025-10-29
+2026_PWD_ALWA_450006,NIT_54/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,12933733.97,129.34,12,2026-03-20
+2026_WRD_ALWA_366776,NIT_18/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,396218.04,3.96,12,2025-04-04
+2026_PWD_ALWA_819150,NIT_52/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,2330105.94,23.3,10,2025-06-29
+2026_PHED_ALWA_446569,NIT_53/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,887823.81,8.88,14,2025-04-19
+2026_FORES_ALWA_242348,NIT_71/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,274309.03,2.74,15,2025-09-19
+2026_DLB_ALWA_922072,NIT_62/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,18003501.68,180.04,11,2025-09-01
+2026_MEDIC_ALWA_860180,NIT_96/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,402402.27,4.02,10,2026-01-21
+2026_FORES_ALWA_447832,NIT_55/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,202970.43,2.03,7,2025-09-21
+2026_DLB_ALWA_756944,NIT_78/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,823924.62,8.24,13,2025-07-05
+2026_MEDIC_ALWA_222520,NIT_49/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,714212.95,7.14,7,2025-08-18
+2026_DLB_ALWA_191014,NIT_73/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,851638.99,8.52,11,2025-07-20
+2026_MEDIC_ALWA_417003,NIT_32/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,1470867.27,14.71,13,2025-05-18
+2026_DLB_ALWA_630573,NIT_13/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,789220.22,7.89,9,2025-07-07
+2026_WRD_ALWA_606957,NIT_77/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,9482950.18,94.83,16,2025-12-21
+2026_FORES_ALWA_239164,NIT_36/ALW/2025-26,Forest Department (Alwar Circle),Alwar,Jaipur Division,15199074.73,151.99,23,2025-05-30
+2026_PWD_ALWA_426087,NIT_15/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,699641.86,7.0,8,2025-09-18
+2026_DLB_ALWA_148381,NIT_23/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,566462.17,5.66,11,2025-04-12
+2026_MEDIC_ALWA_895338,NIT_49/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,661080.68,6.61,10,2025-07-08
+2026_WRD_ALWA_390088,NIT_78/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,2246811.71,22.47,11,2025-08-18
+2026_PHED_ALWA_265146,NIT_45/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,241568.32,2.42,15,2025-12-20
+2026_PWD_ALWA_316612,NIT_79/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,2363693.02,23.64,12,2026-03-27
+2026_UIT_ALWA_397027,NIT_83/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,345860.06,3.46,12,2026-01-02
+2026_DLB_ALWA_153190,NIT_26/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,1158722.57,11.59,10,2025-05-25
+2026_DLB_ALWA_156413,NIT_21/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,491172.6,4.91,14,2026-02-10
+2026_WRD_ALWA_427617,NIT_52/ALW/2025-26,Water Resources Department (Alwar Circle),Alwar,Jaipur Division,803953.58,8.04,15,2025-05-11
+2026_UIT_ALWA_901561,NIT_69/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,77211140.92,772.11,25,2025-11-26
+2026_PWD_ALWA_577714,NIT_49/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,3616792.41,36.17,17,2025-11-27
+2026_PHED_ALWA_334665,NIT_28/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,838877.02,8.39,12,2025-10-18
+2026_PHED_ALWA_833599,NIT_95/ALW/2025-26,Public Health Engineering Department (Alwar Circle),Alwar,Jaipur Division,9758525.8,97.59,22,2025-04-16
+2026_PWD_ALWA_598424,NIT_24/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,431152.66,4.31,9,2025-08-23
+2026_UIT_ALWA_465549,NIT_87/ALW/2025-26,UIT Alwar,Alwar,Jaipur Division,13130559.96,131.31,16,2025-09-14
+2026_MEDIC_ALWA_780999,NIT_19/ALW/2025-26,Department of Medical Education (Alwar Circle),Alwar,Jaipur Division,4021616.02,40.22,16,2026-01-28
+2026_DLB_ALWA_350164,NIT_89/ALW/2025-26,Directorate of Local Bodies (Alwar Circle),Alwar,Jaipur Division,344952.85,3.45,14,2025-10-14
+2026_PWD_ALWA_457264,NIT_36/ALW/2025-26,Public Works Department (Alwar Circle),Alwar,Jaipur Division,801132.56,8.01,13,2026-01-16

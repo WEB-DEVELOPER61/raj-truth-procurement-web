@@ -1,0 +1,438 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_FORES_SAWA_523311,NIT_53/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,17887173.69,178.87,20,2026-02-09
+2026_DLB_SAWA_517006,NIT_81/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,378053.07,3.78,7,2025-10-07
+2026_DLB_SAWA_278667,NIT_30/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,406121.92,4.06,7,2025-11-18
+2026_UIT_SAWA_829393,NIT_97/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,441308.34,4.41,15,2025-07-29
+2026_WRD_SAWA_235252,NIT_50/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,522505.21,5.23,13,2025-11-02
+2026_FORES_SAWA_947930,NIT_31/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,416312.63,4.16,12,2025-12-21
+2026_PHED_SAWA_973663,NIT_93/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,219003.1,2.19,11,2025-07-15
+2026_PWD_SAWA_629979,NIT_65/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,458870.1,4.59,8,2025-12-06
+2026_WRD_SAWA_947320,NIT_28/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,66862569.54,668.63,35,2025-05-23
+2026_MEDIC_SAWA_679240,NIT_97/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,480311.75,4.8,14,2026-01-10
+2026_DLB_SAWA_285797,NIT_85/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,223662.59,2.24,12,2026-01-02
+2026_UIT_SAWA_172133,NIT_47/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,546036.1,5.46,14,2025-08-05
+2026_DLB_SAWA_369193,NIT_46/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,277900.28,2.78,8,2025-07-14
+2026_PWD_SAWA_922788,NIT_14/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,225927.41,2.26,7,2025-05-28
+2026_PWD_SAWA_115142,NIT_70/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,99300780.3,993.01,33,2025-05-08
+2026_PWD_SAWA_306793,NIT_54/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,937100.7,9.37,14,2025-11-21
+2026_DLB_SAWA_165624,NIT_19/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,723708.02,7.24,9,2025-04-30
+2026_WRD_SAWA_259397,NIT_81/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,503509.0,5.04,13,2026-03-02
+2026_UIT_SAWA_493943,NIT_41/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,336932.01,3.37,9,2025-04-10
+2026_WRD_SAWA_251666,NIT_56/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,453726.11,4.54,13,2025-09-18
+2026_PWD_SAWA_454588,NIT_40/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4271449.13,42.71,12,2025-12-19
+2026_PWD_SAWA_541025,NIT_93/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,223183.63,2.23,8,2025-10-15
+2026_MEDIC_SAWA_542925,NIT_63/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,241359.54,2.41,9,2025-12-30
+2026_WRD_SAWA_798821,NIT_57/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3997186.45,39.97,12,2026-01-15
+2026_WRD_SAWA_139498,NIT_62/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,271321.19,2.71,15,2025-06-11
+2026_UIT_SAWA_377800,NIT_14/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,784031.83,7.84,12,2025-05-25
+2026_WRD_SAWA_735778,NIT_72/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,47270995.61,472.71,37,2025-09-08
+2026_PHED_SAWA_444080,NIT_41/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,515728.65,5.16,12,2025-06-04
+2026_WRD_SAWA_295568,NIT_93/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4561533.69,45.62,18,2025-12-19
+2026_WRD_SAWA_612271,NIT_97/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,677171.8,6.77,8,2025-05-27
+2026_DLB_SAWA_512998,NIT_36/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,783379.54,7.83,13,2025-05-22
+2026_MEDIC_SAWA_788241,NIT_93/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,201886.66,2.02,11,2025-12-01
+2026_PHED_SAWA_674620,NIT_43/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,859860.89,8.6,12,2025-12-21
+2026_WRD_SAWA_448771,NIT_96/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,317383.69,3.17,15,2025-07-17
+2026_DLB_SAWA_298442,NIT_66/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,867874.25,8.68,7,2025-09-21
+2026_MEDIC_SAWA_726046,NIT_48/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,10271782.43,102.72,15,2026-01-19
+2026_PWD_SAWA_186275,NIT_69/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4785910.49,47.86,14,2026-02-07
+2026_FORES_SAWA_319177,NIT_77/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,290043.49,2.9,15,2025-11-18
+2026_PWD_SAWA_467286,NIT_87/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3805849.31,38.06,14,2025-12-04
+2026_PWD_SAWA_608298,NIT_53/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,12597745.32,125.98,22,2025-12-26
+2026_UIT_SAWA_675805,NIT_23/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,1396760.93,13.97,10,2026-03-07
+2026_WRD_SAWA_310439,NIT_41/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,548875.91,5.49,8,2026-02-08
+2026_UIT_SAWA_570175,NIT_79/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,11351157.93,113.51,16,2025-11-20
+2026_WRD_SAWA_608501,NIT_71/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,646127.93,6.46,10,2025-10-19
+2026_DLB_SAWA_948853,NIT_65/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,220452.08,2.2,13,2025-05-30
+2026_DLB_SAWA_840063,NIT_66/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,494343.13,4.94,8,2025-09-30
+2026_UIT_SAWA_594042,NIT_23/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,18569030.06,185.69,23,2025-06-12
+2026_PWD_SAWA_226981,NIT_66/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,12560905.37,125.61,22,2025-09-20
+2026_MEDIC_SAWA_613676,NIT_51/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,9352578.95,93.53,15,2025-06-20
+2026_PHED_SAWA_618751,NIT_86/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,346771.65,3.47,14,2025-09-02
+2026_MEDIC_SAWA_825043,NIT_77/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,9707910.27,97.08,18,2025-10-14
+2026_PHED_SAWA_541505,NIT_30/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,212130.37,2.12,13,2026-02-07
+2026_PHED_SAWA_205453,NIT_22/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,542650.96,5.43,12,2025-09-23
+2026_WRD_SAWA_934169,NIT_63/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,335933.94,3.36,11,2025-12-03
+2026_FORES_SAWA_699333,NIT_96/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,891917.77,8.92,10,2025-07-15
+2026_PHED_SAWA_538035,NIT_68/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1201221.86,12.01,13,2025-12-12
+2026_DLB_SAWA_171510,NIT_17/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,848771.32,8.49,10,2026-02-15
+2026_PHED_SAWA_185503,NIT_86/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,5346486.42,53.46,22,2025-04-01
+2026_PWD_SAWA_134004,NIT_41/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,763107.87,7.63,15,2026-01-16
+2026_WRD_SAWA_674725,NIT_12/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,340592.98,3.41,8,2025-04-03
+2026_PWD_SAWA_673124,NIT_16/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,6791243.29,67.91,21,2025-04-07
+2026_FORES_SAWA_979636,NIT_80/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,218193.78,2.18,15,2025-10-05
+2026_PWD_SAWA_642029,NIT_65/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4012830.68,40.13,16,2025-12-06
+2026_WRD_SAWA_698797,NIT_91/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2300792.33,23.01,18,2025-09-23
+2026_UIT_SAWA_753942,NIT_78/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,831605.08,8.32,10,2025-06-08
+2026_PHED_SAWA_580325,NIT_67/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2628744.84,26.29,13,2025-06-24
+2026_FORES_SAWA_525625,NIT_78/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,590936.95,5.91,8,2026-01-20
+2026_FORES_SAWA_972841,NIT_45/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,10510685.14,105.11,20,2025-04-05
+2026_FORES_SAWA_992760,NIT_78/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,859102.93,8.59,14,2025-06-26
+2026_FORES_SAWA_515618,NIT_88/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,487951.09,4.88,14,2025-08-25
+2026_WRD_SAWA_540104,NIT_51/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,688995.07,6.89,13,2025-04-02
+2026_PHED_SAWA_922087,NIT_93/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,314393.02,3.14,11,2026-01-08
+2026_PHED_SAWA_565776,NIT_89/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3790515.14,37.91,13,2025-11-04
+2026_MEDIC_SAWA_838777,NIT_87/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,65809603.41,658.1,34,2025-10-07
+2026_PWD_SAWA_341524,NIT_38/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4274111.19,42.74,11,2025-12-09
+2026_DLB_SAWA_255074,NIT_62/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,872951.81,8.73,8,2025-10-18
+2026_UIT_SAWA_395515,NIT_58/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,7692378.86,76.92,21,2025-05-28
+2026_WRD_SAWA_736575,NIT_85/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,551609.27,5.52,7,2026-02-23
+2026_UIT_SAWA_331842,NIT_73/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,2426319.28,24.26,13,2025-04-30
+2026_FORES_SAWA_343812,NIT_90/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3515189.01,35.15,11,2025-05-19
+2026_PWD_SAWA_252597,NIT_59/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,796316.88,7.96,8,2025-12-04
+2026_MEDIC_SAWA_789267,NIT_57/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,18547512.19,185.48,20,2025-06-13
+2026_PHED_SAWA_268191,NIT_87/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,602723.87,6.03,8,2026-03-08
+2026_UIT_SAWA_660358,NIT_97/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,2058194.59,20.58,10,2025-06-08
+2026_UIT_SAWA_477741,NIT_28/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,1167969.63,11.68,13,2025-08-25
+2026_DLB_SAWA_384702,NIT_78/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,14153319.0,141.53,19,2025-06-05
+2026_UIT_SAWA_475063,NIT_60/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,18325871.57,183.26,22,2025-07-30
+2026_MEDIC_SAWA_679885,NIT_12/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,829023.82,8.29,15,2025-09-23
+2026_UIT_SAWA_106135,NIT_88/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,3763003.65,37.63,15,2025-10-20
+2026_MEDIC_SAWA_497473,NIT_50/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,240635.83,2.41,9,2026-03-11
+2026_FORES_SAWA_403587,NIT_66/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,927392.82,9.27,9,2025-07-22
+2026_MEDIC_SAWA_658195,NIT_67/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,18971741.44,189.72,18,2026-01-27
+2026_MEDIC_SAWA_640986,NIT_17/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,10629254.91,106.29,20,2025-09-16
+2026_PWD_SAWA_974178,NIT_68/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,5269986.22,52.7,18,2025-05-04
+2026_DLB_SAWA_404916,NIT_87/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,661045.47,6.61,15,2025-05-01
+2026_MEDIC_SAWA_474956,NIT_13/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,11678463.07,116.78,15,2025-12-28
+2026_FORES_SAWA_713735,NIT_42/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,95056400.22,950.56,32,2025-05-19
+2026_MEDIC_SAWA_541569,NIT_88/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,305520.61,3.06,8,2026-03-10
+2026_PWD_SAWA_276425,NIT_25/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,169403.46,1.69,15,2025-09-10
+2026_MEDIC_SAWA_269461,NIT_39/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2836761.1,28.37,15,2026-01-12
+2026_WRD_SAWA_551091,NIT_68/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2991218.58,29.91,17,2025-06-21
+2026_PWD_SAWA_763053,NIT_67/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,84370663.36,843.71,35,2025-04-23
+2026_DLB_SAWA_447442,NIT_38/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,284221.42,2.84,15,2025-05-11
+2026_WRD_SAWA_957303,NIT_87/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1882471.08,18.82,14,2025-04-25
+2026_PWD_SAWA_789716,NIT_35/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3761107.92,37.61,17,2025-08-23
+2026_FORES_SAWA_532626,NIT_52/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,316548.21,3.17,12,2025-06-21
+2026_FORES_SAWA_149587,NIT_53/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,17481949.4,174.82,15,2025-08-16
+2026_FORES_SAWA_450778,NIT_74/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,159929.87,1.6,9,2026-01-02
+2026_MEDIC_SAWA_708655,NIT_36/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,188372.94,1.88,14,2025-10-02
+2026_WRD_SAWA_718595,NIT_55/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,761809.04,7.62,8,2025-06-27
+2026_MEDIC_SAWA_521092,NIT_95/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,615654.51,6.16,7,2025-06-26
+2026_WRD_SAWA_405397,NIT_30/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1224232.81,12.24,15,2025-04-12
+2026_DLB_SAWA_626398,NIT_14/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,6395298.13,63.95,19,2026-03-03
+2026_FORES_SAWA_224602,NIT_36/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,213118.85,2.13,15,2026-03-09
+2026_PWD_SAWA_309995,NIT_26/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,555870.73,5.56,11,2025-06-04
+2026_DLB_SAWA_607969,NIT_79/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,213396.47,2.13,13,2026-01-02
+2026_WRD_SAWA_796838,NIT_28/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2301875.69,23.02,18,2025-07-19
+2026_FORES_SAWA_206239,NIT_12/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,106253802.85,1062.54,36,2026-03-14
+2026_WRD_SAWA_759277,NIT_33/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1774472.51,17.74,15,2025-08-07
+2026_WRD_SAWA_995668,NIT_42/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1373596.77,13.74,11,2025-07-16
+2026_UIT_SAWA_455108,NIT_47/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,2435180.63,24.35,12,2025-11-13
+2026_PHED_SAWA_519997,NIT_24/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,588556.41,5.89,15,2025-09-05
+2026_FORES_SAWA_678618,NIT_82/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4359033.55,43.59,15,2026-01-15
+2026_MEDIC_SAWA_782217,NIT_74/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2449648.33,24.5,11,2025-11-20
+2026_DLB_SAWA_169323,NIT_25/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2093311.96,20.93,16,2025-09-09
+2026_FORES_SAWA_593415,NIT_87/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,7817447.85,78.17,16,2026-01-09
+2026_FORES_SAWA_600392,NIT_72/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3494932.15,34.95,15,2026-03-17
+2026_PWD_SAWA_631493,NIT_45/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3704834.5,37.05,13,2025-10-12
+2026_WRD_SAWA_553409,NIT_58/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,13631537.88,136.32,10,2025-09-04
+2026_PWD_SAWA_693290,NIT_58/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,102756496.61,1027.56,34,2025-10-30
+2026_PHED_SAWA_701666,NIT_97/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2741293.87,27.41,11,2025-08-13
+2026_PHED_SAWA_127568,NIT_87/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,740358.02,7.4,14,2025-11-16
+2026_FORES_SAWA_676558,NIT_80/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,871837.81,8.72,13,2025-04-02
+2026_PWD_SAWA_740277,NIT_36/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3329837.63,33.3,11,2025-12-10
+2026_MEDIC_SAWA_907294,NIT_64/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,234008.38,2.34,11,2026-01-29
+2026_WRD_SAWA_418754,NIT_44/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,216138.96,2.16,10,2026-03-03
+2026_MEDIC_SAWA_170525,NIT_27/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,626552.52,6.27,7,2025-08-13
+2026_PHED_SAWA_868136,NIT_22/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2108691.95,21.09,18,2025-04-11
+2026_PWD_SAWA_582062,NIT_49/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,872853.98,8.73,15,2025-07-21
+2026_DLB_SAWA_193635,NIT_29/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,705625.59,7.06,10,2025-06-11
+2026_DLB_SAWA_774728,NIT_46/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,651381.08,6.51,7,2025-12-10
+2026_PHED_SAWA_879403,NIT_97/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1059718.49,10.6,13,2025-12-02
+2026_WRD_SAWA_580783,NIT_54/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,306179.22,3.06,12,2025-12-12
+2026_DLB_SAWA_107735,NIT_57/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,358766.94,3.59,8,2025-10-08
+2026_PWD_SAWA_314774,NIT_56/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1973708.05,19.74,14,2026-03-20
+2026_FORES_SAWA_299429,NIT_34/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2998987.58,29.99,14,2025-05-31
+2026_UIT_SAWA_711056,NIT_48/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,615024.05,6.15,13,2025-07-20
+2026_UIT_SAWA_614022,NIT_80/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,1264113.55,12.64,15,2025-05-05
+2026_WRD_SAWA_762252,NIT_89/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,599099.32,5.99,14,2025-07-28
+2026_UIT_SAWA_185064,NIT_69/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,3994815.68,39.95,15,2025-05-22
+2026_WRD_SAWA_559674,NIT_64/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,267382.18,2.67,15,2025-10-16
+2026_DLB_SAWA_457114,NIT_19/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,495776.61,4.96,7,2025-05-16
+2026_UIT_SAWA_771736,NIT_86/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,3664784.43,36.65,16,2025-07-30
+2026_DLB_SAWA_116432,NIT_34/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1235035.66,12.35,11,2025-04-05
+2026_PHED_SAWA_329719,NIT_58/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,805066.67,8.05,8,2025-12-29
+2026_MEDIC_SAWA_275272,NIT_90/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,525460.01,5.25,14,2025-09-29
+2026_UIT_SAWA_558890,NIT_85/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,5387506.91,53.88,18,2025-06-14
+2026_PWD_SAWA_694673,NIT_87/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1385673.35,13.86,12,2025-05-11
+2026_WRD_SAWA_703870,NIT_53/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,450843.6,4.51,7,2026-03-17
+2026_MEDIC_SAWA_965041,NIT_28/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1934175.21,19.34,13,2025-07-02
+2026_MEDIC_SAWA_819991,NIT_30/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,293871.05,2.94,11,2026-03-03
+2026_UIT_SAWA_216036,NIT_43/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,880521.37,8.81,11,2025-10-24
+2026_DLB_SAWA_702483,NIT_52/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,781430.16,7.81,11,2025-05-26
+2026_MEDIC_SAWA_421325,NIT_92/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,878046.35,8.78,7,2025-10-12
+2026_UIT_SAWA_417330,NIT_34/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,589750.98,5.9,9,2025-11-11
+2026_WRD_SAWA_318731,NIT_56/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,169896.22,1.7,7,2025-04-05
+2026_UIT_SAWA_897050,NIT_39/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,755694.69,7.56,7,2025-05-02
+2026_UIT_SAWA_404639,NIT_16/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,632232.68,6.32,12,2025-11-04
+2026_PHED_SAWA_449744,NIT_77/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,647805.62,6.48,11,2026-03-23
+2026_WRD_SAWA_965786,NIT_51/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,311754.13,3.12,12,2025-09-26
+2026_MEDIC_SAWA_818007,NIT_89/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3061049.63,30.61,18,2025-09-30
+2026_PHED_SAWA_993053,NIT_49/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,353218.58,3.53,15,2025-10-08
+2026_UIT_SAWA_734396,NIT_13/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,4146155.39,41.46,17,2026-02-20
+2026_WRD_SAWA_698556,NIT_54/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,941279.94,9.41,13,2025-04-06
+2026_FORES_SAWA_631611,NIT_49/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,230530.08,2.31,11,2025-08-21
+2026_FORES_SAWA_884253,NIT_16/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3620792.78,36.21,15,2025-06-28
+2026_PHED_SAWA_474726,NIT_66/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,107486710.49,1074.87,33,2025-04-10
+2026_UIT_SAWA_110963,NIT_12/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,741951.45,7.42,14,2025-09-18
+2026_PHED_SAWA_939118,NIT_99/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,609781.6,6.1,12,2025-09-18
+2026_MEDIC_SAWA_255451,NIT_67/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2262910.46,22.63,16,2025-06-20
+2026_PHED_SAWA_875470,NIT_91/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,66375323.85,663.75,35,2025-05-31
+2026_MEDIC_SAWA_872877,NIT_84/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,119727327.63,1197.27,35,2025-12-15
+2026_FORES_SAWA_400579,NIT_22/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,488676.95,4.89,13,2025-12-02
+2026_UIT_SAWA_713544,NIT_57/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,805713.18,8.06,12,2025-05-11
+2026_PWD_SAWA_738820,NIT_11/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1301585.76,13.02,18,2025-08-10
+2026_UIT_SAWA_681843,NIT_66/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,4032314.34,40.32,10,2025-12-03
+2026_WRD_SAWA_962419,NIT_78/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1851793.59,18.52,17,2025-10-14
+2026_MEDIC_SAWA_944059,NIT_24/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,5636912.73,56.37,19,2025-12-01
+2026_PWD_SAWA_573116,NIT_38/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4398207.05,43.98,18,2025-11-02
+2026_UIT_SAWA_134886,NIT_76/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,824117.52,8.24,15,2025-07-03
+2026_PHED_SAWA_323334,NIT_52/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,853322.92,8.53,7,2026-01-28
+2026_UIT_SAWA_270601,NIT_55/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,3472481.08,34.72,13,2025-09-04
+2026_DLB_SAWA_434430,NIT_77/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,629860.95,6.3,13,2025-06-03
+2026_FORES_SAWA_731338,NIT_73/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,279846.36,2.8,14,2025-05-11
+2026_MEDIC_SAWA_333464,NIT_36/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,401699.23,4.02,15,2025-11-27
+2026_DLB_SAWA_717862,NIT_25/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,501478.39,5.01,7,2025-10-15
+2026_WRD_SAWA_284056,NIT_66/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,630244.18,6.3,9,2025-08-07
+2026_UIT_SAWA_763974,NIT_94/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,7527475.42,75.27,17,2025-05-18
+2026_PWD_SAWA_204452,NIT_95/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,451668.36,4.52,8,2025-06-03
+2026_DLB_SAWA_518862,NIT_82/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,356699.29,3.57,9,2025-12-10
+2026_DLB_SAWA_794676,NIT_35/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,160952.91,1.61,12,2025-04-21
+2026_PWD_SAWA_415590,NIT_14/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,235376.53,2.35,12,2025-12-25
+2026_PWD_SAWA_939015,NIT_67/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,83472281.88,834.72,38,2025-06-06
+2026_PHED_SAWA_716167,NIT_44/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,14997656.41,149.98,17,2026-03-18
+2026_PHED_SAWA_761046,NIT_20/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,366789.76,3.67,8,2025-07-30
+2026_PWD_SAWA_350469,NIT_76/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3227765.95,32.28,11,2025-06-22
+2026_DLB_SAWA_465019,NIT_13/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,194706.5,1.95,12,2025-08-29
+2026_PWD_SAWA_537958,NIT_39/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,31715306.56,317.15,35,2025-05-20
+2026_PWD_SAWA_702439,NIT_69/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,286617.08,2.87,14,2026-03-08
+2026_PHED_SAWA_829520,NIT_66/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,905751.77,9.06,3,2026-02-23
+2026_WRD_SAWA_965800,NIT_25/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4475457.45,44.75,14,2026-01-23
+2026_UIT_SAWA_619234,NIT_36/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,12176840.16,121.77,15,2025-06-21
+2026_DLB_SAWA_198792,NIT_35/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,804373.29,8.04,14,2026-03-02
+2026_FORES_SAWA_253003,NIT_51/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1729716.07,17.3,13,2025-05-28
+2026_FORES_SAWA_680748,NIT_66/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,817675.09,8.18,7,2025-08-25
+2026_WRD_SAWA_159688,NIT_35/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,16079241.41,160.79,19,2025-04-28
+2026_PHED_SAWA_915196,NIT_42/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,532536.01,5.33,11,2025-11-19
+2026_UIT_SAWA_468462,NIT_86/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,14307376.7,143.07,18,2025-07-23
+2026_PWD_SAWA_556196,NIT_87/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,477629.01,4.78,10,2026-01-12
+2026_UIT_SAWA_282643,NIT_94/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,164234.07,1.64,7,2025-04-05
+2026_FORES_SAWA_145734,NIT_79/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,60374754.05,603.75,36,2026-02-13
+2026_FORES_SAWA_862783,NIT_45/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,93082750.45,930.83,38,2025-07-04
+2026_WRD_SAWA_695778,NIT_54/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1501690.9,15.02,11,2025-04-08
+2026_DLB_SAWA_662585,NIT_93/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,607126.54,6.07,7,2026-03-14
+2026_WRD_SAWA_700675,NIT_41/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,187604.3,1.88,15,2025-07-28
+2026_FORES_SAWA_128202,NIT_23/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,474634.21,4.75,15,2025-09-15
+2026_FORES_SAWA_578201,NIT_71/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,370256.43,3.7,10,2025-04-10
+2026_UIT_SAWA_868446,NIT_69/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,2372742.51,23.73,18,2026-03-23
+2026_WRD_SAWA_793012,NIT_74/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,772965.86,7.73,9,2025-07-21
+2026_PWD_SAWA_350826,NIT_80/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2798126.65,27.98,12,2025-10-08
+2026_PWD_SAWA_885033,NIT_51/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3065498.54,30.65,17,2025-12-23
+2026_DLB_SAWA_237361,NIT_96/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,273815.79,2.74,15,2026-01-16
+2026_PWD_SAWA_403215,NIT_97/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1221774.02,12.22,16,2025-09-24
+2026_PWD_SAWA_178626,NIT_88/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1566490.33,15.66,15,2025-07-20
+2026_PWD_SAWA_459522,NIT_69/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3453897.16,34.54,13,2025-07-29
+2026_MEDIC_SAWA_827675,NIT_12/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,192358.97,1.92,11,2025-09-20
+2026_DLB_SAWA_998543,NIT_71/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3119847.37,31.2,17,2025-09-28
+2026_WRD_SAWA_514754,NIT_48/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,159168.28,1.59,7,2025-08-04
+2026_DLB_SAWA_973436,NIT_32/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,500379.96,5.0,10,2026-01-22
+2026_DLB_SAWA_459891,NIT_88/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3235036.47,32.35,12,2026-03-18
+2026_FORES_SAWA_164995,NIT_63/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4797490.03,47.97,17,2026-01-30
+2026_PWD_SAWA_656291,NIT_97/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,383515.77,3.84,3,2025-12-31
+2026_FORES_SAWA_604567,NIT_69/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1829971.31,18.3,15,2026-02-13
+2026_PWD_SAWA_283530,NIT_14/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,86181693.49,861.82,31,2025-08-21
+2026_MEDIC_SAWA_175254,NIT_61/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,721412.66,7.21,14,2025-09-12
+2026_FORES_SAWA_882758,NIT_66/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,8841494.1,88.41,17,2025-04-22
+2026_PWD_SAWA_772479,NIT_79/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2036656.52,20.37,16,2026-01-13
+2026_FORES_SAWA_547228,NIT_44/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2452228.5,24.52,14,2026-03-02
+2026_DLB_SAWA_542031,NIT_70/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,279212.91,2.79,12,2025-10-03
+2026_WRD_SAWA_634533,NIT_71/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,257373.78,2.57,9,2025-08-29
+2026_FORES_SAWA_549772,NIT_71/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,8321801.79,83.22,21,2025-11-20
+2026_MEDIC_SAWA_892452,NIT_81/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,368230.73,3.68,12,2025-04-13
+2026_MEDIC_SAWA_641170,NIT_27/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,806889.81,8.07,9,2025-05-27
+2026_DLB_SAWA_450110,NIT_90/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2817954.1,28.18,18,2025-07-16
+2026_PWD_SAWA_167391,NIT_80/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,928468.65,9.28,14,2025-06-27
+2026_PHED_SAWA_353736,NIT_18/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3708435.83,37.08,11,2025-07-25
+2026_WRD_SAWA_681538,NIT_31/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2908644.57,29.09,17,2026-03-05
+2026_DLB_SAWA_920927,NIT_83/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,14014975.15,140.15,16,2025-12-01
+2026_PWD_SAWA_603282,NIT_16/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3297460.13,32.97,17,2025-10-30
+2026_WRD_SAWA_109169,NIT_72/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,550496.81,5.5,10,2025-10-18
+2026_DLB_SAWA_585553,NIT_18/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,339542.96,3.4,12,2025-04-23
+2026_PHED_SAWA_536152,NIT_45/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4581987.14,45.82,18,2025-11-13
+2026_UIT_SAWA_296414,NIT_38/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,576886.86,5.77,13,2026-03-09
+2026_MEDIC_SAWA_528397,NIT_19/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,55155821.54,551.56,30,2025-10-29
+2026_UIT_SAWA_858405,NIT_49/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,1682008.36,16.82,11,2026-01-11
+2026_PWD_SAWA_677545,NIT_24/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,667777.6,6.68,13,2025-11-04
+2026_UIT_SAWA_663975,NIT_13/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,13666313.09,136.66,23,2025-10-25
+2026_PWD_SAWA_878543,NIT_40/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,750409.55,7.5,9,2025-06-17
+2026_PHED_SAWA_416889,NIT_83/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,773807.2,7.74,14,2026-01-18
+2026_PWD_SAWA_635393,NIT_41/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1996767.41,19.97,10,2025-12-27
+2026_PWD_SAWA_395435,NIT_33/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,13633045.82,136.33,15,2025-08-05
+2026_UIT_SAWA_372183,NIT_86/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,349873.2,3.5,10,2025-04-23
+2026_WRD_SAWA_883508,NIT_59/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,550182.13,5.5,8,2025-04-30
+2026_UIT_SAWA_291111,NIT_36/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,202508.5,2.03,10,2026-03-15
+2026_MEDIC_SAWA_107210,NIT_74/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,912604.26,9.13,8,2026-02-06
+2026_PHED_SAWA_542590,NIT_46/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,617896.61,6.18,10,2025-10-12
+2026_UIT_SAWA_419226,NIT_16/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,884474.54,8.84,7,2025-12-16
+2026_PHED_SAWA_457043,NIT_72/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4650260.2,46.5,10,2025-04-25
+2026_FORES_SAWA_270617,NIT_63/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,7606332.99,76.06,16,2025-06-04
+2026_DLB_SAWA_617360,NIT_99/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,841125.1,8.41,10,2025-10-24
+2026_PHED_SAWA_423091,NIT_77/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,697645.54,6.98,11,2025-12-17
+2026_WRD_SAWA_515365,NIT_25/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,18560368.29,185.6,16,2025-11-28
+2026_UIT_SAWA_513672,NIT_15/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,2684716.64,26.85,15,2025-08-11
+2026_PHED_SAWA_126447,NIT_22/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,6765053.88,67.65,17,2025-05-17
+2026_WRD_SAWA_534685,NIT_25/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,219446.38,2.19,15,2025-07-13
+2026_MEDIC_SAWA_222118,NIT_37/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,907633.38,9.08,10,2025-05-31
+2026_WRD_SAWA_323044,NIT_14/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,493678.61,4.94,3,2026-02-16
+2026_FORES_SAWA_310366,NIT_30/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1966810.05,19.67,11,2026-03-09
+2026_PHED_SAWA_153839,NIT_20/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,391264.87,3.91,10,2025-09-27
+2026_WRD_SAWA_396025,NIT_59/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1581604.7,15.82,17,2026-03-07
+2026_WRD_SAWA_117528,NIT_25/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,703538.53,7.04,8,2025-08-30
+2026_FORES_SAWA_323190,NIT_55/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,468576.25,4.69,12,2025-05-05
+2026_WRD_SAWA_961504,NIT_45/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1122093.32,11.22,16,2025-07-20
+2026_PWD_SAWA_879399,NIT_25/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,377027.07,3.77,8,2025-10-24
+2026_WRD_SAWA_741726,NIT_78/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3554257.6,35.54,16,2025-11-19
+2026_WRD_SAWA_551982,NIT_75/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,370956.18,3.71,7,2025-10-25
+2026_UIT_SAWA_908400,NIT_26/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,448744.78,4.49,11,2025-10-03
+2026_MEDIC_SAWA_327575,NIT_13/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,649725.46,6.5,11,2026-03-14
+2026_MEDIC_SAWA_640403,NIT_30/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,355665.12,3.56,7,2025-12-09
+2026_PWD_SAWA_239894,NIT_79/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,914783.44,9.15,8,2026-01-23
+2026_WRD_SAWA_507527,NIT_35/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1894594.7,18.95,15,2026-02-18
+2026_WRD_SAWA_750643,NIT_50/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,17613998.6,176.14,18,2025-05-22
+2026_WRD_SAWA_913887,NIT_78/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,214364.37,2.14,12,2026-02-15
+2026_FORES_SAWA_812616,NIT_21/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,680441.73,6.8,8,2025-04-15
+2026_WRD_SAWA_166684,NIT_30/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,35631929.5,356.32,34,2025-08-23
+2026_PWD_SAWA_976606,NIT_31/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,281517.21,2.82,7,2025-12-18
+2026_PWD_SAWA_224170,NIT_25/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,617496.38,6.17,12,2025-06-16
+2026_PWD_SAWA_103298,NIT_11/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,620726.87,6.21,13,2025-09-25
+2026_UIT_SAWA_544333,NIT_75/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,2251930.75,22.52,18,2025-07-11
+2026_WRD_SAWA_389481,NIT_70/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,561024.11,5.61,14,2025-06-02
+2026_PHED_SAWA_603018,NIT_66/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3457377.04,34.57,17,2025-05-04
+2026_FORES_SAWA_132790,NIT_90/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,490341.71,4.9,15,2025-09-22
+2026_PHED_SAWA_565078,NIT_62/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,586860.02,5.87,8,2025-10-17
+2026_MEDIC_SAWA_629713,NIT_49/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,895596.83,8.96,9,2025-04-23
+2026_DLB_SAWA_772025,NIT_62/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3262361.52,32.62,17,2025-11-24
+2026_WRD_SAWA_434776,NIT_47/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3852951.0,38.53,17,2025-06-30
+2026_PHED_SAWA_796712,NIT_63/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,743743.94,7.44,14,2026-01-03
+2026_WRD_SAWA_519215,NIT_69/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,576866.76,5.77,8,2025-08-03
+2026_WRD_SAWA_132822,NIT_79/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3417012.54,34.17,14,2025-05-20
+2026_PWD_SAWA_702805,NIT_12/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,7087337.0,70.87,9,2026-03-13
+2026_PWD_SAWA_161035,NIT_53/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,712810.39,7.13,15,2025-07-30
+2026_FORES_SAWA_941327,NIT_96/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4413773.27,44.14,15,2025-04-20
+2026_PHED_SAWA_562661,NIT_48/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,678659.22,6.79,3,2025-04-07
+2026_MEDIC_SAWA_611693,NIT_29/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,196822.56,1.97,13,2026-02-20
+2026_WRD_SAWA_939365,NIT_83/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,164549.31,1.65,15,2025-07-01
+2026_WRD_SAWA_157520,NIT_65/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2572875.91,25.73,16,2025-08-23
+2026_DLB_SAWA_989060,NIT_73/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,583692.38,5.84,13,2025-12-16
+2026_PWD_SAWA_313905,NIT_99/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,17073729.88,170.74,19,2025-05-22
+2026_UIT_SAWA_565873,NIT_43/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,4139673.48,41.4,13,2026-03-19
+2026_WRD_SAWA_483369,NIT_74/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,13165255.88,131.65,6,2025-07-21
+2026_UIT_SAWA_589259,NIT_45/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,204012.59,2.04,14,2025-06-17
+2026_MEDIC_SAWA_212231,NIT_32/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,263052.02,2.63,15,2025-11-13
+2026_WRD_SAWA_653257,NIT_66/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,58289101.58,582.89,34,2025-06-15
+2026_UIT_SAWA_869327,NIT_45/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,2885435.91,28.85,13,2025-12-31
+2026_MEDIC_SAWA_263577,NIT_69/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,18503557.89,185.04,15,2025-05-27
+2026_PHED_SAWA_336469,NIT_46/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,320039.82,3.2,11,2025-07-04
+2026_WRD_SAWA_932797,NIT_89/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,430277.5,4.3,13,2026-02-25
+2026_MEDIC_SAWA_415997,NIT_63/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3273313.12,32.73,13,2025-07-24
+2026_UIT_SAWA_710890,NIT_73/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,739612.69,7.4,8,2025-05-03
+2026_DLB_SAWA_736525,NIT_22/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1985156.51,19.85,11,2025-11-07
+2026_DLB_SAWA_463776,NIT_89/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,582139.21,5.82,14,2025-04-20
+2026_DLB_SAWA_176394,NIT_16/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,769513.32,7.7,12,2025-08-11
+2026_PWD_SAWA_922962,NIT_98/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,686743.63,6.87,11,2025-07-06
+2026_UIT_SAWA_906362,NIT_47/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,578557.29,5.79,8,2026-01-11
+2026_PHED_SAWA_747863,NIT_60/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,349397.81,3.49,11,2025-05-04
+2026_UIT_SAWA_518639,NIT_29/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,4213666.69,42.14,12,2025-06-19
+2026_DLB_SAWA_622217,NIT_84/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,641237.09,6.41,8,2026-02-21
+2026_DLB_SAWA_970109,NIT_63/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,219411.4,2.19,15,2025-07-30
+2026_FORES_SAWA_196445,NIT_21/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,11276289.39,112.76,19,2025-07-11
+2026_PHED_SAWA_915204,NIT_83/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,254563.47,2.55,13,2025-07-01
+2026_PHED_SAWA_537243,NIT_94/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,545880.03,5.46,14,2025-04-05
+2026_MEDIC_SAWA_125415,NIT_25/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3719287.63,37.19,11,2025-10-16
+2026_UIT_SAWA_781635,NIT_41/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,16327198.86,163.27,15,2025-10-05
+2026_PHED_SAWA_902538,NIT_48/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,655145.17,6.55,10,2026-01-10
+2026_PHED_SAWA_477180,NIT_16/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,645947.38,6.46,9,2025-05-17
+2026_WRD_SAWA_998859,NIT_77/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3808606.64,38.09,15,2025-05-23
+2026_PWD_SAWA_927661,NIT_25/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,883957.95,8.84,9,2025-05-19
+2026_FORES_SAWA_855830,NIT_55/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2262958.41,22.63,13,2025-06-06
+2026_UIT_SAWA_595795,NIT_86/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,104669327.2,1046.69,37,2025-05-19
+2026_WRD_SAWA_928259,NIT_52/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,92882281.94,928.82,32,2025-06-30
+2026_PHED_SAWA_324501,NIT_70/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,183063.13,1.83,7,2026-02-02
+2026_WRD_SAWA_163028,NIT_79/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,151565.05,1.52,14,2025-05-24
+2026_UIT_SAWA_812730,NIT_11/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,32680719.46,326.81,35,2026-02-09
+2026_PWD_SAWA_708702,NIT_80/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,763365.36,7.63,14,2025-04-30
+2026_FORES_SAWA_946538,NIT_37/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,524654.16,5.25,11,2025-04-05
+2026_MEDIC_SAWA_976991,NIT_27/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,4087244.74,40.87,14,2025-11-02
+2026_PWD_SAWA_509029,NIT_46/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,884859.26,8.85,10,2025-07-22
+2026_UIT_SAWA_569147,NIT_52/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,417644.51,4.18,12,2025-04-29
+2026_UIT_SAWA_783938,NIT_31/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,11274362.0,112.74,22,2025-05-04
+2026_MEDIC_SAWA_966188,NIT_74/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,367487.19,3.67,10,2025-08-18
+2026_PWD_SAWA_332661,NIT_14/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,498672.55,4.99,15,2025-12-14
+2026_PHED_SAWA_769064,NIT_89/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,307072.28,3.07,13,2026-03-08
+2026_PHED_SAWA_903497,NIT_11/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3922397.91,39.22,16,2025-05-04
+2026_WRD_SAWA_490267,NIT_90/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,452305.49,4.52,7,2025-06-25
+2026_DLB_SAWA_623525,NIT_15/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,277378.33,2.77,8,2025-09-26
+2026_PHED_SAWA_657178,NIT_82/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2764381.68,27.64,18,2025-08-20
+2026_DLB_SAWA_890186,NIT_47/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,10412384.53,104.12,20,2025-04-04
+2026_WRD_SAWA_128879,NIT_90/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,311101.36,3.11,7,2026-02-06
+2026_PHED_SAWA_506381,NIT_24/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,7560211.86,75.6,4,2025-12-06
+2026_DLB_SAWA_477747,NIT_14/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,249023.27,2.49,15,2026-02-19
+2026_PWD_SAWA_937537,NIT_91/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2772522.5,27.73,12,2025-05-17
+2026_PHED_SAWA_188897,NIT_28/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,830934.27,8.31,11,2025-06-17
+2026_WRD_SAWA_182073,NIT_32/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,397258.81,3.97,10,2026-01-17
+2026_PWD_SAWA_816266,NIT_42/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3980609.26,39.81,11,2025-06-30
+2026_PHED_SAWA_828287,NIT_45/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,466054.93,4.66,13,2026-02-08
+2026_FORES_SAWA_822425,NIT_64/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,530726.25,5.31,13,2025-04-08
+2026_PHED_SAWA_827454,NIT_52/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,491719.29,4.92,8,2025-09-20
+2026_WRD_SAWA_517388,NIT_26/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1668692.57,16.69,11,2025-09-05
+2026_UIT_SAWA_967395,NIT_22/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,912460.95,9.12,9,2025-11-23
+2026_UIT_SAWA_481310,NIT_58/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,447092.48,4.47,8,2026-02-12
+2026_UIT_SAWA_736373,NIT_55/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,580511.52,5.81,7,2025-05-12
+2026_PHED_SAWA_306155,NIT_90/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,429496.79,4.29,14,2025-12-14
+2026_FORES_SAWA_516548,NIT_45/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,698408.73,6.98,9,2025-07-08
+2026_UIT_SAWA_992929,NIT_54/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,643153.5,6.43,12,2025-10-25
+2026_DLB_SAWA_678684,NIT_70/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,873447.82,8.73,11,2025-06-05
+2026_DLB_SAWA_729489,NIT_72/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,326886.25,3.27,12,2025-11-30
+2026_WRD_SAWA_232255,NIT_63/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3292409.26,32.92,13,2025-08-12
+2026_WRD_SAWA_466052,NIT_94/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1806123.48,18.06,10,2025-09-09
+2026_PWD_SAWA_303396,NIT_79/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,6337021.01,63.37,8,2025-09-24
+2026_PWD_SAWA_501939,NIT_40/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,398455.13,3.98,12,2025-09-17
+2026_PWD_SAWA_234573,NIT_35/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,97438396.04,974.38,36,2025-08-19
+2026_PHED_SAWA_666645,NIT_86/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,284256.48,2.84,8,2025-11-06
+2026_PWD_SAWA_998394,NIT_53/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,21550968.78,215.51,35,2025-04-03
+2026_DLB_SAWA_285706,NIT_38/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,568594.51,5.69,12,2025-08-28
+2026_PHED_SAWA_671123,NIT_66/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,411780.59,4.12,10,2025-04-10
+2026_UIT_SAWA_818140,NIT_98/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,380819.87,3.81,7,2025-12-11
+2026_FORES_SAWA_183939,NIT_11/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,347261.42,3.47,9,2025-06-03
+2026_PWD_SAWA_501896,NIT_54/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,8246399.49,82.46,16,2025-09-14
+2026_MEDIC_SAWA_444918,NIT_89/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2570538.7,25.71,13,2026-01-01
+2026_WRD_SAWA_402862,NIT_54/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,69516143.49,695.16,25,2025-09-08
+2026_WRD_SAWA_654930,NIT_94/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3365392.17,33.65,15,2025-05-09
+2026_DLB_SAWA_584453,NIT_53/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,165084.69,1.65,12,2025-10-27
+2026_PWD_SAWA_497880,NIT_58/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,372473.46,3.72,11,2025-07-21
+2026_PHED_SAWA_804139,NIT_47/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,80745623.23,807.46,38,2025-12-22
+2026_UIT_SAWA_971628,NIT_94/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,3809239.48,38.09,15,2025-04-08
+2026_FORES_SAWA_120170,NIT_99/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1087820.32,10.88,5,2025-07-19
+2026_DLB_SAWA_822240,NIT_69/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,213256.2,2.13,14,2025-12-17
+2026_FORES_SAWA_706376,NIT_60/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,332423.18,3.32,13,2025-11-21
+2026_DLB_SAWA_201926,NIT_56/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,23008961.95,230.09,32,2025-10-20
+2026_MEDIC_SAWA_233882,NIT_31/SAW/2025-26,Department of Medical Education (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,279011.83,2.79,12,2025-07-06
+2026_UIT_SAWA_739265,NIT_75/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,328904.44,3.29,12,2025-04-05
+2026_PWD_SAWA_591812,NIT_90/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,527074.54,5.27,13,2025-07-19
+2026_PWD_SAWA_270303,NIT_13/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,2004676.01,20.05,18,2025-09-26
+2026_UIT_SAWA_577958,NIT_40/SAW/2025-26,Municipal Council Sawai Madhopur,Sawai Madhopur,Bharatpur Division,508110.0,5.08,13,2025-12-19
+2026_FORES_SAWA_383098,NIT_62/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,636450.16,6.36,12,2025-05-13
+2026_FORES_SAWA_294680,NIT_18/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,566827.41,5.67,9,2025-08-28
+2026_PWD_SAWA_429602,NIT_93/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,699270.61,6.99,9,2026-03-15
+2026_WRD_SAWA_352359,NIT_28/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,519171.43,5.19,12,2026-02-05
+2026_PHED_SAWA_231743,NIT_80/SAW/2025-26,Public Health Engineering Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,247018.32,2.47,11,2025-10-18
+2026_DLB_SAWA_826574,NIT_16/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,109856488.27,1098.56,37,2026-01-23
+2026_PWD_SAWA_253018,NIT_39/SAW/2025-26,Public Works Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,33088924.29,330.89,31,2026-03-27
+2026_DLB_SAWA_598452,NIT_55/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,914300.1,9.14,12,2025-11-29
+2026_FORES_SAWA_130246,NIT_26/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,1944982.38,19.45,18,2025-07-23
+2026_FORES_SAWA_295632,NIT_89/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,3052406.76,30.52,12,2025-08-04
+2026_WRD_SAWA_912138,NIT_80/SAW/2025-26,Water Resources Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,696175.09,6.96,7,2026-01-03
+2026_FORES_SAWA_171155,NIT_18/SAW/2025-26,Forest Department (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,624936.05,6.25,12,2025-04-12
+2026_DLB_SAWA_902875,NIT_50/SAW/2025-26,Directorate of Local Bodies (Sawai Madhopur Circle),Sawai Madhopur,Bharatpur Division,589933.23,5.9,12,2026-02-04

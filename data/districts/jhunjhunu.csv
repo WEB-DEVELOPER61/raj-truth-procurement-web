@@ -1,0 +1,423 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_PHED_JHUN_860541,NIT_86/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,940841.1,9.41,12,2025-06-08
+2026_WRD_JHUN_432963,NIT_92/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,779576.71,7.8,13,2026-02-26
+2026_UIT_JHUN_402467,NIT_13/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,1908787.58,19.09,15,2025-08-03
+2026_PHED_JHUN_665509,NIT_16/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4449870.22,44.5,13,2026-03-18
+2026_FORES_JHUN_854452,NIT_38/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,636450.56,6.36,12,2025-07-03
+2026_DLB_JHUN_760374,NIT_10/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,201693.5,2.02,10,2025-04-27
+2026_FORES_JHUN_248407,NIT_36/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,250448.8,2.5,15,2025-07-14
+2026_PHED_JHUN_632073,NIT_20/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2648399.31,26.48,12,2025-07-11
+2026_PHED_JHUN_544613,NIT_32/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3321942.13,33.22,17,2026-02-20
+2026_PHED_JHUN_385066,NIT_71/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,214012.78,2.14,13,2025-10-11
+2026_PHED_JHUN_593578,NIT_66/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,11033222.15,110.33,17,2025-12-03
+2026_PWD_JHUN_898940,NIT_58/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,11098082.56,110.98,7,2026-01-30
+2026_MEDIC_JHUN_260221,NIT_80/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3774930.88,37.75,17,2025-09-04
+2026_DLB_JHUN_396983,NIT_58/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,12957560.99,129.58,22,2025-07-10
+2026_PHED_JHUN_298837,NIT_10/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,160267.42,1.6,12,2025-12-08
+2026_DLB_JHUN_536019,NIT_60/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,926394.11,9.26,14,2025-09-05
+2026_FORES_JHUN_716886,NIT_19/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,477030.07,4.77,8,2025-10-15
+2026_MEDIC_JHUN_270249,NIT_34/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,760360.68,7.6,12,2025-12-17
+2026_FORES_JHUN_612357,NIT_91/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,700791.52,7.01,13,2025-11-04
+2026_FORES_JHUN_358779,NIT_41/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,11792612.7,117.93,15,2026-03-24
+2026_FORES_JHUN_776681,NIT_28/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,359064.56,3.59,9,2025-08-09
+2026_PHED_JHUN_731399,NIT_84/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,911422.6,9.11,7,2025-05-30
+2026_UIT_JHUN_196789,NIT_92/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,719287.57,7.19,8,2025-12-22
+2026_PHED_JHUN_543489,NIT_31/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,16650544.0,166.51,23,2026-03-04
+2026_DLB_JHUN_714549,NIT_49/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,737146.75,7.37,8,2025-05-26
+2026_FORES_JHUN_700426,NIT_54/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,801382.42,8.01,10,2025-10-21
+2026_FORES_JHUN_423066,NIT_10/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,939620.39,9.4,7,2025-05-20
+2026_PWD_JHUN_911329,NIT_99/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,484271.68,4.84,11,2025-11-07
+2026_PHED_JHUN_284970,NIT_57/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,39453603.84,394.54,38,2025-05-27
+2026_DLB_JHUN_694639,NIT_37/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,39378166.14,393.78,8,2025-07-08
+2026_WRD_JHUN_528649,NIT_66/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,651469.9,6.51,9,2025-05-11
+2026_WRD_JHUN_189870,NIT_58/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,33343476.34,333.43,3,2026-01-25
+2026_PHED_JHUN_601111,NIT_72/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3573017.22,35.73,10,2025-08-15
+2026_UIT_JHUN_107577,NIT_95/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,13237747.19,132.38,23,2025-04-04
+2026_DLB_JHUN_732275,NIT_76/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,939517.47,9.4,14,2025-11-29
+2026_UIT_JHUN_453401,NIT_87/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,493562.9,4.94,12,2025-09-09
+2026_UIT_JHUN_351235,NIT_56/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,682062.63,6.82,7,2025-09-30
+2026_UIT_JHUN_446297,NIT_22/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,1061567.49,10.62,16,2025-06-11
+2026_PWD_JHUN_731147,NIT_25/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,845204.23,8.45,10,2025-10-06
+2026_DLB_JHUN_748388,NIT_97/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,677100.88,6.77,13,2026-03-05
+2026_PHED_JHUN_103281,NIT_91/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,916037.71,9.16,7,2026-02-19
+2026_WRD_JHUN_147976,NIT_51/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3592235.32,35.92,17,2025-10-22
+2026_FORES_JHUN_742349,NIT_20/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,428667.17,4.29,14,2026-03-04
+2026_UIT_JHUN_833478,NIT_22/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,3803541.54,38.04,13,2025-06-13
+2026_UIT_JHUN_645316,NIT_83/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,98701332.41,987.01,37,2025-05-15
+2026_WRD_JHUN_972786,NIT_96/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,947043.79,9.47,14,2025-06-26
+2026_DLB_JHUN_221297,NIT_71/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3534907.91,35.35,13,2025-06-27
+2026_UIT_JHUN_791792,NIT_99/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,221545.45,2.22,7,2025-06-22
+2026_WRD_JHUN_502118,NIT_45/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,8241189.28,82.41,16,2026-03-07
+2026_PHED_JHUN_660509,NIT_91/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,730331.53,7.3,12,2025-07-24
+2026_MEDIC_JHUN_903562,NIT_86/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1292501.36,12.93,16,2026-03-01
+2026_FORES_JHUN_923218,NIT_81/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,18534222.36,185.34,19,2025-05-30
+2026_WRD_JHUN_191939,NIT_24/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,29824803.25,298.25,31,2026-01-19
+2026_WRD_JHUN_233606,NIT_50/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4627757.32,46.28,10,2025-09-07
+2026_PWD_JHUN_718722,NIT_78/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,301886.14,3.02,13,2025-09-11
+2026_UIT_JHUN_482755,NIT_96/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,4552219.37,45.52,13,2025-05-25
+2026_DLB_JHUN_109634,NIT_78/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,16962595.95,169.63,19,2025-07-22
+2026_DLB_JHUN_813011,NIT_68/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1602845.09,16.03,10,2026-02-01
+2026_WRD_JHUN_423896,NIT_74/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,942268.09,9.42,14,2026-02-18
+2026_UIT_JHUN_326183,NIT_73/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,9222632.45,92.23,20,2025-06-18
+2026_UIT_JHUN_851583,NIT_36/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,4230262.31,42.3,13,2026-03-25
+2026_FORES_JHUN_155119,NIT_32/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4262920.49,42.63,14,2026-03-04
+2026_UIT_JHUN_266926,NIT_12/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,588354.33,5.88,14,2025-09-26
+2026_UIT_JHUN_510373,NIT_60/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,1319337.08,13.19,14,2026-03-23
+2026_PHED_JHUN_835165,NIT_80/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,465017.96,4.65,7,2025-09-03
+2026_DLB_JHUN_786433,NIT_30/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3214340.28,32.14,17,2025-08-28
+2026_PHED_JHUN_319955,NIT_37/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,793486.75,7.93,7,2025-10-03
+2026_FORES_JHUN_997729,NIT_83/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1432304.41,14.32,12,2025-10-10
+2026_DLB_JHUN_812449,NIT_31/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,112672548.34,1126.73,18,2025-07-01
+2026_PWD_JHUN_223047,NIT_75/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,670078.24,6.7,9,2026-02-16
+2026_FORES_JHUN_523618,NIT_41/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,24365289.95,243.65,32,2026-03-01
+2026_FORES_JHUN_493605,NIT_98/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,942931.17,9.43,8,2025-11-24
+2026_UIT_JHUN_957939,NIT_93/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,10472992.69,104.73,15,2025-06-01
+2026_PWD_JHUN_186651,NIT_25/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2884569.15,28.85,18,2025-07-25
+2026_PWD_JHUN_715357,NIT_83/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4752560.01,47.53,11,2026-01-29
+2026_PHED_JHUN_502611,NIT_71/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4799828.22,48.0,14,2026-01-18
+2026_PHED_JHUN_204271,NIT_51/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,6076276.56,60.76,17,2025-10-25
+2026_UIT_JHUN_834781,NIT_12/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,465037.24,4.65,15,2025-12-07
+2026_PWD_JHUN_644107,NIT_84/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,581185.43,5.81,8,2025-07-16
+2026_FORES_JHUN_223025,NIT_33/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4282512.91,42.83,10,2026-01-10
+2026_DLB_JHUN_939398,NIT_50/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,6898025.18,68.98,17,2025-05-15
+2026_MEDIC_JHUN_369232,NIT_14/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1367288.73,13.67,14,2025-10-04
+2026_MEDIC_JHUN_279938,NIT_64/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4714136.62,47.14,13,2025-09-01
+2026_PWD_JHUN_644675,NIT_47/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,677326.06,6.77,14,2026-03-22
+2026_WRD_JHUN_648055,NIT_55/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,13565175.44,135.65,15,2025-07-31
+2026_PWD_JHUN_297209,NIT_28/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,389767.38,3.9,9,2026-02-03
+2026_MEDIC_JHUN_326534,NIT_85/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,437252.13,4.37,13,2025-05-09
+2026_MEDIC_JHUN_367352,NIT_43/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,455425.85,4.55,13,2025-11-20
+2026_PWD_JHUN_366526,NIT_96/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,490274.69,4.9,15,2025-07-14
+2026_PWD_JHUN_760150,NIT_44/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,946287.42,9.46,10,2025-10-08
+2026_MEDIC_JHUN_789247,NIT_92/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,806406.57,8.06,13,2025-06-18
+2026_WRD_JHUN_926051,NIT_65/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2471032.13,24.71,13,2025-05-10
+2026_WRD_JHUN_230674,NIT_78/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,237992.11,2.38,8,2025-09-16
+2026_FORES_JHUN_193296,NIT_56/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,877396.31,8.77,9,2025-07-25
+2026_WRD_JHUN_110342,NIT_22/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,451724.79,4.52,13,2025-05-24
+2026_UIT_JHUN_229502,NIT_32/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,571180.54,5.71,14,2025-05-19
+2026_MEDIC_JHUN_465848,NIT_99/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,607726.46,6.08,11,2026-02-06
+2026_PWD_JHUN_150293,NIT_31/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,404397.11,4.04,9,2025-09-24
+2026_UIT_JHUN_877306,NIT_96/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,4680001.06,46.8,16,2025-12-01
+2026_MEDIC_JHUN_233769,NIT_43/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1085615.51,10.86,12,2026-03-03
+2026_PHED_JHUN_249600,NIT_58/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3178352.91,31.78,15,2025-08-06
+2026_FORES_JHUN_738271,NIT_63/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,715429.41,7.15,12,2025-11-26
+2026_MEDIC_JHUN_400752,NIT_45/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,912093.06,9.12,10,2025-09-04
+2026_FORES_JHUN_999595,NIT_21/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,18274874.15,182.75,16,2026-02-19
+2026_PWD_JHUN_180418,NIT_40/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,905893.56,9.06,7,2025-05-14
+2026_FORES_JHUN_399736,NIT_80/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,893671.21,8.94,7,2025-11-04
+2026_FORES_JHUN_633392,NIT_27/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,533724.76,5.34,15,2026-03-24
+2026_PWD_JHUN_525167,NIT_11/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,643029.29,6.43,7,2025-11-04
+2026_FORES_JHUN_660280,NIT_54/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,345381.0,3.45,15,2026-03-17
+2026_MEDIC_JHUN_144413,NIT_87/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,508921.63,5.09,15,2025-07-25
+2026_PHED_JHUN_178771,NIT_56/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4197783.51,41.98,10,2025-11-03
+2026_DLB_JHUN_497509,NIT_31/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,448626.96,4.49,10,2026-01-02
+2026_UIT_JHUN_903643,NIT_25/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,2137742.77,21.38,14,2025-07-19
+2026_PWD_JHUN_873876,NIT_90/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3183157.29,31.83,14,2026-02-24
+2026_MEDIC_JHUN_965837,NIT_14/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,18108718.51,181.09,15,2025-09-30
+2026_PWD_JHUN_745430,NIT_68/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2282069.25,22.82,10,2025-09-27
+2026_FORES_JHUN_295200,NIT_61/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,56098700.06,560.99,18,2025-07-11
+2026_PWD_JHUN_654797,NIT_75/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,868807.97,8.69,14,2025-04-04
+2026_PHED_JHUN_906824,NIT_94/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,350107.8,3.5,12,2025-09-01
+2026_WRD_JHUN_549148,NIT_33/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,579141.91,5.79,14,2026-03-03
+2026_UIT_JHUN_560698,NIT_30/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,1574529.01,15.75,10,2025-10-01
+2026_UIT_JHUN_843670,NIT_35/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,6727185.88,67.27,21,2025-09-17
+2026_PWD_JHUN_268099,NIT_95/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,309193.54,3.09,11,2025-05-31
+2026_DLB_JHUN_612824,NIT_80/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,12038832.82,120.39,21,2025-12-13
+2026_FORES_JHUN_877931,NIT_59/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,255134.14,2.55,7,2025-06-04
+2026_PHED_JHUN_460836,NIT_74/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,5388355.58,53.88,20,2025-11-06
+2026_MEDIC_JHUN_873253,NIT_11/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,497462.81,4.97,14,2025-05-13
+2026_UIT_JHUN_549788,NIT_41/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,644090.53,6.44,9,2025-08-06
+2026_WRD_JHUN_903972,NIT_24/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,841333.44,8.41,10,2026-03-08
+2026_UIT_JHUN_550005,NIT_35/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,529114.26,5.29,8,2026-03-25
+2026_FORES_JHUN_626735,NIT_88/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,294950.6,2.95,9,2025-07-27
+2026_PWD_JHUN_238722,NIT_61/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,180693.15,1.81,9,2025-11-05
+2026_PWD_JHUN_746412,NIT_35/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,6454908.94,64.55,9,2025-12-25
+2026_WRD_JHUN_834169,NIT_91/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,934099.47,9.34,13,2025-12-02
+2026_PWD_JHUN_634630,NIT_64/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,665098.52,6.65,11,2025-10-04
+2026_WRD_JHUN_468075,NIT_63/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1976132.39,19.76,12,2025-04-21
+2026_PWD_JHUN_154662,NIT_94/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3842830.14,38.43,17,2025-08-22
+2026_MEDIC_JHUN_205656,NIT_65/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,297872.0,2.98,12,2025-09-19
+2026_WRD_JHUN_216946,NIT_22/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,685158.03,6.85,9,2025-09-17
+2026_WRD_JHUN_877301,NIT_56/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,744345.62,7.44,12,2025-07-31
+2026_FORES_JHUN_389351,NIT_36/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,617461.77,6.17,8,2025-06-06
+2026_FORES_JHUN_878659,NIT_87/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1501328.8,15.01,13,2025-07-08
+2026_FORES_JHUN_567423,NIT_22/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,209903.68,2.1,12,2025-09-02
+2026_FORES_JHUN_597233,NIT_35/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,576846.04,5.77,9,2025-07-08
+2026_DLB_JHUN_677236,NIT_42/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4393449.95,43.93,18,2025-09-25
+2026_WRD_JHUN_570267,NIT_90/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,723860.7,7.24,8,2025-12-04
+2026_DLB_JHUN_649205,NIT_74/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4015819.4,40.16,14,2026-03-23
+2026_PHED_JHUN_403726,NIT_15/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,914642.34,9.15,10,2025-10-21
+2026_DLB_JHUN_817953,NIT_78/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,107155316.28,1071.55,38,2025-10-14
+2026_MEDIC_JHUN_917230,NIT_59/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,470679.17,4.71,9,2025-04-02
+2026_PHED_JHUN_699678,NIT_37/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,13371156.02,133.71,11,2025-11-20
+2026_MEDIC_JHUN_842133,NIT_77/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2020629.82,20.21,14,2025-08-16
+2026_MEDIC_JHUN_224888,NIT_31/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,329143.56,3.29,11,2025-04-21
+2026_FORES_JHUN_255335,NIT_45/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4527179.84,45.27,10,2026-02-23
+2026_PHED_JHUN_963408,NIT_36/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,73924897.49,739.25,14,2026-02-18
+2026_MEDIC_JHUN_487040,NIT_51/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1362173.09,13.62,18,2025-08-14
+2026_FORES_JHUN_240101,NIT_62/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,17597033.48,175.97,15,2025-09-30
+2026_PHED_JHUN_865960,NIT_45/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,7638946.3,76.39,16,2026-03-19
+2026_DLB_JHUN_785584,NIT_42/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,846020.63,8.46,15,2025-07-15
+2026_UIT_JHUN_563664,NIT_38/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,409410.42,4.09,13,2025-06-19
+2026_DLB_JHUN_342979,NIT_65/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2432400.03,24.32,11,2025-12-10
+2026_PHED_JHUN_581705,NIT_33/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,802478.39,8.02,14,2025-07-02
+2026_FORES_JHUN_395744,NIT_12/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,9480211.05,94.8,18,2025-05-06
+2026_PHED_JHUN_175548,NIT_64/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,8584502.92,85.85,16,2025-12-26
+2026_PHED_JHUN_862067,NIT_11/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,632634.81,6.33,7,2025-05-27
+2026_UIT_JHUN_114210,NIT_92/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,897742.19,8.98,8,2025-08-16
+2026_PHED_JHUN_757860,NIT_86/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1100613.39,11.01,11,2026-01-03
+2026_FORES_JHUN_958002,NIT_53/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,832176.17,8.32,9,2025-12-02
+2026_UIT_JHUN_690192,NIT_66/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,16453415.93,164.53,18,2025-04-29
+2026_MEDIC_JHUN_825657,NIT_44/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,651988.68,6.52,7,2025-05-23
+2026_MEDIC_JHUN_411152,NIT_23/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2968284.06,29.68,12,2025-04-01
+2026_PHED_JHUN_125166,NIT_39/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,491708.35,4.92,11,2025-07-25
+2026_FORES_JHUN_503433,NIT_97/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4365839.68,43.66,11,2025-12-08
+2026_PHED_JHUN_215485,NIT_38/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,231389.0,2.31,12,2025-05-10
+2026_MEDIC_JHUN_449935,NIT_25/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2401850.66,24.02,11,2025-04-23
+2026_MEDIC_JHUN_258442,NIT_32/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,492902.72,4.93,9,2026-03-14
+2026_DLB_JHUN_257517,NIT_95/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3626852.69,36.27,14,2025-09-26
+2026_PWD_JHUN_384261,NIT_73/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,14331897.67,143.32,16,2025-04-02
+2026_UIT_JHUN_255863,NIT_93/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,267271.27,2.67,14,2025-12-01
+2026_UIT_JHUN_170583,NIT_24/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,612274.3,6.12,11,2025-06-14
+2026_PWD_JHUN_438746,NIT_26/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,295497.87,2.95,12,2025-12-10
+2026_DLB_JHUN_604667,NIT_98/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4698183.25,46.98,15,2025-06-10
+2026_UIT_JHUN_785720,NIT_41/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,2486944.54,24.87,18,2025-12-30
+2026_DLB_JHUN_658339,NIT_78/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,807123.36,8.07,13,2025-12-26
+2026_MEDIC_JHUN_914316,NIT_98/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,799033.67,7.99,8,2025-07-30
+2026_WRD_JHUN_103005,NIT_36/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,945124.25,9.45,15,2025-11-29
+2026_PHED_JHUN_215507,NIT_17/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4467607.23,44.68,12,2025-08-29
+2026_DLB_JHUN_251141,NIT_80/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,927455.68,9.27,10,2025-07-17
+2026_UIT_JHUN_335496,NIT_17/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,94952540.71,949.53,25,2026-03-27
+2026_PHED_JHUN_495796,NIT_13/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,706898.03,7.07,7,2026-03-26
+2026_PWD_JHUN_794940,NIT_84/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1326638.61,13.27,12,2025-04-16
+2026_PHED_JHUN_482986,NIT_28/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,213194.63,2.13,13,2025-06-16
+2026_UIT_JHUN_291285,NIT_70/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,744846.35,7.45,11,2025-11-27
+2026_DLB_JHUN_857656,NIT_53/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2714901.14,27.15,10,2025-08-25
+2026_PWD_JHUN_263459,NIT_17/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4354339.28,43.54,12,2025-12-14
+2026_PHED_JHUN_111395,NIT_60/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,103435329.35,1034.35,38,2025-08-11
+2026_MEDIC_JHUN_626251,NIT_49/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,717482.25,7.17,9,2025-08-18
+2026_PWD_JHUN_646833,NIT_58/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,932341.03,9.32,10,2025-10-23
+2026_MEDIC_JHUN_158716,NIT_38/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2521091.09,25.21,18,2026-02-04
+2026_UIT_JHUN_180959,NIT_98/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,2806635.36,28.07,16,2025-10-12
+2026_PHED_JHUN_157327,NIT_57/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,667317.76,6.67,8,2025-05-24
+2026_PWD_JHUN_480320,NIT_87/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,773037.81,7.73,10,2025-08-23
+2026_PHED_JHUN_667875,NIT_23/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,202255.33,2.02,11,2025-07-06
+2026_MEDIC_JHUN_311524,NIT_91/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,18022986.34,180.23,15,2026-01-14
+2026_UIT_JHUN_607308,NIT_15/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,188439.12,1.88,11,2025-04-05
+2026_WRD_JHUN_888193,NIT_46/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,916991.22,9.17,12,2025-10-18
+2026_FORES_JHUN_473122,NIT_26/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,712125.45,7.12,13,2025-12-14
+2026_PWD_JHUN_626570,NIT_29/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,168948.25,1.69,14,2026-01-26
+2026_UIT_JHUN_993415,NIT_14/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,382095.5,3.82,14,2025-05-11
+2026_FORES_JHUN_197822,NIT_39/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,857521.65,8.58,9,2025-06-22
+2026_MEDIC_JHUN_641380,NIT_87/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,671115.93,6.71,12,2025-11-16
+2026_UIT_JHUN_237570,NIT_53/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,9213613.94,92.14,15,2026-03-16
+2026_DLB_JHUN_350725,NIT_36/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,947607.6,9.48,9,2026-01-16
+2026_FORES_JHUN_621690,NIT_22/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,793781.16,7.94,11,2026-01-06
+2026_UIT_JHUN_936116,NIT_21/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,12084989.2,120.85,19,2025-06-22
+2026_PWD_JHUN_393724,NIT_83/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2412481.0,24.12,12,2025-11-22
+2026_WRD_JHUN_596250,NIT_42/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,760517.1,7.61,9,2025-06-03
+2026_MEDIC_JHUN_611976,NIT_15/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,440777.69,4.41,13,2026-02-12
+2026_FORES_JHUN_235249,NIT_66/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,443385.81,4.43,12,2025-10-09
+2026_PWD_JHUN_815339,NIT_62/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2947284.11,29.47,10,2026-02-12
+2026_FORES_JHUN_159830,NIT_41/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,90274784.31,902.75,31,2025-08-27
+2026_DLB_JHUN_265890,NIT_82/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2547301.58,25.47,16,2025-11-23
+2026_FORES_JHUN_198045,NIT_54/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2797040.99,27.97,17,2025-05-26
+2026_PWD_JHUN_289030,NIT_23/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4490476.32,44.9,16,2025-07-12
+2026_DLB_JHUN_444688,NIT_18/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,403827.89,4.04,14,2025-07-18
+2026_FORES_JHUN_877293,NIT_70/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,241461.15,2.41,15,2025-06-19
+2026_DLB_JHUN_252582,NIT_91/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1850513.03,18.51,16,2025-05-02
+2026_UIT_JHUN_479052,NIT_65/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,117877521.55,1178.78,30,2026-03-17
+2026_DLB_JHUN_382956,NIT_42/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,658549.83,6.59,8,2025-08-19
+2026_DLB_JHUN_185678,NIT_48/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4326659.59,43.27,16,2025-12-25
+2026_PHED_JHUN_802173,NIT_43/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,297262.63,2.97,13,2025-09-23
+2026_UIT_JHUN_411327,NIT_31/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,308884.25,3.09,14,2025-11-30
+2026_MEDIC_JHUN_822291,NIT_30/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,922471.87,9.22,13,2025-04-06
+2026_MEDIC_JHUN_921110,NIT_86/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,308847.98,3.09,9,2025-09-13
+2026_FORES_JHUN_963506,NIT_50/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1103200.42,11.03,12,2025-12-12
+2026_UIT_JHUN_431777,NIT_24/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,783613.46,7.84,11,2025-12-23
+2026_FORES_JHUN_103855,NIT_67/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4587464.04,45.87,17,2026-02-22
+2026_MEDIC_JHUN_202179,NIT_14/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1869835.39,18.7,16,2026-03-23
+2026_MEDIC_JHUN_912000,NIT_31/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,13493018.36,134.93,18,2026-03-14
+2026_MEDIC_JHUN_115069,NIT_57/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,801023.48,8.01,11,2025-12-14
+2026_UIT_JHUN_230804,NIT_99/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,549304.53,5.49,13,2025-10-28
+2026_WRD_JHUN_469320,NIT_79/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,490679.36,4.91,12,2025-05-29
+2026_PHED_JHUN_581111,NIT_64/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,57939027.16,579.39,36,2025-10-13
+2026_WRD_JHUN_986142,NIT_94/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,14701999.05,147.02,16,2025-05-15
+2026_UIT_JHUN_977904,NIT_23/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,221710.35,2.22,13,2025-05-24
+2026_DLB_JHUN_886372,NIT_89/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,17995758.95,179.96,10,2025-12-14
+2026_MEDIC_JHUN_945016,NIT_14/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,684168.11,6.84,10,2025-07-24
+2026_UIT_JHUN_576713,NIT_80/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,2479049.37,24.79,17,2025-06-03
+2026_WRD_JHUN_932308,NIT_69/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,480347.79,4.8,13,2025-04-04
+2026_WRD_JHUN_920192,NIT_38/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2953353.05,29.53,14,2025-09-05
+2026_UIT_JHUN_933762,NIT_63/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,688640.65,6.89,2,2025-04-17
+2026_PWD_JHUN_127521,NIT_29/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,16109039.77,161.09,20,2025-09-19
+2026_PHED_JHUN_699982,NIT_65/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1956866.67,19.57,13,2026-02-10
+2026_FORES_JHUN_512423,NIT_16/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4054993.67,40.55,12,2026-02-20
+2026_DLB_JHUN_863481,NIT_32/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,472495.22,4.72,9,2025-11-10
+2026_PHED_JHUN_204415,NIT_26/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,553405.64,5.53,13,2026-02-16
+2026_WRD_JHUN_978012,NIT_80/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,277242.54,2.77,8,2025-05-18
+2026_PWD_JHUN_558669,NIT_11/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,653115.3,6.53,7,2026-02-11
+2026_FORES_JHUN_670081,NIT_20/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,607435.07,6.07,9,2025-11-19
+2026_FORES_JHUN_762177,NIT_55/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,7774461.36,77.74,18,2025-12-31
+2026_UIT_JHUN_357167,NIT_58/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,3938968.45,39.39,14,2025-05-13
+2026_PHED_JHUN_757916,NIT_12/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,660709.26,6.61,8,2025-05-27
+2026_DLB_JHUN_724840,NIT_25/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,235661.32,2.36,9,2025-05-18
+2026_PWD_JHUN_618253,NIT_56/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,880175.3,8.8,8,2025-12-08
+2026_UIT_JHUN_123023,NIT_62/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,1325909.89,13.26,11,2025-07-17
+2026_FORES_JHUN_540304,NIT_58/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,861770.82,8.62,14,2025-06-22
+2026_PHED_JHUN_413267,NIT_11/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,17670206.75,176.7,15,2025-05-31
+2026_WRD_JHUN_463629,NIT_71/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,945932.84,9.46,7,2025-06-21
+2026_MEDIC_JHUN_877725,NIT_42/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,112731734.75,1127.32,30,2025-12-22
+2026_MEDIC_JHUN_897925,NIT_29/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,8185030.1,81.85,15,2025-09-15
+2026_PHED_JHUN_330436,NIT_20/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,732195.12,7.32,11,2025-08-19
+2026_DLB_JHUN_308915,NIT_21/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,10010036.64,100.1,22,2025-11-10
+2026_MEDIC_JHUN_519369,NIT_34/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,350074.52,3.5,11,2025-10-19
+2026_PWD_JHUN_711999,NIT_85/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,9499874.79,95.0,22,2025-11-08
+2026_DLB_JHUN_544320,NIT_86/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,747663.42,7.48,8,2026-02-05
+2026_DLB_JHUN_550167,NIT_35/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,13026560.08,130.27,16,2025-11-17
+2026_PHED_JHUN_135399,NIT_75/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,8692278.52,86.92,23,2025-09-28
+2026_DLB_JHUN_131394,NIT_24/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,7682678.46,76.83,20,2025-08-04
+2026_PWD_JHUN_325636,NIT_94/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2443726.11,24.44,15,2025-06-02
+2026_PWD_JHUN_434064,NIT_98/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,158720.82,1.59,14,2026-01-16
+2026_UIT_JHUN_437181,NIT_39/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,599312.47,5.99,10,2025-12-26
+2026_PHED_JHUN_207919,NIT_81/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,372438.77,3.72,8,2026-01-19
+2026_FORES_JHUN_542237,NIT_97/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,754960.96,7.55,12,2025-07-11
+2026_PHED_JHUN_152072,NIT_73/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2919941.13,29.2,16,2025-06-01
+2026_PWD_JHUN_574779,NIT_31/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,631144.54,6.31,10,2026-01-21
+2026_PWD_JHUN_398882,NIT_12/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,84722994.24,847.23,37,2025-08-24
+2026_PHED_JHUN_982526,NIT_61/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1188780.73,11.89,18,2025-04-21
+2026_WRD_JHUN_776096,NIT_12/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,6158466.78,61.58,9,2025-09-02
+2026_WRD_JHUN_432597,NIT_54/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,470275.47,4.7,12,2025-12-09
+2026_MEDIC_JHUN_149359,NIT_60/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,9318524.64,93.19,16,2025-10-09
+2026_MEDIC_JHUN_207734,NIT_13/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,8291398.13,82.91,20,2026-03-19
+2026_FORES_JHUN_556846,NIT_38/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,286153.16,2.86,12,2026-01-01
+2026_PWD_JHUN_821673,NIT_16/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2023828.84,20.24,11,2025-04-25
+2026_WRD_JHUN_178687,NIT_43/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2284983.65,22.85,16,2025-08-17
+2026_FORES_JHUN_278612,NIT_27/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,616762.56,6.17,12,2025-06-15
+2026_UIT_JHUN_712505,NIT_62/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,659522.92,6.6,15,2025-12-27
+2026_PHED_JHUN_705956,NIT_71/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,679015.18,6.79,12,2025-12-04
+2026_PHED_JHUN_196258,NIT_43/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,762961.59,7.63,12,2026-01-11
+2026_UIT_JHUN_354149,NIT_94/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,667707.42,6.68,8,2025-05-09
+2026_DLB_JHUN_163194,NIT_37/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,160502.49,1.61,13,2025-07-06
+2026_DLB_JHUN_209612,NIT_53/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,316929.17,3.17,15,2025-12-20
+2026_UIT_JHUN_428580,NIT_49/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,716809.89,7.17,15,2025-05-25
+2026_PHED_JHUN_329412,NIT_56/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,59171999.13,591.72,33,2025-10-22
+2026_PHED_JHUN_171973,NIT_45/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,488475.19,4.88,8,2025-06-15
+2026_DLB_JHUN_212379,NIT_24/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,44815683.68,448.16,30,2025-11-30
+2026_FORES_JHUN_656673,NIT_67/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,431565.46,4.32,15,2025-05-14
+2026_WRD_JHUN_552432,NIT_37/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,270496.04,2.7,15,2025-09-18
+2026_PWD_JHUN_562779,NIT_44/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,445824.54,4.46,13,2025-11-03
+2026_PHED_JHUN_408287,NIT_34/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,472153.68,4.72,15,2026-02-06
+2026_DLB_JHUN_643810,NIT_65/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,237347.65,2.37,10,2025-05-27
+2026_PHED_JHUN_220783,NIT_16/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4406469.23,44.06,13,2025-05-04
+2026_MEDIC_JHUN_205939,NIT_45/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,331172.01,3.31,13,2025-10-18
+2026_DLB_JHUN_206225,NIT_38/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3802216.4,38.02,14,2025-12-10
+2026_PHED_JHUN_279337,NIT_36/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2353624.17,23.54,14,2025-04-02
+2026_PWD_JHUN_294069,NIT_74/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,876225.95,8.76,11,2026-03-19
+2026_PHED_JHUN_278501,NIT_50/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,695153.99,6.95,12,2025-11-20
+2026_PHED_JHUN_113353,NIT_95/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2829752.59,28.3,12,2025-08-14
+2026_PWD_JHUN_279018,NIT_96/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,758208.6,7.58,3,2025-11-29
+2026_MEDIC_JHUN_101055,NIT_72/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,848574.83,8.49,7,2025-04-09
+2026_MEDIC_JHUN_813080,NIT_47/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,103700544.09,1037.01,32,2025-05-19
+2026_PWD_JHUN_419398,NIT_52/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,512093.08,5.12,15,2025-08-10
+2026_FORES_JHUN_610125,NIT_42/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2416084.99,24.16,6,2025-09-02
+2026_FORES_JHUN_449950,NIT_76/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,97678103.26,976.78,37,2025-05-28
+2026_WRD_JHUN_819096,NIT_76/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,732572.43,7.33,13,2025-07-22
+2026_FORES_JHUN_248513,NIT_55/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,548265.79,5.48,13,2025-10-02
+2026_PHED_JHUN_880523,NIT_21/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,305073.69,3.05,8,2025-08-19
+2026_FORES_JHUN_811774,NIT_79/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,869377.11,8.69,15,2025-06-29
+2026_WRD_JHUN_812052,NIT_54/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,860395.92,8.6,13,2025-08-20
+2026_WRD_JHUN_299829,NIT_15/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3223188.12,32.23,11,2025-11-08
+2026_UIT_JHUN_577131,NIT_82/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,924522.43,9.25,11,2025-05-27
+2026_PWD_JHUN_623162,NIT_97/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,267704.87,2.68,15,2025-08-27
+2026_MEDIC_JHUN_685253,NIT_95/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,37098075.45,370.98,34,2025-04-08
+2026_DLB_JHUN_142942,NIT_37/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,9105638.72,91.06,19,2025-04-03
+2026_DLB_JHUN_469366,NIT_94/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4177912.69,41.78,12,2025-09-27
+2026_WRD_JHUN_923408,NIT_74/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,682260.8,6.82,9,2025-05-15
+2026_FORES_JHUN_383816,NIT_28/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4784678.46,47.85,11,2025-08-27
+2026_PHED_JHUN_133697,NIT_70/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,896347.81,8.96,13,2025-11-03
+2026_DLB_JHUN_202905,NIT_43/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,886155.3,8.86,9,2026-01-14
+2026_DLB_JHUN_811902,NIT_51/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,793504.2,7.94,10,2025-08-07
+2026_PHED_JHUN_536535,NIT_80/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,7953419.82,79.53,22,2026-01-05
+2026_PHED_JHUN_494228,NIT_65/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,226833.84,2.27,12,2025-12-14
+2026_FORES_JHUN_847213,NIT_55/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,524703.1,5.25,13,2025-10-28
+2026_DLB_JHUN_129017,NIT_81/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,171137.7,1.71,8,2025-06-11
+2026_MEDIC_JHUN_417078,NIT_41/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,614257.93,6.14,15,2026-01-15
+2026_WRD_JHUN_156136,NIT_60/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,6937914.6,69.38,23,2025-11-22
+2026_UIT_JHUN_156986,NIT_20/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,1255097.83,12.55,11,2025-09-18
+2026_MEDIC_JHUN_202130,NIT_47/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3170412.75,31.7,10,2025-06-02
+2026_FORES_JHUN_713015,NIT_96/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,558656.7,5.59,10,2025-12-21
+2026_PHED_JHUN_689351,NIT_73/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,259122.2,2.59,9,2025-09-02
+2026_FORES_JHUN_425992,NIT_10/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,794493.48,7.94,10,2025-05-29
+2026_PWD_JHUN_100037,NIT_29/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,633032.53,6.33,8,2025-08-05
+2026_PHED_JHUN_208639,NIT_70/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,169725.11,1.7,13,2025-04-29
+2026_PWD_JHUN_414492,NIT_61/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2863948.23,28.64,13,2026-01-05
+2026_WRD_JHUN_961600,NIT_88/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,695056.36,6.95,8,2025-11-08
+2026_PHED_JHUN_767101,NIT_12/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,297846.28,2.98,10,2025-06-27
+2026_MEDIC_JHUN_877691,NIT_99/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,587344.82,5.87,11,2025-08-27
+2026_FORES_JHUN_204878,NIT_85/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,544371.31,5.44,13,2025-10-15
+2026_FORES_JHUN_938708,NIT_23/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,521170.96,5.21,9,2025-04-15
+2026_WRD_JHUN_579285,NIT_25/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,76856699.33,768.57,12,2025-04-18
+2026_FORES_JHUN_782017,NIT_94/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,13754295.18,137.54,8,2025-06-11
+2026_DLB_JHUN_858188,NIT_68/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,48413499.88,484.13,38,2025-07-17
+2026_WRD_JHUN_840530,NIT_77/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,462499.46,4.62,9,2025-09-28
+2026_FORES_JHUN_854145,NIT_82/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,421432.86,4.21,9,2025-08-21
+2026_UIT_JHUN_899652,NIT_94/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,392343.91,3.92,14,2025-10-10
+2026_DLB_JHUN_735271,NIT_94/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,294299.63,2.94,15,2026-03-04
+2026_MEDIC_JHUN_371818,NIT_26/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,14829208.14,148.29,21,2025-05-05
+2026_PWD_JHUN_130955,NIT_30/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,335363.45,3.35,14,2026-03-14
+2026_DLB_JHUN_439381,NIT_39/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,935062.72,9.35,10,2025-05-24
+2026_PHED_JHUN_863534,NIT_59/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,754651.1,7.55,8,2025-05-02
+2026_MEDIC_JHUN_362651,NIT_24/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,179934.62,1.8,14,2025-10-09
+2026_MEDIC_JHUN_761959,NIT_13/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4513315.67,45.13,17,2025-10-11
+2026_PHED_JHUN_768357,NIT_83/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,595174.58,5.95,14,2025-11-11
+2026_FORES_JHUN_399986,NIT_38/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,310954.19,3.11,15,2025-07-08
+2026_PWD_JHUN_710384,NIT_13/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,653292.53,6.53,10,2025-04-18
+2026_UIT_JHUN_247390,NIT_10/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,437648.8,4.38,15,2025-05-07
+2026_WRD_JHUN_294305,NIT_97/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3787414.18,37.87,18,2025-12-11
+2026_PHED_JHUN_972837,NIT_36/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,13071106.96,130.71,23,2025-06-10
+2026_UIT_JHUN_170416,NIT_66/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,63323663.14,633.24,31,2025-06-05
+2026_UIT_JHUN_642372,NIT_48/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,1428423.76,14.28,10,2026-02-02
+2026_MEDIC_JHUN_446994,NIT_12/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,329216.98,3.29,11,2025-10-17
+2026_FORES_JHUN_475290,NIT_18/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4321659.51,43.22,14,2025-05-09
+2026_MEDIC_JHUN_703304,NIT_40/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,832556.17,8.33,15,2025-09-07
+2026_DLB_JHUN_748696,NIT_17/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,586753.3,5.87,14,2025-08-13
+2026_FORES_JHUN_131434,NIT_14/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,9865024.35,98.65,15,2025-06-11
+2026_PHED_JHUN_673662,NIT_52/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,889339.41,8.89,7,2025-07-30
+2026_DLB_JHUN_176453,NIT_82/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,17679669.34,176.8,15,2025-09-25
+2026_PWD_JHUN_536459,NIT_86/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,741431.51,7.41,15,2025-12-02
+2026_PHED_JHUN_383648,NIT_15/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1440229.56,14.4,13,2026-02-27
+2026_WRD_JHUN_552476,NIT_71/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2187818.82,21.88,13,2025-04-11
+2026_PWD_JHUN_127633,NIT_35/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,12571764.88,125.72,15,2026-01-08
+2026_DLB_JHUN_154673,NIT_59/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3921305.68,39.21,16,2026-03-26
+2026_DLB_JHUN_676239,NIT_27/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1483437.0,14.83,15,2025-09-28
+2026_PHED_JHUN_459793,NIT_65/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,884454.87,8.84,8,2026-01-27
+2026_PWD_JHUN_338158,NIT_62/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,747980.55,7.48,15,2026-01-16
+2026_PWD_JHUN_940713,NIT_11/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,848604.65,8.49,7,2025-05-10
+2026_PWD_JHUN_232871,NIT_66/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1727225.54,17.27,15,2026-02-03
+2026_FORES_JHUN_356108,NIT_47/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,253773.0,2.54,8,2026-03-03
+2026_PWD_JHUN_180088,NIT_42/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,4568888.03,45.69,15,2025-07-22
+2026_DLB_JHUN_847775,NIT_48/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,903141.59,9.03,11,2026-03-01
+2026_PHED_JHUN_652436,NIT_44/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,405087.16,4.05,8,2025-04-28
+2026_WRD_JHUN_530790,NIT_89/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2873278.86,28.73,12,2025-12-23
+2026_PHED_JHUN_419751,NIT_80/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,318615.71,3.19,9,2025-04-19
+2026_PHED_JHUN_832264,NIT_66/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,669926.47,6.7,8,2025-04-11
+2026_DLB_JHUN_976950,NIT_14/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,366238.86,3.66,11,2025-05-14
+2026_PWD_JHUN_392649,NIT_88/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,59009689.73,590.1,15,2025-10-14
+2026_DLB_JHUN_146573,NIT_38/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1821487.95,18.21,16,2025-12-29
+2026_PWD_JHUN_792482,NIT_49/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,175044.88,1.75,7,2026-02-06
+2026_UIT_JHUN_452550,NIT_43/JHU/2025-26,Municipal Council Jhunjhunu,Jhunjhunu,Jaipur Division,798194.95,7.98,7,2025-09-22
+2026_FORES_JHUN_969520,NIT_89/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,497260.81,4.97,7,2025-05-26
+2026_MEDIC_JHUN_506963,NIT_96/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2127819.29,21.28,18,2025-11-24
+2026_DLB_JHUN_700417,NIT_82/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3933796.32,39.34,16,2025-11-26
+2026_FORES_JHUN_349799,NIT_26/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,876170.08,8.76,11,2025-05-14
+2026_PHED_JHUN_908807,NIT_79/JHU/2025-26,Public Health Engineering Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,386659.93,3.87,7,2026-02-10
+2026_WRD_JHUN_479264,NIT_44/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,677383.95,6.77,7,2025-06-03
+2026_WRD_JHUN_696053,NIT_94/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,2253710.22,22.54,12,2025-11-14
+2026_DLB_JHUN_118105,NIT_66/JHU/2025-26,Directorate of Local Bodies (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,1083265.13,10.83,15,2025-12-02
+2026_FORES_JHUN_985339,NIT_81/JHU/2025-26,Forest Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,324274.0,3.24,8,2025-08-20
+2026_MEDIC_JHUN_678235,NIT_50/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,912634.63,9.13,11,2025-08-20
+2026_WRD_JHUN_618970,NIT_26/JHU/2025-26,Water Resources Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,331935.14,3.32,7,2025-07-29
+2026_PWD_JHUN_786398,NIT_14/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,39241293.84,392.41,35,2025-04-22
+2026_MEDIC_JHUN_852204,NIT_39/JHU/2025-26,Department of Medical Education (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,198650.29,1.99,11,2025-08-10
+2026_PWD_JHUN_811341,NIT_55/JHU/2025-26,Public Works Department (Jhunjhunu Circle),Jhunjhunu,Jaipur Division,3076655.08,30.77,13,2025-09-27

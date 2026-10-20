@@ -1,344 +1,454 @@
-tender_id,tender_amount,published_duration_days,nit_no,division,district,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-2026_DLB_604289_1,1305000.0,1.0,,,,,,,,,
-2026_PHCJO_604341_1,350000.0,10.0,,,,,,,,,
-2026_DLB_604296_5,1000000.0,4.0,,,,,,,,,
-2026_DLB_604296_1,1830000.0,4.0,,,,,,,,,
-2026_DLB_604296_2,4988000.0,4.0,,,,,,,,,
-2026_DLB_604296_3,4997000.0,4.0,,,,,,,,,
-2026_DLB_604296_4,800000.0,4.0,,,,,,,,,
-2026_DLB_604282_1,3409000.0,3.0,,,,,,,,,
-2026_DLB_604176_1,2450000.0,9.0,,,,,,,,,
-2026_DLB_604192_1,58276000.0,26.0,,,,,,,,,
-2026_MEDIC_602977_1,12100000.0,4.0,,,,,,,,,
-2026_CEPWD_604231_1,19625000.0,4.0,,,,,,,,,
-2026_CEPWD_604231_2,22695000.0,4.0,,,,,,,,,
-2026_CEPWD_604231_3,15635000.0,4.0,,,,,,,,,
-2026_PHCJO_604009_5,1000000.0,42.0,,,,,,,,,
-2026_PHCJO_604009_1,1000000.0,42.0,,,,,,,,,
-2026_UITPL_603911_1,145631000.0,14.0,,,,,,,,,
-2026_DLB_603997_1,20027000.0,19.0,,,,,,,,,
-2026_JDAJO_604002_1,1270000.0,7.0,,,,,,,,,
-2026_DLB_603993_1,21544000.0,19.0,,,,,,,,,
-2026_PHCJO_603992_1,4000000.0,9.0,,,,,,,,,
-2026_AGUJD_603676_1,2500000.0,,NIT 603676_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_AGUJD_603630_1,2500000.0,,NIT 603630_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_AGUJD_602186_1,2500000.0,,NIT 602186_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_DLB_604357_1,2500000.0,,NIT 604357_1,Jodhpur Division,Jodhpur,25.0,9.0,10.0,1.0,True,31.0
-2026_DLB_604052_6,2500000.0,,NIT 604052_6,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604052_3,2500000.0,,NIT 604052_3,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604052_4,2500000.0,,NIT 604052_4,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604052_5,2500000.0,,NIT 604052_5,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604052_2,2500000.0,,NIT 604052_2,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604052_1,2500000.0,,NIT 604052_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604053_1,2500000.0,,NIT 604053_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604053_3,2500000.0,,NIT 604053_3,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604053_2,2500000.0,,NIT 604053_2,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604165_1,2500000.0,,NIT 604165_1,Jodhpur Division,Jodhpur,25.0,4.0,10.0,6.0,True,66.0
-2026_DLB_604103_1,2500000.0,,NIT 604103_1,Jodhpur Division,Jodhpur,25.0,13.0,10.0,0.0,False,0.0
-2026_DLB_604164_1,2500000.0,,NIT 604164_1,Jodhpur Division,Jodhpur,25.0,4.0,10.0,6.0,True,66.0
-2026_DLB_604035_1,2500000.0,,NIT 604035_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604028_1,2500000.0,,NIT 604028_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_DLB_604066_1,2500000.0,,NIT 604066_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604075_3,2500000.0,,NIT 604075_3,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604075_1,2500000.0,,NIT 604075_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604075_2,2500000.0,,NIT 604075_2,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_604055_1,2500000.0,,NIT 604055_1,Jodhpur Division,Jodhpur,25.0,19.0,10.0,0.0,False,0.0
-2026_DLB_604070_2,2500000.0,,NIT 604070_2,Jodhpur Division,Jodhpur,25.0,7.0,10.0,3.0,True,45.0
-2026_DLB_604070_1,2500000.0,,NIT 604070_1,Jodhpur Division,Jodhpur,25.0,7.0,10.0,3.0,True,45.0
-2026_DLB_604069_3,2500000.0,,NIT 604069_3,Jodhpur Division,Jodhpur,25.0,6.0,10.0,4.0,True,52.0
-2026_DLB_604069_2,2500000.0,,NIT 604069_2,Jodhpur Division,Jodhpur,25.0,7.0,10.0,3.0,True,45.0
-2026_DLB_604069_1,2500000.0,,NIT 604069_1,Jodhpur Division,Jodhpur,25.0,7.0,10.0,3.0,True,45.0
-2026_DLB_604015_1,2500000.0,,NIT 604015_1,Jodhpur Division,Jodhpur,25.0,9.0,10.0,1.0,True,31.0
-2026_DLB_604041_1,2500000.0,,NIT 604041_1,Jodhpur Division,Jodhpur,25.0,9.0,10.0,1.0,True,31.0
-2026_DLB_604017_1,2500000.0,,NIT 604017_1,Jodhpur Division,Jodhpur,25.0,9.0,10.0,1.0,True,31.0
-2026_DLB_604043_1,2500000.0,,NIT 604043_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_DLB_603985_1,2500000.0,,NIT 603985_1,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603833_1,2500000.0,,NIT 603833_1,Jodhpur Division,Jodhpur,25.0,15.0,10.0,0.0,False,0.0
-2026_DLB_603875_8,2500000.0,,NIT 603875_8,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603875_7,2500000.0,,NIT 603875_7,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603875_6,2500000.0,,NIT 603875_6,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603875_1,2500000.0,,NIT 603875_1,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603875_3,2500000.0,,NIT 603875_3,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603875_4,2500000.0,,NIT 603875_4,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603875_5,2500000.0,,NIT 603875_5,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603875_2,2500000.0,,NIT 603875_2,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_DLB_603842_1,2500000.0,,NIT 603842_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_603828_1,2500000.0,,NIT 603828_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_DLB_603820_1,2500000.0,,NIT 603820_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_DLB_603754_1,2500000.0,,NIT 603754_1,Jodhpur Division,Jodhpur,25.0,22.0,10.0,0.0,False,0.0
-2026_DLB_603610_1,2500000.0,,NIT 603610_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_DLB_603684_1,2500000.0,,NIT 603684_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_DLB_603606_1,2500000.0,,NIT 603606_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_DLB_603609_1,2500000.0,,NIT 603609_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_DLB_603544_1,2500000.0,,NIT 603544_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603539_1,2500000.0,,NIT 603539_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603542_1,2500000.0,,NIT 603542_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603537_1,2500000.0,,NIT 603537_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603523_1,2500000.0,,NIT 603523_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603525_1,2500000.0,,NIT 603525_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603527_1,2500000.0,,NIT 603527_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603536_1,2500000.0,,NIT 603536_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603533_1,2500000.0,,NIT 603533_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603530_1,2500000.0,,NIT 603530_1,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_DLB_603511_2,2500000.0,,NIT 603511_2,Jodhpur Division,Jodhpur,25.0,12.0,10.0,0.0,False,0.0
-2026_DLB_603511_1,2500000.0,,NIT 603511_1,Jodhpur Division,Jodhpur,25.0,12.0,10.0,0.0,False,0.0
-2026_DLB_603500_1,2500000.0,,NIT 603500_1,Jodhpur Division,Jodhpur,25.0,12.0,10.0,0.0,False,0.0
-2026_DLB_603452_1,2500000.0,,NIT 603452_1,Jodhpur Division,Jodhpur,25.0,13.0,10.0,0.0,False,0.0
-2026_DLB_603262_1,2500000.0,,NIT 603262_1,Jodhpur Division,Jodhpur,25.0,14.0,10.0,0.0,False,0.0
-2026_DLB_602623_1,2500000.0,,NIT 602623_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_DLB_602643_1,2500000.0,,NIT 602643_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_DLB_602633_1,2500000.0,,NIT 602633_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_DLB_602602_1,2500000.0,,NIT 602602_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_DLB_602125_1,2500000.0,,NIT 602125_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_DLB_587146_1,2500000.0,,NIT 587146_1,Jodhpur Division,Jodhpur,25.0,33.0,10.0,0.0,False,0.0
-2026_DLB_588249_30,2500000.0,,NIT 588249_30,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_29,2500000.0,,NIT 588249_29,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_28,2500000.0,,NIT 588249_28,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_27,2500000.0,,NIT 588249_27,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_26,2500000.0,,NIT 588249_26,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_25,2500000.0,,NIT 588249_25,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_24,2500000.0,,NIT 588249_24,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_23,2500000.0,,NIT 588249_23,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_22,2500000.0,,NIT 588249_22,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_21,2500000.0,,NIT 588249_21,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_20,2500000.0,,NIT 588249_20,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_19,2500000.0,,NIT 588249_19,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_32,2500000.0,,NIT 588249_32,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_588249_31,2500000.0,,NIT 588249_31,Jodhpur Division,Jodhpur,25.0,27.0,10.0,0.0,False,0.0
-2026_DLB_584181_1,2500000.0,,NIT 584181_1,Jodhpur Division,Jodhpur,25.0,95.0,10.0,0.0,False,0.0
-2026_DSRAU_604202_1,2500000.0,,NIT 604202_1,Jodhpur Division,Jodhpur,25.0,6.0,10.0,4.0,True,52.0
-2026_DSRAU_604211_1,2500000.0,,NIT 604211_1,Jodhpur Division,Jodhpur,25.0,19.0,10.0,0.0,False,0.0
-2026_SNMCJ_602384_1,2500000.0,,NIT 602384_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_SNMCJ_602172_1,2500000.0,,NIT 602172_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_SNMCJ_602187_1,2500000.0,,NIT 602187_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_SNMCJ_602127_1,2500000.0,,NIT 602127_1,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_FORES_604121_1,2500000.0,,NIT 604121_1,Jodhpur Division,Jodhpur,25.0,6.0,10.0,4.0,True,52.0
-2026_JDAJO_604072_1,2500000.0,,NIT 604072_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_JDAJO_604062_1,2500000.0,,NIT 604062_1,Jodhpur Division,Jodhpur,25.0,9.0,10.0,1.0,True,31.0
-2026_JDAJO_602649_1,2500000.0,,NIT 602649_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_JDAJO_602649_2,2500000.0,,NIT 602649_2,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_JDAJO_602618_1,2500000.0,,NIT 602618_1,Jodhpur Division,Jodhpur,25.0,25.0,10.0,0.0,False,0.0
-2026_JDAJO_601200_1,2500000.0,,NIT 601200_1,Jodhpur Division,Jodhpur,25.0,23.0,10.0,0.0,False,0.0
-2026_JDAJO_600928_1,2500000.0,,NIT 600928_1,Jodhpur Division,Jodhpur,25.0,29.0,10.0,0.0,False,0.0
-2026_JDAJO_600926_1,2500000.0,,NIT 600926_1,Jodhpur Division,Jodhpur,25.0,29.0,10.0,0.0,False,0.0
-2026_JdVVN_603496_1,2500000.0,,NIT 603496_1,Jodhpur Division,Jodhpur,25.0,19.0,10.0,0.0,False,0.0
-2026_JdVVN_603006_1,2500000.0,,NIT 603006_1,Jodhpur Division,Jodhpur,25.0,18.0,10.0,0.0,False,0.0
-2026_JdVVN_603004_1,2500000.0,,NIT 603004_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_JdVVN_602886_1,2500000.0,,NIT 602886_1,Jodhpur Division,Jodhpur,25.0,19.0,10.0,0.0,False,0.0
-2026_JdVVN_601186_1,2500000.0,,NIT 601186_1,Jodhpur Division,Jodhpur,25.0,23.0,10.0,0.0,False,0.0
-2026_JdVVN_600447_1,2500000.0,,NIT 600447_1,Jodhpur Division,Jodhpur,25.0,39.0,10.0,0.0,False,0.0
-2026_JdVVN_595574_1,2500000.0,,NIT 595574_1,Jodhpur Division,Jodhpur,25.0,51.0,10.0,0.0,False,0.0
-2026_JdVVN_595575_1,2500000.0,,NIT 595575_1,Jodhpur Division,Jodhpur,25.0,51.0,10.0,0.0,False,0.0
-2026_JdVVN_595576_1,2500000.0,,NIT 595576_1,Jodhpur Division,Jodhpur,25.0,51.0,10.0,0.0,False,0.0
-2026_JdVVN_592948_21,2500000.0,,NIT 592948_21,Jodhpur Division,Jodhpur,25.0,52.0,10.0,0.0,False,0.0
-2026_JdVVN_594257_3,2500000.0,,NIT 594257_3,Jodhpur Division,Jodhpur,25.0,55.0,10.0,0.0,False,0.0
-2026_JdVVN_594257_2,2500000.0,,NIT 594257_2,Jodhpur Division,Jodhpur,25.0,55.0,10.0,0.0,False,0.0
-2026_JdVVN_592948_5,2500000.0,,NIT 592948_5,Jodhpur Division,Jodhpur,25.0,57.0,10.0,0.0,False,0.0
-2026_JdVVN_592948_2,2500000.0,,NIT 592948_2,Jodhpur Division,Jodhpur,25.0,62.0,10.0,0.0,False,0.0
-2026_JdVVN_591596_2,2500000.0,,NIT 591596_2,Jodhpur Division,Jodhpur,25.0,67.0,10.0,0.0,False,0.0
-2026_JdVVN_591596_1,2500000.0,,NIT 591596_1,Jodhpur Division,Jodhpur,25.0,67.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_22,2500000.0,,NIT 588361_22,Jodhpur Division,Jodhpur,25.0,69.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_24,2500000.0,,NIT 588361_24,Jodhpur Division,Jodhpur,25.0,69.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_23,2500000.0,,NIT 588361_23,Jodhpur Division,Jodhpur,25.0,69.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_25,2500000.0,,NIT 588361_25,Jodhpur Division,Jodhpur,25.0,69.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_31,2500000.0,,NIT 589238_31,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_16,2500000.0,,NIT 588361_16,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_15,2500000.0,,NIT 588361_15,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_48,2500000.0,,NIT 589238_48,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_46,2500000.0,,NIT 589238_46,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_45,2500000.0,,NIT 589238_45,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_42,2500000.0,,NIT 589238_42,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_43,2500000.0,,NIT 589238_43,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_40,2500000.0,,NIT 589238_40,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_33,2500000.0,,NIT 589238_33,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_37,2500000.0,,NIT 589238_37,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_38,2500000.0,,NIT 589238_38,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_32,2500000.0,,NIT 589238_32,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_12,2500000.0,,NIT 588361_12,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_13,2500000.0,,NIT 588361_13,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_11,2500000.0,,NIT 588361_11,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_9,2500000.0,,NIT 588361_9,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589513_1,2500000.0,,NIT 589513_1,Jodhpur Division,Jodhpur,25.0,64.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_10,2500000.0,,NIT 588361_10,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_588361_7,2500000.0,,NIT 588361_7,Jodhpur Division,Jodhpur,25.0,70.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_18,2500000.0,,NIT 589238_18,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_26,2500000.0,,NIT 589238_26,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_22,2500000.0,,NIT 589238_22,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_23,2500000.0,,NIT 589238_23,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_21,2500000.0,,NIT 589238_21,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_27,2500000.0,,NIT 589238_27,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_19,2500000.0,,NIT 589238_19,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_15,2500000.0,,NIT 589238_15,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_16,2500000.0,,NIT 589238_16,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_14,2500000.0,,NIT 589238_14,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_17,2500000.0,,NIT 589238_17,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_12,2500000.0,,NIT 589238_12,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_6,2500000.0,,NIT 589238_6,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_4,2500000.0,,NIT 589238_4,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_1,2500000.0,,NIT 589238_1,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_10,2500000.0,,NIT 589238_10,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_9,2500000.0,,NIT 589238_9,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_2,2500000.0,,NIT 589238_2,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_8,2500000.0,,NIT 589238_8,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_589238_7,2500000.0,,NIT 589238_7,Jodhpur Division,Jodhpur,25.0,72.0,10.0,0.0,False,0.0
-2026_JdVVN_588571_1,2500000.0,,NIT 588571_1,Jodhpur Division,Jodhpur,25.0,67.0,10.0,0.0,False,0.0
-2026_JdVVN_588543_1,2500000.0,,NIT 588543_1,Jodhpur Division,Jodhpur,25.0,68.0,10.0,0.0,False,0.0
-2026_JdVVN_587890_1,2500000.0,,NIT 587890_1,Jodhpur Division,Jodhpur,25.0,73.0,10.0,0.0,False,0.0
-2026_JdVVN_586629_1,2500000.0,,NIT 586629_1,Jodhpur Division,Jodhpur,25.0,69.0,10.0,0.0,False,0.0
-2026_JdVVN_585087_1,2500000.0,,NIT 585087_1,Jodhpur Division,Jodhpur,25.0,73.0,10.0,0.0,False,0.0
-2026_JdVVN_585093_1,2500000.0,,NIT 585093_1,Jodhpur Division,Jodhpur,25.0,73.0,10.0,0.0,False,0.0
-2026_JdVVN_585047_1,2500000.0,,NIT 585047_1,Jodhpur Division,Jodhpur,25.0,73.0,10.0,0.0,False,0.0
-2026_JdVVN_581479_1,2500000.0,,NIT 581479_1,Jodhpur Division,Jodhpur,25.0,85.0,10.0,0.0,False,0.0
-2026_JdVVN_579521_17,2500000.0,,NIT 579521_17,Jodhpur Division,Jodhpur,25.0,88.0,10.0,0.0,False,0.0
-2026_JdVVN_579521_18,2500000.0,,NIT 579521_18,Jodhpur Division,Jodhpur,25.0,88.0,10.0,0.0,False,0.0
-2026_JdVVN_579521_16,2500000.0,,NIT 579521_16,Jodhpur Division,Jodhpur,25.0,88.0,10.0,0.0,False,0.0
-2026_JdVVN_579521_11,2500000.0,,NIT 579521_11,Jodhpur Division,Jodhpur,25.0,89.0,10.0,0.0,False,0.0
-2026_JdVVN_577575_1,2500000.0,,NIT 577575_1,Jodhpur Division,Jodhpur,25.0,94.0,10.0,0.0,False,0.0
-2026_PHCJO_603920_2,2500000.0,,NIT 603920_2,Jodhpur Division,Jodhpur,25.0,2.0,10.0,8.0,True,80.0
-2026_PHCJO_603920_5,2500000.0,,NIT 603920_5,Jodhpur Division,Jodhpur,25.0,2.0,10.0,8.0,True,80.0
-2026_PHCJO_603920_4,2500000.0,,NIT 603920_4,Jodhpur Division,Jodhpur,25.0,2.0,10.0,8.0,True,80.0
-2026_PHCJO_603920_3,2500000.0,,NIT 603920_3,Jodhpur Division,Jodhpur,25.0,2.0,10.0,8.0,True,80.0
-2026_PHCJO_603920_6,2500000.0,,NIT 603920_6,Jodhpur Division,Jodhpur,25.0,2.0,10.0,8.0,True,80.0
-2026_PHCJO_603906_1,2500000.0,,NIT 603906_1,Jodhpur Division,Jodhpur,25.0,5.0,10.0,5.0,True,59.0
-2026_PHCJO_604009_6,2500000.0,,NIT 604009_6,Jodhpur Division,Jodhpur,25.0,42.0,10.0,0.0,False,0.0
-2026_PHCJO_604009_4,2500000.0,,NIT 604009_4,Jodhpur Division,Jodhpur,25.0,42.0,10.0,0.0,False,0.0
-2026_PHCJO_604009_3,2500000.0,,NIT 604009_3,Jodhpur Division,Jodhpur,25.0,42.0,10.0,0.0,False,0.0
-2026_PHCJO_604009_2,2500000.0,,NIT 604009_2,Jodhpur Division,Jodhpur,25.0,42.0,10.0,0.0,False,0.0
-2026_PHCJO_603924_1,2500000.0,,NIT 603924_1,Jodhpur Division,Jodhpur,25.0,7.0,10.0,3.0,True,45.0
-2026_PHCJO_603920_1,2500000.0,,NIT 603920_1,Jodhpur Division,Jodhpur,25.0,9.0,10.0,1.0,True,31.0
-2026_PHCJO_603807_1,2500000.0,,NIT 603807_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_PHCJO_603172_1,2500000.0,,NIT 603172_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_PHCJO_603171_1,2500000.0,,NIT 603171_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_PHCJO_603167_1,2500000.0,,NIT 603167_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_PHCJO_603175_1,2500000.0,,NIT 603175_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_PHCJO_603578_1,2500000.0,,NIT 603578_1,Jodhpur Division,Jodhpur,25.0,12.0,10.0,0.0,False,0.0
-2026_PHCJO_603182_1,2500000.0,,NIT 603182_1,Jodhpur Division,Jodhpur,25.0,26.0,10.0,0.0,False,0.0
-2026_PHCJO_603182_4,2500000.0,,NIT 603182_4,Jodhpur Division,Jodhpur,25.0,26.0,10.0,0.0,False,0.0
-2026_PHCJO_603182_2,2500000.0,,NIT 603182_2,Jodhpur Division,Jodhpur,25.0,26.0,10.0,0.0,False,0.0
-2026_PHCJO_603182_3,2500000.0,,NIT 603182_3,Jodhpur Division,Jodhpur,25.0,26.0,10.0,0.0,False,0.0
-2026_PHCJO_603333_1,2500000.0,,NIT 603333_1,Jodhpur Division,Jodhpur,25.0,14.0,10.0,0.0,False,0.0
-2026_PHCJO_602656_1,2500000.0,,NIT 602656_1,Jodhpur Division,Jodhpur,25.0,22.0,10.0,0.0,False,0.0
-2026_PHCJO_602645_1,2500000.0,,NIT 602645_1,Jodhpur Division,Jodhpur,25.0,22.0,10.0,0.0,False,0.0
-2026_PHCJO_602616_1,2500000.0,,NIT 602616_1,Jodhpur Division,Jodhpur,25.0,22.0,10.0,0.0,False,0.0
-2026_PHCJO_602628_1,2500000.0,,NIT 602628_1,Jodhpur Division,Jodhpur,25.0,22.0,10.0,0.0,False,0.0
-2026_PHCJO_602563_2,2500000.0,,NIT 602563_2,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602563_1,2500000.0,,NIT 602563_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602442_1,2500000.0,,NIT 602442_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_PHCJO_602360_1,2500000.0,,NIT 602360_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602360_3,2500000.0,,NIT 602360_3,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602436_1,2500000.0,,NIT 602436_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_PHCJO_602360_4,2500000.0,,NIT 602360_4,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602360_2,2500000.0,,NIT 602360_2,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602279_1,2500000.0,,NIT 602279_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602266_1,2500000.0,,NIT 602266_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602239_1,2500000.0,,NIT 602239_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602254_1,2500000.0,,NIT 602254_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_602219_1,2500000.0,,NIT 602219_1,Jodhpur Division,Jodhpur,25.0,21.0,10.0,0.0,False,0.0
-2026_PHCJO_601760_1,2500000.0,,NIT 601760_1,Jodhpur Division,Jodhpur,25.0,23.0,10.0,0.0,False,0.0
-2026_PHCJO_601751_1,2500000.0,,NIT 601751_1,Jodhpur Division,Jodhpur,25.0,23.0,10.0,0.0,False,0.0
-2026_PHCJO_600842_1,2500000.0,,NIT 600842_1,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_PHCJO_601179_2,2500000.0,,NIT 601179_2,Jodhpur Division,Jodhpur,25.0,58.0,10.0,0.0,False,0.0
-2026_PHCJO_601179_1,2500000.0,,NIT 601179_1,Jodhpur Division,Jodhpur,25.0,58.0,10.0,0.0,False,0.0
-2026_PHCJO_594733_1,2500000.0,,NIT 594733_1,Jodhpur Division,Jodhpur,25.0,52.0,10.0,0.0,False,0.0
-2026_CEPWD_604027_5,2500000.0,,NIT 604027_5,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_CEPWD_604027_4,2500000.0,,NIT 604027_4,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_CEPWD_604027_3,2500000.0,,NIT 604027_3,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_CEPWD_604027_2,2500000.0,,NIT 604027_2,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_CEPWD_604027_1,2500000.0,,NIT 604027_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_CEPWD_604057_1,2500000.0,,NIT 604057_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_CEPWD_603593_1,2500000.0,,NIT 603593_1,Jodhpur Division,Jodhpur,25.0,11.0,10.0,0.0,False,0.0
-2026_CEPWD_603593_4,2500000.0,,NIT 603593_4,Jodhpur Division,Jodhpur,25.0,12.0,10.0,0.0,False,0.0
-2026_CEPWD_603895_4,2500000.0,,NIT 603895_4,Jodhpur Division,Jodhpur,25.0,34.0,10.0,0.0,False,0.0
-2026_CEPWD_603895_5,2500000.0,,NIT 603895_5,Jodhpur Division,Jodhpur,25.0,34.0,10.0,0.0,False,0.0
-2026_CEPWD_603895_2,2500000.0,,NIT 603895_2,Jodhpur Division,Jodhpur,25.0,34.0,10.0,0.0,False,0.0
-2026_CEPWD_603895_3,2500000.0,,NIT 603895_3,Jodhpur Division,Jodhpur,25.0,34.0,10.0,0.0,False,0.0
-2026_CEPWD_603895_1,2500000.0,,NIT 603895_1,Jodhpur Division,Jodhpur,25.0,34.0,10.0,0.0,False,0.0
-2026_CEPWD_603882_1,2500000.0,,NIT 603882_1,Jodhpur Division,Jodhpur,25.0,16.0,10.0,0.0,False,0.0
-2026_CEPWD_603857_1,2500000.0,,NIT 603857_1,Jodhpur Division,Jodhpur,25.0,15.0,10.0,0.0,False,0.0
-2026_CEPWD_603857_3,2500000.0,,NIT 603857_3,Jodhpur Division,Jodhpur,25.0,15.0,10.0,0.0,False,0.0
-2026_CEPWD_603857_2,2500000.0,,NIT 603857_2,Jodhpur Division,Jodhpur,25.0,15.0,10.0,0.0,False,0.0
-2026_CEPWD_603798_1,2500000.0,,NIT 603798_1,Jodhpur Division,Jodhpur,25.0,10.0,10.0,0.0,False,0.0
-2026_CEPWD_603636_1,2500000.0,,NIT 603636_1,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_603636_2,2500000.0,,NIT 603636_2,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_603593_2,2500000.0,,NIT 603593_2,Jodhpur Division,Jodhpur,25.0,17.0,10.0,0.0,False,0.0
-2026_CEPWD_603598_2,2500000.0,,NIT 603598_2,Jodhpur Division,Jodhpur,25.0,26.0,10.0,0.0,False,0.0
-2026_CEPWD_603598_1,2500000.0,,NIT 603598_1,Jodhpur Division,Jodhpur,25.0,26.0,10.0,0.0,False,0.0
-2026_CEPWD_603598_3,2500000.0,,NIT 603598_3,Jodhpur Division,Jodhpur,25.0,26.0,10.0,0.0,False,0.0
-2026_CEPWD_603483_1,2500000.0,,NIT 603483_1,Jodhpur Division,Jodhpur,25.0,18.0,10.0,0.0,False,0.0
-2026_CEPWD_603329_1,2500000.0,,NIT 603329_1,Jodhpur Division,Jodhpur,25.0,13.0,10.0,0.0,False,0.0
-2026_CEPWD_603369_1,2500000.0,,NIT 603369_1,Jodhpur Division,Jodhpur,25.0,14.0,10.0,0.0,False,0.0
-2026_CEPWD_603126_3,2500000.0,,NIT 603126_3,Jodhpur Division,Jodhpur,25.0,18.0,10.0,0.0,False,0.0
-2026_CEPWD_603116_1,2500000.0,,NIT 603116_1,Jodhpur Division,Jodhpur,25.0,18.0,10.0,0.0,False,0.0
-2026_CEPWD_603126_1,2500000.0,,NIT 603126_1,Jodhpur Division,Jodhpur,25.0,18.0,10.0,0.0,False,0.0
-2026_CEPWD_603126_2,2500000.0,,NIT 603126_2,Jodhpur Division,Jodhpur,25.0,18.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_23,2500000.0,,NIT 599875_23,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_20,2500000.0,,NIT 599875_20,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_602421_1,2500000.0,,NIT 602421_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_21,2500000.0,,NIT 599875_21,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_5,2500000.0,,NIT 599875_5,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_6,2500000.0,,NIT 599875_6,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_10,2500000.0,,NIT 599875_10,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_602411_2,2500000.0,,NIT 602411_2,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_602411_1,2500000.0,,NIT 602411_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_34,2500000.0,,NIT 599875_34,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_24,2500000.0,,NIT 599875_24,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_7,2500000.0,,NIT 599875_7,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_35,2500000.0,,NIT 599875_35,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_25,2500000.0,,NIT 599875_25,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_30,2500000.0,,NIT 599875_30,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_22,2500000.0,,NIT 599875_22,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_19,2500000.0,,NIT 599875_19,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_16,2500000.0,,NIT 599875_16,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_15,2500000.0,,NIT 599875_15,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_14,2500000.0,,NIT 599875_14,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_13,2500000.0,,NIT 599875_13,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_11,2500000.0,,NIT 599875_11,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_17,2500000.0,,NIT 599875_17,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_9,2500000.0,,NIT 599875_9,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_12,2500000.0,,NIT 599875_12,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_1,2500000.0,,NIT 599875_1,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_28,2500000.0,,NIT 599875_28,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_33,2500000.0,,NIT 599875_33,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_31,2500000.0,,NIT 599875_31,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_32,2500000.0,,NIT 599875_32,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_29,2500000.0,,NIT 599875_29,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_27,2500000.0,,NIT 599875_27,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_26,2500000.0,,NIT 599875_26,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_8,2500000.0,,NIT 599875_8,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_4,2500000.0,,NIT 599875_4,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_3,2500000.0,,NIT 599875_3,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_599875_2,2500000.0,,NIT 599875_2,Jodhpur Division,Jodhpur,25.0,20.0,10.0,0.0,False,0.0
-2026_CEPWD_602061_1,2500000.0,,NIT 602061_1,Jodhpur Division,Jodhpur,25.0,26.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_8,2500000.0,,NIT 600988_8,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_10,2500000.0,,NIT 600988_10,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_9,2500000.0,,NIT 600988_9,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_7,2500000.0,,NIT 600988_7,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_3,2500000.0,,NIT 600988_3,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_6,2500000.0,,NIT 600988_6,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_5,2500000.0,,NIT 600988_5,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_4,2500000.0,,NIT 600988_4,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_1,2500000.0,,NIT 600988_1,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600988_2,2500000.0,,NIT 600988_2,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_CEPWD_600446_3,2500000.0,,NIT 600446_3,Jodhpur Division,Jodhpur,25.0,53.0,10.0,0.0,False,0.0
-2026_CEPWD_600439_1,2500000.0,,NIT 600439_1,Jodhpur Division,Jodhpur,25.0,53.0,10.0,0.0,False,0.0
-2026_CEPWD_600446_1,2500000.0,,NIT 600446_1,Jodhpur Division,Jodhpur,25.0,53.0,10.0,0.0,False,0.0
-2026_CEPWD_600446_2,2500000.0,,NIT 600446_2,Jodhpur Division,Jodhpur,25.0,53.0,10.0,0.0,False,0.0
-2026_CEPWD_560957_2,2500000.0,,NIT 560957_2,Jodhpur Division,Jodhpur,25.0,39.0,10.0,0.0,False,0.0
-2026_CEPWD_600127_2,2500000.0,,NIT 600127_2,Jodhpur Division,Jodhpur,25.0,41.0,10.0,0.0,False,0.0
-2026_CEPWD_600127_1,2500000.0,,NIT 600127_1,Jodhpur Division,Jodhpur,25.0,41.0,10.0,0.0,False,0.0
-2026_CEPWD_572050_1,2500000.0,,NIT 572050_1,Jodhpur Division,Jodhpur,25.0,118.0,10.0,0.0,False,0.0
-2026_RAJHC_602575_1,2500000.0,,NIT 602575_1,Jodhpur Division,Jodhpur,25.0,25.0,10.0,0.0,False,0.0
-2026_RAJHC_602322_1,2500000.0,,NIT 602322_1,Jodhpur Division,Jodhpur,25.0,24.0,10.0,0.0,False,0.0
-2026_RRVPN_603574_2,2500000.0,,NIT 603574_2,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_RRVPN_603574_3,2500000.0,,NIT 603574_3,Jodhpur Division,Jodhpur,25.0,8.0,10.0,2.0,True,38.0
-2026_RRVPN_602954_1,2500000.0,,NIT 602954_1,Jodhpur Division,Jodhpur,25.0,18.0,10.0,0.0,False,0.0
-2026_RRVPN_600615_1,2500000.0,,NIT 600615_1,Jodhpur Division,Jodhpur,25.0,30.0,10.0,0.0,False,0.0
-2026_RRVPN_600674_1,2500000.0,,NIT 600674_1,Jodhpur Division,Jodhpur,25.0,30.0,10.0,0.0,False,0.0
-2026_RRVPN_600603_1,2500000.0,,NIT 600603_1,Jodhpur Division,Jodhpur,25.0,25.0,10.0,0.0,False,0.0
-2026_RRVPN_600281_1,2500000.0,,NIT 600281_1,Jodhpur Division,Jodhpur,25.0,31.0,10.0,0.0,False,0.0
-2026_RRVPN_590762_1,2500000.0,,NIT 590762_1,Jodhpur Division,Jodhpur,25.0,63.0,10.0,0.0,False,0.0
-2026_RSAMB_603674_1,2500000.0,,NIT 603674_1,Jodhpur Division,Jodhpur,25.0,18.0,10.0,0.0,False,0.0
-2026_RSMML_597980_1,2500000.0,,NIT 597980_1,Jodhpur Division,Jodhpur,25.0,36.0,10.0,0.0,False,0.0
-2026_RSMML_593321_1,2500000.0,,NIT 593321_1,Jodhpur Division,Jodhpur,25.0,54.0,10.0,0.0,False,0.0
-2026_WRDAS_599783_1,2500000.0,,NIT 599783_1,Jodhpur Division,Jodhpur,25.0,32.0,10.0,0.0,False,0.0
-2026_WRDAS_594133_1,2500000.0,,NIT 594133_1,Jodhpur Division,Jodhpur,25.0,48.0,10.0,0.0,False,0.0
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_DLB_JODH_326093,NIT_19/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,1668651.33,16.69,17,2025-07-28
+2026_PWD_JODH_936648,NIT_87/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,938071.97,9.38,14,2026-02-28
+2026_DLB_JODH_807736,NIT_13/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,2776433.48,27.76,18,2025-12-30
+2026_MEDIC_JODH_598235,NIT_93/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,585757.3,5.86,10,2026-02-18
+2026_FORES_JODH_699435,NIT_99/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,704375.08,7.04,8,2026-02-17
+2026_UIT_JODH_500798,NIT_52/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,2207875.1,22.08,18,2026-03-11
+2026_FORES_JODH_923800,NIT_84/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,13989691.87,139.9,15,2025-06-21
+2026_PWD_JODH_714563,NIT_18/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,431578.28,4.32,12,2025-12-05
+2026_UIT_JODH_496504,NIT_44/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,18905984.99,189.06,19,2025-12-02
+2026_PWD_JODH_845502,NIT_16/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,150952.49,1.51,15,2025-11-24
+2026_DLB_JODH_421042,NIT_49/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,585804.42,5.86,14,2025-10-23
+2026_WRD_JODH_700200,NIT_67/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,624468.69,6.24,8,2025-11-01
+2026_UIT_JODH_311084,NIT_59/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,862421.11,8.62,7,2025-08-10
+2026_UIT_JODH_446686,NIT_14/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,168442.87,1.68,12,2026-03-24
+2026_PHED_JODH_593103,NIT_35/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,180108.04,1.8,11,2026-01-15
+2026_DLB_JODH_746403,NIT_33/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,920308.84,9.2,8,2026-02-20
+2026_MEDIC_JODH_781651,NIT_55/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,7095473.97,70.95,18,2025-04-26
+2026_FORES_JODH_488981,NIT_85/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,522761.32,5.23,3,2025-09-27
+2026_PWD_JODH_269357,NIT_77/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1654133.54,16.54,13,2025-11-05
+2026_WRD_JODH_346174,NIT_20/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,832660.3,8.33,15,2026-02-12
+2026_UIT_JODH_686773,NIT_82/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,3912940.01,39.13,15,2025-08-23
+2026_DLB_JODH_789395,NIT_65/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,348410.94,3.48,11,2025-08-28
+2026_FORES_JODH_332161,NIT_49/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,717229.34,7.17,11,2026-02-08
+2026_PWD_JODH_514734,NIT_82/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,892402.43,8.92,10,2025-08-11
+2026_WRD_JODH_706411,NIT_67/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,378071.11,3.78,11,2025-10-27
+2026_WRD_JODH_118010,NIT_77/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,757256.38,7.57,15,2025-06-27
+2026_PHED_JODH_335435,NIT_16/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3274953.66,32.75,12,2026-02-04
+2026_FORES_JODH_600200,NIT_37/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,18838914.98,188.39,23,2026-01-24
+2026_UIT_JODH_382705,NIT_22/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,8638645.62,86.39,3,2026-01-18
+2026_DLB_JODH_235359,NIT_17/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,3642269.8,36.42,17,2025-04-23
+2026_DLB_JODH_442699,NIT_48/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,869390.22,8.69,10,2025-08-25
+2026_FORES_JODH_844232,NIT_62/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,446435.22,4.46,9,2025-06-04
+2026_PWD_JODH_356307,NIT_11/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,184328.59,1.84,13,2025-09-03
+2026_DLB_JODH_167201,NIT_28/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,728827.6,7.29,7,2025-04-15
+2026_PHED_JODH_873111,NIT_55/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,235308.87,2.35,10,2025-11-23
+2026_WRD_JODH_512596,NIT_55/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,573012.01,5.73,10,2025-09-17
+2026_MEDIC_JODH_453770,NIT_90/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,692032.65,6.92,7,2026-01-10
+2026_DLB_JODH_945324,NIT_20/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,888158.3,8.88,8,2025-08-12
+2026_FORES_JODH_478007,NIT_80/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,9317155.98,93.17,21,2025-07-23
+2026_PWD_JODH_175999,NIT_38/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4554558.08,45.55,10,2025-07-14
+2026_WRD_JODH_292484,NIT_34/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,813050.86,8.13,9,2025-04-18
+2026_UIT_JODH_360739,NIT_34/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,9478377.73,94.78,18,2026-03-02
+2026_PWD_JODH_119625,NIT_48/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,43967079.29,439.67,38,2026-03-21
+2026_FORES_JODH_939905,NIT_94/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,466996.05,4.67,7,2025-04-17
+2026_MEDIC_JODH_929916,NIT_93/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,401034.06,4.01,9,2026-01-17
+2026_UIT_JODH_394209,NIT_58/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,752610.59,7.53,9,2026-03-01
+2026_PWD_JODH_778044,NIT_94/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,117255611.5,1172.56,37,2025-08-13
+2026_PHED_JODH_139363,NIT_48/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,8068182.67,80.68,23,2025-10-05
+2026_PWD_JODH_271305,NIT_30/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,802053.39,8.02,11,2025-11-03
+2026_DLB_JODH_454775,NIT_33/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,508764.55,5.09,9,2025-07-11
+2026_PHED_JODH_239960,NIT_76/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4777561.06,47.78,13,2025-04-05
+2026_PHED_JODH_117030,NIT_27/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,414151.25,4.14,8,2025-07-20
+2026_PHED_JODH_110444,NIT_39/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,167573.25,1.68,13,2025-11-26
+2026_DLB_JODH_171010,NIT_98/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,6895409.15,68.95,20,2025-04-06
+2026_DLB_JODH_997479,NIT_64/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,1582479.2,15.82,15,2025-09-09
+2026_PHED_JODH_884746,NIT_17/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,7595138.73,75.95,16,2025-06-28
+2026_PHED_JODH_870405,NIT_84/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,12874574.84,128.75,18,2025-04-15
+2026_PHED_JODH_384010,NIT_26/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1225000.17,12.25,17,2025-05-05
+2026_UIT_JODH_709775,NIT_12/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,222693.58,2.23,9,2026-03-05
+2026_UIT_JODH_238834,NIT_47/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,1245446.98,12.45,17,2025-10-29
+2026_UIT_JODH_371521,NIT_94/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,856478.26,8.56,8,2025-11-30
+2026_FORES_JODH_766959,NIT_98/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2906970.9,29.07,16,2025-05-25
+2026_MEDIC_JODH_924872,NIT_86/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,898572.15,8.99,11,2025-04-26
+2026_DLB_JODH_477236,NIT_91/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,3081089.96,30.81,17,2025-06-18
+2026_UIT_JODH_810555,NIT_70/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,653137.85,6.53,8,2025-07-02
+2026_PHED_JODH_432039,NIT_86/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,182082.6,1.82,12,2025-10-15
+2026_DLB_JODH_895082,NIT_78/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,375397.94,3.75,15,2025-06-15
+2026_PHED_JODH_609049,NIT_41/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,651760.84,6.52,8,2025-07-05
+2026_PWD_JODH_236305,NIT_20/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1372322.54,13.72,18,2025-11-21
+2026_MEDIC_JODH_144002,NIT_40/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,3663334.03,36.63,18,2025-10-30
+2026_UIT_JODH_878826,NIT_88/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,189997.3,1.9,8,2025-11-19
+2026_UIT_JODH_151887,NIT_72/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,383078.44,3.83,10,2026-02-01
+2026_PHED_JODH_469645,NIT_23/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,620205.56,6.2,11,2026-03-22
+2026_WRD_JODH_286859,NIT_86/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,404671.55,4.05,8,2025-12-09
+2026_PWD_JODH_281050,NIT_32/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,263683.98,2.64,13,2025-08-09
+2026_PHED_JODH_331013,NIT_81/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,11470768.38,114.71,19,2025-06-16
+2026_PHED_JODH_218475,NIT_58/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,290918.05,2.91,11,2026-01-28
+2026_FORES_JODH_501080,NIT_34/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,877017.3,8.77,7,2026-03-21
+2026_MEDIC_JODH_956114,NIT_35/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,311885.34,3.12,11,2025-11-13
+2026_UIT_JODH_119421,NIT_49/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,551762.68,5.52,15,2026-02-01
+2026_MEDIC_JODH_446652,NIT_11/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,366769.7,3.67,9,2025-04-06
+2026_UIT_JODH_492367,NIT_88/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,3611687.09,36.12,15,2025-05-07
+2026_MEDIC_JODH_903302,NIT_50/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,301573.19,3.02,14,2025-08-10
+2026_MEDIC_JODH_836090,NIT_33/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,467808.76,4.68,10,2025-06-21
+2026_MEDIC_JODH_877079,NIT_50/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,481291.87,4.81,14,2025-12-11
+2026_DLB_JODH_434397,NIT_31/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,278014.38,2.78,9,2025-04-09
+2026_DLB_JODH_184466,NIT_61/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,429431.75,4.29,9,2025-04-15
+2026_FORES_JODH_486804,NIT_83/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,92787647.11,927.88,31,2025-05-07
+2026_WRD_JODH_905940,NIT_62/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1868873.64,18.69,15,2025-09-09
+2026_UIT_JODH_797135,NIT_99/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,3230871.19,32.31,13,2025-11-24
+2026_FORES_JODH_855186,NIT_29/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,666602.08,6.67,11,2026-03-07
+2026_UIT_JODH_288623,NIT_15/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,495171.56,4.95,11,2026-02-14
+2026_MEDIC_JODH_128382,NIT_92/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,685058.55,6.85,10,2025-07-14
+2026_FORES_JODH_212165,NIT_38/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3505129.81,35.05,10,2025-04-23
+2026_WRD_JODH_701774,NIT_78/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4243753.71,42.44,12,2025-05-03
+2026_UIT_JODH_773569,NIT_20/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,291424.18,2.91,9,2025-05-10
+2026_WRD_JODH_885575,NIT_47/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,559089.44,5.59,8,2025-10-08
+2026_MEDIC_JODH_261117,NIT_65/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,584751.89,5.85,13,2025-08-31
+2026_PWD_JODH_209032,NIT_84/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,6714346.82,67.14,15,2025-10-17
+2026_WRD_JODH_420439,NIT_27/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4189393.77,41.89,10,2025-10-16
+2026_PHED_JODH_697706,NIT_74/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,882453.02,8.82,15,2025-12-02
+2026_PHED_JODH_972319,NIT_50/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,566624.78,5.67,13,2026-02-21
+2026_DLB_JODH_395456,NIT_61/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,3858503.74,38.59,11,2026-01-31
+2026_DLB_JODH_859400,NIT_26/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,324169.22,3.24,8,2026-02-07
+2026_PHED_JODH_849584,NIT_65/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,796930.65,7.97,10,2025-07-03
+2026_PWD_JODH_420484,NIT_98/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,201171.08,2.01,11,2025-12-29
+2026_PHED_JODH_934496,NIT_24/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2105266.91,21.05,18,2026-01-16
+2026_UIT_JODH_834021,NIT_24/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,222038.08,2.22,14,2025-06-18
+2026_UIT_JODH_897286,NIT_62/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,620502.01,6.21,11,2026-01-20
+2026_FORES_JODH_652438,NIT_22/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,14193290.02,141.93,23,2025-04-11
+2026_PWD_JODH_329994,NIT_65/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,487798.67,4.88,9,2025-04-02
+2026_PWD_JODH_105644,NIT_54/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,898996.96,8.99,15,2025-09-20
+2026_PHED_JODH_670395,NIT_60/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,300841.65,3.01,12,2026-02-18
+2026_PWD_JODH_442504,NIT_32/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,366122.24,3.66,10,2026-01-07
+2026_FORES_JODH_102003,NIT_55/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3124315.22,31.24,16,2026-02-10
+2026_PHED_JODH_792044,NIT_82/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,763845.1,7.64,14,2025-10-21
+2026_MEDIC_JODH_831388,NIT_65/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,281211.28,2.81,13,2025-08-03
+2026_UIT_JODH_338171,NIT_32/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,4214386.64,42.14,13,2025-12-13
+2026_MEDIC_JODH_504083,NIT_96/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,4011014.19,40.11,13,2025-12-04
+2026_DLB_JODH_883269,NIT_20/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,2946218.18,29.46,18,2025-10-24
+2026_PHED_JODH_516965,NIT_68/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,233803.88,2.34,11,2025-05-26
+2026_PWD_JODH_177998,NIT_34/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,274042.03,2.74,9,2025-07-12
+2026_PHED_JODH_851720,NIT_87/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1621329.61,16.21,18,2025-07-24
+2026_WRD_JODH_295910,NIT_69/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,739738.5,7.4,8,2025-12-27
+2026_DLB_JODH_441171,NIT_99/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,5473030.91,54.73,21,2025-05-19
+2026_FORES_JODH_145559,NIT_64/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,15626143.59,156.26,17,2025-04-04
+2026_FORES_JODH_664371,NIT_76/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,6586225.94,65.86,16,2026-02-13
+2026_PHED_JODH_589778,NIT_87/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,505675.74,5.06,14,2025-12-14
+2026_FORES_JODH_216044,NIT_55/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,925949.59,9.26,15,2026-02-24
+2026_PHED_JODH_667298,NIT_98/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2170907.17,21.71,12,2026-03-12
+2026_PWD_JODH_850980,NIT_29/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,711196.16,7.11,13,2025-12-30
+2026_DLB_JODH_900817,NIT_31/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,639308.45,6.39,8,2025-06-10
+2026_WRD_JODH_569989,NIT_36/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,9451060.95,94.51,17,2025-09-23
+2026_WRD_JODH_334373,NIT_87/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,8965036.31,89.65,22,2025-08-31
+2026_PHED_JODH_707473,NIT_87/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,167979.85,1.68,14,2025-06-13
+2026_UIT_JODH_747330,NIT_62/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,488441.09,4.88,11,2025-05-03
+2026_UIT_JODH_559142,NIT_83/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,644988.71,6.45,15,2025-04-02
+2026_MEDIC_JODH_919825,NIT_86/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,11510523.7,115.11,23,2025-09-28
+2026_FORES_JODH_747817,NIT_83/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,9122327.48,91.22,18,2026-02-06
+2026_UIT_JODH_628553,NIT_48/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,240035.65,2.4,11,2025-11-21
+2026_MEDIC_JODH_760512,NIT_53/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,315006.31,3.15,15,2025-12-30
+2026_PWD_JODH_499319,NIT_47/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,15914399.13,159.14,20,2025-04-06
+2026_UIT_JODH_734312,NIT_31/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,680305.07,6.8,13,2025-04-06
+2026_WRD_JODH_279203,NIT_25/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,818555.41,8.19,9,2025-10-22
+2026_PHED_JODH_580961,NIT_15/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,60274054.35,602.74,30,2025-04-10
+2026_UIT_JODH_670807,NIT_32/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,366447.66,3.66,12,2025-12-23
+2026_PWD_JODH_907584,NIT_38/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1052042.88,10.52,18,2025-07-07
+2026_UIT_JODH_798063,NIT_15/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,413904.01,4.14,15,2026-01-08
+2026_PHED_JODH_748915,NIT_86/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,739514.68,7.4,8,2026-01-09
+2026_WRD_JODH_536201,NIT_40/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,5401050.66,54.01,20,2025-04-07
+2026_PWD_JODH_100662,NIT_37/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,186739.41,1.87,13,2026-03-14
+2026_DLB_JODH_206768,NIT_85/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,108971849.03,1089.72,33,2025-04-09
+2026_WRD_JODH_506221,NIT_47/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1414092.76,14.14,13,2025-11-11
+2026_MEDIC_JODH_797267,NIT_47/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,495594.56,4.96,15,2025-12-02
+2026_FORES_JODH_120453,NIT_93/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,244652.13,2.45,13,2026-02-24
+2026_UIT_JODH_136615,NIT_13/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,240398.86,2.4,13,2025-10-08
+2026_FORES_JODH_228844,NIT_16/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,334740.96,3.35,11,2025-08-08
+2026_PHED_JODH_730669,NIT_86/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,900513.99,9.01,11,2026-03-07
+2026_WRD_JODH_542435,NIT_81/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,871909.52,8.72,12,2025-06-24
+2026_WRD_JODH_140495,NIT_58/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,263410.7,2.63,8,2025-09-13
+2026_WRD_JODH_740975,NIT_86/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2685704.85,26.86,15,2025-11-04
+2026_UIT_JODH_286919,NIT_33/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,4571027.66,45.71,10,2025-09-17
+2026_PHED_JODH_325920,NIT_91/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3478186.1,34.78,10,2025-08-11
+2026_DLB_JODH_422230,NIT_71/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,870613.26,8.71,11,2026-03-17
+2026_UIT_JODH_441500,NIT_57/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,627830.18,6.28,12,2025-06-27
+2026_PWD_JODH_989300,NIT_39/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3053915.83,30.54,17,2025-05-12
+2026_PHED_JODH_401433,NIT_52/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,732923.32,7.33,9,2026-03-26
+2026_UIT_JODH_724880,NIT_17/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,152659.44,1.53,9,2026-03-04
+2026_PHED_JODH_195844,NIT_18/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,18024280.89,180.24,17,2026-02-19
+2026_DLB_JODH_618681,NIT_30/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,2645995.08,26.46,18,2025-08-05
+2026_MEDIC_JODH_463336,NIT_81/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,406788.01,4.07,15,2025-09-14
+2026_PHED_JODH_289734,NIT_84/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,684874.71,6.85,12,2025-06-11
+2026_FORES_JODH_427814,NIT_22/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2572800.81,25.73,15,2025-12-07
+2026_WRD_JODH_744819,NIT_20/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2732350.03,27.32,10,2025-12-27
+2026_UIT_JODH_767661,NIT_16/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,2412273.04,24.12,14,2025-11-16
+2026_DLB_JODH_422181,NIT_44/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,2818559.73,28.19,13,2025-09-30
+2026_UIT_JODH_248002,NIT_48/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,11249373.62,112.49,19,2025-05-28
+2026_UIT_JODH_927820,NIT_69/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,245265.99,2.45,14,2025-07-12
+2026_WRD_JODH_403442,NIT_87/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,312539.63,3.13,14,2025-12-18
+2026_MEDIC_JODH_131756,NIT_38/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,1782133.96,17.82,16,2025-05-13
+2026_UIT_JODH_925769,NIT_18/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,3631428.15,36.31,18,2026-02-02
+2026_PHED_JODH_547871,NIT_14/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2973674.45,29.74,12,2026-01-11
+2026_PWD_JODH_469755,NIT_32/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,533935.22,5.34,7,2025-08-25
+2026_UIT_JODH_681804,NIT_65/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,297163.59,2.97,12,2025-07-02
+2026_PWD_JODH_566794,NIT_98/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,9419067.98,94.19,20,2025-07-25
+2026_DLB_JODH_951619,NIT_75/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,1237509.52,12.38,11,2025-09-30
+2026_DLB_JODH_818860,NIT_71/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,7794283.04,77.94,16,2025-12-02
+2026_DLB_JODH_878365,NIT_58/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,4550682.61,45.51,16,2026-01-27
+2026_PWD_JODH_425469,NIT_38/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1837125.55,18.37,14,2025-10-10
+2026_FORES_JODH_932429,NIT_65/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2032474.22,20.32,10,2026-02-07
+2026_MEDIC_JODH_703052,NIT_84/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,16106093.28,161.06,23,2026-01-30
+2026_MEDIC_JODH_456813,NIT_71/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,1904531.38,19.05,13,2026-03-17
+2026_FORES_JODH_456914,NIT_30/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1406998.74,14.07,16,2026-03-06
+2026_MEDIC_JODH_404621,NIT_46/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,286160.95,2.86,11,2025-12-20
+2026_UIT_JODH_641802,NIT_48/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,645402.54,6.45,14,2026-01-24
+2026_WRD_JODH_559318,NIT_31/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3153900.02,31.54,17,2025-09-16
+2026_FORES_JODH_844466,NIT_83/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,428823.58,4.29,15,2025-05-27
+2026_UIT_JODH_721109,NIT_16/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,293320.09,2.93,14,2026-01-01
+2026_MEDIC_JODH_792409,NIT_94/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,826582.68,8.27,9,2025-09-01
+2026_MEDIC_JODH_666700,NIT_34/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,661438.2,6.61,14,2025-05-12
+2026_DLB_JODH_115087,NIT_52/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,750490.21,7.5,11,2025-09-16
+2026_UIT_JODH_203684,NIT_44/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,785844.03,7.86,14,2025-06-21
+2026_MEDIC_JODH_510222,NIT_76/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,6646393.94,66.46,15,2025-07-17
+2026_MEDIC_JODH_627200,NIT_53/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,751588.4,7.52,8,2025-05-12
+2026_MEDIC_JODH_357699,NIT_88/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,938857.2,9.39,15,2025-05-11
+2026_WRD_JODH_452908,NIT_83/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,159085.21,1.59,9,2025-05-24
+2026_DLB_JODH_590744,NIT_83/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,1226227.79,12.26,18,2025-11-04
+2026_DLB_JODH_713627,NIT_36/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,326808.93,3.27,8,2026-02-16
+2026_UIT_JODH_788907,NIT_50/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,15474286.62,154.74,22,2025-04-07
+2026_UIT_JODH_976750,NIT_95/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,2244063.41,22.44,16,2025-04-11
+2026_FORES_JODH_880573,NIT_25/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1506977.02,15.07,11,2025-04-06
+2026_PHED_JODH_999310,NIT_78/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,250520.18,2.51,14,2025-09-05
+2026_PHED_JODH_777713,NIT_50/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2360856.51,23.61,16,2025-04-22
+2026_MEDIC_JODH_161940,NIT_98/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,574895.03,5.75,8,2025-12-14
+2026_FORES_JODH_228992,NIT_15/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,9111017.49,91.11,5,2025-09-01
+2026_PHED_JODH_849347,NIT_69/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1824690.29,18.25,15,2026-03-23
+2026_UIT_JODH_925247,NIT_77/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,546951.48,5.47,13,2025-06-11
+2026_DLB_JODH_182696,NIT_37/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,702165.7,7.02,13,2026-01-16
+2026_PHED_JODH_319137,NIT_55/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,343595.59,3.44,7,2026-02-15
+2026_WRD_JODH_671004,NIT_51/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4707854.02,47.08,16,2025-05-17
+2026_WRD_JODH_763611,NIT_47/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,510290.21,5.1,12,2025-10-15
+2026_UIT_JODH_493817,NIT_40/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,3242936.89,32.43,15,2025-09-25
+2026_UIT_JODH_221309,NIT_22/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,453864.68,4.54,7,2026-03-04
+2026_PHED_JODH_979041,NIT_75/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4466300.82,44.66,12,2025-11-20
+2026_PWD_JODH_996805,NIT_30/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,12716891.38,127.17,21,2025-10-27
+2026_PWD_JODH_459782,NIT_41/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2156194.75,21.56,16,2025-08-09
+2026_WRD_JODH_172024,NIT_97/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2595782.48,25.96,11,2026-02-14
+2026_FORES_JODH_584260,NIT_51/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,657684.8,6.58,15,2026-02-20
+2026_WRD_JODH_529491,NIT_43/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,184282.96,1.84,8,2025-04-20
+2026_PHED_JODH_801789,NIT_81/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3100736.02,31.01,13,2025-04-05
+2026_WRD_JODH_249642,NIT_72/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,485758.74,4.86,15,2025-05-23
+2026_WRD_JODH_764545,NIT_43/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,691145.77,6.91,15,2026-01-22
+2026_PHED_JODH_720733,NIT_50/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,785397.54,7.85,13,2026-01-20
+2026_UIT_JODH_147084,NIT_63/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,546237.69,5.46,7,2026-01-17
+2026_PHED_JODH_281543,NIT_74/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,579264.84,5.79,15,2025-11-19
+2026_UIT_JODH_382719,NIT_50/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,15610703.44,156.11,18,2025-09-16
+2026_MEDIC_JODH_884981,NIT_68/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,258627.83,2.59,14,2025-08-15
+2026_PHED_JODH_122306,NIT_92/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4679382.11,46.79,18,2025-06-01
+2026_UIT_JODH_210790,NIT_59/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,821314.98,8.21,7,2025-07-13
+2026_WRD_JODH_318381,NIT_85/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2939537.99,29.4,11,2025-12-16
+2026_DLB_JODH_315531,NIT_80/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,525914.62,5.26,12,2025-12-19
+2026_PHED_JODH_867870,NIT_39/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,8159397.01,81.59,15,2025-08-07
+2026_PWD_JODH_343844,NIT_11/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,13549591.37,135.5,20,2025-07-08
+2026_MEDIC_JODH_966023,NIT_91/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,848678.13,8.49,9,2026-01-05
+2026_PHED_JODH_515129,NIT_27/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,10011795.3,100.12,19,2025-05-05
+2026_FORES_JODH_988544,NIT_31/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,106373288.13,1063.73,30,2026-03-01
+2026_WRD_JODH_572079,NIT_69/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,7048517.03,70.49,15,2025-04-29
+2026_FORES_JODH_823665,NIT_73/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,14714645.25,147.15,18,2025-06-21
+2026_WRD_JODH_489264,NIT_40/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,822150.95,8.22,7,2026-02-13
+2026_DLB_JODH_849298,NIT_88/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,2210873.92,22.11,12,2025-06-13
+2026_UIT_JODH_390505,NIT_79/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,911694.41,9.12,15,2025-11-30
+2026_PHED_JODH_880569,NIT_59/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,936370.86,9.36,13,2025-07-14
+2026_PHED_JODH_286076,NIT_57/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,28734733.47,287.35,32,2025-07-04
+2026_WRD_JODH_114668,NIT_43/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,815905.39,8.16,10,2025-06-28
+2026_DLB_JODH_204520,NIT_23/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,3050885.26,30.51,10,2025-07-08
+2026_WRD_JODH_501155,NIT_77/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,11156371.97,111.56,22,2025-04-07
+2026_PHED_JODH_672685,NIT_61/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,11391381.21,113.91,17,2025-04-18
+2026_PWD_JODH_723438,NIT_52/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,98163846.65,981.64,36,2025-06-09
+2026_PWD_JODH_698989,NIT_56/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,307275.1,3.07,7,2025-04-06
+2026_WRD_JODH_587426,NIT_70/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,633932.16,6.34,8,2025-12-10
+2026_PHED_JODH_243195,NIT_52/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,914251.96,9.14,7,2025-04-14
+2026_UIT_JODH_583807,NIT_37/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,642268.75,6.42,7,2026-03-02
+2026_DLB_JODH_280003,NIT_30/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,224819.35,2.25,13,2026-01-15
+2026_PWD_JODH_879348,NIT_75/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,528091.2,5.28,13,2025-12-10
+2026_PHED_JODH_294655,NIT_25/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1143568.97,11.44,15,2025-08-22
+2026_FORES_JODH_527308,NIT_24/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4795476.05,47.95,12,2026-01-06
+2026_UIT_JODH_171725,NIT_70/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,817387.67,8.17,11,2025-08-04
+2026_DLB_JODH_156406,NIT_28/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,4143947.1,41.44,14,2025-06-07
+2026_PHED_JODH_478059,NIT_28/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,224274.38,2.24,9,2025-09-23
+2026_PHED_JODH_325101,NIT_85/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,365902.48,3.66,7,2026-01-24
+2026_WRD_JODH_419911,NIT_67/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4041886.13,40.42,12,2025-10-10
+2026_MEDIC_JODH_123701,NIT_36/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,3579011.02,35.79,15,2025-09-09
+2026_PWD_JODH_335561,NIT_26/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2813717.84,28.14,17,2026-02-03
+2026_UIT_JODH_414685,NIT_81/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,169285.15,1.69,9,2025-08-17
+2026_WRD_JODH_967341,NIT_98/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,10155446.08,101.55,15,2025-06-07
+2026_PWD_JODH_211464,NIT_83/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3552805.64,35.53,18,2026-01-23
+2026_UIT_JODH_195335,NIT_31/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,4070336.98,40.7,16,2026-03-26
+2026_WRD_JODH_868089,NIT_87/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4058751.55,40.59,14,2025-12-02
+2026_MEDIC_JODH_548748,NIT_75/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,14507610.27,145.08,15,2025-04-05
+2026_MEDIC_JODH_651046,NIT_44/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,2219855.81,22.2,18,2025-07-28
+2026_DLB_JODH_960738,NIT_94/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,3140588.42,31.41,11,2026-01-18
+2026_PWD_JODH_614531,NIT_47/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,82351411.43,823.51,34,2025-04-23
+2026_PWD_JODH_523272,NIT_83/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3813663.95,38.14,13,2025-10-19
+2026_MEDIC_JODH_865840,NIT_90/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,252286.04,2.52,12,2025-07-27
+2026_WRD_JODH_666579,NIT_44/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2961980.66,29.62,10,2025-12-15
+2026_PHED_JODH_222964,NIT_38/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,609267.41,6.09,12,2025-08-19
+2026_DLB_JODH_296599,NIT_28/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,721532.72,7.22,5,2025-06-25
+2026_PHED_JODH_879595,NIT_72/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3623697.12,36.24,10,2025-10-01
+2026_WRD_JODH_101562,NIT_36/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,15706802.43,157.07,3,2025-04-10
+2026_MEDIC_JODH_644207,NIT_58/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,8631602.13,86.32,21,2025-11-19
+2026_PHED_JODH_722585,NIT_24/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,639749.15,6.4,5,2025-06-02
+2026_WRD_JODH_224896,NIT_61/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,788656.97,7.89,8,2025-10-14
+2026_MEDIC_JODH_889544,NIT_90/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,271814.49,2.72,14,2025-07-13
+2026_DLB_JODH_878215,NIT_84/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,87652158.01,876.52,37,2026-02-11
+2026_PWD_JODH_507062,NIT_11/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,74635925.05,746.36,31,2026-01-06
+2026_DLB_JODH_603346,NIT_43/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,2506904.53,25.07,10,2026-01-31
+2026_UIT_JODH_982017,NIT_85/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,12307689.84,123.08,16,2025-05-20
+2026_FORES_JODH_975595,NIT_41/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4624095.97,46.24,11,2025-12-24
+2026_PWD_JODH_433804,NIT_21/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3533073.01,35.33,15,2026-03-22
+2026_WRD_JODH_445742,NIT_74/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,263217.3,2.63,11,2025-06-16
+2026_PWD_JODH_298298,NIT_91/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,357819.39,3.58,7,2025-05-06
+2026_WRD_JODH_313336,NIT_51/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3909896.76,39.1,16,2025-04-16
+2026_DLB_JODH_437276,NIT_58/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,4587936.16,45.88,14,2025-08-24
+2026_MEDIC_JODH_838253,NIT_44/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,840584.15,8.41,9,2025-04-28
+2026_PWD_JODH_161404,NIT_80/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,34656869.79,346.57,32,2026-01-02
+2026_PWD_JODH_822173,NIT_74/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,271766.04,2.72,10,2025-12-19
+2026_DLB_JODH_725437,NIT_46/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,924516.79,9.25,13,2025-06-12
+2026_PWD_JODH_656666,NIT_54/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2927989.18,29.28,14,2026-03-19
+2026_WRD_JODH_242546,NIT_69/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1902755.68,19.03,13,2025-10-28
+2026_WRD_JODH_267530,NIT_38/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2341653.04,23.42,10,2025-08-29
+2026_PWD_JODH_267216,NIT_89/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,225761.0,2.26,9,2026-01-08
+2026_FORES_JODH_448143,NIT_23/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,589161.64,5.89,8,2026-02-16
+2026_PHED_JODH_924497,NIT_90/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4704573.13,47.05,10,2025-08-25
+2026_FORES_JODH_516895,NIT_24/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4362635.76,43.63,12,2025-07-22
+2026_PWD_JODH_377350,NIT_64/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,476718.81,4.77,9,2026-01-13
+2026_PHED_JODH_647746,NIT_28/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2768554.63,27.69,12,2025-07-12
+2026_PHED_JODH_695379,NIT_90/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,491772.56,4.92,9,2025-04-16
+2026_FORES_JODH_377339,NIT_78/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3732487.98,37.32,5,2025-11-09
+2026_UIT_JODH_440894,NIT_38/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,18388939.99,183.89,19,2025-09-07
+2026_DLB_JODH_860643,NIT_15/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,926516.04,9.27,9,2025-06-13
+2026_DLB_JODH_539313,NIT_38/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,831704.19,8.32,7,2025-05-25
+2026_MEDIC_JODH_192392,NIT_52/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,1937241.83,19.37,13,2025-09-06
+2026_DLB_JODH_986407,NIT_29/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,2023023.69,20.23,16,2025-05-13
+2026_DLB_JODH_529740,NIT_78/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,1684038.48,16.84,11,2026-03-14
+2026_PHED_JODH_966176,NIT_68/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,14420863.38,144.21,15,2025-12-17
+2026_DLB_JODH_988462,NIT_63/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,14909574.75,149.1,21,2025-06-18
+2026_UIT_JODH_236337,NIT_45/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,118372942.7,1183.73,37,2025-10-27
+2026_UIT_JODH_672289,NIT_66/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,558509.38,5.59,11,2025-11-29
+2026_DLB_JODH_970181,NIT_20/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,679913.17,6.8,10,2025-10-03
+2026_PWD_JODH_138272,NIT_62/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,929973.78,9.3,15,2025-09-03
+2026_MEDIC_JODH_693101,NIT_71/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,944737.38,9.45,9,2025-07-30
+2026_WRD_JODH_385081,NIT_36/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2203498.24,22.03,16,2025-10-11
+2026_MEDIC_JODH_259761,NIT_24/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,270652.71,2.71,13,2025-08-08
+2026_MEDIC_JODH_874116,NIT_55/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,7458051.9,74.58,15,2025-10-22
+2026_FORES_JODH_824520,NIT_45/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4053861.93,40.54,11,2025-06-03
+2026_PWD_JODH_803154,NIT_88/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2898966.08,28.99,18,2025-05-12
+2026_MEDIC_JODH_253880,NIT_69/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,349262.11,3.49,13,2025-07-29
+2026_WRD_JODH_336293,NIT_53/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,691734.57,6.92,15,2025-12-14
+2026_UIT_JODH_287454,NIT_18/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,572588.07,5.73,13,2025-12-31
+2026_PWD_JODH_524832,NIT_61/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,357736.29,3.58,12,2025-05-21
+2026_UIT_JODH_205650,NIT_15/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,295395.87,2.95,12,2025-09-07
+2026_PHED_JODH_788402,NIT_45/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1358481.5,13.58,13,2025-04-16
+2026_PWD_JODH_842636,NIT_61/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,5903216.32,59.03,21,2025-04-03
+2026_UIT_JODH_351361,NIT_73/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,7163431.07,71.63,23,2025-10-15
+2026_PWD_JODH_161293,NIT_35/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1661833.73,16.62,13,2025-05-24
+2026_MEDIC_JODH_568421,NIT_80/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,812457.57,8.12,7,2025-05-12
+2026_PWD_JODH_946817,NIT_45/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,5647585.51,56.48,7,2025-11-30
+2026_UIT_JODH_222448,NIT_40/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,6675741.97,66.76,22,2026-02-28
+2026_MEDIC_JODH_535097,NIT_15/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,774539.43,7.75,13,2025-06-19
+2026_UIT_JODH_472012,NIT_97/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,3732333.75,37.32,10,2025-12-16
+2026_WRD_JODH_203307,NIT_84/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,668411.34,6.68,14,2025-12-25
+2026_WRD_JODH_482372,NIT_11/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,13875871.18,138.76,10,2025-09-22
+2026_PHED_JODH_454101,NIT_77/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,37399198.84,373.99,18,2025-06-25
+2026_MEDIC_JODH_654156,NIT_96/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,843782.67,8.44,7,2025-11-28
+2026_PHED_JODH_917249,NIT_69/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,13462671.36,134.63,6,2025-11-26
+2026_PWD_JODH_535685,NIT_23/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2650319.89,26.5,18,2025-05-27
+2026_UIT_JODH_745471,NIT_70/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,117618848.04,1176.19,36,2025-08-07
+2026_DLB_JODH_614232,NIT_25/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,578379.07,5.78,10,2025-04-21
+2026_DLB_JODH_539589,NIT_81/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,17113418.01,171.13,11,2026-01-06
+2026_PWD_JODH_806463,NIT_80/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,443069.12,4.43,15,2025-04-17
+2026_PWD_JODH_277960,NIT_93/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,355514.53,3.56,10,2025-06-09
+2026_PHED_JODH_514461,NIT_33/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,279815.41,2.8,13,2026-01-25
+2026_PWD_JODH_927685,NIT_59/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,80644017.42,806.44,37,2025-08-11
+2026_DLB_JODH_798751,NIT_70/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,5474938.8,54.75,20,2025-05-04
+2026_DLB_JODH_749848,NIT_98/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,6833839.52,68.34,20,2026-03-23
+2026_FORES_JODH_248937,NIT_21/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,9641586.07,96.42,19,2025-06-14
+2026_DLB_JODH_176231,NIT_10/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,534274.18,5.34,4,2025-10-04
+2026_PWD_JODH_952880,NIT_93/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,568145.39,5.68,9,2025-08-23
+2026_UIT_JODH_322173,NIT_99/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,748446.08,7.48,15,2025-07-23
+2026_MEDIC_JODH_243606,NIT_46/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,583463.45,5.83,8,2025-07-22
+2026_PWD_JODH_110715,NIT_48/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,880299.78,8.8,8,2025-04-08
+2026_WRD_JODH_999837,NIT_39/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,187480.58,1.87,8,2025-10-11
+2026_DLB_JODH_854655,NIT_56/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,760920.54,7.61,13,2026-03-24
+2026_WRD_JODH_523918,NIT_41/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,334870.72,3.35,12,2025-07-29
+2026_WRD_JODH_676665,NIT_21/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,224777.92,2.25,8,2025-08-20
+2026_DLB_JODH_541042,NIT_43/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,764965.93,7.65,15,2026-01-25
+2026_UIT_JODH_545106,NIT_25/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,52685672.58,526.86,31,2025-06-10
+2026_MEDIC_JODH_907852,NIT_19/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,4446873.14,44.47,15,2025-05-21
+2026_PHED_JODH_345587,NIT_85/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,57839485.25,578.39,35,2025-10-03
+2026_WRD_JODH_262282,NIT_58/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,833265.54,8.33,14,2025-06-22
+2026_PHED_JODH_870023,NIT_59/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,165088.62,1.65,11,2025-11-09
+2026_UIT_JODH_874001,NIT_57/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,3943882.03,39.44,17,2025-11-26
+2026_PHED_JODH_138460,NIT_55/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,201726.28,2.02,14,2025-07-14
+2026_PWD_JODH_967078,NIT_74/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,521076.22,5.21,11,2026-02-28
+2026_DLB_JODH_657379,NIT_92/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,752110.79,7.52,7,2025-07-20
+2026_PWD_JODH_610316,NIT_50/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,395516.5,3.96,7,2025-07-05
+2026_DLB_JODH_410909,NIT_19/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,822429.3,8.22,12,2025-11-22
+2026_FORES_JODH_289863,NIT_59/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,189848.43,1.9,12,2025-08-11
+2026_UIT_JODH_888257,NIT_60/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,3619691.95,36.2,12,2025-11-17
+2026_PHED_JODH_681960,NIT_76/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,817124.39,8.17,14,2025-10-31
+2026_DLB_JODH_362848,NIT_27/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,158228.48,1.58,13,2026-03-16
+2026_PHED_JODH_250802,NIT_71/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,18249216.51,182.49,20,2025-07-16
+2026_FORES_JODH_675133,NIT_61/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,530710.4,5.31,12,2026-02-04
+2026_PHED_JODH_328472,NIT_77/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,494989.9,4.95,14,2026-02-05
+2026_PWD_JODH_526180,NIT_95/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,14778340.13,147.78,23,2025-10-19
+2026_MEDIC_JODH_812427,NIT_39/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,291091.93,2.91,12,2025-07-30
+2026_WRD_JODH_106319,NIT_54/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,780565.42,7.81,9,2025-11-29
+2026_PHED_JODH_705773,NIT_63/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,743762.96,7.44,12,2026-01-31
+2026_UIT_JODH_571200,NIT_64/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,911235.79,9.11,12,2025-07-08
+2026_FORES_JODH_788115,NIT_51/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2593102.07,25.93,17,2025-12-13
+2026_MEDIC_JODH_585882,NIT_73/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,15007383.22,150.07,16,2026-01-26
+2026_FORES_JODH_128962,NIT_40/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,814938.85,8.15,9,2025-07-02
+2026_DLB_JODH_320261,NIT_61/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,3860921.91,38.61,13,2025-07-02
+2026_PWD_JODH_840469,NIT_32/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,290352.96,2.9,14,2025-05-23
+2026_PWD_JODH_898571,NIT_19/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,818733.29,8.19,14,2025-11-05
+2026_MEDIC_JODH_226554,NIT_72/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,1449779.83,14.5,14,2025-06-20
+2026_MEDIC_JODH_669581,NIT_57/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,241216.04,2.41,15,2025-10-24
+2026_MEDIC_JODH_680343,NIT_39/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,175905.55,1.76,8,2025-11-04
+2026_MEDIC_JODH_108245,NIT_36/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,617611.31,6.18,9,2025-04-16
+2026_PHED_JODH_883157,NIT_62/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,945921.44,9.46,15,2025-04-08
+2026_PWD_JODH_379069,NIT_33/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,692886.61,6.93,8,2025-05-02
+2026_DLB_JODH_672907,NIT_13/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,17183251.18,171.83,15,2025-07-20
+2026_UIT_JODH_184289,NIT_61/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,889080.72,8.89,7,2025-09-23
+2026_FORES_JODH_111303,NIT_14/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,382964.24,3.83,9,2025-10-29
+2026_UIT_JODH_581126,NIT_33/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,353044.15,3.53,10,2025-05-28
+2026_UIT_JODH_947605,NIT_66/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,1649661.32,16.5,17,2025-11-08
+2026_PHED_JODH_682176,NIT_10/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,3074742.15,30.75,10,2025-10-21
+2026_UIT_JODH_440888,NIT_43/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,1278245.91,12.78,18,2025-09-14
+2026_PWD_JODH_832829,NIT_87/JOD/2025-26,Public Works Department (Jodhpur Circle),Jodhpur,Jodhpur Division,1871189.35,18.71,12,2025-11-23
+2026_FORES_JODH_265678,NIT_73/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,7686516.63,76.87,16,2025-10-16
+2026_PHED_JODH_464969,NIT_93/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,188206.4,1.88,13,2025-05-01
+2026_PHED_JODH_970784,NIT_65/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,724821.04,7.25,12,2025-06-27
+2026_DLB_JODH_274277,NIT_80/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,14094393.61,140.94,22,2025-08-14
+2026_MEDIC_JODH_885298,NIT_90/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,79052028.66,790.52,26,2025-04-01
+2026_MEDIC_JODH_672660,NIT_65/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,9358666.24,93.59,10,2025-10-04
+2026_UIT_JODH_532834,NIT_12/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,285716.93,2.86,8,2026-01-15
+2026_UIT_JODH_985462,NIT_31/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,626017.49,6.26,8,2025-10-08
+2026_UIT_JODH_965368,NIT_48/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,855693.37,8.56,7,2025-08-22
+2026_WRD_JODH_668552,NIT_83/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4477011.52,44.77,12,2025-06-20
+2026_WRD_JODH_301775,NIT_41/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,315031.98,3.15,4,2025-08-04
+2026_WRD_JODH_170501,NIT_15/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,273171.39,2.73,12,2025-09-24
+2026_UIT_JODH_162263,NIT_24/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,13731046.53,137.31,19,2025-09-16
+2026_UIT_JODH_852786,NIT_97/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,867969.69,8.68,13,2026-01-23
+2026_MEDIC_JODH_952659,NIT_80/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,16357797.69,163.58,18,2025-08-04
+2026_PHED_JODH_270080,NIT_47/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,829841.51,8.3,9,2026-01-29
+2026_DLB_JODH_238687,NIT_10/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,799476.58,7.99,15,2026-02-25
+2026_PHED_JODH_228396,NIT_26/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,815322.63,8.15,11,2025-05-17
+2026_PHED_JODH_707951,NIT_17/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2716241.32,27.16,16,2025-09-08
+2026_UIT_JODH_741443,NIT_86/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,641830.46,6.42,8,2025-06-13
+2026_PHED_JODH_620526,NIT_61/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,308470.33,3.08,11,2026-01-27
+2026_WRD_JODH_391352,NIT_30/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,27491086.63,274.91,8,2026-01-30
+2026_UIT_JODH_381229,NIT_92/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,224325.4,2.24,14,2025-09-23
+2026_MEDIC_JODH_935536,NIT_22/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,3247338.22,32.47,17,2025-05-09
+2026_FORES_JODH_340207,NIT_22/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2856065.93,28.56,16,2025-06-05
+2026_DLB_JODH_996501,NIT_45/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,528762.04,5.29,15,2026-02-17
+2026_DLB_JODH_364109,NIT_59/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,1435821.07,14.36,10,2026-02-12
+2026_DLB_JODH_226317,NIT_67/JOD/2025-26,Directorate of Local Bodies (Jodhpur Circle),Jodhpur,Jodhpur Division,796921.24,7.97,7,2026-01-18
+2026_MEDIC_JODH_266030,NIT_94/JOD/2025-26,Department of Medical Education (Jodhpur Circle),Jodhpur,Jodhpur Division,3831850.11,38.32,14,2025-09-09
+2026_UIT_JODH_244104,NIT_44/JOD/2025-26,Municipal Council Jodhpur,Jodhpur,Jodhpur Division,198867.54,1.99,8,2025-05-03
+2026_WRD_JODH_824653,NIT_39/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,4275224.42,42.75,15,2025-05-19
+2026_WRD_JODH_320079,NIT_27/JOD/2025-26,Water Resources Department (Jodhpur Circle),Jodhpur,Jodhpur Division,230294.01,2.3,11,2025-07-31
+2026_FORES_JODH_982183,NIT_16/JOD/2025-26,Forest Department (Jodhpur Circle),Jodhpur,Jodhpur Division,2990342.71,29.9,17,2026-02-21
+2026_PHED_JODH_373603,NIT_69/JOD/2025-26,Public Health Engineering Department (Jodhpur Circle),Jodhpur,Jodhpur Division,634371.7,6.34,11,2025-06-07

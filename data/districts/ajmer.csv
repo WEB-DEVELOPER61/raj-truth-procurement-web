@@ -1,0 +1,436 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_PHED_AJME_380457,NIT_99/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,8275971.76,82.76,22,2025-08-06
+2026_DLB_AJME_895928,NIT_87/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,532252.42,5.32,13,2025-12-14
+2026_UIT_AJME_477750,NIT_29/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,4185379.79,41.85,13,2025-05-10
+2026_FORES_AJME_947931,NIT_99/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,11874884.26,118.75,15,2026-01-14
+2026_PHED_AJME_596782,NIT_12/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,216085.11,2.16,15,2025-09-15
+2026_MEDIC_AJME_517153,NIT_81/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,607838.64,6.08,7,2026-02-12
+2026_WRD_AJME_277368,NIT_82/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,1129672.96,11.3,15,2025-04-17
+2026_MEDIC_AJME_467107,NIT_71/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,17919469.84,179.19,19,2025-11-15
+2026_FORES_AJME_260766,NIT_59/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,10695442.15,106.95,6,2026-02-05
+2026_MEDIC_AJME_765956,NIT_32/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,380416.09,3.8,8,2025-05-17
+2026_MEDIC_AJME_463152,NIT_44/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,178186.98,1.78,13,2025-06-30
+2026_FORES_AJME_611671,NIT_75/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,666864.65,6.67,7,2025-12-18
+2026_MEDIC_AJME_871444,NIT_93/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,193140.3,1.93,10,2025-05-16
+2026_UIT_AJME_228700,NIT_29/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,918021.33,9.18,14,2026-01-24
+2026_WRD_AJME_731951,NIT_27/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,4343238.62,43.43,12,2025-07-17
+2026_PHED_AJME_185260,NIT_33/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,413458.95,4.13,9,2025-09-25
+2026_PWD_AJME_964618,NIT_98/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,14976524.71,149.77,21,2025-06-03
+2026_DLB_AJME_283357,NIT_98/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,518394.92,5.18,11,2025-05-18
+2026_PHED_AJME_392834,NIT_32/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,2913018.95,29.13,13,2025-06-13
+2026_PHED_AJME_430876,NIT_93/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,543518.22,5.44,11,2025-07-02
+2026_UIT_AJME_206148,NIT_96/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,866713.03,8.67,7,2026-02-06
+2026_WRD_AJME_294128,NIT_14/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,501429.63,5.01,14,2025-08-12
+2026_PWD_AJME_487570,NIT_93/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,71310310.1,713.1,25,2026-02-10
+2026_WRD_AJME_250443,NIT_53/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,5895717.25,58.96,17,2026-03-06
+2026_UIT_AJME_932137,NIT_52/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,330980.01,3.31,7,2026-01-20
+2026_WRD_AJME_476327,NIT_98/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,828708.95,8.29,14,2025-12-10
+2026_MEDIC_AJME_939622,NIT_87/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,8287576.52,82.88,22,2025-07-17
+2026_DLB_AJME_713386,NIT_54/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,513065.22,5.13,8,2025-11-03
+2026_FORES_AJME_923001,NIT_19/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,252127.73,2.52,10,2025-09-12
+2026_PWD_AJME_206931,NIT_94/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,4380548.46,43.81,13,2025-04-26
+2026_PWD_AJME_130808,NIT_70/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,53489151.88,534.89,30,2025-07-01
+2026_UIT_AJME_372770,NIT_61/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,929476.78,9.29,15,2025-08-26
+2026_FORES_AJME_867243,NIT_23/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,286424.5,2.86,9,2025-07-02
+2026_PHED_AJME_997688,NIT_31/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,17707613.68,177.08,23,2025-09-12
+2026_FORES_AJME_944449,NIT_70/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,197387.59,1.97,11,2025-07-16
+2026_MEDIC_AJME_971331,NIT_23/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,348841.46,3.49,3,2026-01-13
+2026_DLB_AJME_644399,NIT_36/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,2848968.56,28.49,13,2025-05-28
+2026_DLB_AJME_955384,NIT_80/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,7764091.54,77.64,15,2026-02-11
+2026_UIT_AJME_725011,NIT_36/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,507098.61,5.07,10,2025-05-09
+2026_DLB_AJME_983372,NIT_79/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,50858014.6,508.58,33,2026-01-02
+2026_PWD_AJME_306928,NIT_66/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,3442310.26,34.42,17,2025-07-28
+2026_MEDIC_AJME_229290,NIT_22/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,328665.65,3.29,7,2026-03-10
+2026_WRD_AJME_702787,NIT_44/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,60173164.23,601.73,34,2025-04-16
+2026_DLB_AJME_997918,NIT_72/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,855865.54,8.56,12,2025-07-29
+2026_WRD_AJME_437546,NIT_93/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,904660.76,9.05,10,2025-08-14
+2026_MEDIC_AJME_858689,NIT_22/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,3551760.36,35.52,10,2026-03-08
+2026_MEDIC_AJME_950526,NIT_32/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,601720.6,6.02,15,2025-09-12
+2026_PWD_AJME_945122,NIT_27/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,733328.0,7.33,14,2025-12-03
+2026_MEDIC_AJME_680212,NIT_31/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,919223.0,9.19,12,2025-07-22
+2026_DLB_AJME_173558,NIT_57/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,490934.88,4.91,12,2025-07-30
+2026_PHED_AJME_879621,NIT_14/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,11358225.08,113.58,9,2025-10-31
+2026_FORES_AJME_617386,NIT_17/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,3467370.21,34.67,16,2025-07-19
+2026_UIT_AJME_344242,NIT_21/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,30887051.87,308.87,36,2026-03-23
+2026_PWD_AJME_209421,NIT_85/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,415911.45,4.16,7,2026-01-30
+2026_PHED_AJME_613880,NIT_36/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,731117.82,7.31,11,2026-03-17
+2026_PWD_AJME_341556,NIT_72/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,544315.64,5.44,14,2025-04-05
+2026_UIT_AJME_325348,NIT_72/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,607789.17,6.08,7,2025-10-30
+2026_PWD_AJME_950133,NIT_78/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,614567.88,6.15,7,2025-08-25
+2026_WRD_AJME_642491,NIT_26/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,1219064.15,12.19,11,2025-10-18
+2026_PHED_AJME_968352,NIT_44/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,11392969.16,113.93,21,2026-01-12
+2026_WRD_AJME_601409,NIT_41/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,35595695.93,355.96,30,2025-11-04
+2026_WRD_AJME_975013,NIT_27/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,610426.71,6.1,12,2025-07-22
+2026_DLB_AJME_946272,NIT_66/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,13814949.19,138.15,3,2025-11-17
+2026_PHED_AJME_884374,NIT_14/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,647118.65,6.47,7,2025-07-29
+2026_WRD_AJME_829099,NIT_99/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,406657.09,4.07,15,2025-05-21
+2026_MEDIC_AJME_733854,NIT_63/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,12646576.53,126.47,19,2025-08-21
+2026_WRD_AJME_556587,NIT_51/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,4617982.33,46.18,18,2025-05-11
+2026_UIT_AJME_864564,NIT_67/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,360831.93,3.61,7,2025-09-09
+2026_WRD_AJME_158229,NIT_91/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,439250.35,4.39,12,2026-03-20
+2026_FORES_AJME_441658,NIT_63/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,537476.33,5.37,7,2026-01-14
+2026_UIT_AJME_282755,NIT_16/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,1488912.26,14.89,17,2025-09-09
+2026_MEDIC_AJME_872089,NIT_86/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,693642.79,6.94,7,2025-05-07
+2026_PHED_AJME_370002,NIT_90/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,28765390.88,287.65,38,2025-04-27
+2026_DLB_AJME_760685,NIT_71/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,165283.89,1.65,11,2025-08-18
+2026_DLB_AJME_476806,NIT_49/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,565317.76,5.65,5,2025-04-07
+2026_PWD_AJME_408069,NIT_14/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,167998.86,1.68,11,2025-10-01
+2026_WRD_AJME_753546,NIT_69/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,458035.16,4.58,11,2025-12-31
+2026_UIT_AJME_562128,NIT_54/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,286316.87,2.86,11,2026-01-08
+2026_MEDIC_AJME_734400,NIT_28/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,4273790.3,42.74,12,2025-09-09
+2026_DLB_AJME_542553,NIT_17/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,6347546.48,63.48,22,2026-02-03
+2026_WRD_AJME_874351,NIT_20/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,6430641.23,64.31,16,2025-10-14
+2026_WRD_AJME_285475,NIT_97/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,14278678.14,142.79,4,2025-10-06
+2026_MEDIC_AJME_445926,NIT_87/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,5510440.1,55.1,15,2025-11-11
+2026_UIT_AJME_978896,NIT_19/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,3959559.71,39.6,16,2026-03-17
+2026_WRD_AJME_604393,NIT_71/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,17023239.38,170.23,18,2025-05-22
+2026_FORES_AJME_141806,NIT_98/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,919935.94,9.2,9,2026-03-25
+2026_PHED_AJME_227548,NIT_84/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,516853.28,5.17,9,2025-10-03
+2026_WRD_AJME_494005,NIT_22/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,480635.86,4.81,11,2025-08-21
+2026_DLB_AJME_722554,NIT_63/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,376285.11,3.76,15,2026-02-05
+2026_UIT_AJME_288757,NIT_42/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,696547.09,6.97,15,2025-07-26
+2026_PHED_AJME_633188,NIT_18/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,106814311.91,1068.14,37,2026-02-18
+2026_PHED_AJME_385061,NIT_97/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,694556.98,6.95,9,2026-01-22
+2026_DLB_AJME_884509,NIT_51/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,933306.41,9.33,11,2025-09-01
+2026_MEDIC_AJME_703197,NIT_49/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,166012.13,1.66,3,2025-10-14
+2026_WRD_AJME_992060,NIT_79/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,354054.92,3.54,9,2026-02-24
+2026_FORES_AJME_403244,NIT_81/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,743160.62,7.43,14,2026-01-12
+2026_PWD_AJME_775303,NIT_71/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,751555.24,7.52,14,2025-11-01
+2026_UIT_AJME_367012,NIT_83/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,526017.01,5.26,15,2025-04-24
+2026_WRD_AJME_360289,NIT_45/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,835175.3,8.35,8,2026-01-01
+2026_DLB_AJME_228575,NIT_64/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,1525487.51,15.25,17,2025-09-04
+2026_DLB_AJME_556358,NIT_68/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,2671989.64,26.72,16,2025-04-30
+2026_FORES_AJME_740276,NIT_20/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,620661.97,6.21,12,2025-06-23
+2026_DLB_AJME_979339,NIT_42/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,250943.66,2.51,10,2025-05-28
+2026_DLB_AJME_556370,NIT_84/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,546973.9,5.47,7,2025-12-28
+2026_UIT_AJME_472283,NIT_63/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,3870092.97,38.7,11,2025-04-14
+2026_FORES_AJME_492972,NIT_93/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,498856.98,4.99,13,2025-12-05
+2026_PWD_AJME_793710,NIT_48/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,834577.0,8.35,14,2025-12-03
+2026_UIT_AJME_216374,NIT_44/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,1177686.63,11.78,17,2025-04-29
+2026_PHED_AJME_482929,NIT_12/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,707769.68,7.08,11,2025-08-10
+2026_MEDIC_AJME_395881,NIT_14/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,661919.61,6.62,15,2025-09-12
+2026_DLB_AJME_951697,NIT_51/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,255748.36,2.56,10,2025-12-08
+2026_WRD_AJME_380091,NIT_80/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,8913397.47,89.13,22,2025-10-17
+2026_UIT_AJME_889405,NIT_96/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,10858006.35,108.58,19,2025-07-04
+2026_PWD_AJME_843002,NIT_52/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,1148942.5,11.49,15,2025-07-20
+2026_UIT_AJME_110343,NIT_97/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,509454.26,5.09,14,2025-06-06
+2026_MEDIC_AJME_755388,NIT_99/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,769712.77,7.7,12,2026-03-11
+2026_MEDIC_AJME_683333,NIT_73/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,26958933.11,269.59,34,2025-06-20
+2026_FORES_AJME_776451,NIT_64/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,101873749.39,1018.74,16,2025-11-03
+2026_UIT_AJME_739765,NIT_79/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,174890.17,1.75,14,2025-11-09
+2026_FORES_AJME_421107,NIT_43/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,12665212.02,126.65,19,2025-07-10
+2026_FORES_AJME_477863,NIT_15/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,195306.33,1.95,13,2025-05-23
+2026_DLB_AJME_472126,NIT_38/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,532559.18,5.33,14,2026-03-15
+2026_MEDIC_AJME_368486,NIT_27/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,2093225.62,20.93,14,2026-01-14
+2026_PWD_AJME_714904,NIT_24/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,461672.94,4.62,13,2026-01-23
+2026_WRD_AJME_122761,NIT_97/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,11696159.51,116.96,20,2025-04-19
+2026_PWD_AJME_507054,NIT_87/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,209166.22,2.09,14,2025-12-28
+2026_PWD_AJME_603692,NIT_89/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,557699.8,5.58,14,2026-03-09
+2026_PWD_AJME_122161,NIT_77/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,6073708.31,60.74,19,2026-01-22
+2026_PWD_AJME_248288,NIT_36/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,18267797.44,182.68,21,2026-01-19
+2026_UIT_AJME_850894,NIT_32/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,756315.08,7.56,11,2025-05-21
+2026_MEDIC_AJME_103964,NIT_21/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,707363.16,7.07,12,2026-02-07
+2026_MEDIC_AJME_223546,NIT_25/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,3468230.21,34.68,14,2025-11-02
+2026_WRD_AJME_141341,NIT_41/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,204537.05,2.05,9,2026-01-09
+2026_DLB_AJME_728676,NIT_22/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,47053598.36,470.54,31,2025-05-13
+2026_FORES_AJME_252132,NIT_13/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,16374144.69,163.74,15,2025-10-06
+2026_MEDIC_AJME_503462,NIT_65/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,693980.92,6.94,11,2025-06-18
+2026_PHED_AJME_701838,NIT_47/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,811673.57,8.12,10,2025-12-03
+2026_WRD_AJME_808769,NIT_46/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,859291.89,8.59,11,2025-10-15
+2026_PHED_AJME_597071,NIT_71/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,8530233.81,85.3,20,2025-04-28
+2026_FORES_AJME_355475,NIT_11/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,803035.39,8.03,14,2025-11-30
+2026_UIT_AJME_243279,NIT_97/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,784311.98,7.84,10,2025-05-09
+2026_DLB_AJME_266077,NIT_55/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,187266.42,1.87,12,2025-07-11
+2026_PHED_AJME_545140,NIT_66/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,3365209.52,33.65,14,2026-03-12
+2026_UIT_AJME_837099,NIT_75/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,346865.0,3.47,13,2026-01-11
+2026_FORES_AJME_583778,NIT_72/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,621346.99,6.21,15,2026-03-07
+2026_MEDIC_AJME_697054,NIT_44/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,17076481.1,170.76,5,2025-12-26
+2026_DLB_AJME_563935,NIT_31/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,12188671.33,121.89,23,2025-10-14
+2026_MEDIC_AJME_187519,NIT_16/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,2154615.23,21.55,12,2026-01-31
+2026_DLB_AJME_750566,NIT_58/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,400796.84,4.01,11,2025-05-22
+2026_FORES_AJME_432129,NIT_72/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,326321.35,3.26,7,2025-06-12
+2026_PWD_AJME_399537,NIT_12/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,2039521.89,20.4,10,2025-11-22
+2026_UIT_AJME_207253,NIT_82/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,205249.04,2.05,11,2025-08-06
+2026_UIT_AJME_821919,NIT_41/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,11498194.15,114.98,20,2025-11-11
+2026_MEDIC_AJME_204533,NIT_47/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,3376214.43,33.76,15,2025-09-10
+2026_PWD_AJME_182782,NIT_84/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,317610.65,3.18,8,2026-03-05
+2026_PWD_AJME_131824,NIT_24/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,15126008.37,151.26,22,2025-07-25
+2026_PWD_AJME_952085,NIT_38/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,68237804.37,682.38,31,2026-03-07
+2026_FORES_AJME_583575,NIT_45/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,603781.81,6.04,14,2025-10-02
+2026_DLB_AJME_129117,NIT_73/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,949140.73,9.49,5,2026-03-25
+2026_UIT_AJME_566935,NIT_37/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,512515.37,5.13,14,2026-02-19
+2026_FORES_AJME_146440,NIT_20/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,823167.65,8.23,8,2026-03-05
+2026_WRD_AJME_693159,NIT_31/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,480985.16,4.81,15,2026-02-10
+2026_UIT_AJME_265741,NIT_30/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,4609863.25,46.1,14,2025-04-08
+2026_PWD_AJME_536132,NIT_19/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,41662893.0,416.63,36,2025-10-24
+2026_PWD_AJME_279380,NIT_93/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,400473.87,4.0,11,2025-08-06
+2026_WRD_AJME_668837,NIT_15/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,817631.58,8.18,8,2025-05-03
+2026_UIT_AJME_684174,NIT_13/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,4777133.49,47.77,14,2025-09-21
+2026_PWD_AJME_186932,NIT_50/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,747087.99,7.47,8,2026-01-18
+2026_WRD_AJME_740939,NIT_90/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,10808934.28,108.09,21,2026-02-02
+2026_UIT_AJME_299796,NIT_99/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,839925.81,8.4,14,2025-12-05
+2026_MEDIC_AJME_558250,NIT_63/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,189748.32,1.9,15,2025-09-18
+2026_DLB_AJME_256939,NIT_50/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,527756.09,5.28,3,2025-06-26
+2026_PHED_AJME_424655,NIT_61/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,4293428.18,42.93,16,2026-01-28
+2026_WRD_AJME_795127,NIT_98/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,550185.99,5.5,14,2025-09-20
+2026_UIT_AJME_370378,NIT_23/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,3820237.84,38.2,17,2025-05-26
+2026_UIT_AJME_221434,NIT_48/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,599405.54,5.99,8,2025-10-13
+2026_PWD_AJME_487023,NIT_81/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,166849.0,1.67,14,2026-03-10
+2026_UIT_AJME_446364,NIT_55/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,878390.55,8.78,9,2025-10-23
+2026_DLB_AJME_873866,NIT_80/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,58760225.24,587.6,34,2025-08-17
+2026_FORES_AJME_403764,NIT_21/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,17651857.86,176.52,17,2026-02-14
+2026_WRD_AJME_902950,NIT_28/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,748975.94,7.49,7,2025-12-28
+2026_MEDIC_AJME_163528,NIT_99/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,427238.87,4.27,12,2025-06-03
+2026_PHED_AJME_559543,NIT_95/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,559438.32,5.59,9,2025-10-28
+2026_MEDIC_AJME_364310,NIT_89/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,907892.77,9.08,11,2025-06-13
+2026_WRD_AJME_165817,NIT_62/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,730495.29,7.3,8,2025-08-29
+2026_PHED_AJME_105848,NIT_66/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,18666739.2,186.67,15,2025-04-23
+2026_DLB_AJME_660856,NIT_19/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,17643098.59,176.43,22,2025-06-18
+2026_FORES_AJME_336591,NIT_86/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,748590.49,7.49,13,2025-10-28
+2026_FORES_AJME_209861,NIT_97/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,187897.22,1.88,14,2025-05-13
+2026_WRD_AJME_139592,NIT_13/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,16192165.88,161.92,22,2025-09-26
+2026_UIT_AJME_216268,NIT_78/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,17351972.24,173.52,10,2025-11-29
+2026_MEDIC_AJME_362585,NIT_32/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,555523.01,5.56,12,2025-11-20
+2026_DLB_AJME_207632,NIT_77/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,650105.65,6.5,14,2025-04-24
+2026_DLB_AJME_548653,NIT_72/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,254981.57,2.55,9,2025-06-30
+2026_MEDIC_AJME_896627,NIT_39/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,389514.32,3.9,11,2025-07-15
+2026_PWD_AJME_765940,NIT_85/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,786440.47,7.86,9,2025-11-18
+2026_PHED_AJME_881526,NIT_56/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,647727.69,6.48,10,2025-11-03
+2026_UIT_AJME_586399,NIT_45/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,3994296.11,39.94,18,2026-03-14
+2026_MEDIC_AJME_207225,NIT_31/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,699579.24,7.0,11,2025-08-25
+2026_FORES_AJME_587927,NIT_90/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,852605.21,8.53,15,2026-01-02
+2026_PWD_AJME_195005,NIT_32/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,686938.41,6.87,13,2025-06-06
+2026_PWD_AJME_657965,NIT_37/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,10926192.88,109.26,23,2025-04-20
+2026_PHED_AJME_475050,NIT_72/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,16568474.79,165.68,4,2025-10-24
+2026_UIT_AJME_780454,NIT_31/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,724146.8,7.24,13,2025-08-02
+2026_DLB_AJME_165293,NIT_38/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,871222.87,8.71,12,2026-02-13
+2026_PWD_AJME_433488,NIT_25/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,59751078.88,597.51,36,2025-10-29
+2026_PHED_AJME_700352,NIT_61/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,850768.06,8.51,15,2025-10-21
+2026_UIT_AJME_882458,NIT_34/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,458608.31,4.59,9,2025-10-02
+2026_PHED_AJME_493967,NIT_75/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,540541.34,5.41,7,2026-02-11
+2026_PHED_AJME_286425,NIT_51/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,848473.41,8.48,15,2025-04-11
+2026_DLB_AJME_744291,NIT_44/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,164673.06,1.65,14,2025-07-14
+2026_UIT_AJME_780991,NIT_81/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,12072644.74,120.73,11,2025-07-12
+2026_FORES_AJME_401473,NIT_25/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,3880009.52,38.8,10,2025-11-10
+2026_DLB_AJME_438284,NIT_79/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,384298.47,3.84,10,2026-01-14
+2026_PHED_AJME_128647,NIT_10/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,9017814.52,90.18,8,2026-02-27
+2026_FORES_AJME_534203,NIT_10/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,717136.24,7.17,14,2025-04-20
+2026_DLB_AJME_389322,NIT_82/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,839762.35,8.4,14,2025-10-08
+2026_MEDIC_AJME_935507,NIT_10/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,2117354.88,21.17,10,2026-02-20
+2026_UIT_AJME_430176,NIT_80/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,4130382.45,41.3,17,2025-04-08
+2026_PHED_AJME_612306,NIT_93/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,573814.2,5.74,14,2025-11-04
+2026_WRD_AJME_486220,NIT_24/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,948229.94,9.48,5,2025-09-12
+2026_FORES_AJME_933696,NIT_16/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,4414145.82,44.14,18,2025-09-15
+2026_DLB_AJME_444355,NIT_48/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,2858238.37,28.58,18,2025-04-01
+2026_MEDIC_AJME_396484,NIT_33/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,2867680.98,28.68,12,2025-12-18
+2026_PHED_AJME_625728,NIT_51/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,777245.68,7.77,12,2025-09-09
+2026_PHED_AJME_292711,NIT_11/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,446361.11,4.46,15,2025-10-02
+2026_PWD_AJME_435127,NIT_57/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,868691.64,8.69,12,2025-06-20
+2026_WRD_AJME_590854,NIT_20/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,223496.84,2.23,15,2025-11-29
+2026_FORES_AJME_897724,NIT_54/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,22332413.94,223.32,31,2025-12-28
+2026_FORES_AJME_380214,NIT_21/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,560305.57,5.6,8,2025-08-27
+2026_PWD_AJME_233353,NIT_12/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,924218.84,9.24,7,2025-12-09
+2026_WRD_AJME_762647,NIT_15/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,4715756.38,47.16,15,2025-05-05
+2026_WRD_AJME_548602,NIT_84/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,632965.86,6.33,10,2025-06-18
+2026_DLB_AJME_526944,NIT_99/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,649973.85,6.5,13,2026-01-13
+2026_MEDIC_AJME_712279,NIT_43/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,11383413.9,113.83,18,2025-04-22
+2026_MEDIC_AJME_258181,NIT_96/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,10300929.31,103.01,21,2025-04-27
+2026_WRD_AJME_532827,NIT_35/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,2593003.82,25.93,11,2025-06-16
+2026_WRD_AJME_969728,NIT_25/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,312868.51,3.13,11,2026-02-10
+2026_PWD_AJME_243553,NIT_92/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,2223516.53,22.24,11,2026-01-16
+2026_PHED_AJME_551153,NIT_59/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,3219759.33,32.2,16,2025-08-31
+2026_PHED_AJME_548289,NIT_54/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,692391.3,6.92,11,2025-09-09
+2026_FORES_AJME_725140,NIT_45/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,448266.09,4.48,8,2025-10-06
+2026_PWD_AJME_890781,NIT_79/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,13254498.66,132.54,21,2026-03-26
+2026_PHED_AJME_928137,NIT_93/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,893269.44,8.93,14,2026-02-11
+2026_MEDIC_AJME_707060,NIT_71/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,4340278.35,43.4,13,2026-03-11
+2026_UIT_AJME_148620,NIT_26/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,308780.41,3.09,10,2025-08-02
+2026_UIT_AJME_332803,NIT_98/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,564517.13,5.65,10,2025-05-24
+2026_FORES_AJME_697685,NIT_59/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,153253.87,1.53,7,2026-02-07
+2026_FORES_AJME_848376,NIT_94/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,7319125.35,73.19,3,2025-04-13
+2026_UIT_AJME_425409,NIT_41/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,769826.2,7.7,13,2025-10-12
+2026_DLB_AJME_640118,NIT_48/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,523841.64,5.24,9,2025-10-17
+2026_PWD_AJME_874081,NIT_30/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,2790408.02,27.9,18,2026-02-05
+2026_DLB_AJME_547344,NIT_35/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,2599973.45,26.0,13,2025-12-05
+2026_PHED_AJME_655656,NIT_17/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,104470386.73,1044.7,32,2025-07-13
+2026_PHED_AJME_995950,NIT_15/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,601392.21,6.01,15,2025-06-26
+2026_WRD_AJME_586687,NIT_73/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,190300.7,1.9,12,2025-05-21
+2026_MEDIC_AJME_826030,NIT_60/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,34722255.63,347.22,19,2026-03-05
+2026_FORES_AJME_934743,NIT_93/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,4160526.02,41.61,13,2025-10-24
+2026_DLB_AJME_653020,NIT_97/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,289093.57,2.89,8,2025-11-03
+2026_MEDIC_AJME_701861,NIT_59/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,159018.64,1.59,13,2025-12-15
+2026_FORES_AJME_649012,NIT_18/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,17278362.24,172.78,19,2025-06-23
+2026_WRD_AJME_280206,NIT_79/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,687587.69,6.88,15,2025-04-12
+2026_DLB_AJME_672450,NIT_19/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,3591057.25,35.91,12,2026-02-18
+2026_WRD_AJME_205762,NIT_95/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,638917.09,6.39,14,2025-04-05
+2026_PHED_AJME_229301,NIT_15/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,596087.66,5.96,11,2026-01-12
+2026_FORES_AJME_104597,NIT_89/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,3097756.41,30.98,14,2025-08-10
+2026_MEDIC_AJME_578207,NIT_80/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,608812.1,6.09,11,2025-12-30
+2026_PHED_AJME_301743,NIT_42/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,483181.78,4.83,15,2025-10-11
+2026_FORES_AJME_580110,NIT_91/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,258397.99,2.58,8,2025-07-20
+2026_PWD_AJME_802510,NIT_74/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,700194.36,7.0,13,2025-10-30
+2026_WRD_AJME_158838,NIT_50/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,4507125.01,45.07,17,2026-02-20
+2026_FORES_AJME_418444,NIT_38/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,14036764.7,140.37,15,2026-03-26
+2026_PHED_AJME_566754,NIT_77/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,1698667.47,16.99,15,2025-08-02
+2026_DLB_AJME_212108,NIT_26/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,484614.59,4.85,15,2025-12-27
+2026_DLB_AJME_124247,NIT_46/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,944363.16,9.44,12,2025-12-06
+2026_MEDIC_AJME_767527,NIT_22/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,337947.9,3.38,10,2025-05-10
+2026_WRD_AJME_958310,NIT_31/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,18628397.5,186.28,10,2026-03-09
+2026_WRD_AJME_506530,NIT_27/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,8927387.52,89.27,19,2025-08-05
+2026_PHED_AJME_975631,NIT_24/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,12055571.72,120.56,15,2025-09-28
+2026_FORES_AJME_746615,NIT_71/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,476801.95,4.77,15,2025-09-06
+2026_UIT_AJME_114715,NIT_66/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,566682.9,5.67,13,2025-08-08
+2026_PWD_AJME_901084,NIT_24/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,415642.44,4.16,13,2025-10-15
+2026_PHED_AJME_222520,NIT_86/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,641567.28,6.42,12,2025-11-05
+2026_WRD_AJME_761784,NIT_26/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,402876.46,4.03,11,2025-06-16
+2026_WRD_AJME_450329,NIT_81/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,99036587.97,990.37,32,2026-01-19
+2026_MEDIC_AJME_157495,NIT_69/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,279613.77,2.8,13,2025-11-28
+2026_MEDIC_AJME_384487,NIT_15/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,496763.82,4.97,12,2025-08-12
+2026_PWD_AJME_338723,NIT_76/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,280912.68,2.81,10,2026-01-11
+2026_DLB_AJME_803510,NIT_78/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,12453477.76,124.53,18,2025-12-31
+2026_FORES_AJME_887086,NIT_87/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,3017764.18,30.18,15,2026-02-26
+2026_WRD_AJME_543763,NIT_93/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,2928723.99,29.29,16,2025-11-07
+2026_PWD_AJME_163329,NIT_39/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,10173552.21,101.74,23,2025-04-27
+2026_MEDIC_AJME_427319,NIT_35/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,542490.02,5.42,11,2026-01-22
+2026_PHED_AJME_530355,NIT_28/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,2853900.09,28.54,10,2026-02-26
+2026_DLB_AJME_132982,NIT_16/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,733796.22,7.34,13,2025-10-29
+2026_UIT_AJME_399230,NIT_59/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,659357.52,6.59,13,2025-05-09
+2026_WRD_AJME_734250,NIT_14/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,13018617.96,130.19,13,2025-11-07
+2026_DLB_AJME_472892,NIT_95/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,3273292.58,32.73,15,2025-09-07
+2026_FORES_AJME_360695,NIT_14/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,193743.01,1.94,15,2025-08-16
+2026_UIT_AJME_519575,NIT_26/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,673619.76,6.74,11,2026-02-28
+2026_FORES_AJME_263861,NIT_10/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,879067.0,8.79,9,2025-09-22
+2026_FORES_AJME_807560,NIT_80/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,606488.82,6.06,14,2026-03-18
+2026_UIT_AJME_307099,NIT_17/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,549259.91,5.49,9,2025-05-26
+2026_DLB_AJME_516113,NIT_57/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,806767.21,8.07,8,2025-04-24
+2026_FORES_AJME_569169,NIT_17/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,651758.57,6.52,13,2025-05-04
+2026_UIT_AJME_223674,NIT_73/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,6486250.17,64.86,17,2025-10-01
+2026_PWD_AJME_123537,NIT_62/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,365787.58,3.66,14,2025-11-02
+2026_UIT_AJME_369730,NIT_41/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,398089.19,3.98,11,2026-03-10
+2026_DLB_AJME_454871,NIT_27/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,884090.91,8.84,12,2025-05-02
+2026_UIT_AJME_435419,NIT_34/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,9125381.5,91.25,19,2025-05-11
+2026_PWD_AJME_531226,NIT_11/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,275569.84,2.76,12,2025-07-08
+2026_FORES_AJME_979216,NIT_80/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,579987.73,5.8,12,2026-02-01
+2026_FORES_AJME_688188,NIT_73/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,888430.82,8.88,9,2025-05-01
+2026_WRD_AJME_858789,NIT_18/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,3574146.39,35.74,12,2025-12-28
+2026_FORES_AJME_922655,NIT_31/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,3910125.95,39.1,11,2025-10-22
+2026_WRD_AJME_863923,NIT_39/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,5482493.51,54.82,17,2026-02-03
+2026_DLB_AJME_580231,NIT_45/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,50196319.75,501.96,32,2026-01-29
+2026_FORES_AJME_424096,NIT_54/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,3596644.71,35.97,17,2026-03-21
+2026_FORES_AJME_866992,NIT_46/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,4343080.82,43.43,17,2025-11-19
+2026_PHED_AJME_374546,NIT_91/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,659166.11,6.59,11,2026-02-12
+2026_DLB_AJME_257642,NIT_75/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,318871.42,3.19,8,2026-01-14
+2026_UIT_AJME_110666,NIT_62/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,65617544.21,656.18,31,2025-04-12
+2026_PWD_AJME_725409,NIT_83/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,503834.04,5.04,9,2026-02-09
+2026_MEDIC_AJME_273060,NIT_84/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,605934.81,6.06,11,2025-06-07
+2026_PWD_AJME_234927,NIT_74/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,1524927.81,15.25,15,2026-02-04
+2026_DLB_AJME_912454,NIT_16/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,924009.05,9.24,9,2025-08-24
+2026_MEDIC_AJME_720903,NIT_19/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,1056618.42,10.57,17,2026-01-14
+2026_MEDIC_AJME_695461,NIT_21/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,2406227.52,24.06,18,2025-08-12
+2026_PHED_AJME_377347,NIT_96/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,940374.26,9.4,12,2025-05-30
+2026_FORES_AJME_254546,NIT_38/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,9158135.99,91.58,22,2026-03-21
+2026_PWD_AJME_639085,NIT_12/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,481523.18,4.82,8,2025-08-01
+2026_MEDIC_AJME_444749,NIT_88/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,668774.24,6.69,14,2026-01-02
+2026_FORES_AJME_921473,NIT_93/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,883104.12,8.83,7,2025-11-28
+2026_PHED_AJME_824534,NIT_25/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,1635175.49,16.35,11,2025-05-07
+2026_PHED_AJME_512561,NIT_49/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,3440202.34,34.4,18,2025-05-11
+2026_WRD_AJME_368464,NIT_43/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,764533.8,7.65,15,2026-01-24
+2026_PHED_AJME_904483,NIT_69/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,3433676.38,34.34,17,2025-04-30
+2026_WRD_AJME_997302,NIT_13/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,505158.78,5.05,7,2026-02-21
+2026_DLB_AJME_236467,NIT_59/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,14428488.29,144.28,19,2026-03-03
+2026_UIT_AJME_900046,NIT_35/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,254001.52,2.54,9,2025-04-02
+2026_UIT_AJME_620127,NIT_87/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,3019784.49,30.2,17,2025-04-21
+2026_DLB_AJME_638364,NIT_89/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,948997.31,9.49,10,2025-11-12
+2026_MEDIC_AJME_642232,NIT_73/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,545705.57,5.46,10,2026-02-12
+2026_MEDIC_AJME_751915,NIT_65/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,818642.2,8.19,8,2025-12-22
+2026_WRD_AJME_479530,NIT_45/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,8894342.6,88.94,23,2026-03-11
+2026_PHED_AJME_631566,NIT_56/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,511899.3,5.12,9,2025-12-26
+2026_PHED_AJME_519189,NIT_28/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,15444657.05,154.45,9,2025-09-28
+2026_PWD_AJME_431013,NIT_87/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,728799.25,7.29,14,2025-08-24
+2026_DLB_AJME_993662,NIT_79/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,814939.53,8.15,8,2025-10-02
+2026_FORES_AJME_447595,NIT_38/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,304453.76,3.04,14,2026-01-19
+2026_UIT_AJME_338781,NIT_19/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,16143108.14,161.43,22,2025-09-16
+2026_DLB_AJME_166660,NIT_88/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,815476.96,8.15,14,2025-10-12
+2026_WRD_AJME_761072,NIT_16/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,7166471.4,71.66,15,2025-06-27
+2026_DLB_AJME_654008,NIT_64/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,9446150.78,94.46,23,2026-03-10
+2026_UIT_AJME_586607,NIT_17/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,97076537.4,970.77,35,2025-07-26
+2026_MEDIC_AJME_783510,NIT_16/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,849669.72,8.5,10,2025-05-19
+2026_MEDIC_AJME_834188,NIT_10/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,2290896.51,22.91,17,2025-10-14
+2026_MEDIC_AJME_318307,NIT_31/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,3788192.04,37.88,12,2025-12-11
+2026_WRD_AJME_808337,NIT_59/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,769766.31,7.7,15,2026-03-13
+2026_MEDIC_AJME_598838,NIT_50/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,1779130.5,17.79,15,2025-06-23
+2026_FORES_AJME_372784,NIT_36/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,581247.43,5.81,7,2025-11-14
+2026_WRD_AJME_567734,NIT_87/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,304252.18,3.04,11,2025-08-07
+2026_FORES_AJME_738276,NIT_44/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,797369.85,7.97,13,2026-03-04
+2026_WRD_AJME_430903,NIT_96/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,609751.13,6.1,13,2025-06-30
+2026_FORES_AJME_375461,NIT_95/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,312006.4,3.12,9,2025-12-09
+2026_DLB_AJME_797128,NIT_19/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,825037.14,8.25,10,2026-03-07
+2026_FORES_AJME_534140,NIT_77/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,2292799.68,22.93,10,2025-09-12
+2026_FORES_AJME_215142,NIT_79/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,274843.87,2.75,8,2025-04-16
+2026_PHED_AJME_194001,NIT_93/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,575002.57,5.75,7,2025-12-01
+2026_WRD_AJME_707180,NIT_23/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,369111.03,3.69,12,2025-10-30
+2026_DLB_AJME_180920,NIT_89/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,2580682.78,25.81,17,2026-03-18
+2026_DLB_AJME_934876,NIT_11/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,4682361.39,46.82,10,2025-08-17
+2026_PHED_AJME_385328,NIT_10/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,3932627.7,39.33,7,2025-10-18
+2026_FORES_AJME_490111,NIT_53/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,2751006.93,27.51,17,2025-10-07
+2026_DLB_AJME_985163,NIT_92/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,826793.94,8.27,13,2025-10-03
+2026_FORES_AJME_580228,NIT_34/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,3769190.59,37.69,17,2025-12-02
+2026_WRD_AJME_187649,NIT_17/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,420049.89,4.2,12,2026-02-09
+2026_PWD_AJME_930758,NIT_29/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,343042.32,3.43,11,2025-11-05
+2026_UIT_AJME_836787,NIT_33/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,1489796.57,14.9,10,2025-11-01
+2026_UIT_AJME_202422,NIT_58/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,910618.3,9.11,14,2025-07-22
+2026_UIT_AJME_975918,NIT_11/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,2257416.2,22.57,14,2025-06-24
+2026_MEDIC_AJME_725382,NIT_10/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,4616022.3,46.16,11,2026-02-20
+2026_UIT_AJME_538158,NIT_29/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,613025.03,6.13,13,2025-05-28
+2026_WRD_AJME_158895,NIT_71/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,239242.52,2.39,13,2025-10-21
+2026_PWD_AJME_516607,NIT_87/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,193665.63,1.94,14,2025-04-30
+2026_WRD_AJME_704168,NIT_17/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,8914880.5,89.15,12,2026-02-22
+2026_UIT_AJME_814133,NIT_70/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,2711494.2,27.11,13,2025-05-24
+2026_MEDIC_AJME_703199,NIT_46/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,479926.84,4.8,13,2026-03-11
+2026_PWD_AJME_676196,NIT_69/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,366916.07,3.67,8,2025-06-16
+2026_PHED_AJME_734478,NIT_75/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,1871204.73,18.71,17,2026-01-03
+2026_MEDIC_AJME_426076,NIT_70/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,11441996.48,114.42,23,2025-06-18
+2026_WRD_AJME_915460,NIT_37/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,514215.45,5.14,15,2025-10-18
+2026_MEDIC_AJME_819909,NIT_65/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,946986.12,9.47,11,2025-12-14
+2026_PHED_AJME_829834,NIT_39/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,5368500.51,53.69,22,2025-05-04
+2026_WRD_AJME_369844,NIT_72/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,801498.8,8.01,12,2025-04-09
+2026_PWD_AJME_951876,NIT_34/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,831620.65,8.32,10,2025-10-14
+2026_DLB_AJME_999568,NIT_29/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,92955501.3,929.56,13,2025-10-13
+2026_DLB_AJME_901864,NIT_76/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,4676483.44,46.76,18,2025-06-21
+2026_MEDIC_AJME_291376,NIT_47/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,751871.07,7.52,8,2026-02-23
+2026_PHED_AJME_571209,NIT_20/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,486112.31,4.86,11,2026-03-10
+2026_FORES_AJME_275815,NIT_94/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,798193.23,7.98,8,2025-10-09
+2026_MEDIC_AJME_528147,NIT_91/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,338647.86,3.39,8,2025-07-24
+2026_PWD_AJME_785413,NIT_88/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,6065738.5,60.66,4,2025-08-02
+2026_DLB_AJME_946357,NIT_84/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,792663.29,7.93,14,2026-01-30
+2026_PWD_AJME_418624,NIT_65/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,3801223.88,38.01,14,2025-05-01
+2026_UIT_AJME_463978,NIT_97/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,16314658.13,163.15,4,2026-02-04
+2026_UIT_AJME_333558,NIT_88/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,353967.29,3.54,15,2026-01-15
+2026_PWD_AJME_837487,NIT_90/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,931623.8,9.32,9,2025-11-09
+2026_UIT_AJME_982739,NIT_78/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,627220.53,6.27,15,2025-11-05
+2026_FORES_AJME_152408,NIT_91/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,11033896.26,110.34,19,2025-09-05
+2026_UIT_AJME_184641,NIT_64/AJM/2025-26,Municipal Council Ajmer,Ajmer,Ajmer Division,17571422.34,175.71,16,2025-05-23
+2026_DLB_AJME_896120,NIT_69/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,697868.81,6.98,11,2025-06-23
+2026_PWD_AJME_529106,NIT_70/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,1238073.66,12.38,15,2025-12-22
+2026_FORES_AJME_461380,NIT_80/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,1625914.04,16.26,10,2025-08-09
+2026_MEDIC_AJME_778987,NIT_71/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,11886478.73,118.86,20,2026-03-26
+2026_DLB_AJME_285219,NIT_46/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,948772.15,9.49,7,2025-07-11
+2026_PWD_AJME_483254,NIT_18/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,747131.56,7.47,13,2025-05-18
+2026_DLB_AJME_464431,NIT_85/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,12905726.73,129.06,19,2026-02-07
+2026_WRD_AJME_764448,NIT_69/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,485475.93,4.85,8,2026-02-07
+2026_WRD_AJME_718445,NIT_54/AJM/2025-26,Water Resources Department (Ajmer Circle),Ajmer,Ajmer Division,841076.03,8.41,9,2025-10-03
+2026_PWD_AJME_728184,NIT_83/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,180318.99,1.8,2,2025-07-28
+2026_PHED_AJME_375101,NIT_89/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,818048.51,8.18,14,2025-12-05
+2026_FORES_AJME_896698,NIT_70/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,193892.06,1.94,11,2026-03-14
+2026_PHED_AJME_543174,NIT_74/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,38058035.39,380.58,35,2025-08-14
+2026_PHED_AJME_827842,NIT_45/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,354854.38,3.55,8,2025-08-02
+2026_MEDIC_AJME_764365,NIT_10/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,243751.28,2.44,12,2025-12-01
+2026_DLB_AJME_731264,NIT_45/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,3970038.06,39.7,15,2025-05-23
+2026_PHED_AJME_752806,NIT_79/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,760247.26,7.6,12,2025-08-06
+2026_PHED_AJME_314729,NIT_70/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,439292.7,4.39,10,2026-02-07
+2026_DLB_AJME_353979,NIT_25/AJM/2025-26,Directorate of Local Bodies (Ajmer Circle),Ajmer,Ajmer Division,2785670.65,27.86,15,2025-06-16
+2026_FORES_AJME_852215,NIT_38/AJM/2025-26,Forest Department (Ajmer Circle),Ajmer,Ajmer Division,7231460.22,72.31,16,2025-07-14
+2026_MEDIC_AJME_466409,NIT_71/AJM/2025-26,Department of Medical Education (Ajmer Circle),Ajmer,Ajmer Division,4018504.84,40.19,15,2025-11-10
+2026_PHED_AJME_678507,NIT_10/AJM/2025-26,Public Health Engineering Department (Ajmer Circle),Ajmer,Ajmer Division,2890618.53,28.91,15,2025-04-10
+2026_PWD_AJME_540734,NIT_43/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,835348.56,8.35,12,2025-12-24
+2026_PWD_AJME_419626,NIT_76/AJM/2025-26,Public Works Department (Ajmer Circle),Ajmer,Ajmer Division,37898413.72,378.98,38,2025-06-21

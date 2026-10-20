@@ -1,0 +1,427 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_PWD_SIKA_631562,NIT_66/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,1474434.61,14.74,13,2025-09-14
+2026_MEDIC_SIKA_489398,NIT_97/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,482775.74,4.83,11,2025-06-13
+2026_PWD_SIKA_442402,NIT_87/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,780531.57,7.81,13,2026-02-28
+2026_WRD_SIKA_593549,NIT_47/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,647533.1,6.48,7,2025-08-27
+2026_PHED_SIKA_719946,NIT_13/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,1448370.39,14.48,15,2025-12-18
+2026_FORES_SIKA_918805,NIT_75/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,3988001.81,39.88,13,2025-10-11
+2026_UIT_SIKA_710990,NIT_14/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,3513972.5,35.14,11,2025-05-10
+2026_PHED_SIKA_692867,NIT_74/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,948250.37,9.48,13,2026-01-01
+2026_FORES_SIKA_227131,NIT_77/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,788564.44,7.89,15,2025-12-23
+2026_DLB_SIKA_432335,NIT_44/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,40307335.91,403.07,35,2025-08-03
+2026_UIT_SIKA_904932,NIT_56/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,1915840.13,19.16,11,2026-03-21
+2026_PHED_SIKA_566624,NIT_62/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,439504.93,4.4,15,2025-05-10
+2026_WRD_SIKA_785066,NIT_71/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,80916639.77,809.17,32,2026-01-01
+2026_PHED_SIKA_914165,NIT_62/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,3577894.23,35.78,14,2025-08-25
+2026_WRD_SIKA_429089,NIT_25/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,1355647.34,13.56,12,2026-01-20
+2026_DLB_SIKA_763360,NIT_35/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,4424521.76,44.25,10,2025-06-25
+2026_PWD_SIKA_538960,NIT_43/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,15764031.89,157.64,16,2025-06-04
+2026_UIT_SIKA_135730,NIT_65/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,1139742.99,11.4,11,2025-06-07
+2026_MEDIC_SIKA_655021,NIT_59/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,873408.31,8.73,13,2026-03-23
+2026_MEDIC_SIKA_353162,NIT_47/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,245223.71,2.45,12,2026-01-28
+2026_MEDIC_SIKA_746582,NIT_23/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,18919050.63,189.19,8,2025-11-16
+2026_DLB_SIKA_761475,NIT_67/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,742557.98,7.43,14,2026-03-25
+2026_PHED_SIKA_869070,NIT_33/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,728965.97,7.29,15,2025-05-13
+2026_PHED_SIKA_108161,NIT_85/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,624438.62,6.24,14,2025-10-12
+2026_WRD_SIKA_559891,NIT_32/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,556933.75,5.57,8,2025-07-28
+2026_WRD_SIKA_617255,NIT_53/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,1231079.8,12.31,18,2026-01-22
+2026_MEDIC_SIKA_985066,NIT_64/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,49240462.83,492.4,32,2025-04-22
+2026_UIT_SIKA_870310,NIT_36/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,494430.12,4.94,12,2025-05-21
+2026_WRD_SIKA_398624,NIT_31/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,244840.86,2.45,14,2025-07-24
+2026_PHED_SIKA_402491,NIT_43/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,941044.46,9.41,10,2026-03-08
+2026_WRD_SIKA_247852,NIT_22/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,8054434.95,80.54,15,2026-02-01
+2026_PWD_SIKA_666052,NIT_78/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,4046220.01,40.46,8,2025-10-07
+2026_PHED_SIKA_395528,NIT_83/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,491202.05,4.91,9,2025-11-19
+2026_WRD_SIKA_214939,NIT_25/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,11332789.87,113.33,17,2025-08-21
+2026_FORES_SIKA_801199,NIT_24/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,18564466.12,185.64,18,2025-05-09
+2026_WRD_SIKA_264340,NIT_74/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,9827652.86,98.28,16,2026-03-19
+2026_WRD_SIKA_140220,NIT_65/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,6586055.48,65.86,18,2026-01-11
+2026_FORES_SIKA_978323,NIT_90/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,178508.95,1.79,7,2025-08-04
+2026_PHED_SIKA_714825,NIT_58/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,4320430.58,43.2,13,2025-08-14
+2026_DLB_SIKA_258789,NIT_72/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,801095.08,8.01,11,2025-06-07
+2026_PHED_SIKA_765607,NIT_21/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,18321492.06,183.21,15,2025-11-09
+2026_PWD_SIKA_614526,NIT_81/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,3342064.45,33.42,10,2025-11-01
+2026_FORES_SIKA_375852,NIT_88/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,2476088.36,24.76,15,2025-12-04
+2026_MEDIC_SIKA_788852,NIT_33/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,4342086.19,43.42,14,2026-03-09
+2026_DLB_SIKA_614034,NIT_90/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,463768.04,4.64,14,2025-08-30
+2026_PWD_SIKA_329565,NIT_24/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,920335.16,9.2,11,2025-11-01
+2026_DLB_SIKA_441203,NIT_41/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,86579400.79,865.79,17,2025-09-11
+2026_FORES_SIKA_219051,NIT_54/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,14818166.41,148.18,22,2025-12-07
+2026_MEDIC_SIKA_532016,NIT_97/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,337888.03,3.38,15,2025-07-20
+2026_UIT_SIKA_920854,NIT_62/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,198642.61,1.99,11,2026-03-12
+2026_WRD_SIKA_531204,NIT_60/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,797224.43,7.97,11,2025-04-28
+2026_WRD_SIKA_609089,NIT_38/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,2324405.84,23.24,14,2025-11-16
+2026_DLB_SIKA_332060,NIT_83/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,17283583.26,172.84,16,2026-02-09
+2026_MEDIC_SIKA_445698,NIT_26/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,633968.96,6.34,7,2025-10-12
+2026_PWD_SIKA_918343,NIT_52/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,879782.85,8.8,15,2025-05-03
+2026_FORES_SIKA_151605,NIT_76/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,8104394.82,81.04,23,2025-10-20
+2026_UIT_SIKA_852689,NIT_39/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,2138203.07,21.38,15,2025-09-17
+2026_DLB_SIKA_326088,NIT_80/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,736667.48,7.37,7,2025-04-11
+2026_UIT_SIKA_652133,NIT_23/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,2930622.45,29.31,10,2025-06-20
+2026_WRD_SIKA_416110,NIT_13/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,334004.19,3.34,10,2025-04-18
+2026_WRD_SIKA_886343,NIT_25/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,800396.67,8.0,13,2025-06-07
+2026_UIT_SIKA_876497,NIT_44/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,4282438.86,42.82,18,2026-03-27
+2026_UIT_SIKA_868227,NIT_63/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,1125578.17,11.26,18,2026-02-04
+2026_PHED_SIKA_200198,NIT_85/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,16138156.08,161.38,19,2025-09-13
+2026_DLB_SIKA_637243,NIT_12/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,2183077.41,21.83,11,2025-08-14
+2026_FORES_SIKA_704190,NIT_70/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,2462177.72,24.62,13,2025-10-26
+2026_MEDIC_SIKA_392089,NIT_71/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,377538.39,3.78,15,2025-08-04
+2026_DLB_SIKA_118048,NIT_73/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,732045.96,7.32,15,2025-05-26
+2026_DLB_SIKA_334944,NIT_83/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,930152.48,9.3,10,2025-11-15
+2026_WRD_SIKA_599967,NIT_82/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,237158.76,2.37,9,2026-02-17
+2026_PWD_SIKA_200022,NIT_81/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,1684708.92,16.85,17,2026-01-29
+2026_PHED_SIKA_187963,NIT_28/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,60916312.21,609.16,33,2025-05-01
+2026_UIT_SIKA_617386,NIT_42/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,479486.87,4.79,9,2025-04-19
+2026_WRD_SIKA_822466,NIT_82/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,628984.07,6.29,11,2026-03-20
+2026_PHED_SIKA_891714,NIT_81/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,16166801.91,161.67,18,2025-09-12
+2026_DLB_SIKA_843302,NIT_71/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,561544.89,5.62,8,2025-05-24
+2026_DLB_SIKA_833222,NIT_19/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,2458822.69,24.59,12,2025-12-23
+2026_FORES_SIKA_227378,NIT_31/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,1790128.54,17.9,11,2025-04-20
+2026_DLB_SIKA_619238,NIT_31/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,3398118.42,33.98,12,2026-01-06
+2026_DLB_SIKA_518807,NIT_11/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,387400.82,3.87,11,2026-03-13
+2026_WRD_SIKA_647860,NIT_51/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,642080.39,6.42,9,2025-06-12
+2026_WRD_SIKA_648668,NIT_97/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,1816731.9,18.17,15,2025-12-22
+2026_MEDIC_SIKA_363443,NIT_70/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,2785800.62,27.86,12,2025-06-24
+2026_MEDIC_SIKA_849817,NIT_70/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,157856.95,1.58,9,2025-11-27
+2026_PWD_SIKA_105874,NIT_49/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,3680492.37,36.8,11,2026-01-01
+2026_DLB_SIKA_447115,NIT_22/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,198886.23,1.99,9,2025-05-05
+2026_WRD_SIKA_767254,NIT_81/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,4362536.94,43.63,10,2025-07-08
+2026_WRD_SIKA_397992,NIT_64/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,617574.71,6.18,13,2025-08-09
+2026_MEDIC_SIKA_667297,NIT_92/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,86277389.46,862.77,7,2025-05-23
+2026_FORES_SIKA_326955,NIT_45/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,292660.21,2.93,9,2025-12-24
+2026_MEDIC_SIKA_776153,NIT_59/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,414128.15,4.14,11,2026-02-10
+2026_FORES_SIKA_596403,NIT_36/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,284479.51,2.84,10,2025-05-17
+2026_UIT_SIKA_744794,NIT_28/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,264666.67,2.65,7,2025-09-13
+2026_PWD_SIKA_154724,NIT_27/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,12261532.63,122.62,20,2025-09-02
+2026_MEDIC_SIKA_896925,NIT_25/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,44836516.33,448.37,37,2025-09-29
+2026_WRD_SIKA_979387,NIT_76/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,403577.54,4.04,10,2025-06-25
+2026_FORES_SIKA_974098,NIT_45/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,719078.14,7.19,15,2025-11-13
+2026_DLB_SIKA_828864,NIT_42/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,3620128.44,36.2,16,2026-02-28
+2026_WRD_SIKA_286659,NIT_13/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,17152710.45,171.53,20,2025-11-04
+2026_PHED_SIKA_746944,NIT_81/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,4336105.64,43.36,13,2025-10-13
+2026_WRD_SIKA_287700,NIT_11/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,306668.87,3.07,10,2025-04-03
+2026_MEDIC_SIKA_425468,NIT_52/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,225286.79,2.25,11,2025-12-14
+2026_PWD_SIKA_736249,NIT_44/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,1175730.72,11.76,17,2025-10-21
+2026_PWD_SIKA_829283,NIT_42/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,369339.06,3.69,7,2025-11-28
+2026_MEDIC_SIKA_762951,NIT_68/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,2888626.82,28.89,18,2025-05-24
+2026_PWD_SIKA_487484,NIT_13/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,640336.39,6.4,9,2025-06-07
+2026_PWD_SIKA_539953,NIT_25/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,1260179.98,12.6,10,2025-09-08
+2026_PWD_SIKA_999563,NIT_79/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,371982.53,3.72,7,2025-09-18
+2026_UIT_SIKA_804633,NIT_50/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,4416511.77,44.17,15,2025-12-21
+2026_PWD_SIKA_796773,NIT_61/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,483102.98,4.83,7,2025-05-04
+2026_PHED_SIKA_965125,NIT_74/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,1603177.3,16.03,12,2025-11-14
+2026_PWD_SIKA_388909,NIT_87/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,308946.72,3.09,9,2026-02-20
+2026_FORES_SIKA_983031,NIT_10/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,2216866.96,22.17,11,2025-09-22
+2026_DLB_SIKA_695772,NIT_99/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,1372857.12,13.73,11,2025-05-30
+2026_PWD_SIKA_291366,NIT_21/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,1746220.84,17.46,10,2025-06-26
+2026_UIT_SIKA_110945,NIT_37/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,3442296.07,34.42,13,2025-09-05
+2026_UIT_SIKA_813965,NIT_92/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,4584965.32,45.85,12,2025-09-06
+2026_PWD_SIKA_497735,NIT_46/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,7656455.7,76.56,18,2025-07-06
+2026_WRD_SIKA_308902,NIT_32/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,933422.57,9.33,14,2025-08-14
+2026_PWD_SIKA_613682,NIT_55/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,13186007.07,131.86,22,2026-02-18
+2026_FORES_SIKA_972132,NIT_31/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,179384.87,1.79,13,2025-06-19
+2026_MEDIC_SIKA_696337,NIT_36/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,945004.51,9.45,11,2025-07-16
+2026_WRD_SIKA_833640,NIT_74/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,591288.96,5.91,11,2025-05-17
+2026_MEDIC_SIKA_910978,NIT_36/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,356571.08,3.57,7,2025-05-30
+2026_MEDIC_SIKA_790311,NIT_90/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,1749095.66,17.49,15,2025-10-08
+2026_MEDIC_SIKA_496267,NIT_94/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,3256465.43,32.56,11,2026-02-17
+2026_WRD_SIKA_108281,NIT_30/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,2630279.11,26.3,11,2025-07-05
+2026_WRD_SIKA_421153,NIT_30/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,523472.99,5.23,7,2025-11-11
+2026_UIT_SIKA_746564,NIT_68/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,624859.8,6.25,13,2025-11-29
+2026_UIT_SIKA_355421,NIT_42/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,728697.96,7.29,14,2026-03-14
+2026_DLB_SIKA_414754,NIT_15/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,926612.54,9.27,15,2025-05-26
+2026_DLB_SIKA_546582,NIT_44/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,913185.55,9.13,7,2025-06-23
+2026_MEDIC_SIKA_274467,NIT_48/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,859276.2,8.59,15,2025-07-11
+2026_MEDIC_SIKA_888371,NIT_27/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,253912.66,2.54,7,2025-05-17
+2026_WRD_SIKA_931377,NIT_28/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,4055586.09,40.56,12,2025-11-22
+2026_PWD_SIKA_790601,NIT_28/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,1801524.51,18.02,14,2025-05-12
+2026_PHED_SIKA_347656,NIT_36/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,64218339.31,642.18,38,2025-10-09
+2026_PWD_SIKA_600531,NIT_30/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,9957023.71,99.57,18,2025-11-28
+2026_FORES_SIKA_494570,NIT_69/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,3698340.38,36.98,11,2025-10-16
+2026_PHED_SIKA_433821,NIT_27/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,469906.85,4.7,11,2026-03-12
+2026_FORES_SIKA_545217,NIT_86/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,2526938.85,25.27,17,2026-03-09
+2026_FORES_SIKA_714915,NIT_13/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,1881352.66,18.81,13,2025-10-06
+2026_WRD_SIKA_456359,NIT_74/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,808590.51,8.09,13,2025-05-10
+2026_FORES_SIKA_341249,NIT_27/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,549959.75,5.5,11,2025-11-09
+2026_PWD_SIKA_456082,NIT_59/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,14225820.1,142.26,21,2026-03-12
+2026_UIT_SIKA_604000,NIT_14/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,358815.6,3.59,9,2025-06-23
+2026_DLB_SIKA_815485,NIT_76/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,4178371.86,41.78,11,2025-09-25
+2026_FORES_SIKA_868260,NIT_22/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,3509507.26,35.1,10,2025-06-22
+2026_WRD_SIKA_234993,NIT_83/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,555576.34,5.56,7,2025-12-05
+2026_FORES_SIKA_802750,NIT_61/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,487965.65,4.88,13,2025-08-11
+2026_FORES_SIKA_764920,NIT_24/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,632908.84,6.33,14,2025-12-14
+2026_WRD_SIKA_918941,NIT_70/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,719618.78,7.2,12,2025-05-28
+2026_UIT_SIKA_287526,NIT_64/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,575369.3,5.75,8,2025-06-16
+2026_PWD_SIKA_453491,NIT_85/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,8758144.42,87.58,22,2025-11-09
+2026_PWD_SIKA_587339,NIT_46/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,181875.56,1.82,14,2025-10-05
+2026_PWD_SIKA_728441,NIT_97/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,445437.13,4.45,11,2025-04-13
+2026_MEDIC_SIKA_380216,NIT_32/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,384591.75,3.85,14,2025-09-14
+2026_WRD_SIKA_766876,NIT_14/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,79982111.66,799.82,36,2025-08-06
+2026_PHED_SIKA_188129,NIT_78/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,225658.06,2.26,14,2025-11-07
+2026_WRD_SIKA_462163,NIT_68/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,701193.57,7.01,15,2026-01-17
+2026_DLB_SIKA_142615,NIT_19/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,9706920.98,97.07,12,2026-02-21
+2026_UIT_SIKA_206034,NIT_58/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,12274325.47,122.74,19,2025-11-03
+2026_DLB_SIKA_123470,NIT_33/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,910287.1,9.1,8,2025-11-08
+2026_PWD_SIKA_932196,NIT_34/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,13078352.69,130.78,23,2025-08-03
+2026_FORES_SIKA_937764,NIT_16/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,449389.11,4.49,13,2025-08-19
+2026_FORES_SIKA_822325,NIT_33/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,371483.05,3.71,13,2025-07-02
+2026_FORES_SIKA_398752,NIT_44/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,154040.84,1.54,13,2026-03-03
+2026_PHED_SIKA_388115,NIT_44/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,519952.98,5.2,12,2025-05-20
+2026_PHED_SIKA_335745,NIT_12/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,3708781.91,37.09,14,2026-02-06
+2026_UIT_SIKA_583020,NIT_85/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,486611.83,4.87,15,2025-10-17
+2026_DLB_SIKA_684745,NIT_11/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,424360.58,4.24,14,2025-06-17
+2026_DLB_SIKA_995857,NIT_73/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,1839890.23,18.4,16,2025-08-09
+2026_DLB_SIKA_133833,NIT_94/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,4246093.79,42.46,17,2026-01-13
+2026_WRD_SIKA_187128,NIT_36/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,748408.72,7.48,11,2025-08-28
+2026_UIT_SIKA_430655,NIT_67/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,3579380.14,35.79,12,2026-02-14
+2026_WRD_SIKA_692332,NIT_65/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,482314.4,4.82,11,2026-01-10
+2026_FORES_SIKA_614595,NIT_40/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,2457316.26,24.57,16,2026-02-05
+2026_UIT_SIKA_229492,NIT_22/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,2534061.36,25.34,11,2026-01-18
+2026_WRD_SIKA_287299,NIT_30/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,96920589.31,969.21,38,2025-10-27
+2026_WRD_SIKA_887775,NIT_37/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,484544.0,4.85,12,2025-10-03
+2026_FORES_SIKA_210770,NIT_95/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,857806.29,8.58,12,2025-12-14
+2026_MEDIC_SIKA_658375,NIT_60/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,330079.37,3.3,14,2025-08-25
+2026_UIT_SIKA_571288,NIT_30/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,889128.45,8.89,11,2025-04-02
+2026_MEDIC_SIKA_970177,NIT_52/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,760347.92,7.6,8,2025-10-14
+2026_MEDIC_SIKA_784829,NIT_63/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,18644614.0,186.45,18,2025-06-10
+2026_MEDIC_SIKA_750033,NIT_74/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,949127.91,9.49,13,2025-04-12
+2026_WRD_SIKA_739434,NIT_41/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,283167.1,2.83,8,2025-10-07
+2026_PWD_SIKA_879055,NIT_86/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,4363171.8,43.63,18,2025-12-18
+2026_UIT_SIKA_302408,NIT_30/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,516215.12,5.16,10,2025-06-29
+2026_DLB_SIKA_847417,NIT_35/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,2260215.76,22.6,10,2025-07-15
+2026_MEDIC_SIKA_583581,NIT_68/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,346037.58,3.46,10,2025-06-30
+2026_DLB_SIKA_624513,NIT_92/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,238925.84,2.39,12,2025-06-21
+2026_PHED_SIKA_584664,NIT_18/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,155506.65,1.56,13,2025-12-23
+2026_DLB_SIKA_504032,NIT_19/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,776434.19,7.76,15,2025-06-01
+2026_FORES_SIKA_914320,NIT_87/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,14129832.89,141.3,22,2025-05-01
+2026_WRD_SIKA_951089,NIT_60/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,812646.19,8.13,7,2025-10-04
+2026_DLB_SIKA_851435,NIT_75/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,653414.56,6.53,8,2025-05-24
+2026_PHED_SIKA_988217,NIT_43/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,756352.34,7.56,8,2025-06-26
+2026_WRD_SIKA_532949,NIT_94/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,421867.7,4.22,14,2025-07-17
+2026_WRD_SIKA_201843,NIT_52/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,14060090.89,140.6,10,2025-08-04
+2026_UIT_SIKA_372629,NIT_53/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,386233.66,3.86,14,2026-03-25
+2026_WRD_SIKA_695833,NIT_45/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,3279105.49,32.79,12,2025-12-24
+2026_WRD_SIKA_127200,NIT_38/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,108136888.8,1081.37,34,2025-06-21
+2026_MEDIC_SIKA_764686,NIT_49/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,2832318.16,28.32,14,2025-06-19
+2026_FORES_SIKA_944311,NIT_98/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,6974032.59,69.74,19,2026-02-21
+2026_PHED_SIKA_129365,NIT_37/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,616584.3,6.17,7,2025-08-11
+2026_WRD_SIKA_856169,NIT_75/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,746365.79,7.46,13,2025-12-01
+2026_MEDIC_SIKA_278687,NIT_54/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,665081.22,6.65,15,2025-09-08
+2026_MEDIC_SIKA_492547,NIT_58/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,4295282.58,42.95,12,2025-12-25
+2026_DLB_SIKA_283906,NIT_71/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,109816227.05,1098.16,5,2025-09-23
+2026_PHED_SIKA_424333,NIT_36/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,329447.99,3.29,8,2026-02-27
+2026_PHED_SIKA_473818,NIT_73/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,2772456.42,27.72,10,2025-12-25
+2026_PHED_SIKA_877391,NIT_35/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,440848.27,4.41,8,2025-09-16
+2026_MEDIC_SIKA_170461,NIT_44/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,3124816.8,31.25,18,2025-05-11
+2026_UIT_SIKA_158693,NIT_67/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,603361.73,6.03,11,2025-07-03
+2026_FORES_SIKA_782420,NIT_41/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,43605653.12,436.06,34,2026-01-08
+2026_WRD_SIKA_195797,NIT_34/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,3800014.7,38.0,12,2025-12-24
+2026_WRD_SIKA_163821,NIT_36/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,332069.0,3.32,14,2025-11-24
+2026_PWD_SIKA_663015,NIT_16/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,405086.67,4.05,10,2025-12-01
+2026_PWD_SIKA_563363,NIT_20/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,530828.64,5.31,10,2026-02-01
+2026_DLB_SIKA_414531,NIT_82/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,157681.98,1.58,8,2025-11-13
+2026_UIT_SIKA_773843,NIT_34/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,621150.03,6.21,14,2025-04-01
+2026_WRD_SIKA_891213,NIT_62/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,13498687.22,134.99,23,2025-12-04
+2026_MEDIC_SIKA_397539,NIT_92/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,2173639.75,21.74,13,2025-09-22
+2026_WRD_SIKA_810769,NIT_81/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,552449.82,5.52,8,2025-07-03
+2026_DLB_SIKA_106833,NIT_50/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,864693.76,8.65,14,2025-06-23
+2026_PHED_SIKA_168744,NIT_65/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,14487071.43,144.87,10,2025-09-23
+2026_FORES_SIKA_820328,NIT_78/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,4134591.31,41.35,11,2025-07-28
+2026_PHED_SIKA_422122,NIT_74/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,394307.05,3.94,14,2025-05-23
+2026_FORES_SIKA_414637,NIT_88/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,1838594.72,18.39,15,2025-06-20
+2026_PHED_SIKA_903625,NIT_60/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,778648.9,7.79,9,2025-09-14
+2026_MEDIC_SIKA_596789,NIT_93/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,626183.72,6.26,11,2025-07-27
+2026_WRD_SIKA_594908,NIT_48/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,446632.9,4.47,12,2025-09-09
+2026_DLB_SIKA_422979,NIT_64/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,600629.12,6.01,7,2025-10-24
+2026_PWD_SIKA_528645,NIT_55/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,666634.17,6.67,14,2025-08-19
+2026_PWD_SIKA_958294,NIT_35/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,41652295.16,416.52,35,2025-04-13
+2026_WRD_SIKA_548264,NIT_58/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,9694454.83,96.94,18,2026-02-11
+2026_MEDIC_SIKA_561481,NIT_45/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,1450629.66,14.51,15,2025-12-02
+2026_FORES_SIKA_721742,NIT_70/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,911636.29,9.12,13,2026-03-19
+2026_FORES_SIKA_610699,NIT_41/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,374114.09,3.74,13,2025-05-01
+2026_PWD_SIKA_158840,NIT_91/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,2335094.74,23.35,17,2025-08-24
+2026_PWD_SIKA_594761,NIT_27/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,854679.79,8.55,13,2025-06-17
+2026_UIT_SIKA_257726,NIT_85/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,389084.5,3.89,8,2025-11-11
+2026_PHED_SIKA_443767,NIT_83/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,587268.12,5.87,15,2025-12-28
+2026_UIT_SIKA_405575,NIT_98/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,5501554.96,55.02,20,2025-10-02
+2026_UIT_SIKA_567497,NIT_37/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,297312.02,2.97,14,2025-10-03
+2026_WRD_SIKA_308651,NIT_96/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,927150.93,9.27,7,2025-06-11
+2026_PWD_SIKA_773437,NIT_62/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,2652490.98,26.52,10,2025-12-27
+2026_PWD_SIKA_637145,NIT_57/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,162961.02,1.63,7,2025-12-15
+2026_UIT_SIKA_937055,NIT_51/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,782110.0,7.82,12,2026-02-19
+2026_PWD_SIKA_870109,NIT_19/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,602245.44,6.02,8,2025-12-29
+2026_PHED_SIKA_937383,NIT_75/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,827039.47,8.27,14,2026-02-07
+2026_FORES_SIKA_300160,NIT_19/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,3926682.32,39.27,14,2025-11-25
+2026_DLB_SIKA_874831,NIT_29/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,670354.96,6.7,12,2025-11-19
+2026_MEDIC_SIKA_919056,NIT_98/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,741566.89,7.42,7,2025-10-23
+2026_MEDIC_SIKA_408086,NIT_10/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,13806918.51,138.07,11,2025-11-05
+2026_PHED_SIKA_371426,NIT_38/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,13264395.45,132.64,18,2026-01-20
+2026_WRD_SIKA_849631,NIT_83/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,7305946.0,73.06,17,2025-05-22
+2026_PWD_SIKA_659333,NIT_87/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,905595.78,9.06,9,2026-01-02
+2026_WRD_SIKA_172631,NIT_51/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,846444.84,8.46,10,2025-07-13
+2026_WRD_SIKA_271220,NIT_64/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,119109359.08,1191.09,35,2025-04-14
+2026_PHED_SIKA_560996,NIT_25/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,4178089.66,41.78,17,2025-07-16
+2026_DLB_SIKA_151604,NIT_67/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,500837.48,5.01,13,2026-01-28
+2026_UIT_SIKA_230704,NIT_21/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,925395.02,9.25,15,2025-06-02
+2026_PHED_SIKA_893359,NIT_36/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,246286.66,2.46,12,2025-09-10
+2026_DLB_SIKA_300258,NIT_36/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,18795099.03,187.95,19,2025-12-17
+2026_PWD_SIKA_579150,NIT_12/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,155804.48,1.56,13,2025-05-22
+2026_WRD_SIKA_477898,NIT_49/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,819227.71,8.19,11,2025-07-27
+2026_FORES_SIKA_188553,NIT_93/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,664865.56,6.65,14,2025-04-09
+2026_WRD_SIKA_865071,NIT_92/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,4414991.98,44.15,13,2025-06-30
+2026_MEDIC_SIKA_109724,NIT_26/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,12356983.87,123.57,15,2025-05-02
+2026_MEDIC_SIKA_941356,NIT_36/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,843076.05,8.43,12,2026-02-11
+2026_DLB_SIKA_963240,NIT_30/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,2622146.81,26.22,18,2025-06-17
+2026_FORES_SIKA_948735,NIT_95/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,38979854.53,389.8,32,2025-04-16
+2026_DLB_SIKA_313990,NIT_49/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,472923.44,4.73,11,2026-02-13
+2026_WRD_SIKA_129861,NIT_13/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,415265.64,4.15,7,2025-06-13
+2026_DLB_SIKA_148758,NIT_79/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,451629.42,4.52,15,2025-06-26
+2026_PHED_SIKA_204978,NIT_11/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,2357499.02,23.57,16,2025-05-04
+2026_PWD_SIKA_598796,NIT_69/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,4737632.95,47.38,18,2025-11-12
+2026_PHED_SIKA_998541,NIT_87/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,4085344.2,40.85,5,2025-11-27
+2026_WRD_SIKA_234425,NIT_51/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,3511403.52,35.11,11,2025-12-01
+2026_DLB_SIKA_885088,NIT_83/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,307029.68,3.07,9,2025-06-13
+2026_PHED_SIKA_791231,NIT_20/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,15455956.28,154.56,16,2025-08-06
+2026_PHED_SIKA_362847,NIT_33/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,734024.22,7.34,14,2026-03-09
+2026_MEDIC_SIKA_645172,NIT_76/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,611733.69,6.12,9,2025-09-15
+2026_DLB_SIKA_492975,NIT_94/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,1594578.75,15.95,10,2025-10-15
+2026_FORES_SIKA_150350,NIT_35/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,4723239.82,47.23,8,2025-07-31
+2026_PHED_SIKA_516036,NIT_51/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,159370.01,1.59,12,2025-07-06
+2026_FORES_SIKA_956675,NIT_83/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,10798064.6,107.98,19,2026-01-05
+2026_DLB_SIKA_223542,NIT_45/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,14245354.97,142.45,17,2025-08-09
+2026_WRD_SIKA_946188,NIT_72/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,767606.23,7.68,8,2026-03-09
+2026_UIT_SIKA_459006,NIT_76/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,47023471.25,470.23,30,2026-01-04
+2026_PHED_SIKA_199178,NIT_39/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,930070.31,9.3,8,2026-01-07
+2026_FORES_SIKA_410078,NIT_26/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,848645.39,8.49,13,2026-01-09
+2026_PWD_SIKA_629241,NIT_33/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,468046.48,4.68,15,2025-07-09
+2026_PHED_SIKA_980817,NIT_97/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,8261627.86,82.62,8,2025-12-26
+2026_MEDIC_SIKA_917823,NIT_29/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,3160811.26,31.61,10,2025-12-29
+2026_WRD_SIKA_665661,NIT_39/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,704955.8,7.05,9,2025-10-09
+2026_PHED_SIKA_205002,NIT_97/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,282508.41,2.83,10,2025-06-17
+2026_MEDIC_SIKA_739280,NIT_64/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,4268606.99,42.69,16,2025-08-30
+2026_DLB_SIKA_647093,NIT_63/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,864995.6,8.65,9,2025-09-01
+2026_PWD_SIKA_178507,NIT_42/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,14975106.61,149.75,16,2025-05-01
+2026_UIT_SIKA_530309,NIT_27/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,7184323.63,71.84,18,2025-10-18
+2026_UIT_SIKA_267188,NIT_92/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,485207.42,4.85,10,2025-09-27
+2026_PWD_SIKA_337298,NIT_45/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,34903593.32,349.04,32,2025-07-15
+2026_DLB_SIKA_249326,NIT_96/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,370376.24,3.7,8,2025-12-23
+2026_WRD_SIKA_649706,NIT_23/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,97394145.01,973.94,37,2025-08-31
+2026_UIT_SIKA_230929,NIT_79/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,3835918.99,38.36,11,2025-09-22
+2026_WRD_SIKA_142961,NIT_58/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,4192415.42,41.92,17,2025-11-05
+2026_MEDIC_SIKA_276638,NIT_98/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,842404.91,8.42,11,2025-07-25
+2026_MEDIC_SIKA_208055,NIT_21/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,18966953.24,189.67,20,2025-08-02
+2026_UIT_SIKA_991253,NIT_95/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,545625.44,5.46,13,2025-11-02
+2026_PWD_SIKA_769054,NIT_23/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,842133.79,8.42,11,2025-08-07
+2026_FORES_SIKA_632491,NIT_52/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,485716.29,4.86,12,2025-05-13
+2026_PWD_SIKA_206043,NIT_72/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,1960290.82,19.6,16,2026-03-07
+2026_WRD_SIKA_209015,NIT_72/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,598536.61,5.99,13,2026-02-05
+2026_MEDIC_SIKA_799984,NIT_58/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,1207879.62,12.08,11,2026-01-20
+2026_PWD_SIKA_223179,NIT_40/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,10177671.42,101.78,21,2025-10-19
+2026_FORES_SIKA_880465,NIT_15/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,427843.56,4.28,14,2026-01-19
+2026_UIT_SIKA_648159,NIT_14/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,4575738.76,45.76,16,2026-03-09
+2026_PWD_SIKA_326533,NIT_82/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,294590.15,2.95,12,2025-05-21
+2026_WRD_SIKA_532164,NIT_13/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,15260991.67,152.61,20,2025-09-28
+2026_PHED_SIKA_390070,NIT_67/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,16015195.27,160.15,19,2025-06-22
+2026_PHED_SIKA_685606,NIT_80/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,668629.53,6.69,12,2025-06-28
+2026_UIT_SIKA_624116,NIT_21/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,2301612.25,23.02,13,2025-09-10
+2026_UIT_SIKA_420691,NIT_22/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,881337.05,8.81,13,2025-09-08
+2026_MEDIC_SIKA_621344,NIT_91/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,298953.72,2.99,11,2025-12-05
+2026_WRD_SIKA_453371,NIT_66/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,17561767.18,175.62,20,2025-04-09
+2026_PWD_SIKA_299008,NIT_84/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,398422.07,3.98,15,2025-08-30
+2026_UIT_SIKA_687119,NIT_78/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,292326.48,2.92,8,2025-07-11
+2026_PWD_SIKA_194940,NIT_86/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,881757.84,8.82,11,2025-06-14
+2026_FORES_SIKA_456687,NIT_78/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,10082435.19,100.82,19,2026-02-09
+2026_MEDIC_SIKA_186205,NIT_51/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,949551.11,9.5,7,2025-08-04
+2026_MEDIC_SIKA_262541,NIT_95/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,944141.82,9.44,10,2026-03-22
+2026_PHED_SIKA_357269,NIT_38/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,2701334.63,27.01,12,2025-04-07
+2026_WRD_SIKA_355517,NIT_12/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,17033932.54,170.34,23,2026-01-08
+2026_MEDIC_SIKA_301577,NIT_62/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,298846.43,2.99,13,2026-02-16
+2026_MEDIC_SIKA_505907,NIT_43/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,715396.74,7.15,11,2025-11-07
+2026_WRD_SIKA_482221,NIT_40/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,406123.78,4.06,9,2025-09-12
+2026_UIT_SIKA_967641,NIT_99/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,347516.29,3.48,9,2025-05-20
+2026_UIT_SIKA_632103,NIT_70/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,578287.93,5.78,10,2025-09-26
+2026_FORES_SIKA_836251,NIT_92/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,4711848.8,47.12,13,2025-11-25
+2026_WRD_SIKA_702154,NIT_16/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,2775895.77,27.76,16,2025-05-04
+2026_PHED_SIKA_123189,NIT_81/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,2731756.02,27.32,15,2025-12-01
+2026_UIT_SIKA_840618,NIT_28/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,201021.47,2.01,11,2026-01-17
+2026_WRD_SIKA_863112,NIT_13/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,15047848.2,150.48,17,2025-10-20
+2026_PHED_SIKA_793948,NIT_67/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,397860.22,3.98,11,2025-09-17
+2026_PHED_SIKA_697538,NIT_75/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,114680510.88,1146.81,35,2025-04-04
+2026_MEDIC_SIKA_155544,NIT_55/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,3252928.78,32.53,11,2026-02-09
+2026_PWD_SIKA_655506,NIT_62/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,734304.27,7.34,10,2026-02-02
+2026_UIT_SIKA_895681,NIT_32/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,4184022.8,41.84,17,2025-06-01
+2026_WRD_SIKA_193434,NIT_22/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,906917.71,9.07,13,2025-10-26
+2026_DLB_SIKA_830244,NIT_70/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,1569410.64,15.69,11,2025-09-07
+2026_WRD_SIKA_286028,NIT_65/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,853251.63,8.53,9,2025-08-12
+2026_DLB_SIKA_310351,NIT_39/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,430960.55,4.31,8,2025-09-21
+2026_DLB_SIKA_888335,NIT_22/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,12429368.38,124.29,12,2025-05-02
+2026_MEDIC_SIKA_162019,NIT_97/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,448517.59,4.49,15,2025-04-07
+2026_PWD_SIKA_442737,NIT_59/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,9426441.64,94.26,20,2025-05-06
+2026_PHED_SIKA_297637,NIT_91/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,646697.92,6.47,10,2025-09-24
+2026_PWD_SIKA_816367,NIT_29/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,3298943.64,32.99,17,2025-06-30
+2026_MEDIC_SIKA_256080,NIT_66/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,1163781.25,11.64,18,2025-06-01
+2026_UIT_SIKA_426804,NIT_47/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,236219.94,2.36,15,2025-06-25
+2026_PWD_SIKA_621824,NIT_34/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,632802.7,6.33,12,2025-11-19
+2026_FORES_SIKA_674599,NIT_59/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,777250.12,7.77,15,2025-05-04
+2026_WRD_SIKA_358182,NIT_56/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,263105.1,2.63,14,2025-07-06
+2026_UIT_SIKA_523923,NIT_15/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,436657.13,4.37,14,2026-03-04
+2026_FORES_SIKA_891267,NIT_85/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,1420426.39,14.2,15,2025-12-26
+2026_MEDIC_SIKA_703022,NIT_99/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,12540574.41,125.41,18,2025-08-23
+2026_WRD_SIKA_242056,NIT_67/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,15736612.04,157.37,21,2025-11-09
+2026_DLB_SIKA_186391,NIT_72/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,1139378.06,11.39,18,2025-12-04
+2026_MEDIC_SIKA_507695,NIT_49/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,2916054.78,29.16,14,2026-03-17
+2026_FORES_SIKA_157792,NIT_77/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,4167214.51,41.67,11,2025-09-05
+2026_MEDIC_SIKA_884179,NIT_83/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,584229.63,5.84,7,2025-12-30
+2026_PWD_SIKA_149500,NIT_48/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,10511639.19,105.12,21,2025-12-17
+2026_MEDIC_SIKA_990472,NIT_32/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,2957795.94,29.58,10,2025-07-19
+2026_PWD_SIKA_579444,NIT_33/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,4396335.29,43.96,11,2025-07-14
+2026_DLB_SIKA_316779,NIT_83/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,662336.91,6.62,13,2025-07-15
+2026_FORES_SIKA_221981,NIT_47/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,153791.03,1.54,12,2025-06-30
+2026_DLB_SIKA_966723,NIT_39/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,447427.02,4.47,7,2025-06-19
+2026_PHED_SIKA_727836,NIT_41/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,13780339.73,137.8,19,2025-07-14
+2026_FORES_SIKA_872416,NIT_44/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,477362.73,4.77,2,2025-10-11
+2026_WRD_SIKA_983566,NIT_34/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,803379.71,8.03,7,2026-02-15
+2026_FORES_SIKA_514678,NIT_15/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,89904174.87,899.04,33,2025-05-07
+2026_FORES_SIKA_219936,NIT_24/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,277139.07,2.77,8,2025-07-03
+2026_MEDIC_SIKA_443281,NIT_31/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,904802.5,9.05,13,2025-08-24
+2026_MEDIC_SIKA_400353,NIT_46/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,834406.47,8.34,8,2025-10-20
+2026_UIT_SIKA_311944,NIT_21/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,3130312.45,31.3,12,2025-12-22
+2026_PWD_SIKA_591737,NIT_71/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,6708945.75,67.09,17,2025-05-13
+2026_UIT_SIKA_827309,NIT_18/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,343401.48,3.43,14,2025-06-13
+2026_DLB_SIKA_726001,NIT_15/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,14347699.31,143.48,18,2025-09-10
+2026_PWD_SIKA_696431,NIT_11/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,908871.53,9.09,11,2025-06-29
+2026_WRD_SIKA_584479,NIT_35/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,17641566.84,176.42,9,2025-06-18
+2026_WRD_SIKA_630154,NIT_18/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,1894633.49,18.95,15,2026-03-03
+2026_FORES_SIKA_560190,NIT_13/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,17224454.92,172.24,6,2026-02-03
+2026_MEDIC_SIKA_401787,NIT_81/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,278878.4,2.79,12,2025-04-30
+2026_PWD_SIKA_818025,NIT_18/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,61582492.66,615.82,32,2025-09-12
+2026_WRD_SIKA_140296,NIT_28/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,4430698.55,44.31,10,2025-10-13
+2026_PWD_SIKA_690045,NIT_17/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,800964.85,8.01,8,2025-07-24
+2026_UIT_SIKA_758806,NIT_14/SIK/2025-26,Municipal Council Sikar,Sikar,Jaipur Division,12978214.86,129.78,10,2026-01-18
+2026_FORES_SIKA_504807,NIT_46/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,698487.99,6.98,10,2026-03-16
+2026_DLB_SIKA_742366,NIT_42/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,9963018.3,99.63,17,2025-11-19
+2026_MEDIC_SIKA_477629,NIT_38/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,265525.92,2.66,9,2025-10-16
+2026_WRD_SIKA_268104,NIT_57/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,3825020.91,38.25,14,2025-06-13
+2026_PWD_SIKA_582273,NIT_62/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,718548.66,7.19,10,2025-10-23
+2026_PHED_SIKA_980945,NIT_90/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,432353.1,4.32,13,2025-10-31
+2026_DLB_SIKA_869077,NIT_67/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,505114.31,5.05,12,2025-09-20
+2026_WRD_SIKA_797694,NIT_61/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,256491.74,2.56,10,2025-07-21
+2026_FORES_SIKA_300241,NIT_82/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,305681.55,3.06,12,2025-11-24
+2026_MEDIC_SIKA_901087,NIT_62/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,449853.31,4.5,13,2025-06-12
+2026_DLB_SIKA_213927,NIT_79/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,3495890.4,34.96,16,2025-04-27
+2026_PHED_SIKA_327727,NIT_53/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,591354.46,5.91,13,2025-12-21
+2026_DLB_SIKA_289074,NIT_66/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,169068.32,1.69,9,2025-08-18
+2026_FORES_SIKA_813692,NIT_82/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,3934650.11,39.35,13,2025-06-17
+2026_DLB_SIKA_431864,NIT_69/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,346558.78,3.47,14,2025-09-09
+2026_MEDIC_SIKA_900475,NIT_88/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,12522115.93,125.22,16,2025-05-04
+2026_PWD_SIKA_122508,NIT_11/SIK/2025-26,Public Works Department (Sikar Circle),Sikar,Jaipur Division,17898370.69,178.98,16,2025-09-08
+2026_WRD_SIKA_312868,NIT_29/SIK/2025-26,Water Resources Department (Sikar Circle),Sikar,Jaipur Division,4642337.19,46.42,11,2025-10-03
+2026_MEDIC_SIKA_430825,NIT_84/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,4441931.8,44.42,15,2026-03-27
+2026_PHED_SIKA_403815,NIT_48/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,6600692.95,66.01,17,2025-06-23
+2026_DLB_SIKA_224193,NIT_78/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,878185.19,8.78,15,2026-01-08
+2026_FORES_SIKA_592377,NIT_99/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,936642.42,9.37,10,2025-05-29
+2026_FORES_SIKA_253769,NIT_66/SIK/2025-26,Forest Department (Sikar Circle),Sikar,Jaipur Division,227655.15,2.28,13,2025-11-29
+2026_DLB_SIKA_600044,NIT_31/SIK/2025-26,Directorate of Local Bodies (Sikar Circle),Sikar,Jaipur Division,3926767.85,39.27,15,2025-11-12
+2026_MEDIC_SIKA_699691,NIT_33/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,507866.73,5.08,14,2026-03-10
+2026_MEDIC_SIKA_460530,NIT_53/SIK/2025-26,Department of Medical Education (Sikar Circle),Sikar,Jaipur Division,4754307.37,47.54,11,2025-06-30
+2026_PHED_SIKA_754344,NIT_48/SIK/2025-26,Public Health Engineering Department (Sikar Circle),Sikar,Jaipur Division,88059942.73,880.6,33,2026-02-19

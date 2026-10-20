@@ -1,0 +1,479 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_PHED_JALO_170344,NIT_42/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,1255481.81,12.55,11,2025-12-29
+2026_DLB_JALO_494365,NIT_14/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,396661.59,3.97,10,2025-07-19
+2026_MEDIC_JALO_719478,NIT_21/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,352664.35,3.53,15,2025-09-21
+2026_PHED_JALO_373835,NIT_68/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,389385.82,3.89,9,2025-04-02
+2026_PHED_JALO_443213,NIT_87/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,359964.5,3.6,9,2025-07-25
+2026_UIT_JALO_629057,NIT_71/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,666111.76,6.66,8,2026-01-01
+2026_FORES_JALO_815085,NIT_99/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,95723436.94,957.23,37,2025-12-02
+2026_WRD_JALO_200151,NIT_36/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,222138.06,2.22,12,2025-05-10
+2026_MEDIC_JALO_807071,NIT_34/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,1082485.05,10.82,15,2025-07-10
+2026_WRD_JALO_538732,NIT_50/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,577609.38,5.78,10,2026-02-13
+2026_MEDIC_JALO_913506,NIT_78/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,441743.93,4.42,8,2025-12-07
+2026_MEDIC_JALO_731575,NIT_51/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,424981.76,4.25,7,2026-01-21
+2026_MEDIC_JALO_418335,NIT_96/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,99571661.38,995.72,8,2026-01-09
+2026_DLB_JALO_446336,NIT_56/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,16345584.75,163.46,16,2025-10-10
+2026_DLB_JALO_461928,NIT_89/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,7653840.41,76.54,16,2026-01-26
+2026_PHED_JALO_426158,NIT_78/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,96458256.34,964.58,30,2025-04-29
+2026_PHED_JALO_658754,NIT_18/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,805299.39,8.05,10,2025-08-11
+2026_PHED_JALO_837754,NIT_87/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,935623.68,9.36,9,2025-05-23
+2026_FORES_JALO_737813,NIT_57/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,3203374.81,32.03,13,2025-04-27
+2026_UIT_JALO_716173,NIT_23/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,288711.1,2.89,9,2025-11-28
+2026_PHED_JALO_409531,NIT_21/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,942116.99,9.42,13,2025-05-16
+2026_PHED_JALO_361576,NIT_20/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,415872.12,4.16,12,2025-07-10
+2026_UIT_JALO_156595,NIT_18/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,2252729.16,22.53,10,2025-09-05
+2026_WRD_JALO_110761,NIT_67/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,2703566.53,27.04,11,2025-04-25
+2026_MEDIC_JALO_876367,NIT_62/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,438450.05,4.38,12,2025-09-11
+2026_DLB_JALO_526536,NIT_65/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,339904.7,3.4,12,2025-09-03
+2026_PWD_JALO_921124,NIT_81/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,3832434.28,38.32,11,2025-06-12
+2026_DLB_JALO_743694,NIT_86/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,2050877.54,20.51,16,2025-09-05
+2026_FORES_JALO_186018,NIT_89/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,883888.8,8.84,7,2025-11-01
+2026_PWD_JALO_828523,NIT_58/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,4733258.83,47.33,11,2025-04-09
+2026_PWD_JALO_890369,NIT_99/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,731368.14,7.31,9,2026-03-07
+2026_WRD_JALO_240506,NIT_25/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,473598.27,4.74,15,2025-06-04
+2026_PHED_JALO_820386,NIT_20/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,3423073.75,34.23,16,2025-06-27
+2026_FORES_JALO_920158,NIT_58/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,4183717.96,41.84,16,2025-06-14
+2026_PWD_JALO_654778,NIT_34/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,655141.75,6.55,8,2025-04-02
+2026_PWD_JALO_462034,NIT_82/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,1913979.57,19.14,15,2025-12-09
+2026_PHED_JALO_896984,NIT_26/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,3117255.81,31.17,13,2025-06-20
+2026_PHED_JALO_131987,NIT_15/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,4650611.65,46.51,14,2026-01-12
+2026_WRD_JALO_745592,NIT_73/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,3806310.24,38.06,13,2026-01-10
+2026_DLB_JALO_228027,NIT_28/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,3337725.82,33.38,15,2025-07-05
+2026_FORES_JALO_950816,NIT_15/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,414946.14,4.15,7,2025-06-15
+2026_FORES_JALO_641074,NIT_61/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,162748.48,1.63,11,2026-01-08
+2026_PWD_JALO_281930,NIT_33/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,359717.92,3.6,12,2025-09-01
+2026_DLB_JALO_376289,NIT_67/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,913695.48,9.14,12,2025-04-22
+2026_FORES_JALO_707725,NIT_12/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,2014408.7,20.14,18,2026-01-25
+2026_MEDIC_JALO_446535,NIT_65/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,463714.06,4.64,10,2025-04-19
+2026_PWD_JALO_507821,NIT_52/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,651603.99,6.52,9,2025-07-22
+2026_MEDIC_JALO_686011,NIT_72/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,574674.5,5.75,14,2025-10-13
+2026_WRD_JALO_546240,NIT_99/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,936028.9,9.36,10,2025-05-08
+2026_PHED_JALO_508266,NIT_94/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,917185.27,9.17,9,2025-06-10
+2026_UIT_JALO_720314,NIT_12/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,4367703.29,43.68,13,2026-01-10
+2026_DLB_JALO_109564,NIT_45/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,535595.52,5.36,14,2025-05-11
+2026_UIT_JALO_705466,NIT_88/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,1107839.22,11.08,13,2025-09-16
+2026_PWD_JALO_896842,NIT_42/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,105826951.21,1058.27,35,2025-08-04
+2026_MEDIC_JALO_276672,NIT_82/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,381878.62,3.82,8,2025-08-11
+2026_DLB_JALO_948171,NIT_82/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,734861.59,7.35,10,2025-09-05
+2026_DLB_JALO_234370,NIT_81/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,341494.79,3.41,8,2025-10-27
+2026_DLB_JALO_325499,NIT_91/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,1261107.95,12.61,13,2025-06-04
+2026_FORES_JALO_865621,NIT_60/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,2900341.47,29.0,14,2025-12-18
+2026_UIT_JALO_642184,NIT_61/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,801754.0,8.02,13,2025-09-17
+2026_DLB_JALO_822224,NIT_94/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,269399.78,2.69,12,2026-03-06
+2026_FORES_JALO_660774,NIT_94/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,7760884.0,77.61,17,2025-12-31
+2026_PWD_JALO_897060,NIT_24/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,571553.86,5.72,12,2025-07-17
+2026_PWD_JALO_558007,NIT_75/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,561391.38,5.61,11,2026-03-15
+2026_UIT_JALO_542924,NIT_72/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,17711741.24,177.12,21,2025-08-21
+2026_WRD_JALO_940654,NIT_80/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,1870540.81,18.71,14,2026-01-20
+2026_WRD_JALO_971315,NIT_83/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,11754225.63,117.54,18,2025-05-12
+2026_DLB_JALO_438037,NIT_54/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,3613796.52,36.14,12,2025-12-14
+2026_FORES_JALO_752898,NIT_72/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,8988624.19,89.89,16,2026-03-18
+2026_PWD_JALO_840036,NIT_91/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,382906.08,3.83,9,2025-11-06
+2026_DLB_JALO_438931,NIT_25/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,4196364.24,41.96,17,2025-11-04
+2026_WRD_JALO_450900,NIT_38/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,8901447.37,89.01,16,2025-10-01
+2026_UIT_JALO_772479,NIT_65/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,2215051.9,22.15,16,2025-11-12
+2026_MEDIC_JALO_727941,NIT_64/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,340066.28,3.4,7,2026-01-15
+2026_PHED_JALO_468010,NIT_74/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,804541.2,8.05,8,2025-10-20
+2026_UIT_JALO_300981,NIT_14/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,218689.19,2.19,14,2026-02-28
+2026_FORES_JALO_262774,NIT_32/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,887571.81,8.88,15,2025-08-22
+2026_UIT_JALO_667751,NIT_37/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,394247.72,3.94,9,2025-12-02
+2026_DLB_JALO_530136,NIT_80/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,1233074.53,12.33,14,2025-11-10
+2026_FORES_JALO_827877,NIT_16/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,4630941.07,46.31,18,2025-04-18
+2026_WRD_JALO_108500,NIT_36/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,307228.06,3.07,7,2025-05-07
+2026_UIT_JALO_995832,NIT_52/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,4314251.26,43.14,13,2025-10-09
+2026_UIT_JALO_652582,NIT_61/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,470196.1,4.7,8,2025-09-25
+2026_WRD_JALO_373903,NIT_44/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,483463.1,4.83,10,2026-01-25
+2026_PHED_JALO_512038,NIT_15/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,642043.41,6.42,11,2025-10-24
+2026_FORES_JALO_834543,NIT_27/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,546618.09,5.47,12,2025-07-15
+2026_DLB_JALO_830609,NIT_48/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,649240.71,6.49,9,2025-12-28
+2026_UIT_JALO_465978,NIT_62/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,505557.99,5.06,9,2025-12-13
+2026_WRD_JALO_873705,NIT_15/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,286569.99,2.87,12,2025-09-12
+2026_FORES_JALO_991070,NIT_93/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,16770346.54,167.7,15,2026-03-11
+2026_DLB_JALO_576041,NIT_53/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,849801.49,8.5,8,2025-06-21
+2026_DLB_JALO_291252,NIT_63/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,2024331.04,20.24,15,2025-10-21
+2026_DLB_JALO_772501,NIT_75/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,2051231.0,20.51,10,2025-11-15
+2026_MEDIC_JALO_739117,NIT_12/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,4166960.69,41.67,11,2026-03-08
+2026_UIT_JALO_689904,NIT_99/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,13059348.29,130.59,11,2025-05-04
+2026_DLB_JALO_606750,NIT_57/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,446260.23,4.46,11,2025-09-01
+2026_PWD_JALO_932008,NIT_49/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,633212.26,6.33,10,2026-03-11
+2026_PWD_JALO_550304,NIT_45/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,13754792.63,137.55,18,2025-12-21
+2026_UIT_JALO_775380,NIT_53/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,680370.87,6.8,14,2025-11-14
+2026_DLB_JALO_467531,NIT_58/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,3975494.85,39.75,10,2025-12-03
+2026_PWD_JALO_479212,NIT_51/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,2186221.42,21.86,13,2026-02-21
+2026_UIT_JALO_420777,NIT_38/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,4739964.42,47.4,17,2026-03-03
+2026_DLB_JALO_206795,NIT_53/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,17065563.04,170.66,17,2025-04-02
+2026_UIT_JALO_710546,NIT_44/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,97000492.73,970.0,36,2026-03-22
+2026_PHED_JALO_412956,NIT_24/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,2346653.33,23.47,17,2025-11-25
+2026_PWD_JALO_153428,NIT_94/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,188190.94,1.88,12,2026-02-24
+2026_WRD_JALO_584802,NIT_68/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,17051553.86,170.52,19,2025-08-02
+2026_FORES_JALO_175242,NIT_94/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,359931.96,3.6,9,2025-06-28
+2026_WRD_JALO_483026,NIT_69/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,919539.41,9.2,11,2025-05-24
+2026_PHED_JALO_459251,NIT_44/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,14144577.5,141.45,16,2025-10-19
+2026_MEDIC_JALO_444770,NIT_93/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,449274.05,4.49,12,2025-06-17
+2026_PHED_JALO_251589,NIT_78/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,443374.84,4.43,15,2025-04-10
+2026_UIT_JALO_912905,NIT_96/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,749901.36,7.5,12,2025-12-05
+2026_FORES_JALO_726843,NIT_48/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,16693528.31,166.94,21,2025-10-24
+2026_PWD_JALO_262931,NIT_77/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,768729.94,7.69,8,2025-07-09
+2026_DLB_JALO_275787,NIT_40/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,1850268.57,18.5,14,2025-11-14
+2026_PWD_JALO_415184,NIT_12/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,522011.22,5.22,14,2026-02-19
+2026_FORES_JALO_200680,NIT_42/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,3785749.93,37.86,17,2026-03-22
+2026_PHED_JALO_404974,NIT_25/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,3134891.28,31.35,15,2025-04-22
+2026_MEDIC_JALO_847496,NIT_37/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,549450.98,5.49,13,2025-04-19
+2026_PWD_JALO_583896,NIT_13/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,302770.8,3.03,8,2025-04-10
+2026_PWD_JALO_582467,NIT_54/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,642619.75,6.43,7,2025-05-24
+2026_DLB_JALO_886122,NIT_14/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,114071604.09,1140.72,34,2026-01-20
+2026_PWD_JALO_612629,NIT_79/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,2671785.6,26.72,18,2025-09-08
+2026_WRD_JALO_812931,NIT_22/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,10690584.87,106.91,20,2026-01-22
+2026_UIT_JALO_918511,NIT_40/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,681665.98,6.82,13,2025-11-14
+2026_DLB_JALO_809734,NIT_41/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,2373527.21,23.74,16,2025-12-06
+2026_PHED_JALO_485891,NIT_96/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,4033438.62,40.33,16,2025-04-24
+2026_DLB_JALO_160600,NIT_68/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,1530326.73,15.3,13,2025-08-17
+2026_UIT_JALO_189521,NIT_37/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,43817909.35,438.18,33,2026-02-08
+2026_PWD_JALO_178025,NIT_44/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,301649.22,3.02,11,2025-06-24
+2026_DLB_JALO_766110,NIT_49/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,930464.54,9.3,13,2026-03-11
+2026_PHED_JALO_428884,NIT_71/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,3721003.05,37.21,16,2025-11-13
+2026_UIT_JALO_960024,NIT_18/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,4615102.7,46.15,10,2025-07-10
+2026_FORES_JALO_904932,NIT_95/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,1091264.57,10.91,17,2026-03-11
+2026_FORES_JALO_339418,NIT_56/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,769343.52,7.69,12,2026-01-13
+2026_UIT_JALO_260817,NIT_59/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,809489.66,8.09,12,2025-07-02
+2026_FORES_JALO_535243,NIT_40/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,867541.41,8.68,11,2025-05-05
+2026_PHED_JALO_631187,NIT_76/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,462272.18,4.62,8,2025-05-16
+2026_UIT_JALO_232388,NIT_96/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,1531584.56,15.32,12,2025-05-09
+2026_WRD_JALO_757061,NIT_94/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,1673967.24,16.74,16,2025-05-13
+2026_PWD_JALO_714026,NIT_72/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,781774.48,7.82,9,2025-09-18
+2026_UIT_JALO_748750,NIT_49/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,465451.55,4.65,12,2025-11-18
+2026_WRD_JALO_759739,NIT_90/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,368278.71,3.68,10,2025-07-02
+2026_WRD_JALO_819785,NIT_50/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,374131.23,3.74,8,2025-12-23
+2026_PWD_JALO_936021,NIT_98/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,3046213.04,30.46,15,2025-05-14
+2026_PHED_JALO_500604,NIT_67/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,7788607.3,77.89,17,2025-04-30
+2026_PHED_JALO_679460,NIT_92/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,664774.59,6.65,10,2025-11-14
+2026_UIT_JALO_857362,NIT_64/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,2973716.41,29.74,18,2025-08-22
+2026_UIT_JALO_620780,NIT_20/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,8790356.8,87.9,16,2025-08-12
+2026_FORES_JALO_647595,NIT_41/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,7936902.51,79.37,16,2025-05-27
+2026_PHED_JALO_564430,NIT_31/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,583362.13,5.83,7,2025-07-10
+2026_PWD_JALO_632842,NIT_71/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,107966521.69,1079.67,37,2025-04-24
+2026_FORES_JALO_700844,NIT_11/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,943107.66,9.43,14,2025-11-09
+2026_PWD_JALO_669862,NIT_40/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,770383.69,7.7,12,2025-04-02
+2026_DLB_JALO_541521,NIT_93/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,536224.26,5.36,13,2025-07-04
+2026_PWD_JALO_623226,NIT_28/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,183437.31,1.83,15,2025-10-20
+2026_MEDIC_JALO_151721,NIT_94/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,389843.49,3.9,10,2025-04-23
+2026_PHED_JALO_967287,NIT_95/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,279468.22,2.79,12,2025-10-23
+2026_WRD_JALO_744620,NIT_64/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,523814.54,5.24,8,2025-10-23
+2026_PWD_JALO_438586,NIT_97/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,15587694.75,155.88,19,2026-01-17
+2026_PWD_JALO_691983,NIT_72/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,14103386.35,141.03,16,2026-01-31
+2026_DLB_JALO_815838,NIT_16/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,248706.26,2.49,12,2026-01-12
+2026_MEDIC_JALO_204690,NIT_34/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,10680063.41,106.8,22,2025-04-06
+2026_DLB_JALO_390740,NIT_32/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,6826546.61,68.27,18,2026-02-21
+2026_DLB_JALO_864019,NIT_27/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,3978595.7,39.79,12,2025-10-23
+2026_UIT_JALO_103614,NIT_27/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,289385.77,2.89,7,2026-01-07
+2026_FORES_JALO_634819,NIT_68/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,2425644.01,24.26,10,2025-06-12
+2026_UIT_JALO_983993,NIT_87/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,43958596.47,439.59,33,2025-12-14
+2026_UIT_JALO_412520,NIT_34/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,3609161.11,36.09,11,2025-04-03
+2026_DLB_JALO_479676,NIT_67/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,341450.47,3.41,8,2025-12-02
+2026_WRD_JALO_454494,NIT_42/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,451905.43,4.52,12,2025-06-02
+2026_PWD_JALO_270838,NIT_20/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,2190968.21,21.91,11,2025-06-17
+2026_MEDIC_JALO_356422,NIT_34/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,219424.44,2.19,15,2026-02-20
+2026_MEDIC_JALO_840854,NIT_71/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,603009.1,6.03,4,2025-09-21
+2026_UIT_JALO_895205,NIT_87/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,513036.63,5.13,14,2025-05-12
+2026_UIT_JALO_609537,NIT_99/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,5570194.63,55.7,9,2025-12-13
+2026_DLB_JALO_159751,NIT_83/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,9387813.94,93.88,21,2025-04-03
+2026_WRD_JALO_197751,NIT_60/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,352696.02,3.53,15,2026-01-28
+2026_WRD_JALO_318978,NIT_40/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,65373585.52,653.74,38,2025-11-19
+2026_UIT_JALO_973178,NIT_61/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,516004.08,5.16,13,2025-05-02
+2026_PWD_JALO_506610,NIT_45/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,1891652.55,18.92,17,2026-03-13
+2026_FORES_JALO_800759,NIT_39/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,4210344.54,42.1,17,2025-07-31
+2026_PWD_JALO_338704,NIT_38/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,7643249.65,76.43,22,2025-09-18
+2026_UIT_JALO_624154,NIT_43/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,119459941.41,1194.6,34,2026-01-03
+2026_WRD_JALO_659236,NIT_15/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,619318.93,6.19,14,2025-07-21
+2026_UIT_JALO_222754,NIT_79/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,6479669.07,64.8,20,2025-08-27
+2026_PHED_JALO_607142,NIT_16/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,514011.33,5.14,12,2026-01-22
+2026_FORES_JALO_413415,NIT_71/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,2600837.07,26.01,11,2025-04-27
+2026_DLB_JALO_704116,NIT_70/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,2520767.64,25.21,15,2025-08-27
+2026_FORES_JALO_879280,NIT_54/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,2618728.42,26.19,18,2026-01-15
+2026_UIT_JALO_578063,NIT_29/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,283135.52,2.83,10,2025-08-30
+2026_MEDIC_JALO_454264,NIT_44/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,18217171.93,182.17,15,2026-02-06
+2026_MEDIC_JALO_370345,NIT_97/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,454180.46,4.54,13,2025-04-06
+2026_UIT_JALO_554949,NIT_58/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,728851.92,7.29,9,2026-02-27
+2026_FORES_JALO_527529,NIT_18/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,1869314.51,18.69,16,2026-01-06
+2026_DLB_JALO_135410,NIT_89/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,764023.79,7.64,14,2025-11-20
+2026_DLB_JALO_725101,NIT_57/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,11663745.85,116.64,21,2025-06-13
+2026_DLB_JALO_333644,NIT_73/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,524748.69,5.25,14,2025-05-06
+2026_FORES_JALO_923472,NIT_20/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,194139.3,1.94,10,2025-10-01
+2026_PWD_JALO_236332,NIT_80/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,13439620.24,134.4,15,2025-10-26
+2026_MEDIC_JALO_784885,NIT_31/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,379935.7,3.8,10,2026-03-17
+2026_UIT_JALO_353604,NIT_16/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,780234.82,7.8,10,2025-08-08
+2026_WRD_JALO_497499,NIT_12/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,4003117.86,40.03,10,2025-10-11
+2026_MEDIC_JALO_371151,NIT_39/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,694040.76,6.94,3,2026-03-02
+2026_PHED_JALO_299994,NIT_53/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,2691172.6,26.91,15,2025-06-11
+2026_MEDIC_JALO_420361,NIT_21/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,259232.13,2.59,14,2025-04-25
+2026_PWD_JALO_923624,NIT_58/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,17088505.19,170.89,23,2025-09-20
+2026_WRD_JALO_657536,NIT_71/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,15962238.84,159.62,23,2025-04-06
+2026_WRD_JALO_274817,NIT_56/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,2362737.04,23.63,12,2025-12-28
+2026_UIT_JALO_106775,NIT_51/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,348065.03,3.48,11,2025-06-07
+2026_WRD_JALO_449198,NIT_13/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,11819463.58,118.19,23,2025-12-28
+2026_FORES_JALO_568325,NIT_79/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,2538327.8,25.38,10,2025-07-27
+2026_FORES_JALO_718756,NIT_26/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,1682939.25,16.83,11,2025-12-03
+2026_PWD_JALO_197549,NIT_89/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,925071.07,9.25,15,2025-10-23
+2026_DLB_JALO_318992,NIT_85/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,15904464.75,159.04,22,2026-01-15
+2026_MEDIC_JALO_914466,NIT_71/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,1648048.37,16.48,17,2025-07-13
+2026_UIT_JALO_936324,NIT_99/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,211030.93,2.11,11,2026-01-16
+2026_WRD_JALO_935928,NIT_62/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,288944.92,2.89,14,2026-03-08
+2026_MEDIC_JALO_511358,NIT_49/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,9345755.41,93.46,17,2026-01-03
+2026_MEDIC_JALO_631164,NIT_10/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,526805.91,5.27,8,2026-03-26
+2026_PWD_JALO_287482,NIT_77/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,69279153.64,692.79,30,2025-06-15
+2026_FORES_JALO_266944,NIT_93/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,3870541.85,38.71,17,2025-10-02
+2026_WRD_JALO_484380,NIT_44/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,1300587.15,13.01,17,2026-02-12
+2026_PHED_JALO_790538,NIT_99/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,204520.63,2.05,11,2025-10-25
+2026_DLB_JALO_238001,NIT_69/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,405630.38,4.06,8,2025-09-30
+2026_PHED_JALO_525463,NIT_97/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,88374047.84,883.74,30,2025-07-27
+2026_UIT_JALO_856348,NIT_60/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,194321.73,1.94,12,2025-08-28
+2026_FORES_JALO_669222,NIT_34/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,1806236.96,18.06,15,2025-12-16
+2026_DLB_JALO_248644,NIT_40/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,701035.59,7.01,15,2026-02-24
+2026_PWD_JALO_546949,NIT_16/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,786496.77,7.86,12,2025-11-15
+2026_MEDIC_JALO_260986,NIT_39/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,257665.73,2.58,11,2026-03-06
+2026_MEDIC_JALO_458865,NIT_74/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,712955.85,7.13,14,2025-04-04
+2026_PWD_JALO_482711,NIT_15/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,92514320.89,925.14,37,2026-03-09
+2026_PHED_JALO_129054,NIT_89/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,253301.26,2.53,9,2025-04-24
+2026_PWD_JALO_989596,NIT_81/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,273789.93,2.74,12,2025-06-04
+2026_PHED_JALO_337863,NIT_29/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,925625.1,9.26,7,2025-08-16
+2026_MEDIC_JALO_778895,NIT_35/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,753160.68,7.53,15,2025-06-22
+2026_MEDIC_JALO_208150,NIT_53/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,578420.99,5.78,12,2025-09-13
+2026_UIT_JALO_230959,NIT_19/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,11125117.12,111.25,22,2025-05-13
+2026_WRD_JALO_730762,NIT_31/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,928876.44,9.29,14,2025-09-19
+2026_UIT_JALO_581810,NIT_48/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,706792.93,7.07,11,2025-07-03
+2026_WRD_JALO_688553,NIT_69/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,811380.68,8.11,9,2025-10-15
+2026_PHED_JALO_462625,NIT_86/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,28893115.15,288.93,31,2025-07-01
+2026_WRD_JALO_784861,NIT_83/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,911975.74,9.12,14,2025-11-17
+2026_PHED_JALO_896629,NIT_92/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,497394.61,4.97,14,2025-06-27
+2026_UIT_JALO_370409,NIT_48/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,1767260.06,17.67,15,2025-09-03
+2026_MEDIC_JALO_584903,NIT_76/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,2907777.62,29.08,16,2025-10-03
+2026_DLB_JALO_215676,NIT_53/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,873202.86,8.73,11,2025-07-24
+2026_MEDIC_JALO_809203,NIT_92/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,184408.48,1.84,7,2025-07-25
+2026_WRD_JALO_659877,NIT_92/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,1120360.59,11.2,14,2025-11-28
+2026_MEDIC_JALO_539103,NIT_16/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,651187.37,6.51,11,2025-04-05
+2026_MEDIC_JALO_169012,NIT_63/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,14846223.7,148.46,17,2025-08-26
+2026_PHED_JALO_525215,NIT_58/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,3654460.6,36.54,12,2025-06-04
+2026_WRD_JALO_374411,NIT_86/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,273031.78,2.73,13,2026-02-01
+2026_PHED_JALO_155628,NIT_86/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,758379.72,7.58,11,2026-02-17
+2026_PWD_JALO_205125,NIT_96/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,415670.2,4.16,8,2025-05-29
+2026_UIT_JALO_582465,NIT_33/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,4123470.98,41.23,11,2025-08-11
+2026_DLB_JALO_444204,NIT_63/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,607262.31,6.07,7,2026-02-19
+2026_PWD_JALO_647045,NIT_44/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,250698.98,2.51,10,2025-07-21
+2026_WRD_JALO_740490,NIT_77/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,4743946.52,47.44,14,2025-06-23
+2026_PHED_JALO_703149,NIT_78/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,84099774.53,841.0,35,2026-02-10
+2026_DLB_JALO_817636,NIT_63/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,879275.03,8.79,14,2025-05-13
+2026_WRD_JALO_361301,NIT_86/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,5474331.39,54.74,17,2025-09-02
+2026_DLB_JALO_863986,NIT_40/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,472147.23,4.72,4,2025-06-13
+2026_MEDIC_JALO_690104,NIT_12/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,609719.49,6.1,7,2025-11-08
+2026_WRD_JALO_983348,NIT_68/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,475263.39,4.75,11,2025-09-02
+2026_PHED_JALO_573547,NIT_74/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,541112.41,5.41,12,2025-09-10
+2026_WRD_JALO_790653,NIT_16/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,721518.87,7.22,10,2025-06-03
+2026_DLB_JALO_749323,NIT_73/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,628952.8,6.29,7,2025-11-08
+2026_DLB_JALO_481351,NIT_44/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,18256032.26,182.56,18,2026-03-17
+2026_MEDIC_JALO_519687,NIT_85/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,5465301.14,54.65,17,2026-03-19
+2026_WRD_JALO_282994,NIT_75/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,2808037.01,28.08,15,2025-11-20
+2026_PHED_JALO_360172,NIT_75/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,228886.4,2.29,7,2025-12-03
+2026_PHED_JALO_390701,NIT_53/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,348841.69,3.49,10,2025-04-26
+2026_PHED_JALO_341175,NIT_64/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,398180.93,3.98,9,2025-08-29
+2026_UIT_JALO_598758,NIT_42/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,1131145.5,11.31,15,2025-07-07
+2026_FORES_JALO_958712,NIT_68/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,7370498.94,73.7,20,2025-05-08
+2026_DLB_JALO_150539,NIT_26/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,348830.49,3.49,8,2025-04-15
+2026_DLB_JALO_843127,NIT_21/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,442510.01,4.43,15,2025-12-12
+2026_PWD_JALO_943025,NIT_85/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,914817.74,9.15,7,2025-08-18
+2026_PHED_JALO_259711,NIT_92/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,804255.73,8.04,12,2025-10-19
+2026_WRD_JALO_174665,NIT_20/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,624985.01,6.25,12,2025-05-15
+2026_PHED_JALO_436322,NIT_39/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,2965094.1,29.65,17,2025-12-21
+2026_PWD_JALO_714866,NIT_21/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,4216801.91,42.17,15,2025-04-11
+2026_WRD_JALO_850252,NIT_38/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,733380.79,7.33,11,2025-05-06
+2026_MEDIC_JALO_847582,NIT_70/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,238060.15,2.38,12,2025-10-01
+2026_DLB_JALO_227167,NIT_60/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,63792027.05,637.92,32,2025-08-21
+2026_DLB_JALO_357982,NIT_12/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,821916.44,8.22,13,2025-06-08
+2026_UIT_JALO_993464,NIT_19/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,687080.8,6.87,12,2025-11-08
+2026_PHED_JALO_431289,NIT_26/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,157406.51,1.57,14,2025-11-10
+2026_PWD_JALO_427848,NIT_15/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,381329.42,3.81,15,2026-03-04
+2026_DLB_JALO_625310,NIT_55/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,684115.7,6.84,14,2025-11-22
+2026_PWD_JALO_420939,NIT_34/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,14664572.94,146.65,23,2025-04-22
+2026_FORES_JALO_902644,NIT_85/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,180353.61,1.8,11,2025-10-31
+2026_FORES_JALO_200712,NIT_16/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,736143.64,7.36,14,2025-12-19
+2026_MEDIC_JALO_625165,NIT_81/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,1418112.0,14.18,10,2025-08-22
+2026_UIT_JALO_509719,NIT_94/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,241664.14,2.42,15,2025-12-24
+2026_PWD_JALO_527432,NIT_75/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,11729223.93,117.29,23,2026-03-17
+2026_WRD_JALO_540888,NIT_86/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,5831293.85,58.31,21,2025-09-19
+2026_DLB_JALO_895602,NIT_81/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,579042.26,5.79,14,2025-06-30
+2026_MEDIC_JALO_135939,NIT_11/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,2846877.78,28.47,17,2025-06-20
+2026_UIT_JALO_101863,NIT_91/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,936812.72,9.37,11,2025-11-16
+2026_PHED_JALO_762986,NIT_34/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,66352037.94,663.52,37,2025-12-21
+2026_PHED_JALO_862473,NIT_13/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,917541.86,9.18,13,2026-02-04
+2026_DLB_JALO_645709,NIT_86/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,78814840.83,788.15,34,2025-09-25
+2026_WRD_JALO_737077,NIT_80/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,1816573.31,18.17,11,2025-08-12
+2026_DLB_JALO_604161,NIT_43/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,601438.92,6.01,13,2025-12-26
+2026_MEDIC_JALO_858348,NIT_63/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,509552.3,5.1,15,2025-09-20
+2026_UIT_JALO_615294,NIT_22/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,29316107.15,293.16,35,2026-03-09
+2026_MEDIC_JALO_934252,NIT_56/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,16530169.91,165.3,16,2025-12-14
+2026_PWD_JALO_756216,NIT_93/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,501116.44,5.01,9,2025-04-09
+2026_FORES_JALO_133944,NIT_27/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,2360587.38,23.61,15,2025-11-06
+2026_WRD_JALO_895262,NIT_37/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,342181.14,3.42,14,2025-12-03
+2026_UIT_JALO_353707,NIT_12/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,691605.5,6.92,14,2026-03-19
+2026_MEDIC_JALO_604397,NIT_23/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,623522.14,6.24,13,2025-05-26
+2026_WRD_JALO_396926,NIT_80/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,534389.21,5.34,8,2025-06-13
+2026_WRD_JALO_797079,NIT_17/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,7111240.84,71.11,20,2025-09-12
+2026_PWD_JALO_790156,NIT_17/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,947430.12,9.47,7,2025-12-16
+2026_FORES_JALO_854892,NIT_14/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,14388150.14,143.88,18,2026-01-16
+2026_UIT_JALO_620067,NIT_61/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,654877.92,6.55,15,2025-12-01
+2026_PHED_JALO_424907,NIT_58/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,227917.38,2.28,10,2025-08-23
+2026_PHED_JALO_651710,NIT_38/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,767957.6,7.68,7,2026-01-23
+2026_PWD_JALO_405187,NIT_38/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,400297.08,4.0,10,2025-04-10
+2026_DLB_JALO_825239,NIT_45/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,235085.28,2.35,13,2025-09-08
+2026_WRD_JALO_533389,NIT_59/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,272083.14,2.72,10,2025-10-01
+2026_PWD_JALO_647219,NIT_87/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,4044177.2,40.44,15,2025-06-19
+2026_DLB_JALO_915780,NIT_51/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,655469.1,6.55,9,2025-06-05
+2026_PHED_JALO_139169,NIT_26/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,329563.8,3.3,7,2025-10-08
+2026_DLB_JALO_879677,NIT_69/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,511286.33,5.11,8,2025-07-04
+2026_WRD_JALO_182640,NIT_94/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,10291683.12,102.92,19,2025-05-23
+2026_MEDIC_JALO_992171,NIT_90/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,7490824.46,74.91,15,2025-09-20
+2026_PWD_JALO_532870,NIT_61/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,495085.16,4.95,8,2025-07-02
+2026_PHED_JALO_707245,NIT_26/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,540237.3,5.4,11,2025-12-05
+2026_FORES_JALO_744047,NIT_14/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,616962.57,6.17,10,2025-10-31
+2026_PWD_JALO_442239,NIT_27/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,67889898.77,678.9,34,2025-09-03
+2026_WRD_JALO_262836,NIT_11/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,265798.1,2.66,11,2026-03-22
+2026_MEDIC_JALO_256421,NIT_42/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,579352.89,5.79,10,2025-05-07
+2026_PHED_JALO_583906,NIT_40/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,519618.88,5.2,7,2025-07-25
+2026_PWD_JALO_978285,NIT_24/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,880719.84,8.81,9,2025-10-12
+2026_FORES_JALO_499138,NIT_90/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,619728.34,6.2,11,2025-06-02
+2026_MEDIC_JALO_899259,NIT_41/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,3560760.64,35.61,16,2025-05-14
+2026_PWD_JALO_376503,NIT_68/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,894543.5,8.95,15,2026-01-16
+2026_UIT_JALO_880515,NIT_25/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,4165572.27,41.66,12,2025-09-09
+2026_UIT_JALO_496744,NIT_94/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,691233.19,6.91,11,2025-12-05
+2026_DLB_JALO_687411,NIT_80/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,685264.55,6.85,8,2025-04-24
+2026_PHED_JALO_374552,NIT_20/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,9076470.93,90.76,16,2025-05-27
+2026_UIT_JALO_996422,NIT_81/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,656790.47,6.57,12,2025-05-14
+2026_FORES_JALO_838062,NIT_39/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,7360698.76,73.61,15,2025-09-06
+2026_WRD_JALO_572316,NIT_14/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,551862.44,5.52,11,2025-04-25
+2026_UIT_JALO_505161,NIT_68/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,230070.0,2.3,15,2025-11-21
+2026_MEDIC_JALO_323011,NIT_18/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,23156313.74,231.56,14,2025-10-17
+2026_WRD_JALO_429989,NIT_70/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,250114.62,2.5,14,2025-09-15
+2026_FORES_JALO_595343,NIT_86/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,8909346.18,89.09,7,2025-04-14
+2026_PHED_JALO_325228,NIT_67/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,362419.71,3.62,15,2025-11-17
+2026_PWD_JALO_733621,NIT_39/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,8607664.54,86.08,6,2025-10-19
+2026_FORES_JALO_744738,NIT_46/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,221169.26,2.21,13,2025-09-01
+2026_PWD_JALO_104516,NIT_59/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,163537.1,1.64,14,2025-09-27
+2026_PHED_JALO_168542,NIT_99/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,3472139.14,34.72,17,2025-10-21
+2026_PHED_JALO_191843,NIT_97/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,16743919.27,167.44,11,2026-02-03
+2026_DLB_JALO_775290,NIT_52/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,9275453.22,92.75,18,2025-10-20
+2026_PWD_JALO_507369,NIT_46/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,5494192.77,54.94,23,2025-10-22
+2026_DLB_JALO_728565,NIT_48/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,17300032.85,173.0,23,2026-01-28
+2026_WRD_JALO_633479,NIT_42/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,563411.59,5.63,10,2025-10-25
+2026_UIT_JALO_211698,NIT_13/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,940582.24,9.41,14,2025-11-26
+2026_PWD_JALO_890095,NIT_19/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,505612.63,5.06,10,2026-03-01
+2026_DLB_JALO_428412,NIT_83/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,875962.51,8.76,10,2025-04-19
+2026_DLB_JALO_653443,NIT_23/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,238518.46,2.39,14,2025-05-25
+2026_MEDIC_JALO_837656,NIT_64/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,815717.91,8.16,11,2026-02-10
+2026_PWD_JALO_278489,NIT_21/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,364439.62,3.64,12,2025-09-19
+2026_UIT_JALO_720671,NIT_64/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,2729020.91,27.29,13,2026-03-07
+2026_FORES_JALO_644192,NIT_48/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,680873.52,6.81,12,2025-10-09
+2026_PHED_JALO_339926,NIT_82/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,938510.72,9.39,7,2025-07-18
+2026_FORES_JALO_345511,NIT_56/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,345042.48,3.45,5,2025-09-07
+2026_MEDIC_JALO_828479,NIT_84/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,3238526.38,32.39,16,2025-09-26
+2026_PHED_JALO_854283,NIT_59/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,3741123.93,37.41,17,2026-02-26
+2026_UIT_JALO_578530,NIT_40/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,1439121.22,14.39,14,2025-11-05
+2026_FORES_JALO_262288,NIT_44/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,555253.42,5.55,9,2025-07-10
+2026_UIT_JALO_882498,NIT_81/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,808146.58,8.08,13,2025-09-16
+2026_FORES_JALO_355434,NIT_89/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,272747.07,2.73,13,2026-01-09
+2026_DLB_JALO_796025,NIT_21/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,358619.6,3.59,10,2025-08-19
+2026_MEDIC_JALO_310510,NIT_25/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,865636.99,8.66,13,2025-11-12
+2026_PWD_JALO_551329,NIT_10/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,442233.03,4.42,8,2025-12-01
+2026_UIT_JALO_340119,NIT_50/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,520006.03,5.2,8,2025-10-16
+2026_PHED_JALO_455468,NIT_13/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,59926946.08,599.27,33,2025-10-07
+2026_UIT_JALO_375747,NIT_60/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,50923706.02,509.24,37,2025-04-08
+2026_PWD_JALO_410347,NIT_94/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,931744.25,9.32,12,2025-12-05
+2026_PWD_JALO_988096,NIT_39/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,629439.82,6.29,9,2025-11-30
+2026_FORES_JALO_980728,NIT_22/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,729438.88,7.29,13,2026-01-24
+2026_PHED_JALO_479706,NIT_51/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,250914.55,2.51,7,2025-09-16
+2026_PWD_JALO_751310,NIT_32/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,59553584.14,595.54,4,2026-03-08
+2026_PWD_JALO_921844,NIT_24/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,683777.87,6.84,8,2025-09-15
+2026_DLB_JALO_177384,NIT_63/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,1314049.48,13.14,13,2026-01-13
+2026_WRD_JALO_926048,NIT_42/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,924354.29,9.24,15,2025-05-12
+2026_PHED_JALO_191981,NIT_39/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,21119524.9,211.2,32,2026-03-02
+2026_UIT_JALO_302603,NIT_77/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,832955.55,8.33,13,2026-01-19
+2026_MEDIC_JALO_153722,NIT_97/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,3624744.24,36.25,18,2025-10-25
+2026_DLB_JALO_234067,NIT_35/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,689083.03,6.89,7,2025-08-14
+2026_FORES_JALO_375145,NIT_77/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,1518258.5,15.18,17,2026-02-16
+2026_PHED_JALO_758641,NIT_62/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,834862.63,8.35,12,2025-11-01
+2026_PWD_JALO_735341,NIT_27/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,251156.16,2.51,15,2026-01-06
+2026_PHED_JALO_246495,NIT_12/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,10867117.67,108.67,21,2025-08-26
+2026_PWD_JALO_604042,NIT_59/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,6071200.94,60.71,18,2025-04-15
+2026_PHED_JALO_298792,NIT_62/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,8812818.47,88.13,9,2026-02-06
+2026_PHED_JALO_544135,NIT_74/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,1759778.17,17.6,11,2025-10-29
+2026_UIT_JALO_584904,NIT_65/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,8980027.72,89.8,16,2026-01-18
+2026_FORES_JALO_339196,NIT_94/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,293747.9,2.94,15,2025-06-16
+2026_FORES_JALO_944146,NIT_61/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,794034.61,7.94,9,2025-10-12
+2026_MEDIC_JALO_352077,NIT_69/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,616538.69,6.17,12,2025-06-24
+2026_PHED_JALO_428226,NIT_33/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,4451240.45,44.51,14,2025-08-11
+2026_WRD_JALO_817010,NIT_76/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,372736.89,3.73,13,2026-03-27
+2026_FORES_JALO_668463,NIT_65/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,555836.5,5.56,8,2025-05-09
+2026_WRD_JALO_921196,NIT_38/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,1877949.17,18.78,10,2026-02-04
+2026_FORES_JALO_644984,NIT_13/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,9622549.06,96.23,20,2025-09-10
+2026_FORES_JALO_464610,NIT_86/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,689851.4,6.9,7,2026-02-22
+2026_DLB_JALO_832535,NIT_31/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,773999.0,7.74,7,2025-06-27
+2026_WRD_JALO_705161,NIT_22/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,700476.35,7.0,11,2025-10-17
+2026_PHED_JALO_590693,NIT_31/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,242983.87,2.43,13,2025-10-20
+2026_FORES_JALO_123579,NIT_37/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,266603.36,2.67,11,2025-05-08
+2026_MEDIC_JALO_934985,NIT_10/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,1707034.11,17.07,17,2025-11-26
+2026_UIT_JALO_338423,NIT_68/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,4688142.52,46.88,13,2026-02-03
+2026_UIT_JALO_476441,NIT_72/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,4247680.96,42.48,15,2025-05-05
+2026_MEDIC_JALO_774757,NIT_28/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,353884.71,3.54,8,2025-05-08
+2026_PWD_JALO_602775,NIT_96/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,8188685.91,81.89,15,2025-07-21
+2026_FORES_JALO_653339,NIT_64/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,268734.12,2.69,14,2025-11-07
+2026_PWD_JALO_208433,NIT_30/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,441814.3,4.42,9,2025-07-15
+2026_PHED_JALO_132117,NIT_11/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,12693958.38,126.94,15,2025-12-17
+2026_FORES_JALO_253252,NIT_83/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,921205.87,9.21,15,2025-06-11
+2026_MEDIC_JALO_588990,NIT_38/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,919238.87,9.19,9,2025-05-27
+2026_PWD_JALO_594616,NIT_97/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,15082410.88,150.82,22,2025-07-27
+2026_FORES_JALO_547489,NIT_55/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,759997.36,7.6,12,2025-06-16
+2026_PHED_JALO_102799,NIT_70/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,1551503.71,15.52,17,2025-04-12
+2026_MEDIC_JALO_409253,NIT_27/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,585815.99,5.86,8,2025-11-10
+2026_FORES_JALO_851273,NIT_30/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,2887712.73,28.88,13,2026-02-17
+2026_DLB_JALO_442094,NIT_18/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,275608.13,2.76,12,2025-09-28
+2026_WRD_JALO_195813,NIT_97/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,717499.64,7.17,12,2025-05-12
+2026_PWD_JALO_638200,NIT_24/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,3369162.87,33.69,14,2025-06-05
+2026_PHED_JALO_550126,NIT_32/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,316392.99,3.16,10,2025-11-01
+2026_PWD_JALO_573743,NIT_27/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,253201.54,2.53,9,2026-03-01
+2026_MEDIC_JALO_342130,NIT_10/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,714311.53,7.14,11,2026-03-16
+2026_PHED_JALO_959071,NIT_91/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,369726.42,3.7,12,2025-07-14
+2026_MEDIC_JALO_220301,NIT_65/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,764016.05,7.64,15,2025-04-16
+2026_UIT_JALO_735588,NIT_24/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,846960.08,8.47,10,2025-06-03
+2026_DLB_JALO_981049,NIT_64/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,13648585.1,136.49,19,2025-04-05
+2026_PHED_JALO_316364,NIT_10/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,353391.32,3.53,11,2025-05-03
+2026_PWD_JALO_508456,NIT_22/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,498715.28,4.99,14,2025-04-03
+2026_PWD_JALO_819086,NIT_79/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,379915.44,3.8,12,2026-01-08
+2026_PWD_JALO_204702,NIT_52/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,733094.55,7.33,13,2025-09-01
+2026_PHED_JALO_708286,NIT_62/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,16655870.51,166.56,12,2025-08-30
+2026_PWD_JALO_224796,NIT_55/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,154856.95,1.55,13,2026-02-10
+2026_MEDIC_JALO_839329,NIT_63/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,30772833.47,307.73,35,2025-06-23
+2026_FORES_JALO_447515,NIT_57/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,277837.78,2.78,9,2025-06-08
+2026_FORES_JALO_931712,NIT_80/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,4557931.53,45.58,18,2025-07-08
+2026_DLB_JALO_779395,NIT_66/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,658768.82,6.59,11,2025-04-30
+2026_FORES_JALO_992163,NIT_49/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,12057827.24,120.58,18,2026-01-31
+2026_WRD_JALO_148992,NIT_23/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,1376023.57,13.76,12,2025-09-14
+2026_WRD_JALO_631148,NIT_97/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,498321.55,4.98,14,2026-03-27
+2026_MEDIC_JALO_678985,NIT_78/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,291734.63,2.92,8,2025-11-14
+2026_WRD_JALO_657343,NIT_85/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,164944.81,1.65,11,2025-10-01
+2026_UIT_JALO_659569,NIT_74/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,5296504.34,52.97,23,2025-11-08
+2026_PWD_JALO_938098,NIT_49/JAL/2025-26,Public Works Department (Jalore Circle),Jalore,Jodhpur Division,811453.84,8.11,10,2025-10-06
+2026_FORES_JALO_444432,NIT_98/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,764533.82,7.65,12,2026-01-31
+2026_PHED_JALO_147390,NIT_51/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,3811695.85,38.12,16,2025-11-13
+2026_WRD_JALO_566529,NIT_73/JAL/2025-26,Water Resources Department (Jalore Circle),Jalore,Jodhpur Division,629667.49,6.3,8,2025-05-25
+2026_FORES_JALO_297517,NIT_67/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,118954461.75,1189.54,34,2025-09-17
+2026_DLB_JALO_531674,NIT_28/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,2708069.69,27.08,11,2025-05-15
+2026_DLB_JALO_100589,NIT_80/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,3187451.58,31.87,15,2025-12-28
+2026_MEDIC_JALO_587330,NIT_14/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,16212291.61,162.12,8,2026-03-04
+2026_PHED_JALO_290352,NIT_24/JAL/2025-26,Public Health Engineering Department (Jalore Circle),Jalore,Jodhpur Division,771270.12,7.71,15,2026-01-30
+2026_UIT_JALO_494223,NIT_17/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,156209.92,1.56,11,2025-11-21
+2026_DLB_JALO_813827,NIT_19/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,253923.77,2.54,15,2026-01-26
+2026_MEDIC_JALO_856566,NIT_39/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,155625.97,1.56,14,2025-08-22
+2026_DLB_JALO_210968,NIT_24/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,3853879.05,38.54,17,2026-01-21
+2026_UIT_JALO_986718,NIT_86/JAL/2025-26,Municipal Council Jalore,Jalore,Jodhpur Division,6947712.34,69.48,8,2026-03-23
+2026_DLB_JALO_151001,NIT_38/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,318994.94,3.19,15,2025-12-22
+2026_FORES_JALO_469901,NIT_28/JAL/2025-26,Forest Department (Jalore Circle),Jalore,Jodhpur Division,560691.21,5.61,15,2026-02-09
+2026_MEDIC_JALO_515827,NIT_75/JAL/2025-26,Department of Medical Education (Jalore Circle),Jalore,Jodhpur Division,85544151.5,855.44,33,2026-01-20
+2026_DLB_JALO_515158,NIT_99/JAL/2025-26,Directorate of Local Bodies (Jalore Circle),Jalore,Jodhpur Division,344170.18,3.44,7,2026-02-25

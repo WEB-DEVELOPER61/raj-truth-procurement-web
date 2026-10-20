@@ -1,0 +1,430 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_WRD_RAJS_332475,NIT_86/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,436496.4,4.36,11,2026-03-14
+2026_MEDIC_RAJS_615898,NIT_46/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,1747049.1,17.47,14,2026-01-25
+2026_PWD_RAJS_718724,NIT_35/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,16221823.51,162.22,17,2025-10-27
+2026_PHED_RAJS_422010,NIT_42/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,2173170.46,21.73,14,2025-05-28
+2026_PWD_RAJS_988097,NIT_57/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,18948204.33,189.48,23,2026-02-07
+2026_DLB_RAJS_111406,NIT_18/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,626477.68,6.26,14,2025-06-26
+2026_MEDIC_RAJS_508391,NIT_73/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,403570.82,4.04,13,2026-01-01
+2026_PWD_RAJS_927884,NIT_72/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,7886169.23,78.86,22,2025-06-03
+2026_PWD_RAJS_586668,NIT_23/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,2767570.02,27.68,15,2025-09-13
+2026_UIT_RAJS_139295,NIT_32/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,2652758.78,26.53,12,2025-07-13
+2026_PWD_RAJS_374135,NIT_62/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,3603337.37,36.03,10,2025-06-17
+2026_PWD_RAJS_567657,NIT_60/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,436654.62,4.37,13,2025-10-20
+2026_UIT_RAJS_577254,NIT_54/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,567756.47,5.68,11,2025-07-26
+2026_UIT_RAJS_410668,NIT_98/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,2066286.08,20.66,17,2025-10-12
+2026_FORES_RAJS_276554,NIT_39/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,2537755.14,25.38,16,2025-10-26
+2026_FORES_RAJS_359818,NIT_67/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,589688.33,5.9,8,2025-07-03
+2026_PWD_RAJS_980163,NIT_43/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,18431004.54,184.31,21,2025-12-03
+2026_UIT_RAJS_856512,NIT_92/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,925653.67,9.26,11,2026-02-12
+2026_WRD_RAJS_945704,NIT_13/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,466710.41,4.67,9,2025-09-26
+2026_UIT_RAJS_189208,NIT_87/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,18141920.63,181.42,20,2025-11-06
+2026_WRD_RAJS_933892,NIT_32/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,3361462.79,33.61,18,2025-06-03
+2026_FORES_RAJS_298776,NIT_61/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,265020.79,2.65,7,2025-08-15
+2026_DLB_RAJS_604704,NIT_70/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,885424.71,8.85,10,2026-01-10
+2026_PHED_RAJS_711407,NIT_53/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,780111.76,7.8,14,2026-01-12
+2026_DLB_RAJS_793655,NIT_30/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,3582662.95,35.83,11,2025-08-14
+2026_PWD_RAJS_339612,NIT_50/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,744730.63,7.45,14,2025-12-25
+2026_UIT_RAJS_428622,NIT_20/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,9336818.96,93.37,3,2025-05-05
+2026_PWD_RAJS_902915,NIT_84/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,23416448.85,234.16,36,2026-01-04
+2026_WRD_RAJS_283398,NIT_96/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,8449863.76,84.5,19,2025-11-24
+2026_DLB_RAJS_227959,NIT_24/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,417386.46,4.17,11,2026-01-25
+2026_FORES_RAJS_897970,NIT_71/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,3930879.71,39.31,14,2025-04-05
+2026_PWD_RAJS_644593,NIT_24/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,209979.56,2.1,9,2025-05-17
+2026_PHED_RAJS_377372,NIT_12/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,683452.43,6.83,13,2025-12-03
+2026_MEDIC_RAJS_496548,NIT_99/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,780250.57,7.8,13,2025-10-13
+2026_WRD_RAJS_470506,NIT_35/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,344777.03,3.45,10,2025-07-14
+2026_PWD_RAJS_147924,NIT_66/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,16553577.17,165.54,15,2025-07-08
+2026_PWD_RAJS_141942,NIT_70/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,504854.5,5.05,12,2025-08-05
+2026_PHED_RAJS_705973,NIT_62/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,360997.92,3.61,11,2025-05-17
+2026_PHED_RAJS_604199,NIT_57/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,68505987.95,685.06,30,2025-06-29
+2026_DLB_RAJS_890205,NIT_27/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,195689.68,1.96,10,2025-09-17
+2026_PHED_RAJS_481990,NIT_19/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,1629307.69,16.29,18,2025-11-19
+2026_UIT_RAJS_475726,NIT_53/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,399768.07,4.0,14,2025-04-29
+2026_PWD_RAJS_400102,NIT_70/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,433037.18,4.33,7,2025-05-21
+2026_PHED_RAJS_925737,NIT_76/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,5466663.55,54.67,19,2025-05-22
+2026_PWD_RAJS_510923,NIT_35/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,581055.33,5.81,8,2025-04-05
+2026_MEDIC_RAJS_309768,NIT_16/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,1437439.15,14.37,12,2025-11-16
+2026_MEDIC_RAJS_122972,NIT_15/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,795235.3,7.95,7,2025-12-17
+2026_MEDIC_RAJS_527655,NIT_34/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,779082.94,7.79,11,2025-05-14
+2026_MEDIC_RAJS_503262,NIT_27/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,845167.01,8.45,8,2026-02-01
+2026_WRD_RAJS_375621,NIT_66/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,375264.4,3.75,12,2025-12-10
+2026_MEDIC_RAJS_274413,NIT_41/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,284408.65,2.84,15,2025-07-11
+2026_MEDIC_RAJS_438236,NIT_71/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,2607468.63,26.07,15,2025-07-10
+2026_MEDIC_RAJS_735514,NIT_39/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,301705.02,3.02,11,2025-05-28
+2026_MEDIC_RAJS_463697,NIT_20/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,522699.52,5.23,13,2025-07-30
+2026_PWD_RAJS_670322,NIT_93/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,615946.39,6.16,15,2025-10-12
+2026_MEDIC_RAJS_904674,NIT_81/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,14105077.54,141.05,21,2026-03-22
+2026_DLB_RAJS_835998,NIT_35/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,11619165.98,116.19,20,2025-10-14
+2026_MEDIC_RAJS_645929,NIT_14/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,3789925.76,37.9,16,2025-11-10
+2026_WRD_RAJS_249998,NIT_25/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,18134510.61,181.35,19,2025-12-26
+2026_DLB_RAJS_679327,NIT_58/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,749064.44,7.49,15,2025-04-13
+2026_PWD_RAJS_153929,NIT_52/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,892089.96,8.92,15,2025-08-24
+2026_UIT_RAJS_245459,NIT_94/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,3843441.11,38.43,14,2025-06-03
+2026_FORES_RAJS_105036,NIT_30/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,1599072.01,15.99,15,2025-12-30
+2026_PHED_RAJS_437722,NIT_84/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,820905.85,8.21,14,2026-01-09
+2026_MEDIC_RAJS_122484,NIT_99/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,576321.73,5.76,13,2025-06-28
+2026_FORES_RAJS_569300,NIT_41/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,115384947.05,1153.85,37,2025-10-20
+2026_UIT_RAJS_117019,NIT_65/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,14999602.91,150.0,20,2025-04-03
+2026_MEDIC_RAJS_184427,NIT_95/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,527104.1,5.27,9,2025-10-24
+2026_PWD_RAJS_198730,NIT_89/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,4621160.94,46.21,10,2026-02-06
+2026_UIT_RAJS_441743,NIT_65/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,712409.34,7.12,10,2025-07-02
+2026_PHED_RAJS_245214,NIT_34/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,494999.44,4.95,10,2025-10-22
+2026_FORES_RAJS_456630,NIT_97/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,354464.51,3.54,7,2025-05-12
+2026_UIT_RAJS_690136,NIT_71/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,321224.09,3.21,9,2025-04-12
+2026_UIT_RAJS_867673,NIT_28/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,847028.34,8.47,8,2025-10-19
+2026_PHED_RAJS_170510,NIT_72/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,9276049.38,92.76,18,2026-01-06
+2026_MEDIC_RAJS_234441,NIT_94/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,510178.37,5.1,11,2025-04-09
+2026_MEDIC_RAJS_846465,NIT_52/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,3071422.11,30.71,14,2025-11-10
+2026_MEDIC_RAJS_294185,NIT_41/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,775638.56,7.76,13,2025-06-11
+2026_WRD_RAJS_259642,NIT_84/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,731979.65,7.32,13,2025-10-10
+2026_UIT_RAJS_333794,NIT_85/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,5437056.37,54.37,21,2025-11-03
+2026_PHED_RAJS_321102,NIT_74/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,4525047.55,45.25,12,2025-06-15
+2026_MEDIC_RAJS_128318,NIT_11/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,39337655.72,393.38,36,2025-04-11
+2026_MEDIC_RAJS_944371,NIT_97/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,40353647.51,403.54,33,2026-03-20
+2026_UIT_RAJS_361003,NIT_59/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,240042.12,2.4,10,2025-07-13
+2026_MEDIC_RAJS_195352,NIT_80/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,622826.89,6.23,11,2026-03-08
+2026_FORES_RAJS_711431,NIT_66/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,10047590.11,100.48,8,2025-06-20
+2026_PHED_RAJS_910401,NIT_77/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,88440135.09,884.4,35,2025-04-11
+2026_UIT_RAJS_910728,NIT_58/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,2763786.99,27.64,12,2025-06-08
+2026_UIT_RAJS_815051,NIT_38/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,2739206.37,27.39,10,2026-01-22
+2026_PWD_RAJS_349789,NIT_23/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,1949332.17,19.49,14,2025-08-28
+2026_PHED_RAJS_732947,NIT_11/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,711998.43,7.12,10,2025-07-23
+2026_MEDIC_RAJS_451730,NIT_81/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,1891694.45,18.92,13,2026-03-21
+2026_PHED_RAJS_952690,NIT_95/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,11045588.88,110.46,12,2025-04-07
+2026_PWD_RAJS_282905,NIT_77/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,1314678.89,13.15,18,2026-02-08
+2026_PHED_RAJS_767360,NIT_59/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,389726.81,3.9,7,2025-08-05
+2026_UIT_RAJS_993115,NIT_96/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,191754.67,1.92,14,2026-01-20
+2026_MEDIC_RAJS_171254,NIT_93/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,851596.03,8.52,13,2026-01-12
+2026_FORES_RAJS_141368,NIT_58/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,652320.78,6.52,12,2025-10-20
+2026_PWD_RAJS_251765,NIT_24/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,14482698.03,144.83,17,2025-10-29
+2026_DLB_RAJS_288600,NIT_37/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,393013.02,3.93,13,2026-01-02
+2026_MEDIC_RAJS_851727,NIT_66/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,546923.07,5.47,12,2026-02-22
+2026_PHED_RAJS_674681,NIT_63/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,461578.6,4.62,14,2025-04-29
+2026_DLB_RAJS_318261,NIT_48/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,3475368.78,34.75,18,2025-04-09
+2026_FORES_RAJS_893872,NIT_75/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,640800.04,6.41,8,2025-10-21
+2026_MEDIC_RAJS_629619,NIT_27/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,857072.93,8.57,10,2025-12-12
+2026_MEDIC_RAJS_909915,NIT_85/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,744171.88,7.44,11,2025-06-08
+2026_FORES_RAJS_765827,NIT_13/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,413571.74,4.14,7,2025-11-20
+2026_PHED_RAJS_475838,NIT_31/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,466797.63,4.67,13,2025-09-28
+2026_PHED_RAJS_751462,NIT_96/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,712592.2,7.13,12,2025-08-03
+2026_FORES_RAJS_140204,NIT_34/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,60328617.18,603.29,3,2025-08-16
+2026_FORES_RAJS_555954,NIT_90/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,895414.63,8.95,12,2025-05-26
+2026_PWD_RAJS_124101,NIT_22/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,869077.69,8.69,12,2025-04-02
+2026_PWD_RAJS_754708,NIT_81/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,3847549.72,38.48,14,2025-11-01
+2026_PHED_RAJS_571524,NIT_23/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,484130.88,4.84,9,2025-04-05
+2026_WRD_RAJS_701467,NIT_41/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,4508699.24,45.09,15,2025-08-13
+2026_PWD_RAJS_487160,NIT_73/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,734923.92,7.35,14,2025-08-12
+2026_PHED_RAJS_364007,NIT_69/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,4773607.66,47.74,15,2026-01-02
+2026_MEDIC_RAJS_200578,NIT_89/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,4266233.05,42.66,17,2025-09-06
+2026_DLB_RAJS_441827,NIT_21/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,13125844.05,131.26,20,2025-10-11
+2026_PHED_RAJS_880204,NIT_24/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,779244.76,7.79,10,2025-07-04
+2026_FORES_RAJS_687830,NIT_94/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,593101.0,5.93,11,2026-03-10
+2026_MEDIC_RAJS_700124,NIT_71/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,596435.78,5.96,11,2025-05-24
+2026_FORES_RAJS_617832,NIT_26/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,11141583.42,111.42,17,2025-12-22
+2026_MEDIC_RAJS_244212,NIT_74/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,5343662.95,53.44,18,2025-05-20
+2026_WRD_RAJS_301937,NIT_94/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,847995.32,8.48,9,2025-09-26
+2026_PHED_RAJS_141573,NIT_11/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,672558.99,6.73,15,2026-02-14
+2026_PWD_RAJS_403963,NIT_30/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,686196.1,6.86,15,2025-04-24
+2026_MEDIC_RAJS_601568,NIT_79/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,288586.41,2.89,11,2025-10-11
+2026_DLB_RAJS_788784,NIT_10/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,619239.02,6.19,15,2025-09-16
+2026_FORES_RAJS_138775,NIT_65/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,206566.53,2.07,8,2026-02-28
+2026_PHED_RAJS_226994,NIT_68/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,4521754.02,45.22,18,2025-12-23
+2026_FORES_RAJS_852807,NIT_90/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,29552303.83,295.52,36,2026-02-08
+2026_MEDIC_RAJS_599589,NIT_44/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,95857904.28,958.58,33,2025-12-28
+2026_UIT_RAJS_401262,NIT_48/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,928219.84,9.28,8,2025-11-22
+2026_MEDIC_RAJS_865219,NIT_50/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,2182090.56,21.82,17,2025-05-05
+2026_FORES_RAJS_963279,NIT_20/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,11287044.69,112.87,12,2025-08-10
+2026_FORES_RAJS_835136,NIT_49/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,670063.26,6.7,10,2025-10-15
+2026_PWD_RAJS_370190,NIT_52/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,4255893.79,42.56,18,2025-07-21
+2026_PWD_RAJS_968645,NIT_39/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,270902.07,2.71,15,2025-05-27
+2026_FORES_RAJS_495301,NIT_70/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,796380.45,7.96,8,2025-10-02
+2026_DLB_RAJS_975684,NIT_23/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,158942.55,1.59,14,2025-06-05
+2026_DLB_RAJS_164910,NIT_69/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,901949.06,9.02,12,2025-05-07
+2026_DLB_RAJS_405261,NIT_17/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,3453004.77,34.53,10,2025-04-27
+2026_WRD_RAJS_677992,NIT_46/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,914974.49,9.15,9,2025-12-14
+2026_PHED_RAJS_605718,NIT_27/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,647650.31,6.48,15,2026-02-12
+2026_MEDIC_RAJS_179046,NIT_24/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,825733.8,8.26,13,2025-08-24
+2026_UIT_RAJS_726322,NIT_70/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,7439561.24,74.4,17,2025-09-09
+2026_UIT_RAJS_730254,NIT_51/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,546238.96,5.46,12,2026-02-13
+2026_PWD_RAJS_889795,NIT_38/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,1822943.9,18.23,13,2025-07-24
+2026_WRD_RAJS_484963,NIT_80/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,1751361.16,17.51,18,2025-12-29
+2026_PWD_RAJS_626507,NIT_72/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,239429.61,2.39,13,2025-11-11
+2026_UIT_RAJS_461260,NIT_65/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,599517.8,6.0,9,2026-02-04
+2026_FORES_RAJS_956675,NIT_33/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,2212292.91,22.12,16,2025-12-22
+2026_PWD_RAJS_595369,NIT_27/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,413825.51,4.14,14,2025-09-30
+2026_UIT_RAJS_763197,NIT_19/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,301801.63,3.02,11,2025-11-01
+2026_PHED_RAJS_543757,NIT_73/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,3507598.75,35.08,11,2025-07-21
+2026_FORES_RAJS_554931,NIT_11/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,496653.19,4.97,11,2025-08-15
+2026_DLB_RAJS_758053,NIT_33/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,780426.62,7.8,12,2025-09-13
+2026_FORES_RAJS_610028,NIT_59/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,629604.47,6.3,14,2025-09-08
+2026_PWD_RAJS_209771,NIT_89/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,378163.81,3.78,10,2026-03-12
+2026_PHED_RAJS_852430,NIT_38/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,2540557.27,25.41,13,2026-02-10
+2026_MEDIC_RAJS_956333,NIT_65/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,4789620.35,47.9,14,2025-08-18
+2026_DLB_RAJS_218792,NIT_56/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,4624601.6,46.25,17,2025-12-10
+2026_FORES_RAJS_967153,NIT_19/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,3207685.7,32.08,14,2025-09-16
+2026_MEDIC_RAJS_481502,NIT_99/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,643675.4,6.44,7,2026-02-09
+2026_UIT_RAJS_576390,NIT_68/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,804277.27,8.04,15,2025-08-23
+2026_PWD_RAJS_969691,NIT_28/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,885067.72,8.85,7,2025-09-14
+2026_UIT_RAJS_359002,NIT_56/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,258175.19,2.58,9,2025-06-09
+2026_DLB_RAJS_525399,NIT_85/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,90305694.25,903.06,35,2025-11-19
+2026_PHED_RAJS_224994,NIT_75/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,11144547.51,111.45,18,2025-06-06
+2026_FORES_RAJS_556665,NIT_21/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,811553.07,8.12,14,2025-08-10
+2026_MEDIC_RAJS_692332,NIT_38/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,661396.51,6.61,12,2026-02-24
+2026_PHED_RAJS_274176,NIT_67/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,717520.24,7.18,8,2025-12-21
+2026_UIT_RAJS_111298,NIT_55/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,401256.41,4.01,14,2025-04-27
+2026_PWD_RAJS_842012,NIT_63/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,891095.51,8.91,15,2025-12-27
+2026_DLB_RAJS_348068,NIT_10/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,650176.84,6.5,13,2026-03-01
+2026_PHED_RAJS_126106,NIT_54/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,15361721.24,153.62,21,2025-08-11
+2026_PWD_RAJS_909037,NIT_84/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,2746714.0,27.47,18,2025-06-22
+2026_DLB_RAJS_189297,NIT_94/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,277400.16,2.77,15,2025-06-30
+2026_UIT_RAJS_967871,NIT_62/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,345773.47,3.46,13,2026-01-05
+2026_DLB_RAJS_280789,NIT_57/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,914222.87,9.14,14,2025-12-09
+2026_UIT_RAJS_870224,NIT_42/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,12638077.29,126.38,16,2025-10-30
+2026_UIT_RAJS_632367,NIT_29/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,18055218.04,180.55,23,2025-05-17
+2026_PHED_RAJS_584133,NIT_72/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,8207389.65,82.07,19,2026-03-14
+2026_UIT_RAJS_947480,NIT_31/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,692231.38,6.92,11,2025-07-06
+2026_DLB_RAJS_671098,NIT_97/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,3144212.96,31.44,12,2025-11-23
+2026_WRD_RAJS_625468,NIT_20/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,368245.84,3.68,12,2025-04-30
+2026_FORES_RAJS_447628,NIT_79/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,1080175.91,10.8,15,2025-07-19
+2026_PWD_RAJS_548392,NIT_48/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,502956.99,5.03,11,2026-01-07
+2026_UIT_RAJS_682201,NIT_69/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,420703.08,4.21,7,2025-12-04
+2026_FORES_RAJS_762412,NIT_90/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,4570319.4,45.7,14,2025-09-24
+2026_DLB_RAJS_964480,NIT_79/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,559215.87,5.59,9,2025-06-10
+2026_UIT_RAJS_650121,NIT_18/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,659948.12,6.6,7,2026-01-06
+2026_PHED_RAJS_249973,NIT_79/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,245783.62,2.46,10,2025-07-13
+2026_WRD_RAJS_696308,NIT_99/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,533994.31,5.34,10,2025-07-18
+2026_DLB_RAJS_564212,NIT_79/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,335217.07,3.35,11,2025-09-22
+2026_WRD_RAJS_709387,NIT_14/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,688117.26,6.88,15,2025-05-19
+2026_PHED_RAJS_627940,NIT_96/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,792130.4,7.92,10,2026-03-20
+2026_FORES_RAJS_209682,NIT_22/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,639690.05,6.4,14,2025-10-21
+2026_FORES_RAJS_394799,NIT_67/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,52226135.89,522.26,33,2025-08-03
+2026_WRD_RAJS_496175,NIT_58/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,346982.01,3.47,9,2025-12-18
+2026_PHED_RAJS_289756,NIT_67/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,157047.25,1.57,14,2025-12-12
+2026_DLB_RAJS_609316,NIT_40/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,176541.59,1.77,9,2026-01-22
+2026_UIT_RAJS_630284,NIT_50/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,17728874.49,177.29,17,2025-07-18
+2026_DLB_RAJS_665353,NIT_21/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,3570503.58,35.71,14,2025-11-03
+2026_UIT_RAJS_342665,NIT_59/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,684024.67,6.84,7,2025-05-15
+2026_WRD_RAJS_953260,NIT_48/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,2458612.75,24.59,14,2026-01-26
+2026_UIT_RAJS_195376,NIT_32/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,3449488.66,34.49,16,2026-03-13
+2026_DLB_RAJS_298473,NIT_23/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,3538523.23,35.39,11,2026-02-22
+2026_FORES_RAJS_704946,NIT_42/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,4104663.23,41.05,16,2026-03-11
+2026_WRD_RAJS_812234,NIT_23/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,6829838.59,68.3,23,2025-04-29
+2026_UIT_RAJS_285672,NIT_10/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,7699707.67,77.0,17,2025-05-22
+2026_FORES_RAJS_836043,NIT_92/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,3097213.58,30.97,16,2025-05-06
+2026_PHED_RAJS_425557,NIT_88/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,273479.0,2.73,15,2025-08-31
+2026_FORES_RAJS_342650,NIT_51/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,3803712.68,38.04,13,2025-04-07
+2026_UIT_RAJS_750539,NIT_76/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,5944695.17,59.45,18,2025-12-23
+2026_PWD_RAJS_208428,NIT_63/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,708136.72,7.08,12,2025-11-01
+2026_PHED_RAJS_291195,NIT_97/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,45809757.15,458.1,35,2025-07-25
+2026_DLB_RAJS_100795,NIT_61/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,411760.64,4.12,12,2025-08-12
+2026_FORES_RAJS_108736,NIT_86/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,566468.68,5.66,9,2025-05-20
+2026_DLB_RAJS_837428,NIT_70/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,7710475.8,77.1,17,2026-01-22
+2026_PHED_RAJS_337854,NIT_96/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,376525.56,3.77,14,2025-05-25
+2026_MEDIC_RAJS_415460,NIT_44/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,483536.06,4.84,10,2025-06-11
+2026_DLB_RAJS_412088,NIT_41/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,170266.75,1.7,13,2025-11-15
+2026_UIT_RAJS_785519,NIT_42/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,654420.02,6.54,8,2026-02-19
+2026_MEDIC_RAJS_854830,NIT_48/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,521372.2,5.21,13,2025-10-15
+2026_MEDIC_RAJS_727294,NIT_56/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,302852.25,3.03,7,2025-11-14
+2026_PWD_RAJS_252839,NIT_45/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,872149.9,8.72,7,2026-01-07
+2026_WRD_RAJS_803707,NIT_70/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,58878855.02,588.79,35,2025-10-13
+2026_PHED_RAJS_293380,NIT_97/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,50486304.32,504.86,33,2026-02-21
+2026_UIT_RAJS_640787,NIT_77/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,809393.8,8.09,11,2026-02-18
+2026_UIT_RAJS_350894,NIT_68/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,1437177.68,14.37,15,2026-02-24
+2026_MEDIC_RAJS_296160,NIT_58/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,197976.26,1.98,7,2025-04-14
+2026_FORES_RAJS_576937,NIT_50/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,193986.02,1.94,14,2025-09-20
+2026_UIT_RAJS_251954,NIT_30/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,800507.76,8.01,7,2025-10-29
+2026_DLB_RAJS_617812,NIT_66/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,102936883.63,1029.37,33,2025-04-06
+2026_FORES_RAJS_756752,NIT_18/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,60483401.22,604.83,36,2025-12-14
+2026_WRD_RAJS_231495,NIT_64/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,853472.93,8.53,10,2025-11-10
+2026_PWD_RAJS_673692,NIT_85/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,225727.33,2.26,12,2026-01-31
+2026_UIT_RAJS_857641,NIT_65/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,441061.96,4.41,9,2026-01-07
+2026_DLB_RAJS_968454,NIT_80/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,239921.04,2.4,11,2026-03-12
+2026_PWD_RAJS_858931,NIT_48/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,4257586.22,42.58,13,2025-12-17
+2026_PWD_RAJS_265477,NIT_60/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,800797.26,8.01,11,2025-10-26
+2026_PWD_RAJS_684248,NIT_64/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,2783391.09,27.83,16,2025-08-21
+2026_PWD_RAJS_644177,NIT_25/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,360223.82,3.6,11,2026-03-05
+2026_FORES_RAJS_704024,NIT_84/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,6401260.69,64.01,21,2025-07-12
+2026_UIT_RAJS_252197,NIT_28/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,2995110.79,29.95,12,2026-02-05
+2026_DLB_RAJS_730124,NIT_75/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,153647.2,1.54,8,2025-07-18
+2026_UIT_RAJS_411772,NIT_72/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,1615796.06,16.16,16,2025-12-07
+2026_PHED_RAJS_664367,NIT_64/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,10545114.51,105.45,20,2025-07-17
+2026_DLB_RAJS_956627,NIT_59/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,942288.35,9.42,10,2026-02-14
+2026_UIT_RAJS_856460,NIT_32/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,534777.94,5.35,8,2025-08-31
+2026_PHED_RAJS_670966,NIT_40/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,13714199.81,137.14,15,2025-09-23
+2026_PHED_RAJS_114582,NIT_80/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,889326.3,8.89,13,2025-04-19
+2026_PWD_RAJS_407244,NIT_64/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,936353.28,9.36,8,2025-09-27
+2026_PWD_RAJS_186895,NIT_91/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,581880.99,5.82,15,2025-07-04
+2026_DLB_RAJS_154989,NIT_40/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,7396852.5,73.97,23,2026-02-08
+2026_PWD_RAJS_348162,NIT_58/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,1196227.14,11.96,17,2025-08-16
+2026_WRD_RAJS_487100,NIT_67/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,14099087.16,140.99,18,2026-01-17
+2026_UIT_RAJS_418046,NIT_12/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,578901.54,5.79,9,2025-12-11
+2026_WRD_RAJS_631550,NIT_45/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,717109.71,7.17,14,2025-11-12
+2026_WRD_RAJS_721656,NIT_48/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,4439050.49,44.39,12,2025-06-27
+2026_DLB_RAJS_802797,NIT_16/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,1361587.11,13.62,14,2026-03-01
+2026_DLB_RAJS_585817,NIT_55/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,639814.25,6.4,13,2025-07-15
+2026_PHED_RAJS_597578,NIT_25/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,932621.41,9.33,8,2026-02-02
+2026_PHED_RAJS_434674,NIT_25/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,843820.13,8.44,15,2025-11-20
+2026_PWD_RAJS_536533,NIT_50/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,1248237.98,12.48,11,2025-11-26
+2026_PWD_RAJS_313746,NIT_97/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,18955750.46,189.56,17,2025-08-26
+2026_PHED_RAJS_677828,NIT_23/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,2655040.96,26.55,15,2025-08-02
+2026_UIT_RAJS_835828,NIT_79/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,46630887.23,466.31,37,2025-06-08
+2026_WRD_RAJS_385359,NIT_91/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,842635.61,8.43,10,2026-02-12
+2026_UIT_RAJS_758396,NIT_80/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,11378273.76,113.78,17,2026-03-05
+2026_PWD_RAJS_194180,NIT_46/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,17463473.02,174.63,17,2025-07-11
+2026_DLB_RAJS_740011,NIT_33/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,443733.71,4.44,13,2025-12-30
+2026_DLB_RAJS_799141,NIT_51/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,21823914.47,218.24,31,2025-10-23
+2026_WRD_RAJS_453107,NIT_77/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,897761.39,8.98,8,2025-05-12
+2026_WRD_RAJS_130536,NIT_40/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,9670759.99,96.71,23,2026-03-13
+2026_PWD_RAJS_806484,NIT_97/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,14495314.5,144.95,9,2026-03-02
+2026_PWD_RAJS_472764,NIT_64/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,4232915.18,42.33,17,2025-12-02
+2026_FORES_RAJS_936027,NIT_33/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,3448284.56,34.48,16,2025-04-10
+2026_PWD_RAJS_663671,NIT_44/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,736715.83,7.37,15,2025-04-18
+2026_PWD_RAJS_868939,NIT_64/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,930892.11,9.31,10,2025-12-09
+2026_MEDIC_RAJS_244640,NIT_41/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,487513.78,4.88,8,2025-04-07
+2026_MEDIC_RAJS_812275,NIT_89/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,3770097.59,37.7,18,2025-11-18
+2026_PHED_RAJS_968727,NIT_18/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,3211739.49,32.12,13,2026-03-09
+2026_PWD_RAJS_821548,NIT_94/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,15684870.97,156.85,16,2025-11-01
+2026_MEDIC_RAJS_144028,NIT_13/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,365841.35,3.66,8,2025-09-15
+2026_PHED_RAJS_446514,NIT_70/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,17477228.4,174.77,12,2025-07-16
+2026_WRD_RAJS_633303,NIT_67/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,17294137.32,172.94,17,2025-04-06
+2026_PWD_RAJS_792347,NIT_54/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,4569644.66,45.7,15,2025-04-08
+2026_FORES_RAJS_213879,NIT_79/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,510889.4,5.11,7,2025-04-30
+2026_FORES_RAJS_440615,NIT_33/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,621523.16,6.22,9,2025-07-25
+2026_PHED_RAJS_472538,NIT_54/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,681081.74,6.81,10,2026-02-25
+2026_PHED_RAJS_370198,NIT_87/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,1691706.32,16.92,12,2026-02-25
+2026_UIT_RAJS_187833,NIT_32/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,3589264.47,35.89,10,2025-06-12
+2026_WRD_RAJS_640390,NIT_94/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,83985987.27,839.86,33,2025-10-22
+2026_FORES_RAJS_176549,NIT_40/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,258065.74,2.58,13,2026-01-22
+2026_PWD_RAJS_367658,NIT_93/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,688989.02,6.89,11,2025-08-31
+2026_DLB_RAJS_786258,NIT_39/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,1094839.26,10.95,18,2025-05-23
+2026_PWD_RAJS_979422,NIT_13/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,16788285.0,167.88,23,2025-04-07
+2026_UIT_RAJS_863468,NIT_81/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,11934663.74,119.35,19,2025-09-21
+2026_PHED_RAJS_307684,NIT_47/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,14003490.7,140.03,22,2025-12-19
+2026_WRD_RAJS_329747,NIT_68/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,181515.59,1.82,8,2025-12-16
+2026_UIT_RAJS_816587,NIT_15/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,1797021.4,17.97,16,2025-05-13
+2026_PHED_RAJS_510722,NIT_37/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,11835115.68,118.35,15,2025-09-08
+2026_PWD_RAJS_331412,NIT_41/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,915725.05,9.16,8,2025-05-28
+2026_DLB_RAJS_347791,NIT_94/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,767781.5,7.68,11,2025-09-29
+2026_FORES_RAJS_572902,NIT_90/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,913997.93,9.14,9,2025-09-27
+2026_UIT_RAJS_352842,NIT_11/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,346010.62,3.46,9,2025-11-08
+2026_UIT_RAJS_103907,NIT_31/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,2701841.16,27.02,12,2025-10-23
+2026_MEDIC_RAJS_738440,NIT_26/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,904405.25,9.04,15,2025-11-24
+2026_PWD_RAJS_236373,NIT_33/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,633402.07,6.33,7,2026-01-26
+2026_FORES_RAJS_612994,NIT_52/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,215038.71,2.15,7,2025-07-05
+2026_MEDIC_RAJS_348595,NIT_87/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,3413937.14,34.14,10,2026-01-20
+2026_UIT_RAJS_928933,NIT_83/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,480289.81,4.8,15,2026-01-16
+2026_WRD_RAJS_762319,NIT_58/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,2079850.86,20.8,18,2026-03-04
+2026_PWD_RAJS_895488,NIT_66/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,201242.81,2.01,7,2025-07-23
+2026_PHED_RAJS_722015,NIT_28/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,777780.73,7.78,9,2025-06-25
+2026_PWD_RAJS_322317,NIT_79/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,383915.66,3.84,9,2025-05-18
+2026_UIT_RAJS_354668,NIT_39/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,762144.93,7.62,7,2025-08-27
+2026_FORES_RAJS_273669,NIT_89/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,414678.97,4.15,5,2025-06-06
+2026_MEDIC_RAJS_308412,NIT_97/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,151395.67,1.51,15,2025-12-08
+2026_FORES_RAJS_291488,NIT_13/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,7543188.67,75.43,15,2025-04-11
+2026_UIT_RAJS_828678,NIT_32/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,2270942.73,22.71,13,2025-05-13
+2026_MEDIC_RAJS_553291,NIT_10/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,498119.32,4.98,8,2025-08-15
+2026_PHED_RAJS_652378,NIT_71/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,375193.53,3.75,10,2025-04-04
+2026_WRD_RAJS_339046,NIT_55/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,81969815.05,819.7,33,2025-04-08
+2026_PWD_RAJS_871455,NIT_85/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,4756176.17,47.56,13,2026-02-19
+2026_PHED_RAJS_441108,NIT_27/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,516320.33,5.16,14,2025-10-15
+2026_DLB_RAJS_907837,NIT_43/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,3110030.28,31.1,11,2025-08-19
+2026_PHED_RAJS_108239,NIT_39/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,4695176.72,46.95,16,2026-02-10
+2026_WRD_RAJS_165657,NIT_49/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,1980796.99,19.81,10,2025-05-23
+2026_PHED_RAJS_717929,NIT_77/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,598735.49,5.99,11,2025-06-22
+2026_MEDIC_RAJS_485807,NIT_40/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,718255.96,7.18,14,2025-05-23
+2026_MEDIC_RAJS_714653,NIT_42/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,860157.51,8.6,15,2025-08-23
+2026_PWD_RAJS_930571,NIT_78/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,14832052.83,148.32,23,2025-10-05
+2026_DLB_RAJS_805817,NIT_38/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,2931432.66,29.31,18,2025-09-19
+2026_PHED_RAJS_172365,NIT_29/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,757495.28,7.57,11,2026-02-23
+2026_PWD_RAJS_523761,NIT_44/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,18079823.78,180.8,16,2025-10-06
+2026_WRD_RAJS_694992,NIT_61/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,8811129.97,88.11,18,2025-06-09
+2026_PWD_RAJS_642873,NIT_69/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,22477454.51,224.77,38,2026-01-07
+2026_MEDIC_RAJS_641867,NIT_45/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,7472293.47,74.72,19,2025-04-05
+2026_PHED_RAJS_869374,NIT_18/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,61770634.24,617.71,36,2026-01-08
+2026_PWD_RAJS_338545,NIT_53/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,652260.54,6.52,13,2025-06-14
+2026_PHED_RAJS_383454,NIT_97/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,9162609.32,91.63,20,2025-10-04
+2026_DLB_RAJS_227557,NIT_56/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,14384060.86,143.84,18,2025-09-21
+2026_FORES_RAJS_461038,NIT_20/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,930738.24,9.31,11,2026-03-19
+2026_MEDIC_RAJS_410942,NIT_68/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,892530.12,8.93,14,2025-04-22
+2026_WRD_RAJS_707194,NIT_86/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,47276065.56,472.76,31,2025-11-17
+2026_PHED_RAJS_430676,NIT_38/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,471158.03,4.71,15,2025-08-25
+2026_WRD_RAJS_622661,NIT_97/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,5237332.24,52.37,15,2026-02-06
+2026_FORES_RAJS_166510,NIT_97/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,275502.4,2.76,15,2025-11-20
+2026_FORES_RAJS_157257,NIT_12/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,730615.38,7.31,8,2025-05-26
+2026_PWD_RAJS_549786,NIT_47/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,556940.29,5.57,9,2025-07-09
+2026_PHED_RAJS_474210,NIT_96/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,753345.99,7.53,15,2025-04-09
+2026_PWD_RAJS_911095,NIT_79/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,3058158.35,30.58,11,2025-08-24
+2026_MEDIC_RAJS_415338,NIT_79/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,3433886.2,34.34,15,2025-08-13
+2026_PWD_RAJS_833624,NIT_18/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,294233.87,2.94,9,2025-06-13
+2026_MEDIC_RAJS_531143,NIT_17/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,489594.79,4.9,10,2026-01-10
+2026_PHED_RAJS_922243,NIT_25/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,529201.85,5.29,12,2025-06-13
+2026_FORES_RAJS_181212,NIT_81/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,479482.32,4.79,9,2025-07-18
+2026_UIT_RAJS_791689,NIT_84/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,2574624.92,25.75,17,2025-10-28
+2026_FORES_RAJS_488878,NIT_84/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,382578.37,3.83,13,2025-07-24
+2026_DLB_RAJS_684079,NIT_70/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,808964.74,8.09,12,2025-09-19
+2026_MEDIC_RAJS_858938,NIT_66/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,890602.37,8.91,8,2025-12-24
+2026_MEDIC_RAJS_604826,NIT_98/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,254750.32,2.55,8,2025-12-28
+2026_FORES_RAJS_565201,NIT_12/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,892368.43,8.92,14,2026-02-17
+2026_MEDIC_RAJS_979241,NIT_68/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,359372.48,3.59,13,2025-11-13
+2026_FORES_RAJS_321982,NIT_31/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,16713172.81,167.13,21,2025-05-04
+2026_WRD_RAJS_789463,NIT_88/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,8266318.18,82.66,21,2025-06-08
+2026_PWD_RAJS_832871,NIT_90/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,16582909.67,165.83,15,2025-12-03
+2026_WRD_RAJS_759726,NIT_85/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,940342.21,9.4,13,2025-07-02
+2026_FORES_RAJS_985449,NIT_45/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,221281.07,2.21,9,2025-08-22
+2026_WRD_RAJS_729077,NIT_23/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,730420.95,7.3,8,2025-08-25
+2026_FORES_RAJS_816316,NIT_20/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,2060905.89,20.61,15,2025-12-23
+2026_PHED_RAJS_459299,NIT_42/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,115797181.02,1157.97,31,2025-08-07
+2026_PHED_RAJS_420808,NIT_37/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,583495.82,5.83,7,2025-04-29
+2026_MEDIC_RAJS_862225,NIT_58/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,907546.92,9.08,9,2025-04-19
+2026_WRD_RAJS_172554,NIT_17/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,1774813.1,17.75,11,2025-10-02
+2026_MEDIC_RAJS_418132,NIT_89/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,15977783.16,159.78,23,2025-07-06
+2026_WRD_RAJS_708027,NIT_46/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,7302262.99,73.02,17,2025-11-13
+2026_PWD_RAJS_539676,NIT_11/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,2722782.02,27.23,11,2025-08-19
+2026_MEDIC_RAJS_972714,NIT_71/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,60212306.2,602.12,31,2025-12-09
+2026_UIT_RAJS_774344,NIT_15/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,337644.21,3.38,11,2025-06-28
+2026_PHED_RAJS_337705,NIT_46/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,6159505.71,61.6,17,2026-03-20
+2026_FORES_RAJS_183649,NIT_96/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,31418993.65,314.19,14,2025-06-23
+2026_WRD_RAJS_429489,NIT_89/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,10629305.86,106.29,22,2025-06-01
+2026_DLB_RAJS_278278,NIT_14/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,600424.88,6.0,7,2025-06-20
+2026_DLB_RAJS_912828,NIT_14/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,664400.03,6.64,10,2025-05-17
+2026_WRD_RAJS_278308,NIT_24/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,224010.9,2.24,14,2025-06-02
+2026_DLB_RAJS_648332,NIT_63/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,726893.62,7.27,13,2026-03-22
+2026_UIT_RAJS_194870,NIT_57/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,10824269.29,108.24,21,2025-08-18
+2026_FORES_RAJS_504614,NIT_91/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,681570.35,6.82,11,2025-09-13
+2026_DLB_RAJS_702791,NIT_59/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,154209.95,1.54,9,2025-12-22
+2026_WRD_RAJS_338853,NIT_59/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,4777953.1,47.78,17,2025-09-06
+2026_MEDIC_RAJS_278491,NIT_81/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,653458.4,6.53,14,2025-05-10
+2026_UIT_RAJS_902056,NIT_19/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,802258.01,8.02,13,2025-07-29
+2026_WRD_RAJS_907684,NIT_46/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,302894.87,3.03,10,2025-05-31
+2026_PWD_RAJS_828516,NIT_28/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,3625481.09,36.25,10,2025-11-10
+2026_FORES_RAJS_928780,NIT_46/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,406017.7,4.06,15,2025-07-14
+2026_UIT_RAJS_698915,NIT_93/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,13021329.16,130.21,12,2025-11-29
+2026_MEDIC_RAJS_848220,NIT_21/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,164483.29,1.64,10,2025-07-25
+2026_UIT_RAJS_597736,NIT_85/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,13608394.03,136.08,20,2025-04-01
+2026_PHED_RAJS_746016,NIT_69/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,469002.15,4.69,13,2025-08-10
+2026_WRD_RAJS_988073,NIT_10/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,628015.85,6.28,12,2025-12-03
+2026_DLB_RAJS_546355,NIT_93/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,219434.81,2.19,13,2026-01-25
+2026_FORES_RAJS_260967,NIT_60/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,167735.12,1.68,9,2026-01-11
+2026_DLB_RAJS_325319,NIT_54/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,940999.97,9.41,15,2025-12-14
+2026_UIT_RAJS_793148,NIT_53/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,235499.74,2.35,11,2025-08-27
+2026_PWD_RAJS_355330,NIT_77/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,894491.53,8.94,12,2026-01-02
+2026_FORES_RAJS_289785,NIT_41/RAJ/2025-26,Forest Department (Rajsamand Circle),Rajsamand,Udaipur Division,3959162.7,39.59,12,2025-10-18
+2026_PHED_RAJS_582157,NIT_36/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,346260.63,3.46,13,2025-05-22
+2026_DLB_RAJS_602026,NIT_89/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,630506.09,6.31,11,2025-07-16
+2026_MEDIC_RAJS_827287,NIT_21/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,4475176.22,44.75,7,2025-05-26
+2026_PWD_RAJS_430404,NIT_86/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,83599268.39,835.99,37,2025-10-24
+2026_PWD_RAJS_367635,NIT_10/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,686912.62,6.87,15,2025-11-26
+2026_PWD_RAJS_792114,NIT_65/RAJ/2025-26,Public Works Department (Rajsamand Circle),Rajsamand,Udaipur Division,626908.09,6.27,10,2025-07-25
+2026_MEDIC_RAJS_253340,NIT_23/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,26631701.41,266.32,31,2025-05-30
+2026_WRD_RAJS_732210,NIT_77/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,631375.02,6.31,13,2026-01-10
+2026_WRD_RAJS_123803,NIT_83/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,116879900.38,1168.8,34,2025-11-23
+2026_MEDIC_RAJS_302300,NIT_88/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,566728.6,5.67,13,2025-08-10
+2026_DLB_RAJS_731214,NIT_11/RAJ/2025-26,Directorate of Local Bodies (Rajsamand Circle),Rajsamand,Udaipur Division,13877545.25,138.78,21,2025-04-19
+2026_PHED_RAJS_345332,NIT_76/RAJ/2025-26,Public Health Engineering Department (Rajsamand Circle),Rajsamand,Udaipur Division,731510.77,7.32,9,2026-03-16
+2026_UIT_RAJS_319731,NIT_80/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,13906730.52,139.07,18,2025-11-21
+2026_WRD_RAJS_441688,NIT_96/RAJ/2025-26,Water Resources Department (Rajsamand Circle),Rajsamand,Udaipur Division,547442.04,5.47,7,2025-09-18
+2026_MEDIC_RAJS_238473,NIT_91/RAJ/2025-26,Department of Medical Education (Rajsamand Circle),Rajsamand,Udaipur Division,2238674.68,22.39,18,2026-02-17
+2026_UIT_RAJS_661276,NIT_66/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,271309.22,2.71,13,2025-10-02
+2026_UIT_RAJS_908125,NIT_66/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,547040.87,5.47,14,2026-01-05
+2026_UIT_RAJS_628904,NIT_70/RAJ/2025-26,Municipal Council Rajsamand,Rajsamand,Udaipur Division,1510595.78,15.11,18,2026-02-15

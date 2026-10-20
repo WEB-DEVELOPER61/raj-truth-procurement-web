@@ -1,0 +1,467 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_WRD_KOTP_331222,NIT_91/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,373840.18,3.74,14,2025-11-12
+2026_DLB_KOTP_727924,NIT_46/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,462590.37,4.63,14,2025-06-11
+2026_FORES_KOTP_522806,NIT_62/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,687114.74,6.87,12,2025-04-10
+2026_MEDIC_KOTP_937463,NIT_21/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,746690.42,7.47,14,2025-10-14
+2026_PWD_KOTP_268791,NIT_82/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,709424.26,7.09,11,2025-04-12
+2026_DLB_KOTP_649434,NIT_96/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,576828.82,5.77,10,2025-07-11
+2026_PHED_KOTP_575913,NIT_39/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,221349.48,2.21,12,2025-10-01
+2026_FORES_KOTP_279567,NIT_35/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2342779.2,23.43,11,2025-11-26
+2026_MEDIC_KOTP_182995,NIT_69/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,158513.11,1.59,9,2026-03-14
+2026_PWD_KOTP_182412,NIT_87/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,280706.25,2.81,10,2025-11-03
+2026_PHED_KOTP_965250,NIT_75/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,117974877.03,1179.75,38,2026-01-19
+2026_WRD_KOTP_494244,NIT_25/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,302309.76,3.02,15,2025-08-30
+2026_WRD_KOTP_377451,NIT_85/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1234440.78,12.34,15,2025-04-25
+2026_PHED_KOTP_514804,NIT_47/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,558214.9,5.58,8,2025-11-07
+2026_WRD_KOTP_398593,NIT_16/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1936903.16,19.37,14,2025-05-23
+2026_DLB_KOTP_593248,NIT_78/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1456059.82,14.56,17,2025-12-12
+2026_FORES_KOTP_638329,NIT_31/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,882136.42,8.82,9,2026-02-22
+2026_PWD_KOTP_615454,NIT_85/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,74088155.63,740.88,34,2025-12-22
+2026_DLB_KOTP_279956,NIT_83/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,586900.06,5.87,14,2026-03-18
+2026_MEDIC_KOTP_559203,NIT_39/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,756302.76,7.56,10,2026-01-02
+2026_PHED_KOTP_220570,NIT_75/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1714562.28,17.15,15,2025-10-27
+2026_PWD_KOTP_454912,NIT_39/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,13099470.02,130.99,22,2026-03-26
+2026_MEDIC_KOTP_671052,NIT_91/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,492951.36,4.93,8,2025-11-19
+2026_DLB_KOTP_834120,NIT_17/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,472127.47,4.72,10,2025-10-25
+2026_MEDIC_KOTP_917769,NIT_28/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,838080.85,8.38,7,2025-10-10
+2026_MEDIC_KOTP_250606,NIT_20/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,677128.43,6.77,10,2026-02-17
+2026_WRD_KOTP_443818,NIT_96/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1647064.31,16.47,15,2025-04-08
+2026_UIT_KOTP_451326,NIT_79/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,941098.7,9.41,11,2025-10-25
+2026_MEDIC_KOTP_257643,NIT_19/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,568269.97,5.68,9,2025-05-08
+2026_MEDIC_KOTP_245483,NIT_51/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,604293.63,6.04,7,2026-01-11
+2026_MEDIC_KOTP_660211,NIT_97/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,364813.98,3.65,15,2025-08-26
+2026_UIT_KOTP_673283,NIT_12/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,912469.53,9.12,7,2025-09-17
+2026_UIT_KOTP_135558,NIT_87/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,3644224.76,36.44,18,2025-11-08
+2026_FORES_KOTP_727282,NIT_98/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,45826358.98,458.26,34,2026-02-05
+2026_WRD_KOTP_987237,NIT_88/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,12268437.76,122.68,19,2025-09-25
+2026_DLB_KOTP_756477,NIT_79/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,556027.92,5.56,7,2026-03-22
+2026_FORES_KOTP_562847,NIT_21/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,10125742.6,101.26,21,2025-11-16
+2026_DLB_KOTP_600801,NIT_35/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3072262.88,30.72,12,2025-04-14
+2026_MEDIC_KOTP_573963,NIT_45/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2476681.11,24.77,11,2026-02-16
+2026_FORES_KOTP_583819,NIT_73/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,638345.54,6.38,15,2025-06-16
+2026_UIT_KOTP_753935,NIT_83/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,882254.62,8.82,9,2025-06-06
+2026_WRD_KOTP_641187,NIT_83/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,306922.87,3.07,7,2026-02-24
+2026_MEDIC_KOTP_433713,NIT_97/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,569509.41,5.7,9,2026-03-16
+2026_FORES_KOTP_930897,NIT_40/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,444944.73,4.45,7,2026-03-06
+2026_UIT_KOTP_477861,NIT_59/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,454751.35,4.55,14,2026-01-17
+2026_PWD_KOTP_132122,NIT_96/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,249860.38,2.5,15,2025-06-30
+2026_UIT_KOTP_882733,NIT_53/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,4246806.0,42.47,12,2025-12-25
+2026_DLB_KOTP_583064,NIT_85/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,465253.6,4.65,11,2025-07-05
+2026_FORES_KOTP_358604,NIT_91/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,911311.88,9.11,11,2025-10-18
+2026_UIT_KOTP_332990,NIT_34/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,75072026.74,750.72,31,2025-09-22
+2026_DLB_KOTP_272408,NIT_43/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,28881087.85,288.81,38,2025-09-20
+2026_FORES_KOTP_606779,NIT_32/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4477326.93,44.77,12,2026-01-20
+2026_PHED_KOTP_523259,NIT_85/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,42943560.56,429.44,35,2025-05-23
+2026_PHED_KOTP_628986,NIT_23/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,597946.81,5.98,12,2025-04-14
+2026_FORES_KOTP_613416,NIT_76/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,47022085.94,470.22,35,2025-04-09
+2026_MEDIC_KOTP_436007,NIT_72/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,768402.59,7.68,11,2025-07-24
+2026_PWD_KOTP_303591,NIT_49/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,652502.2,6.53,15,2026-01-21
+2026_PWD_KOTP_972831,NIT_24/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,881104.32,8.81,9,2025-04-25
+2026_PHED_KOTP_646877,NIT_52/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,615581.57,6.16,7,2025-05-15
+2026_UIT_KOTP_481916,NIT_36/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,465624.6,4.66,11,2025-11-19
+2026_PWD_KOTP_442640,NIT_51/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1808614.46,18.09,12,2025-10-05
+2026_MEDIC_KOTP_324885,NIT_63/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2834458.62,28.34,18,2025-05-20
+2026_PHED_KOTP_937606,NIT_64/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2727475.73,27.27,10,2026-02-12
+2026_WRD_KOTP_987729,NIT_29/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,707700.73,7.08,8,2025-08-24
+2026_UIT_KOTP_930948,NIT_21/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,5685652.22,56.86,23,2025-06-02
+2026_FORES_KOTP_720478,NIT_77/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2823328.93,28.23,12,2025-12-01
+2026_PWD_KOTP_384879,NIT_56/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,253820.71,2.54,15,2026-01-11
+2026_UIT_KOTP_904243,NIT_54/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,2558226.03,25.58,15,2026-01-11
+2026_UIT_KOTP_948708,NIT_64/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,482866.48,4.83,15,2025-10-30
+2026_UIT_KOTP_890930,NIT_67/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,581131.92,5.81,9,2025-06-10
+2026_DLB_KOTP_840401,NIT_53/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,12240875.41,122.41,19,2026-01-03
+2026_FORES_KOTP_456029,NIT_85/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,487571.7,4.88,12,2026-02-09
+2026_WRD_KOTP_286410,NIT_74/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,253117.47,2.53,8,2025-05-13
+2026_UIT_KOTP_826852,NIT_64/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,18798328.06,187.98,3,2025-04-21
+2026_PWD_KOTP_263518,NIT_49/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2446888.49,24.47,13,2025-05-08
+2026_PHED_KOTP_237497,NIT_92/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,851897.39,8.52,8,2025-09-14
+2026_UIT_KOTP_432793,NIT_18/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,316675.14,3.17,14,2025-04-18
+2026_MEDIC_KOTP_314005,NIT_91/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,656404.11,6.56,9,2026-03-16
+2026_PWD_KOTP_397700,NIT_48/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2116361.14,21.16,16,2025-10-15
+2026_MEDIC_KOTP_750077,NIT_72/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,265257.9,2.65,10,2025-11-03
+2026_DLB_KOTP_768280,NIT_66/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,725488.63,7.25,13,2025-06-16
+2026_FORES_KOTP_106674,NIT_26/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,57263116.61,572.63,32,2025-10-06
+2026_WRD_KOTP_319310,NIT_18/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,570662.13,5.71,9,2026-01-04
+2026_UIT_KOTP_956011,NIT_23/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,739636.94,7.4,8,2025-06-04
+2026_PHED_KOTP_736044,NIT_28/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,852931.22,8.53,11,2026-02-14
+2026_PWD_KOTP_161849,NIT_58/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3818611.68,38.19,18,2025-08-04
+2026_DLB_KOTP_375136,NIT_72/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,278120.64,2.78,14,2025-09-24
+2026_PWD_KOTP_658380,NIT_31/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,763548.01,7.64,8,2026-03-07
+2026_DLB_KOTP_285536,NIT_33/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,17617952.6,176.18,20,2026-01-13
+2026_FORES_KOTP_378533,NIT_71/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,258533.31,2.59,7,2025-09-14
+2026_PHED_KOTP_748661,NIT_21/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,558742.53,5.59,14,2025-10-13
+2026_FORES_KOTP_680701,NIT_40/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,733645.0,7.34,15,2025-07-03
+2026_FORES_KOTP_560887,NIT_25/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,666336.24,6.66,14,2026-03-18
+2026_PHED_KOTP_307954,NIT_66/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,779769.32,7.8,9,2025-04-15
+2026_WRD_KOTP_290619,NIT_32/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,274153.32,2.74,10,2025-10-28
+2026_PHED_KOTP_205706,NIT_64/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,789522.37,7.9,8,2026-02-22
+2026_WRD_KOTP_347749,NIT_80/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,590527.14,5.91,9,2025-09-14
+2026_FORES_KOTP_481359,NIT_99/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,18505290.75,185.05,23,2025-07-14
+2026_WRD_KOTP_682949,NIT_49/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,47411048.09,474.11,37,2025-12-09
+2026_PHED_KOTP_269409,NIT_60/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2136910.48,21.37,15,2025-08-12
+2026_UIT_KOTP_366229,NIT_83/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,16388535.79,163.89,16,2025-07-02
+2026_DLB_KOTP_732928,NIT_84/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,501036.8,5.01,9,2025-11-12
+2026_PWD_KOTP_269963,NIT_17/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,53779862.95,537.8,38,2025-12-11
+2026_FORES_KOTP_217978,NIT_37/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,542262.0,5.42,12,2025-06-10
+2026_MEDIC_KOTP_685432,NIT_76/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,45059692.43,450.6,31,2025-06-08
+2026_UIT_KOTP_482003,NIT_60/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,93191105.76,931.91,33,2025-06-28
+2026_PWD_KOTP_146625,NIT_43/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3903737.86,39.04,17,2025-12-22
+2026_MEDIC_KOTP_630490,NIT_82/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,64398624.78,643.99,35,2026-03-08
+2026_MEDIC_KOTP_474723,NIT_33/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1937984.46,19.38,10,2025-04-21
+2026_PHED_KOTP_118179,NIT_45/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,932391.88,9.32,13,2026-02-25
+2026_PWD_KOTP_954246,NIT_83/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,834148.5,8.34,8,2025-11-22
+2026_PWD_KOTP_463737,NIT_30/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4627853.23,46.28,11,2025-04-12
+2026_UIT_KOTP_256463,NIT_92/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,611750.75,6.12,12,2026-03-06
+2026_PWD_KOTP_196967,NIT_48/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1795648.11,17.96,18,2025-07-08
+2026_PWD_KOTP_741812,NIT_35/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,111253789.82,1112.54,31,2025-07-17
+2026_FORES_KOTP_722314,NIT_73/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,224343.38,2.24,9,2025-10-21
+2026_PWD_KOTP_764053,NIT_29/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3794082.86,37.94,12,2025-05-31
+2026_UIT_KOTP_820147,NIT_99/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,18449573.18,184.5,17,2025-04-28
+2026_PWD_KOTP_735266,NIT_96/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,29834422.23,298.34,15,2025-05-24
+2026_PHED_KOTP_289485,NIT_15/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,32974722.27,329.75,35,2026-03-05
+2026_FORES_KOTP_654859,NIT_66/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,895921.93,8.96,10,2025-04-19
+2026_WRD_KOTP_699663,NIT_34/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,63713406.63,637.13,32,2025-11-20
+2026_FORES_KOTP_797453,NIT_48/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3962432.84,39.62,14,2025-06-30
+2026_PWD_KOTP_194477,NIT_46/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,168167.55,1.68,13,2026-02-15
+2026_MEDIC_KOTP_247441,NIT_53/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,837875.07,8.38,12,2025-06-08
+2026_PHED_KOTP_725290,NIT_46/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2458413.51,24.58,13,2026-03-25
+2026_UIT_KOTP_484541,NIT_54/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,727259.36,7.27,8,2026-03-02
+2026_PWD_KOTP_944483,NIT_37/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3733775.0,37.34,15,2025-06-05
+2026_UIT_KOTP_828299,NIT_84/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,2912092.73,29.12,11,2025-07-27
+2026_DLB_KOTP_224413,NIT_28/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,370369.55,3.7,12,2026-01-07
+2026_WRD_KOTP_665852,NIT_56/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2502632.81,25.03,12,2025-07-18
+2026_UIT_KOTP_128355,NIT_43/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,4580672.47,45.81,12,2025-04-14
+2026_PHED_KOTP_605258,NIT_16/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,487967.83,4.88,9,2025-12-02
+2026_PHED_KOTP_684610,NIT_73/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,372344.62,3.72,7,2025-11-13
+2026_FORES_KOTP_856597,NIT_20/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,494977.51,4.95,7,2025-10-29
+2026_PHED_KOTP_236301,NIT_26/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,838008.72,8.38,8,2025-09-23
+2026_WRD_KOTP_373743,NIT_30/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,16623193.42,166.23,18,2026-03-26
+2026_FORES_KOTP_399322,NIT_14/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,349757.95,3.5,12,2025-10-25
+2026_DLB_KOTP_691845,NIT_91/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2743026.07,27.43,14,2026-02-13
+2026_PWD_KOTP_488904,NIT_66/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,622098.32,6.22,12,2025-10-08
+2026_WRD_KOTP_545823,NIT_32/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,906616.12,9.07,8,2025-06-10
+2026_UIT_KOTP_949438,NIT_42/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,11572093.09,115.72,3,2026-01-10
+2026_PWD_KOTP_906519,NIT_25/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4039721.45,40.4,10,2025-07-16
+2026_PWD_KOTP_945253,NIT_62/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,593074.68,5.93,13,2025-08-20
+2026_UIT_KOTP_194351,NIT_72/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,279499.49,2.79,15,2025-04-07
+2026_MEDIC_KOTP_202161,NIT_95/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,442995.11,4.43,7,2025-05-26
+2026_WRD_KOTP_838516,NIT_17/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,520764.27,5.21,7,2025-10-27
+2026_DLB_KOTP_206604,NIT_41/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1252061.55,12.52,15,2025-05-11
+2026_PWD_KOTP_952489,NIT_46/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,438896.91,4.39,11,2025-12-08
+2026_WRD_KOTP_309185,NIT_61/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,289984.5,2.9,7,2025-04-09
+2026_MEDIC_KOTP_556231,NIT_33/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,429146.85,4.29,12,2025-11-15
+2026_DLB_KOTP_837576,NIT_64/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,13427011.96,134.27,23,2025-04-03
+2026_WRD_KOTP_308629,NIT_95/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,100561689.13,1005.62,32,2025-11-12
+2026_WRD_KOTP_979053,NIT_65/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,861709.2,8.62,9,2025-05-11
+2026_WRD_KOTP_713571,NIT_18/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3017309.68,30.17,17,2025-04-10
+2026_PWD_KOTP_160377,NIT_44/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,472387.47,4.72,11,2025-09-17
+2026_FORES_KOTP_717940,NIT_13/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,754076.84,7.54,7,2025-11-15
+2026_MEDIC_KOTP_609244,NIT_95/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2802594.82,28.03,10,2025-04-11
+2026_FORES_KOTP_786925,NIT_43/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,13280791.48,132.81,16,2026-01-14
+2026_UIT_KOTP_833933,NIT_90/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,89947368.06,899.47,31,2025-09-10
+2026_UIT_KOTP_280481,NIT_15/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,2008206.34,20.08,10,2026-01-27
+2026_WRD_KOTP_777992,NIT_86/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,807369.33,8.07,13,2026-02-05
+2026_MEDIC_KOTP_616763,NIT_91/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1888802.72,18.89,17,2026-01-28
+2026_DLB_KOTP_818437,NIT_25/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,800932.24,8.01,15,2025-08-28
+2026_PWD_KOTP_530846,NIT_58/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4632945.18,46.33,17,2025-08-25
+2026_PWD_KOTP_608581,NIT_71/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,606814.32,6.07,9,2025-09-13
+2026_DLB_KOTP_291905,NIT_36/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3813629.86,38.14,14,2026-01-24
+2026_MEDIC_KOTP_219473,NIT_88/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,506854.38,5.07,3,2025-06-24
+2026_DLB_KOTP_989319,NIT_94/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,261653.27,2.62,7,2025-12-20
+2026_DLB_KOTP_959636,NIT_79/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,16850662.16,168.51,9,2025-04-29
+2026_UIT_KOTP_266050,NIT_94/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,682286.39,6.82,11,2025-05-19
+2026_UIT_KOTP_672257,NIT_20/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,338168.59,3.38,15,2026-01-30
+2026_MEDIC_KOTP_917930,NIT_84/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,508864.21,5.09,8,2025-05-13
+2026_DLB_KOTP_123501,NIT_78/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,552919.62,5.53,11,2026-03-05
+2026_MEDIC_KOTP_132019,NIT_19/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,926406.57,9.26,11,2025-09-03
+2026_MEDIC_KOTP_244955,NIT_30/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,756266.14,7.56,12,2025-12-24
+2026_MEDIC_KOTP_873267,NIT_39/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,13081009.27,130.81,22,2025-04-06
+2026_MEDIC_KOTP_280958,NIT_17/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,799496.23,7.99,7,2025-11-01
+2026_DLB_KOTP_435752,NIT_70/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,86991819.02,869.92,33,2025-10-12
+2026_MEDIC_KOTP_189263,NIT_48/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3283801.46,32.84,11,2025-06-20
+2026_MEDIC_KOTP_623957,NIT_96/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,803713.72,8.04,9,2026-02-02
+2026_FORES_KOTP_544045,NIT_81/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4439293.58,44.39,16,2026-01-22
+2026_FORES_KOTP_989121,NIT_71/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,681666.74,6.82,7,2026-01-27
+2026_WRD_KOTP_340477,NIT_25/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2019942.91,20.2,16,2025-05-28
+2026_WRD_KOTP_547898,NIT_15/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,545484.38,5.45,10,2025-06-30
+2026_DLB_KOTP_397918,NIT_96/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,865010.25,8.65,15,2025-07-24
+2026_WRD_KOTP_857979,NIT_58/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,10085787.65,100.86,21,2025-07-03
+2026_WRD_KOTP_771087,NIT_15/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,108591979.51,1085.92,34,2026-02-07
+2026_DLB_KOTP_502370,NIT_79/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,8631437.93,86.31,15,2025-08-15
+2026_DLB_KOTP_636556,NIT_49/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,271351.52,2.71,9,2026-01-13
+2026_WRD_KOTP_207174,NIT_59/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1583773.85,15.84,15,2026-01-22
+2026_UIT_KOTP_354969,NIT_90/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,475304.77,4.75,9,2025-04-01
+2026_MEDIC_KOTP_701746,NIT_38/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,362734.58,3.63,15,2025-07-26
+2026_MEDIC_KOTP_143083,NIT_65/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,259967.51,2.6,14,2025-06-17
+2026_UIT_KOTP_652819,NIT_66/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,3307284.23,33.07,10,2026-02-14
+2026_UIT_KOTP_166490,NIT_21/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,389919.75,3.9,8,2026-01-26
+2026_UIT_KOTP_859977,NIT_41/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,436197.69,4.36,9,2025-07-14
+2026_FORES_KOTP_527168,NIT_23/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,8410554.86,84.11,15,2025-09-22
+2026_PHED_KOTP_360702,NIT_15/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,884680.51,8.85,15,2025-05-19
+2026_DLB_KOTP_448599,NIT_99/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,167544.7,1.68,11,2025-09-02
+2026_DLB_KOTP_251670,NIT_43/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,249655.46,2.5,12,2026-02-27
+2026_PWD_KOTP_302635,NIT_99/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,49626064.81,496.26,21,2025-10-31
+2026_DLB_KOTP_986180,NIT_18/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,526036.97,5.26,8,2025-12-21
+2026_PHED_KOTP_834207,NIT_43/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,625637.76,6.26,15,2026-02-17
+2026_PWD_KOTP_673261,NIT_79/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,18398680.26,183.99,22,2026-01-08
+2026_PHED_KOTP_201605,NIT_44/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,6298748.49,62.99,16,2025-07-25
+2026_UIT_KOTP_442305,NIT_89/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,297766.38,2.98,13,2025-08-14
+2026_MEDIC_KOTP_542693,NIT_88/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3536879.81,35.37,13,2026-03-24
+2026_MEDIC_KOTP_515055,NIT_99/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3369544.11,33.7,18,2025-10-13
+2026_MEDIC_KOTP_427523,NIT_98/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4396961.99,43.97,15,2026-01-27
+2026_WRD_KOTP_428786,NIT_94/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,189440.42,1.89,9,2026-02-01
+2026_FORES_KOTP_289353,NIT_17/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,16858495.1,168.58,18,2026-03-23
+2026_DLB_KOTP_828515,NIT_15/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,431008.83,4.31,8,2025-11-03
+2026_FORES_KOTP_863570,NIT_17/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,331655.38,3.32,15,2025-10-20
+2026_PHED_KOTP_541711,NIT_50/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,348842.3,3.49,9,2025-05-22
+2026_MEDIC_KOTP_707407,NIT_43/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,412123.07,4.12,13,2025-12-05
+2026_PWD_KOTP_151539,NIT_13/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,625293.91,6.25,11,2025-06-09
+2026_WRD_KOTP_656115,NIT_84/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1988316.57,19.88,16,2025-10-10
+2026_FORES_KOTP_387280,NIT_81/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,640712.37,6.41,13,2025-04-26
+2026_WRD_KOTP_927513,NIT_65/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,359704.64,3.6,3,2025-09-09
+2026_DLB_KOTP_481878,NIT_72/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,755013.04,7.55,7,2026-01-18
+2026_DLB_KOTP_920528,NIT_49/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,764404.31,7.64,10,2025-12-16
+2026_UIT_KOTP_738174,NIT_13/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,63089994.62,630.9,34,2025-10-25
+2026_DLB_KOTP_921327,NIT_26/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,833430.58,8.33,13,2025-09-20
+2026_FORES_KOTP_403238,NIT_16/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,236718.96,2.37,12,2025-07-27
+2026_PWD_KOTP_109600,NIT_98/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,895532.33,8.96,9,2025-05-31
+2026_PHED_KOTP_259546,NIT_47/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,294835.16,2.95,14,2025-11-06
+2026_DLB_KOTP_827658,NIT_94/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,529158.74,5.29,12,2026-02-08
+2026_PWD_KOTP_509095,NIT_13/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1438711.13,14.39,11,2025-05-18
+2026_WRD_KOTP_993163,NIT_74/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,101713265.59,1017.13,36,2025-05-01
+2026_PWD_KOTP_897434,NIT_78/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,162011.21,1.62,15,2025-10-20
+2026_DLB_KOTP_845502,NIT_73/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4768638.62,47.69,11,2025-06-28
+2026_MEDIC_KOTP_724452,NIT_55/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2715331.27,27.15,10,2025-08-18
+2026_DLB_KOTP_241463,NIT_62/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,16136890.79,161.37,21,2025-05-09
+2026_PHED_KOTP_865929,NIT_24/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,885617.4,8.86,15,2025-08-07
+2026_PHED_KOTP_871139,NIT_71/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,423720.26,4.24,13,2025-12-29
+2026_PWD_KOTP_583607,NIT_80/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,430283.53,4.3,9,2025-10-06
+2026_WRD_KOTP_639026,NIT_32/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2211611.06,22.12,18,2026-03-22
+2026_UIT_KOTP_343857,NIT_74/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,9675324.55,96.75,19,2025-04-25
+2026_PWD_KOTP_808649,NIT_64/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,353571.74,3.54,11,2026-02-28
+2026_DLB_KOTP_454984,NIT_28/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,845896.26,8.46,8,2025-05-28
+2026_PHED_KOTP_302950,NIT_29/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,18098235.73,180.98,23,2026-02-09
+2026_UIT_KOTP_872254,NIT_72/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,14613974.94,146.14,16,2025-11-17
+2026_DLB_KOTP_911129,NIT_60/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,96651570.17,966.52,32,2025-12-07
+2026_PHED_KOTP_132196,NIT_34/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4303536.88,43.04,16,2026-03-17
+2026_PHED_KOTP_959462,NIT_19/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,868191.4,8.68,7,2026-03-02
+2026_MEDIC_KOTP_163730,NIT_18/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3325276.97,33.25,13,2025-04-22
+2026_WRD_KOTP_444930,NIT_91/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1778857.19,17.79,13,2025-09-14
+2026_FORES_KOTP_671808,NIT_74/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,813794.81,8.14,10,2025-09-17
+2026_UIT_KOTP_340667,NIT_49/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,159452.24,1.59,8,2025-12-20
+2026_PWD_KOTP_849894,NIT_60/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2702030.97,27.02,18,2025-05-05
+2026_UIT_KOTP_545628,NIT_54/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,941118.86,9.41,11,2026-03-10
+2026_WRD_KOTP_374362,NIT_43/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2653115.54,26.53,13,2025-12-30
+2026_WRD_KOTP_821875,NIT_18/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2831667.89,28.32,17,2026-03-27
+2026_UIT_KOTP_679307,NIT_23/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,22541389.89,225.41,35,2025-08-02
+2026_FORES_KOTP_724695,NIT_25/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,267666.85,2.68,15,2025-12-19
+2026_FORES_KOTP_367865,NIT_78/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,738272.91,7.38,13,2026-01-26
+2026_MEDIC_KOTP_639484,NIT_29/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4367997.07,43.68,10,2025-09-04
+2026_WRD_KOTP_604617,NIT_84/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,712462.06,7.12,8,2025-08-19
+2026_UIT_KOTP_571244,NIT_97/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,1565738.59,15.66,10,2025-05-16
+2026_UIT_KOTP_864306,NIT_86/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,3076676.34,30.77,14,2025-06-29
+2026_WRD_KOTP_238622,NIT_36/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,815313.24,8.15,14,2025-06-23
+2026_MEDIC_KOTP_346903,NIT_40/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,604410.54,6.04,8,2026-02-25
+2026_FORES_KOTP_676408,NIT_73/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,174066.85,1.74,9,2026-01-16
+2026_PHED_KOTP_280777,NIT_76/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,843547.26,8.44,15,2025-07-18
+2026_PHED_KOTP_252783,NIT_25/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,5817992.99,58.18,5,2025-07-27
+2026_PHED_KOTP_102215,NIT_12/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,6069824.52,60.7,21,2025-05-29
+2026_PWD_KOTP_131248,NIT_75/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4204781.49,42.05,18,2026-03-13
+2026_DLB_KOTP_849591,NIT_59/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1506385.16,15.06,14,2025-07-06
+2026_WRD_KOTP_502355,NIT_21/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,381011.11,3.81,10,2026-01-09
+2026_WRD_KOTP_434836,NIT_93/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,8566767.03,85.67,15,2025-12-04
+2026_WRD_KOTP_541597,NIT_80/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3455679.47,34.56,14,2025-10-27
+2026_UIT_KOTP_717298,NIT_50/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,4170215.72,41.7,10,2025-04-02
+2026_PHED_KOTP_868957,NIT_12/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,11507208.08,115.07,15,2025-10-07
+2026_UIT_KOTP_955197,NIT_45/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,904766.73,9.05,13,2025-11-11
+2026_UIT_KOTP_178153,NIT_52/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,5469723.2,54.7,21,2025-11-03
+2026_WRD_KOTP_196497,NIT_19/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,160433.53,1.6,12,2025-09-01
+2026_UIT_KOTP_190745,NIT_21/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,713263.73,7.13,10,2025-08-23
+2026_PWD_KOTP_947000,NIT_67/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,583323.08,5.83,11,2026-02-11
+2026_DLB_KOTP_143995,NIT_76/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,81902377.51,819.02,33,2025-11-07
+2026_DLB_KOTP_674865,NIT_35/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,9259975.11,92.6,21,2025-06-21
+2026_DLB_KOTP_736415,NIT_68/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3993418.65,39.93,18,2025-11-08
+2026_MEDIC_KOTP_682400,NIT_76/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4416397.86,44.16,17,2025-12-27
+2026_FORES_KOTP_792492,NIT_92/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2869856.51,28.7,15,2025-04-16
+2026_WRD_KOTP_941850,NIT_85/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,63446677.3,634.47,37,2025-10-11
+2026_PWD_KOTP_826886,NIT_86/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,339398.04,3.39,8,2025-06-07
+2026_DLB_KOTP_835620,NIT_55/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,513641.7,5.14,15,2026-01-21
+2026_MEDIC_KOTP_971405,NIT_33/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,454112.34,4.54,8,2026-01-09
+2026_UIT_KOTP_106128,NIT_83/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,2432039.15,24.32,11,2025-11-23
+2026_WRD_KOTP_451917,NIT_75/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2228829.69,22.29,17,2025-12-06
+2026_DLB_KOTP_404912,NIT_21/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,686771.37,6.87,11,2025-10-15
+2026_MEDIC_KOTP_293858,NIT_19/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,227257.59,2.27,15,2025-06-14
+2026_WRD_KOTP_196366,NIT_87/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,15036227.4,150.36,19,2025-06-30
+2026_PHED_KOTP_247758,NIT_87/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,904420.1,9.04,8,2025-11-17
+2026_PWD_KOTP_950565,NIT_43/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3753772.85,37.54,12,2025-05-24
+2026_UIT_KOTP_680441,NIT_54/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,88420510.27,884.21,30,2025-09-11
+2026_DLB_KOTP_917367,NIT_74/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,251135.24,2.51,9,2025-06-04
+2026_UIT_KOTP_485004,NIT_73/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,814403.63,8.14,7,2025-04-26
+2026_PWD_KOTP_762824,NIT_61/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1873339.85,18.73,15,2025-10-27
+2026_WRD_KOTP_155407,NIT_68/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,7569143.56,75.69,22,2025-06-30
+2026_MEDIC_KOTP_270870,NIT_81/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,638821.23,6.39,11,2025-04-03
+2026_PWD_KOTP_193280,NIT_72/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,72496894.23,724.97,32,2025-06-22
+2026_FORES_KOTP_374535,NIT_67/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,342296.38,3.42,13,2025-05-08
+2026_DLB_KOTP_668585,NIT_57/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,154997.6,1.55,12,2026-01-13
+2026_FORES_KOTP_831921,NIT_17/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1393000.58,13.93,10,2026-02-07
+2026_PHED_KOTP_984830,NIT_69/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,17425538.4,174.26,4,2025-09-09
+2026_PHED_KOTP_548165,NIT_20/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,748025.23,7.48,12,2025-07-26
+2026_UIT_KOTP_932511,NIT_66/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,5934713.54,59.35,15,2025-11-23
+2026_PWD_KOTP_948992,NIT_65/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3276181.64,32.76,10,2025-12-04
+2026_WRD_KOTP_834696,NIT_93/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,219298.96,2.19,11,2026-01-13
+2026_FORES_KOTP_443124,NIT_99/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,384428.45,3.84,9,2026-01-16
+2026_MEDIC_KOTP_591074,NIT_62/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,13384753.48,133.85,21,2025-09-24
+2026_PHED_KOTP_724089,NIT_42/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,373222.83,3.73,8,2025-10-29
+2026_UIT_KOTP_868294,NIT_21/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,917468.93,9.17,15,2025-06-12
+2026_DLB_KOTP_312005,NIT_49/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,798749.43,7.99,8,2025-04-19
+2026_WRD_KOTP_448431,NIT_15/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,7321461.15,73.21,21,2025-07-23
+2026_FORES_KOTP_292073,NIT_18/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2806020.25,28.06,15,2025-11-11
+2026_WRD_KOTP_649472,NIT_40/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2315231.66,23.15,16,2025-12-28
+2026_PWD_KOTP_525335,NIT_44/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,933210.88,9.33,13,2025-11-16
+2026_PHED_KOTP_716862,NIT_80/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1871360.24,18.71,14,2025-09-01
+2026_MEDIC_KOTP_627832,NIT_34/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3101859.26,31.02,15,2025-07-26
+2026_DLB_KOTP_936547,NIT_90/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,18572851.19,185.73,23,2025-04-25
+2026_WRD_KOTP_450216,NIT_16/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,11348121.88,113.48,15,2025-10-19
+2026_WRD_KOTP_570795,NIT_89/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,418450.83,4.18,13,2025-06-21
+2026_PHED_KOTP_691995,NIT_33/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3784449.5,37.84,8,2026-01-02
+2026_WRD_KOTP_902852,NIT_51/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,235712.11,2.36,11,2025-04-15
+2026_FORES_KOTP_729238,NIT_23/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,861586.57,8.62,8,2025-05-22
+2026_DLB_KOTP_916745,NIT_74/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,903123.03,9.03,7,2025-06-12
+2026_WRD_KOTP_944566,NIT_47/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,713327.68,7.13,13,2025-04-28
+2026_FORES_KOTP_836831,NIT_32/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,284552.07,2.85,12,2025-07-29
+2026_WRD_KOTP_957287,NIT_44/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3669872.24,36.7,12,2025-04-01
+2026_PWD_KOTP_799254,NIT_27/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,295792.71,2.96,12,2025-05-01
+2026_PWD_KOTP_265579,NIT_63/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3898299.58,38.98,10,2025-05-11
+2026_WRD_KOTP_216385,NIT_53/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,321679.03,3.22,9,2025-09-25
+2026_UIT_KOTP_786477,NIT_97/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,699114.89,6.99,12,2025-04-17
+2026_DLB_KOTP_396243,NIT_15/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4634481.16,46.34,17,2026-03-27
+2026_PHED_KOTP_985548,NIT_26/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,520956.47,5.21,12,2026-01-28
+2026_FORES_KOTP_483943,NIT_92/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,172440.27,1.72,8,2025-04-25
+2026_PWD_KOTP_511744,NIT_46/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4640222.34,46.4,14,2025-04-07
+2026_PHED_KOTP_823548,NIT_84/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,244813.99,2.45,9,2025-04-17
+2026_PHED_KOTP_549218,NIT_15/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,555185.83,5.55,11,2025-05-03
+2026_PWD_KOTP_669126,NIT_48/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,651488.8,6.51,10,2026-03-01
+2026_WRD_KOTP_745266,NIT_88/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,109298781.97,1092.99,33,2025-10-09
+2026_FORES_KOTP_694628,NIT_53/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1599404.72,15.99,11,2025-04-18
+2026_PWD_KOTP_527354,NIT_72/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3185229.31,31.85,10,2025-10-21
+2026_MEDIC_KOTP_549286,NIT_80/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1270461.8,12.7,17,2025-12-01
+2026_WRD_KOTP_146230,NIT_99/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,866350.9,8.66,15,2025-08-15
+2026_FORES_KOTP_813260,NIT_26/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,723325.16,7.23,10,2026-01-17
+2026_UIT_KOTP_403013,NIT_49/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,3228949.37,32.29,15,2025-07-25
+2026_PWD_KOTP_102914,NIT_60/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,542621.21,5.43,9,2025-09-19
+2026_WRD_KOTP_108440,NIT_37/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,278544.09,2.79,7,2025-05-08
+2026_DLB_KOTP_322839,NIT_58/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,400482.88,4.0,13,2025-07-04
+2026_WRD_KOTP_210905,NIT_68/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,579791.13,5.8,7,2026-02-16
+2026_PHED_KOTP_793624,NIT_83/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,90543188.58,905.43,34,2025-09-17
+2026_UIT_KOTP_199875,NIT_18/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,162186.67,1.62,7,2026-02-24
+2026_DLB_KOTP_979682,NIT_96/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,187115.88,1.87,15,2026-01-10
+2026_DLB_KOTP_635231,NIT_42/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,344380.58,3.44,8,2025-05-16
+2026_DLB_KOTP_511652,NIT_66/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,42774461.04,427.74,34,2026-03-14
+2026_WRD_KOTP_578715,NIT_52/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,753389.67,7.53,15,2026-01-04
+2026_DLB_KOTP_438981,NIT_82/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,838563.0,8.39,13,2025-09-07
+2026_PHED_KOTP_514440,NIT_15/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1916044.39,19.16,16,2026-03-10
+2026_UIT_KOTP_287884,NIT_11/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,4367791.09,43.68,15,2025-09-29
+2026_MEDIC_KOTP_295599,NIT_19/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,354667.61,3.55,7,2026-03-22
+2026_MEDIC_KOTP_232206,NIT_10/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,875864.72,8.76,12,2025-06-22
+2026_PHED_KOTP_848362,NIT_80/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,154895.36,1.55,9,2025-05-21
+2026_FORES_KOTP_933892,NIT_87/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,730445.72,7.3,12,2025-12-25
+2026_UIT_KOTP_230540,NIT_76/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,608280.58,6.08,7,2026-03-18
+2026_WRD_KOTP_693015,NIT_22/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,496987.88,4.97,15,2025-11-10
+2026_PHED_KOTP_661544,NIT_57/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,415852.6,4.16,12,2026-01-17
+2026_FORES_KOTP_586277,NIT_98/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,928249.65,9.28,8,2025-10-13
+2026_MEDIC_KOTP_641866,NIT_15/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3708111.46,37.08,15,2025-07-31
+2026_DLB_KOTP_660965,NIT_99/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,80783514.63,807.84,36,2026-02-06
+2026_PHED_KOTP_633222,NIT_84/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2848469.51,28.48,18,2025-08-20
+2026_WRD_KOTP_426098,NIT_16/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,675885.22,6.76,9,2025-06-26
+2026_FORES_KOTP_890618,NIT_71/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,280010.86,2.8,15,2025-07-19
+2026_MEDIC_KOTP_408853,NIT_78/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,33618621.89,336.19,32,2026-03-06
+2026_PHED_KOTP_162033,NIT_42/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,220944.42,2.21,11,2026-03-02
+2026_PHED_KOTP_866658,NIT_26/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,889643.81,8.9,8,2025-05-04
+2026_DLB_KOTP_477384,NIT_83/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3309163.01,33.09,10,2026-03-11
+2026_PHED_KOTP_871457,NIT_90/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3805449.05,38.05,13,2025-04-26
+2026_WRD_KOTP_849096,NIT_99/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1609753.87,16.1,12,2025-11-11
+2026_DLB_KOTP_476622,NIT_26/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,706362.08,7.06,12,2025-07-09
+2026_PWD_KOTP_914582,NIT_26/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,552670.5,5.53,7,2025-10-26
+2026_WRD_KOTP_515102,NIT_35/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,21285698.01,212.86,33,2025-11-12
+2026_DLB_KOTP_581924,NIT_55/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,468306.93,4.68,15,2025-07-24
+2026_PHED_KOTP_905206,NIT_19/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3614201.23,36.14,11,2025-10-30
+2026_FORES_KOTP_952444,NIT_97/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4718550.78,47.19,14,2025-10-11
+2026_UIT_KOTP_737658,NIT_15/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,4277252.27,42.77,18,2025-07-21
+2026_PWD_KOTP_923298,NIT_13/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,360936.52,3.61,15,2025-08-20
+2026_PWD_KOTP_750210,NIT_59/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,463505.64,4.64,8,2025-07-13
+2026_PWD_KOTP_540191,NIT_72/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1102470.39,11.02,16,2026-01-11
+2026_WRD_KOTP_982102,NIT_63/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,16811797.55,168.12,15,2025-10-14
+2026_PHED_KOTP_834450,NIT_60/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,113056293.86,1130.56,19,2025-10-19
+2026_WRD_KOTP_479239,NIT_17/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,392557.36,3.93,11,2025-09-01
+2026_FORES_KOTP_137935,NIT_66/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,922249.86,9.22,10,2026-03-17
+2026_WRD_KOTP_734031,NIT_34/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,92010693.66,920.11,34,2026-02-26
+2026_MEDIC_KOTP_495238,NIT_31/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2751057.52,27.51,12,2025-10-15
+2026_PHED_KOTP_554914,NIT_25/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,6420743.18,64.21,21,2026-03-07
+2026_PHED_KOTP_969005,NIT_53/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,902670.67,9.03,12,2025-08-15
+2026_FORES_KOTP_258655,NIT_22/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3596916.76,35.97,10,2025-12-30
+2026_FORES_KOTP_616939,NIT_86/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4613891.29,46.14,16,2025-06-15
+2026_FORES_KOTP_351765,NIT_49/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4452899.52,44.53,16,2025-08-13
+2026_PHED_KOTP_310777,NIT_81/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,421068.38,4.21,9,2025-08-23
+2026_DLB_KOTP_295726,NIT_56/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,683368.36,6.83,10,2025-07-25
+2026_PHED_KOTP_373407,NIT_35/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4610114.43,46.1,13,2025-05-10
+2026_PWD_KOTP_840720,NIT_56/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,828671.59,8.29,13,2025-04-15
+2026_WRD_KOTP_853682,NIT_44/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,445835.95,4.46,13,2026-03-20
+2026_MEDIC_KOTP_807935,NIT_44/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,70438569.34,704.39,34,2026-02-20
+2026_WRD_KOTP_309052,NIT_56/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,923643.47,9.24,14,2025-08-17
+2026_DLB_KOTP_505441,NIT_86/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,15921506.31,159.22,21,2025-07-16
+2026_WRD_KOTP_232616,NIT_20/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,291666.56,2.92,7,2025-12-31
+2026_FORES_KOTP_108304,NIT_83/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2295151.58,22.95,14,2025-12-17
+2026_PWD_KOTP_954344,NIT_53/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,39351112.58,393.51,35,2026-01-20
+2026_DLB_KOTP_516363,NIT_48/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,825391.6,8.25,10,2025-04-07
+2026_DLB_KOTP_389599,NIT_27/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,341677.86,3.42,8,2025-08-15
+2026_PHED_KOTP_503498,NIT_25/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,896500.15,8.97,11,2026-02-28
+2026_MEDIC_KOTP_711866,NIT_35/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,348249.9,3.48,13,2025-05-30
+2026_WRD_KOTP_914483,NIT_50/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4372990.85,43.73,10,2025-11-18
+2026_MEDIC_KOTP_532694,NIT_38/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,14277439.64,142.77,15,2025-04-16
+2026_MEDIC_KOTP_776978,NIT_97/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,734696.51,7.35,15,2025-09-30
+2026_PHED_KOTP_248990,NIT_25/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,213520.66,2.14,14,2025-05-18
+2026_MEDIC_KOTP_394493,NIT_50/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,275134.73,2.75,11,2025-06-30
+2026_DLB_KOTP_630040,NIT_68/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2024105.96,20.24,17,2025-04-25
+2026_PWD_KOTP_621373,NIT_34/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,664252.65,6.64,7,2026-03-21
+2026_MEDIC_KOTP_530883,NIT_53/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4332420.3,43.32,13,2025-11-14
+2026_DLB_KOTP_574969,NIT_26/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3214892.69,32.15,15,2025-10-26
+2026_PHED_KOTP_304450,NIT_69/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1062769.86,10.63,10,2026-02-25
+2026_UIT_KOTP_148906,NIT_90/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,710212.77,7.1,14,2025-12-31
+2026_PWD_KOTP_125780,NIT_57/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2270563.68,22.71,10,2025-04-19
+2026_PWD_KOTP_259365,NIT_71/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,835067.89,8.35,9,2025-05-04
+2026_WRD_KOTP_295358,NIT_50/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,520491.76,5.2,10,2025-06-01
+2026_DLB_KOTP_127755,NIT_87/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,9355510.08,93.56,16,2025-07-21
+2026_UIT_KOTP_517329,NIT_77/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,4072961.2,40.73,17,2025-06-24
+2026_PWD_KOTP_308099,NIT_25/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,308492.48,3.08,12,2025-06-18
+2026_MEDIC_KOTP_913239,NIT_60/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,290808.21,2.91,9,2026-01-20
+2026_FORES_KOTP_761827,NIT_72/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,777274.43,7.77,12,2026-02-10
+2026_WRD_KOTP_967431,NIT_94/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,696308.41,6.96,9,2025-06-26
+2026_PHED_KOTP_771022,NIT_98/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,766686.26,7.67,10,2025-12-24
+2026_MEDIC_KOTP_737454,NIT_32/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,151139.34,1.51,14,2026-03-20
+2026_FORES_KOTP_968541,NIT_38/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,775486.96,7.75,10,2025-11-03
+2026_DLB_KOTP_191338,NIT_74/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,2362530.26,23.63,16,2025-05-17
+2026_PWD_KOTP_678003,NIT_68/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1220856.28,12.21,17,2025-06-01
+2026_UIT_KOTP_630229,NIT_30/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,4161618.38,41.62,10,2025-05-21
+2026_PWD_KOTP_615262,NIT_25/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,274776.74,2.75,15,2025-07-23
+2026_MEDIC_KOTP_810694,NIT_81/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,83579881.28,835.8,37,2026-03-08
+2026_UIT_KOTP_982706,NIT_90/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,11199436.87,111.99,19,2025-10-24
+2026_DLB_KOTP_310034,NIT_51/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,11308103.87,113.08,18,2026-03-20
+2026_PHED_KOTP_248514,NIT_30/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,17891068.53,178.91,19,2025-08-08
+2026_PHED_KOTP_462918,NIT_81/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,18867375.53,188.67,17,2025-07-01
+2026_FORES_KOTP_470922,NIT_61/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,195727.93,1.96,12,2025-07-18
+2026_WRD_KOTP_787959,NIT_16/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,870174.54,8.7,14,2025-08-04
+2026_PWD_KOTP_996620,NIT_92/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1480276.38,14.8,16,2026-03-17
+2026_UIT_KOTP_615664,NIT_45/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,1442030.21,14.42,17,2026-03-09
+2026_WRD_KOTP_340244,NIT_81/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,4611667.11,46.12,18,2025-09-13
+2026_PHED_KOTP_114210,NIT_94/KOT/2025-26,Public Health Engineering Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,207389.68,2.07,9,2025-10-23
+2026_FORES_KOTP_160116,NIT_75/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,777636.06,7.78,10,2026-01-18
+2026_UIT_KOTP_855074,NIT_70/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,675480.78,6.75,12,2025-08-20
+2026_UIT_KOTP_599273,NIT_15/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,10189143.31,101.89,17,2026-02-15
+2026_FORES_KOTP_170561,NIT_57/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1374292.33,13.74,14,2025-05-07
+2026_PWD_KOTP_693731,NIT_96/KOT/2025-26,Public Works Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,423776.73,4.24,7,2026-01-17
+2026_FORES_KOTP_195760,NIT_83/KOT/2025-26,Forest Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,726717.22,7.27,10,2026-01-28
+2026_WRD_KOTP_572760,NIT_80/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,547320.92,5.47,7,2025-12-01
+2026_UIT_KOTP_100553,NIT_27/KOT/2025-26,Municipal Council Kotputli-Behror,Kotputli-Behror,Jaipur Division,5450610.19,54.51,15,2025-05-07
+2026_MEDIC_KOTP_783701,NIT_73/KOT/2025-26,Department of Medical Education (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,1410352.44,14.1,11,2025-06-16
+2026_WRD_KOTP_176851,NIT_35/KOT/2025-26,Water Resources Department (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,3193401.09,31.93,16,2026-02-12
+2026_DLB_KOTP_585236,NIT_78/KOT/2025-26,Directorate of Local Bodies (Kotputli-Behror Circle),Kotputli-Behror,Jaipur Division,603223.6,6.03,7,2026-01-15

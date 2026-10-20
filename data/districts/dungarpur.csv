@@ -1,0 +1,437 @@
+tender_id,nit_no,division,district,administrative_division,tender_amount,estimated_cost_lac,published_duration_days,publication_date
+2026_PHED_DUNG_685111,NIT_41/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,2427085.38,24.27,17,2026-02-16
+2026_WRD_DUNG_280304,NIT_22/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,187591.68,1.88,15,2025-04-23
+2026_WRD_DUNG_913847,NIT_46/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,3622649.01,36.23,14,2025-12-18
+2026_MEDIC_DUNG_635872,NIT_39/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,155276.52,1.55,13,2025-04-26
+2026_MEDIC_DUNG_130048,NIT_69/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,2428549.48,24.29,13,2026-01-19
+2026_PHED_DUNG_791661,NIT_85/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,591968.06,5.92,13,2025-11-18
+2026_UIT_DUNG_899703,NIT_64/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,98566230.12,985.66,34,2025-07-02
+2026_DLB_DUNG_141758,NIT_85/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2980396.93,29.8,16,2025-09-19
+2026_WRD_DUNG_872383,NIT_77/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,107871619.52,1078.72,33,2026-03-16
+2026_UIT_DUNG_326713,NIT_75/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,666279.96,6.66,3,2025-07-21
+2026_DLB_DUNG_342543,NIT_42/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,504973.67,5.05,8,2026-03-19
+2026_DLB_DUNG_619472,NIT_74/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,182580.55,1.83,14,2026-02-28
+2026_FORES_DUNG_942461,NIT_80/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,199457.44,1.99,11,2025-08-07
+2026_WRD_DUNG_925434,NIT_26/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,618595.45,6.19,9,2025-08-13
+2026_MEDIC_DUNG_212775,NIT_46/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,3098908.34,30.99,14,2025-09-15
+2026_MEDIC_DUNG_281301,NIT_22/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,670658.12,6.71,8,2025-04-21
+2026_WRD_DUNG_646579,NIT_71/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,461076.84,4.61,11,2025-10-12
+2026_PWD_DUNG_676489,NIT_45/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,16869378.01,168.69,16,2025-08-12
+2026_PWD_DUNG_794062,NIT_73/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,4426371.6,44.26,14,2026-03-10
+2026_FORES_DUNG_224125,NIT_13/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,411520.11,4.12,9,2025-10-28
+2026_PHED_DUNG_984871,NIT_45/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,488290.32,4.88,7,2025-07-02
+2026_UIT_DUNG_456640,NIT_97/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,660491.42,6.6,13,2025-09-20
+2026_UIT_DUNG_344017,NIT_52/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,534441.59,5.34,13,2025-11-22
+2026_PHED_DUNG_547241,NIT_13/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,1870946.84,18.71,11,2025-05-27
+2026_FORES_DUNG_809193,NIT_31/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,371823.39,3.72,8,2025-10-01
+2026_WRD_DUNG_605931,NIT_88/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,13176043.34,131.76,19,2026-03-19
+2026_FORES_DUNG_206212,NIT_79/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,3593943.64,35.94,16,2025-12-19
+2026_PHED_DUNG_824069,NIT_30/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,2853212.54,28.53,12,2025-12-29
+2026_MEDIC_DUNG_762011,NIT_17/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,558837.22,5.59,14,2025-05-27
+2026_PWD_DUNG_491867,NIT_85/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,485027.33,4.85,10,2025-07-25
+2026_FORES_DUNG_736593,NIT_75/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,1126192.68,11.26,13,2025-06-17
+2026_DLB_DUNG_924851,NIT_33/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,253116.93,2.53,14,2025-09-09
+2026_MEDIC_DUNG_879554,NIT_22/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,232095.66,2.32,13,2026-02-09
+2026_UIT_DUNG_880825,NIT_67/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,903083.98,9.03,8,2025-05-31
+2026_WRD_DUNG_802319,NIT_66/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,503246.45,5.03,13,2025-07-13
+2026_PWD_DUNG_821297,NIT_50/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,3357975.81,33.58,10,2026-01-30
+2026_UIT_DUNG_521061,NIT_28/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,670553.89,6.71,15,2025-10-19
+2026_UIT_DUNG_216696,NIT_21/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,564774.51,5.65,9,2026-01-11
+2026_PHED_DUNG_819627,NIT_45/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,768283.41,7.68,11,2025-04-19
+2026_UIT_DUNG_236947,NIT_65/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,3454210.45,34.54,18,2025-07-25
+2026_WRD_DUNG_793835,NIT_81/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,17586396.76,175.86,19,2026-02-19
+2026_FORES_DUNG_322635,NIT_57/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,14108824.42,141.09,11,2025-09-09
+2026_UIT_DUNG_675239,NIT_47/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,277320.8,2.77,3,2026-02-16
+2026_WRD_DUNG_746698,NIT_32/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,552966.17,5.53,14,2026-03-09
+2026_WRD_DUNG_554536,NIT_67/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,402665.83,4.03,13,2025-10-27
+2026_MEDIC_DUNG_642093,NIT_19/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,2219545.11,22.2,13,2026-01-28
+2026_UIT_DUNG_236429,NIT_96/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,2200062.71,22.0,13,2025-07-13
+2026_DLB_DUNG_313614,NIT_34/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,4061149.82,40.61,14,2025-04-27
+2026_MEDIC_DUNG_201365,NIT_86/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,658497.25,6.58,15,2026-01-18
+2026_PWD_DUNG_905235,NIT_28/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1139612.48,11.4,17,2025-07-29
+2026_WRD_DUNG_739825,NIT_84/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,237319.26,2.37,8,2025-09-09
+2026_DLB_DUNG_800483,NIT_74/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2655007.55,26.55,14,2025-12-28
+2026_UIT_DUNG_887953,NIT_30/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,600880.96,6.01,9,2025-04-07
+2026_UIT_DUNG_428341,NIT_28/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,3581214.22,35.81,10,2025-04-19
+2026_PWD_DUNG_702799,NIT_16/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,451336.45,4.51,13,2025-10-08
+2026_PHED_DUNG_168877,NIT_90/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,681372.98,6.81,9,2025-09-28
+2026_DLB_DUNG_261039,NIT_42/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2139107.51,21.39,12,2026-02-07
+2026_PHED_DUNG_858294,NIT_14/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,489073.82,4.89,11,2025-10-05
+2026_DLB_DUNG_773986,NIT_91/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2627043.96,26.27,13,2025-11-12
+2026_PWD_DUNG_561212,NIT_16/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1301669.77,13.02,15,2025-10-04
+2026_DLB_DUNG_914641,NIT_55/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,1926156.4,19.26,18,2025-06-06
+2026_WRD_DUNG_912884,NIT_99/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,512487.3,5.12,10,2025-11-21
+2026_PWD_DUNG_207819,NIT_70/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,667626.22,6.68,15,2025-09-27
+2026_UIT_DUNG_830373,NIT_92/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,2563023.03,25.63,11,2025-11-28
+2026_UIT_DUNG_960414,NIT_79/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,214703.54,2.15,12,2025-12-15
+2026_UIT_DUNG_192712,NIT_56/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,3111959.18,31.12,18,2026-02-17
+2026_DLB_DUNG_245758,NIT_40/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,631618.84,6.32,11,2025-04-30
+2026_MEDIC_DUNG_779342,NIT_69/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,204134.48,2.04,8,2025-09-24
+2026_UIT_DUNG_521834,NIT_32/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,759256.92,7.59,5,2025-04-10
+2026_WRD_DUNG_610843,NIT_18/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,781071.67,7.81,7,2025-11-09
+2026_FORES_DUNG_444474,NIT_65/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,562727.16,5.63,7,2025-04-29
+2026_PHED_DUNG_565779,NIT_10/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,4382855.86,43.83,11,2025-09-02
+2026_DLB_DUNG_987863,NIT_36/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,3259014.07,32.59,17,2026-02-19
+2026_WRD_DUNG_281760,NIT_37/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,526687.72,5.27,10,2025-11-15
+2026_FORES_DUNG_544126,NIT_27/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,110232641.03,1102.33,11,2025-11-28
+2026_PWD_DUNG_197331,NIT_28/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,465016.87,4.65,12,2025-10-26
+2026_FORES_DUNG_835747,NIT_30/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,18974890.88,189.75,17,2025-07-29
+2026_DLB_DUNG_240536,NIT_16/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,4745262.88,47.45,13,2025-08-27
+2026_PHED_DUNG_206668,NIT_42/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,3732586.44,37.33,16,2025-07-27
+2026_PWD_DUNG_254384,NIT_85/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,550419.26,5.5,15,2025-05-27
+2026_PWD_DUNG_677744,NIT_12/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,311705.8,3.12,15,2026-01-04
+2026_WRD_DUNG_301424,NIT_56/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,621905.69,6.22,12,2025-12-15
+2026_PHED_DUNG_806303,NIT_64/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,1986100.01,19.86,14,2025-11-15
+2026_MEDIC_DUNG_648684,NIT_99/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,573571.83,5.74,12,2026-03-17
+2026_MEDIC_DUNG_230616,NIT_87/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,3002694.67,30.03,13,2025-07-19
+2026_MEDIC_DUNG_226295,NIT_72/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,268865.28,2.69,15,2025-12-22
+2026_PHED_DUNG_774330,NIT_38/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,13739061.95,137.39,20,2025-09-04
+2026_PWD_DUNG_914237,NIT_36/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,855423.29,8.55,12,2025-09-11
+2026_WRD_DUNG_944934,NIT_46/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,171506.59,1.72,11,2025-12-05
+2026_WRD_DUNG_468977,NIT_34/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,296315.21,2.96,10,2025-11-02
+2026_UIT_DUNG_749675,NIT_15/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,799962.12,8.0,9,2026-02-23
+2026_WRD_DUNG_712232,NIT_88/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,909265.79,9.09,8,2025-04-07
+2026_FORES_DUNG_592546,NIT_22/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,2819900.48,28.2,18,2026-01-15
+2026_DLB_DUNG_619823,NIT_55/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,741715.92,7.42,7,2025-04-01
+2026_WRD_DUNG_974067,NIT_50/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,750689.5,7.51,14,2026-02-05
+2026_WRD_DUNG_246477,NIT_73/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,17089253.64,170.89,18,2025-06-25
+2026_DLB_DUNG_990216,NIT_98/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,610394.33,6.1,14,2025-06-15
+2026_WRD_DUNG_427491,NIT_45/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,77371737.85,773.72,32,2025-06-21
+2026_DLB_DUNG_720315,NIT_50/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,113634442.35,1136.34,33,2025-10-31
+2026_MEDIC_DUNG_270072,NIT_15/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,198104.78,1.98,9,2025-09-25
+2026_FORES_DUNG_945752,NIT_75/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,448993.28,4.49,7,2025-06-08
+2026_MEDIC_DUNG_608000,NIT_12/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,556402.72,5.56,10,2025-12-16
+2026_UIT_DUNG_840608,NIT_87/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,2820625.16,28.21,14,2025-04-18
+2026_PWD_DUNG_315295,NIT_73/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,2060685.15,20.61,17,2026-01-11
+2026_UIT_DUNG_236579,NIT_64/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,4187358.18,41.87,16,2026-02-06
+2026_PHED_DUNG_375672,NIT_60/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,1309665.07,13.1,13,2025-05-28
+2026_MEDIC_DUNG_124125,NIT_47/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,683771.78,6.84,11,2025-04-14
+2026_WRD_DUNG_139923,NIT_98/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,9727834.11,97.28,12,2025-08-18
+2026_MEDIC_DUNG_113382,NIT_62/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,3905066.85,39.05,15,2025-11-01
+2026_FORES_DUNG_921718,NIT_30/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,2779880.0,27.8,5,2025-05-09
+2026_PWD_DUNG_788698,NIT_56/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,5746359.6,57.46,22,2025-05-24
+2026_MEDIC_DUNG_759274,NIT_56/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,1967374.62,19.67,11,2025-11-23
+2026_DLB_DUNG_882347,NIT_43/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,154865.37,1.55,15,2025-09-07
+2026_DLB_DUNG_705492,NIT_66/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,440808.92,4.41,8,2025-10-03
+2026_FORES_DUNG_404563,NIT_51/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,905579.48,9.06,13,2025-09-01
+2026_PHED_DUNG_881684,NIT_41/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,701755.92,7.02,9,2025-12-23
+2026_MEDIC_DUNG_346310,NIT_59/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,104581867.42,1045.82,30,2026-01-29
+2026_DLB_DUNG_364394,NIT_23/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,830111.31,8.3,13,2026-01-08
+2026_UIT_DUNG_243972,NIT_80/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,3627361.85,36.27,17,2025-09-28
+2026_DLB_DUNG_200650,NIT_85/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,689264.55,6.89,14,2025-07-05
+2026_FORES_DUNG_911582,NIT_97/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,304703.05,3.05,12,2026-03-22
+2026_WRD_DUNG_970375,NIT_70/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,16637674.18,166.38,21,2025-09-10
+2026_UIT_DUNG_681157,NIT_42/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,6583903.58,65.84,15,2026-02-12
+2026_PHED_DUNG_268813,NIT_31/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,167397.02,1.67,9,2025-04-12
+2026_DLB_DUNG_782576,NIT_64/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,540490.13,5.4,15,2025-08-02
+2026_DLB_DUNG_918146,NIT_20/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,623764.63,6.24,8,2025-04-15
+2026_PHED_DUNG_998896,NIT_74/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,711163.14,7.11,9,2026-01-31
+2026_DLB_DUNG_311022,NIT_75/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,699726.31,7.0,11,2026-01-31
+2026_UIT_DUNG_786319,NIT_29/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,816644.02,8.17,7,2025-07-28
+2026_PWD_DUNG_463318,NIT_23/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,83196240.52,831.96,35,2026-02-23
+2026_UIT_DUNG_651751,NIT_20/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,3675584.89,36.76,12,2026-01-23
+2026_FORES_DUNG_777356,NIT_33/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,9960308.27,99.6,21,2025-12-28
+2026_PWD_DUNG_233635,NIT_38/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1115064.34,11.15,12,2025-09-15
+2026_PHED_DUNG_546288,NIT_16/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,182614.26,1.83,15,2026-02-22
+2026_PWD_DUNG_294130,NIT_41/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,17859257.39,178.59,23,2026-03-03
+2026_PWD_DUNG_964808,NIT_19/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,653724.33,6.54,9,2025-08-14
+2026_FORES_DUNG_308473,NIT_97/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,16124421.39,161.24,16,2025-05-01
+2026_PWD_DUNG_133278,NIT_66/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,792101.51,7.92,9,2025-04-25
+2026_FORES_DUNG_464922,NIT_16/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,177545.7,1.78,8,2025-05-05
+2026_MEDIC_DUNG_759172,NIT_69/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,6811125.18,68.11,20,2026-02-16
+2026_PWD_DUNG_187358,NIT_98/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1287053.68,12.87,15,2025-04-12
+2026_FORES_DUNG_834145,NIT_48/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,6680429.9,66.8,20,2025-05-01
+2026_UIT_DUNG_179493,NIT_24/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,18673254.24,186.73,20,2025-05-01
+2026_MEDIC_DUNG_290531,NIT_60/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,524021.22,5.24,7,2026-01-27
+2026_DLB_DUNG_358247,NIT_81/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,156622.47,1.57,8,2025-08-24
+2026_MEDIC_DUNG_352303,NIT_73/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,878929.08,8.79,8,2025-04-17
+2026_WRD_DUNG_487841,NIT_24/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,2186218.0,21.86,18,2025-12-13
+2026_UIT_DUNG_226763,NIT_73/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,2242732.35,22.43,10,2026-01-15
+2026_WRD_DUNG_682527,NIT_39/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,785018.96,7.85,10,2025-09-21
+2026_MEDIC_DUNG_168600,NIT_30/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,2803388.57,28.03,16,2025-07-04
+2026_WRD_DUNG_595983,NIT_88/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,4727063.27,47.27,15,2025-07-03
+2026_UIT_DUNG_340705,NIT_97/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,304330.51,3.04,11,2025-11-30
+2026_WRD_DUNG_114163,NIT_83/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,16938335.59,169.38,20,2025-11-02
+2026_PHED_DUNG_778096,NIT_58/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,4537692.78,45.38,10,2026-02-17
+2026_FORES_DUNG_801989,NIT_57/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,73217722.09,732.18,31,2026-01-05
+2026_WRD_DUNG_467245,NIT_67/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,530126.74,5.3,7,2025-11-13
+2026_UIT_DUNG_573233,NIT_56/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,527885.66,5.28,13,2025-06-07
+2026_DLB_DUNG_174782,NIT_17/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,830721.78,8.31,8,2025-04-18
+2026_WRD_DUNG_280926,NIT_14/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,349909.82,3.5,12,2025-07-29
+2026_MEDIC_DUNG_509495,NIT_77/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,35250664.17,352.51,37,2025-12-31
+2026_PWD_DUNG_109818,NIT_69/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,894847.34,8.95,15,2025-10-14
+2026_PWD_DUNG_549708,NIT_87/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1052523.82,10.53,15,2025-08-04
+2026_WRD_DUNG_848821,NIT_69/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,411813.65,4.12,14,2025-08-31
+2026_MEDIC_DUNG_204287,NIT_43/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,389318.13,3.89,11,2025-08-22
+2026_DLB_DUNG_881497,NIT_87/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,284514.81,2.85,13,2025-07-20
+2026_MEDIC_DUNG_460517,NIT_22/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,3244196.79,32.44,11,2025-07-26
+2026_MEDIC_DUNG_344544,NIT_34/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,2097370.52,20.97,14,2025-05-11
+2026_WRD_DUNG_453555,NIT_33/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,609063.24,6.09,9,2025-11-23
+2026_DLB_DUNG_593867,NIT_96/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,11463324.56,114.63,21,2025-05-31
+2026_UIT_DUNG_511335,NIT_12/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,196755.08,1.97,8,2025-08-03
+2026_UIT_DUNG_922147,NIT_96/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,650500.34,6.51,8,2026-01-02
+2026_DLB_DUNG_790422,NIT_87/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,778314.9,7.78,15,2026-02-23
+2026_UIT_DUNG_707203,NIT_31/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,607298.71,6.07,7,2025-11-17
+2026_DLB_DUNG_247611,NIT_50/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,12848218.22,128.48,3,2026-02-05
+2026_FORES_DUNG_105605,NIT_63/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,905366.23,9.05,7,2026-01-25
+2026_UIT_DUNG_385092,NIT_62/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,713830.87,7.14,7,2025-09-19
+2026_UIT_DUNG_101957,NIT_63/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,563520.28,5.64,9,2025-10-04
+2026_FORES_DUNG_487587,NIT_30/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,4281192.73,42.81,17,2025-07-11
+2026_DLB_DUNG_769208,NIT_81/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,360661.55,3.61,7,2025-08-13
+2026_PWD_DUNG_709751,NIT_13/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1700091.47,17.0,11,2025-10-28
+2026_FORES_DUNG_914246,NIT_23/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,546653.98,5.47,10,2025-12-12
+2026_MEDIC_DUNG_763860,NIT_66/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,758985.34,7.59,7,2025-09-16
+2026_PHED_DUNG_949214,NIT_34/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,15689881.34,156.9,12,2025-06-22
+2026_WRD_DUNG_230354,NIT_77/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,936137.44,9.36,7,2025-08-11
+2026_MEDIC_DUNG_490818,NIT_50/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,5831510.72,58.32,22,2025-08-29
+2026_FORES_DUNG_383840,NIT_72/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,246208.02,2.46,13,2025-10-01
+2026_PWD_DUNG_328847,NIT_70/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,6567430.96,65.67,15,2025-04-06
+2026_DLB_DUNG_369118,NIT_81/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,561936.08,5.62,9,2025-11-10
+2026_MEDIC_DUNG_251765,NIT_17/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,1357063.51,13.57,11,2025-09-11
+2026_UIT_DUNG_250240,NIT_61/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,899162.74,8.99,14,2026-03-04
+2026_FORES_DUNG_915530,NIT_64/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,698201.02,6.98,14,2025-09-08
+2026_FORES_DUNG_584913,NIT_23/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,734010.44,7.34,14,2025-06-12
+2026_WRD_DUNG_116477,NIT_13/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,498979.82,4.99,10,2025-11-03
+2026_WRD_DUNG_926681,NIT_75/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,508633.05,5.09,11,2026-01-27
+2026_FORES_DUNG_255199,NIT_94/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,318438.36,3.18,8,2025-05-27
+2026_PWD_DUNG_763557,NIT_81/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1344090.52,13.44,13,2025-05-11
+2026_PHED_DUNG_445997,NIT_68/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,1316002.68,13.16,13,2026-03-21
+2026_UIT_DUNG_529758,NIT_64/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,3746982.46,37.47,16,2025-10-02
+2026_MEDIC_DUNG_631894,NIT_20/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,3021838.38,30.22,13,2025-11-25
+2026_UIT_DUNG_496040,NIT_12/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,486763.33,4.87,14,2025-05-10
+2026_PHED_DUNG_472625,NIT_53/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,701129.31,7.01,12,2026-01-02
+2026_WRD_DUNG_701554,NIT_35/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,637541.65,6.38,14,2025-12-31
+2026_PHED_DUNG_976606,NIT_63/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,8871341.37,88.71,11,2025-07-10
+2026_WRD_DUNG_793587,NIT_44/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,395503.34,3.96,9,2025-12-21
+2026_MEDIC_DUNG_451154,NIT_98/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,931394.42,9.31,8,2025-04-29
+2026_MEDIC_DUNG_578892,NIT_67/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,1455961.4,14.56,16,2025-10-11
+2026_FORES_DUNG_815146,NIT_41/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,400757.82,4.01,10,2025-12-16
+2026_PWD_DUNG_665147,NIT_64/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,15698126.67,156.98,22,2025-07-14
+2026_MEDIC_DUNG_869640,NIT_97/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,10620902.16,106.21,15,2025-05-25
+2026_PWD_DUNG_238611,NIT_60/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,799955.12,8.0,15,2026-02-06
+2026_DLB_DUNG_779654,NIT_27/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,256734.16,2.57,14,2025-10-26
+2026_PWD_DUNG_740482,NIT_96/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,325277.49,3.25,14,2025-11-29
+2026_FORES_DUNG_814033,NIT_58/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,1213610.03,12.14,10,2026-02-14
+2026_MEDIC_DUNG_548512,NIT_26/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,358855.15,3.59,8,2025-09-08
+2026_UIT_DUNG_616364,NIT_23/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,3093703.79,30.94,16,2025-09-19
+2026_PHED_DUNG_289110,NIT_68/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,1488519.99,14.89,6,2025-10-27
+2026_DLB_DUNG_982576,NIT_65/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,435871.87,4.36,15,2025-08-07
+2026_PWD_DUNG_397231,NIT_33/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,659069.26,6.59,8,2026-02-25
+2026_PWD_DUNG_325468,NIT_66/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,2051356.71,20.51,13,2025-11-04
+2026_WRD_DUNG_480760,NIT_63/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,546577.06,5.47,8,2026-03-26
+2026_PHED_DUNG_413940,NIT_87/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,12821435.92,128.21,19,2025-05-09
+2026_WRD_DUNG_468847,NIT_70/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,813272.05,8.13,9,2025-06-02
+2026_FORES_DUNG_360084,NIT_18/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,3658042.61,36.58,13,2026-01-24
+2026_DLB_DUNG_650996,NIT_40/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,16276918.78,162.77,17,2025-12-13
+2026_PHED_DUNG_704775,NIT_67/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,11175687.92,111.76,15,2025-12-10
+2026_UIT_DUNG_188338,NIT_92/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,211401.58,2.11,7,2026-02-23
+2026_FORES_DUNG_338560,NIT_34/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,475438.51,4.75,11,2026-02-06
+2026_WRD_DUNG_734146,NIT_28/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,2904671.78,29.05,17,2025-12-03
+2026_WRD_DUNG_410771,NIT_72/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,300024.03,3.0,12,2025-11-18
+2026_PWD_DUNG_700089,NIT_52/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,911784.64,9.12,13,2026-01-02
+2026_WRD_DUNG_598721,NIT_30/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,18879408.5,188.79,16,2025-06-29
+2026_MEDIC_DUNG_197276,NIT_71/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,549928.6,5.5,13,2026-01-25
+2026_MEDIC_DUNG_983127,NIT_46/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,367350.02,3.67,15,2025-07-06
+2026_MEDIC_DUNG_496905,NIT_37/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,902081.04,9.02,14,2025-04-21
+2026_PWD_DUNG_425350,NIT_31/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,3243467.33,32.43,15,2025-09-12
+2026_FORES_DUNG_844460,NIT_44/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,4767141.09,47.67,11,2025-06-24
+2026_PWD_DUNG_138188,NIT_66/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,335561.95,3.36,13,2026-01-10
+2026_PWD_DUNG_662848,NIT_15/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,454513.36,4.55,11,2025-06-12
+2026_PHED_DUNG_748725,NIT_91/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,630268.9,6.3,13,2026-03-22
+2026_DLB_DUNG_435461,NIT_35/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,1526864.49,15.27,18,2025-07-23
+2026_MEDIC_DUNG_206046,NIT_80/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,534336.03,5.34,7,2025-10-03
+2026_MEDIC_DUNG_655147,NIT_48/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,18191003.11,181.91,19,2025-12-19
+2026_PHED_DUNG_389050,NIT_63/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,810775.68,8.11,8,2025-05-05
+2026_UIT_DUNG_654687,NIT_76/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,21397593.18,213.98,37,2025-04-24
+2026_FORES_DUNG_118861,NIT_64/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,235658.1,2.36,10,2026-01-02
+2026_UIT_DUNG_378189,NIT_72/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,1944509.48,19.45,16,2025-08-04
+2026_DLB_DUNG_990868,NIT_10/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,894231.68,8.94,8,2026-01-13
+2026_WRD_DUNG_138397,NIT_81/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,252172.35,2.52,13,2025-08-06
+2026_WRD_DUNG_148254,NIT_53/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,9090376.89,90.9,20,2026-02-09
+2026_PWD_DUNG_891991,NIT_24/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,11769363.73,117.69,15,2026-03-24
+2026_PWD_DUNG_175676,NIT_68/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,442880.39,4.43,10,2025-09-14
+2026_DLB_DUNG_674826,NIT_24/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2131950.68,21.32,17,2025-12-05
+2026_PWD_DUNG_179378,NIT_56/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1948994.24,19.49,18,2025-12-10
+2026_MEDIC_DUNG_241725,NIT_94/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,12635869.41,126.36,16,2025-06-18
+2026_UIT_DUNG_352502,NIT_74/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,687683.63,6.88,8,2026-03-02
+2026_MEDIC_DUNG_614136,NIT_45/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,862713.25,8.63,7,2025-12-10
+2026_WRD_DUNG_334309,NIT_28/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,459332.12,4.59,11,2025-07-18
+2026_PHED_DUNG_334551,NIT_94/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,539081.41,5.39,10,2025-09-11
+2026_DLB_DUNG_596912,NIT_27/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,13380994.84,133.81,22,2025-06-28
+2026_UIT_DUNG_245131,NIT_30/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,872246.01,8.72,14,2025-06-16
+2026_MEDIC_DUNG_359451,NIT_92/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,345976.63,3.46,10,2025-06-21
+2026_FORES_DUNG_497171,NIT_15/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,3949643.68,39.5,13,2025-07-02
+2026_PHED_DUNG_257233,NIT_94/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,2720629.6,27.21,17,2026-02-28
+2026_WRD_DUNG_653302,NIT_37/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,394163.62,3.94,8,2025-11-20
+2026_PHED_DUNG_126559,NIT_89/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,800195.28,8.0,8,2025-12-20
+2026_UIT_DUNG_187458,NIT_83/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,91257216.38,912.57,32,2025-08-22
+2026_PWD_DUNG_951962,NIT_31/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,629647.48,6.3,12,2026-02-03
+2026_DLB_DUNG_488499,NIT_30/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,1565119.21,15.65,13,2025-06-16
+2026_PWD_DUNG_897741,NIT_89/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1876402.08,18.76,14,2026-02-11
+2026_MEDIC_DUNG_137838,NIT_13/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,807045.54,8.07,10,2025-10-26
+2026_DLB_DUNG_560143,NIT_78/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,10274907.16,102.75,8,2025-09-23
+2026_WRD_DUNG_907495,NIT_86/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,2218802.98,22.19,14,2025-06-12
+2026_UIT_DUNG_729625,NIT_92/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,520613.43,5.21,9,2025-11-06
+2026_MEDIC_DUNG_297297,NIT_30/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,4020505.53,40.21,14,2025-12-29
+2026_PHED_DUNG_312658,NIT_72/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,3575314.07,35.75,17,2026-02-21
+2026_FORES_DUNG_990822,NIT_38/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,2897186.65,28.97,13,2026-01-30
+2026_PHED_DUNG_180053,NIT_23/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,17136874.07,171.37,16,2025-06-14
+2026_UIT_DUNG_540519,NIT_42/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,427076.92,4.27,13,2025-11-14
+2026_WRD_DUNG_980031,NIT_66/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,177937.62,1.78,14,2025-05-18
+2026_WRD_DUNG_752296,NIT_92/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,219482.21,2.19,10,2025-07-25
+2026_PHED_DUNG_483836,NIT_60/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,283516.59,2.84,12,2025-09-20
+2026_PWD_DUNG_228339,NIT_36/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,418182.78,4.18,8,2025-04-29
+2026_FORES_DUNG_865824,NIT_41/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,15256116.95,152.56,6,2025-11-12
+2026_PHED_DUNG_961702,NIT_94/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,1570765.55,15.71,12,2025-06-07
+2026_PWD_DUNG_187054,NIT_68/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1906922.98,19.07,12,2025-06-04
+2026_FORES_DUNG_550989,NIT_15/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,4656408.63,46.56,16,2026-02-17
+2026_UIT_DUNG_683307,NIT_99/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,15488925.14,154.89,22,2025-04-09
+2026_MEDIC_DUNG_752717,NIT_62/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,795341.11,7.95,15,2025-10-26
+2026_UIT_DUNG_339442,NIT_86/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,15537278.8,155.37,21,2026-01-13
+2026_PWD_DUNG_704154,NIT_31/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,649988.74,6.5,8,2025-05-15
+2026_PWD_DUNG_234960,NIT_89/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,18114645.77,181.15,23,2025-07-07
+2026_WRD_DUNG_114911,NIT_82/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,1968078.86,19.68,15,2025-07-07
+2026_PHED_DUNG_747696,NIT_59/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,635283.16,6.35,13,2025-07-07
+2026_UIT_DUNG_820636,NIT_94/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,1520717.68,15.21,11,2025-08-03
+2026_FORES_DUNG_892580,NIT_11/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,828010.06,8.28,10,2025-07-13
+2026_PHED_DUNG_348670,NIT_86/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,702887.8,7.03,8,2025-05-21
+2026_FORES_DUNG_685198,NIT_58/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,2475611.31,24.76,11,2025-05-08
+2026_WRD_DUNG_197665,NIT_59/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,384743.18,3.85,11,2025-10-29
+2026_UIT_DUNG_449413,NIT_87/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,849961.81,8.5,13,2025-10-09
+2026_MEDIC_DUNG_595348,NIT_81/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,35982543.81,359.83,30,2025-04-02
+2026_WRD_DUNG_577441,NIT_10/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,1796659.46,17.97,10,2025-04-07
+2026_UIT_DUNG_653901,NIT_74/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,15856872.48,158.57,18,2026-01-14
+2026_PWD_DUNG_310984,NIT_98/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,4745680.78,47.46,13,2025-05-31
+2026_UIT_DUNG_122496,NIT_56/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,320133.42,3.2,10,2025-05-22
+2026_UIT_DUNG_268798,NIT_89/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,712744.21,7.13,11,2025-06-22
+2026_MEDIC_DUNG_973514,NIT_28/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,1943209.04,19.43,16,2025-04-18
+2026_UIT_DUNG_189599,NIT_12/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,86716997.44,867.17,38,2026-02-14
+2026_FORES_DUNG_316867,NIT_78/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,287134.46,2.87,8,2025-04-21
+2026_PWD_DUNG_479472,NIT_22/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,5278464.53,52.78,22,2025-12-20
+2026_WRD_DUNG_690736,NIT_71/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,14532908.8,145.33,17,2026-03-25
+2026_PWD_DUNG_709869,NIT_66/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,3574511.3,35.75,16,2025-11-05
+2026_FORES_DUNG_964051,NIT_40/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,6615301.35,66.15,12,2025-09-06
+2026_WRD_DUNG_310909,NIT_19/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,627463.39,6.27,11,2025-06-11
+2026_PHED_DUNG_325140,NIT_59/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,53376063.79,533.76,31,2025-08-11
+2026_UIT_DUNG_604989,NIT_98/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,1719927.99,17.2,10,2025-12-03
+2026_DLB_DUNG_950595,NIT_29/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,306838.94,3.07,14,2025-10-08
+2026_PWD_DUNG_709817,NIT_94/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,8970782.32,89.71,19,2025-12-20
+2026_PHED_DUNG_187210,NIT_73/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,897178.39,8.97,11,2026-01-23
+2026_UIT_DUNG_324541,NIT_63/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,157266.98,1.57,13,2025-05-12
+2026_DLB_DUNG_849558,NIT_75/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2829077.97,28.29,16,2025-07-24
+2026_FORES_DUNG_132453,NIT_72/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,310080.64,3.1,12,2025-12-03
+2026_WRD_DUNG_671735,NIT_43/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,574511.85,5.75,8,2025-11-14
+2026_UIT_DUNG_134237,NIT_23/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,16548765.14,165.49,23,2025-05-23
+2026_PWD_DUNG_250571,NIT_82/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,407036.86,4.07,15,2025-06-04
+2026_PHED_DUNG_805117,NIT_36/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,895883.65,8.96,12,2025-12-28
+2026_DLB_DUNG_242900,NIT_37/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,368853.74,3.69,9,2025-07-26
+2026_UIT_DUNG_405885,NIT_26/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,265333.44,2.65,7,2025-06-02
+2026_WRD_DUNG_766791,NIT_45/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,4623862.01,46.24,10,2025-10-03
+2026_DLB_DUNG_962422,NIT_59/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,3990360.72,39.9,17,2025-11-02
+2026_PWD_DUNG_863357,NIT_61/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,31695019.03,316.95,31,2025-12-05
+2026_WRD_DUNG_349664,NIT_48/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,1696785.59,16.97,14,2025-07-30
+2026_MEDIC_DUNG_662599,NIT_75/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,895547.52,8.96,7,2025-08-06
+2026_FORES_DUNG_205147,NIT_65/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,13544506.23,135.45,23,2025-04-06
+2026_UIT_DUNG_257295,NIT_60/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,3543362.86,35.43,17,2025-08-28
+2026_FORES_DUNG_686549,NIT_54/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,1466036.37,14.66,17,2025-11-04
+2026_FORES_DUNG_848122,NIT_99/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,2651347.71,26.51,17,2026-03-17
+2026_DLB_DUNG_773337,NIT_80/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,9698707.0,96.99,21,2025-09-02
+2026_UIT_DUNG_548609,NIT_82/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,1641009.53,16.41,10,2025-07-03
+2026_MEDIC_DUNG_267827,NIT_70/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,823343.17,8.23,11,2025-10-28
+2026_MEDIC_DUNG_889090,NIT_45/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,4775330.4,47.75,15,2025-08-27
+2026_UIT_DUNG_428656,NIT_69/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,453237.08,4.53,14,2026-03-09
+2026_MEDIC_DUNG_279707,NIT_15/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,188254.24,1.88,13,2025-12-18
+2026_PHED_DUNG_479634,NIT_30/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,926492.99,9.26,15,2025-05-10
+2026_PHED_DUNG_608625,NIT_26/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,690245.23,6.9,7,2025-08-26
+2026_DLB_DUNG_884083,NIT_56/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,331836.95,3.32,9,2025-05-05
+2026_FORES_DUNG_616426,NIT_91/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,199425.9,1.99,14,2025-06-08
+2026_DLB_DUNG_933891,NIT_73/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2754569.47,27.55,10,2025-04-25
+2026_PHED_DUNG_856508,NIT_16/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,7853942.96,78.54,22,2025-11-24
+2026_MEDIC_DUNG_980762,NIT_12/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,92505946.78,925.06,31,2025-10-02
+2026_PHED_DUNG_289257,NIT_41/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,552094.3,5.52,12,2025-10-07
+2026_WRD_DUNG_110279,NIT_64/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,4176585.23,41.77,18,2025-06-03
+2026_PWD_DUNG_502880,NIT_35/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,6177497.59,61.77,23,2025-04-28
+2026_DLB_DUNG_507887,NIT_67/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,863955.51,8.64,13,2025-06-11
+2026_FORES_DUNG_741778,NIT_97/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,4662328.16,46.62,16,2025-09-13
+2026_PWD_DUNG_518409,NIT_54/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1370185.69,13.7,15,2025-08-07
+2026_DLB_DUNG_982111,NIT_35/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,535981.8,5.36,8,2025-09-03
+2026_PWD_DUNG_480969,NIT_28/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,8451007.72,84.51,23,2025-12-09
+2026_UIT_DUNG_162351,NIT_13/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,5286070.46,52.86,20,2025-04-29
+2026_DLB_DUNG_768047,NIT_86/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,314115.31,3.14,14,2025-10-22
+2026_PHED_DUNG_800750,NIT_36/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,561966.14,5.62,9,2025-07-09
+2026_WRD_DUNG_971725,NIT_48/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,906690.14,9.07,10,2025-11-07
+2026_PWD_DUNG_511893,NIT_29/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,154566.49,1.55,13,2025-04-29
+2026_PHED_DUNG_768944,NIT_14/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,653967.1,6.54,10,2025-11-27
+2026_PHED_DUNG_514822,NIT_63/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,811837.96,8.12,8,2025-11-09
+2026_UIT_DUNG_738513,NIT_92/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,503781.5,5.04,7,2025-08-16
+2026_DLB_DUNG_775279,NIT_65/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,5500922.42,55.01,18,2025-05-04
+2026_MEDIC_DUNG_707443,NIT_45/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,608945.27,6.09,11,2025-08-16
+2026_MEDIC_DUNG_844090,NIT_87/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,204016.31,2.04,8,2025-10-04
+2026_MEDIC_DUNG_145767,NIT_33/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,782268.44,7.82,15,2025-06-17
+2026_DLB_DUNG_787848,NIT_32/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,261519.22,2.62,12,2025-11-15
+2026_WRD_DUNG_916227,NIT_23/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,645976.18,6.46,12,2026-02-19
+2026_UIT_DUNG_145581,NIT_76/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,656905.27,6.57,13,2025-10-14
+2026_PWD_DUNG_343412,NIT_63/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,336351.42,3.36,5,2025-10-12
+2026_PWD_DUNG_536250,NIT_82/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,8211512.86,82.12,18,2025-08-06
+2026_DLB_DUNG_310480,NIT_47/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,52963143.05,529.63,34,2026-03-07
+2026_PHED_DUNG_298037,NIT_32/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,742552.32,7.43,11,2025-08-15
+2026_UIT_DUNG_492680,NIT_75/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,226259.45,2.26,11,2025-10-30
+2026_PWD_DUNG_929070,NIT_52/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,4333846.55,43.34,16,2026-01-08
+2026_PWD_DUNG_443780,NIT_88/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,1459918.47,14.6,14,2026-02-28
+2026_UIT_DUNG_119100,NIT_90/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,539376.05,5.39,11,2026-01-18
+2026_PWD_DUNG_560188,NIT_93/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,14780089.97,147.8,21,2025-04-09
+2026_FORES_DUNG_869420,NIT_79/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,4715234.34,47.15,15,2025-11-12
+2026_UIT_DUNG_165087,NIT_60/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,174519.47,1.75,15,2025-06-24
+2026_PHED_DUNG_378441,NIT_80/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,3241872.01,32.42,11,2025-09-07
+2026_DLB_DUNG_153922,NIT_62/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,69331368.9,693.31,30,2025-04-10
+2026_UIT_DUNG_806743,NIT_94/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,1120827.51,11.21,17,2026-02-12
+2026_DLB_DUNG_909297,NIT_98/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,487142.79,4.87,14,2025-04-04
+2026_FORES_DUNG_425353,NIT_98/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,595421.54,5.95,8,2025-10-24
+2026_WRD_DUNG_517709,NIT_18/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,263365.84,2.63,9,2025-09-18
+2026_DLB_DUNG_710290,NIT_54/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,201399.82,2.01,8,2025-11-03
+2026_UIT_DUNG_940219,NIT_27/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,2932129.72,29.32,12,2025-10-13
+2026_PWD_DUNG_924956,NIT_45/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,7670829.82,76.71,19,2025-12-12
+2026_WRD_DUNG_503208,NIT_85/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,2875058.34,28.75,11,2025-07-17
+2026_DLB_DUNG_653185,NIT_19/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,81094950.51,810.95,34,2025-08-15
+2026_FORES_DUNG_494437,NIT_39/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,876539.55,8.77,7,2025-04-22
+2026_FORES_DUNG_768865,NIT_93/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,7049797.82,70.5,17,2026-02-07
+2026_PWD_DUNG_568298,NIT_23/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,2049820.15,20.5,11,2025-07-02
+2026_MEDIC_DUNG_142648,NIT_54/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,567634.48,5.68,15,2025-08-28
+2026_PWD_DUNG_711830,NIT_35/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,4636649.32,46.37,12,2025-10-10
+2026_FORES_DUNG_996545,NIT_99/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,318324.48,3.18,11,2026-01-25
+2026_WRD_DUNG_544608,NIT_13/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,2798033.26,27.98,18,2025-06-21
+2026_MEDIC_DUNG_454003,NIT_26/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,236780.0,2.37,10,2026-01-04
+2026_WRD_DUNG_271671,NIT_27/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,282899.17,2.83,8,2025-05-04
+2026_WRD_DUNG_294205,NIT_38/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,1347439.66,13.47,14,2025-12-04
+2026_UIT_DUNG_710294,NIT_98/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,2745448.36,27.45,10,2025-08-10
+2026_UIT_DUNG_754164,NIT_90/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,699500.16,7.0,15,2026-03-03
+2026_PHED_DUNG_181956,NIT_32/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,163841.0,1.64,12,2025-07-27
+2026_MEDIC_DUNG_458681,NIT_49/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,345597.55,3.46,15,2025-08-20
+2026_WRD_DUNG_982593,NIT_92/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,1337030.53,13.37,13,2025-12-31
+2026_DLB_DUNG_830049,NIT_76/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,17906311.59,179.06,22,2025-08-28
+2026_MEDIC_DUNG_184067,NIT_43/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,18488427.95,184.88,19,2025-07-01
+2026_DLB_DUNG_327434,NIT_10/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,851687.07,8.52,7,2025-05-22
+2026_MEDIC_DUNG_688750,NIT_72/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,1278124.58,12.78,18,2025-07-10
+2026_PHED_DUNG_887208,NIT_83/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,268213.53,2.68,8,2025-05-29
+2026_DLB_DUNG_281204,NIT_75/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,4541137.05,45.41,16,2026-01-02
+2026_UIT_DUNG_136110,NIT_69/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,343524.55,3.44,15,2025-05-24
+2026_UIT_DUNG_702124,NIT_69/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,856428.34,8.56,7,2025-11-19
+2026_DLB_DUNG_257611,NIT_19/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2938444.12,29.38,10,2025-11-07
+2026_DLB_DUNG_467218,NIT_92/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,194721.21,1.95,12,2025-10-07
+2026_PHED_DUNG_393140,NIT_12/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,1238160.73,12.38,17,2025-05-13
+2026_DLB_DUNG_172008,NIT_68/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,7060292.24,70.6,20,2025-08-11
+2026_PHED_DUNG_812088,NIT_21/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,708879.96,7.09,13,2025-05-19
+2026_UIT_DUNG_177141,NIT_79/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,475728.26,4.76,11,2025-06-28
+2026_FORES_DUNG_221136,NIT_74/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,10307495.3,103.07,15,2025-04-13
+2026_WRD_DUNG_808873,NIT_45/DUN/2025-26,Water Resources Department (Dungarpur Circle),Dungarpur,Udaipur Division,3323463.28,33.23,14,2025-10-29
+2026_UIT_DUNG_678302,NIT_89/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,524533.05,5.25,13,2025-10-28
+2026_UIT_DUNG_230713,NIT_24/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,578390.76,5.78,7,2025-05-18
+2026_UIT_DUNG_121325,NIT_83/DUN/2025-26,Municipal Council Dungarpur,Dungarpur,Udaipur Division,1638277.87,16.38,17,2025-07-28
+2026_DLB_DUNG_678359,NIT_99/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,2687503.12,26.88,17,2025-05-30
+2026_MEDIC_DUNG_452285,NIT_52/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,536026.29,5.36,10,2025-08-14
+2026_PWD_DUNG_784877,NIT_39/DUN/2025-26,Public Works Department (Dungarpur Circle),Dungarpur,Udaipur Division,587125.26,5.87,8,2025-11-24
+2026_DLB_DUNG_620635,NIT_96/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,17748309.85,177.48,18,2026-02-27
+2026_DLB_DUNG_255854,NIT_72/DUN/2025-26,Directorate of Local Bodies (Dungarpur Circle),Dungarpur,Udaipur Division,1688677.84,16.89,10,2025-10-21
+2026_PHED_DUNG_461003,NIT_88/DUN/2025-26,Public Health Engineering Department (Dungarpur Circle),Dungarpur,Udaipur Division,89710724.37,897.11,35,2025-05-09
+2026_FORES_DUNG_148768,NIT_13/DUN/2025-26,Forest Department (Dungarpur Circle),Dungarpur,Udaipur Division,3321483.4,33.21,11,2025-06-29
+2026_MEDIC_DUNG_718415,NIT_77/DUN/2025-26,Department of Medical Education (Dungarpur Circle),Dungarpur,Udaipur Division,38992036.58,389.92,36,2025-05-19
