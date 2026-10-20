@@ -128,10 +128,8 @@ def calculate_rule_43(amount: float, days: float):
     return mandated, violation, deficit, pri
 
 def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str):
-    """Eliminates 'Nan' by resolving departmental abbreviations from tender IDs."""
     tid = str(tender_id).upper()
     
-    # 1. Circle mapping
     clean_dist = str(raw_district).strip().capitalize()
     if clean_dist.lower() in ["nan", "none", "", "data", "districts", "all rajasthan"]:
         if "JDAJP" in tid or "PHCJA" in tid or "JAIP" in tid:
@@ -147,7 +145,6 @@ def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str
         else:
             clean_dist = "Jaipur"
 
-    # 2. Administrative Authority mapping
     clean_div = str(raw_division).strip()
     if clean_div.lower() in ["nan", "none", "", "nan division", "division"]:
         if "JDAJP" in tid:
@@ -211,7 +208,6 @@ def load_all_district_data():
                 
                 mandated, is_viol, deficit, pri = calculate_rule_43(amt, days)
                 
-                # Assign quarter safely
                 q_assigned = None
                 if date_col and pd.notna(r.get(date_col)):
                     dt = pd.to_datetime(r[date_col], errors='coerce')
@@ -225,7 +221,6 @@ def load_all_district_data():
                 if not q_assigned:
                     q_assigned = q_labels[abs(hash(tid)) % 4]
                 
-                # Resolve authority and circle cleanly
                 dist_name, div_name = infer_entity_and_circle(
                     tid, 
                     r.get('district', filename), 
@@ -448,7 +443,7 @@ with tab1:
         "text/csv"
     )
 
-    # Authority Exposure Ranking (No more "Nan Division")
+    # Authority Exposure Ranking
     st.markdown("---")
     st.subheader("🏛️ Administrative Authority Exposure Ranking")
     st.caption("Identifying systemic non-compliance clusters across state procuring divisions.")
@@ -626,10 +621,17 @@ with tab3:
             st.markdown("##### 2×2 Contingency Matrix")
             st.dataframe(ct, use_container_width=True)
             
-            chi2, p_val, dof, ex = stats.chi2_contingency(ct)
-            st.markdown(f"**Pearson's Chi-Square:** $\\chi^2 = {chi2:.2f}$ | $p = {p_val:.2e}$")
-            if p_val < 0.001:
-                st.success("✅ Null Hypothesis Rejected (p < 0.001). Selective compression on high-value public works is statistically systemic, not random.")
+            # Safe 2x2 Chi-Square calculation
+            try:
+                if (ct.sum(axis=0) > 0).all() and (ct.sum(axis=1) > 0).sum() >= 2:
+                    chi2, p_val, dof, ex = stats.chi2_contingency(ct)
+                    st.markdown(f"**Pearson's Chi-Square:** $\\chi^2 = {chi2:.2f}$ | $p = {p_val:.2e}$")
+                    if p_val < 0.001:
+                        st.success("✅ Null Hypothesis Rejected (p < 0.001). Selective compression on high-value public works is statistically systemic, not random.")
+                else:
+                    st.info("Chi-Square test omitted: Selected circle has zero variance (all notices are compliant).")
+            except Exception:
+                st.info("Statistical test omitted due to zero expected cell counts in this subset.")
 
         with col_stat2:
             st.markdown("##### Macro-Fiscal Loss Model (OECD / World Bank Benchmark)")
@@ -642,7 +644,7 @@ with tab3:
             st.write("• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
             st.caption("Based on 15% median competitive discount achieved through non-collusive open bidding windows.")
 
-        # March Rush Temporal Analysis
+        # March Rush Temporal Analysis (Guarded Against Zero-Variance Crashes)
         st.markdown("---")
         st.subheader("Temporal Confounder Control: The 'March Rush' Analysis")
         st.caption("Testing whether notice compression is driven by fiscal year-end budget exhaustion (March 31).")
@@ -659,15 +661,28 @@ with tab3:
             st.dataframe(ct_q, use_container_width=True)
 
         calc_q = ct_q[['Compliant', 'Violation']]
-        if calc_q.sum().sum() > 0 and len(calc_q) > 1:
-            chi2_q, p_val_q, _, _ = stats.chi2_contingency(calc_q)
-            with t_col2:
-                st.metric("Temporal Chi-Square (χ²)", f"{chi2_q:.2f}")
-                st.metric("Temporal p-Value", f"{p_val_q:.4f}")
-                if p_val_q > 0.05:
-                    st.info("Finding: No statistically significant clustering in Q4 (p > 0.05). Timeline compression occurs year-round and is not an isolated 'March Rush' artifact.")
-                else:
-                    st.warning("Finding: Statistically significant quarterly variance detected across fiscal cycles.")
+        active_quarters = calc_q[calc_q.sum(axis=1) > 0]
+        
+        with t_col2:
+            has_temporal_variance = (
+                len(active_quarters) >= 2 and 
+                (active_quarters['Compliant'].sum() > 0) and 
+                (active_quarters['Violation'].sum() > 0)
+            )
+            
+            if has_temporal_variance:
+                try:
+                    chi2_q, p_val_q, _, _ = stats.chi2_contingency(active_quarters)
+                    st.metric("Temporal Chi-Square (χ²)", f"{chi2_q:.2f}")
+                    st.metric("Temporal p-Value", f"{p_val_q:.4f}")
+                    if p_val_q > 0.05:
+                        st.info("Finding: No statistically significant clustering in Q4 (p > 0.05). Timeline compression occurs year-round and is not an isolated 'March Rush' artifact.")
+                    else:
+                        st.warning("Finding: Statistically significant quarterly variance detected across fiscal cycles.")
+                except ValueError:
+                    st.info("Temporal Chi-Square test omitted: Expected cell frequencies contain zero in this subset.")
+            else:
+                st.info("Temporal Chi-Square test requires notices in both Compliant and Violation states across at least two quarters to calculate variance.")
 
         q_rates = df_filtered.groupby('fiscal_quarter')['is_violation'].mean().reset_index()
         q_rates['q_sort'] = q_rates['fiscal_quarter'].apply(lambda x: q_order.index(x) if x in q_order else 99)
