@@ -104,7 +104,7 @@ class RFC6962MerkleTree:
         return current.hex() == root_hex
 
 # -----------------------------------------------------------------------------
-# 3. STATUTORY RULE 43 LOGIC & ROBUST DATA INGESTION
+# 3. STATUTORY RULE 43 LOGIC & REFINED DATA INGESTION
 # -----------------------------------------------------------------------------
 def calculate_rule_43(amount: float, days: float):
     if amount > 20000000.0:
@@ -126,6 +126,52 @@ def calculate_rule_43(amount: float, days: float):
     else:
         pri = 0.0
     return mandated, violation, deficit, pri
+
+def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str):
+    """Eliminates 'Nan' by resolving departmental abbreviations from tender IDs."""
+    tid = str(tender_id).upper()
+    
+    # 1. Circle mapping
+    clean_dist = str(raw_district).strip().capitalize()
+    if clean_dist.lower() in ["nan", "none", "", "data", "districts", "all rajasthan"]:
+        if "JDAJP" in tid or "PHCJA" in tid or "JAIP" in tid:
+            clean_dist = "Jaipur"
+        elif "UITBR" in tid or "BIK" in tid or "BR_" in tid:
+            clean_dist = "Bikaner"
+        elif "UITUD" in tid or "UDAI" in tid:
+            clean_dist = "Udaipur"
+        elif "JODH" in tid or "JD_" in tid:
+            clean_dist = "Jodhpur"
+        elif "KOTA" in tid or "KT_" in tid:
+            clean_dist = "Kota"
+        else:
+            clean_dist = "Jaipur"
+
+    # 2. Administrative Authority mapping
+    clean_div = str(raw_division).strip()
+    if clean_div.lower() in ["nan", "none", "", "nan division", "division"]:
+        if "JDAJP" in tid:
+            clean_div = "Jaipur Development Authority (JDA)"
+        elif "UITBR" in tid:
+            clean_div = "Urban Improvement Trust (UIT Bikaner)"
+        elif "UITUD" in tid:
+            clean_div = "Urban Improvement Trust (UIT Udaipur)"
+        elif "PHCJA" in tid:
+            clean_div = "Police Housing Corp (PHC Jaipur)"
+        elif "DLB" in tid:
+            clean_div = "Directorate of Local Bodies (DLB)"
+        elif "RRVUN" in tid:
+            clean_div = "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
+        elif "MEDIC" in tid:
+            clean_div = "Department of Medical Education"
+        elif "CEPWD" in tid:
+            clean_div = f"PWD {clean_dist} Circle"
+        elif "FORES" in tid:
+            clean_div = f"Forest Department {clean_dist} Circle"
+        else:
+            clean_div = f"{clean_dist} Works Division"
+            
+    return clean_dist, clean_div
 
 @st.cache_data(ttl=60, show_spinner=False)
 def load_all_district_data():
@@ -153,21 +199,19 @@ def load_all_district_data():
                 
             for _, r in df.iterrows():
                 tid = str(r[id_col]).strip()
-                if not tid or tid == "nan" or tid == "None":
+                if not tid or tid.lower() in ["nan", "none"]:
                     continue
                     
-                # Safe valuation extraction
                 raw_amt = pd.to_numeric(r.get(amt_col, 2500000.0), errors='coerce')
                 raw_amt = 2500000.0 if pd.isna(raw_amt) or raw_amt <= 0 else float(raw_amt)
                 amt = raw_amt * 100000.0 if raw_amt < 10000.0 else raw_amt
                 
-                # Safe duration extraction
                 days_val = pd.to_numeric(r.get(dur_col, 10), errors='coerce')
                 days = 10.0 if pd.isna(days_val) or days_val < 0 else float(days_val)
                 
                 mandated, is_viol, deficit, pri = calculate_rule_43(amt, days)
                 
-                # Safe quarter resolution
+                # Assign quarter safely
                 q_assigned = None
                 if date_col and pd.notna(r.get(date_col)):
                     dt = pd.to_datetime(r[date_col], errors='coerce')
@@ -181,14 +225,13 @@ def load_all_district_data():
                 if not q_assigned:
                     q_assigned = q_labels[abs(hash(tid)) % 4]
                 
-                dist_name = str(r.get('district', filename)).strip().capitalize()
-                if dist_name in ["Data", "Districts", ""]:
-                    dist_name = "Jaipur"
-                    
-                div_name = str(r.get('division', '')).strip()
-                if not div_name or div_name.lower() in ["none", "nan"]:
-                    div_name = f"{dist_name} Division"
-                    
+                # Resolve authority and circle cleanly
+                dist_name, div_name = infer_entity_and_circle(
+                    tid, 
+                    r.get('district', filename), 
+                    r.get('division', '')
+                )
+                
                 nit_name = str(r.get('nit_no', '')).strip()
                 if not nit_name or nit_name.lower() in ["none", "nan"]:
                     parts = tid.split('_')
@@ -222,25 +265,30 @@ def load_all_district_data():
 
 df_all = load_all_district_data()
 
-# Baseline hash for system monogram
-base_payloads = [f"{r.tender_id}:{int(r.tender_amount)}" for r in df_all.itertuples()] if not df_all.empty else ["EMPTY_NODE"]
-baseline_root = RFC6962MerkleTree(base_payloads).get_root_hex()
-short_hash = f"0x{baseline_root[:6]}...{baseline_root[-6:]}"
-# -------------------------------------------------------------
-# 4. SIDEBAR CONTROLS (Minimalist Header)
-# -------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# 4. SIDEBAR CONTROLS (COMPLETE STATUTORY FRAMEWORK RESTORED)
+# -----------------------------------------------------------------------------
 with st.sidebar:
-    st.markdown("## Project TRUTH")
-    st.caption("Statutory Compliance & Audit Pipeline")
+    st.markdown("## ⚖️ Project TRUTH")
+    st.caption("Forensic Systems Software • RTPP Act Compliance")
 
     if st.button("🔄 Sync & Clear Cache", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
 
-    st.title("Forensic Controls")
-    
+    st.markdown("### Forensic Controls")
     circle_options = ["All Rajasthan", "Jaipur", "Jodhpur", "Udaipur", "Bikaner", "Kota"]
     selected_circle = st.selectbox("Administrative Circle:", circle_options)
+
+    st.markdown("---")
+    st.markdown("#### Statutory Framework")
+    st.caption("**Rajasthan Transparency in Public Procurement (RTPP) Act**")
+    st.caption("• **Rule 43(1)(a):** Cost ≤ 10 Lakhs → **7 Days Min**")
+    st.caption("• **Rule 43(1)(b):** 10L < Cost ≤ 50 Lakhs → **10 Days Min**")
+    st.caption("• **Rule 43(1)(c):** 50L < Cost ≤ 2 Crores → **15 Days Min**")
+    st.caption("• **Rule 43(1)(d):** Cost > 2 Crores → **30 Days Min**")
+    st.markdown("---")
+    st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Unsupervised Anomaly Engine")
 
 if selected_circle == "All Rajasthan":
     df_filtered = df_all.copy()
@@ -289,43 +337,47 @@ mean_pri = float(df_filtered['risk_score'].mean()) if total_audited > 0 else 0.0
 max_deficit = float(df_filtered['deficit_days'].max()) if total_audited > 0 else 0.0
 
 m1, m2, m3, m4 = st.columns(4)
-m1.markdown(f"""
-<div class="metric-card">
-    <div class="metric-title">Notices Audited</div>
-    <div class="metric-val">{total_audited}</div>
-    <div class="metric-sub-green">Empirical Ground Truth</div>
-</div>
-""", unsafe_allow_html=True)
+with m1:
+    st.markdown(f"""
+    <div class="metric-card">
+        <div class="metric-title">Notices Audited</div>
+        <div class="metric-val">{total_audited}</div>
+        <div class="metric-sub-green">Empirical Ground Truth</div>
+    </div>
+    """, unsafe_allow_html=True)
 
-m2.markdown(f"""
-<div class="metric-card">
-    <div class="metric-title">Critical Violations</div>
-    <div class="metric-val">{critical_viols}</div>
-    <div class="metric-sub-red">↑ {viol_rate:.1f}% Non-Compliant</div>
-</div>
-""", unsafe_allow_html=True)
+with m2:
+    st.markdown(f"""
+    <div class="metric-card">
+        <div class="metric-title">Critical Violations</div>
+        <div class="metric-val">{critical_viols}</div>
+        <div class="metric-sub-red">↑ {viol_rate:.1f}% Non-Compliant</div>
+    </div>
+    """, unsafe_allow_html=True)
 
-m3.markdown(f"""
-<div class="metric-card">
-    <div class="metric-title">Mean Risk Index (PRI)</div>
-    <div class="metric-val">{mean_pri:.1f} / 100</div>
-    <div class="metric-sub-red">Severity Weighted</div>
-</div>
-""", unsafe_allow_html=True)
+with m3:
+    st.markdown(f"""
+    <div class="metric-card">
+        <div class="metric-title">Mean Risk Index (PRI)</div>
+        <div class="metric-val">{mean_pri:.1f} / 100</div>
+        <div class="metric-sub-red">Severity Weighted</div>
+    </div>
+    """, unsafe_allow_html=True)
 
-m4.markdown(f"""
-<div class="metric-card">
-    <div class="metric-title">Max Timeline Deficit</div>
-    <div class="metric-val">{max_deficit:.1f} Days</div>
-    <div class="metric-sub-red">↑ Statutory Notice Squeeze</div>
-</div>
-""", unsafe_allow_html=True)
+with m4:
+    st.markdown(f"""
+    <div class="metric-card">
+        <div class="metric-title">Max Timeline Deficit</div>
+        <div class="metric-val">{max_deficit:.1f} Days</div>
+        <div class="metric-sub-red">↑ Statutory Notice Squeeze</div>
+    </div>
+    """, unsafe_allow_html=True)
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 # 6. TABBED NAVIGATION (5 DISTINCT ARCHITECTURAL PILLARS)
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "1. Forensic Audit Registry",
     "2. Algorithmic Anomaly Engine (Isolation Forest)",
@@ -334,9 +386,9 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "5. ⚖️ Statutory RTI & Vigilance Action Engine"
 ])
 
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 # TAB 1: FORENSIC AUDIT REGISTRY + AUTHORITY INDEX
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 with tab1:
     st.subheader(f"Empirical Ingestion Corpus (N = {total_audited} Active Notices)")
     
@@ -368,7 +420,6 @@ with tab1:
         'deficit_days', 'risk_score'
     ]
     
-    # Clip risk score cleanly to prevent ProgressColumn crashes
     df_view_disp = df_view[display_cols].copy()
     df_view_disp['risk_score'] = df_view_disp['risk_score'].clip(lower=0.0, upper=100.0)
     
@@ -397,7 +448,7 @@ with tab1:
         "text/csv"
     )
 
-    # Authority Repeat-Offender Leaderboard
+    # Authority Exposure Ranking (No more "Nan Division")
     st.markdown("---")
     st.subheader("🏛️ Administrative Authority Exposure Ranking")
     st.caption("Identifying systemic non-compliance clusters across state procuring divisions.")
@@ -447,9 +498,9 @@ with tab1:
             fig_auth.update_layout(yaxis=dict(autorange="reversed"), height=280, margin=dict(l=0, r=10, t=35, b=20), template="plotly_dark")
             st.plotly_chart(fig_auth, use_container_width=True)
 
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 # TAB 2: ALGORITHMIC ANOMALY ENGINE + EXPLAINABLE AI (XAI)
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 with tab2:
     st.subheader("Unsupervised Timeline Compression Detection")
     st.markdown(
@@ -487,7 +538,7 @@ with tab2:
         fig_scatter.update_layout(template="plotly_dark", height=450)
         st.plotly_chart(fig_scatter, use_container_width=True)
 
-        # Explainable AI (XAI) Feature Attribution Inspector
+        # Explainable AI (XAI) Inspector
         st.markdown("---")
         st.subheader("🔍 Explainable AI (XAI): Forensic Feature Attribution")
         st.caption("Decomposing multi-variate tree anomalies into interpretable feature contributions.")
@@ -555,9 +606,9 @@ with tab2:
     else:
         st.warning("Insufficient data points in selected circle for isolation forest fitting.")
 
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 # TAB 3: INFERENTIAL CHI-SQUARE, MARCH RUSH & CAG BENCHMARK
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 with tab3:
     st.subheader("Statistical Validation & Macro-Fiscal Impact Analysis")
     
@@ -565,7 +616,6 @@ with tab3:
         high_val = df_all['tender_amount'] >= 5000000.0
         viol = df_all['is_violation'] == True
         
-        # Robust 2x2 contingency matrix with safe reindexing
         ct_raw = pd.crosstab(high_val, viol)
         ct = ct_raw.reindex(index=[False, True], columns=[False, True], fill_value=0)
         ct.index = ['Minor Works (< ₹50L)', 'High-Value Infrastructure (≥ ₹50L)']
@@ -592,7 +642,7 @@ with tab3:
             st.write("• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
             st.caption("Based on 15% median competitive discount achieved through non-collusive open bidding windows.")
 
-        # Temporal Confounder Analysis: March Rush Control
+        # March Rush Temporal Analysis
         st.markdown("---")
         st.subheader("Temporal Confounder Control: The 'March Rush' Analysis")
         st.caption("Testing whether notice compression is driven by fiscal year-end budget exhaustion (March 31).")
@@ -666,9 +716,9 @@ with tab3:
             </div>
             """, unsafe_allow_html=True)
 
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 # TAB 4: NATIONAL SCALABILITY BENCHMARK & DUCKDB CONSOLE
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 with tab4:
     st.subheader("⚡ National Scalability Benchmark (High-Throughput Stress Test)")
     st.markdown(
@@ -706,7 +756,6 @@ with tab4:
         amts[cats == 1] = np.random.randint(5000000, 20000000, size=(cats == 1).sum())
         amts[cats == 2] = np.random.randint(20000000, 1000000000, size=(cats == 2).sum())
         
-        # Rule 43 accurate statutory tiers: <=10L -> 7d, 10L-50L -> 10d, 50L-2Cr -> 15d, >2Cr -> 30d
         mand = np.where(amts > 20000000, 30, np.where(amts > 5000000, 15, np.where(amts > 1000000, 10, 7)))
         durations = np.copy(mand)
         compressed = np.random.rand(batch_size) < 0.485
@@ -822,9 +871,9 @@ with tab4:
                 except Exception as sql_err:
                     st.error(f"SQL Error: {sql_err}")
 
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 # TAB 5: STATUTORY RTI & VIGILANCE ACTION ENGINE
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 with tab5:
     st.subheader("⚖️ One-Click Statutory RTI & Vigilance Dossier Generator")
     st.markdown(
@@ -931,9 +980,9 @@ Place: {district}, Rajasthan
     else:
         st.info("No statutory violations detected in the currently selected filter.")
 
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 # FOOTER
-# -----------------------------------------------------------------------------
+# -------------------------------------------------------------
 st.markdown("---")
 st.caption(
     "Project TRUTH • Public Procurement Integrity Engine • "
