@@ -60,7 +60,7 @@ st.markdown("""
 # -------------------------------------------------------------
 def format_days_safe(x):
     try:
-        if pd.isna(x) or str(x).strip() == "":
+        if pd.isna(x) or str(x).strip() == "" or str(x).lower() == "nan":
             return "0 d"
         return f"{int(float(x))} d"
     except (ValueError, TypeError):
@@ -68,7 +68,7 @@ def format_days_safe(x):
 
 def format_cost_safe(x):
     try:
-        if pd.isna(x) or str(x).strip() == "":
+        if pd.isna(x) or str(x).strip() == "" or str(x).lower() == "nan":
             return "₹ 0.00 L"
         return f"₹ {float(x):,.2f} L"
     except (ValueError, TypeError):
@@ -116,23 +116,30 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
             df['actual_window_days'] = 10
     df['actual_window_days'] = pd.to_numeric(df['actual_window_days'], errors='coerce').fillna(10).astype(int)
 
-    # 4. District & Authority
+    # 4. District & Division
     if 'district' not in df.columns:
         df['district'] = default_district
     df['district'] = df['district'].fillna(default_district).astype(str).str.capitalize()
     
+    # Fill Authority & Notice References cleanly so 'None' never appears
+    div_fallback = df['district'] + " Division"
     if 'division' not in df.columns:
-        df['division'] = df['district'] + " Division"
+        df['division'] = div_fallback
+    else:
+        df['division'] = df['division'].replace(["None", "nan", None], np.nan).fillna(div_fallback)
         
+    nit_fallback = df['tender_id'].apply(
+        lambda x: f"NIT {str(x).split('_')[-2]}_{str(x).split('_')[-1]}" if len(str(x).split('_')) >= 3 else f"NIT {str(x)[-8:]}"
+    )
     if 'nit_no' not in df.columns:
-        df['nit_no'] = df['tender_id'].apply(
-            lambda x: f"NIT {str(x).split('_')[-2]}_{str(x).split('_')[-1]}" if len(str(x).split('_')) >= 3 else f"NIT {x}"
-        )
+        df['nit_no'] = nit_fallback
+    else:
+        df['nit_no'] = df['nit_no'].replace(["None", "nan", None], np.nan).fillna(nit_fallback)
 
     if 'estimated_cost_lac' not in df.columns:
         df['estimated_cost_lac'] = (df['tender_amount'] / 100000.0).round(2)
         
-    # 5. Statutory Rule 43
+    # 5. Statutory Rule 43 Thresholds
     def get_statutory_min(amt):
         if amt <= 1000000.0: return 7
         elif amt <= 5000000.0: return 10
@@ -165,7 +172,7 @@ def standardize_forensic_dataframe(df, default_district="Jaipur"):
     else:
         df['risk_score'] = pd.to_numeric(df['risk_score'], errors='coerce').fillna(0.0)
         
-    # 6. Fiscal Quarter
+    # 6. Fiscal Quarter Assignment
     q_labels = ["Q1 (Apr-Jun)", "Q2 (Jul-Sep)", "Q3 (Oct-Dec)", "Q4 (Jan-Mar: March Rush)"]
     if 'fiscal_quarter' not in df.columns:
         date_col = None
@@ -245,37 +252,30 @@ def build_rfc6962_merkle_root(tender_ids):
     return current[0]
 
 # -------------------------------------------------------------
-# Sidebar: Clean Ashoka Lion Capital (Above Sync & Cache)
+# Sidebar: Exact Format from Yesterday Night
 # -------------------------------------------------------------
-st.sidebar.markdown("""
-<div style="text-align: center; margin-top: 5px; margin-bottom: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Emblem_of_India.svg/240px-Emblem_of_India.svg.png" 
-         referrerpolicy="no-referrer"
-         style="width: 85px; display: inline-block;" 
-         alt="Ashoka Lion Capital">
-</div>
-""", unsafe_allow_html=True)
+with st.sidebar:
+    st.image("https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg", width=70)
+    
+    if st.button("🔄 Sync & Clear Cache", use_container_width=True):
+        st.cache_data.clear()
+        st.rerun()
 
-if st.sidebar.button("🔄 Sync & Clear Cache", use_container_width=True):
-    st.cache_data.clear()
-    st.rerun()
+    st.title("Forensic Controls")
+    circle_option = st.selectbox(
+        "Administrative Circle:",
+        ["All Rajasthan", "Jaipur", "Jodhpur", "Bikaner", "Udaipur", "Kota"]
+    )
 
-st.sidebar.markdown("### Forensic Controls")
-circle_option = st.sidebar.selectbox(
-    "Administrative Circle:",
-    ["All Rajasthan", "Jaipur", "Jodhpur", "Bikaner", "Udaipur", "Kota"]
-)
-
-st.sidebar.markdown("---")
-st.sidebar.markdown("### Statutory Framework")
-st.sidebar.caption("**Rajasthan Transparency in Public Procurement (RTPP) Act**")
-st.sidebar.info("""
-**Statutory Rule 43 Minimum Notice Timelines:**
-- **Rule 43(1)(a):** Cost ≤ 10 Lakhs $\\rightarrow$ **7 Days Min**
-- **Rule 43(1)(b):** 10L < Cost ≤ 50 Lakhs $\\rightarrow$ **10 Days Min**
-- **Rule 43(1)(c):** 50L < Cost ≤ 2 Crores $\\rightarrow$ **15 Days Min**
-- **Rule 43(1)(d):** Cost > 2 Crores $\\rightarrow$ **30 Days Min**
-""")
+    st.markdown("---")
+    st.markdown("#### Statutory Framework")
+    st.caption("Rajasthan Transparency in Public Procurement (RTPP) Act")
+    st.caption("Rule 43(1)(a): Less than 10L -> 7 Days Min")
+    st.caption("Rule 43(1)(b): 10L to 50L -> 10 Days Min")
+    st.caption("Rule 43(1)(c): 50L to 2Cr -> 15 Days Min")
+    st.caption("Rule 43(1)(d): Greater than 2Cr -> 30 Days Min")
+    st.markdown("---")
+    st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Unsupervised Anomaly Engine")
 
 # Load Dataset
 df_raw = load_all_district_data()
@@ -356,8 +356,8 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "1. Forensic Audit Registry",
     "2. Algorithmic Anomaly Engine (Isolation Forest)",
     "3. Inferential Hypothesis Testing (Chi-Square)",
-    "4. 🏛️ National Scalability Benchmark",
-    "5. ⚡ Statutory RTI Generator"
+    "4. ⚡ National Scalability Benchmark",
+    "5. ⚖️ Statutory RTI & Vigilance Action Engine"
 ])
 
 # TAB 1: Registry
@@ -398,7 +398,7 @@ with tab1:
         "Risk Score": df_display['risk_score']
     })
 
-    st.dataframe(formatted_view, use_container_width=True, height=420)
+    st.dataframe(formatted_view, use_container_width=True, height=450)
     
     csv_bytes = df_display.to_csv(index=False).encode('utf-8')
     st.download_button("📥 Export Forensic Registry (CSV)", data=csv_bytes, file_name="forensic_registry.csv", mime="text/csv")
@@ -525,19 +525,11 @@ with tab3:
 
 # TAB 4: National Scalability Benchmark
 with tab4:
-    st.subheader("🏛️ National Scalability & High-Throughput Stress Testing")
+    st.subheader("⚡ National Scalability Benchmark (High-Throughput Stress Test)")
     st.caption("Demonstrating system performance under Pan-India transaction volumes (GeM & Central CPPP).")
     
-    st.markdown("""
-    **Architectural Scalability Principle:**
-    Project TRUTH employs an $O(N)$ binary Merkle aggregation pipeline. This benchmark evaluates hashing throughput, 
-    memory footprint, and tree derivation latency when scaling from state-level ($10^3$) to national-level ($10^5$) procurement volumes.
-    """)
-    
     b_col1, b_col2 = st.columns([1, 2])
-    
     with b_col1:
-        st.markdown("#### Execution Parameters")
         target_volume = st.select_slider(
             "Simulated Procurement Volume (Notices):",
             options=[1000, 5000, 10000, 25000, 50000, 100000],
@@ -563,14 +555,13 @@ with tab4:
                 m3.metric("RFC 6962 Proof Complexity", f"O(log N) = {int(np.ceil(np.log2(target_volume)))} steps")
                 
                 st.code(f"Verified Simulated Merkle Root ({target_volume:,} notices):\n{root_res}", language="text")
-                st.success(f"Benchmark passed: Linear scalability confirmed for nationwide deployment.")
+                st.success("Benchmark passed: Linear scalability confirmed for nationwide deployment.")
         else:
             st.info("Select a transaction volume on the left and click 'Run Scalability Stress Test' to observe real-time latency curves.")
 
     bench_data = pd.DataFrame({
         "Volume (Notices)": [1000, 5000, 10000, 25000, 50000, 100000],
-        "Latency (Milliseconds)": [4.2, 18.1, 35.4, 88.7, 172.5, 349.0],
-        "Memory Footprint (MB)": [0.8, 3.2, 6.4, 15.9, 31.8, 63.5]
+        "Latency (Milliseconds)": [4.2, 18.1, 35.4, 88.7, 172.5, 349.0]
     })
     
     fig_scale = px.line(
@@ -584,9 +575,9 @@ with tab4:
     fig_scale.add_scatter(x=[total_notices], y=[4.2 * (total_notices / 1000)], mode='markers', name='Current Live System', marker=dict(size=14, color='red'))
     st.plotly_chart(fig_scale, use_container_width=True)
 
-# TAB 5: Statutory RTI Generator
+# TAB 5: Statutory RTI & Vigilance Action Engine
 with tab5:
-    st.subheader("⚡ Automated Statutory RTI Petition Generator")
+    st.subheader("⚖️ One-Click Statutory RTI & Vigilance Dossier Generator")
     st.caption("Auto-generates official legal applications under Section 6(1) of the Right to Information Act, 2005.")
     
     flagged = df_active[df_active['is_violation'] == True]
