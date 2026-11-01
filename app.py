@@ -820,8 +820,8 @@ with tab4:
     with c_bench1:
         batch_size = st.select_slider(
             "Select Nationwide Simulation Batch Size:",
-            options=[1000, 5000, 10000, 25000, 50000],
-            value=10000
+            options=[10000, 25000, 50000, 100000, 200000],
+            value=50000
         )
         run_stress_test = st.button("Execute Live Stress Test", type="primary", use_container_width=True)
 
@@ -893,7 +893,7 @@ with tab4:
         st.code("National Batch Merkle Root: 0x" + b_root, language="text")
 
         st.markdown("##### Empirical vs Theoretical O(N log N) Algorithmic Scaling")
-        sizes = np.array([1000, 5000, 10000, 25000, 50000])
+        sizes = np.array([10000, 25000, 50000, 100000, 200000])
         theo_latencies = (sizes * np.log2(sizes)) / (batch_size * math.log2(batch_size)) * total_lat
 
         fig_curve = go.Figure()
