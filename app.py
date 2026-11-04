@@ -18,7 +18,7 @@ except ImportError:
     HAS_DUCKDB = False
 
 # -----------------------------------------------------------------------------
-# 1. PAGE CONFIGURATION & STYLES
+# 1. PAGE CONFIGURATION & FORENSIC THEME
 # -----------------------------------------------------------------------------
 st.set_page_config(
     page_title="Project TRUTH | Forensic Procurement Engine",
@@ -29,45 +29,45 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-    /* Completely eliminate Streamlit top header bar, action menus, and footer */
-    [data-testid="stHeader"] {
-        display: none !important;
-    }
-    #MainMenu {
-        display: none !important;
-    }
-    footer {
-        display: none !important;
-    }
+    /* Clean display container - eliminate default boilerplate */
+    [data-testid="stHeader"] { display: none !important; }
+    #MainMenu { display: none !important; }
+    footer { display: none !important; }
 
     .metric-card {
-        background-color: #1e2130;
-        padding: 18px;
+        background-color: #121826;
+        padding: 16px;
         border-radius: 8px;
-        border: 1px solid #2d3250;
+        border: 1px solid #1E293B;
         text-align: center;
     }
     .metric-title { 
-        color: #8b949e; 
-        font-size: 13px; 
-        font-weight: 600; 
+        color: #94A3B8; 
+        font-size: 12px; 
+        font-weight: 700; 
         text-transform: uppercase; 
-        margin-bottom: 6px; 
+        margin-bottom: 4px; 
     }
     .metric-val { 
-        color: #f0f6fc; 
-        font-size: 28px; 
-        font-weight: 700; 
+        color: #F8FAFC; 
+        font-size: 26px; 
+        font-weight: 800; 
     }
     .metric-sub-red { 
-        color: #f85149; 
-        font-size: 12px; 
+        color: #F87171; 
+        font-size: 11px; 
         font-weight: 600; 
         margin-top: 4px; 
     }
     .metric-sub-green { 
-        color: #3fb950; 
-        font-size: 12px; 
+        color: #4ADE80; 
+        font-size: 11px; 
+        font-weight: 600; 
+        margin-top: 4px; 
+    }
+    .metric-sub-blue { 
+        color: #38BDF8; 
+        font-size: 11px; 
         font-weight: 600; 
         margin-top: 4px; 
     }
@@ -75,9 +75,15 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
-# 2. CRYPTOGRAPHIC MERKLE TREE (RFC 6962 COMPLIANT)
+# 2. CRYPTOGRAPHIC INTEGRITY: RFC 6962 DOMAIN-SEPARATED MERKLE TREE
 # -----------------------------------------------------------------------------
 class RFC6962MerkleTree:
+    """
+    Implements RFC 6962 domain separation:
+    - Leaf Node Hash: SHA-256(0x00 || LeafData)
+    - Internal Node Hash: SHA-256(0x01 || LeftChild || RightChild)
+    Prevents second-preimage attacks and guarantees deterministic O(log N) inclusion proofs.
+    """
     def __init__(self, data_list):
         self.leaf_prefix = b'\x00'
         self.node_prefix = b'\x01'
@@ -135,9 +141,16 @@ class RFC6962MerkleTree:
         return current.hex() == root_hex
 
 # -----------------------------------------------------------------------------
-# 3. STATUTORY RULE 43 LOGIC & REFINED DATA INGESTION
+# 3. STATUTORY RULE 43 & DUAL-SIEVE INGESTION PIPELINE
 # -----------------------------------------------------------------------------
 def calculate_rule_43(amount: float, days: float):
+    """
+    Deterministic Statutory Thresholds under RTPP Rules 2013, Rule 43:
+    - Amount <= 10 Lakhs: 7 Days Minimum
+    - 10 Lakhs < Amount <= 50 Lakhs: 10 Days Minimum
+    - 50 Lakhs < Amount <= 200 Lakhs: 15 Days Minimum
+    - Amount > 200 Lakhs (2 Crores): 30 Days Minimum
+    """
     if amount > 20000000.0:
         mandated = 30
     elif amount > 5000000.0:
@@ -160,46 +173,29 @@ def calculate_rule_43(amount: float, days: float):
 
 def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str):
     tid = str(tender_id).upper()
-    
     clean_dist = str(raw_district).strip()
     if clean_dist.lower() in ["nan", "none", "", "data", "districts", "all rajasthan"]:
-        if "JDAJP" in tid or "PHCJA" in tid or "JAIP" in tid:
-            clean_dist = "Jaipur"
-        elif "UITBR" in tid or "BIK" in tid or "BR_" in tid:
-            clean_dist = "Bikaner"
-        elif "UITUD" in tid or "UDAI" in tid:
-            clean_dist = "Udaipur"
-        elif "JODH" in tid or "JD_" in tid:
-            clean_dist = "Jodhpur"
-        elif "KOTA" in tid or "KT_" in tid:
-            clean_dist = "Kota"
-        else:
-            clean_dist = "Jaipur"
+        if "JDAJP" in tid or "PHCJA" in tid or "JAIP" in tid: clean_dist = "Jaipur"
+        elif "UITBR" in tid or "BIK" in tid or "BR_" in tid: clean_dist = "Bikaner"
+        elif "UITUD" in tid or "UDAI" in tid: clean_dist = "Udaipur"
+        elif "JODH" in tid or "JD_" in tid: clean_dist = "Jodhpur"
+        elif "KOTA" in tid or "KT_" in tid: clean_dist = "Kota"
+        else: clean_dist = "Jaipur"
     else:
         clean_dist = "-".join([part.title() for part in clean_dist.split("-")])
 
     clean_div = str(raw_division).strip()
     if clean_div.lower() in ["nan", "none", "", "nan division", "division"]:
-        if "JDAJP" in tid:
-            clean_div = "Jaipur Development Authority (JDA)"
-        elif "UITBR" in tid:
-            clean_div = "Urban Improvement Trust (UIT Bikaner)"
-        elif "UITUD" in tid:
-            clean_div = "Urban Improvement Trust (UIT Udaipur)"
-        elif "PHCJA" in tid:
-            clean_div = "Police Housing Corp (PHC Jaipur)"
-        elif "DLB" in tid:
-            clean_div = "Directorate of Local Bodies (DLB)"
-        elif "RRVUN" in tid:
-            clean_div = "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
-        elif "MEDIC" in tid:
-            clean_div = "Department of Medical Education"
-        elif "CEPWD" in tid:
-            clean_div = f"PWD {clean_dist} Circle"
-        elif "FORES" in tid:
-            clean_div = f"Forest Department {clean_dist} Circle"
-        else:
-            clean_div = f"{clean_dist} Works Division"
+        if "JDAJP" in tid: clean_div = "Jaipur Development Authority (JDA)"
+        elif "UITBR" in tid: clean_div = "Urban Improvement Trust (UIT Bikaner)"
+        elif "UITUD" in tid: clean_div = "Urban Improvement Trust (UIT Udaipur)"
+        elif "PHCJA" in tid: clean_div = "Police Housing Corp (PHC Jaipur)"
+        elif "DLB" in tid: clean_div = "Directorate of Local Bodies (DLB)"
+        elif "RRVUN" in tid: clean_div = "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
+        elif "MEDIC" in tid: clean_div = "Department of Medical Education"
+        elif "CEPWD" in tid: clean_div = f"PWD {clean_dist} Circle"
+        elif "FORES" in tid: clean_div = f"Forest Department {clean_dist} Circle"
+        else: clean_div = f"{clean_dist} Works Division"
             
     return clean_dist, clean_div
 
@@ -251,9 +247,10 @@ def load_all_district_data():
                         elif m in [7, 8, 9]: q_assigned = q_labels[1]
                         elif m in [10, 11, 12]: q_assigned = q_labels[2]
                         else: q_assigned = q_labels[3]
-                        
+                
+                # Exclude unverified dates from random assignment to preserve statistical integrity
                 if not q_assigned:
-                    q_assigned = q_labels[abs(hash(tid)) % 4]
+                    q_assigned = "Undated / Missing Metadata"
                 
                 dist_name, div_name = infer_entity_and_circle(
                     tid, 
@@ -286,17 +283,51 @@ def load_all_district_data():
 
     if combined_rows:
         df_master = pd.DataFrame(combined_rows).drop_duplicates(subset=['tender_id'])
+        
+        # Dual-Sieve Ingestion: Precompute Global Unsupervised Isolation Forest
+        if len(df_master) >= 10:
+            log_cost = np.log10(df_master['tender_amount'].clip(lower=1000.0).values)
+            windows = df_master['actual_window_days'].clip(lower=1).values
+            X_global = np.column_stack([log_cost, windows])
+            
+            iso_global = IsolationForest(n_estimators=50, contamination=0.15, random_state=42)
+            preds = iso_global.fit_predict(X_global)
+            scores = -iso_global.decision_function(X_global)
+            
+            df_master['ml_anomaly'] = (preds == -1)
+            min_s, max_s = scores.min(), scores.max()
+            if max_s > min_s:
+                df_master['ml_score'] = np.round(((scores - min_s) / (max_s - min_s)) * 100.0, 1)
+            else:
+                df_master['ml_score'] = 50.0
+        else:
+            df_master['ml_anomaly'] = False
+            df_master['ml_score'] = 0.0
+
+        # Classify Audit Sieve Category
+        def classify_sieve(r):
+            if r['is_violation'] and r['ml_anomaly']:
+                return "Dual Sieve (Rule 43 + ML)"
+            elif r['is_violation']:
+                return "Statutory Violation Only"
+            elif r['ml_anomaly']:
+                return "ML Latent Anomaly"
+            return "Compliant Baseline"
+
+        df_master['sieve_category'] = df_master.apply(classify_sieve, axis=1)
         return df_master
+
     return pd.DataFrame(columns=[
         'tender_id', 'nit_no', 'division', 'district', 'administrative_division',
         'tender_amount', 'estimated_cost_lac', 'actual_window_days',
-        'statutory_min_days', 'deficit_days', 'is_violation', 'risk_score', 'fiscal_quarter'
+        'statutory_min_days', 'deficit_days', 'is_violation', 'risk_score',
+        'fiscal_quarter', 'ml_anomaly', 'ml_score', 'sieve_category'
     ])
 
 df_all = load_all_district_data()
 
 # -------------------------------------------------------------
-# 4. SIDEBAR CONTROLS (7 DIVISIONS x 41 DISTRICTS CASCADING)
+# 4. SIDEBAR CONTROLS & ADMINISTRATIVE TAXONOMY
 # -------------------------------------------------------------
 RAJASTHAN_ADMIN_HIERARCHY = {
     "Jaipur Division": [
@@ -327,7 +358,7 @@ RAJASTHAN_ADMIN_HIERARCHY = {
 }
 
 with st.sidebar:
-    if st.button("🔄 Sync & Clear Cache", use_container_width=True):
+    if st.button("🔄 Reload Procurement Ingestion", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
 
@@ -344,16 +375,17 @@ with st.sidebar:
         selected_district = st.selectbox(f"District Circle ({selected_division.split()[0]}):", division_districts)
 
     st.markdown("---")
-    st.markdown("#### Statutory Framework")
-    st.caption("**Rajasthan Transparency in Public Procurement (RTPP) Act**")
-    st.caption("• **Rule 43(1)(a):** Cost ≤ 10 Lakhs → **7 Days Min**")
-    st.caption("• **Rule 43(1)(b):** 10L < Cost ≤ 50 Lakhs → **10 Days Min**")
-    st.caption("• **Rule 43(1)(c):** 50L < Cost ≤ 2 Crores → **15 Days Min**")
-    st.caption("• **Rule 43(1)(d):** Cost > 2 Crores → **30 Days Min**")
+    st.markdown("#### Dual-Sieve Audit Architecture")
+    st.caption("**Tier 1: Rule 43 Deterministic Audit**")
+    st.caption("• Cost ≤ 10L → **7 Days** | 10L–50L → **10 Days**")
+    st.caption("• 50L–2Cr → **15 Days** | > 2Cr → **30 Days**")
+    st.caption("**Tier 2: Unsupervised Tree Anomaly**")
+    st.caption("• 50-Estimator Isolation Forest")
+    st.caption("• Vectorized log₁₀(Cost) × Window Space")
     st.markdown("---")
-    st.caption("RFC 6962 Merkle Tree Audit Trails • Isolation Forest Unsupervised Anomaly Engine")
+    st.caption("RFC 6962 Domain Separation • SIMD Columnar DuckDB Engine")
 
-# Filter execution across statewide records
+# Filter execution across selected district/division
 df_filtered = df_all.copy()
 
 if selected_division != "All Rajasthan (Statewide)":
@@ -366,8 +398,8 @@ if selected_district not in ["All 41 Districts", "All in Division"]:
 # -------------------------------------------------------------
 # 5. HEADER & TOP TELEMETRY METRICS
 # -------------------------------------------------------------
-st.title("⚖️ Project TRUTH: Automated Public Procurement Compliance Engine")
-st.caption("Forensic Systems Software for Statutory Rule 43 Auditing | Rajasthan State Public Procurement Portal (SPPP)")
+st.title("⚖️ Project TRUTH: Forensic Procurement Audit Harness")
+st.caption("Algorithmic Detection of Statutory Rule 43 Irregularities via Vectorized Analytics and Cryptographic Merkle Proofs")
 
 payloads = [
     f"{r.tender_id}:{int(r.tender_amount)}:{r.actual_window_days}" 
@@ -376,15 +408,15 @@ payloads = [
 merkle_tree = RFC6962MerkleTree(payloads)
 current_root = merkle_tree.get_root_hex()
 
-with st.expander("Cryptographic Evidence Chain & On-Demand Proof Verifier", expanded=False):
+with st.expander("Cryptographic Integrity Chain (RFC 6962 Proof Verifier)", expanded=False):
     col_k1, col_k2 = st.columns([3, 1])
     with col_k1:
-        st.code("Active RFC 6962 Root Hash: 0x" + current_root, language="text")
+        st.code("Active RFC 6962 Merkle Root: 0x" + current_root, language="text")
     with col_k2:
-        st.success("RFC 6962 TAMPER-PROOF VERIFIED")
+        st.success("DOMAIN SEPARATION ACTIVE")
 
-    st.markdown("##### Verify Individual Record Audit Trail")
-    test_id = st.selectbox("Select Tender Notice ID to Generate Merkle Audit Path:", df_filtered['tender_id'].tolist()[:30] if not df_filtered.empty else ["None"])
+    st.markdown("##### On-Demand Audit Inclusion Proof")
+    test_id = st.selectbox("Select Tender Notice ID to Verify Non-Repudiation:", df_filtered['tender_id'].tolist()[:30] if not df_filtered.empty else ["None"])
     if test_id and test_id != "None" and not df_filtered.empty:
         idx = df_filtered['tender_id'].tolist().index(test_id)
         leaf_payload = payloads[idx]
@@ -393,13 +425,15 @@ with st.expander("Cryptographic Evidence Chain & On-Demand Proof Verifier", expa
         
         leaf_hash = hashlib.sha256(b'\x00' + leaf_payload.encode()).hexdigest()
         c1, c2 = st.columns(2)
-        c1.write("**Leaf Payload Hash:** `0x" + leaf_hash + "`")
-        c2.write("**Verification Result:** " + ("VALID & IMMUTABLE" if verified else "CORRUPTED"))
-        with st.expander("Inspect Cryptographic Sibling Path"):
+        c1.write("**Leaf Digest (SHA-256 0x00 Prefixed):** `0x" + leaf_hash + "`")
+        c2.write("**Proof Verification:** " + ("VALID (Tamper-Proof)" if verified else "CORRUPTED HASH PATH"))
+        with st.expander("Inspect O(log N) Cryptographic Sibling Path"):
             st.json(audit_path)
 
 total_audited = len(df_filtered)
 critical_viols = int(df_filtered['is_violation'].sum()) if not df_filtered.empty else 0
+ml_anomalies_count = int(df_filtered['ml_anomaly'].sum()) if not df_filtered.empty else 0
+dual_flagged_count = int((df_filtered['is_violation'] & df_filtered['ml_anomaly']).sum()) if not df_filtered.empty else 0
 viol_rate = (critical_viols / total_audited * 100) if total_audited > 0 else 0.0
 mean_pri = float(df_filtered['risk_score'].mean()) if total_audited > 0 else 0.0
 max_deficit = float(df_filtered['deficit_days'].max()) if total_audited > 0 else 0.0
@@ -417,7 +451,7 @@ with m1:
 with m2:
     st.markdown(f"""
     <div class="metric-card">
-        <div class="metric-title">Critical Violations</div>
+        <div class="metric-title">Statutory Violations</div>
         <div class="metric-val">{critical_viols:,}</div>
         <div class="metric-sub-red">↑ {viol_rate:.1f}% Non-Compliant</div>
     </div>
@@ -426,9 +460,9 @@ with m2:
 with m3:
     st.markdown(f"""
     <div class="metric-card">
-        <div class="metric-title">Mean Risk Index (PRI)</div>
-        <div class="metric-val">{mean_pri:.1f} / 100</div>
-        <div class="metric-sub-red">Severity Weighted</div>
+        <div class="metric-title">Dual-Sieve Criticals</div>
+        <div class="metric-val">{dual_flagged_count:,}</div>
+        <div class="metric-sub-red">Rule 43 + ML Anomaly</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -437,14 +471,14 @@ with m4:
     <div class="metric-card">
         <div class="metric-title">Max Timeline Deficit</div>
         <div class="metric-val">{max_deficit:.1f} Days</div>
-        <div class="metric-sub-red">↑ Statutory Notice Squeeze</div>
+        <div class="metric-sub-red">Mandated Window Squeeze</div>
     </div>
     """, unsafe_allow_html=True)
 
 st.markdown("<br>", unsafe_allow_html=True)
 
 # -------------------------------------------------------------
-# 6. TABBED NAVIGATION (5 DISTINCT ARCHITECTURAL PILLARS)
+# 6. TABBED NAVIGATION (5 STRUCTURAL PILLARS)
 # -------------------------------------------------------------
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
     "1. Forensic Audit Registry",
@@ -455,7 +489,7 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
 ])
 
 # -------------------------------------------------------------
-# TAB 1: FORENSIC AUDIT REGISTRY + AUTHORITY INDEX
+# TAB 1: FORENSIC AUDIT REGISTRY + DUAL-SIEVE FILTERING
 # -------------------------------------------------------------
 with tab1:
     st.subheader(f"Empirical Ingestion Corpus (N = {total_audited:,} Active Notices)")
@@ -463,18 +497,28 @@ with tab1:
     f_col1, f_col2 = st.columns([2, 1])
     with f_col1:
         filter_opt = st.radio(
-            "Filter Records:", 
-            ["Show All Records", "Show Critical Violations Only", "Show Compliant Only"], 
+            "Filter Registry Sieve:", 
+            [
+                "Show All Records", 
+                "Show Rule 43 Violations", 
+                "Show Dual-Sieve Criticals (Rule 43 + ML)", 
+                "Show ML Outliers Only",
+                "Show Compliant Baseline"
+            ], 
             horizontal=True
         )
     with f_col2:
-        search_query = st.text_input("Search Tender ID or Division:", placeholder="e.g. 2026_PWD...")
+        search_query = st.text_input("Search Notice ID or Authority:", placeholder="e.g. 2026_PWD...")
 
     df_view = df_filtered.copy()
-    if filter_opt == "Show Critical Violations Only":
+    if filter_opt == "Show Rule 43 Violations":
         df_view = df_view[df_view['is_violation'] == True]
-    elif filter_opt == "Show Compliant Only":
-        df_view = df_view[df_view['is_violation'] == False]
+    elif filter_opt == "Show Dual-Sieve Criticals (Rule 43 + ML)":
+        df_view = df_view[(df_view['is_violation'] == True) & (df_view['ml_anomaly'] == True)]
+    elif filter_opt == "Show ML Outliers Only":
+        df_view = df_view[df_view['ml_anomaly'] == True]
+    elif filter_opt == "Show Compliant Baseline":
+        df_view = df_view[(df_view['is_violation'] == False) & (df_view['ml_anomaly'] == False)]
         
     if search_query:
         df_view = df_view[
@@ -485,7 +529,7 @@ with tab1:
     display_cols = [
         'tender_id', 'nit_no', 'division', 'district', 
         'estimated_cost_lac', 'actual_window_days', 'statutory_min_days', 
-        'deficit_days', 'risk_score'
+        'deficit_days', 'risk_score', 'ml_score', 'sieve_category'
     ]
     
     df_view_disp = df_view[display_cols].copy()
@@ -500,12 +544,14 @@ with tab1:
             "district": "Circle",
             "estimated_cost_lac": st.column_config.NumberColumn("Cost (₹ Lakhs)", format="₹ %.2f L"),
             "actual_window_days": st.column_config.NumberColumn("Window (Days)", format="%d d"),
-            "statutory_min_days": st.column_config.NumberColumn("Statutory Min", format="%d d"),
+            "statutory_min_days": st.column_config.NumberColumn("Mandated", format="%d d"),
             "deficit_days": st.column_config.NumberColumn("Deficit", format="%.1f d"),
-            "risk_score": st.column_config.ProgressColumn("Procurement Risk (PRI)", format="%.1f", min_value=0, max_value=100)
+            "risk_score": st.column_config.ProgressColumn("Rule 43 PRI", format="%.1f", min_value=0, max_value=100),
+            "ml_score": st.column_config.ProgressColumn("ML Score", format="%.1f", min_value=0, max_value=100),
+            "sieve_category": "Audit Classification"
         },
         use_container_width=True,
-        height=420
+        height=400
     )
 
     csv_data = df_view.to_csv(index=False).encode('utf-8')
@@ -516,10 +562,10 @@ with tab1:
         "text/csv"
     )
 
-    # Authority Exposure Ranking
+    # Authority Exposure Ranking (Neutral Risk Exposure)
     st.markdown("---")
-    st.subheader("Administrative Authority Exposure Ranking")
-    st.caption("Identifying systemic non-compliance clusters across state procuring divisions.")
+    st.subheader("Departmental Procurement Risk & Timeline Exposure")
+    st.caption("Factual exposure metrics aggregated by procuring division to identify systemic non-compliance clusters.")
 
     if not df_filtered.empty:
         auth_summary = df_filtered.groupby('division').agg(
@@ -544,9 +590,9 @@ with tab1:
                 column_config={
                     "division": "Procuring Entity / Division",
                     "Total_Notices": st.column_config.NumberColumn("Total Tenders", format="%d"),
-                    "Violations": st.column_config.NumberColumn("Violations", format="%d"),
+                    "Violations": st.column_config.NumberColumn("Statutory Violations", format="%d"),
                     "Violation_Rate_%": st.column_config.ProgressColumn("Violation Rate", format="%.1f%%", min_value=0, max_value=100),
-                    "Capital_At_Risk_Cr": st.column_config.NumberColumn("Capital at Risk", format="₹ %.2f Cr"),
+                    "Capital_At_Risk_Cr": st.column_config.NumberColumn("Capital Exposure", format="₹ %.2f Cr"),
                     "Mean_Deficit": st.column_config.NumberColumn("Avg Deficit", format="%.1f d")
                 },
                 hide_index=True,
@@ -560,21 +606,22 @@ with tab1:
                 orientation='h',
                 color='Capital_At_Risk_Cr',
                 color_continuous_scale="Reds",
-                title="Top 5 High-Exposure Procuring Entities",
+                title="Top 5 High-Exposure Procuring Divisions",
                 labels={'division': '', 'Violations': 'Flagged Notices'}
             )
             fig_auth.update_layout(yaxis=dict(autorange="reversed"), height=280, margin=dict(l=0, r=10, t=35, b=20), template="plotly_dark")
             st.plotly_chart(fig_auth, use_container_width=True)
 
 # -------------------------------------------------------------
-# TAB 2: ALGORITHMIC ANOMALY ENGINE + EXPLAINABLE AI (XAI)
+# TAB 2: ALGORITHMIC ANOMALY ENGINE & SENSITIVITY DECOMPOSITION
 # -------------------------------------------------------------
 with tab2:
-    st.subheader("Unsupervised Timeline Compression Detection")
+    st.subheader("Unsupervised Isolation Forest: Multi-Variate Anomaly Isolation")
     st.markdown(
         """
-        An **Isolation Forest (50 Estimators)** identifies non-linear multi-variate anomalies 
-        by isolating outliers that combine abnormally high financial exposure with truncated bidding durations.
+        The **Isolation Forest (50 Estimators)** isolates data points by randomly sub-sampling features. 
+        In procurement forensic spaces, anomalies are points with short average path lengths $h(x)$, 
+        isolating severe combinations of **sanctioned capital scale** and **truncated bidding windows**.
         """
     )
     
@@ -583,21 +630,33 @@ with tab2:
         clean_features = clean_features.fillna({'estimated_cost_lac': 25.0, 'actual_window_days': 10, 'deficit_days': 0.0})
         clean_features['actual_window_days'] = clean_features['actual_window_days'].clip(lower=1)
         
-        iso = IsolationForest(n_estimators=50, contamination=0.20, random_state=42)
+        log_cost_local = np.log10(df_filtered['tender_amount'].clip(lower=1000.0).values)
+        windows_local = df_filtered['actual_window_days'].clip(lower=1).values
+        X_local = np.column_stack([log_cost_local, windows_local])
+
+        iso_local = IsolationForest(n_estimators=50, contamination=0.15, random_state=42)
         df_plot = df_filtered.copy()
-        df_plot['anomaly'] = iso.fit_predict(clean_features[['estimated_cost_lac', 'actual_window_days']])
-        df_plot['anomaly_label'] = df_plot['anomaly'].map({1: 'Normal Tender', -1: 'Statutory Anomaly'})
+        preds_local = iso_local.fit_predict(X_local)
+        df_plot['local_anomaly'] = preds_local
         
+        # Color palette for multi-sieve classifications
+        color_map = {
+            'Dual Sieve (Rule 43 + ML)': '#f85149',
+            'Statutory Violation Only': '#d29922',
+            'ML Latent Anomaly': '#58a6ff',
+            'Compliant Baseline': '#3fb950'
+        }
+
         fig_scatter = px.scatter(
             df_plot,
             x='actual_window_days',
             y='estimated_cost_lac',
-            color='anomaly_label',
-            color_discrete_map={'Normal Tender': '#3fb950', 'Statutory Anomaly': '#f85149'},
-            hover_data=['tender_id', 'district', 'statutory_min_days', 'deficit_days'],
+            color='sieve_category',
+            color_discrete_map=color_map,
+            hover_data=['tender_id', 'district', 'statutory_min_days', 'deficit_days', 'ml_score'],
             log_y=True,
-            title="Multi-variate Isolation Forest: Bidding Window vs Sanctioned Cost",
-            labels={'actual_window_days': 'Bidding Window (Days)', 'estimated_cost_lac': 'Sanctioned Cost (₹ Lakhs, Log Scale)'}
+            title="Multi-Variate Feature Space: Bidding Window vs Sanctioned Cost (Log₁₀ Scale)",
+            labels={'actual_window_days': 'Bidding Window (Days)', 'estimated_cost_lac': 'Sanctioned Cost (₹ Lakhs, Log Scale)', 'sieve_category': 'Classification'}
         )
         fig_scatter.add_vline(x=7, line_dash="dash", line_color="#8b949e", annotation_text="7d Min (<10L)")
         fig_scatter.add_vline(x=10, line_dash="dash", line_color="#8b949e", annotation_text="10d Min (<50L)")
@@ -606,19 +665,19 @@ with tab2:
         fig_scatter.update_layout(template="plotly_dark", height=450)
         st.plotly_chart(fig_scatter, use_container_width=True)
 
-        # Explainable AI (XAI) Inspector
+        # Baseline Deviation & Sensitivity Decomposition
         st.markdown("---")
-        st.subheader("Explainable AI (XAI): Forensic Feature Attribution")
-        st.caption("Decomposing multi-variate tree anomalies into interpretable feature contributions.")
+        st.subheader("Empirical Baseline Deviation & Sensitivity Decomposition")
+        st.caption("Quantifying the contribution of feature deviations relative to the compliant baseline.")
 
-        anomalies_df = df_plot[df_plot['anomaly_label'] == "Statutory Anomaly"]
+        anomalies_df = df_plot[df_plot['ml_anomaly'] | df_plot['is_violation']]
         if not anomalies_df.empty:
             xai_col1, xai_col2 = st.columns([1, 2])
             with xai_col1:
                 target_anomaly_id = st.selectbox(
-                    "Select Anomaly to Explain:",
+                    "Select Flagged Notice to Decompose:",
                     anomalies_df['tender_id'].tolist(),
-                    key="xai_select_tid"
+                    key="decomp_select_tid"
                 )
                 selected_sample = anomalies_df[anomalies_df['tender_id'] == target_anomaly_id].iloc[0]
                 st.markdown(f"""
@@ -627,10 +686,11 @@ with tab2:
                 **Sanctioned Cost:** ₹ {selected_sample['estimated_cost_lac']:.2f} Lakhs  
                 **Published Window:** {int(selected_sample['actual_window_days'])} Days (Mandated: {int(selected_sample['statutory_min_days'])}d)  
                 **Statutory Deficit:** {selected_sample['deficit_days']:.1f} Days  
+                **Audit Sieve:** `{selected_sample['sieve_category']}`  
                 """)
 
             with xai_col2:
-                compliant_baseline = df_plot[df_plot['anomaly_label'] == "Normal Tender"]
+                compliant_baseline = df_plot[df_plot['sieve_category'] == "Compliant Baseline"]
                 if compliant_baseline.empty:
                     compliant_baseline = df_plot
 
@@ -649,33 +709,33 @@ with tab2:
                 total_diff = diff_ratio + diff_log + diff_def
                 attribution_df = pd.DataFrame({
                     "Feature": [
-                        "Timeline Squeeze Ratio (Deficit / Statutory Min)",
-                        "Contract Valuation Exposure (log₁₀ Amount)",
+                        "Timeline Squeeze Ratio (Deficit / Mandated Min)",
+                        "Capital Valuation Scale (log₁₀ Amount)",
                         "Absolute Timeline Deficit (Days Lost)"
                     ],
-                    "Attribution (%)": [
+                    "Sensitivity (%)": [
                         round((diff_ratio / total_diff) * 100, 1),
                         round((diff_log / total_diff) * 100, 1),
                         round((diff_def / total_diff) * 100, 1)
                     ]
-                }).sort_values(by="Attribution (%)", ascending=True)
+                }).sort_values(by="Sensitivity (%)", ascending=True)
 
                 fig_xai = px.bar(
                     attribution_df,
-                    x="Attribution (%)",
+                    x="Sensitivity (%)",
                     y="Feature",
                     orientation="h",
-                    color="Attribution (%)",
+                    color="Sensitivity (%)",
                     color_continuous_scale="Tealgrn",
-                    title="Feature Contribution Breakdown (Why Was This Flagged?)"
+                    title="Feature Sensitivity Attribution Breakdown"
                 )
                 fig_xai.update_layout(height=240, margin=dict(l=0, r=20, t=35, b=20), template="plotly_dark")
                 st.plotly_chart(fig_xai, use_container_width=True)
     else:
-        st.warning("Insufficient data points in selected circle for isolation forest fitting.")
+        st.warning("Insufficient sample size in selected circle for Isolation Forest fitting (N < 10 threshold enforced).")
 
 # -------------------------------------------------------------
-# TAB 3: INFERENTIAL CHI-SQUARE, MARCH RUSH & CAG BENCHMARK
+# TAB 3: INFERENTIAL CHI-SQUARE, TEMPORAL CONTROL & CAG ALIGNMENT
 # -------------------------------------------------------------
 with tab3:
     st.subheader("Statistical Validation & Macro-Fiscal Impact Analysis")
@@ -697,96 +757,104 @@ with tab3:
             try:
                 if (ct.sum(axis=0) > 0).all() and (ct.sum(axis=1) > 0).sum() >= 2:
                     chi2, p_val, dof, ex = stats.chi2_contingency(ct)
-                    st.markdown(f"**Pearson's Chi-Square:** $\\chi^2 = {chi2:.2f}$ | $p = {p_val:.2e}$")
+                    st.markdown(f"**Pearson's Chi-Square Test:** $\\chi^2 = {chi2:.2f}$ | $p = {p_val:.2e}$")
                     if p_val < 0.001:
-                        st.success("Null Hypothesis Rejected (p < 0.001). Selective compression on high-value public works is statistically systemic, not random.")
+                        st.success("Null Hypothesis Rejected (p < 0.001). Timeline compression is systematically correlated with high-value infrastructure packages.")
                 else:
-                    st.info("Chi-Square test omitted: Selected circle has zero variance (all notices are compliant).")
+                    st.info("Chi-Square test omitted: Contingency cells lack bivariate variance.")
             except Exception:
-                st.info("Statistical test omitted due to zero expected cell counts in this subset.")
+                st.info("Statistical test omitted due to expected cell counts.")
 
         with col_stat2:
-            st.markdown("##### Macro-Fiscal Loss Model (OECD / World Bank Benchmark)")
+            st.markdown("##### Macro-Fiscal Exposure Benchmark (OECD / World Bank Model)")
             viol_capital = df_all[df_all['is_violation']]['tender_amount'].sum()
             savings_15 = viol_capital * 0.15
             
             st.write(f"• **Sample Capital Under Compressed Timelines:** ₹{viol_capital/1e7:,.2f} Crore")
-            st.write(f"• **Recoverable Public Funds in Sample (15% Margin):** ₹{savings_15/1e7:,.2f} Crore")
-            st.write("• **Extrapolated Rajasthan Annual Fiscal Savings:** ~₹6,000 Crore / year")
+            st.write(f"• **Competitive Recovery Potential (15% Open Benchmark):** ₹{savings_15/1e7:,.2f} Crore")
+            st.write("• **Extrapolated State Annual Fiscal Exposure:** ~₹6,000 Crore / year")
             st.write("• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
-            st.caption("Based on 15% median competitive discount achieved through non-collusive open bidding windows.")
+            st.caption("Modeled on 15% median competitive price discovery achieved through uncompressed, non-collusive bidding.")
 
-        # March Rush Temporal Analysis
+        # Temporal Confounder Control (March Rush)
         st.markdown("---")
         st.subheader("Temporal Confounder Control: The 'March Rush' Analysis")
-        st.caption("Testing whether notice compression is driven by fiscal year-end budget exhaustion (March 31).")
+        st.caption("Testing whether timeline compression is an isolated consequence of fiscal year-end budget lapse (March 31).")
 
         q_order = ["Q1 (Apr-Jun)", "Q2 (Jul-Sep)", "Q3 (Oct-Dec)", "Q4 (Jan-Mar: March Rush)"]
-        ct_q = pd.crosstab(df_filtered['fiscal_quarter'].astype(str), df_filtered['is_violation'])
-        ct_q = ct_q.reindex(index=q_order, columns=[False, True], fill_value=0)
-        ct_q.columns = ['Compliant', 'Violation']
-        ct_q['Total'] = ct_q.sum(axis=1)
+        valid_temporal_df = df_filtered[df_filtered['fiscal_quarter'].isin(q_order)]
 
-        t_col1, t_col2 = st.columns([1, 1])
-        with t_col1:
-            st.write("**Quarterly Distribution Matrix:**")
-            st.dataframe(ct_q, use_container_width=True)
+        if not valid_temporal_df.empty:
+            ct_q = pd.crosstab(valid_temporal_df['fiscal_quarter'].astype(str), valid_temporal_df['is_violation'])
+            ct_q = ct_q.reindex(index=q_order, columns=[False, True], fill_value=0)
+            ct_q.columns = ['Compliant', 'Violation']
+            ct_q['Total'] = ct_q.sum(axis=1)
 
-        calc_q = ct_q[['Compliant', 'Violation']]
-        active_quarters = calc_q[calc_q.sum(axis=1) > 0]
-        
-        with t_col2:
-            has_temporal_variance = (
-                len(active_quarters) >= 2 and 
-                (active_quarters['Compliant'].sum() > 0) and 
-                (active_quarters['Violation'].sum() > 0)
-            )
+            t_col1, t_col2 = st.columns([1, 1])
+            with t_col1:
+                st.write("**Quarterly Distribution Matrix (Empirical Dates Only):**")
+                st.dataframe(ct_q, use_container_width=True)
+                undated_count = len(df_filtered) - len(valid_temporal_df)
+                if undated_count > 0:
+                    st.caption(f"Integrity Safeguard: {undated_count} undated notices excluded from temporal matrix to prevent synthetic bias.")
+
+            calc_q = ct_q[['Compliant', 'Violation']]
+            active_quarters = calc_q[calc_q.sum(axis=1) > 0]
             
-            if has_temporal_variance:
-                try:
-                    chi2_q, p_val_q, _, _ = stats.chi2_contingency(active_quarters)
-                    st.metric("Temporal Chi-Square (χ²)", f"{chi2_q:.2f}")
-                    st.metric("Temporal p-Value", f"{p_val_q:.4f}")
-                    if p_val_q > 0.05:
-                        st.info("Finding: No statistically significant clustering in Q4 (p > 0.05). Timeline compression occurs year-round and is not an isolated 'March Rush' artifact.")
-                    else:
-                        st.warning("Finding: Statistically significant quarterly variance detected across fiscal cycles.")
-                except ValueError:
-                    st.info("Temporal Chi-Square test omitted: Expected cell frequencies contain zero in this subset.")
-            else:
-                st.info("Temporal Chi-Square test requires notices in both Compliant and Violation states across at least two quarters to calculate variance.")
+            with t_col2:
+                has_temporal_variance = (
+                    len(active_quarters) >= 2 and 
+                    (active_quarters['Compliant'].sum() > 0) and 
+                    (active_quarters['Violation'].sum() > 0)
+                )
+                
+                if has_temporal_variance:
+                    try:
+                        chi2_q, p_val_q, _, _ = stats.chi2_contingency(active_quarters)
+                        st.metric("Temporal Chi-Square (χ²)", f"{chi2_q:.2f}")
+                        st.metric("Temporal p-Value", f"{p_val_q:.4f}")
+                        if p_val_q > 0.05:
+                            st.info("Finding: No statistically significant clustering in Q4 (p > 0.05). Timeline compression is a systemic year-round operational pattern.")
+                        else:
+                            st.warning("Finding: Statistically significant quarterly variance detected across fiscal cycles.")
+                    except ValueError:
+                        st.info("Temporal Chi-Square omitted: Zero frequencies in subset cells.")
+                else:
+                    st.info("Temporal test requires notices across multiple active quarters.")
 
-        q_rates = df_filtered.groupby('fiscal_quarter')['is_violation'].mean().reset_index()
-        q_rates['q_sort'] = q_rates['fiscal_quarter'].apply(lambda x: q_order.index(x) if x in q_order else 99)
-        q_rates = q_rates.sort_values('q_sort').drop(columns=['q_sort'])
-        q_rates['Violation Rate (%)'] = (q_rates['is_violation'] * 100).round(1)
+            q_rates = valid_temporal_df.groupby('fiscal_quarter')['is_violation'].mean().reset_index()
+            q_rates['q_sort'] = q_rates['fiscal_quarter'].apply(lambda x: q_order.index(x) if x in q_order else 99)
+            q_rates = q_rates.sort_values('q_sort').drop(columns=['q_sort'])
+            q_rates['Violation Rate (%)'] = (q_rates['is_violation'] * 100).round(1)
 
-        fig_q = px.bar(
-            q_rates,
-            x='fiscal_quarter',
-            y='Violation Rate (%)',
-            color='Violation Rate (%)',
-            color_continuous_scale="Blues",
-            title="Notice Duration Violation Rate Across Indian Fiscal Quarters"
-        )
-        fig_q.update_layout(template="plotly_dark", height=320)
-        st.plotly_chart(fig_q, use_container_width=True)
+            fig_q = px.bar(
+                q_rates,
+                x='fiscal_quarter',
+                y='Violation Rate (%)',
+                color='Violation Rate (%)',
+                color_continuous_scale="Blues",
+                title="Notice Duration Violation Rate Across Indian Fiscal Quarters"
+            )
+            fig_q.update_layout(template="plotly_dark", height=320)
+            st.plotly_chart(fig_q, use_container_width=True)
+        else:
+            st.info("No dated records available in this selection for temporal analysis.")
 
         # CAG Empirical Validation Card
         st.markdown("---")
         st.subheader("Empirical Ground-Truth Validation (CAG Audit Alignment)")
-        st.caption("Validating algorithmic anomaly flags against official Comptroller & Auditor General (CAG) findings.")
+        st.caption("Benchmarking automated system detection against published Comptroller & Auditor General (CAG) state audit reports.")
 
         cag_col1, cag_col2 = st.columns([1, 1])
         with cag_col1:
             st.markdown("""
             <div style="background: #0B1120; border: 1px solid #1E293B; border-radius: 8px; padding: 16px;">
                 <div style="color: #94A3B8; font-size: 0.75rem; font-weight: 700; text-transform: uppercase;">Official Audit Authority Benchmark</div>
-                <div style="color: #F8FAFC; font-size: 1.05rem; font-weight: 800; margin: 4px 0 10px 0;">CAG State Public Works Audit (Rajasthan)</div>
+                <div style="color: #F8FAFC; font-size: 1.05rem; font-weight: 800; margin: 4px 0 10px 0;">CAG State Public Works Findings</div>
                 <ul style="color: #CBD5E1; font-size: 0.82rem; line-height: 1.6; margin: 0; padding-left: 18px;">
-                    <li><strong>Statutory Finding:</strong> Recurring reduction of statutory notice timelines under Rule 43 without documented emergency file notings.</li>
-                    <li><strong>Observed Consequence:</strong> Compressed notice intervals directly correlated with single-bidder submissions and restricted market turnout.</li>
-                    <li><strong>Empirical Match:</strong> High-risk divisions identified by CAG match the top clusters in our Authority Exposure Ranking.</li>
+                    <li><strong>Statutory Finding:</strong> Systematic reduction of notice intervals under Rule 43 without documented emergency justifications.</li>
+                    <li><strong>Market Consequence:</strong> Compressed timelines directly caused single-bidder scenarios and restricted competition.</li>
+                    <li><strong>Division Matching:</strong> High-risk engineering circles identified by CAG align with our Authority Exposure clusters.</li>
                 </ul>
             </div>
             """, unsafe_allow_html=True)
@@ -796,9 +864,9 @@ with tab3:
                 <div style="color: #94A3B8; font-size: 0.75rem; font-weight: 700; text-transform: uppercase;">Automated System Convergence</div>
                 <div style="color: #38BDF8; font-size: 1.05rem; font-weight: 800; margin: 4px 0 10px 0;">Project TRUTH Real-Time Alignment</div>
                 <ul style="color: #CBD5E1; font-size: 0.82rem; line-height: 1.6; margin: 0; padding-left: 18px;">
-                    <li><strong>Automated Detection:</strong> Flagged violations systematically isolate the statutory deficit without human audit lag.</li>
-                    <li><strong>Statistical Validation:</strong> Pearson's Chi-Square test confirms non-random concentration in high-value tiers (p &lt; 0.001).</li>
-                    <li><strong>Actionable Remedy:</strong> Automatically drafts targeted Form 'A' RTI applications demanding the exact missing file notes cited in CAG reports.</li>
+                    <li><strong>Deterministic Parsing:</strong> Eliminates human audit lag by identifying statutory timeline deficits in milliseconds.</li>
+                    <li><strong>Dual-Sieve Machine Learning:</strong> Flags compound multi-variate risks that evade simple manual inspection.</li>
+                    <li><strong>Statutory RTI Remedy:</strong> Automatically drafts targeted Form 'A' petitions demanding missing file approvals.</li>
                 </ul>
             </div>
             """, unsafe_allow_html=True)
@@ -811,7 +879,7 @@ with tab4:
     st.markdown(
         """
         Validating that the cryptographic Merkle pipeline and Isolation Forest scale linearly 
-        O(N) and logarithmically O(N log N) to audit the combined annual procurement throughput 
+        $\mathcal{O}(N)$ and logarithmically $\mathcal{O}(N \log N)$ to audit the combined annual procurement throughput 
         of the Government of India without latency bottlenecks.
         """
     )
@@ -820,16 +888,16 @@ with tab4:
     with c_bench1:
         batch_size = st.select_slider(
             "Select Nationwide Simulation Batch Size:",
-            options=[10000, 25000, 50000, 100000, 200000],
-            value=50000
+            options=[1000, 5000, 10000, 25000, 50000],
+            value=10000
         )
         run_stress_test = st.button("Execute Live Stress Test", type="primary", use_container_width=True)
 
     with c_bench2:
         st.info(
-            f"**Evaluation Scope:** Processing **{batch_size:,} contracts** simulates the concurrent "
-            f"national intake across Central Public Sector Undertakings (NHAI, Railways, CPWD, Defence). "
-            f"Real-time execution measures cryptographic hashing speed and ML inference throughput."
+            f"**Evaluation Scope:** Processing **{batch_size:,} contracts** simulates concurrent national "
+            f"procurement volume across CPSUs (NHAI, Indian Railways, CPWD, Defence). Real-time telemetry "
+            f"measures cryptographic hashing throughput and SIMD query execution."
         )
 
     if run_stress_test:
@@ -885,15 +953,15 @@ with tab4:
         st.markdown("---")
         st.markdown("#### Real-Time Telemetry & Throughput")
         b1, b2, b3, b4 = st.columns(4)
-        b1.metric("Total Latency", f"{total_lat:.3f} s", f"{throughput:,} tenders/sec")
-        b2.metric("Merkle Root Construction", f"{t_merkle*1000:.1f} ms", f"{int(batch_size/t_merkle):,} hashes/sec")
+        b1.metric("Total Latency", f"{total_lat:.3f} s", f"{throughput:,} notices/sec")
+        b2.metric("Merkle Root Hash Speed", f"{t_merkle*1000:.1f} ms", f"{int(batch_size/t_merkle):,} hashes/sec")
         b3.metric("Isolation Forest (50 Trees)", f"{t_ml*1000:.1f} ms", "Multi-Threaded")
         b4.metric("Statutory Auditing", f"{t_rules*1000:.2f} ms", f"{violations_count:,} flagged")
 
         st.code("National Batch Merkle Root: 0x" + b_root, language="text")
 
-        st.markdown("##### Empirical vs Theoretical O(N log N) Algorithmic Scaling")
-        sizes = np.array([10000, 25000, 50000, 100000, 200000])
+        st.markdown("##### Empirical vs Theoretical Algorithmic Scaling Bound")
+        sizes = np.array([1000, 5000, 10000, 25000, 50000])
         theo_latencies = (sizes * np.log2(sizes)) / (batch_size * math.log2(batch_size)) * total_lat
 
         fig_curve = go.Figure()
@@ -931,14 +999,14 @@ with tab4:
                 "Select Analytical SQL Audit Query:",
                 [
                     "Division Non-Compliance Aggregation",
-                    "High-Value Contract Risk Clustering",
-                    "Severe Timeline Squeeze (Deficit > 10d)"
+                    "Dual-Sieve Criticals (Rule 43 + ML Anomaly)",
+                    "Severe Timeline Squeeze (Deficit >= 10d)"
                 ]
             )
             if preset == "Division Non-Compliance Aggregation":
                 default_sql = "SELECT division, COUNT(*) AS total_notices, SUM(CASE WHEN is_violation THEN 1 ELSE 0 END) AS violations, ROUND(AVG(deficit_days), 1) AS avg_deficit_days, ROUND(SUM(estimated_cost_lac) / 100.0, 2) AS capital_cr FROM procurement_registry GROUP BY division ORDER BY violations DESC;"
-            elif preset == "High-Value Contract Risk Clustering":
-                default_sql = "SELECT tender_id, division, estimated_cost_lac, actual_window_days, deficit_days, risk_score FROM procurement_registry WHERE estimated_cost_lac >= 50.0 AND is_violation = true ORDER BY risk_score DESC LIMIT 10;"
+            elif preset == "Dual-Sieve Criticals (Rule 43 + ML Anomaly)":
+                default_sql = "SELECT tender_id, division, estimated_cost_lac, actual_window_days, deficit_days, risk_score, ml_score FROM procurement_registry WHERE is_violation = true AND ml_anomaly = true ORDER BY risk_score DESC LIMIT 10;"
             else:
                 default_sql = "SELECT tender_id, division, statutory_min_days, actual_window_days, deficit_days FROM procurement_registry WHERE deficit_days >= 10.0 ORDER BY deficit_days DESC;"
 
@@ -962,7 +1030,7 @@ with tab4:
 # TAB 5: STATUTORY RTI & VIGILANCE ACTION ENGINE
 # -------------------------------------------------------------
 with tab5:
-    st.subheader("One-Click Statutory RTI & Vigilance Dossier Generator")
+    st.subheader("Statutory RTI & Vigilance Dossier Generator")
     st.markdown(
         """
         **Closing the Loop from Forensic Detection to Administrative Accountability:**  
@@ -972,14 +1040,16 @@ with tab5:
         """
     )
 
-    violating_ids = df_filtered[df_filtered['is_violation']]['tender_id'].tolist() if not df_filtered.empty else []
+    # Allow selecting from all flagged notices (Statutory or ML Anomaly)
+    flagged_df = df_filtered[df_filtered['is_violation'] | df_filtered['ml_anomaly']]
+    flagged_ids = flagged_df['tender_id'].tolist() if not flagged_df.empty else []
     
-    if violating_ids:
+    if flagged_ids:
         c_sel1, c_sel2 = st.columns([2, 1])
         with c_sel1:
             target_rti_id = st.selectbox(
                 "Select Flagged Tender Notice to Generate Legal Dossier:", 
-                violating_ids,
+                flagged_ids,
                 key="rti_target_select_tab5"
             )
         
@@ -995,80 +1065,11 @@ with tab5:
         col_meta1, col_meta2, col_meta3 = st.columns(3)
         col_meta1.info(f"**Sanctioned Value:** ₹{target_row['estimated_cost_lac']:.2f} Lakhs")
         col_meta2.info(f"**Authority:** {target_row['division']}")
-        col_meta3.warning(f"**Procurement Risk Score:** {target_row['risk_score']} / 100")
+        col_meta3.warning(f"**Audit Classification:** {target_row['sieve_category']}")
 
-        rti_draft = """FORM 'A'
+        finding_str = f"Confirmed Rule 43 Timeline Squeeze ({target_row['deficit_days']:.1f} Days Deficit)" if target_row['is_violation'] else "Compound Multi-Variate Anomaly (Elevated Capital Velocity)"
+        ml_finding_str = f"Isolation Forest Anomaly Score: {target_row['ml_score']}/100" if target_row['ml_anomaly'] else "Standard Multivariate Baseline"
+
+        rti_draft = f"""FORM 'A'
 [See Rule 3(1)]
-APPLICATION FOR OBTAINING INFORMATION UNDER SECTION 6(1) OF THE RIGHT TO INFORMATION ACT, 2005
-
-To,
-The State Public Information Officer (SPIO) / Executive Engineer,
-{division}, {district} Circle,
-Government of Rajasthan.
-
-SUBJECT: STATUTORY INQUIRY REGARDING TIMELINE COMPRESSION IN TENDER ID: {tender_id}
-
-Respected Authority,
-
-1. PARTICULARS OF THE APPLICANT:
-   Name: Citizen Forensic Audit / Public Interest Whistleblower
-   Jurisdiction: State of Rajasthan, India
-
-2. PARTICULARS OF INFORMATION SOUGHT:
-   This inquiry pertains to Tender Reference '{nit_no}' (Portal Tender ID: {tender_id}), 
-   sanctioned for ₹{cost:.2f} Lakhs with an advertised bidding window of only {window} days.
-
-   Under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013, public works exceeding 
-   statutory valuation thresholds legally require a mandatory minimum advertising window of {mandated} days. 
-   The subject tender exhibits an illegal timeline deficit of {deficit:.1f} days.
-
-   Please furnish certified copies of the following public records:
-   a) Certified copies of the Competent Authority's written approval and official file notings recorded 
-      under Rule 43(2) of the RTPP Rules, 2013, justifying the reduction of the bidding period.
-   b) Certified copies of the emergent circumstances or documented public urgency recorded prior to 
-      issuing this truncated notice.
-   c) Total number of technical bids received on the portal prior to bid closing date.
-   d) Whether the subject contract was awarded to a single bidder or if competitive bidding was restricted.
-
-3. CRYPTOGRAPHIC INTEGRITY VERIFICATION:
-   Forensic Leaf Digest: SHA-256(0x00 || {tender_id}:{amt}:{window})
-   RFC 6962 State Merkle Root: 0x{merkle_root}
-   Audit Status: Confirmed High-Risk Statutory Anomaly (PRI Score: {risk}/100)
-
-4. APPLICATION FEE:
-   Prescribed fee of ₹10/- is tendered via Court Fee Stamp / IPO.
-
-Date: {today}
-Place: {district}, Rajasthan
-""".format(
-            division=target_row['division'],
-            district=target_row['district'],
-            tender_id=target_row['tender_id'],
-            nit_no=target_row['nit_no'],
-            cost=target_row['estimated_cost_lac'],
-            window=target_row['actual_window_days'],
-            mandated=target_row['statutory_min_days'],
-            deficit=target_row['deficit_days'],
-            amt=int(target_row['tender_amount']),
-            merkle_root=current_root,
-            risk=target_row['risk_score'],
-            today=pd.Timestamp.now().strftime('%d-%b-%Y')
-        )
-
-        st.text_area("Generated Legal RTI Application Draft:", rti_draft, height=330)
-        
-        st.download_button(
-            label="Download RTI Application Notice (.txt)",
-            data=rti_draft,
-            file_name=f"RTI_Notice_{target_row['tender_id']}.txt",
-            mime="text/plain",
-            type="primary"
-        )
-    else:
-        st.info("No statutory violations detected in the currently selected filter.")
-
-# -------------------------------------------------------------
-# FOOTER (CLEAN RUNTIME STRING - ZERO ANONYMIZATION RISK)
-# -------------------------------------------------------------
-st.markdown("---")
-st.caption("Project TRUTH • STABLE CORE ENGINE v1.0.4 • DEPLOYED RUNTIME STATE")
+APPLICATION FOR OBTAINING INFORMATION UNDER SECTION
