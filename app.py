@@ -29,7 +29,6 @@ st.set_page_config(
 
 st.markdown("""
 <style>
-    /* Clean display container - eliminate default boilerplate */
     [data-testid="stHeader"] { display: none !important; }
     #MainMenu { display: none !important; }
     footer { display: none !important; }
@@ -65,12 +64,6 @@ st.markdown("""
         font-weight: 600; 
         margin-top: 4px; 
     }
-    .metric-sub-blue { 
-        color: #38BDF8; 
-        font-size: 11px; 
-        font-weight: 600; 
-        margin-top: 4px; 
-    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -78,12 +71,6 @@ st.markdown("""
 # 2. CRYPTOGRAPHIC INTEGRITY: RFC 6962 DOMAIN-SEPARATED MERKLE TREE
 # -----------------------------------------------------------------------------
 class RFC6962MerkleTree:
-    """
-    Implements RFC 6962 domain separation:
-    - Leaf Node Hash: SHA-256(0x00 || LeafData)
-    - Internal Node Hash: SHA-256(0x01 || LeftChild || RightChild)
-    Prevents second-preimage attacks and guarantees deterministic O(log N) inclusion proofs.
-    """
     def __init__(self, data_list):
         self.leaf_prefix = b'\x00'
         self.node_prefix = b'\x01'
@@ -100,7 +87,6 @@ class RFC6962MerkleTree:
     def _build(self) -> bytes:
         if not self.leaves:
             return hashlib.sha256(b"").digest()
-        
         current = self.leaves
         while len(current) > 1:
             next_level = []
@@ -144,13 +130,6 @@ class RFC6962MerkleTree:
 # 3. STATUTORY RULE 43 & DUAL-SIEVE INGESTION PIPELINE
 # -----------------------------------------------------------------------------
 def calculate_rule_43(amount: float, days: float):
-    """
-    Deterministic Statutory Thresholds under RTPP Rules 2013, Rule 43:
-    - Amount <= 10 Lakhs: 7 Days Minimum
-    - 10 Lakhs < Amount <= 50 Lakhs: 10 Days Minimum
-    - 50 Lakhs < Amount <= 200 Lakhs: 15 Days Minimum
-    - Amount > 200 Lakhs (2 Crores): 30 Days Minimum
-    """
     if amount > 20000000.0:
         mandated = 30
     elif amount > 5000000.0:
@@ -248,7 +227,6 @@ def load_all_district_data():
                         elif m in [10, 11, 12]: q_assigned = q_labels[2]
                         else: q_assigned = q_labels[3]
                 
-                # Exclude unverified dates from random assignment to preserve statistical integrity
                 if not q_assigned:
                     q_assigned = "Undated / Missing Metadata"
                 
@@ -284,7 +262,6 @@ def load_all_district_data():
     if combined_rows:
         df_master = pd.DataFrame(combined_rows).drop_duplicates(subset=['tender_id'])
         
-        # Dual-Sieve Ingestion: Precompute Global Unsupervised Isolation Forest
         if len(df_master) >= 10:
             log_cost = np.log10(df_master['tender_amount'].clip(lower=1000.0).values)
             windows = df_master['actual_window_days'].clip(lower=1).values
@@ -304,7 +281,6 @@ def load_all_district_data():
             df_master['ml_anomaly'] = False
             df_master['ml_score'] = 0.0
 
-        # Classify Audit Sieve Category
         def classify_sieve(r):
             if r['is_violation'] and r['ml_anomaly']:
                 return "Dual Sieve (Rule 43 + ML)"
@@ -358,7 +334,7 @@ RAJASTHAN_ADMIN_HIERARCHY = {
 }
 
 with st.sidebar:
-    if st.button("🔄 Reload Procurement Ingestion", use_container_width=True):
+    if st.button("🔄 Reload Ingestion Corpus", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
 
@@ -432,7 +408,6 @@ with st.expander("Cryptographic Integrity Chain (RFC 6962 Proof Verifier)", expa
 
 total_audited = len(df_filtered)
 critical_viols = int(df_filtered['is_violation'].sum()) if not df_filtered.empty else 0
-ml_anomalies_count = int(df_filtered['ml_anomaly'].sum()) if not df_filtered.empty else 0
 dual_flagged_count = int((df_filtered['is_violation'] & df_filtered['ml_anomaly']).sum()) if not df_filtered.empty else 0
 viol_rate = (critical_viols / total_audited * 100) if total_audited > 0 else 0.0
 mean_pri = float(df_filtered['risk_score'].mean()) if total_audited > 0 else 0.0
@@ -562,7 +537,6 @@ with tab1:
         "text/csv"
     )
 
-    # Authority Exposure Ranking (Neutral Risk Exposure)
     st.markdown("---")
     st.subheader("Departmental Procurement Risk & Timeline Exposure")
     st.caption("Factual exposure metrics aggregated by procuring division to identify systemic non-compliance clusters.")
@@ -639,7 +613,6 @@ with tab2:
         preds_local = iso_local.fit_predict(X_local)
         df_plot['local_anomaly'] = preds_local
         
-        # Color palette for multi-sieve classifications
         color_map = {
             'Dual Sieve (Rule 43 + ML)': '#f85149',
             'Statutory Violation Only': '#d29922',
@@ -665,7 +638,6 @@ with tab2:
         fig_scatter.update_layout(template="plotly_dark", height=450)
         st.plotly_chart(fig_scatter, use_container_width=True)
 
-        # Baseline Deviation & Sensitivity Decomposition
         st.markdown("---")
         st.subheader("Empirical Baseline Deviation & Sensitivity Decomposition")
         st.caption("Quantifying the contribution of feature deviations relative to the compliant baseline.")
@@ -776,7 +748,6 @@ with tab3:
             st.write("• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
             st.caption("Modeled on 15% median competitive price discovery achieved through uncompressed, non-collusive bidding.")
 
-        # Temporal Confounder Control (March Rush)
         st.markdown("---")
         st.subheader("Temporal Confounder Control: The 'March Rush' Analysis")
         st.caption("Testing whether timeline compression is an isolated consequence of fiscal year-end budget lapse (March 31).")
@@ -840,7 +811,6 @@ with tab3:
         else:
             st.info("No dated records available in this selection for temporal analysis.")
 
-        # CAG Empirical Validation Card
         st.markdown("---")
         st.subheader("Empirical Ground-Truth Validation (CAG Audit Alignment)")
         st.caption("Benchmarking automated system detection against published Comptroller & Auditor General (CAG) state audit reports.")
@@ -984,7 +954,6 @@ with tab4:
         )
         st.plotly_chart(fig_curve, use_container_width=True)
 
-    # In-Memory Columnar Database (DuckDB Console)
     if HAS_DUCKDB:
         st.markdown("---")
         st.subheader("Embedded Columnar OLAP Engine (DuckDB)")
@@ -1040,7 +1009,6 @@ with tab5:
         """
     )
 
-    # Allow selecting from all flagged notices (Statutory or ML Anomaly)
     flagged_df = df_filtered[df_filtered['is_violation'] | df_filtered['ml_anomaly']]
     flagged_ids = flagged_df['tender_id'].tolist() if not flagged_df.empty else []
     
@@ -1070,6 +1038,86 @@ with tab5:
         finding_str = f"Confirmed Rule 43 Timeline Squeeze ({target_row['deficit_days']:.1f} Days Deficit)" if target_row['is_violation'] else "Compound Multi-Variate Anomaly (Elevated Capital Velocity)"
         ml_finding_str = f"Isolation Forest Anomaly Score: {target_row['ml_score']}/100" if target_row['ml_anomaly'] else "Standard Multivariate Baseline"
 
-        rti_draft = f"""FORM 'A'
+        rti_draft = """FORM 'A'
 [See Rule 3(1)]
-APPLICATION FOR OBTAINING INFORMATION UNDER SECTION
+APPLICATION FOR OBTAINING INFORMATION UNDER SECTION 6(1) OF THE RIGHT TO INFORMATION ACT, 2005
+
+To,
+The State Public Information Officer (SPIO) / Executive Engineer,
+{division}, {district} Circle,
+Government of Rajasthan.
+
+SUBJECT: STATUTORY INQUIRY REGARDING IRREGULAR PROCUREMENT TIMELINE IN TENDER ID: {tender_id}
+
+Respected Authority,
+
+1. PARTICULARS OF THE APPLICANT:
+   Name: Citizen Forensic Audit / Public Interest Civic Researcher
+   Jurisdiction: State of Rajasthan, India
+
+2. PARTICULARS OF INFORMATION SOUGHT:
+   This inquiry pertains to Tender Reference '{nit_no}' (Portal Tender ID: {tender_id}), 
+   sanctioned for ₹{cost:.2f} Lakhs with an advertised bidding window of only {window} days.
+
+   Under Rule 43 of the Rajasthan Transparency in Public Procurement (RTPP) Rules, 2013, public works exceeding 
+   statutory valuation thresholds legally require a mandatory minimum advertising window of {mandated} days. 
+   The subject tender exhibits an illegal timeline deficit of {deficit:.1f} days.
+
+   TECHNICAL AUDIT FINDINGS:
+   - Statutory Sieve: {stat_finding}
+   - Machine Learning Sieve: {ml_finding}
+   - Forensic Risk Classification: {classification} (PRI: {risk}/100)
+
+   Please furnish certified copies of the following public records:
+   a) Certified copies of the Competent Authority's written approval and official file notings recorded 
+      under Rule 43(2) of the RTPP Rules, 2013, justifying the reduction of the bidding period.
+   b) Certified copies of the emergent circumstances or documented public urgency recorded prior to 
+      issuing this truncated notice.
+   c) Total number of technical and financial bids received on the portal prior to bid closing date.
+   d) Whether the subject contract was awarded to a single bidder or if competitive bidding was restricted.
+
+3. CRYPTOGRAPHIC INTEGRITY VERIFICATION:
+   Forensic Leaf Digest: SHA-256(0x00 || {tender_id}:{amt}:{window})
+   RFC 6962 State Merkle Root: 0x{merkle_root}
+   Audit Status: Confirmed Forensic Irregularity ({classification})
+
+4. APPLICATION FEE:
+   Prescribed fee of ₹10/- is tendered via Court Fee Stamp / IPO.
+
+Date: {today}
+Place: {district}, Rajasthan
+""".format(
+            division=target_row['division'],
+            district=target_row['district'],
+            tender_id=target_row['tender_id'],
+            nit_no=target_row['nit_no'],
+            cost=target_row['estimated_cost_lac'],
+            window=int(target_row['actual_window_days']),
+            mandated=int(target_row['statutory_min_days']),
+            deficit=target_row['deficit_days'],
+            stat_finding=finding_str,
+            ml_finding=ml_finding_str,
+            classification=target_row['sieve_category'],
+            risk=target_row['risk_score'],
+            amt=int(target_row['tender_amount']),
+            merkle_root=current_root,
+            today=pd.Timestamp.now().strftime('%d-%b-%Y')
+        )
+
+        st.text_area("Generated Legal RTI Application Draft:", rti_draft, height=330)
+        
+        st.download_button(
+            label="Download RTI Application Notice (.txt)",
+            data=rti_draft,
+            file_name=f"RTI_Notice_{target_row['tender_id']}.txt",
+            mime="text/plain",
+            type="primary"
+        )
+    else:
+        st.info("No statutory or machine learning violations detected in the currently selected filter.")
+
+# -------------------------------------------------------------
+# FOOTER (ANONYMIZED RUNTIME STATE)
+# -------------------------------------------------------------
+st.markdown("---")
+st.caption("Project TRUTH • STABLE CORE ENGINE v1.1.0 • DUAL-SIEVE RUNTIME STATE")
