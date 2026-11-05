@@ -29,6 +29,7 @@ st.set_page_config(
 
 st.markdown("""
 <style>
+    /* Clean display container - eliminate default boilerplate */
     [data-testid="stHeader"] { display: none !important; }
     #MainMenu { display: none !important; }
     footer { display: none !important; }
@@ -71,6 +72,12 @@ st.markdown("""
 # 2. CRYPTOGRAPHIC INTEGRITY: RFC 6962 DOMAIN-SEPARATED MERKLE TREE
 # -----------------------------------------------------------------------------
 class RFC6962MerkleTree:
+    """
+    Implements RFC 6962 domain separation:
+    - Leaf Node Hash: SHA-256(0x00 || LeafData)
+    - Internal Node Hash: SHA-256(0x01 || LeftChild || RightChild)
+    Prevents second-preimage attacks and guarantees deterministic O(log N) inclusion proofs.
+    """
     def __init__(self, data_list):
         self.leaf_prefix = b'\x00'
         self.node_prefix = b'\x01'
@@ -87,6 +94,7 @@ class RFC6962MerkleTree:
     def _build(self) -> bytes:
         if not self.leaves:
             return hashlib.sha256(b"").digest()
+        
         current = self.leaves
         while len(current) > 1:
             next_level = []
@@ -262,6 +270,7 @@ def load_all_district_data():
     if combined_rows:
         df_master = pd.DataFrame(combined_rows).drop_duplicates(subset=['tender_id'])
         
+        # Dual-sieve ML component: Fit unsupervised Isolation Forest globally
         if len(df_master) >= 10:
             log_cost = np.log10(df_master['tender_amount'].clip(lower=1000.0).values)
             windows = df_master['actual_window_days'].clip(lower=1).values
