@@ -916,3 +916,5 @@ tender_id,nit_no,division,district,administrative_division,tender_amount,estimat
 2026_WRDAS_601432_1,NIT 601432_1,Kota Division,Kota,,2500000.0,25.0,,,22.0,10.0,0.0,False,0.0
 2026_WRDAS_600522_1,NIT 600522_1,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
 2026_WRDAS_600496_1,NIT 600496_1,Kota Division,Kota,,2500000.0,25.0,,,28.0,10.0,0.0,False,0.0
+2026_MEDIC_KOTA_702998,NIT_143/KOT/2026,Department of Medical Education (Kota Circle),Kota,Kota Division,836321.82,8.36,10.0,2026-11-11,,,,,
+2026_FORES_KOTA_899681,NIT_498/KOT/2026,Forest Department (Kota Circle),Kota,Kota Division,877971.81,8.78,12.0,2026-11-11,,,,,

@@ -802,3 +802,5 @@ tender_id,nit_no,division,district,administrative_division,tender_amount,estimat
 2026_WRDAS_600989_1,NIT 600989_1,Udaipur Division,Udaipur,,2500000.0,25.0,,,23.0,10.0,0.0,False,0.0
 2026_WRDAS_600994_1,NIT 600994_1,Udaipur Division,Udaipur,,2500000.0,25.0,,,23.0,10.0,0.0,False,0.0
 2026_WRDAS_600979_1,NIT 600979_1,Udaipur Division,Udaipur,,2500000.0,25.0,,,23.0,10.0,0.0,False,0.0
+2026_UIT_UDAI_374520,NIT_435/UDA/2026,UIT Udaipur,Udaipur,Udaipur Division,16828777.06,168.29,15.0,2026-11-11,,,,,
+2026_PHED_UDAI_137542,NIT_756/UDA/2026,Public Health Engineering Department (Udaipur Circle),Udaipur,Udaipur Division,11765041.57,117.65,16.0,2026-11-11,,,,,
