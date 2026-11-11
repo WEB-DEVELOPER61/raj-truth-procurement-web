@@ -1,4 +1,41 @@
-import os
+name: Automated Daily Tender Audit
+
+on:
+  schedule:
+    # Runs at 18:30 UTC = 00:00 Midnight IST every night
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests beautifulsoup4 pandas numpy
+
+      - name: Execute Daily Ingestion
+        run: |
+          python daily_audit.py
+
+      - name: Commit and Push Updated CSVs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/districts/*.csv
+          git diff --staged --quiet || (git commit -m "chore(data): auto-sync daily tenders [skip ci]" && git push) os
 import time
 import random
 import logging
