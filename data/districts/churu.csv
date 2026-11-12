@@ -1,0 +1,2 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-328500,Goods/2026-27/0087/058,"Medical and Health Services, Jaipur",Churu,328500.0,3.285,4,7,3,True,50.8
