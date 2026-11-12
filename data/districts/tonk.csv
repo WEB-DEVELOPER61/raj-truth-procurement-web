@@ -1,3 +1,8 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
 SHPP-4491400.00,DLB2627WSOB24090,Directorate Local Bodies,Tonk,4491400.0,44.914,12,10,0.0,False,0.0
 SHPP-54000000000.00,REC2627WLOE00034,Rajasthan Renewable Energy Coporation Limited,Tonk,54000000000.0,540000.0,61,30,0.0,False,0.0
+EPROC-2026_DLB_605573_1,NIT 07/2026-27 NAGAR PALIKA DEOLI,DLB||Dy.DR-Ajmer||EO-Deoli,Tonk,4500000.0,45.0,11,10,0.0,False,0.0
+EPROC-2026_DLB_605521_1,Nit-15/2026-27 Newai,DLB||Dy.DR-Ajmer||EO-Niwai,Tonk,1000000.0,10.0,12,7,0.0,False,0.0
+EPROC-2026_DLB_605365_1,Nit-14/2026-27 Newai,DLB||Dy.DR-Ajmer||EO-Niwai,Tonk,14969000.0,149.69,20,15,0.0,False,0.0
+EPROC-2026_RSRDC_600208_1,RSRDCC NIT 374/2026-27 Dated 23.09.2026 Sl No. 01,RSRDCC-GM,Tonk,40287000.0,402.87,53,30,0.0,False,0.0
+EPROC-2026_RRECL_602136_1,RRECL/TN-11(2026-27),RRECL - Director(T),Tonk,54000000000.0,540000.0,61,30,0.0,False,0.0

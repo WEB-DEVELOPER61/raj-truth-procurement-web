@@ -2,3 +2,7 @@ tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_windo
 SHPP-4859000.00,PHE2627WSOB06957,"Chief Engineer (Special Project) PHED, Jaipur",Sawai Madhopur,4859000.0,48.59,19,10,0.0,False,0.0
 SHPP-514540000.00,VPN2627WLOB01361,Rajasthan Rajya Vidut Prasaran Nigam Limited,Sawai Madhopur,514540000.0,5145.4,48,30,0.0,False,0.0
 SHPP-146347000.00,DLB2627WLOB22633,Directorate Local Bodies,Sawai Madhopur,146347000.0,1463.47,27,30,3,True,37.4
+EPROC-2026_DLB_605318_1,10295-01,DLB||Dy.DR-Kota||Commissioner-Sawaimadhopur,Sawai Madhopur,1353000.0,13.53,9,10,1,True,30.0
+EPROC-2026_DLB_604226_1,9622-01,DLB||Dy.DR-Kota||Commissioner-Sawaimadhopur,Sawai Madhopur,146347000.0,1463.47,27,30,3,True,37.4
+EPROC-2026_RRVPN_602050_2,RVPN/EHV/BN-9018002537,RRVPN - CMD||CE (Contracts) Jaipur||SE (Contracts-I) Jaipur,Sawai Madhopur,514540000.0,5145.4,43,30,0.0,False,0.0
+EPROC-2026_RRVPN_572914_1,NIB/2026-27/BN9074002602,RRVPN - CMD||CE (PPD) Jaipur,Sawai Madhopur,1259821000.0,12598.21,135,30,0.0,False,0.0

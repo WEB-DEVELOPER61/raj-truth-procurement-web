@@ -32,8 +32,9 @@ def parse_detail_html(raw_html: str) -> tuple[float | None, str]:
 def main():
     store = Store()
     start_total = store.real_count
-    print(f"Starting fixed eProc harvest | Existing verified rows: {start_total}")
+    print(f"Starting live eProc harvest | Existing verified rows: {start_total}", flush=True)
     stats = {"added": 0, "dup": 0, "skipped": 0, "reasons": Counter()}
+    checked = 0
 
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=True, args=["--ignore-certificate-errors"])
@@ -54,7 +55,7 @@ def main():
                         orgs.append((cells[1], cnt))
 
             orgs.sort(key=lambda x: x[1], reverse=True)
-            print(f"Found {len(orgs)} organisations ({sum(c for _, c in orgs)} active tenders). Top 5: {orgs[:5]}")
+            print(f"Found {len(orgs)} organisations ({sum(c for _, c in orgs)} active tenders). Top 5: {orgs[:5]}", flush=True)
 
             for org_idx, (org_name, expected_cnt) in enumerate(orgs, 1):
                 if store.real_count >= TARGET_ROWS:
@@ -94,6 +95,7 @@ def main():
                     for row in data_rows:
                         if store.real_count >= TARGET_ROWS:
                             break
+                        checked += 1
                         cells = [c.strip() for c in row.locator("td").all_inner_texts()]
                         pub = parse_date(cells[1])
                         close = parse_date(cells[2])
@@ -137,7 +139,7 @@ def main():
                             else f"https://eproc.rajasthan.gov.in{href if href.startswith('/') else '/nicgep/' + href}"
                         )
                         try:
-                            resp = context.request.get(full_url, timeout=20000)
+                            resp = context.request.get(full_url, timeout=10000)
                             amount, detail_txt = parse_detail_html(resp.text())
                         except Exception:
                             stats["reasons"]["detail_timeout"] += 1
@@ -147,17 +149,21 @@ def main():
                         if amount is None:
                             stats["reasons"]["na_or_zero_amount"] += 1
                             stats["skipped"] += 1
-                            continue
+                        else:
+                            district = detect_district(org_chain, title_cell, detail_txt)
+                            if not district:
+                                stats["reasons"]["no_district"] += 1
+                                stats["skipped"] += 1
+                            else:
+                                store.add(compute_row(tender_id, nit_no[:120], org_chain or org_name, district, amount, window))
+                                stats["added"] += 1
+                                org_added += 1
 
-                        district = detect_district(org_chain, title_cell, detail_txt)
-                        if not district:
-                            stats["reasons"]["no_district"] += 1
-                            stats["skipped"] += 1
-                            continue
-
-                        store.add(compute_row(tender_id, nit_no[:120], org_chain or org_name, district, amount, window))
-                        stats["added"] += 1
-                        org_added += 1
+                        if checked % 15 == 0:
+                            print(
+                                f"  [{org_name[:22]}] checked={checked} | +{stats['added']} added | Total={store.real_count} | skips={dict(stats['reasons'])}",
+                                flush=True,
+                            )
 
                     nxt = page.locator("a[id^='linkFwd'], a:has-text('Next')").first
                     if not nxt.count():
@@ -166,16 +172,16 @@ def main():
                     page.wait_for_load_state("domcontentloaded", timeout=45000)
                     page.wait_for_timeout(800)
 
-                print(f"[{org_idx}/{len(orgs)}] {org_name[:35]} ({expected_cnt} listed): +{org_added} new | Total: {store.real_count} | Skips: {dict(stats['reasons'])}")
+                print(f"[{org_idx}/{len(orgs)}] {org_name[:35]} ({expected_cnt} listed): +{org_added} new | Total: {store.real_count}", flush=True)
 
         except KeyboardInterrupt:
-            print("\nStopped early — all rows harvested so far are already saved on disk.")
+            print("\nStopped early — all rows harvested so far are saved on disk.", flush=True)
         finally:
             browser.close()
 
-    print(f"\neProc harvest finished! Total verified real rows now on disk: {store.real_count} (+{store.real_count - start_total} new)")
+    print(f"\neProc harvest finished! Total verified real rows now on disk: {store.real_count} (+{store.real_count - start_total} new)", flush=True)
     if stats["reasons"]:
-        print("Final skip breakdown:", dict(stats["reasons"]))
+        print("Final skip breakdown:", dict(stats["reasons"]), flush=True)
 
 
 if __name__ == "__main__":
