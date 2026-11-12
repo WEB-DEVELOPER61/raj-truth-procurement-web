@@ -2,3 +2,7 @@ tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_windo
 SHPP-37686000.00,PHE2627WSOB06650,"Chief Engineer (Special Project) PHED, Jaipur",Dausa,37686000.0,376.86,38,30,0.0,False,0.0
 SHPP-42951000.00,PHE2627WSOB06651,"Chief Engineer (Special Project) PHED, Jaipur",Dausa,42951000.0,429.51,38,30,0.0,False,0.0
 SHPP-79273000.00,PWD2627WLOB13407,CE Public Works Department,Dausa,79273000.0,792.73,51,30,0.0,False,0.0
+SHPP-1764000,Services/2026-27/0029/012,"Women Empowerment Department, Jaipur",Dausa,1764000.0,17.64,14,10,0.0,False,0.0
+SHPP-42000,Goods/2026-27/0021/058,"Medical and Health Services, Jaipur",Dausa,42000.0,0.42,8,7,0.0,False,0.0
+SHPP-79000,Goods/2026-27/0007/058,"Medical and Health Services, Jaipur",Dausa,79000.0,0.79,6,7,1,True,28.5
+SHPP-58276000.00,DLB2627WLOB22634,Directorate Local Bodies,Dausa,58276000.0,582.76,26,30,4,True,38.3

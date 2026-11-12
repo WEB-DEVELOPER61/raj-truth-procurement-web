@@ -1,2 +1,7 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
 SHPP-328500,Goods/2026-27/0087/058,"Medical and Health Services, Jaipur",Churu,328500.0,3.285,4,7,3,True,50.8
+SHPP-627200,Goods/2026-27/0073/058,"Medical and Health Services, Jaipur",Churu,627200.0,6.272,16,7,0.0,False,0.0
+SHPP-23000,Goods/2026-27/0045/058,"Medical and Health Services, Jaipur",Churu,23000.0,0.23,6,7,1,True,26.6
+SHPP-21055,Goods/2026-27/0056/002,"Agriculture Department, Jaipur",Churu,21055.0,0.2105,2,7,5,True,66.5
+SHPP-2496000.00,DLB2627WSOB23864,Directorate Local Bodies,Churu,2496000.0,24.96,9,10,1,True,31.0
+SHPP-210000.00,PWD2627SSOB15247,CE Public Works Department,Churu,210000.0,2.1,13,7,0.0,False,0.0

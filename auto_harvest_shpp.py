@@ -6,102 +6,66 @@ from import_shpp_har import Store, find_record_lists, extract_from_records
 TARGET_ROWS = 20000
 TABS = ["Archived Bids", "Cancelled Bids", "Latest Bids"]
 
-DATE_SLICES = [
-    ("2026-09-01", "2026-11-12"),
-    ("2026-07-01", "2026-08-31"),
-    ("2026-05-01", "2026-06-30"),
-    ("2026-03-01", "2026-04-30"),
-    ("2026-01-01", "2026-02-28"),
-    ("2025-10-01", "2025-12-31"),
-    ("2025-07-01", "2025-09-30"),
-    ("2025-04-01", "2025-06-30"),
-    ("2025-01-01", "2025-03-31"),
-    ("2024-07-01", "2024-12-31"),
-    ("2024-01-01", "2024-06-30"),
-]
 
-
-def open_publish_date_and_search(page, start_iso: str, end_iso: str) -> bool:
-    # Click the Publish Date field box to open the From/To date popover
-    if page.locator("input[type='date']").count() < 2:
-        clicked = page.evaluate("""() => {
-            const labels = Array.from(document.querySelectorAll('label, span, p, div'));
-            const lbl = labels.find(el => el.textContent && el.textContent.trim() === 'Publish Date');
-            if (lbl && lbl.parentElement) {
-                const target = lbl.parentElement.querySelector('input, [role="button"], div[class*="date"], div[class*="select"], div[class*="input"]') || lbl.parentElement;
-                target.click();
-                return true;
+def go_to_page(page, target_page: int) -> bool:
+    clicked = page.evaluate("""(targetPage) => {
+        const targetStr = String(targetPage);
+        // 1. Try clicking the exact page number button/link in pagination
+        const candidates = Array.from(document.querySelectorAll('a, button, li, span'));
+        for (const el of candidates) {
+            const txt = (el.textContent || '').trim();
+            if (txt === targetStr) {
+                const parent = el.closest('ul, nav, [class*="paginat"]');
+                if (parent) {
+                    const disabled = el.hasAttribute('disabled') ||
+                        (el.className && String(el.className).toLowerCase().includes('disabled')) ||
+                        (el.parentElement && el.parentElement.className && String(el.parentElement.className).toLowerCase().includes('disabled'));
+                    if (!disabled) {
+                        el.click();
+                        return 'page-' + targetStr;
+                    }
+                }
             }
-            return false;
-        }""")
-        if clicked:
-            page.wait_for_timeout(500)
-
-    date_inputs = page.locator("input[type='date']")
-    if date_inputs.count() >= 2:
-        date_inputs.nth(0).fill(start_iso)
-        date_inputs.nth(1).fill(end_iso)
-        done_btn = page.locator("button:has-text('Done')").first
-        if done_btn.count() and done_btn.is_visible():
-            done_btn.click(force=True)
-            page.wait_for_timeout(300)
-
-    search_btn = page.locator("button:has-text('Search')").first
-    if search_btn.count():
-        search_btn.click(force=True)
-        return True
-    return False
-
-
-def click_next_page(page) -> bool:
-    for sel in [
-        "button[aria-label*='Next' i]",
-        "a[aria-label*='Next' i]",
-        "li.pagination-next:not(.disabled) a",
-        "button:has-text('Next')",
-        "a:has-text('Next')",
-        "button:has-text('›')",
-        "a:has-text('›')",
-    ]:
-        btn = page.locator(sel).first
-        try:
-            if not btn.count() or not btn.is_visible():
-                continue
-            disabled = btn.get_attribute("disabled") is not None
-            cls = (btn.get_attribute("class") or "").lower()
-            parent_cls = btn.evaluate("e => (e.parentElement ? e.parentElement.className : '').toLowerCase()")
-            if disabled or "disabled" in cls or "disabled" in parent_cls:
-                return False
-            btn.click(timeout=3000)
-            return True
-        except Exception:
-            continue
-    return False
+        }
+        // 2. Fallback: click Next / › button
+        for (const el of candidates) {
+            const txt = (el.textContent || '').trim().toLowerCase();
+            const aria = (el.getAttribute('aria-label') || '').toLowerCase();
+            if (txt === 'next' || txt === '›' || aria.includes('next')) {
+                const disabled = el.hasAttribute('disabled') ||
+                    (el.className && String(el.className).toLowerCase().includes('disabled')) ||
+                    (el.parentElement && el.parentElement.className && String(el.parentElement.className).toLowerCase().includes('disabled'));
+                if (!disabled) {
+                    el.click();
+                    return 'next';
+                }
+            }
+        }
+        return null;
+    }""", target_page)
+    return clicked is not None
 
 
 def main():
     store = Store()
     start_total = store.real_count
-    print(f"Starting automated SHPP harvest | Existing verified rows: {start_total} | Target: {TARGET_ROWS}")
+    print(f"Starting paginated SHPP harvest | Existing verified rows: {start_total} | Target: {TARGET_ROWS}")
 
     stats = {"added": 0, "dup": 0, "skipped": 0, "reasons": Counter()}
     batch_added = 0
-    seen_endpoints = set()
+    batch_raw = 0
 
     def handle_response(resp):
-        nonlocal batch_added
+        nonlocal batch_added, batch_raw
         if "tenderuploadservice" not in resp.url or resp.status != 200:
             return
-        endpoint = resp.url.split("?")[0].split("/")[-1]
-        if endpoint not in seen_endpoints:
-            seen_endpoints.add(endpoint)
-            print(f"  [API] Discovered endpoint: {endpoint}")
         try:
             payload = resp.json()
         except Exception:
             return
         before = store.real_count
         for rec_list in find_record_lists(payload):
+            batch_raw += len(rec_list)
             extract_from_records(rec_list, store, stats)
         batch_added += (store.real_count - before)
 
@@ -115,41 +79,36 @@ def main():
             print("Loading SHPP Advance Search...")
             page.goto("https://shpp.rajasthan.gov.in/advance-search", wait_until="networkidle", timeout=60000)
             page.wait_for_timeout(3000)
-            print(f"Initial load captured: +{batch_added} | Total verified: {store.real_count}")
 
             for tab_name in TABS:
                 if store.real_count >= TARGET_ROWS:
                     break
                 tab = page.locator(f"text='{tab_name}'").first
-                if tab.count():
-                    print(f"\n=== Switching tab: {tab_name} ===")
-                    batch_added = 0
-                    tab.click(force=True)
-                    page.wait_for_timeout(4500)
-                    print(f"  Tab default view: +{batch_added} | Total: {store.real_count}")
+                if not tab.count():
+                    continue
 
-                for start_iso, end_iso in DATE_SLICES:
+                print(f"\n=== Harvesting Tab: {tab_name} ===")
+                batch_added = 0
+                batch_raw = 0
+                tab.click(force=True)
+                page.wait_for_timeout(5000)
+                print(f"  Page 1: +{batch_added} new (from {batch_raw} raw) | Total verified: {store.real_count}")
+
+                for pno in range(2, 26):
                     if store.real_count >= TARGET_ROWS:
                         break
                     batch_added = 0
-                    if not open_publish_date_and_search(page, start_iso, end_iso):
-                        continue
-                    page.wait_for_timeout(4500)
-                    print(f"  [{tab_name}] {start_iso} -> {end_iso} (p1): +{batch_added} | Total: {store.real_count}")
-
-                    for pno in range(2, 26):
-                        if store.real_count >= TARGET_ROWS:
-                            break
-                        prev_batch = batch_added
-                        if not click_next_page(page):
-                            break
-                        page.wait_for_timeout(3500)
-                        gained = batch_added - prev_batch
-                        print(f"    page {pno}: +{gained} | Total: {store.real_count}")
-                        if gained == 0:
-                            break
+                    batch_raw = 0
+                    if not go_to_page(page, pno):
+                        print(f"  No more pages after page {pno - 1}.")
+                        break
+                    page.wait_for_timeout(5000)
+                    print(f"  Page {pno}: +{batch_added} new (from {batch_raw} raw) | Total verified: {store.real_count}")
+                    if batch_raw == 0:
+                        print("  Reached end of records for this tab.")
+                        break
         except KeyboardInterrupt:
-            print("\nStopped early — all rows collected so far are saved on disk.")
+            print("\nStopped early — all collected rows are already saved on disk.")
         finally:
             browser.close()
 
