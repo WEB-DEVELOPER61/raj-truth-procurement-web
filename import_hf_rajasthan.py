@@ -6,8 +6,8 @@ import os
 import re
 import shutil
 import sqlite3
-from collections import Counter, defaultdict
-from huggingface_hub import HfApi, hf_hub_download
+from collections import Counter
+from huggingface_hub import hf_hub_download
 from import_shpp_har import (
     Store,
     compute_row,
@@ -66,12 +66,12 @@ def pick_field(flat: dict[str, str], keys: tuple[str, ...]) -> str:
 
 def extract_amount(flat: dict[str, str], row_dict: dict) -> float | None:
     for k, v in flat.items():
-        if any(t in k for t in ("tender value", "contract value", "estimated cost", "awarded value", "cost of work")):
+        if any(t in k for t in ("contract value", "awarded value", "tender value", "estimated cost", "cost of work")):
             if "fee" not in k and "emd" not in k:
                 amt = parse_amount(v)
                 if amt is not None:
                     return amt
-    for col in ("tender_value", "contract_value", "awarded_value", "amount"):
+    for col in ("contract_value", "awarded_value", "tender_value", "amount"):
         if col in row_dict and row_dict[col] not in (None, "", 0):
             amt = parse_amount(str(row_dict[col]))
             if amt is not None:
@@ -95,38 +95,47 @@ def extract_dates(flat: dict[str, str], row_dict: dict):
                     break
     if close is None:
         for k, v in flat.items():
-            if "bid opening date" in k:
+            if any(t in k for t in ("bid opening date", "contract date", "award date")):
                 close = parse_date(v)
                 if close:
                     break
     return pub, close
 
 
-def process_db(db_path: str, store: Store, stats: Counter):
+def process_aoc_db(db_path: str, store: Store, stats: Counter):
     con = sqlite3.connect(db_path)
     con.row_factory = sqlite3.Row
     cur = con.cursor()
 
-    tables = {r[0] for r in cur.execute("SELECT name FROM sqlite_master WHERE type='table'").fetchall()}
-    pairs = []
-    if {"tenders", "tender_details"}.issubset(tables):
-        pairs.append(("tenders", "tender_details", "HF-TND"))
-    if {"aoc_tenders", "aoc_details"}.issubset(tables):
-        pairs.append(("aoc_tenders", "aoc_details", "HF-AOC"))
+    cols = {r[1] for r in cur.execute("PRAGMA table_info(aoc_tenders)").fetchall()}
+    print(f"Detected aoc_tenders columns: {sorted(cols)}", flush=True)
 
-    buckets: dict[int, list[dict]] = defaultdict(list)
+    where_parts = []
+    if "portal_type" in cols:
+        where_parts.append("m.portal_type = 'state'")
+    if "detail_url" in cols:
+        where_parts.append("(m.detail_url LIKE '%eproc.rajasthan%' OR d.details_json LIKE '%rajasthan%')")
+    else:
+        where_parts.append("d.details_json LIKE '%rajasthan%'")
 
-    for main_tbl, det_tbl, prefix in pairs:
-        print(f"Scanning {main_tbl} + {det_tbl} in single pass...", flush=True)
+    base_where = " AND ".join(where_parts)
+
+    # Query newest years first (2026 -> 2025 -> 2024) so rows stream immediately without buffering
+    year_filters = [f"m.year = {yr}" for yr in (2026, 2025, 2024)] if "year" in cols else ["1=1"]
+
+    for yf in year_filters:
+        if store.real_count >= TARGET_ROWS:
+            break
+        print(f"Streaming Rajasthan state AOC records ({yf})...", flush=True)
         sql = f"""
             SELECT m.*, d.details_json
-            FROM {main_tbl} m
-            JOIN {det_tbl} d ON m.internal_id = d.internal_id
-            WHERE lower(COALESCE(m.detail_url, '')) LIKE '%eproc.rajasthan%'
-               OR lower(COALESCE(m.organisation_name, '')) LIKE '%rajasthan%'
-               OR lower(COALESCE(d.details_json, '')) LIKE '%rajasthan%'
+            FROM aoc_tenders m
+            JOIN aoc_details d ON m.internal_id = d.internal_id
+            WHERE {base_where} AND {yf}
         """
         for row in con.execute(sql):
+            if store.real_count >= TARGET_ROWS:
+                break
             stats["scanned"] += 1
             raw_json = row["details_json"]
             if not raw_json:
@@ -143,7 +152,7 @@ def process_db(db_path: str, store: Store, stats: Counter):
             flat = flatten_dict(det)
             row_dict = dict(row)
 
-            org = pick_field(flat, ("organisation name", "organisation chain")) or clean_str(row_dict.get("organisation_name"))
+            org = pick_field(flat, ("organisation name", "organisation chain", "department")) or clean_str(row_dict.get("organisation_name"))
             title = pick_field(flat, ("tender title", "work description", "tender description", "title"))
             loc = pick_field(flat, ("location", "address"))
             detail_url = clean_str(row_dict.get("detail_url"))
@@ -153,7 +162,7 @@ def process_db(db_path: str, store: Store, stats: Counter):
                 stats["non_raj"] += 1
                 continue
 
-            nit_no = pick_field(flat, ("tender ref. no.", "tender reference number", "nit no")) or clean_str(row_dict.get("tender_ref_no"))
+            nit_no = pick_field(flat, ("tender ref. no.", "tender reference number", "tender ref.", "nit no")) or clean_str(row_dict.get("tender_ref_no"))
             ext_tid = clean_str(row_dict.get("tender_id")) or pick_field(flat, ("tender id",))
             if not nit_no:
                 nit_no = ext_tid or title[:80]
@@ -161,7 +170,7 @@ def process_db(db_path: str, store: Store, stats: Counter):
                 stats["noise_skip"] += 1
                 continue
 
-            tender_id = f"{prefix}-{ext_tid}" if ext_tid else f"{prefix}-" + hashlib.md5(
+            tender_id = f"HF-AOC-{ext_tid}" if ext_tid else "HF-AOC-" + hashlib.md5(
                 f"{nit_no}|{org}".encode()
             ).hexdigest()[:12]
 
@@ -189,58 +198,35 @@ def process_db(db_path: str, store: Store, stats: Counter):
                 stats["no_district"] += 1
                 continue
 
-            buckets[pub.year].append(compute_row(tender_id, nit_no[:120], org, district, amount, window))
+            store.add(compute_row(tender_id, nit_no[:120], org, district, amount, window))
+            stats["added"] += 1
+            stats[f"yr_{pub.year}"] += 1
+
+            if stats["added"] % 500 == 0:
+                print(
+                    f"  +{stats['added']:5d} added | Total verified: {store.real_count:5d} / {TARGET_ROWS} (scanned={stats['scanned']})",
+                    flush=True,
+                )
 
     con.close()
-
-    # Insert newest years first (2026 -> 2025 -> 2024 -> older) until TARGET_ROWS is reached
-    for yr in sorted(buckets.keys(), reverse=True):
-        if store.real_count >= TARGET_ROWS:
-            break
-        added_yr = 0
-        for rec in buckets[yr]:
-            if store.real_count >= TARGET_ROWS:
-                break
-            if not store.has(rec["tender_id"], rec["nit_no"]):
-                store.add(rec)
-                stats["added"] += 1
-                stats[f"yr_{yr}"] += 1
-                added_yr += 1
-        print(f"  Year {yr}: +{added_yr:5d} verified rows added | Total on disk: {store.real_count:5d} / {TARGET_ROWS}", flush=True)
 
 
 def main():
     store = Store()
     start_total = store.real_count
-    print(f"Starting recursive-JSON Rajasthan import | Existing rows: {start_total} | Target: {TARGET_ROWS}", flush=True)
+    print(f"Starting AOC state-portal Rajasthan import | Existing rows: {start_total} | Target: {TARGET_ROWS}", flush=True)
     os.makedirs(TMP_DIR, exist_ok=True)
     stats = Counter()
 
     try:
-        api = HfApi()
-        db_files = [
-            item.rfilename
-            for item in api.list_repo_tree(REPO_ID, repo_type="dataset", recursive=True)
-            if item.rfilename.endswith(".db")
-        ]
-        # Run tenders_vps.db first, then aoc_tenders.db if needed to cross 20,000
-        db_files.sort(key=lambda n: (0 if "tenders_vps" in n else 1, n))
-
-        for fname in db_files:
-            if store.real_count >= TARGET_ROWS:
-                break
-            print(f"\nDownloading {fname} to {TMP_DIR}...", flush=True)
-            local_db = hf_hub_download(
-                repo_id=REPO_ID,
-                filename=fname,
-                repo_type="dataset",
-                local_dir=TMP_DIR,
-            )
-            process_db(local_db, store, stats)
-            try:
-                os.remove(local_db)
-            except OSError:
-                pass
+        print("Downloading aoc_tenders.db to /tmp/hf_tenders...", flush=True)
+        local_db = hf_hub_download(
+            repo_id=REPO_ID,
+            filename="aoc_tenders.db",
+            repo_type="dataset",
+            local_dir=TMP_DIR,
+        )
+        process_aoc_db(local_db, store, stats)
     finally:
         shutil.rmtree(TMP_DIR, ignore_errors=True)
 
