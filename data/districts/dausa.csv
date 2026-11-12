@@ -4,12 +4,12 @@ SHPP-42951000.00,PHE2627WSOB06651,"Chief Engineer (Special Project) PHED, Jaipur
 SHPP-79273000.00,PWD2627WLOB13407,CE Public Works Department,Dausa,79273000.0,792.73,51,30,0.0,False,0.0
 SHPP-1764000,Services/2026-27/0029/012,"Women Empowerment Department, Jaipur",Dausa,1764000.0,17.64,14,10,0.0,False,0.0
 SHPP-42000,Goods/2026-27/0021/058,"Medical and Health Services, Jaipur",Dausa,42000.0,0.42,8,7,0.0,False,0.0
-SHPP-79000,Goods/2026-27/0007/058,"Medical and Health Services, Jaipur",Dausa,79000.0,0.79,6,7,1,True,28.5
-SHPP-58276000.00,DLB2627WLOB22634,Directorate Local Bodies,Dausa,58276000.0,582.76,26,30,4,True,38.3
+SHPP-79000,Goods/2026-27/0007/058,"Medical and Health Services, Jaipur",Dausa,79000.0,0.79,6,7,1.0,True,28.5
+SHPP-58276000.00,DLB2627WLOB22634,Directorate Local Bodies,Dausa,58276000.0,582.76,26,30,4.0,True,38.3
 EPROC-2026_RSAMB_603742_4,Nit No. 09/2026-27 Executive Engineer RSAMB Div Kota,RSAMB||ACE - Zone II||S.E. - Circle Kota||Ex.En. - Kota,Dausa,17850000.0,178.5,33,15,0.0,False,0.0
 EPROC-2026_PHCJA_604161_1,Nit 19-20/2026-26 Se Dausa,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Jaipur||SE - District Circle (Jaipur)",Dausa,37686000.0,376.86,38,30,0.0,False,0.0
-EPROC-2026_MEDIC_605275_1,E-TENDER/2026/7415-23,Medical and Health||Director (F.W.) Medical Health and Family Welfare Services,Dausa,1800000.0,18.0,9,10,1,True,30.5
-EPROC-2026_MEDIC_604732_1,DHS Dausa 4011 MAN POWER,Medical and Health||Director (F.W.) Medical Health and Family Welfare Services,Dausa,30000000.0,300.0,23,30,7,True,44.2
+EPROC-2026_MEDIC_605275_1,E-TENDER/2026/7415-23,Medical and Health||Director (F.W.) Medical Health and Family Welfare Services,Dausa,1800000.0,18.0,9,10,1.0,True,30.5
+EPROC-2026_MEDIC_604732_1,DHS Dausa 4011 MAN POWER,Medical and Health||Director (F.W.) Medical Health and Family Welfare Services,Dausa,30000000.0,300.0,23,30,7.0,True,44.2
 EPROC-2026_PRD_602262_3,08(01-03)/2026-27_Chordi,Panchayati Raj Department||Secretary and Commissioner||CEO-DAUSA||BDO-DAUSA,Dausa,1000000.0,10.0,64,7,0.0,False,0.0
 HF-AOC-2026_PRD_531306_1,Peechuparakhurd_251,Panchayati Raj DepartmentSecretary and CommissionerCEO-DAUSABDO-BANDIKUI,Dausa,800000.0,8.0,11,7,0.0,False,0.0
 HF-AOC-2025_PRD_469894_1,04/2025-26_DAULATPURA,Panchayati Raj DepartmentSecretary and CommissionerCEO-DAUSABDO-LALSOT,Dausa,5000000.0,50.0,23,10,0.0,False,0.0
@@ -26,18 +26,18 @@ GEM/2026/B/7755126,GEM/2026/B/7755126,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/7754911,GEM/2026/B/7754911,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/7007138,GEM/2025/B/7007138,Technical Education Department Rajasthan,Dausa,0.0,0.0,27,7,0.0,False,0.0
 GEM/2025/B/7014721,GEM/2025/B/7014721,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/B/6588734,GEM/2025/B/6588734,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6588734,GEM/2025/B/6588734,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7352758,GEM/2026/B/7352758,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7352585,GEM/2026/B/7352585,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8019087,GEM/2026/B/8019087,Ministry of Petroleum and Natural Gas - NA,Dausa,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/697648,GEM/2026/R/697648,Ministry of Petroleum and Natural Gas - NA,Dausa,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/697648,GEM/2026/R/697648,Ministry of Petroleum and Natural Gas - NA,Dausa,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7667993,GEM/2026/B/7667993,Ministry of Petroleum and Natural Gas - NA,Dausa,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6676451,GEM/2025/B/6676451,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7736995,GEM/2026/B/7736995,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8185929,GEM/2026/B/8185929,Medical Health and Family Welfare Department Rajasthan,Dausa,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8088423,GEM/2026/B/8088423,Ministry of Road Transports and highways - National Highways Authority of India,Dausa,0.0,0.0,16,7,0.0,False,0.0
 GEM/2026/B/7900758,GEM/2026/B/7900758,Ministry of Education - Department of School Education and Literacy,Dausa,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7797987,GEM/2026/B/7797987,Ministry of Finance - Department of Revenue,Dausa,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/7797987,GEM/2026/B/7797987,Ministry of Finance - Department of Revenue,Dausa,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7672870,GEM/2026/B/7672870,Ministry of Road Transports and highways - National Highways Authority of India,Dausa,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7660558,GEM/2026/B/7660558,Medical Health and Family Welfare Department Rajasthan,Dausa,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7588268,GEM/2026/B/7588268,Ministry of Finance - Department of Revenue,Dausa,0.0,0.0,11,7,0.0,False,0.0
@@ -66,7 +66,7 @@ GEM/2025/B/6066089,GEM/2025/B/6066089,Ministry of Power - POWER GRID Corporation
 GEM/2025/B/6196893,GEM/2025/B/6196893,Ministry of Railways - Indian Railways,Dausa,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6107214,GEM/2025/B/6107214,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Dausa,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6073515,GEM/2025/B/6073515,Medical Health and Family Welfare Department Rajasthan,Dausa,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/472924,GEM/2025/R/472924,Ministry of Communications - Department of Telecommunications (DOT),Dausa,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/472924,GEM/2025/R/472924,Ministry of Communications - Department of Telecommunications (DOT),Dausa,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6041418,GEM/2025/B/6041418,Medical Health and Family Welfare Department Rajasthan,Dausa,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6041147,GEM/2025/B/6041147,Medical Health and Family Welfare Department Rajasthan,Dausa,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5997187,GEM/2025/B/5997187,Ministry of Education - Department of School Education and Literacy,Dausa,0.0,0.0,22,7,0.0,False,0.0
@@ -89,8 +89,8 @@ GEM/2025/B/6996922,GEM/2025/B/6996922,Ministry of Railways - Indian Railways,Dau
 GEM/2025/B/6893009,GEM/2025/B/6893009,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6542850,GEM/2025/B/6542850,Ministry of Railways - Indian Railways,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6198412,GEM/2025/B/6198412,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6077006,GEM/2025/B/6077006,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6077145,GEM/2025/B/6077145,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6077006,GEM/2025/B/6077006,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6077145,GEM/2025/B/6077145,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/5817616,GEM/2025/B/5817616,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5785689,GEM/2025/B/5785689,Ministry of Railways - Indian Railways,Dausa,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8182466,GEM/2026/B/8182466,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,31,7,0.0,False,0.0
@@ -99,3 +99,6 @@ GEM/2026/B/8204224,GEM/2026/B/8204224,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/8197872,GEM/2026/B/8197872,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,20,7,0.0,False,0.0
 GEM/2026/B/8175740,GEM/2026/B/8175740,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,28,7,0.0,False,0.0
 GEM/2026/B/8191434,GEM/2026/B/8191434,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dausa,0.0,0.0,21,7,0.0,False,0.0
+2026_PRD_602262_3,NIT 602262_3,Jaipur Division,Dausa,2500000.0,25.0,63,10,0.0,False,0.0
+2026_PRD_602262_2,NIT 602262_2,Jaipur Division,Dausa,2500000.0,25.0,63,10,0.0,False,0.0
+2026_PRD_602262_1,NIT 602262_1,Jaipur Division,Dausa,2500000.0,25.0,63,10,0.0,False,0.0

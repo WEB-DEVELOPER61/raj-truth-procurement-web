@@ -1,16 +1,16 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-SHPP-388000.00,PWD2627WSOB15546,CE Public Works Department,Udaipur,388000.0,3.88,6,7,1,True,31.1
-SHPP-472000.00,PWD2627WSOB15547,CE Public Works Department,Udaipur,472000.0,4.72,6,7,1,True,31.4
+SHPP-388000.00,PWD2627WSOB15546,CE Public Works Department,Udaipur,388000.0,3.88,6,7,1.0,True,31.1
+SHPP-472000.00,PWD2627WSOB15547,CE Public Works Department,Udaipur,472000.0,4.72,6,7,1.0,True,31.4
 SHPP-800000.00,ATU2627WSOB00238,"Maharana Pratap University of Agriculture and Technology, Udaipur",Udaipur,800000.0,8.0,10,7,0.0,False,0.0
 SHPP-536000.00,FOR2627WSOB03169,PCCF Forest Department,Udaipur,536000.0,5.36,12,7,0.0,False,0.0
 SHPP-297000.00,FOR2627WSOB03168,PCCF Forest Department,Udaipur,297000.0,2.97,12,7,0.0,False,0.0
-SHPP-1195000.00,MML2627SLSS00142,Rajasthan State Mines and Minerals Limited,Udaipur,1195000.0,11.95,7,10,3,True,43.8
-SHPP-137311000.00,RRC2627SLOB00744,Rajasthan State Road Development and Construction Cooperation,Udaipur,137311000.0,1373.11,10,30,20,True,76.9
+SHPP-1195000.00,MML2627SLSS00142,Rajasthan State Mines and Minerals Limited,Udaipur,1195000.0,11.95,7,10,3.0,True,43.8
+SHPP-137311000.00,RRC2627SLOB00744,Rajasthan State Road Development and Construction Cooperation,Udaipur,137311000.0,1373.11,10,30,20.0,True,76.9
 SHPP-2604000.00,ITU2627SLOB00373,Urban Improvement Trust Udaipur,Udaipur,2604000.0,26.04,15,10,0.0,False,0.0
 SHPP-600000.00,SUU2627GSOB00065,"Mohan Lal Sukhadia University, Udaipur",Udaipur,600000.0,6.0,21,7,0.0,False,0.0
 SHPP-561000.00,SPU2627GSOB00009,Superintendent of Police Udaipur,Udaipur,561000.0,5.61,14,7,0.0,False,0.0
-SHPP-6947000.00,SWP2627WSOB00253,Sanitation Water  Community Health Project,Udaipur,6947000.0,69.47,13,15,2,True,34.9
-SHPP-3400000.00,CUD2627GLOB00029,District Collector Udaipur,Udaipur,3400000.0,34.0,9,10,1,True,31.5
+SHPP-6947000.00,SWP2627WSOB00253,Sanitation Water  Community Health Project,Udaipur,6947000.0,69.47,13,15,2.0,True,34.9
+SHPP-3400000.00,CUD2627GLOB00029,District Collector Udaipur,Udaipur,3400000.0,34.0,9,10,1.0,True,31.5
 SHPP-8322000.00,ITU2627WSOB00366,Urban Improvement Trust Udaipur,Udaipur,8322000.0,83.22,19,15,0.0,False,0.0
 SHPP-930000.00,ITU2627WSOB00365,Urban Improvement Trust Udaipur,Udaipur,930000.0,9.3,19,7,0.0,False,0.0
 SHPP-1487000.00,ITU2627WSOB00364,Urban Improvement Trust Udaipur,Udaipur,1487000.0,14.87,19,10,0.0,False,0.0
@@ -20,7 +20,7 @@ SHPP-1445000.00,ITU2627WSOB00371,Urban Improvement Trust Udaipur,Udaipur,1445000
 SHPP-1493000.00,ITU2627WSOB00370,Urban Improvement Trust Udaipur,Udaipur,1493000.0,14.93,19,10,0.0,False,0.0
 SHPP-1496000.00,ITU2627WSOB00369,Urban Improvement Trust Udaipur,Udaipur,1496000.0,14.96,19,10,0.0,False,0.0
 SHPP-14173000.00,ITU2627WSOB00360,Urban Improvement Trust Udaipur,Udaipur,14173000.0,141.73,19,15,0.0,False,0.0
-SHPP-43222000.00,ITU2627WSOB00358,Urban Improvement Trust Udaipur,Udaipur,43222000.0,432.22,28,30,2,True,33.1
+SHPP-43222000.00,ITU2627WSOB00358,Urban Improvement Trust Udaipur,Udaipur,43222000.0,432.22,28,30,2.0,True,33.1
 SHPP-12580000.00,AMD2627WSOB00081,Archaelogy and Museums,Udaipur,12580000.0,125.8,18,15,0.0,False,0.0
 SHPP-28900.00,VPN2627SSLB01589,Rajasthan Rajya Vidut Prasaran Nigam Limited,Udaipur,28900.0,0.289,25,7,0.0,False,0.0
 SHPP-2775000.00,MML2627SLLB00136,Rajasthan State Mines and Minerals Limited,Udaipur,2775000.0,27.75,34,10,0.0,False,0.0
@@ -29,20 +29,20 @@ SHPP-380000000.00,MML2627WLOB00122,Rajasthan State Mines and Minerals Limited,Ud
 SHPP-1470929.00,ZUD2627WSOB00415,Zila Parishad Udaipur,Udaipur,1470929.0,14.7093,345,10,0.0,False,0.0
 SHPP-21215000.00,PWD2526WSOB26166,CE Public Works Department,Udaipur,21215000.0,212.15,356,30,0.0,False,0.0
 SHPP-1850000.00,MCU2627GLOB00108,Rabindra Nath Tagore Medical College,Udaipur,1850000.0,18.5,31,10,0.0,False,0.0
-SHPP-173400,Services/2026-27/0026/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,173400.0,1.734,5,7,2,True,39.8
+SHPP-173400,Services/2026-27/0026/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,173400.0,1.734,5,7,2.0,True,39.8
 SHPP-250000,Services/2026-27/0048/043,"Horticulture Department, Jaipur",Udaipur,250000.0,2.5,9,7,0.0,False,0.0
-SHPP-190000,Goods/2026-27/0023/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,190000.0,1.9,5,7,2,True,39.9
-SHPP-180000,Goods/2026-27/0024/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,180000.0,1.8,5,7,2,True,39.8
+SHPP-190000,Goods/2026-27/0023/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,190000.0,1.9,5,7,2.0,True,39.9
+SHPP-180000,Goods/2026-27/0024/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,180000.0,1.8,5,7,2.0,True,39.8
 SHPP-119970,Goods/2026-27/0022/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,119970.0,1.1997,8,7,0.0,False,0.0
-SHPP-65000,Services/2026-27/0021/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,65000.0,0.65,2,7,5,True,68.2
+SHPP-65000,Services/2026-27/0021/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,65000.0,0.65,2,7,5.0,True,68.2
 SHPP-10000,Goods/2026-27/0019/199,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,10000.0,0.1,9,7,0.0,False,0.0
 SHPP-404000.00,FOR2627GSOB03106,PCCF Forest Department,Udaipur,404000.0,4.04,12,7,0.0,False,0.0
-SHPP-191000,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur","R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,191000.0,1.91,1,7,6,True,79.9
-EPROC-2026_DLB_605677_1,E_30_2026-27_Nirman_02,DLB||Dy.DR-Udaipur||Commissioner-Udaipur,Udaipur,10000000.0,100.0,10,15,5,True,49.5
-EPROC-2026_DLB_605676_1,E_30_2026-27_Nirman_01,DLB||Dy.DR-Udaipur||Commissioner-Udaipur,Udaipur,10000000.0,100.0,10,15,5,True,49.5
+SHPP-191000,"R.N.T.  Medical College and Associated Group of Hospitals, Udaipur","R.N.T.  Medical College and Associated Group of Hospitals, Udaipur",Udaipur,191000.0,1.91,1,7,6.0,True,79.9
+EPROC-2026_DLB_605677_1,E_30_2026-27_Nirman_02,DLB||Dy.DR-Udaipur||Commissioner-Udaipur,Udaipur,10000000.0,100.0,10,15,5.0,True,49.5
+EPROC-2026_DLB_605676_1,E_30_2026-27_Nirman_01,DLB||Dy.DR-Udaipur||Commissioner-Udaipur,Udaipur,10000000.0,100.0,10,15,5.0,True,49.5
 EPROC-2026_DLB_605602_1,E_10_2026-27_ AMBA POL Parking,DLB||Dy.DR-Udaipur||Commissioner-Udaipur,Udaipur,1111000.0,11.11,10,10,0.0,False,0.0
 EPROC-2026_DLB_605541_1,E_29_2026-27_Nirman_01_ Labour,DLB||Dy.DR-Udaipur||Commissioner-Udaipur,Udaipur,3066000.0,30.66,10,10,0.0,False,0.0
-EPROC-2026_RSRDC_605547_1,NIT No. 458/2026-27 dated 05.11.2026 Sl No 3,RSRDCC-GM,Udaipur,137311000.0,1373.11,10,30,20,True,76.9
+EPROC-2026_RSRDC_605547_1,NIT No. 458/2026-27 dated 05.11.2026 Sl No 3,RSRDCC-GM,Udaipur,137311000.0,1373.11,10,30,20.0,True,76.9
 EPROC-2026_FORES_605727_1,92/2026-27,Forest - PCCF (HoFF)||APCCF-Development||CCF-UDAIPUR||DCF-UDIAIPUR,Udaipur,1862000.0,18.62,13,10,0.0,False,0.0
 EPROC-2026_FORES_605618_1,90/2026-27,Forest - PCCF (HoFF)||APCCF-Development||CCF-UDAIPUR||DCF-UDIAIPUR,Udaipur,1691000.0,16.91,13,10,0.0,False,0.0
 EPROC-2026_FORES_605606_1,88/2026-27,Forest - PCCF (HoFF)||APCCF-Development||CCF-UDAIPUR||DCF-UDIAIPUR,Udaipur,536000.0,5.36,12,7,0.0,False,0.0
@@ -52,7 +52,7 @@ EPROC-2026_FORES_605303_1,9202,Forest - PCCF (HoFF)||PCCF AND CWLW||CCF-Wild Lif
 EPROC-2026_FORES_605180_1,84/2026-27,Forest - PCCF (HoFF)||APCCF-Development||CCF-UDAIPUR||DCF-UDIAIPUR,Udaipur,1427000.0,14.27,10,10,0.0,False,0.0
 EPROC-2026_FORES_605335_1,85/2026-27,Forest - PCCF (HoFF)||APCCF-Development||CCF-UDAIPUR||DCF-UDIAIPUR,Udaipur,1075000.0,10.75,13,10,0.0,False,0.0
 EPROC-2026_FORES_605176_1,83/2026-27,Forest - PCCF (HoFF)||APCCF-Development||CCF-UDAIPUR||DCF-UDIAIPUR,Udaipur,4336000.0,43.36,13,10,0.0,False,0.0
-EPROC-2026_SWACH_605688_12,21/2026-27,SWACH PROJECT||Director,Udaipur,6947000.0,69.47,8,15,7,True,58.3
+EPROC-2026_SWACH_605688_12,21/2026-27,SWACH PROJECT||Director,Udaipur,6947000.0,69.47,8,15,7.0,True,58.3
 EPROC-2026_UITUD_605406_1,NIT_61_01,UIT Udaipur||S.E.||Ex. En. - II,Udaipur,2604000.0,26.04,15,10,0.0,False,0.0
 EPROC-2026_UITUD_605378_1,NIT_59_12,UIT Udaipur||S.E.||Ex. En. - I,Udaipur,1445000.0,14.45,14,10,0.0,False,0.0
 EPROC-2026_UITUD_605375_1,NIT_59_11,UIT Udaipur||S.E.||Ex. En. - I,Udaipur,1493000.0,14.93,14,10,0.0,False,0.0
@@ -69,11 +69,11 @@ EPROC-2026_RNTMC_605552_1,2026_1932_Tender_2026_27,"RNT Medical College, Udaipur
 EPROC-2026_RNTMC_605496_1,2026_1933_Tender_Equipments,"RNT Medical College, Udaipur||Principal and Controller.||Supdt. and Member Sec. Lt. KKGS Hospt H.M. Sec.06",Udaipur,700000.0,7.0,7,7,0.0,False,0.0
 EPROC-2026_RNTMC_604966_1,1860,"RNT Medical College, Udaipur||Principal and Controller.",Udaipur,55000000.0,550.0,30,30,0.0,False,0.0
 EPROC-2026_RNTMC_604107_4,1817,"RNT Medical College, Udaipur||Principal and Controller.",Udaipur,3000000.0,30.0,31,10,0.0,False,0.0
-EPROC-2026_ARCMU_605388_2,NIB No. 13/2026-27,Deptt. of Archaeology and Museums||DIRECTOR,Udaipur,12580000.0,125.8,12,15,3,True,40.5
+EPROC-2026_ARCMU_605388_2,NIB No. 13/2026-27,Deptt. of Archaeology and Museums||DIRECTOR,Udaipur,12580000.0,125.8,12,15,3.0,True,40.5
 EPROC-2026_MPUAT_605026_1,MPUAT/eNIT/2026-27/ Intranet /01,"Maharana Pratap Univ. of Agri. and Tech., Udaipur||Vice _ Chancellor||Estate Officer",Udaipur,1100000.0,11.0,18,10,0.0,False,0.0
 EPROC-2026_MPUAT_603571_1,COA/DPR/eNIB/2026-27/Bus/01,"Maharana Pratap Univ. of Agri. and Tech., Udaipur||Vice _ Chancellor",Udaipur,5200000.0,52.0,48,15,0.0,False,0.0
 EPROC-2026_RSMML_603887_1,Contract 23,RSMML||Corporate Office-Udaipur,Udaipur,88800000.0,888.0,43,30,0.0,False,0.0
-EPROC-2026_DISUD_605363_1,1185,DISTRICT COLLECTOR UDAIPUR||COLLECTOR,Udaipur,3400000.0,34.0,9,10,1,True,31.5
+EPROC-2026_DISUD_605363_1,1185,DISTRICT COLLECTOR UDAIPUR||COLLECTOR,Udaipur,3400000.0,34.0,9,10,1.0,True,31.5
 HF-AOC-2025_RNTMC_450960_5,30/28-2-2025,"RNT Medical College, UdaipurPrincipal and Controller.Superintendent, M.B.G.H., Udiapur",Udaipur,4000000.0,40.0,59,10,0.0,False,0.0
 HF-AOC-2025_RNTMC_443372_2,756,"RNT Medical College, UdaipurPrincipal and Controller.",Udaipur,3900000.0,39.0,28,10,0.0,False,0.0
 HF-AOC-2025_MPUAT_521860_1,CTAE/eNIB/2025-26/GirlsMess/14,"Maharana Pratap Univ. of Agri. and Tech., UdaipurVice _ ChancellorDirector Planning and Monitoring",Udaipur,45900.0,0.459,120,7,0.0,False,0.0
@@ -126,7 +126,7 @@ GEM/2026/B/7991041,GEM/2026/B/7991041,Ministry of Finance - Department of Financ
 GEM/2026/B/7961572,GEM/2026/B/7961572,Ministry of Education - Department of School Education and Literacy,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7979439,GEM/2026/B/7979439,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7914794,GEM/2026/B/7914794,Ministry of Education - Department of Higher Education,Udaipur,0.0,0.0,28,7,0.0,False,0.0
-GEM/2026/B/7964469,GEM/2026/B/7964469,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7964469,GEM/2026/B/7964469,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7972233,GEM/2026/B/7972233,Ministry of Education - Department of Higher Education,Udaipur,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7922432,GEM/2026/B/7922432,Technical Education Department Rajasthan,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7935612,GEM/2026/B/7935612,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,19,7,0.0,False,0.0
@@ -134,7 +134,7 @@ GEM/2026/B/7910183,GEM/2026/B/7910183,Ministry of Statistics and Programme Imple
 GEM/2026/B/7831600,GEM/2026/B/7831600,Ministry of Labour and Employment - NA,Udaipur,0.0,0.0,28,7,0.0,False,0.0
 GEM/2026/B/7909801,GEM/2026/B/7909801,Ministry of Statistics and Programme Implementation - National Sample Survey Office (NSSO),Udaipur,0.0,0.0,19,7,0.0,False,0.0
 GEM/2026/B/7909505,GEM/2026/B/7909505,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,24,7,0.0,False,0.0
-GEM/2026/R/724811,GEM/2026/R/724811,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/724811,GEM/2026/R/724811,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7885781,GEM/2026/B/7885781,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7846308,GEM/2026/B/7846308,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7881177,GEM/2026/B/7881177,Forest Department Rajasthan,Udaipur,0.0,0.0,11,7,0.0,False,0.0
@@ -188,7 +188,7 @@ GEM/2026/B/7587250,GEM/2026/B/7587250,College Education Department Rajasthan,Uda
 GEM/2026/B/7536865,GEM/2026/B/7536865,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7560939,GEM/2026/B/7560939,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7484006,GEM/2026/B/7484006,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,28,7,0.0,False,0.0
-GEM/2026/B/7563460,GEM/2026/B/7563460,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7563460,GEM/2026/B/7563460,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7491816,GEM/2026/B/7491816,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7515382,GEM/2026/B/7515382,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7499502,GEM/2026/B/7499502,Ministry of Statistics and Programme Implementation - National Sample Survey Office (NSSO),Udaipur,0.0,0.0,12,7,0.0,False,0.0
@@ -232,7 +232,7 @@ GEM/2026/B/7253636,GEM/2026/B/7253636,Ministry of Defence - Department of Milita
 GEM/2026/B/7151666,GEM/2026/B/7151666,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7223455,GEM/2026/B/7223455,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Udaipur,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7172545,GEM/2026/B/7172545,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,22,7,0.0,False,0.0
-GEM/2026/R/627409,GEM/2026/R/627409,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/627409,GEM/2026/R/627409,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7097523,GEM/2026/B/7097523,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Udaipur,0.0,0.0,25,7,0.0,False,0.0
 GEM/2026/B/7118482,GEM/2026/B/7118482,Ministry of Education - Department of Higher Education,Udaipur,0.0,0.0,27,7,0.0,False,0.0
 GEM/2026/B/7108733,GEM/2026/B/7108733,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,21,7,0.0,False,0.0
@@ -274,7 +274,7 @@ GEM/2025/B/6890530,GEM/2025/B/6890530,Ministry of Defence - Department of Milita
 GEM/2025/B/6971634,GEM/2025/B/6971634,Ministry of Education - Department of Higher Education,Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6955746,GEM/2025/B/6955746,Co-operative Department Rajasthan,Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6896280,GEM/2025/B/6896280,Ministry of Railways - Indian Railways,Udaipur,0.0,0.0,27,7,0.0,False,0.0
-GEM/2025/R/588823,GEM/2025/R/588823,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/588823,GEM/2025/R/588823,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6949464,GEM/2025/B/6949464,Ministry of Petroleum and Natural Gas - NA,Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6908990,GEM/2025/B/6908990,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6937234,GEM/2025/B/6937234,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Udaipur,0.0,0.0,10,7,0.0,False,0.0
@@ -287,7 +287,7 @@ GEM/2025/B/6869645,GEM/2025/B/6869645,Ministry of Power - POWER GRID Corporation
 GEM/2025/B/6853971,GEM/2025/B/6853971,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6782977,GEM/2025/B/6782977,Ministry of Labour and Employment - NA,Udaipur,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6708147,GEM/2025/B/6708147,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,56,7,0.0,False,0.0
-GEM/2025/B/6910857,GEM/2025/B/6910857,Ministry of Education - Department of School Education and Literacy,Udaipur,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6910857,GEM/2025/B/6910857,Ministry of Education - Department of School Education and Literacy,Udaipur,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6845034,GEM/2025/B/6845034,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6774192,GEM/2025/B/6774192,Ministry of Communications - Department of Posts,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6839218,GEM/2025/B/6839218,Ministry of Railways - Indian Railways,Udaipur,0.0,0.0,21,7,0.0,False,0.0
@@ -303,7 +303,7 @@ GEM/2025/B/6798170,GEM/2025/B/6798170,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/6797759,GEM/2025/B/6797759,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6789103,GEM/2025/B/6789103,Ministry of Railways - Indian Railways,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6784193,GEM/2025/B/6784193,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6816230,GEM/2025/B/6816230,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6816230,GEM/2025/B/6816230,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6751589,GEM/2025/B/6751589,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6642623,GEM/2025/B/6642623,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Udaipur,0.0,0.0,28,7,0.0,False,0.0
 GEM/2025/B/6697846,GEM/2025/B/6697846,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,21,7,0.0,False,0.0
@@ -317,20 +317,20 @@ GEM/2025/B/6657866,GEM/2025/B/6657866,Ministry of Education - Department of High
 GEM/2025/B/6663888,GEM/2025/B/6663888,Tribal Area Development Department Rajasthan,Udaipur,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6658285,GEM/2025/B/6658285,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6658273,GEM/2025/B/6658273,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6712559,GEM/2025/B/6712559,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6712559,GEM/2025/B/6712559,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6608270,GEM/2025/B/6608270,Ministry of Education - Department of School Education and Literacy,Udaipur,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6608879,GEM/2025/B/6608879,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,28,7,0.0,False,0.0
 GEM/2025/B/6602854,GEM/2025/B/6602854,Ministry of Railways - Indian Railways,Udaipur,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6612278,GEM/2025/B/6612278,Economics and Statistics Department Rajasthan,Udaipur,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6530658,GEM/2025/B/6530658,Ministry of Labour and Employment - NA,Udaipur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/544867,GEM/2025/R/544867,Ministry of Communications - Department of Posts,Udaipur,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/544867,GEM/2025/R/544867,Ministry of Communications - Department of Posts,Udaipur,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6649006,GEM/2025/B/6649006,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6469446,GEM/2025/B/6469446,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,38,7,0.0,False,0.0
 GEM/2025/B/6439801,GEM/2025/B/6439801,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,41,7,0.0,False,0.0
 GEM/2025/B/6592375,GEM/2025/B/6592375,Economics and Statistics Department Rajasthan,Udaipur,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6537783,GEM/2025/B/6537783,Tribal Area Development Department Rajasthan,Udaipur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6595006,GEM/2025/B/6595006,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6594560,GEM/2025/B/6594560,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6595006,GEM/2025/B/6595006,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6594560,GEM/2025/B/6594560,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6571252,GEM/2025/B/6571252,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Udaipur,0.0,0.0,12,7,0.0,False,0.0
 GEM/2025/B/6545740,GEM/2025/B/6545740,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6387837,GEM/2025/B/6387837,Ministry of Communications - Department of Posts,Udaipur,0.0,0.0,21,7,0.0,False,0.0
@@ -358,7 +358,7 @@ GEM/2025/B/6468342,GEM/2025/B/6468342,Ministry of Petroleum and Natural Gas - Bh
 GEM/2025/B/6435904,GEM/2025/B/6435904,Tribal Area Development Department Rajasthan,Udaipur,0.0,0.0,18,7,0.0,False,0.0
 GEM/2025/B/6320783,GEM/2025/B/6320783,Tribal Area Development Department Rajasthan,Udaipur,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6398710,GEM/2025/B/6398710,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/517287,GEM/2025/R/517287,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/517287,GEM/2025/R/517287,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6390325,GEM/2025/B/6390325,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6278601,GEM/2025/B/6278601,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6319116,GEM/2025/B/6319116,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Udaipur,0.0,0.0,26,7,0.0,False,0.0
@@ -410,7 +410,7 @@ GEM/2025/B/6122613,GEM/2025/B/6122613,Ministry of Education - Department of Scho
 GEM/2025/B/6086672,GEM/2025/B/6086672,Ministry of Education - Department of School Education and Literacy,Udaipur,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6054615,GEM/2025/B/6054615,Ministry of Railways - Indian Railways,Udaipur,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6097098,GEM/2025/B/6097098,Ministry of Education - Department of School Education and Literacy,Udaipur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6110306,GEM/2025/B/6110306,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/6110306,GEM/2025/B/6110306,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6060518,GEM/2025/B/6060518,Ministry of Railways - Indian Railways,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6010796,GEM/2025/B/6010796,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,33,7,0.0,False,0.0
 GEM/2025/B/6086740,GEM/2025/B/6086740,College Education Department Rajasthan,Udaipur,0.0,0.0,12,7,0.0,False,0.0
@@ -459,7 +459,7 @@ GEM/2025/B/5953452,GEM/2025/B/5953452,Ministry of Railways - Indian Railways,Uda
 GEM/2025/B/5962823,GEM/2025/B/5962823,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5943214,GEM/2025/B/5943214,Ministry of Micro Small and Medium Enterprises - Ministry of Micro Small and Medium Enterprises,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5956624,GEM/2025/B/5956624,Animal Husbandry Department Rajasthan,Udaipur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6006445,GEM/2025/B/6006445,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6006445,GEM/2025/B/6006445,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/5943475,GEM/2025/B/5943475,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5986806,GEM/2025/B/5986806,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/5986752,GEM/2025/B/5986752,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,7,7,0.0,False,0.0
@@ -467,7 +467,7 @@ GEM/2025/B/5986699,GEM/2025/B/5986699,Ministry of Defence - Department of Milita
 GEM/2025/B/5985725,GEM/2025/B/5985725,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5982039,GEM/2025/B/5982039,Transport Department Rajasthan,Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5912964,GEM/2025/B/5912964,Agriculture Department Rajasthan,Udaipur,0.0,0.0,16,7,0.0,False,0.0
-GEM/2025/R/456131,GEM/2025/R/456131,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/456131,GEM/2025/R/456131,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5907156,GEM/2025/B/5907156,Ministry of Civil Aviation - Airports Authority of India (AAI),Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5957439,GEM/2025/B/5957439,Ministry of Statistics and Programme Implementation - National Sample Survey Office (NSSO),Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5896845,GEM/2025/B/5896845,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,21,7,0.0,False,0.0
@@ -484,12 +484,12 @@ GEM/2025/B/5832584,GEM/2025/B/5832584,Ministry of Education - Department of High
 GEM/2025/B/5828449,GEM/2025/B/5828449,Ministry of Railways - Indian Railways,Udaipur,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/5819110,GEM/2025/B/5819110,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5827901,GEM/2025/B/5827901,Mines and Geology Department Rajasthan,Udaipur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/5859451,GEM/2025/B/5859451,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/5859451,GEM/2025/B/5859451,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/5811269,GEM/2025/B/5811269,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Udaipur,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/5775509,GEM/2025/B/5775509,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5799114,GEM/2025/B/5799114,Animal Husbandry Department Rajasthan,Udaipur,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5798857,GEM/2025/B/5798857,Animal Husbandry Department Rajasthan,Udaipur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/432925,GEM/2025/R/432925,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,3,7,4,True,51.7
+GEM/2025/R/432925,GEM/2025/R/432925,Ministry of Communications - Department of Telecommunications (DOT),Udaipur,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7565515,GEM/2026/B/7565515,Ministry of Railways - Indian Railways,Udaipur,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7729540,GEM/2026/B/7729540,Rajasthan State Mines and Minerals limited (RSMML),Udaipur,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8255763,GEM/2026/B/8255763,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,21,7,0.0,False,0.0
@@ -501,8 +501,111 @@ GEM/2026/B/8203197,GEM/2026/B/8203197,Ministry of Petroleum and Natural Gas - Bh
 GEM/2026/B/8187394,GEM/2026/B/8187394,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,25,7,0.0,False,0.0
 GEM/2026/B/8198899,GEM/2026/B/8198899,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7730109,GEM/2026/B/7730109,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Udaipur,0.0,0.0,22,7,0.0,False,0.0
-GEM/2026/R/601169,GEM/2026/R/601169,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/601169,GEM/2026/R/601169,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6954277,GEM/2025/B/6954277,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/538140,GEM/2025/R/538140,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/538140,GEM/2025/R/538140,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6423856,GEM/2025/B/6423856,Ministry of Defence - Department of Military Affairs,Udaipur,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/7006414,GEM/2025/B/7006414,Ministry of Defence - Department of Defence,Udaipur,0.0,0.0,10,7,0.0,False,0.0
+2026_DISUD_605363_1,NIT 605363_1,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_FORES_605787_1,NIT 605787_1,Udaipur Division,Udaipur,2500000.0,25.0,7,10,3.0,True,45.0
+2026_FORES_605727_1,NIT 605727_1,Udaipur Division,Udaipur,2500000.0,25.0,12,10,0.0,False,0.0
+2026_FORES_605618_1,NIT 605618_1,Udaipur Division,Udaipur,2500000.0,25.0,12,10,0.0,False,0.0
+2026_FORES_605606_1,NIT 605606_1,Udaipur Division,Udaipur,2500000.0,25.0,11,10,0.0,False,0.0
+2026_FORES_605310_1,NIT 605310_1,Udaipur Division,Udaipur,2500000.0,25.0,12,10,0.0,False,0.0
+2026_FORES_605307_1,NIT 605307_1,Udaipur Division,Udaipur,2500000.0,25.0,12,10,0.0,False,0.0
+2026_FORES_605303_1,NIT 605303_1,Udaipur Division,Udaipur,2500000.0,25.0,12,10,0.0,False,0.0
+2026_FORES_605180_1,NIT 605180_1,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_FORES_605335_1,NIT 605335_1,Udaipur Division,Udaipur,2500000.0,25.0,12,10,0.0,False,0.0
+2026_FORES_605176_1,NIT 605176_1,Udaipur Division,Udaipur,2500000.0,25.0,12,10,0.0,False,0.0
+2026_MPUAT_605026_1,NIT 605026_1,Udaipur Division,Udaipur,2500000.0,25.0,18,10,0.0,False,0.0
+2026_MPUAT_603571_1,NIT 603571_1,Udaipur Division,Udaipur,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_604325_3,NIT 604325_3,Udaipur Division,Udaipur,2500000.0,25.0,16,10,0.0,False,0.0
+2026_CEPWD_605158_7,NIT 605158_7,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605158_10,NIT 605158_10,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605158_8,NIT 605158_8,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605158_11,NIT 605158_11,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605158_9,NIT 605158_9,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605158_12,NIT 605158_12,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605158_6,NIT 605158_6,Udaipur Division,Udaipur,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605158_1,NIT 605158_1,Udaipur Division,Udaipur,2500000.0,25.0,11,10,0.0,False,0.0
+2026_CEPWD_605158_3,NIT 605158_3,Udaipur Division,Udaipur,2500000.0,25.0,11,10,0.0,False,0.0
+2026_CEPWD_605158_5,NIT 605158_5,Udaipur Division,Udaipur,2500000.0,25.0,11,10,0.0,False,0.0
+2026_CEPWD_605158_4,NIT 605158_4,Udaipur Division,Udaipur,2500000.0,25.0,11,10,0.0,False,0.0
+2026_CEPWD_605158_2,NIT 605158_2,Udaipur Division,Udaipur,2500000.0,25.0,11,10,0.0,False,0.0
+2026_CEPWD_604815_3,NIT 604815_3,Udaipur Division,Udaipur,2500000.0,25.0,27,10,0.0,False,0.0
+2026_CEPWD_604815_1,NIT 604815_1,Udaipur Division,Udaipur,2500000.0,25.0,27,10,0.0,False,0.0
+2026_CEPWD_604815_4,NIT 604815_4,Udaipur Division,Udaipur,2500000.0,25.0,27,10,0.0,False,0.0
+2026_CEPWD_604815_5,NIT 604815_5,Udaipur Division,Udaipur,2500000.0,25.0,27,10,0.0,False,0.0
+2026_CEPWD_604815_2,NIT 604815_2,Udaipur Division,Udaipur,2500000.0,25.0,27,10,0.0,False,0.0
+2026_CEPWD_604811_1,NIT 604811_1,Udaipur Division,Udaipur,2500000.0,25.0,28,10,0.0,False,0.0
+2026_CEPWD_604811_2,NIT 604811_2,Udaipur Division,Udaipur,2500000.0,25.0,28,10,0.0,False,0.0
+2026_CEPWD_603870_13,NIT 603870_13,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_12,NIT 603870_12,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_11,NIT 603870_11,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_14,NIT 603870_14,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_10,NIT 603870_10,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_9,NIT 603870_9,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_3,NIT 603870_3,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_8,NIT 603870_8,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_7,NIT 603870_7,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_6,NIT 603870_6,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_1,NIT 603870_1,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_2,NIT 603870_2,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_5,NIT 603870_5,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_603870_4,NIT 603870_4,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604325_1,NIT 604325_1,Udaipur Division,Udaipur,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604325_2,NIT 604325_2,Udaipur Division,Udaipur,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_603942_8,NIT 603942_8,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603942_7,NIT 603942_7,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603942_9,NIT 603942_9,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603942_5,NIT 603942_5,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603942_2,NIT 603942_2,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603942_3,NIT 603942_3,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603942_6,NIT 603942_6,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603942_4,NIT 603942_4,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603942_1,NIT 603942_1,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603719_11,NIT 603719_11,Udaipur Division,Udaipur,2500000.0,25.0,38,10,0.0,False,0.0
+2026_CEPWD_603719_4,NIT 603719_4,Udaipur Division,Udaipur,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603719_3,NIT 603719_3,Udaipur Division,Udaipur,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603719_5,NIT 603719_5,Udaipur Division,Udaipur,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603719_6,NIT 603719_6,Udaipur Division,Udaipur,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603719_2,NIT 603719_2,Udaipur Division,Udaipur,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603719_1,NIT 603719_1,Udaipur Division,Udaipur,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_602437_8,NIT 602437_8,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_7,NIT 602437_7,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_6,NIT 602437_6,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_5,NIT 602437_5,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_3,NIT 602437_3,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_2,NIT 602437_2,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_4,NIT 602437_4,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_11,NIT 602437_11,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_1,NIT 602437_1,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_13,NIT 602437_13,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_10,NIT 602437_10,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_12,NIT 602437_12,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_602437_9,NIT 602437_9,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_RNTMC_605552_1,NIT 605552_1,Udaipur Division,Udaipur,2500000.0,25.0,12,10,0.0,False,0.0
+2026_RNTMC_605496_1,NIT 605496_1,Udaipur Division,Udaipur,2500000.0,25.0,7,10,3.0,True,45.0
+2026_RNTMC_604966_1,NIT 604966_1,Udaipur Division,Udaipur,2500000.0,25.0,29,10,0.0,False,0.0
+2026_RNTMC_604107_2,NIT 604107_2,Udaipur Division,Udaipur,2500000.0,25.0,31,10,0.0,False,0.0
+2026_RNTMC_604107_3,NIT 604107_3,Udaipur Division,Udaipur,2500000.0,25.0,31,10,0.0,False,0.0
+2026_RNTMC_604107_4,NIT 604107_4,Udaipur Division,Udaipur,2500000.0,25.0,31,10,0.0,False,0.0
+2026_RNTMC_604107_5,NIT 604107_5,Udaipur Division,Udaipur,2500000.0,25.0,31,10,0.0,False,0.0
+2026_RNTMC_604107_1,NIT 604107_1,Udaipur Division,Udaipur,2500000.0,25.0,31,10,0.0,False,0.0
+2026_RSMML_603887_1,NIT 603887_1,Udaipur Division,Udaipur,2500000.0,25.0,42,10,0.0,False,0.0
+2026_RSMML_598877_1,NIT 598877_1,Udaipur Division,Udaipur,2500000.0,25.0,67,10,0.0,False,0.0
+2026_UITUD_605406_1,NIT 605406_1,Udaipur Division,Udaipur,2500000.0,25.0,15,10,0.0,False,0.0
+2026_UITUD_605378_1,NIT 605378_1,Udaipur Division,Udaipur,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITUD_605375_1,NIT 605375_1,Udaipur Division,Udaipur,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITUD_605371_1,NIT 605371_1,Udaipur Division,Udaipur,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITUD_605373_1,NIT 605373_1,Udaipur Division,Udaipur,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITUD_605232_1,NIT 605232_1,Udaipur Division,Udaipur,2500000.0,25.0,16,10,0.0,False,0.0
+2026_UITUD_605233_1,NIT 605233_1,Udaipur Division,Udaipur,2500000.0,25.0,16,10,0.0,False,0.0
+2026_UITUD_605227_1,NIT 605227_1,Udaipur Division,Udaipur,2500000.0,25.0,16,10,0.0,False,0.0
+2026_UITUD_605229_1,NIT 605229_1,Udaipur Division,Udaipur,2500000.0,25.0,16,10,0.0,False,0.0
+2026_UITUD_605220_1,NIT 605220_1,Udaipur Division,Udaipur,2500000.0,25.0,21,10,0.0,False,0.0
+2026_UITUD_605221_1,NIT 605221_1,Udaipur Division,Udaipur,2500000.0,25.0,16,10,0.0,False,0.0
+2026_UITUD_605222_1,NIT 605222_1,Udaipur Division,Udaipur,2500000.0,25.0,16,10,0.0,False,0.0
+2026_UITUD_605224_1,NIT 605224_1,Udaipur Division,Udaipur,2500000.0,25.0,16,10,0.0,False,0.0
+2026_UITUD_605033_1,NIT 605033_1,Udaipur Division,Udaipur,2500000.0,25.0,28,10,0.0,False,0.0
+2026_UITUD_603627_1,NIT 603627_1,Udaipur Division,Udaipur,2500000.0,25.0,35,10,0.0,False,0.0

@@ -1,5 +1,5 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-SHPP-11500000.00,CDF2627GLOB01229,Rajasthan Co-operative Dairy Federation Limited,Pali,11500000.0,115.0,9,15,6,True,54.4
+SHPP-11500000.00,CDF2627GLOB01229,Rajasthan Co-operative Dairy Federation Limited,Pali,11500000.0,115.0,9,15,6.0,True,54.4
 SHPP-2499990.00,PWD2627WSRC15347,CE Public Works Department,Pali,2499990.0,24.9999,10,10,0.0,False,0.0
 SHPP-1328739.00,PWD2627WSOB15348,CE Public Works Department,Pali,1328739.0,13.2874,10,10,0.0,False,0.0
 SHPP-438945.00,PWD2627WSOB15349,CE Public Works Department,Pali,438945.0,4.3895,10,7,0.0,False,0.0
@@ -7,42 +7,42 @@ SHPP-322000.00,DLB2627WSOB24200,Directorate Local Bodies,Pali,322000.0,3.22,10,7
 SHPP-430000.00,DLB2627WSOB24188,Directorate Local Bodies,Pali,430000.0,4.3,10,7,0.0,False,0.0
 SHPP-62705.00,VPN2627WSOB01597,Rajasthan Rajya Vidut Prasaran Nigam Limited,Pali,62705.0,0.627,11,7,0.0,False,0.0
 SHPP-4983000.00,SWP2627WSOB00252,Sanitation Water  Community Health Project,Pali,4983000.0,49.83,13,10,0.0,False,0.0
-SHPP-6718000.00,SWP2627WSOB00251,Sanitation Water  Community Health Project,Pali,6718000.0,67.18,13,15,2,True,34.9
+SHPP-6718000.00,SWP2627WSOB00251,Sanitation Water  Community Health Project,Pali,6718000.0,67.18,13,15,2.0,True,34.9
 SHPP-988000.00,PHE2627WSOB06882,"Chief Engineer (Special Project) PHED, Jaipur",Pali,988000.0,9.88,14,7,0.0,False,0.0
-SHPP-15663000.00,PWD2627WSOB15246,CE Public Works Department,Pali,15663000.0,156.63,14,15,1,True,31.5
+SHPP-15663000.00,PWD2627WSOB15246,CE Public Works Department,Pali,15663000.0,156.63,14,15,1.0,True,31.5
 SHPP-332258.00,JAU2627WSOB00123,Agriculture University Jodhpur,Pali,332258.0,3.3226,14,7,0.0,False,0.0
 SHPP-632081.00,JAU2627WSOB00121,Agriculture University Jodhpur,Pali,632081.0,6.3208,14,7,0.0,False,0.0
-SHPP-65212000.00,DLB2627WLOB23307,Directorate Local Bodies,Pali,65212000.0,652.12,19,30,11,True,54.8
-SHPP-158203000.00,PHE2627WLOB06784,"Chief Engineer (Special Project) PHED, Jaipur",Pali,158203000.0,1582.03,23,30,7,True,46.8
-SHPP-136412539.00,UID2627WLOB00022,Rajasthan Urban Infrastructure Development Project,Pali,136412539.0,1364.1254,29,30,1,True,32.6
+SHPP-65212000.00,DLB2627WLOB23307,Directorate Local Bodies,Pali,65212000.0,652.12,19,30,11.0,True,54.8
+SHPP-158203000.00,PHE2627WLOB06784,"Chief Engineer (Special Project) PHED, Jaipur",Pali,158203000.0,1582.03,23,30,7.0,True,46.8
+SHPP-136412539.00,UID2627WLOB00022,Rajasthan Urban Infrastructure Development Project,Pali,136412539.0,1364.1254,29,30,1.0,True,32.6
 SHPP-41000000.00,PWD2627WSOB14609,CE Public Works Department,Pali,41000000.0,410.0,55,30,0.0,False,0.0
 SHPP-172500000.00,PWD2627WLOB14612,CE Public Works Department,Pali,172500000.0,1725.0,55,30,0.0,False,0.0
 SHPP-80546.00,VPN2627WSOB01577,Rajasthan Rajya Vidut Prasaran Nigam Limited,Pali,80546.0,0.8055,48,7,0.0,False,0.0
 SHPP-288000.00,RSE2627WSOB01587,Rajasthan Council of School Education,Pali,288000.0,2.88,7,7,0.0,False,0.0
 SHPP-188000.00,RSE2627WSOB01588,Rajasthan Council of School Education,Pali,188000.0,1.88,7,7,0.0,False,0.0
 SHPP-1442000.00,PHE2627WSRC06841,"Chief Engineer (Special Project) PHED, Jaipur",Pali,1442000.0,14.42,13,10,0.0,False,0.0
-SHPP-145631000.00,ITP2627WLOB00071,Urban Improvement Trust Pali,Pali,145631000.0,1456.31,22,30,8,True,49.0
-EPROC-2026_CEPWD_604769_4,NIT No 13 of 2026-27 ACE PWD Zone I Jodhpur,PWD - CE AND AS||ACE - JODHPUR||SE-PALI||EE-SOJAT,Pali,219600000.0,2196.0,21,30,9,True,52.0
+SHPP-145631000.00,ITP2627WLOB00071,Urban Improvement Trust Pali,Pali,145631000.0,1456.31,22,30,8.0,True,49.0
+EPROC-2026_CEPWD_604769_4,NIT No 13 of 2026-27 ACE PWD Zone I Jodhpur,PWD - CE AND AS||ACE - JODHPUR||SE-PALI||EE-SOJAT,Pali,219600000.0,2196.0,21,30,9.0,True,52.0
 EPROC-2026_CEPWD_605413_2,NIT NO 07 OF THE YEAR 2026-27 DN SOJAT CITY,PWD - CE AND AS||ACE-JODHPUR-I||SE-PALI||EE-SOJAT,Pali,1328739.0,13.2874,10,10,0.0,False,0.0
-EPROC-2026_CEPWD_604768_2,NIT No 12 of 2026-27 ACE PWD Zone I Jodhpur,PWD - CE AND AS||ACE - JODHPUR||SE-PALI||EE-SOJAT,Pali,143000000.0,1430.0,23,30,7,True,46.7
-EPROC-2026_CEPWD_604057_1,NIT No.7/2026-27 of SE PWD Rural Circle Jodhpur,PWD - CE AND AS||ACE - JODHPUR||SE-PALI||EE-BALI,Pali,21300000.0,213.0,28,30,2,True,32.0
-EPROC-2026_DLB_604192_1,NPD/2026/6551,DLB||Dy.DR-Jodhpur||EO-Bali,Pali,58276000.0,582.76,26,30,4,True,38.3
+EPROC-2026_CEPWD_604768_2,NIT No 12 of 2026-27 ACE PWD Zone I Jodhpur,PWD - CE AND AS||ACE - JODHPUR||SE-PALI||EE-SOJAT,Pali,143000000.0,1430.0,23,30,7.0,True,46.7
+EPROC-2026_CEPWD_604057_1,NIT No.7/2026-27 of SE PWD Rural Circle Jodhpur,PWD - CE AND AS||ACE - JODHPUR||SE-PALI||EE-BALI,Pali,21300000.0,213.0,28,30,2.0,True,32.0
+EPROC-2026_DLB_604192_1,NPD/2026/6551,DLB||Dy.DR-Jodhpur||EO-Bali,Pali,58276000.0,582.76,26,30,4.0,True,38.3
 EPROC-2026_PHCJO_605356_1,NIT No. 96/2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,988000.0,9.88,13,7,0.0,False,0.0
-EPROC-2026_PHCJO_605353_1,NIT No. 942026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,15000000.0,150.0,13,15,2,True,36.1
-EPROC-2026_PHCJO_605354_1,NIT No. 95/2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,15000000.0,150.0,13,15,2,True,36.1
-EPROC-2026_PHCJO_605330_1,NIT No. 93/2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,7000000.0,70.0,14,15,1,True,30.3
+EPROC-2026_PHCJO_605353_1,NIT No. 942026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,15000000.0,150.0,13,15,2.0,True,36.1
+EPROC-2026_PHCJO_605354_1,NIT No. 95/2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,15000000.0,150.0,13,15,2.0,True,36.1
+EPROC-2026_PHCJO_605330_1,NIT No. 93/2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,7000000.0,70.0,14,15,1.0,True,30.3
 EPROC-2026_PHCJO_605328_1,NIT No. 92/2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,15000000.0,150.0,22,15,0.0,False,0.0
-EPROC-2026_PHCJO_605326_1,NIT No. 91/2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,30000000.0,300.0,22,30,8,True,46.6
-EPROC-2026_PHCJO_604823_1,NIB NO 05/2026-27 ACE PHED REGION I JODHPUR,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur",Pali,158203000.0,1582.03,23,30,7,True,46.8
+EPROC-2026_PHCJO_605326_1,NIT No. 91/2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Cr.Pali||EE, Dn.Sojat City",Pali,30000000.0,300.0,22,30,8.0,True,46.6
+EPROC-2026_PHCJO_604823_1,NIB NO 05/2026-27 ACE PHED REGION I JODHPUR,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur",Pali,158203000.0,1582.03,23,30,7.0,True,46.8
 EPROC-2026_RSAMB_605203_1,NIT-07/2026-27(6),RSAMB||ACE - Zone II||S.E. - Circle Jodhpur||Executive Engineer Sumerpur,Pali,1402000.0,14.02,16,10,0.0,False,0.0
-EPROC-2026_PHCJA_605258_1,NIT No 42/2026-27 EE PHED Div Jaitaran,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Ajmer||SE Cr. Beawar",Pali,1442000.0,14.42,9,10,1,True,30.1
-EPROC-2026_RCDF_605672_1,PALMU/ETENDER/202627/NOV/AMCU,RCDF- MD||Pali Zila Dugdh Utpadak Sahakari Sangh Ltd Pali||Finance||AM( F and A),Pali,11500000.0,115.0,9,15,6,True,54.4
+EPROC-2026_PHCJA_605258_1,NIT No 42/2026-27 EE PHED Div Jaitaran,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Ajmer||SE Cr. Beawar",Pali,1442000.0,14.42,9,10,1.0,True,30.1
+EPROC-2026_RCDF_605672_1,PALMU/ETENDER/202627/NOV/AMCU,RCDF- MD||Pali Zila Dugdh Utpadak Sahakari Sangh Ltd Pali||Finance||AM( F and A),Pali,11500000.0,115.0,9,15,6.0,True,54.4
 EPROC-2026_RCDF_602425_1,PALMU/ETNDER/2026-27/CONV,RCDF- MD||Pali Zila Dugdh Utpadak Sahakari Sangh Ltd Pali||Finance||AM( F and A),Pali,150000000.0,1500.0,46,30,0.0,False,0.0
 EPROC-2026_TECET_601445_1,01/RFP 09 Pali Cluster/2026-27,Technical Education (Training),Pali,409700000.0,4097.0,92,30,0.0,False,0.0
 EPROC-2026_RCSCE_605435_1,Nit 04 Civil 2026-27 Dist Level,Rajasthan Council of School Education||State Project Director||Pali DPC,Pali,188000.0,1.88,7,7,0.0,False,0.0
 EPROC-2026_AGUJD_605284_1,EO/NIT-11/2026-27,AGRICULTURE UNIVERSITY- JODHPUR||VICE CHANCELLOR||COMPTROLLER,Pali,632071.0,6.3207,13,7,0.0,False,0.0
-EPROC-2026_RJMES_604955_1,NIT-01/2026-27,RAJASTHAN MEDICAL EDUCATION SOCIETY||VICE CHAIRMAN AND COMMISSIONER||Medical College- Pali,Pali,30000000.0,300.0,14,30,16,True,65.2
-EPROC-2026_RUID_604510_1,RUIDP/Effluent/Pali/02,Raj. Urban Infrastructure Development Project,Pali,136412539.0,1364.1254,29,30,1,True,32.6
+EPROC-2026_RJMES_604955_1,NIT-01/2026-27,RAJASTHAN MEDICAL EDUCATION SOCIETY||VICE CHAIRMAN AND COMMISSIONER||Medical College- Pali,Pali,30000000.0,300.0,14,30,16.0,True,65.2
+EPROC-2026_RUID_604510_1,RUIDP/Effluent/Pali/02,Raj. Urban Infrastructure Development Project,Pali,136412539.0,1364.1254,29,30,1.0,True,32.6
 HF-AOC-2025_RJMES_453841_1,NIT No 01/2025-26,RAJASTHAN MEDICAL EDUCATION SOCIETYVICE CHAIRMAN AND COMMISSIONERMedical College- Pali,Pali,10000000.0,100.0,46,15,0.0,False,0.0
 GEM/2026/B/8211050,GEM/2026/B/8211050,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8174275,GEM/2026/B/8174275,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,25,7,0.0,False,0.0
@@ -52,7 +52,7 @@ GEM/2026/B/8125115,GEM/2026/B/8125115,Ministry of Coal - COAL INDIA LIMITED,Pali
 GEM/2026/B/8214661,GEM/2026/B/8214661,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8154767,GEM/2026/B/8154767,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,27,7,0.0,False,0.0
 GEM/2026/B/8213879,GEM/2026/B/8213879,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/765420,GEM/2026/R/765420,Energy Department Odisha,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/765420,GEM/2026/R/765420,Energy Department Odisha,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8150838,GEM/2026/B/8150838,Ministry of Education - Department of Higher Education,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8138394,GEM/2026/B/8138394,Ministry of Power - NA,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/8194954,GEM/2026/B/8194954,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -61,7 +61,7 @@ GEM/2026/B/8178383,GEM/2026/B/8178383,Urban Development and Urban Housing Depart
 GEM/2026/B/8186733,GEM/2026/B/8186733,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8173256,GEM/2026/B/8173256,Personnel Administrative Reforms and Raj Bhasa Department Jharkhand,Pali,0.0,0.0,17,7,0.0,False,0.0
 GEM/2026/B/8184600,GEM/2026/B/8184600,Ministry of Defence - Department of Defence,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/760519,GEM/2026/R/760519,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/760519,GEM/2026/R/760519,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8161334,GEM/2026/B/8161334,Ministry of Power - NA,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/8125725,GEM/2026/B/8125725,Ministry of Power - NA,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/8014815,GEM/2026/B/8014815,Ministry of Power - NA,Pali,0.0,0.0,15,7,0.0,False,0.0
@@ -70,15 +70,15 @@ GEM/2026/B/8109525,GEM/2026/B/8109525,Ministry of Petroleum and Natural Gas - Bh
 GEM/2026/B/8161878,GEM/2026/B/8161878,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8090843,GEM/2026/B/8090843,Urban Development Directorate of Uttarakhand,Pali,0.0,0.0,27,7,0.0,False,0.0
 GEM/2026/B/8114251,GEM/2026/B/8114251,Ministry of Home Affairs - Central Armed Police Forces,Pali,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/756641,GEM/2026/R/756641,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/756331,GEM/2026/R/756331,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/756641,GEM/2026/R/756641,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/756331,GEM/2026/R/756331,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8132960,GEM/2026/B/8132960,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8022835,GEM/2026/B/8022835,Urban Development and Environment Department,Pali,0.0,0.0,32,7,0.0,False,0.0
-GEM/2026/R/754815,GEM/2026/R/754815,Sports Youth and Cultural Activities Department Gujarat,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/754815,GEM/2026/R/754815,Sports Youth and Cultural Activities Department Gujarat,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8135632,GEM/2026/B/8135632,Local Self Government Department Kerala,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8122889,GEM/2026/B/8122889,Official Portal of State Government,Pali,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/8140115,GEM/2026/B/8140115,Personnel Administrative Reforms and Raj Bhasa Department Jharkhand,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/753991,GEM/2026/R/753991,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/753991,GEM/2026/R/753991,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/8133420,GEM/2026/B/8133420,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8133153,GEM/2026/B/8133153,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8131086,GEM/2026/B/8131086,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,11,7,0.0,False,0.0
@@ -97,7 +97,7 @@ GEM/2026/B/8113744,GEM/2026/B/8113744,Urban Development Department Uttar Pradesh
 GEM/2026/B/8113658,GEM/2026/B/8113658,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8112321,GEM/2026/B/8112321,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8112276,GEM/2026/B/8112276,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8126477,GEM/2026/B/8126477,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/8126477,GEM/2026/B/8126477,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/8052206,GEM/2026/B/8052206,Sports Youth and Cultural Activities Department Gujarat,Pali,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7977371,GEM/2026/B/7977371,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/8064975,GEM/2026/B/8064975,Urban Development and Environment Department,Pali,0.0,0.0,17,7,0.0,False,0.0
@@ -113,12 +113,12 @@ GEM/2026/B/8064614,GEM/2026/B/8064614,Ministry of Defence - Department of Milita
 GEM/2026/B/8064250,GEM/2026/B/8064250,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7987664,GEM/2026/B/7987664,Sports Youth and Cultural Activities Department Gujarat,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8058827,GEM/2026/B/8058827,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/742173,GEM/2026/R/742173,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/741994,GEM/2026/R/741994,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/742173,GEM/2026/R/742173,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/741994,GEM/2026/R/741994,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8004398,GEM/2026/B/8004398,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8003506,GEM/2026/B/8003506,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8039474,GEM/2026/B/8039474,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/739608,GEM/2026/R/739608,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/739608,GEM/2026/R/739608,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8032939,GEM/2026/B/8032939,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,9,7,0.0,False,0.0
 GEM/2026/B/8012541,GEM/2026/B/8012541,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/8029257,GEM/2026/B/8029257,Forests and Environment Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -127,7 +127,7 @@ GEM/2026/B/8001162,GEM/2026/B/8001162,Ministry of Coal - COAL INDIA LIMITED,Pali
 GEM/2026/B/8007838,GEM/2026/B/8007838,Ministry of Power - NA,Pali,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7916766,GEM/2026/B/7916766,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,35,7,0.0,False,0.0
 GEM/2026/B/8013061,GEM/2026/B/8013061,Ministry of Defence - Department of Defence,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8036717,GEM/2026/B/8036717,Ministry of Power - NA,Pali,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/8036717,GEM/2026/B/8036717,Ministry of Power - NA,Pali,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/8015648,GEM/2026/B/8015648,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7972457,GEM/2026/B/7972457,Ministry of Railways - Indian Railways,Pali,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7972426,GEM/2026/B/7972426,Ministry of Railways - Indian Railways,Pali,0.0,0.0,22,7,0.0,False,0.0
@@ -153,7 +153,7 @@ GEM/2026/B/7966210,GEM/2026/B/7966210,Co-operative Department Rajasthan,Pali,0.0
 GEM/2026/B/7963793,GEM/2026/B/7963793,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7961620,GEM/2026/B/7961620,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7802196,GEM/2026/B/7802196,Ministry of Power - NA,Pali,0.0,0.0,18,7,0.0,False,0.0
-GEM/2026/R/726571,GEM/2026/R/726571,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/726571,GEM/2026/R/726571,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7766921,GEM/2026/B/7766921,Ministry of Power - NA,Pali,0.0,0.0,17,7,0.0,False,0.0
 GEM/2026/B/7893054,GEM/2026/B/7893054,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,24,7,0.0,False,0.0
 GEM/2026/B/7865382,GEM/2026/B/7865382,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,16,7,0.0,False,0.0
@@ -175,13 +175,13 @@ GEM/2026/B/7884766,GEM/2026/B/7884766,Forest Department Rajasthan,Pali,0.0,0.0,1
 GEM/2026/B/7884581,GEM/2026/B/7884581,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7887487,GEM/2026/B/7887487,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7857037,GEM/2026/B/7857037,Ministry of Power - NA,Pali,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/R/714659,GEM/2026/R/714659,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/714659,GEM/2026/R/714659,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7769019,GEM/2026/B/7769019,Ministry of Power - NA,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7820371,GEM/2026/B/7820371,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7847175,GEM/2026/B/7847175,Ministry of Power - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7756876,GEM/2026/B/7756876,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7843244,GEM/2026/B/7843244,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/711045,GEM/2026/R/711045,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/711045,GEM/2026/R/711045,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7829338,GEM/2026/B/7829338,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7826141,GEM/2026/B/7826141,Ministry of Defence - Department of Defence,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7716801,GEM/2026/B/7716801,Ministry of Power - NA,Pali,0.0,0.0,21,7,0.0,False,0.0
@@ -196,18 +196,18 @@ GEM/2026/B/7754313,GEM/2026/B/7754313,urban affairs department,Pali,0.0,0.0,10,7
 GEM/2026/B/7754169,GEM/2026/B/7754169,urban affairs department,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7740056,GEM/2026/B/7740056,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7664160,GEM/2026/B/7664160,Ministry of Power - NA,Pali,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/R/693647,GEM/2026/R/693647,Sports Youth and Cultural Activities Department Gujarat,Pali,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/692970,GEM/2026/R/692970,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/693647,GEM/2026/R/693647,Sports Youth and Cultural Activities Department Gujarat,Pali,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/692970,GEM/2026/R/692970,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7709212,GEM/2026/B/7709212,Ministry of Power - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7657377,GEM/2026/B/7657377,Sports Youth and Cultural Activities Department Gujarat,Pali,0.0,0.0,16,7,0.0,False,0.0
-GEM/2026/R/690103,GEM/2026/R/690103,Ministry of Defence - Department of Defence Research & Development,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/690103,GEM/2026/R/690103,Ministry of Defence - Department of Defence Research & Development,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7682448,GEM/2026/B/7682448,Ministry of Power - NA,Pali,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/R/689858,GEM/2026/R/689858,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/689858,GEM/2026/R/689858,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7692353,GEM/2026/B/7692353,Official Portal of State Government,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/R/686193,GEM/2026/R/686193,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,7,7,0.0,False,0.0
 GEM/2026/B/7682141,GEM/2026/B/7682141,Ministry of Defence - Department of Defence Research & Development,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7527786,GEM/2026/B/7527786,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/688484,GEM/2026/R/688484,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/688484,GEM/2026/R/688484,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7491673,GEM/2026/B/7491673,Ministry of Power - NA,Pali,0.0,0.0,58,7,0.0,False,0.0
 GEM/2026/B/7590933,GEM/2026/B/7590933,Ministry of Petroleum and Natural Gas - Balmer Lawrie and Company Limited,Pali,0.0,0.0,29,7,0.0,False,0.0
 GEM/2026/B/7620441,GEM/2026/B/7620441,Ministry of Defence - Department of Defence Research & Development,Pali,0.0,0.0,21,7,0.0,False,0.0
@@ -223,9 +223,9 @@ GEM/2026/B/7559848,GEM/2026/B/7559848,Ministry of Power - NA,Pali,0.0,0.0,17,7,0
 GEM/2026/B/7621283,GEM/2026/B/7621283,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7562977,GEM/2026/B/7562977,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7561971,GEM/2026/B/7561971,Ministry of Power - NA,Pali,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/678418,GEM/2026/R/678418,Ministry of Coal - NLC India Limited,Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/678418,GEM/2026/R/678418,Ministry of Coal - NLC India Limited,Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7600040,GEM/2026/B/7600040,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/677797,GEM/2026/R/677797,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/677797,GEM/2026/R/677797,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7448905,GEM/2026/B/7448905,Ministry of Power - NA,Pali,0.0,0.0,47,7,0.0,False,0.0
 GEM/2026/B/7593761,GEM/2026/B/7593761,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7575153,GEM/2026/B/7575153,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,15,7,0.0,False,0.0
@@ -240,7 +240,7 @@ GEM/2026/B/7559215,GEM/2026/B/7559215,Urban Development and Urban Housing Depart
 GEM/2026/B/7562299,GEM/2026/B/7562299,Ministry of Power - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7531719,GEM/2026/B/7531719,Urban Development and Environment Department,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7484352,GEM/2026/B/7484352,Ministry of Power - NA,Pali,0.0,0.0,32,7,0.0,False,0.0
-GEM/2026/R/673717,GEM/2026/R/673717,Public Health and Family Welfare Department Maharashtra,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/673717,GEM/2026/R/673717,Public Health and Family Welfare Department Maharashtra,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7557521,GEM/2026/B/7557521,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7520124,GEM/2026/B/7520124,Medical Education Department Rajasthan,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7476945,GEM/2026/B/7476945,Ministry of Coal - NLC India Limited,Pali,0.0,0.0,21,7,0.0,False,0.0
@@ -256,9 +256,9 @@ GEM/2026/B/7435563,GEM/2026/B/7435563,Ministry of Coal - COAL INDIA LIMITED,Pali
 GEM/2026/B/7457156,GEM/2026/B/7457156,Ministry of Water Resources River Development and Ganga Rejuvenation - NA,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7466066,GEM/2026/B/7466066,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7472621,GEM/2026/B/7472621,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/R/664020,GEM/2026/R/664020,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/664020,GEM/2026/R/664020,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7462494,GEM/2026/B/7462494,Ministry of Power - NA,Pali,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/R/663205,GEM/2026/R/663205,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/663205,GEM/2026/R/663205,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7476845,GEM/2026/B/7476845,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7384390,GEM/2026/B/7384390,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,42,7,0.0,False,0.0
 GEM/2026/B/7397750,GEM/2026/B/7397750,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,38,7,0.0,False,0.0
@@ -266,7 +266,7 @@ GEM/2026/B/7448527,GEM/2026/B/7448527,Urban Development and Environment Departme
 GEM/2026/B/7424041,GEM/2026/B/7424041,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7451761,GEM/2026/B/7451761,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7443597,GEM/2026/B/7443597,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/R/661103,GEM/2026/R/661103,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/661103,GEM/2026/R/661103,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7402670,GEM/2026/B/7402670,Ministry of Power - NA,Pali,0.0,0.0,29,7,0.0,False,0.0
 GEM/2026/B/7394698,GEM/2026/B/7394698,Ministry of Power - NA,Pali,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7438206,GEM/2026/B/7438206,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,15,7,0.0,False,0.0
@@ -280,13 +280,13 @@ GEM/2026/B/7442667,GEM/2026/B/7442667,Housing and Urban Development Department O
 GEM/2026/B/7424843,GEM/2026/B/7424843,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,16,7,0.0,False,0.0
 GEM/2026/B/7434021,GEM/2026/B/7434021,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7361854,GEM/2026/B/7361854,Ministry of Petroleum and Natural Gas - NA,Pali,0.0,0.0,38,7,0.0,False,0.0
-GEM/2026/R/659103,GEM/2026/R/659103,Ministry of Home Affairs - Department of Home,Pali,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/658829,GEM/2026/R/658829,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/658194,GEM/2026/R/658194,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/659103,GEM/2026/R/659103,Ministry of Home Affairs - Department of Home,Pali,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/658829,GEM/2026/R/658829,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/658194,GEM/2026/R/658194,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7434680,GEM/2026/B/7434680,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7418689,GEM/2026/B/7418689,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7404893,GEM/2026/B/7404893,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7426641,GEM/2026/B/7426641,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7426641,GEM/2026/B/7426641,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7407717,GEM/2026/B/7407717,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7394345,GEM/2026/B/7394345,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7403478,GEM/2026/B/7403478,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -296,8 +296,8 @@ GEM/2026/B/7383019,GEM/2026/B/7383019,Ministry of Coal - COAL INDIA LIMITED,Pali
 GEM/2026/B/7327325,GEM/2026/B/7327325,Ministry of Railways - Indian Railways,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7367115,GEM/2026/B/7367115,Ministry of Power - NA,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7348312,GEM/2026/B/7348312,Ministry of Power - NA,Pali,0.0,0.0,26,7,0.0,False,0.0
-GEM/2026/R/653554,GEM/2026/R/653554,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/653523,GEM/2026/R/653523,Revenue Department Gujarat,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/653554,GEM/2026/R/653554,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/653523,GEM/2026/R/653523,Revenue Department Gujarat,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7397886,GEM/2026/B/7397886,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7397787,GEM/2026/B/7397787,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7397030,GEM/2026/B/7397030,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -305,12 +305,12 @@ GEM/2025/B/6940884,GEM/2025/B/6940884,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/6940819,GEM/2025/B/6940819,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,20,7,0.0,False,0.0
 GEM/2026/B/7360072,GEM/2026/B/7360072,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7394292,GEM/2026/B/7394292,Urban Development and Environment Department,Pali,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/652837,GEM/2026/R/652837,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/652837,GEM/2026/R/652837,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7380671,GEM/2026/B/7380671,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7372758,GEM/2026/B/7372758,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7362765,GEM/2026/B/7362765,Sports Youth and Cultural Activities Department Gujarat,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7290158,GEM/2026/B/7290158,Ministry of Home Affairs - Department of Home,Pali,0.0,0.0,16,7,0.0,False,0.0
-GEM/2026/B/7394881,GEM/2026/B/7394881,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/7394881,GEM/2026/B/7394881,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7372119,GEM/2026/B/7372119,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7371828,GEM/2026/B/7371828,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7365843,GEM/2026/B/7365843,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -345,9 +345,9 @@ GEM/2026/B/7234760,GEM/2026/B/7234760,Ministry of Power - NA,Pali,0.0,0.0,24,7,0
 GEM/2026/B/7298894,GEM/2026/B/7298894,Ministry of Power - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7283492,GEM/2026/B/7283492,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7307632,GEM/2026/B/7307632,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/638236,GEM/2026/R/638236,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/638236,GEM/2026/R/638236,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7288947,GEM/2026/B/7288947,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/636509,GEM/2026/R/636509,PMO - Department of Atomic Energy,Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/636509,GEM/2026/R/636509,PMO - Department of Atomic Energy,Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7287448,GEM/2026/B/7287448,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7278197,GEM/2026/B/7278197,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7285461,GEM/2026/B/7285461,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -359,7 +359,7 @@ GEM/2026/B/7198971,GEM/2026/B/7198971,Ministry of Power - NA,Pali,0.0,0.0,24,7,0
 GEM/2026/B/7260888,GEM/2026/B/7260888,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7227073,GEM/2026/B/7227073,Medical Health and Family Welfare Department Rajasthan,Pali,0.0,0.0,17,7,0.0,False,0.0
 GEM/2026/B/7155394,GEM/2026/B/7155394,Ministry of Power - NA,Pali,0.0,0.0,31,7,0.0,False,0.0
-GEM/2026/R/632446,GEM/2026/R/632446,Ministry of Communications - Department of Telecommunications (DOT),Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/632446,GEM/2026/R/632446,Ministry of Communications - Department of Telecommunications (DOT),Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7250693,GEM/2026/B/7250693,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/7059151,GEM/2025/B/7059151,Ministry of Power - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7217877,GEM/2026/B/7217877,Ministry of Power - NA,Pali,0.0,0.0,16,7,0.0,False,0.0
@@ -372,7 +372,7 @@ GEM/2026/B/7219299,GEM/2026/B/7219299,Ministry of Power - NA,Pali,0.0,0.0,10,7,0
 GEM/2026/B/7212637,GEM/2026/B/7212637,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7158193,GEM/2026/B/7158193,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,24,7,0.0,False,0.0
 GEM/2026/B/7214331,GEM/2026/B/7214331,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/626726,GEM/2026/R/626726,Ministry of Communications - Department of Telecommunications (DOT),Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/626726,GEM/2026/R/626726,Ministry of Communications - Department of Telecommunications (DOT),Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7192117,GEM/2026/B/7192117,Ministry of Petroleum and Natural Gas - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7063500,GEM/2026/B/7063500,Medical Education Department Rajasthan,Pali,0.0,0.0,46,7,0.0,False,0.0
 GEM/2026/B/7178193,GEM/2026/B/7178193,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,15,7,0.0,False,0.0
@@ -395,7 +395,7 @@ GEM/2026/B/7172182,GEM/2026/B/7172182,Urban Development and Urban Housing Depart
 GEM/2026/B/7148108,GEM/2026/B/7148108,Vocational Education and Skill Development Department Uttar Pradesh,Pali,0.0,0.0,16,7,0.0,False,0.0
 GEM/2026/B/7160395,GEM/2026/B/7160395,Forest Department Rajasthan,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7160156,GEM/2026/B/7160156,Forest Department Rajasthan,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/619364,GEM/2026/R/619364,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/619364,GEM/2026/R/619364,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7140686,GEM/2026/B/7140686,Health and Family Welfare Department Karnataka,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7140746,GEM/2026/B/7140746,Health and Family Welfare Department Karnataka,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7118535,GEM/2026/B/7118535,Ministry of Home Affairs - Department of Home,Pali,0.0,0.0,21,7,0.0,False,0.0
@@ -408,14 +408,14 @@ GEM/2026/B/7144985,GEM/2026/B/7144985,Urban Development Department Uttar Pradesh
 GEM/2026/B/7089375,GEM/2026/B/7089375,Ministry of Defence - Department of Defence,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7121686,GEM/2026/B/7121686,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7112191,GEM/2026/B/7112191,Ministry of Power - NA,Pali,0.0,0.0,16,7,0.0,False,0.0
-GEM/2026/R/614671,GEM/2026/R/614671,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/614671,GEM/2026/R/614671,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7124800,GEM/2026/B/7124800,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7063829,GEM/2026/B/7063829,PMO - Department of Atomic Energy,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7115275,GEM/2026/B/7115275,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7118036,GEM/2026/B/7118036,Ministry of Defence - Department of Defence,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7093488,GEM/2026/B/7093488,Official Portal of State Government,Pali,0.0,0.0,18,7,0.0,False,0.0
 GEM/2026/B/7106402,GEM/2026/B/7106402,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/R/609043,GEM/2026/R/609043,Health Department Haryana,Pali,0.0,0.0,4,7,3,True,41.7
+GEM/2026/R/609043,GEM/2026/R/609043,Health Department Haryana,Pali,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7110735,GEM/2026/B/7110735,Local Self Government Department Kerala,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7095949,GEM/2026/B/7095949,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7103439,GEM/2026/B/7103439,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -435,7 +435,7 @@ GEM/2025/B/7044852,GEM/2025/B/7044852,Ministry of Defence - Department of Milita
 GEM/2025/B/7021019,GEM/2025/B/7021019,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6883705,GEM/2025/B/6883705,Ministry of Power - NA,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/7042494,GEM/2025/B/7042494,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/599792,GEM/2026/R/599792,Ministry of Communications - Department of Telecommunications (DOT),Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/599792,GEM/2026/R/599792,Ministry of Communications - Department of Telecommunications (DOT),Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/7005420,GEM/2025/B/7005420,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,18,7,0.0,False,0.0
 GEM/2025/B/6996435,GEM/2025/B/6996435,Ministry of Power - NA,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6974560,GEM/2025/B/6974560,Ministry of Power - NA,Pali,0.0,0.0,19,7,0.0,False,0.0
@@ -489,7 +489,7 @@ GEM/2025/B/6866731,GEM/2025/B/6866731,Urban Development and Urban Housing Depart
 GEM/2025/B/6861240,GEM/2025/B/6861240,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6841927,GEM/2025/B/6841927,Ministry of Earth Sciences - Department of Earth Sciences,Pali,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6851647,GEM/2025/B/6851647,Ministry of Power - NA,Pali,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/R/576985,GEM/2025/R/576985,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/576985,GEM/2025/R/576985,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6861183,GEM/2025/B/6861183,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6787579,GEM/2025/B/6787579,Ministry of Power - NA,Pali,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/6839034,GEM/2025/B/6839034,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,16,7,0.0,False,0.0
@@ -507,7 +507,7 @@ GEM/2025/B/6636284,GEM/2025/B/6636284,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/6802249,GEM/2025/B/6802249,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6819087,GEM/2025/B/6819087,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6723693,GEM/2025/B/6723693,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,37,7,0.0,False,0.0
-GEM/2025/R/566620,GEM/2025/R/566620,Ministry of Coal - NLC India Limited,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/566620,GEM/2025/R/566620,Ministry of Coal - NLC India Limited,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6806935,GEM/2025/B/6806935,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6793380,GEM/2025/B/6793380,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6795647,GEM/2025/B/6795647,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,12,7,0.0,False,0.0
@@ -550,7 +550,7 @@ GEM/2025/B/6643888,GEM/2025/B/6643888,Ministry of Power - NA,Pali,0.0,0.0,15,7,0
 GEM/2025/B/6507269,GEM/2025/B/6507269,Ministry of Power - NA,Pali,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/6498972,GEM/2025/B/6498972,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6574896,GEM/2025/B/6574896,MADHYANCHAL VIDYUT VITARAN NIGAM LIMITED LUCKNOW,Pali,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/R/543679,GEM/2025/R/543679,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/543679,GEM/2025/R/543679,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6624056,GEM/2025/B/6624056,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6631770,GEM/2025/B/6631770,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6460474,GEM/2025/B/6460474,Ministry of Commerce and Industry - Department of Commerce,Pali,0.0,0.0,28,7,0.0,False,0.0
@@ -560,7 +560,7 @@ GEM/2025/B/6615981,GEM/2025/B/6615981,MADHYANCHAL VIDYUT VITARAN NIGAM LIMITED L
 GEM/2025/B/6556936,GEM/2025/B/6556936,Ministry of Power - NA,Pali,0.0,0.0,25,7,0.0,False,0.0
 GEM/2025/B/6590343,GEM/2025/B/6590343,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6589004,GEM/2025/B/6589004,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/536698,GEM/2025/R/536698,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/536698,GEM/2025/R/536698,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6582897,GEM/2025/B/6582897,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6560440,GEM/2025/B/6560440,LSG (Local Self Government) Rajasthan,Pali,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6575962,GEM/2025/B/6575962,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -568,7 +568,7 @@ GEM/2025/B/6553758,GEM/2025/B/6553758,Ministry of Defence - Department of Milita
 GEM/2025/B/6532314,GEM/2025/B/6532314,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,18,7,0.0,False,0.0
 GEM/2025/B/6561271,GEM/2025/B/6561271,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6541975,GEM/2025/B/6541975,LSG (Local Self Government) Rajasthan,Pali,0.0,0.0,12,7,0.0,False,0.0
-GEM/2025/R/530932,GEM/2025/R/530932,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/530932,GEM/2025/R/530932,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6520911,GEM/2025/B/6520911,Ministry of Defence - Department of Defence,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6515833,GEM/2025/B/6515833,Ministry of Power - NA,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6504348,GEM/2025/B/6504348,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,17,7,0.0,False,0.0
@@ -580,7 +580,7 @@ GEM/2025/B/5977010,GEM/2025/B/5977010,Ministry of Defence - Department of Defenc
 GEM/2025/B/6509254,GEM/2025/B/6509254,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6502723,GEM/2025/B/6502723,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6490823,GEM/2025/B/6490823,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/523848,GEM/2025/R/523848,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/523848,GEM/2025/R/523848,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6465581,GEM/2025/B/6465581,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6283205,GEM/2025/B/6283205,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6454228,GEM/2025/B/6454228,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,17,7,0.0,False,0.0
@@ -588,7 +588,7 @@ GEM/2025/B/6453962,GEM/2025/B/6453962,Urban Development and Urban Housing Depart
 GEM/2025/B/6371877,GEM/2025/B/6371877,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6472965,GEM/2025/B/6472965,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6465926,GEM/2025/B/6465926,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/519744,GEM/2025/R/519744,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/519744,GEM/2025/R/519744,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6456205,GEM/2025/B/6456205,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6388165,GEM/2025/B/6388165,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6431930,GEM/2025/B/6431930,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,15,7,0.0,False,0.0
@@ -603,7 +603,7 @@ GEM/2025/B/6346460,GEM/2025/B/6346460,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/6358008,GEM/2025/B/6358008,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6385926,GEM/2025/B/6385926,Ministry of Power - NA,Pali,0.0,0.0,12,7,0.0,False,0.0
 GEM/2025/B/6348975,GEM/2025/B/6348975,Ministry of Petroleum and Natural Gas - NA,Pali,0.0,0.0,19,7,0.0,False,0.0
-GEM/2025/R/508713,GEM/2025/R/508713,Ministry of Communications - Department of Telecommunications (DOT),Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/508713,GEM/2025/R/508713,Ministry of Communications - Department of Telecommunications (DOT),Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6295330,GEM/2025/B/6295330,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6321598,GEM/2025/B/6321598,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,19,7,0.0,False,0.0
 GEM/2025/B/6280693,GEM/2025/B/6280693,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,31,7,0.0,False,0.0
@@ -611,7 +611,7 @@ GEM/2025/B/6311615,GEM/2025/B/6311615,Ministry of Defence - Department of Defenc
 GEM/2025/B/6280623,GEM/2025/B/6280623,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,29,7,0.0,False,0.0
 GEM/2025/B/6280502,GEM/2025/B/6280502,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,29,7,0.0,False,0.0
 GEM/2025/B/6234412,GEM/2025/B/6234412,Ministry of Power - NA,Pali,0.0,0.0,36,7,0.0,False,0.0
-GEM/2025/R/504287,GEM/2025/R/504287,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/504287,GEM/2025/R/504287,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6309486,GEM/2025/B/6309486,Ministry of Petroleum and Natural Gas - NA,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6265838,GEM/2025/B/6265838,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6296353,GEM/2025/B/6296353,Ministry of Power - NA,Pali,0.0,0.0,20,7,0.0,False,0.0
@@ -627,7 +627,7 @@ GEM/2025/B/6211601,GEM/2025/B/6211601,Ministry of Commerce and Industry - Depart
 GEM/2025/B/6272985,GEM/2025/B/6272985,Medical Education and Drugs Department Maharashtra,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6296464,GEM/2025/B/6296464,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6258313,GEM/2025/B/6258313,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/R/496931,GEM/2025/R/496931,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/496931,GEM/2025/R/496931,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6267897,GEM/2025/B/6267897,Ministry of Power - NA,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6224603,GEM/2025/B/6224603,Ministry of Youth Affairs and Sports - Department of Sports,Pali,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6226548,GEM/2025/B/6226548,Ministry of Defence - Department of Defence Research & Development,Pali,0.0,0.0,21,7,0.0,False,0.0
@@ -638,7 +638,7 @@ GEM/2025/B/6223974,GEM/2025/B/6223974,Urban Development and Urban Housing Depart
 GEM/2025/B/6224009,GEM/2025/B/6224009,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6211837,GEM/2025/B/6211837,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6124746,GEM/2025/B/6124746,Ministry of Power - NA,Pali,0.0,0.0,50,7,0.0,False,0.0
-GEM/2025/R/492137,GEM/2025/R/492137,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/492137,GEM/2025/R/492137,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6203155,GEM/2025/B/6203155,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6204728,GEM/2025/B/6204728,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6231824,GEM/2025/B/6231824,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -654,7 +654,7 @@ GEM/2025/B/6175456,GEM/2025/B/6175456,Ministry of Defence - Department of Milita
 GEM/2025/B/6193741,GEM/2025/B/6193741,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6153482,GEM/2025/B/6153482,Urban Development and Environment Department,Pali,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/6188913,GEM/2025/B/6188913,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Pali,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/486034,GEM/2025/R/486034,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,3,7,4,True,51.7
+GEM/2025/R/486034,GEM/2025/R/486034,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6183652,GEM/2025/B/6183652,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6138857,GEM/2025/B/6138857,Ministry of Petroleum and Natural Gas - NA,Pali,0.0,0.0,18,7,0.0,False,0.0
 GEM/2025/B/6178866,GEM/2025/B/6178866,Ministry of Petroleum and Natural Gas - Balmer Lawrie and Company Limited,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -767,19 +767,19 @@ GEM/2025/B/5877767,GEM/2025/B/5877767,Ministry of Power - NA,Pali,0.0,0.0,13,7,0
 GEM/2025/B/5803323,GEM/2025/B/5803323,Ministry of Power - NA,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5859472,GEM/2025/B/5859472,Ministry of Power - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5819423,GEM/2025/B/5819423,Ministry of Power - NA,Pali,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/R/446790,GEM/2025/R/446790,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/446790,GEM/2025/R/446790,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5779212,GEM/2025/B/5779212,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5830588,GEM/2025/B/5830588,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5832663,GEM/2025/B/5832663,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5873590,GEM/2025/B/5873590,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5820006,GEM/2025/B/5820006,Ministry of Power - NA,Pali,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/R/445129,GEM/2025/R/445129,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/445129,GEM/2025/R/445129,Ministry of Defence - Department of Defence,Pali,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5867529,GEM/2025/B/5867529,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5867368,GEM/2025/B/5867368,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5865201,GEM/2025/B/5865201,Ministry of Power - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5817141,GEM/2025/B/5817141,Ministry of Defence - Department of Military Affairs,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5793991,GEM/2025/B/5793991,Ministry of Power - NA,Pali,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/443731,GEM/2025/R/443731,Ministry of Defence - Department of Defence,Pali,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/443731,GEM/2025/R/443731,Ministry of Defence - Department of Defence,Pali,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/5799189,GEM/2025/B/5799189,Ministry of Defence - Department of Defence,Pali,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5825500,GEM/2025/B/5825500,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5848043,GEM/2025/B/5848043,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
@@ -812,7 +812,7 @@ GEM/2026/B/8241307,GEM/2026/B/8241307,Ministry of Power - NA,Pali,0.0,0.0,10,7,0
 GEM/2026/B/8237969,GEM/2026/B/8237969,Ministry of Power - NA,Pali,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8215456,GEM/2026/B/8215456,Urban Development Department Uttar Pradesh,Pali,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/8242729,GEM/2026/B/8242729,Ministry of Education - Department of School Education and Literacy,Pali,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/8255936,GEM/2026/B/8255936,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/8255936,GEM/2026/B/8255936,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/8239763,GEM/2026/B/8239763,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8197845,GEM/2026/B/8197845,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,20,7,0.0,False,0.0
 GEM/2026/B/8133039,GEM/2026/B/8133039,Ministry of Labour and Employment - NA,Pali,0.0,0.0,16,7,0.0,False,0.0
@@ -824,12 +824,14 @@ GEM/2026/B/8198300,GEM/2026/B/8198300,Urban Development Department Uttar Pradesh
 GEM/2026/B/8212221,GEM/2026/B/8212221,Ministry of Coal - COAL INDIA LIMITED,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/8011361,GEM/2026/B/8011361,Urban Development and Urban Housing Department Gujarat,Pali,0.0,0.0,55,7,0.0,False,0.0
 GEM/2025/B/5868721,GEM/2025/B/5868721,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,7,7,0.0,False,0.0
-GEM/2026/B/7991769,GEM/2026/B/7991769,Ministry of Finance - Department of Revenue,Pali,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/7991769,GEM/2026/B/7991769,Ministry of Finance - Department of Revenue,Pali,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7905030,GEM/2026/B/7905030,Ministry of Finance - Department of Revenue,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7645032,GEM/2026/B/7645032,Ministry of Finance - Department of Revenue,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7351009,GEM/2026/B/7351009,Ministry of Railways - Indian Railways,Pali,0.0,0.0,24,7,0.0,False,0.0
-GEM/2026/B/8232482,GEM/2026/B/8232482,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Pali,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6110891,GEM/2025/B/6110891,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/8232482,GEM/2026/B/8232482,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Pali,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6110891,GEM/2025/B/6110891,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/5870124,GEM/2025/B/5870124,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Pali,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6448598,GEM/2025/B/6448598,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Pali,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6197134,GEM/2025/B/6197134,Ministry of Finance - Department of Revenue,Pali,0.0,0.0,11,7,0.0,False,0.0
+2026_RCDF_605672_1,NIT 605672_1,Jodhpur Division,Pali,2500000.0,25.0,9,10,1.0,True,31.0
+2026_RCDF_602425_1,NIT 602425_1,Jodhpur Division,Pali,2500000.0,25.0,46,10,0.0,False,0.0

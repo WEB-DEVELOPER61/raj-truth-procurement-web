@@ -1,14 +1,14 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
 SHPP-2200000,Goods/2026-27/0001/157,"Command Area Development, Chambal Project, Kota",Kota,2200000.0,22.0,13,10,0.0,False,0.0
-SHPP-49929000.00,DLB2627WSRC24130,Directorate Local Bodies,Kota,49929000.0,499.29,9,30,21,True,77.7
-SHPP-1947000.00,RVU2627GLSS01419,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,1947000.0,19.47,8,10,2,True,37.6
-SHPP-2326000.00,RVU2627GLSS01418,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,2326000.0,23.26,8,10,2,True,37.9
+SHPP-49929000.00,DLB2627WSRC24130,Directorate Local Bodies,Kota,49929000.0,499.29,9,30,21.0,True,77.7
+SHPP-1947000.00,RVU2627GLSS01419,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,1947000.0,19.47,8,10,2.0,True,37.6
+SHPP-2326000.00,RVU2627GLSS01418,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,2326000.0,23.26,8,10,2.0,True,37.9
 SHPP-990000.00,CMK2627GSRC00180,Medical College kota,Kota,990000.0,9.9,10,7,0.0,False,0.0
 SHPP-1600000.00,CMK2627GLRC00179,Medical College kota,Kota,1600000.0,16.0,10,10,0.0,False,0.0
 SHPP-2200000.00,CKJ2627GLOB00268,CAD Chambal Kota and CAD East,Kota,2200000.0,22.0,13,10,0.0,False,0.0
 SHPP-1624200000.00,PWD2627WLOB15436,CE Public Works Department,Kota,1624200000.0,16242.0,31,30,0.0,False,0.0
 SHPP-2591400000.00,PWD2627WLOB15435,CE Public Works Department,Kota,2591400000.0,25914.0,31,30,0.0,False,0.0
-SHPP-3995530.00,FOR2627WSOB03159,PCCF Forest Department,Kota,3995530.0,39.9553,9,10,1,True,31.7
+SHPP-3995530.00,FOR2627WSOB03159,PCCF Forest Department,Kota,3995530.0,39.9553,9,10,1.0,True,31.7
 SHPP-419991.00,FOR2627WSOB03149,PCCF Forest Department,Kota,419991.0,4.1999,12,7,0.0,False,0.0
 SHPP-197590.00,FOR2627WSOB03150,PCCF Forest Department,Kota,197590.0,1.9759,12,7,0.0,False,0.0
 SHPP-1170000.00,PWD2627WSOB15350,CE Public Works Department,Kota,1170000.0,11.7,19,10,0.0,False,0.0
@@ -16,7 +16,7 @@ SHPP-1840000.00,PWD2627WSOB15351,CE Public Works Department,Kota,1840000.0,18.4,
 SHPP-3570000.00,CMK2627GLRC00177,Medical College kota,Kota,3570000.0,35.7,17,10,0.0,False,0.0
 SHPP-1970000.00,AUK2627WSOB00084,Agriculture University Kota,Kota,1970000.0,19.7,13,10,0.0,False,0.0
 SHPP-1308000.00,AUK2627WSOB00086,Agriculture University Kota,Kota,1308000.0,13.08,13,10,0.0,False,0.0
-SHPP-5721000.00,AUK2627WSOB00085,Agriculture University Kota,Kota,5721000.0,57.21,13,15,2,True,34.6
+SHPP-5721000.00,AUK2627WSOB00085,Agriculture University Kota,Kota,5721000.0,57.21,13,15,2.0,True,34.6
 SHPP-447560.00,RVU2627GSSS01408,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,447560.0,4.4756,13,7,0.0,False,0.0
 SHPP-109517.00,RVU2627GSLB01413,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,109517.0,1.0952,13,7,0.0,False,0.0
 SHPP-1705000.00,PWD2627WSOB15244,CE Public Works Department,Kota,1705000.0,17.05,17,10,0.0,False,0.0
@@ -25,33 +25,33 @@ SHPP-232000.00,PWD2627WSOB15241,CE Public Works Department,Kota,232000.0,2.32,17
 SHPP-647000.00,PWD2627WSOB15245,CE Public Works Department,Kota,647000.0,6.47,17,7,0.0,False,0.0
 SHPP-32808000.00,PWD2627WSOB15163,CE Public Works Department,Kota,32808000.0,328.08,34,30,0.0,False,0.0
 SHPP-64672000.00,PWD2627WLOB15164,CE Public Works Department,Kota,64672000.0,646.72,34,30,0.0,False,0.0
-SHPP-27080000.00,PWD2627WSOB15169,CE Public Works Department,Kota,27080000.0,270.8,28,30,2,True,32.4
-SHPP-27760000.00,KDA2627WSOB00567,Kota Development Authority,Kota,27760000.0,277.6,21,30,9,True,48.8
+SHPP-27080000.00,PWD2627WSOB15169,CE Public Works Department,Kota,27080000.0,270.8,28,30,2.0,True,32.4
+SHPP-27760000.00,KDA2627WSOB00567,Kota Development Authority,Kota,27760000.0,277.6,21,30,9.0,True,48.8
 SHPP-1224297.00,RVU2627WSSS01386,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,1224297.0,12.243,24,10,0.0,False,0.0
-SHPP-192080000.00,KDA2627WLOB00574,Kota Development Authority,Kota,192080000.0,1920.8,21,30,9,True,51.8
-SHPP-46920000.00,KDA2627WSOB00573,Kota Development Authority,Kota,46920000.0,469.2,21,30,9,True,49.6
-SHPP-76560000.00,KDA2627WLOB00569,Kota Development Authority,Kota,76560000.0,765.6,21,30,9,True,50.4
+SHPP-192080000.00,KDA2627WLOB00574,Kota Development Authority,Kota,192080000.0,1920.8,21,30,9.0,True,51.8
+SHPP-46920000.00,KDA2627WSOB00573,Kota Development Authority,Kota,46920000.0,469.2,21,30,9.0,True,49.6
+SHPP-76560000.00,KDA2627WLOB00569,Kota Development Authority,Kota,76560000.0,765.6,21,30,9.0,True,50.4
 SHPP-113752000.00,PWD2627WLOB15032,CE Public Works Department,Kota,113752000.0,1137.52,40,30,0.0,False,0.0
 SHPP-45807000.00,PWD2627WSOB15033,CE Public Works Department,Kota,45807000.0,458.07,40,30,0.0,False,0.0
 SHPP-4320000.00,PWD2627WSOB14060,CE Public Works Department,Kota,4320000.0,43.2,40,10,0.0,False,0.0
 SHPP-4950000.00,VVN2627WSOB00481,Jaipur Vidyut Vitran Nigam Limited,Kota,4950000.0,49.5,63,10,0.0,False,0.0
 SHPP-63700000.00,RVU2627GLRC00909,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,63700000.0,637.0,104,30,0.0,False,0.0
 SHPP-280000.00,RVU2627GSSS01415,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,280000.0,2.8,8,7,0.0,False,0.0
-SHPP-2030000.00,RVU2627GLSS01410,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,2030000.0,20.3,9,10,1,True,30.7
-SHPP-2060000.00,RVU2627GLSS01411,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,2060000.0,20.6,9,10,1,True,30.7
+SHPP-2030000.00,RVU2627GLSS01410,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,2030000.0,20.3,9,10,1.0,True,30.7
+SHPP-2060000.00,RVU2627GLSS01411,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,2060000.0,20.6,9,10,1.0,True,30.7
 SHPP-374638.00,FOR2627WSOB03103,PCCF Forest Department,Kota,374638.0,3.7464,13,7,0.0,False,0.0
 SHPP-497761.00,FOR2627WSOB03102,PCCF Forest Department,Kota,497761.0,4.9776,13,7,0.0,False,0.0
 SHPP-1267000.00,FOR2627WSOB03101,PCCF Forest Department,Kota,1267000.0,12.67,13,10,0.0,False,0.0
 SHPP-19498000.00,PWD2627WSOB14952,CE Public Works Department,Kota,19498000.0,194.98,29,15,0.0,False,0.0
 SHPP-13814000.00,PWD2627WSOB14943,CE Public Works Department,Kota,13814000.0,138.14,29,15,0.0,False,0.0
-SHPP-22361000.00,PWD2627WSOB14942,CE Public Works Department,Kota,22361000.0,223.61,29,30,1,True,29.8
+SHPP-22361000.00,PWD2627WSOB14942,CE Public Works Department,Kota,22361000.0,223.61,29,30,1.0,True,29.8
 SHPP-18908000.00,PWD2627WSOB14941,CE Public Works Department,Kota,18908000.0,189.08,29,15,0.0,False,0.0
-SHPP-20017000.00,PWD2627WSOB14950,CE Public Works Department,Kota,20017000.0,200.17,29,30,1,True,29.6
+SHPP-20017000.00,PWD2627WSOB14950,CE Public Works Department,Kota,20017000.0,200.17,29,30,1.0,True,29.6
 SHPP-15598000.00,PWD2627WSOB14951,CE Public Works Department,Kota,15598000.0,155.98,29,15,0.0,False,0.0
 SHPP-16750000.00,PWD2627WSOB14948,CE Public Works Department,Kota,16750000.0,167.5,29,15,0.0,False,0.0
 SHPP-19426000.00,PWD2627WSOB14947,CE Public Works Department,Kota,19426000.0,194.26,29,15,0.0,False,0.0
 SHPP-12951000.00,PWD2627WSOB14946,CE Public Works Department,Kota,12951000.0,129.51,29,15,0.0,False,0.0
-SHPP-20591000.00,PWD2627WSOB14944,CE Public Works Department,Kota,20591000.0,205.91,29,30,1,True,29.6
+SHPP-20591000.00,PWD2627WSOB14944,CE Public Works Department,Kota,20591000.0,205.91,29,30,1.0,True,29.6
 SHPP-12087000.00,PWD2627WSOB14949,CE Public Works Department,Kota,12087000.0,120.87,29,15,0.0,False,0.0
 SHPP-4670000.00,RVU2627GLOB01339,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,4670000.0,46.7,42,10,0.0,False,0.0
 SHPP-954000.00,RVU2627GSOB01338,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,954000.0,9.54,42,7,0.0,False,0.0
@@ -60,7 +60,7 @@ SHPP-1860000.00,RVU2627GLOB00953,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kot
 SHPP-1980000.00,RVU2627GLOB00930,Rajasthan Rajya Vidut Utpadan Nigam Limited,Kota,1980000.0,19.8,72,10,0.0,False,0.0
 EPROC-2026_CEPWD_605546_1,EE PWD DIV. SULTANPUR NITNO-52/2026-27,PWD - CE AND AS||ACE - KOTA||SE-BUNDI||EE-NAINWA,Kota,1170000.0,11.7,11,10,0.0,False,0.0
 EPROC-2026_CEPWD_605631_4,EE PWD CITY DIV. KOTA NITNO-11/2026-27,PWD - CE AND AS||ACE - KOTA||SE-KOTA||EE-ITAWA,Kota,412000.0,4.12,10,7,0.0,False,0.0
-EPROC-2026_CEPWD_605503_1,EE PWD DISTT. DIV. KOTA NITNO-13/2026-27,PWD - CE AND AS||ACE - KOTA||SE-KOTA||EE-DIST-KOTA,Kota,3000000.0,30.0,7,10,3,True,45.3
+EPROC-2026_CEPWD_605503_1,EE PWD DISTT. DIV. KOTA NITNO-13/2026-27,PWD - CE AND AS||ACE - KOTA||SE-KOTA||EE-DIST-KOTA,Kota,3000000.0,30.0,7,10,3.0,True,45.3
 EPROC-2026_CEPWD_605173_4,EE PWD ELECTRIC DIVISION KOTA NITNO16-2026-27,PWD - CE AND AS||ACE - KOTA||SE-ELECT-KOTA||EE-ELECT-KOTA,Kota,415000.0,4.15,16,7,0.0,False,0.0
 EPROC-2026_CEPWD_605166_8,EE PWD DISTT. DIV. KOTA NITNO-11/2026-27,PWD - CE AND AS||ACE - KOTA||SE-KOTA||EE-DIST-KOTA,Kota,4350000.0,43.5,12,10,0.0,False,0.0
 EPROC-2026_CEPWD_603964_2,EE PWD DIV. SULTANPUR NITNO-45/2026-27,PWD - CE AND AS||ACE - KOTA||SE-BUNDI||EE-NAINWA,Kota,3022000.0,30.22,34,10,0.0,False,0.0
@@ -69,17 +69,17 @@ EPROC-2026_CEPWD_602083_5,EE PWD DIV. SHAHABAD NITNO-13/2026-27,PWD - CE AND AS|
 EPROC-2026_CEPWD_603416_1,SE PWD CIRCLE BARAN NITNO-16/2026-27,PWD - CE AND AS||ACE - KOTA||SE-KOTA||EE-SULTANPUR,Kota,8634000.0,86.34,47,15,0.0,False,0.0
 EPROC-2026_CEPWD_603050_1,SE PWD CIRCLE BARAN NITNO-18/2026-27,PWD - CE AND AS||ACE - KOTA||SE-KOTA||EE-SULTANPUR,Kota,11313000.0,113.13,47,15,0.0,False,0.0
 EPROC-2026_CEPWD_593635_3,EE PWD DIV SULTANPUR NITNO-31/2026-27,PWD - CE AND AS||ACE - KOTA||SE-BUNDI||EE-NAINWA,Kota,2933000.0,29.33,81,10,0.0,False,0.0
-EPROC-2026_DLB_605710_1,NNK/ELECTRIC/2026/1927-1933,DLB||Dy.DR-Kota||CEO-Kota,Kota,499000.0,4.99,6,7,1,True,31.4
+EPROC-2026_DLB_605710_1,NNK/ELECTRIC/2026/1927-1933,DLB||Dy.DR-Kota||CEO-Kota,Kota,499000.0,4.99,6,7,1.0,True,31.4
 EPROC-2026_DLB_605603_1,NNK/KBSL/2026/1812-21,DLB||Dy.DR-Kota||CEO-Kota,Kota,1250000.0,12.5,12,10,0.0,False,0.0
 EPROC-2026_DLB_605520_1,11/2026-27,DLB||Dy.DR-Kota||EO-Ramganj Mandi,Kota,2497000.0,24.97,10,10,0.0,False,0.0
-EPROC-2026_DLB_605321_1,10295-02,DLB||Dy.DR-Kota||Commissioner-Sawaimadhopur,Kota,2710000.0,27.1,9,10,1,True,31.1
+EPROC-2026_DLB_605321_1,10295-02,DLB||Dy.DR-Kota||Commissioner-Sawaimadhopur,Kota,2710000.0,27.1,9,10,1.0,True,31.1
 EPROC-2026_DLB_605287_1,NNK/ELECTRIC/2026/1944-51 nit 41,DLB||Dy.DR-Kota||CEO-Kota,Kota,12103000.0,121.03,20,15,0.0,False,0.0
-EPROC-2026_DLB_605273_1,NIT No. 26/2026-27 (No. 5452),DLB||Dy.DR-Kota||EO- Itawa,Kota,49400000.0,494.0,13,30,17,True,68.3
+EPROC-2026_DLB_605273_1,NIT No. 26/2026-27 (No. 5452),DLB||Dy.DR-Kota||EO- Itawa,Kota,49400000.0,494.0,13,30,17.0,True,68.3
 EPROC-2026_DLB_605175_1,NIT No. 09 (No. 1282),DLB||Dy.DR-Kota||EO-Lakheri,Kota,14164000.0,141.64,17,15,0.0,False,0.0
-EPROC-2026_DLB_605028_1,NNK/ELECTRIC/2026/1740-47,DLB||Dy.DR-Kota||CEO-Kota,Kota,18116000.0,181.16,14,15,1,True,31.8
-EPROC-2026_RSAMB_605054_1,Nit No. 10/2026-27 EE RSAMB Div Kota,RSAMB||ACE - Zone II||S.E. - Circle Kota||Ex.En. - Kota,Kota,57175000.0,571.75,19,30,11,True,54.6
+EPROC-2026_DLB_605028_1,NNK/ELECTRIC/2026/1740-47,DLB||Dy.DR-Kota||CEO-Kota,Kota,18116000.0,181.16,14,15,1.0,True,31.8
+EPROC-2026_RSAMB_605054_1,Nit No. 10/2026-27 EE RSAMB Div Kota,RSAMB||ACE - Zone II||S.E. - Circle Kota||Ex.En. - Kota,Kota,57175000.0,571.75,19,30,11.0,True,54.6
 EPROC-2026_RSAMB_603741_5,Nit No. 08/2026-27 Executive Engineer RSAMB Div Kota,RSAMB||ACE - Zone II||S.E. - Circle Kota||Ex.En. - Kota,Kota,16010000.0,160.1,33,15,0.0,False,0.0
-EPROC-2026_FORES_605581_1,DCF KOTA NITNO69-2026-27,Forest - PCCF (HoFF)||APCCF-Development||CCF-KOTA||DCF-KOTA,Kota,3995530.0,39.9553,9,10,1,True,31.7
+EPROC-2026_FORES_605581_1,DCF KOTA NITNO69-2026-27,Forest - PCCF (HoFF)||APCCF-Development||CCF-KOTA||DCF-KOTA,Kota,3995530.0,39.9553,9,10,1.0,True,31.7
 EPROC-2026_RRVPN_601916_2,RVPN/EHV/BN-9019002610,RRVPN - CMD||CE (Contracts) Jaipur||SE (Contracts-II) Jaipur,Kota,50912433.0,509.1243,50,30,0.0,False,0.0
 EPROC-2026_TECET_601444_1,01/RFP 08 Kota Cluster/2026-27,Technical Education (Training),Kota,409700000.0,4097.0,92,30,0.0,False,0.0
 EPROC-2026_GMCK_605718_1,09/2026-27,"Govt. Medical College, Kota||Principal and Controller||Incharge New Hospital-Medical College Campus-Kota",Kota,990000.0,9.9,10,7,0.0,False,0.0
@@ -90,15 +90,15 @@ EPROC-2026_GMCK_605115_1,1770,"Govt. Medical College, Kota||Principal and Contro
 EPROC-2026_GMCK_601216_1,04-2026-27,"Govt. Medical College, Kota||Principal and Controller||Incharge New Hospital-Medical College Campus-Kota",Kota,47000000.0,470.0,45,30,0.0,False,0.0
 EPROC-2026_GMCK_601210_1,03-2026-27,"Govt. Medical College, Kota||Principal and Controller||Incharge New Hospital-Medical College Campus-Kota",Kota,30000000.0,300.0,45,30,0.0,False,0.0
 EPROC-2026_GMCK_599915_2,MBS HOSPITAL KOTA NITNO4-2026-27,"Govt. Medical College, Kota||Principal and Controller||Superintendent, M.B.S.Hospital",Kota,10000000.0,100.0,51,15,0.0,False,0.0
-EPROC-2026_UITKo_604762_1,NIT 23/2026-27 (54),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,192080000.0,1920.8,22,30,8,True,49.5
-EPROC-2026_UITKo_604461_1,NIT 23/2026-27 (47),UIT Kota||Addl. C.E.||S.E. - II||Ex.En. - I,Kota,27760000.0,277.6,17,30,13,True,58.1
-EPROC-2026_UITKo_604866_1,23/2026-27 (49),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,76560000.0,765.6,17,30,13,True,59.7
-EPROC-2026_UITKo_604729_1,23/2026-27 (51),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,30000000.0,300.0,20,30,10,True,51.2
-EPROC-2026_UITKo_604712_1,23/2026-27 (50),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,30000000.0,300.0,20,30,10,True,51.2
-EPROC-2026_UITKo_604644_1,NIT 23/2026-27 (53),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,46920000.0,469.2,21,30,9,True,49.6
+EPROC-2026_UITKo_604762_1,NIT 23/2026-27 (54),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,192080000.0,1920.8,22,30,8.0,True,49.5
+EPROC-2026_UITKo_604461_1,NIT 23/2026-27 (47),UIT Kota||Addl. C.E.||S.E. - II||Ex.En. - I,Kota,27760000.0,277.6,17,30,13.0,True,58.1
+EPROC-2026_UITKo_604866_1,23/2026-27 (49),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,76560000.0,765.6,17,30,13.0,True,59.7
+EPROC-2026_UITKo_604729_1,23/2026-27 (51),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,30000000.0,300.0,20,30,10.0,True,51.2
+EPROC-2026_UITKo_604712_1,23/2026-27 (50),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,30000000.0,300.0,20,30,10.0,True,51.2
+EPROC-2026_UITKo_604644_1,NIT 23/2026-27 (53),UIT Kota||Addl. C.E.||S.E. - I||Ex.En. - I,Kota,46920000.0,469.2,21,30,9.0,True,49.6
 EPROC-2026_AUK_605122_1,NIT05/2026-27/1,Agriculture University Kota||Vice Chancellor||Comptroller,Kota,1970000.0,19.7,13,10,0.0,False,0.0
 EPROC-2026_AUK_605164_1,NIT05/2026-27/3,Agriculture University Kota||Vice Chancellor||Comptroller,Kota,1308000.0,13.08,13,10,0.0,False,0.0
-EPROC-2026_AUK_605163_1,NIT05/2026-27/2,Agriculture University Kota||Vice Chancellor||Comptroller,Kota,5721000.0,57.21,13,15,2,True,34.6
+EPROC-2026_AUK_605163_1,NIT05/2026-27/2,Agriculture University Kota||Vice Chancellor||Comptroller,Kota,5721000.0,57.21,13,15,2.0,True,34.6
 EPROC-2026_VMOU_605114_1,NIT No. 19/2026-27,Vardhaman Mahaveer Open University-Kota||V.C.||Registrar-VMOU||AEN (Estate Cell),Kota,1200000.0,12.0,16,10,0.0,False,0.0
 HF-AOC-2025_RCDF_473331_1,RCDF/DPM n Proj/C 4008 IV/2024-25/8625-65 datd 27.05.2025,RCDF- MDGM(DPM and Proj.)Dy. M.(DPM),Kota,1556125.0,15.5612,100,10,0.0,False,0.0
 HF-AOC-2025_RRVUN_493294_1,TN-5430,"RRVUN - CMDRVUN - CE - (TH), KSTPS, Kota, JaipurDy.CE (Elect and C and Il)SE (EM)",Kota,2614114.2,26.1411,188,10,0.0,False,0.0
@@ -165,7 +165,7 @@ GEM/2026/B/8081044,GEM/2026/B/8081044,Ministry of Railways - Indian Railways,Kot
 GEM/2026/B/8076526,GEM/2026/B/8076526,Ministry of Railways - Indian Railways,Kota,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/8107074,GEM/2026/B/8107074,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8107188,GEM/2026/B/8107188,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/749901,GEM/2026/R/749901,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/749901,GEM/2026/R/749901,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/8040580,GEM/2026/B/8040580,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8095349,GEM/2026/B/8095349,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8076987,GEM/2026/B/8076987,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
@@ -193,7 +193,7 @@ GEM/2026/B/8085167,GEM/2026/B/8085167,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/8084418,GEM/2026/B/8084418,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8028833,GEM/2026/B/8028833,Ministry of Railways - Indian Railways,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/8081751,GEM/2026/B/8081751,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/744411,GEM/2026/R/744411,Training and Technical Education Department Delhi,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/744411,GEM/2026/R/744411,Training and Technical Education Department Delhi,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/8082130,GEM/2026/B/8082130,Ministry of Railways - Indian Railways,Kota,0.0,0.0,8,7,0.0,False,0.0
 GEM/2026/B/8058237,GEM/2026/B/8058237,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8063297,GEM/2026/B/8063297,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -267,15 +267,15 @@ GEM/2026/B/7934517,GEM/2026/B/7934517,Ministry of Railways - Indian Railways,Kot
 GEM/2026/B/7957251,GEM/2026/B/7957251,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7952355,GEM/2026/B/7952355,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7964726,GEM/2026/B/7964726,Prisons Administration and Reforms Department Uttar Pradesh,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/728045,GEM/2026/R/728045,Ministry of Defence - Department of Defence,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/728045,GEM/2026/R/728045,Ministry of Defence - Department of Defence,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7946009,GEM/2026/B/7946009,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7934894,GEM/2026/B/7934894,Ministry of Railways - Indian Railways,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/R/725591,GEM/2026/R/725591,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
-GEM/2026/R/725653,GEM/2026/R/725653,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/725591,GEM/2026/R/725591,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
+GEM/2026/R/725653,GEM/2026/R/725653,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7932778,GEM/2026/B/7932778,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7932977,GEM/2026/B/7932977,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7891647,GEM/2026/B/7891647,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/725200,GEM/2026/R/725200,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/725200,GEM/2026/R/725200,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7936344,GEM/2026/B/7936344,Forest Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7910448,GEM/2026/B/7910448,Ministry of Defence - Department of Defence,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7918408,GEM/2026/B/7918408,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,15,7,0.0,False,0.0
@@ -285,7 +285,7 @@ GEM/2026/B/7929207,GEM/2026/B/7929207,Ministry of Defence - Department of Milita
 GEM/2026/B/7911000,GEM/2026/B/7911000,Forest Department Rajasthan,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7911027,GEM/2026/B/7911027,Forest Department Rajasthan,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7867810,GEM/2026/B/7867810,Medical Health and Family Welfare Department Rajasthan,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/R/722786,GEM/2026/R/722786,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/722786,GEM/2026/R/722786,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7906363,GEM/2026/B/7906363,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7795459,GEM/2026/B/7795459,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7813999,GEM/2026/B/7813999,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,34,7,0.0,False,0.0
@@ -301,17 +301,17 @@ GEM/2026/B/7892320,GEM/2026/B/7892320,Ministry of Defence - Department of Milita
 GEM/2026/B/7891353,GEM/2026/B/7891353,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7887826,GEM/2026/B/7887826,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7895981,GEM/2026/B/7895981,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/717188,GEM/2026/R/717188,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2,True,31.7
-GEM/2026/R/717975,GEM/2026/R/717975,Ministry of Communications - Department of Posts,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/717188,GEM/2026/R/717188,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2.0,True,31.7
+GEM/2026/R/717975,GEM/2026/R/717975,Ministry of Communications - Department of Posts,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7860669,GEM/2026/B/7860669,LSG (Local Self Government) Rajasthan,Kota,0.0,0.0,19,7,0.0,False,0.0
-GEM/2026/R/717264,GEM/2026/R/717264,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2026/R/717264,GEM/2026/R/717264,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7893387,GEM/2026/B/7893387,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7881636,GEM/2026/B/7881636,Forest Department Rajasthan,Kota,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7790838,GEM/2026/B/7790838,Urban Development and Housing Department Rajasthan,Kota,0.0,0.0,27,7,0.0,False,0.0
 GEM/2026/B/7889111,GEM/2026/B/7889111,Forest Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7832065,GEM/2026/B/7832065,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/R/716074,GEM/2026/R/716074,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
-GEM/2026/R/716067,GEM/2026/R/716067,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2026/R/716074,GEM/2026/R/716074,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
+GEM/2026/R/716067,GEM/2026/R/716067,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7877700,GEM/2026/B/7877700,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7869073,GEM/2026/B/7869073,Forest Department Rajasthan,Kota,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7875919,GEM/2026/B/7875919,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
@@ -323,19 +323,19 @@ GEM/2026/B/7868830,GEM/2026/B/7868830,Forest Department Rajasthan,Kota,0.0,0.0,1
 GEM/2026/B/7869217,GEM/2026/B/7869217,Forest Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7868966,GEM/2026/B/7868966,Forest Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7868895,GEM/2026/B/7868895,Forest Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/714971,GEM/2026/R/714971,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/714971,GEM/2026/R/714971,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7823726,GEM/2026/B/7823726,Ministry of Power - NA,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7818941,GEM/2026/B/7818941,Ministry of Railways - Indian Railways,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/R/714745,GEM/2026/R/714745,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/714745,GEM/2026/R/714745,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7791843,GEM/2026/B/7791843,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,29,7,0.0,False,0.0
 GEM/2026/B/7793118,GEM/2026/B/7793118,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,29,7,0.0,False,0.0
 GEM/2026/B/7801727,GEM/2026/B/7801727,Ministry of Railways - Indian Railways,Kota,0.0,0.0,19,7,0.0,False,0.0
-GEM/2026/R/713047,GEM/2026/R/713047,Small Scale Industries and Export Promotion Department Uttar Pradesh,Kota,0.0,0.0,4,7,3,True,41.7
-GEM/2026/R/713026,GEM/2026/R/713026,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,4,7,3,True,41.7
+GEM/2026/R/713047,GEM/2026/R/713047,Small Scale Industries and Export Promotion Department Uttar Pradesh,Kota,0.0,0.0,4,7,3.0,True,41.7
+GEM/2026/R/713026,GEM/2026/R/713026,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7857357,GEM/2026/B/7857357,Forest Department Rajasthan,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7857254,GEM/2026/B/7857254,Forest Department Rajasthan,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7730241,GEM/2026/B/7730241,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/713686,GEM/2026/R/713686,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/713686,GEM/2026/R/713686,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7863089,GEM/2026/B/7863089,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7798993,GEM/2026/B/7798993,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7804003,GEM/2026/B/7804003,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,20,7,0.0,False,0.0
@@ -345,10 +345,10 @@ GEM/2026/B/7854415,GEM/2026/B/7854415,Ministry of Defence - Department of Milita
 GEM/2026/B/7805953,GEM/2026/B/7805953,Ministry of Culture - NA,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7841916,GEM/2026/B/7841916,Ministry of Defence - Department of Defence,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7847946,GEM/2026/B/7847946,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/711279,GEM/2026/R/711279,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/711251,GEM/2026/R/711251,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/711261,GEM/2026/R/711261,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/710834,GEM/2026/R/710834,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/711279,GEM/2026/R/711279,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/711251,GEM/2026/R/711251,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/711261,GEM/2026/R/711261,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/710834,GEM/2026/R/710834,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7792455,GEM/2026/B/7792455,Technical Education Department Rajasthan,Kota,0.0,0.0,20,7,0.0,False,0.0
 GEM/2026/B/7785572,GEM/2026/B/7785572,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,23,7,0.0,False,0.0
 GEM/2026/B/7822687,GEM/2026/B/7822687,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -378,7 +378,7 @@ GEM/2026/B/7829738,GEM/2026/B/7829738,Ministry of Defence - Department of Milita
 GEM/2026/B/7635767,GEM/2026/B/7635767,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7765342,GEM/2026/B/7765342,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7823713,GEM/2026/B/7823713,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,7,7,0.0,False,0.0
-GEM/2026/R/705384,GEM/2026/R/705384,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/705384,GEM/2026/R/705384,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7753733,GEM/2026/B/7753733,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7802863,GEM/2026/B/7802863,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7811076,GEM/2026/B/7811076,Ministry of Finance - Department of Revenue,Kota,0.0,0.0,7,7,0.0,False,0.0
@@ -400,7 +400,7 @@ GEM/2026/B/7734910,GEM/2026/B/7734910,Ministry of Petroleum and Natural Gas - Bh
 GEM/2026/B/7737899,GEM/2026/B/7737899,Ministry of Petroleum and Natural Gas - GAIL India Limited,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7731217,GEM/2026/B/7731217,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7732218,GEM/2026/B/7732218,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7773089,GEM/2026/B/7773089,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7773089,GEM/2026/B/7773089,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7783272,GEM/2026/B/7783272,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2026/B/7762697,GEM/2026/B/7762697,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7762340,GEM/2026/B/7762340,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -436,7 +436,7 @@ GEM/2026/B/7628328,GEM/2026/B/7628328,Ministry of Petroleum and Natural Gas - Bh
 GEM/2026/B/7624416,GEM/2026/B/7624416,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7624635,GEM/2026/B/7624635,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7619815,GEM/2026/B/7619815,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,19,7,0.0,False,0.0
-GEM/2026/R/692723,GEM/2026/R/692723,Ministry of Home Affairs - Central Armed Police Forces,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2026/R/692723,GEM/2026/R/692723,Ministry of Home Affairs - Central Armed Police Forces,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7708471,GEM/2026/B/7708471,Ministry of Petroleum and Natural Gas - NA,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7580652,GEM/2026/B/7580652,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7658568,GEM/2026/B/7658568,Ministry of Railways - Indian Railways,Kota,0.0,0.0,24,7,0.0,False,0.0
@@ -519,7 +519,7 @@ GEM/2026/B/7612650,GEM/2026/B/7612650,Ministry of Railways - Indian Railways,Kot
 GEM/2026/B/7624129,GEM/2026/B/7624129,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7631084,GEM/2026/B/7631084,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7619496,GEM/2026/B/7619496,MADHYANCHAL VIDYUT VITARAN NIGAM LIMITED LUCKNOW,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/7655233,GEM/2026/B/7655233,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,6,7,1,True,21.7
+GEM/2026/B/7655233,GEM/2026/B/7655233,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,6,7,1.0,True,21.7
 GEM/2026/B/7592140,GEM/2026/B/7592140,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7593057,GEM/2026/B/7593057,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7598899,GEM/2026/B/7598899,Ministry of Petroleum and Natural Gas - NA,Kota,0.0,0.0,19,7,0.0,False,0.0
@@ -546,7 +546,7 @@ GEM/2026/B/7593337,GEM/2026/B/7593337,Ministry of Petroleum and Natural Gas - GA
 GEM/2026/B/7601667,GEM/2026/B/7601667,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7574259,GEM/2026/B/7574259,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,17,7,0.0,False,0.0
 GEM/2026/B/7563590,GEM/2026/B/7563590,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/677486,GEM/2026/R/677486,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/677486,GEM/2026/R/677486,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7539921,GEM/2026/B/7539921,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7567410,GEM/2026/B/7567410,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7585474,GEM/2026/B/7585474,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -559,12 +559,12 @@ GEM/2026/B/7524540,GEM/2026/B/7524540,Ministry of Defence - Department of Milita
 GEM/2026/B/7518098,GEM/2026/B/7518098,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7550029,GEM/2026/B/7550029,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7560796,GEM/2026/B/7560796,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7582702,GEM/2026/B/7582702,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/7582702,GEM/2026/B/7582702,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7556831,GEM/2026/B/7556831,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7482506,GEM/2026/B/7482506,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,27,7,0.0,False,0.0
 GEM/2026/B/7546086,GEM/2026/B/7546086,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7534337,GEM/2026/B/7534337,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/671121,GEM/2026/R/671121,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/671121,GEM/2026/R/671121,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7535968,GEM/2026/B/7535968,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7533523,GEM/2026/B/7533523,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7519744,GEM/2026/B/7519744,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
@@ -583,7 +583,7 @@ GEM/2026/B/7426678,GEM/2026/B/7426678,Ministry of Defence - Department of Milita
 GEM/2026/B/7502339,GEM/2026/B/7502339,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7493330,GEM/2026/B/7493330,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7497165,GEM/2026/B/7497165,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/666157,GEM/2026/R/666157,Ministry of Defence - Department of Defence,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/666157,GEM/2026/R/666157,Ministry of Defence - Department of Defence,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7464269,GEM/2026/B/7464269,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7485845,GEM/2026/B/7485845,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7430543,GEM/2026/B/7430543,Ministry of Railways - Indian Railways,Kota,0.0,0.0,32,7,0.0,False,0.0
@@ -635,8 +635,8 @@ GEM/2026/B/7418933,GEM/2026/B/7418933,Ministry of Railways - Indian Railways,Kot
 GEM/2026/B/7419081,GEM/2026/B/7419081,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7419411,GEM/2026/B/7419411,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7388089,GEM/2026/B/7388089,Ministry of Railways - Indian Railways,Kota,0.0,0.0,23,7,0.0,False,0.0
-GEM/2026/R/656119,GEM/2026/R/656119,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6,True,71.7
-GEM/2026/B/7429481,GEM/2026/B/7429481,Ministry of Finance - Department of Revenue,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2026/R/656119,GEM/2026/R/656119,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/B/7429481,GEM/2026/B/7429481,Ministry of Finance - Department of Revenue,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7377436,GEM/2026/B/7377436,Ministry of Petroleum and Natural Gas - GAIL India Limited,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7415057,GEM/2026/B/7415057,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,9,7,0.0,False,0.0
 GEM/2026/B/7383028,GEM/2026/B/7383028,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
@@ -648,8 +648,8 @@ GEM/2026/B/7415651,GEM/2026/B/7415651,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/7395881,GEM/2026/B/7395881,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7381112,GEM/2026/B/7381112,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,20,7,0.0,False,0.0
 GEM/2026/B/7391856,GEM/2026/B/7391856,Ministry of Railways - Indian Railways,Kota,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/R/654181,GEM/2026/R/654181,Ministry of Defence - Department of Defence,Kota,0.0,0.0,1,7,6,True,71.7
-GEM/2026/B/7414617,GEM/2026/B/7414617,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2026/R/654181,GEM/2026/R/654181,Ministry of Defence - Department of Defence,Kota,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/B/7414617,GEM/2026/B/7414617,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7397782,GEM/2026/B/7397782,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7396066,GEM/2026/B/7396066,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7394668,GEM/2026/B/7394668,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
@@ -674,7 +674,7 @@ GEM/2026/B/7363672,GEM/2026/B/7363672,Ministry of Railways - Indian Railways,Kot
 GEM/2026/B/7342610,GEM/2026/B/7342610,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7295058,GEM/2026/B/7295058,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,30,7,0.0,False,0.0
 GEM/2026/B/7367934,GEM/2026/B/7367934,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7386151,GEM/2026/B/7386151,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7386151,GEM/2026/B/7386151,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7379556,GEM/2026/B/7379556,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2026/B/7360989,GEM/2026/B/7360989,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7367762,GEM/2026/B/7367762,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -684,7 +684,7 @@ GEM/2026/B/7376082,GEM/2026/B/7376082,Ministry of Finance - Department of Financ
 GEM/2026/B/7314474,GEM/2026/B/7314474,Ministry of Railways - Indian Railways,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7324673,GEM/2026/B/7324673,Technical Education Department Rajasthan,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7357089,GEM/2026/B/7357089,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7380204,GEM/2026/B/7380204,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/7380204,GEM/2026/B/7380204,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7353174,GEM/2026/B/7353174,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7344221,GEM/2026/B/7344221,Ministry of Railways - Indian Railways,Kota,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7285250,GEM/2026/B/7285250,Ministry of Railways - Indian Railways,Kota,0.0,0.0,12,7,0.0,False,0.0
@@ -748,14 +748,14 @@ GEM/2026/B/7186754,GEM/2026/B/7186754,Ministry of Labour and Employment - Employ
 GEM/2026/B/7202551,GEM/2026/B/7202551,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,18,7,0.0,False,0.0
 GEM/2026/B/7240586,GEM/2026/B/7240586,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7240431,GEM/2026/B/7240431,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/629364,GEM/2026/R/629364,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/629364,GEM/2026/R/629364,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7216153,GEM/2026/B/7216153,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7230015,GEM/2026/B/7230015,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7160419,GEM/2026/B/7160419,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Kota,0.0,0.0,25,7,0.0,False,0.0
-GEM/2026/R/628569,GEM/2026/R/628569,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/628569,GEM/2026/R/628569,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7093761,GEM/2026/B/7093761,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7215525,GEM/2026/B/7215525,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/626768,GEM/2026/R/626768,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/626768,GEM/2026/R/626768,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7193984,GEM/2026/B/7193984,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7205391,GEM/2026/B/7205391,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7094165,GEM/2026/B/7094165,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -776,7 +776,7 @@ GEM/2026/B/7176998,GEM/2026/B/7176998,Ministry of Defence - Department of Milita
 GEM/2026/B/7122396,GEM/2026/B/7122396,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7158757,GEM/2026/B/7158757,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7157681,GEM/2026/B/7157681,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7186854,GEM/2026/B/7186854,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7186854,GEM/2026/B/7186854,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7118495,GEM/2026/B/7118495,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,17,7,0.0,False,0.0
 GEM/2026/B/7159891,GEM/2026/B/7159891,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7153074,GEM/2026/B/7153074,Ministry of Railways - Railways Public Sector Undertakings,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -790,7 +790,7 @@ GEM/2026/B/7079089,GEM/2026/B/7079089,Ministry of Railways - Indian Railways,Kot
 GEM/2026/B/7144938,GEM/2026/B/7144938,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7137489,GEM/2026/B/7137489,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/7035284,GEM/2025/B/7035284,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/614640,GEM/2026/R/614640,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/614640,GEM/2026/R/614640,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7130725,GEM/2026/B/7130725,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7127645,GEM/2026/B/7127645,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7128755,GEM/2026/B/7128755,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,9,7,0.0,False,0.0
@@ -799,7 +799,7 @@ GEM/2026/B/7122424,GEM/2026/B/7122424,Ministry of Defence - Department of Milita
 GEM/2026/B/7079768,GEM/2026/B/7079768,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/7036862,GEM/2025/B/7036862,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,35,7,0.0,False,0.0
 GEM/2025/B/7055214,GEM/2025/B/7055214,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,28,7,0.0,False,0.0
-GEM/2026/R/612887,GEM/2026/R/612887,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/612887,GEM/2026/R/612887,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7113039,GEM/2026/B/7113039,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7112618,GEM/2026/B/7112618,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/7054220,GEM/2025/B/7054220,Ministry of Minority Affairs - NA,Kota,0.0,0.0,25,7,0.0,False,0.0
@@ -810,10 +810,10 @@ GEM/2026/B/7106025,GEM/2026/B/7106025,Ministry of Defence - Department of Milita
 GEM/2026/B/7104131,GEM/2026/B/7104131,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7060862,GEM/2026/B/7060862,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7060747,GEM/2026/B/7060747,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/610081,GEM/2026/R/610081,Home Department Uttar Pradesh,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/610081,GEM/2026/R/610081,Home Department Uttar Pradesh,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7089519,GEM/2026/B/7089519,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/7054467,GEM/2025/B/7054467,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/R/606544,GEM/2026/R/606544,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/606544,GEM/2026/R/606544,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/7035627,GEM/2025/B/7035627,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/7032539,GEM/2025/B/7032539,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Kota,0.0,0.0,24,7,0.0,False,0.0
 GEM/2025/B/7053036,GEM/2025/B/7053036,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
@@ -822,7 +822,7 @@ GEM/2025/B/7006324,GEM/2025/B/7006324,Ministry of Defence - Department of Milita
 GEM/2025/B/7032721,GEM/2025/B/7032721,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6999560,GEM/2025/B/6999560,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/7028161,GEM/2025/B/7028161,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/604136,GEM/2026/R/604136,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/604136,GEM/2026/R/604136,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/7024322,GEM/2025/B/7024322,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/7015881,GEM/2025/B/7015881,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/7015821,GEM/2025/B/7015821,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,22,7,0.0,False,0.0
@@ -832,7 +832,7 @@ GEM/2025/B/7014824,GEM/2025/B/7014824,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/7039408,GEM/2025/B/7039408,Home Department Uttar Pradesh,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/7009160,GEM/2025/B/7009160,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/7043464,GEM/2025/B/7043464,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7063965,GEM/2026/B/7063965,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7063965,GEM/2026/B/7063965,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/7037311,GEM/2025/B/7037311,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/7005253,GEM/2025/B/7005253,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/7018138,GEM/2025/B/7018138,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -842,7 +842,7 @@ GEM/2025/B/7029825,GEM/2025/B/7029825,Ministry of Defence - Department of Milita
 GEM/2025/B/7040421,GEM/2025/B/7040421,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/7028355,GEM/2025/B/7028355,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/7002738,GEM/2025/B/7002738,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/7043543,GEM/2025/B/7043543,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/7043543,GEM/2025/B/7043543,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6974220,GEM/2025/B/6974220,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/7016725,GEM/2025/B/7016725,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/7009609,GEM/2025/B/7009609,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -862,7 +862,7 @@ GEM/2025/B/6943735,GEM/2025/B/6943735,Ministry of Defence - Department of Milita
 GEM/2025/B/6964346,GEM/2025/B/6964346,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6961883,GEM/2025/B/6961883,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6961733,GEM/2025/B/6961733,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6984625,GEM/2025/B/6984625,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6984625,GEM/2025/B/6984625,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6961107,GEM/2025/B/6961107,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6959773,GEM/2025/B/6959773,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6944345,GEM/2025/B/6944345,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -879,10 +879,10 @@ GEM/2025/B/6879589,GEM/2025/B/6879589,Ministry of Railways - Indian Railways,Kot
 GEM/2025/B/6871727,GEM/2025/B/6871727,Department of Space - Department of Space,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6924211,GEM/2025/B/6924211,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6887874,GEM/2025/B/6887874,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6950039,GEM/2025/B/6950039,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6950039,GEM/2025/B/6950039,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6910798,GEM/2025/B/6910798,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6755846,GEM/2025/B/6755846,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Kota,0.0,0.0,48,7,0.0,False,0.0
-GEM/2025/B/6939555,GEM/2025/B/6939555,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/6939555,GEM/2025/B/6939555,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6891303,GEM/2025/B/6891303,Ministry of Railways - Indian Railways,Kota,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6890506,GEM/2025/B/6890506,Medical Health and Family Welfare Department Rajasthan,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6907606,GEM/2025/B/6907606,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -901,7 +901,7 @@ GEM/2025/B/6775136,GEM/2025/B/6775136,Ministry of Defence - Department of Milita
 GEM/2025/B/6853578,GEM/2025/B/6853578,Forest Department Rajasthan,Kota,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6883780,GEM/2025/B/6883780,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6866784,GEM/2025/B/6866784,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/R/578376,GEM/2025/R/578376,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/578376,GEM/2025/R/578376,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6864201,GEM/2025/B/6864201,Ministry of Railways - Indian Railways,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6827427,GEM/2025/B/6827427,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6873366,GEM/2025/B/6873366,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -915,7 +915,7 @@ GEM/2025/B/6827467,GEM/2025/B/6827467,Ministry of Culture - NA,Kota,0.0,0.0,21,7
 GEM/2025/B/6864462,GEM/2025/B/6864462,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6862650,GEM/2025/B/6862650,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6770792,GEM/2025/B/6770792,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/574235,GEM/2025/R/574235,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/574235,GEM/2025/R/574235,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6838190,GEM/2025/B/6838190,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6838047,GEM/2025/B/6838047,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6847131,GEM/2025/B/6847131,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -937,8 +937,8 @@ GEM/2025/B/6814952,GEM/2025/B/6814952,Ministry of Defence - Department of Milita
 GEM/2025/B/6767621,GEM/2025/B/6767621,Ministry of External Affairs - NA,Kota,0.0,0.0,24,7,0.0,False,0.0
 GEM/2025/B/6794903,GEM/2025/B/6794903,Ministry of Railways - Indian Railways,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6717666,GEM/2025/B/6717666,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,35,7,0.0,False,0.0
-GEM/2025/B/6816175,GEM/2025/B/6816175,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6816113,GEM/2025/B/6816113,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6816175,GEM/2025/B/6816175,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6816113,GEM/2025/B/6816113,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6801718,GEM/2025/B/6801718,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6794641,GEM/2025/B/6794641,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6757509,GEM/2025/B/6757509,Ministry of Education - Department of Higher Education,Kota,0.0,0.0,21,7,0.0,False,0.0
@@ -977,17 +977,17 @@ GEM/2025/B/6707333,GEM/2025/B/6707333,Ministry of Railways - Indian Railways,Kot
 GEM/2025/B/6705372,GEM/2025/B/6705372,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6638728,GEM/2025/B/6638728,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6635895,GEM/2025/B/6635895,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6712423,GEM/2025/B/6712423,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6712423,GEM/2025/B/6712423,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6641170,GEM/2025/B/6641170,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/551506,GEM/2025/R/551506,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/550984,GEM/2025/R/550984,Ministry of Home Affairs - Central Armed Police Forces,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/551506,GEM/2025/R/551506,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/550984,GEM/2025/R/550984,Ministry of Home Affairs - Central Armed Police Forces,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6676282,GEM/2025/B/6676282,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6655799,GEM/2025/B/6655799,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6616426,GEM/2025/B/6616426,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6677088,GEM/2025/B/6677088,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6635099,GEM/2025/B/6635099,Ministry of Education - Department of School Education and Literacy,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6574497,GEM/2025/B/6574497,Technical Education Department Rajasthan,Kota,0.0,0.0,28,7,0.0,False,0.0
-GEM/2025/B/6702663,GEM/2025/B/6702663,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6702663,GEM/2025/B/6702663,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6633353,GEM/2025/B/6633353,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6610302,GEM/2025/B/6610302,Ministry of Petroleum and Natural Gas - NA,Kota,0.0,0.0,27,7,0.0,False,0.0
 GEM/2025/B/6633280,GEM/2025/B/6633280,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,18,7,0.0,False,0.0
@@ -1017,18 +1017,18 @@ GEM/2025/B/6596796,GEM/2025/B/6596796,Ministry of Defence - Department of Milita
 GEM/2025/B/6575779,GEM/2025/B/6575779,Urban Development and Environment Department,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6572090,GEM/2025/B/6572090,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6579212,GEM/2025/B/6579212,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6631140,GEM/2025/B/6631140,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/6603002,GEM/2025/B/6603002,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6631140,GEM/2025/B/6631140,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/B/6603002,GEM/2025/B/6603002,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6593962,GEM/2025/B/6593962,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6595461,GEM/2025/B/6595461,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6551013,GEM/2025/B/6551013,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6594810,GEM/2025/B/6594810,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,6,7,1,True,21.7
-GEM/2025/B/6594744,GEM/2025/B/6594744,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,6,7,1,True,21.7
-GEM/2025/B/6594359,GEM/2025/B/6594359,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,6,7,1,True,21.7
+GEM/2025/B/6594810,GEM/2025/B/6594810,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,6,7,1.0,True,21.7
+GEM/2025/B/6594744,GEM/2025/B/6594744,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,6,7,1.0,True,21.7
+GEM/2025/B/6594359,GEM/2025/B/6594359,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,6,7,1.0,True,21.7
 GEM/2025/B/6558550,GEM/2025/B/6558550,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6594874,GEM/2025/B/6594874,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6594406,GEM/2025/B/6594406,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6594454,GEM/2025/B/6594454,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6594874,GEM/2025/B/6594874,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6594406,GEM/2025/B/6594406,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6594454,GEM/2025/B/6594454,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6536410,GEM/2025/B/6536410,Ministry of Health and Family Welfare - Department of Health and Family Welfare,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6529195,GEM/2025/B/6529195,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6569055,GEM/2025/B/6569055,Ministry of Railways - Indian Railways,Kota,0.0,0.0,12,7,0.0,False,0.0
@@ -1041,13 +1041,13 @@ GEM/2025/B/6542485,GEM/2025/B/6542485,Ministry of Railways - Indian Railways,Kot
 GEM/2025/B/6552370,GEM/2025/B/6552370,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6552180,GEM/2025/B/6552180,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6436211,GEM/2025/B/6436211,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/529313,GEM/2025/R/529313,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/529313,GEM/2025/R/529313,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6436046,GEM/2025/B/6436046,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6520410,GEM/2025/B/6520410,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/527571,GEM/2025/R/527571,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/527571,GEM/2025/R/527571,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6471052,GEM/2025/B/6471052,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6472561,GEM/2025/B/6472561,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/526943,GEM/2025/R/526943,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/526943,GEM/2025/R/526943,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6490197,GEM/2025/B/6490197,Industries and Mines Department Gujarat,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6482280,GEM/2025/B/6482280,Ministry of Railways - Indian Railways,Kota,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6466096,GEM/2025/B/6466096,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
@@ -1074,7 +1074,7 @@ GEM/2025/B/6465543,GEM/2025/B/6465543,Ministry of Railways - Indian Railways,Kot
 GEM/2025/B/6465487,GEM/2025/B/6465487,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6452533,GEM/2025/B/6452533,Ministry of Railways - Indian Railways,Kota,0.0,0.0,12,7,0.0,False,0.0
 GEM/2025/B/6407026,GEM/2025/B/6407026,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/518669,GEM/2025/R/518669,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/518669,GEM/2025/R/518669,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6382251,GEM/2025/B/6382251,PMO - Department of Atomic Energy,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6301252,GEM/2025/B/6301252,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6399394,GEM/2025/B/6399394,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,22,7,0.0,False,0.0
@@ -1088,13 +1088,13 @@ GEM/2025/B/6394450,GEM/2025/B/6394450,Ministry of Defence - Department of Milita
 GEM/2025/B/6394026,GEM/2025/B/6394026,Ministry of Petroleum and Natural Gas - GAIL India Limited,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6390751,GEM/2025/B/6390751,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6390570,GEM/2025/B/6390570,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6451194,GEM/2025/B/6451194,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6451194,GEM/2025/B/6451194,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6434581,GEM/2025/B/6434581,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,8,7,0.0,False,0.0
 GEM/2025/B/6379799,GEM/2025/B/6379799,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6419606,GEM/2025/B/6419606,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6419348,GEM/2025/B/6419348,Ministry of Education - Department of School Education and Literacy,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6375825,GEM/2025/B/6375825,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6439873,GEM/2025/B/6439873,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6439873,GEM/2025/B/6439873,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6403706,GEM/2025/B/6403706,Ministry of Railways - Indian Railways,Kota,0.0,0.0,12,7,0.0,False,0.0
 GEM/2025/B/6377012,GEM/2025/B/6377012,Ministry of Railways - Indian Railways,Kota,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6354428,GEM/2025/B/6354428,Ministry of Education - Department of Higher Education,Kota,0.0,0.0,27,7,0.0,False,0.0
@@ -1125,7 +1125,7 @@ GEM/2025/B/6329191,GEM/2025/B/6329191,Ministry of Petroleum and Natural Gas - Bh
 GEM/2025/B/6386681,GEM/2025/B/6386681,Ministry of Railways - Indian Railways,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/6141904,GEM/2025/B/6141904,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6316249,GEM/2025/B/6316249,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,24,7,0.0,False,0.0
-GEM/2025/R/505654,GEM/2025/R/505654,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/505654,GEM/2025/R/505654,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6356725,GEM/2025/B/6356725,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6354155,GEM/2025/B/6354155,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6354000,GEM/2025/B/6354000,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -1135,7 +1135,7 @@ GEM/2025/B/6316037,GEM/2025/B/6316037,Ministry of Defence - Department of Milita
 GEM/2025/B/6342615,GEM/2025/B/6342615,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6340002,GEM/2025/B/6340002,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6328450,GEM/2025/B/6328450,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/502064,GEM/2025/R/502064,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/R/502064,GEM/2025/R/502064,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6295636,GEM/2025/B/6295636,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6252106,GEM/2025/B/6252106,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,25,7,0.0,False,0.0
 GEM/2025/B/6244210,GEM/2025/B/6244210,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,22,7,0.0,False,0.0
@@ -1146,7 +1146,7 @@ GEM/2025/B/6319590,GEM/2025/B/6319590,Ministry of Railways - Indian Railways,Kot
 GEM/2025/B/6305744,GEM/2025/B/6305744,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6247150,GEM/2025/B/6247150,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6248372,GEM/2025/B/6248372,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,28,7,0.0,False,0.0
-GEM/2025/B/6333872,GEM/2025/B/6333872,Ministry of External Affairs - NA,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6333872,GEM/2025/B/6333872,Ministry of External Affairs - NA,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6309324,GEM/2025/B/6309324,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6271032,GEM/2025/B/6271032,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6284969,GEM/2025/B/6284969,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -1170,7 +1170,7 @@ GEM/2025/B/6283185,GEM/2025/B/6283185,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/6263034,GEM/2025/B/6263034,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6236674,GEM/2025/B/6236674,Ministry of Railways - Indian Railways,Kota,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6265487,GEM/2025/B/6265487,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/494202,GEM/2025/R/494202,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/494202,GEM/2025/R/494202,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6257583,GEM/2025/B/6257583,Forest Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6211955,GEM/2025/B/6211955,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6249177,GEM/2025/B/6249177,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -1193,7 +1193,7 @@ GEM/2025/B/6217294,GEM/2025/B/6217294,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/6173961,GEM/2025/B/6173961,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,28,7,0.0,False,0.0
 GEM/2025/B/6098186,GEM/2025/B/6098186,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6230989,GEM/2025/B/6230989,Ministry of Railways - Indian Railways,Kota,0.0,0.0,8,7,0.0,False,0.0
-GEM/2025/R/489824,GEM/2025/R/489824,Ministry of Home Affairs - Central Armed Police Forces,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/489824,GEM/2025/R/489824,Ministry of Home Affairs - Central Armed Police Forces,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6135501,GEM/2025/B/6135501,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,39,7,0.0,False,0.0
 GEM/2025/B/6130802,GEM/2025/B/6130802,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,40,7,0.0,False,0.0
 GEM/2025/B/6217166,GEM/2025/B/6217166,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -1212,7 +1212,7 @@ GEM/2025/B/6150971,GEM/2025/B/6150971,Ministry of Defence - Department of Milita
 GEM/2025/B/6169156,GEM/2025/B/6169156,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6154350,GEM/2025/B/6154350,Ministry of Railways - Indian Railways,Kota,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6141889,GEM/2025/B/6141889,Ministry of Home Affairs - Central Armed Police Forces,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/484488,GEM/2025/R/484488,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/484488,GEM/2025/R/484488,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6140045,GEM/2025/B/6140045,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6173850,GEM/2025/B/6173850,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6146289,GEM/2025/B/6146289,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
@@ -1240,26 +1240,26 @@ GEM/2025/B/6099589,GEM/2025/B/6099589,Food Civil Supplies and Consumer Affairs D
 GEM/2025/B/6106407,GEM/2025/B/6106407,Ministry of Railways - Indian Railways,Kota,0.0,0.0,12,7,0.0,False,0.0
 GEM/2025/B/6098281,GEM/2025/B/6098281,LSG (Local Self Government) Rajasthan,Kota,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6077644,GEM/2025/B/6077644,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6111510,GEM/2025/B/6111510,Ministry of Railways - Indian Railways,Kota,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/6111510,GEM/2025/B/6111510,Ministry of Railways - Indian Railways,Kota,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6079319,GEM/2025/B/6079319,PMO - Department of Atomic Energy,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6110773,GEM/2025/B/6110773,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3,True,41.7
-GEM/2025/B/6110751,GEM/2025/B/6110751,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3,True,41.7
-GEM/2025/B/6110668,GEM/2025/B/6110668,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/6110773,GEM/2025/B/6110773,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3.0,True,41.7
+GEM/2025/B/6110751,GEM/2025/B/6110751,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3.0,True,41.7
+GEM/2025/B/6110668,GEM/2025/B/6110668,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6095938,GEM/2025/B/6095938,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6095835,GEM/2025/B/6095835,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6059334,GEM/2025/B/6059334,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,18,7,0.0,False,0.0
-GEM/2025/B/6103689,GEM/2025/B/6103689,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6103689,GEM/2025/B/6103689,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6026444,GEM/2025/B/6026444,Department of Space - Department of Space,Kota,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/R/474255,GEM/2025/R/474255,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/474255,GEM/2025/R/474255,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6070689,GEM/2025/B/6070689,Urban Development and Housing Department Rajasthan,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6099168,GEM/2025/B/6099168,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/6099168,GEM/2025/B/6099168,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6089972,GEM/2025/B/6089972,Ministry of Railways - Indian Railways,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/6023383,GEM/2025/B/6023383,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,28,7,0.0,False,0.0
 GEM/2025/B/5945286,GEM/2025/B/5945286,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Kota,0.0,0.0,47,7,0.0,False,0.0
-GEM/2025/B/6092606,GEM/2025/B/6092606,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6092606,GEM/2025/B/6092606,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6070671,GEM/2025/B/6070671,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6056560,GEM/2025/B/6056560,LSG (Local Self Government) Rajasthan,Kota,0.0,0.0,16,7,0.0,False,0.0
-GEM/2025/B/6083295,GEM/2025/B/6083295,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/6083295,GEM/2025/B/6083295,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6029150,GEM/2025/B/6029150,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/5987778,GEM/2025/B/5987778,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5987256,GEM/2025/B/5987256,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
@@ -1283,10 +1283,10 @@ GEM/2025/B/6043298,GEM/2025/B/6043298,Agriculture Department Rajasthan,Kota,0.0,
 GEM/2025/B/5968896,GEM/2025/B/5968896,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6000752,GEM/2025/B/6000752,Ministry of Civil Aviation - Airports Authority of India (AAI),Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6014125,GEM/2025/B/6014125,Medical Education Department Rajasthan,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/R/466051,GEM/2025/R/466051,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/466051,GEM/2025/R/466051,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6031102,GEM/2025/B/6031102,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6036301,GEM/2025/B/6036301,LSG (Local Self Government) Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/466479,GEM/2025/R/466479,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/466479,GEM/2025/R/466479,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6035072,GEM/2025/B/6035072,Medical Education Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6035274,GEM/2025/B/6035274,Medical Education Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6034210,GEM/2025/B/6034210,Medical Education Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -1302,9 +1302,9 @@ GEM/2025/B/6002870,GEM/2025/B/6002870,Medical Education Department Rajasthan,Kot
 GEM/2025/B/6002287,GEM/2025/B/6002287,Medical Education Department Rajasthan,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5969870,GEM/2025/B/5969870,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6010490,GEM/2025/B/6010490,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/462560,GEM/2025/R/462560,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/462560,GEM/2025/R/462560,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/5958633,GEM/2025/B/5958633,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6025691,GEM/2025/B/6025691,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6025691,GEM/2025/B/6025691,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/5993418,GEM/2025/B/5993418,Medical Education Department Rajasthan,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5994327,GEM/2025/B/5994327,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5994196,GEM/2025/B/5994196,Medical Education Department Rajasthan,Kota,0.0,0.0,11,7,0.0,False,0.0
@@ -1334,18 +1334,18 @@ GEM/2025/B/5976607,GEM/2025/B/5976607,Ministry of Railways - Indian Railways,Kot
 GEM/2025/B/5972685,GEM/2025/B/5972685,Ministry of Railways - Indian Railways,Kota,0.0,0.0,8,7,0.0,False,0.0
 GEM/2025/B/5972587,GEM/2025/B/5972587,Ministry of Railways - Indian Railways,Kota,0.0,0.0,8,7,0.0,False,0.0
 GEM/2025/B/5785680,GEM/2025/B/5785680,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/5981748,GEM/2025/B/5981748,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/5981748,GEM/2025/B/5981748,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/5967131,GEM/2025/B/5967131,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/5904445,GEM/2025/B/5904445,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5921268,GEM/2025/B/5921268,Ministry of Education - Department of School Education and Literacy,Kota,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/454412,GEM/2025/R/454412,Ministry of Defence - Department of Defence,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/454412,GEM/2025/R/454412,Ministry of Defence - Department of Defence,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5864210,GEM/2025/B/5864210,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,29,7,0.0,False,0.0
 GEM/2025/B/5937294,GEM/2025/B/5937294,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5937222,GEM/2025/B/5937222,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5903452,GEM/2025/B/5903452,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/5961111,GEM/2025/B/5961111,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/5960958,GEM/2025/B/5960958,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
-GEM/2025/R/452336,GEM/2025/R/452336,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/5961111,GEM/2025/B/5961111,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/B/5960958,GEM/2025/B/5960958,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/R/452336,GEM/2025/R/452336,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5879702,GEM/2025/B/5879702,Ministry of Railways - Indian Railways,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5877287,GEM/2025/B/5877287,Department of Space - Department of Space,Kota,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/5926708,GEM/2025/B/5926708,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
@@ -1365,14 +1365,14 @@ GEM/2025/B/5845811,GEM/2025/B/5845811,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/5895867,GEM/2025/B/5895867,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5837984,GEM/2025/B/5837984,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/5841482,GEM/2025/B/5841482,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/5906549,GEM/2025/B/5906549,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/5906549,GEM/2025/B/5906549,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/5838191,GEM/2025/B/5838191,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/5863875,GEM/2025/B/5863875,Forest Department Rajasthan,Kota,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/5899101,GEM/2025/B/5899101,Ministry of Finance - Department of Financial Services,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/5801600,GEM/2025/B/5801600,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5803723,GEM/2025/B/5803723,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5857577,GEM/2025/B/5857577,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/R/445471,GEM/2025/R/445471,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/445471,GEM/2025/R/445471,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5816600,GEM/2025/B/5816600,Forest Department Rajasthan,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5816569,GEM/2025/B/5816569,Forest Department Rajasthan,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5816508,GEM/2025/B/5816508,Forest Department Rajasthan,Kota,0.0,0.0,21,7,0.0,False,0.0
@@ -1394,10 +1394,10 @@ GEM/2025/B/5845783,GEM/2025/B/5845783,Ministry of Railways - Indian Railways,Kot
 GEM/2025/B/5843557,GEM/2025/B/5843557,Ministry of Railways - Indian Railways,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/5788201,GEM/2025/B/5788201,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5843318,GEM/2025/B/5843318,Ministry of Railways - Indian Railways,Kota,0.0,0.0,7,7,0.0,False,0.0
-GEM/2025/B/5854480,GEM/2025/B/5854480,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/5854437,GEM/2025/B/5854437,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/5854347,GEM/2025/B/5854347,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/5854222,GEM/2025/B/5854222,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/5854480,GEM/2025/B/5854480,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/B/5854437,GEM/2025/B/5854437,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/B/5854347,GEM/2025/B/5854347,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/B/5854222,GEM/2025/B/5854222,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/5776417,GEM/2025/B/5776417,Ministry of Communications - Department of Telecommunications (DOT),Kota,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/5795279,GEM/2025/B/5795279,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5832868,GEM/2025/B/5832868,Ministry of Railways - Indian Railways,Kota,0.0,0.0,7,7,0.0,False,0.0
@@ -1405,15 +1405,15 @@ GEM/2025/B/5771840,GEM/2025/B/5771840,Ministry of Defence - Department of Defenc
 GEM/2025/B/5813735,GEM/2025/B/5813735,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5813720,GEM/2025/B/5813720,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5773244,GEM/2025/B/5773244,Ministry of Science and Technology - Department of Science and Technology (DST),Kota,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/437160,GEM/2025/R/437160,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/437160,GEM/2025/R/437160,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5805079,GEM/2025/B/5805079,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5799524,GEM/2025/B/5799524,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5798977,GEM/2025/B/5798977,Ministry of Railways - Indian Railways,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5798024,GEM/2025/B/5798024,Forest Department Rajasthan,Kota,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/5775461,GEM/2025/B/5775461,Ministry of Railways - Indian Railways,Kota,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/5773142,GEM/2025/B/5773142,Ministry of Railways - Indian Railways,Kota,0.0,0.0,16,7,0.0,False,0.0
-GEM/2025/B/5811869,GEM/2025/B/5811869,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/5811827,GEM/2025/B/5811827,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/5811869,GEM/2025/B/5811869,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/5811827,GEM/2025/B/5811827,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/5797547,GEM/2025/B/5797547,Ministry of Railways - Indian Railways,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/5785433,GEM/2025/B/5785433,Ministry of Railways - Indian Railways,Kota,0.0,0.0,8,7,0.0,False,0.0
 GEM/2025/B/5793271,GEM/2025/B/5793271,Ministry of Railways - Indian Railways,Kota,0.0,0.0,7,7,0.0,False,0.0
@@ -1442,6 +1442,319 @@ GEM/2026/B/8096666,GEM/2026/B/8096666,Ministry of Defence - Department of Milita
 GEM/2026/B/8204035,GEM/2026/B/8204035,Ministry of Railways - Indian Railways,Kota,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/8209401,GEM/2026/B/8209401,Ministry of Railways - Indian Railways,Kota,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6953252,GEM/2025/B/6953252,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Kota,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/R/455033,GEM/2025/R/455033,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/455033,GEM/2025/R/455033,Ministry of Defence - Department of Military Affairs,Kota,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6002756,GEM/2025/B/6002756,Ministry of Railways - Indian Railways,Kota,0.0,0.0,7,7,0.0,False,0.0
 GEM/2026/B/7679942,GEM/2026/B/7679942,Ministry of Home Affairs - Central Armed Police Forces,Kota,0.0,0.0,27,7,0.0,False,0.0
+2026_AUK_605122_1,NIT 605122_1,Kota Division,Kota,2500000.0,25.0,12,10,0.0,False,0.0
+2026_AUK_605164_1,NIT 605164_1,Kota Division,Kota,2500000.0,25.0,12,10,0.0,False,0.0
+2026_AUK_605163_1,NIT 605163_1,Kota Division,Kota,2500000.0,25.0,12,10,0.0,False,0.0
+2026_FORES_605581_1,NIT 605581_1,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_GMCK_605715_1,NIT 605715_1,Kota Division,Kota,2500000.0,25.0,10,10,0.0,False,0.0
+2026_GMCK_605718_1,NIT 605718_1,Kota Division,Kota,2500000.0,25.0,10,10,0.0,False,0.0
+2026_GMCK_605714_1,NIT 605714_1,Kota Division,Kota,2500000.0,25.0,10,10,0.0,False,0.0
+2026_GMCK_605313_1,NIT 605313_1,Kota Division,Kota,2500000.0,25.0,17,10,0.0,False,0.0
+2026_GMCK_599915_2,NIT 599915_2,Kota Division,Kota,2500000.0,25.0,51,10,0.0,False,0.0
+2026_GMCK_599915_1,NIT 599915_1,Kota Division,Kota,2500000.0,25.0,51,10,0.0,False,0.0
+2026_GMCK_583835_1,NIT 583835_1,Kota Division,Kota,2500000.0,25.0,112,10,0.0,False,0.0
+2026_CEPWD_605766_1,NIT 605766_1,Kota Division,Kota,2500000.0,25.0,19,10,0.0,False,0.0
+2026_CEPWD_605546_2,NIT 605546_2,Kota Division,Kota,2500000.0,25.0,11,10,0.0,False,0.0
+2026_CEPWD_605546_3,NIT 605546_3,Kota Division,Kota,2500000.0,25.0,11,10,0.0,False,0.0
+2026_CEPWD_605506_2,NIT 605506_2,Kota Division,Kota,2500000.0,25.0,19,10,0.0,False,0.0
+2026_CEPWD_605507_1,NIT 605507_1,Kota Division,Kota,2500000.0,25.0,19,10,0.0,False,0.0
+2026_CEPWD_605189_1,NIT 605189_1,Kota Division,Kota,2500000.0,25.0,19,10,0.0,False,0.0
+2026_CEPWD_605506_1,NIT 605506_1,Kota Division,Kota,2500000.0,25.0,19,10,0.0,False,0.0
+2026_CEPWD_605546_1,NIT 605546_1,Kota Division,Kota,2500000.0,25.0,11,10,0.0,False,0.0
+2026_CEPWD_605720_5,NIT 605720_5,Kota Division,Kota,2500000.0,25.0,6,10,4.0,True,52.0
+2026_CEPWD_605720_1,NIT 605720_1,Kota Division,Kota,2500000.0,25.0,6,10,4.0,True,52.0
+2026_CEPWD_605720_2,NIT 605720_2,Kota Division,Kota,2500000.0,25.0,6,10,4.0,True,52.0
+2026_CEPWD_605720_4,NIT 605720_4,Kota Division,Kota,2500000.0,25.0,6,10,4.0,True,52.0
+2026_CEPWD_605720_3,NIT 605720_3,Kota Division,Kota,2500000.0,25.0,6,10,4.0,True,52.0
+2026_CEPWD_605513_1,NIT 605513_1,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_CEPWD_605685_5,NIT 605685_5,Kota Division,Kota,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605685_7,NIT 605685_7,Kota Division,Kota,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605685_3,NIT 605685_3,Kota Division,Kota,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605685_4,NIT 605685_4,Kota Division,Kota,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605685_1,NIT 605685_1,Kota Division,Kota,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605685_2,NIT 605685_2,Kota Division,Kota,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605631_1,NIT 605631_1,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605631_4,NIT 605631_4,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605631_3,NIT 605631_3,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605631_7,NIT 605631_7,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605631_2,NIT 605631_2,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605631_6,NIT 605631_6,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605631_5,NIT 605631_5,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605616_2,NIT 605616_2,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605616_5,NIT 605616_5,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605616_1,NIT 605616_1,Kota Division,Kota,2500000.0,25.0,9,10,1.0,True,31.0
+2026_CEPWD_605590_2,NIT 605590_2,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_CEPWD_605188_6,NIT 605188_6,Kota Division,Kota,2500000.0,25.0,12,10,0.0,False,0.0
+2026_CEPWD_605503_2,NIT 605503_2,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_CEPWD_605503_1,NIT 605503_1,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_CEPWD_605503_3,NIT 605503_3,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_CEPWD_605503_5,NIT 605503_5,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_CEPWD_605503_4,NIT 605503_4,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_CEPWD_605426_2,NIT 605426_2,Kota Division,Kota,2500000.0,25.0,12,10,0.0,False,0.0
+2026_CEPWD_605426_1,NIT 605426_1,Kota Division,Kota,2500000.0,25.0,12,10,0.0,False,0.0
+2026_CEPWD_605188_5,NIT 605188_5,Kota Division,Kota,2500000.0,25.0,14,10,0.0,False,0.0
+2026_CEPWD_605188_1,NIT 605188_1,Kota Division,Kota,2500000.0,25.0,14,10,0.0,False,0.0
+2026_CEPWD_605188_2,NIT 605188_2,Kota Division,Kota,2500000.0,25.0,14,10,0.0,False,0.0
+2026_CEPWD_605188_4,NIT 605188_4,Kota Division,Kota,2500000.0,25.0,14,10,0.0,False,0.0
+2026_CEPWD_605173_4,NIT 605173_4,Kota Division,Kota,2500000.0,25.0,16,10,0.0,False,0.0
+2026_CEPWD_605173_3,NIT 605173_3,Kota Division,Kota,2500000.0,25.0,16,10,0.0,False,0.0
+2026_CEPWD_605173_1,NIT 605173_1,Kota Division,Kota,2500000.0,25.0,16,10,0.0,False,0.0
+2026_CEPWD_605173_2,NIT 605173_2,Kota Division,Kota,2500000.0,25.0,16,10,0.0,False,0.0
+2026_CEPWD_605166_9,NIT 605166_9,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605166_8,NIT 605166_8,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605166_2,NIT 605166_2,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605166_1,NIT 605166_1,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605166_4,NIT 605166_4,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605166_6,NIT 605166_6,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605166_5,NIT 605166_5,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605166_7,NIT 605166_7,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605166_3,NIT 605166_3,Kota Division,Kota,2500000.0,25.0,25,10,0.0,False,0.0
+2026_CEPWD_605069_1,NIT 605069_1,Kota Division,Kota,2500000.0,25.0,22,10,0.0,False,0.0
+2026_CEPWD_605069_2,NIT 605069_2,Kota Division,Kota,2500000.0,25.0,22,10,0.0,False,0.0
+2026_CEPWD_604655_1,NIT 604655_1,Kota Division,Kota,2500000.0,25.0,27,10,0.0,False,0.0
+2026_CEPWD_603471_28,NIT 603471_28,Kota Division,Kota,2500000.0,25.0,28,10,0.0,False,0.0
+2026_CEPWD_603471_29,NIT 603471_29,Kota Division,Kota,2500000.0,25.0,28,10,0.0,False,0.0
+2026_CEPWD_603471_30,NIT 603471_30,Kota Division,Kota,2500000.0,25.0,28,10,0.0,False,0.0
+2026_CEPWD_604307_3,NIT 604307_3,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604326_2,NIT 604326_2,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604326_1,NIT 604326_1,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604326_6,NIT 604326_6,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604326_5,NIT 604326_5,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604326_4,NIT 604326_4,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604305_1,NIT 604305_1,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604307_4,NIT 604307_4,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604307_1,NIT 604307_1,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604307_2,NIT 604307_2,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604326_3,NIT 604326_3,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_604346_14,NIT 604346_14,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_12,NIT 604346_12,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_10,NIT 604346_10,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_13,NIT 604346_13,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_8,NIT 604346_8,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_9,NIT 604346_9,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_11,NIT 604346_11,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_3,NIT 604346_3,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_2,NIT 604346_2,Kota Division,Kota,2500000.0,25.0,29,10,0.0,False,0.0
+2026_CEPWD_604346_1,NIT 604346_1,Kota Division,Kota,2500000.0,25.0,31,10,0.0,False,0.0
+2026_CEPWD_604346_4,NIT 604346_4,Kota Division,Kota,2500000.0,25.0,31,10,0.0,False,0.0
+2026_CEPWD_604346_6,NIT 604346_6,Kota Division,Kota,2500000.0,25.0,31,10,0.0,False,0.0
+2026_CEPWD_604346_5,NIT 604346_5,Kota Division,Kota,2500000.0,25.0,31,10,0.0,False,0.0
+2026_CEPWD_604346_7,NIT 604346_7,Kota Division,Kota,2500000.0,25.0,31,10,0.0,False,0.0
+2026_CEPWD_603964_2,NIT 603964_2,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_603964_1,NIT 603964_1,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_603964_3,NIT 603964_3,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_CEPWD_603739_60,NIT 603739_60,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_63,NIT 603739_63,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_64,NIT 603739_64,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_66,NIT 603739_66,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_67,NIT 603739_67,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_65,NIT 603739_65,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_47,NIT 603739_47,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_48,NIT 603739_48,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_49,NIT 603739_49,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_55,NIT 603739_55,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_58,NIT 603739_58,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_61,NIT 603739_61,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_68,NIT 603739_68,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_50,NIT 603739_50,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_51,NIT 603739_51,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_52,NIT 603739_52,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_53,NIT 603739_53,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_54,NIT 603739_54,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_56,NIT 603739_56,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_57,NIT 603739_57,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_59,NIT 603739_59,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_69,NIT 603739_69,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_62,NIT 603739_62,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_45,NIT 603739_45,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_33,NIT 603739_33,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_40,NIT 603739_40,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_32,NIT 603739_32,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_35,NIT 603739_35,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_28,NIT 603739_28,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_37,NIT 603739_37,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_31,NIT 603739_31,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_30,NIT 603739_30,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_34,NIT 603739_34,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_29,NIT 603739_29,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_46,NIT 603739_46,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_38,NIT 603739_38,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_36,NIT 603739_36,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_39,NIT 603739_39,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_41,NIT 603739_41,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_42,NIT 603739_42,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_43,NIT 603739_43,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_44,NIT 603739_44,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_27,NIT 603739_27,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603739_23,NIT 603739_23,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_22,NIT 603739_22,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_17,NIT 603739_17,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_18,NIT 603739_18,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_24,NIT 603739_24,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_19,NIT 603739_19,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_20,NIT 603739_20,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_25,NIT 603739_25,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_21,NIT 603739_21,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_26,NIT 603739_26,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_14,NIT 603739_14,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_12,NIT 603739_12,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_16,NIT 603739_16,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_15,NIT 603739_15,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_11,NIT 603739_11,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_13,NIT 603739_13,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603744_3,NIT 603744_3,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603744_4,NIT 603744_4,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603744_7,NIT 603744_7,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603744_6,NIT 603744_6,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603744_5,NIT 603744_5,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603745_6,NIT 603745_6,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603745_5,NIT 603745_5,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603745_4,NIT 603745_4,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603745_3,NIT 603745_3,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603745_2,NIT 603745_2,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603744_1,NIT 603744_1,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603745_1,NIT 603745_1,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603744_2,NIT 603744_2,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603745_7,NIT 603745_7,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603745_8,NIT 603745_8,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_7,NIT 603739_7,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_9,NIT 603739_9,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_10,NIT 603739_10,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_8,NIT 603739_8,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_1,NIT 603739_1,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_3,NIT 603739_3,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_2,NIT 603739_2,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_4,NIT 603739_4,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_5,NIT 603739_5,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603739_6,NIT 603739_6,Kota Division,Kota,2500000.0,25.0,40,10,0.0,False,0.0
+2026_CEPWD_603735_1,NIT 603735_1,Kota Division,Kota,2500000.0,25.0,37,10,0.0,False,0.0
+2026_CEPWD_602083_5,NIT 602083_5,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_602083_4,NIT 602083_4,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_602083_3,NIT 602083_3,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_602083_2,NIT 602083_2,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_602083_1,NIT 602083_1,Kota Division,Kota,2500000.0,25.0,39,10,0.0,False,0.0
+2026_CEPWD_603471_14,NIT 603471_14,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_11,NIT 603471_11,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_9,NIT 603471_9,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_7,NIT 603471_7,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_2,NIT 603471_2,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_1,NIT 603471_1,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_26,NIT 603471_26,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_27,NIT 603471_27,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_25,NIT 603471_25,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_24,NIT 603471_24,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_23,NIT 603471_23,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_10,NIT 603471_10,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_22,NIT 603471_22,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_8,NIT 603471_8,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_6,NIT 603471_6,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_21,NIT 603471_21,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_5,NIT 603471_5,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_4,NIT 603471_4,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_20,NIT 603471_20,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_3,NIT 603471_3,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_19,NIT 603471_19,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_18,NIT 603471_18,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_17,NIT 603471_17,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_16,NIT 603471_16,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_15,NIT 603471_15,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_13,NIT 603471_13,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603471_12,NIT 603471_12,Kota Division,Kota,2500000.0,25.0,42,10,0.0,False,0.0
+2026_CEPWD_603416_1,NIT 603416_1,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603050_1,NIT 603050_1,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603056_1,NIT 603056_1,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603353_1,NIT 603353_1,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603050_2,NIT 603050_2,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603056_3,NIT 603056_3,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_602583_2,NIT 602583_2,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603056_2,NIT 603056_2,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_602583_1,NIT 602583_1,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603354_2,NIT 603354_2,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603354_1,NIT 603354_1,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603354_6,NIT 603354_6,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603354_7,NIT 603354_7,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603354_5,NIT 603354_5,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603354_4,NIT 603354_4,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603354_3,NIT 603354_3,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603188_25,NIT 603188_25,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_26,NIT 603188_26,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_24,NIT 603188_24,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_23,NIT 603188_23,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_17,NIT 603188_17,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_20,NIT 603188_20,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_21,NIT 603188_21,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_22,NIT 603188_22,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_19,NIT 603188_19,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_18,NIT 603188_18,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_8,NIT 603188_8,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_2,NIT 603188_2,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_12,NIT 603188_12,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_3,NIT 603188_3,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_1,NIT 603188_1,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_4,NIT 603188_4,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_11,NIT 603188_11,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_10,NIT 603188_10,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_13,NIT 603188_13,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_16,NIT 603188_16,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_15,NIT 603188_15,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_6,NIT 603188_6,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_5,NIT 603188_5,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_7,NIT 603188_7,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_9,NIT 603188_9,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603188_14,NIT 603188_14,Kota Division,Kota,2500000.0,25.0,45,10,0.0,False,0.0
+2026_CEPWD_603077_3,NIT 603077_3,Kota Division,Kota,2500000.0,25.0,51,10,0.0,False,0.0
+2026_CEPWD_603077_2,NIT 603077_2,Kota Division,Kota,2500000.0,25.0,51,10,0.0,False,0.0
+2026_CEPWD_603077_1,NIT 603077_1,Kota Division,Kota,2500000.0,25.0,51,10,0.0,False,0.0
+2026_CEPWD_603043_2,NIT 603043_2,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_603043_1,NIT 603043_1,Kota Division,Kota,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_602756_1,NIT 602756_1,Kota Division,Kota,2500000.0,25.0,49,10,0.0,False,0.0
+2026_CEPWD_602756_7,NIT 602756_7,Kota Division,Kota,2500000.0,25.0,49,10,0.0,False,0.0
+2026_CEPWD_602756_3,NIT 602756_3,Kota Division,Kota,2500000.0,25.0,49,10,0.0,False,0.0
+2026_CEPWD_602756_2,NIT 602756_2,Kota Division,Kota,2500000.0,25.0,49,10,0.0,False,0.0
+2026_CEPWD_602756_4,NIT 602756_4,Kota Division,Kota,2500000.0,25.0,49,10,0.0,False,0.0
+2026_CEPWD_602756_8,NIT 602756_8,Kota Division,Kota,2500000.0,25.0,49,10,0.0,False,0.0
+2026_CEPWD_602756_5,NIT 602756_5,Kota Division,Kota,2500000.0,25.0,49,10,0.0,False,0.0
+2026_CEPWD_602756_6,NIT 602756_6,Kota Division,Kota,2500000.0,25.0,49,10,0.0,False,0.0
+2026_CEPWD_602227_1,NIT 602227_1,Kota Division,Kota,2500000.0,25.0,53,10,0.0,False,0.0
+2026_CEPWD_599438_7,NIT 599438_7,Kota Division,Kota,2500000.0,25.0,53,10,0.0,False,0.0
+2026_CEPWD_599438_12,NIT 599438_12,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_1,NIT 599438_1,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_15,NIT 599438_15,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_2,NIT 599438_2,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_9,NIT 599438_9,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_10,NIT 599438_10,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_13,NIT 599438_13,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_14,NIT 599438_14,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_3,NIT 599438_3,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_4,NIT 599438_4,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_5,NIT 599438_5,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_6,NIT 599438_6,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_8,NIT 599438_8,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_599438_11,NIT 599438_11,Kota Division,Kota,2500000.0,25.0,58,10,0.0,False,0.0
+2026_CEPWD_593635_3,NIT 593635_3,Kota Division,Kota,2500000.0,25.0,81,10,0.0,False,0.0
+2026_CEPWD_593635_2,NIT 593635_2,Kota Division,Kota,2500000.0,25.0,81,10,0.0,False,0.0
+2026_CEPWD_593635_1,NIT 593635_1,Kota Division,Kota,2500000.0,25.0,81,10,0.0,False,0.0
+2026_CEPWD_593635_5,NIT 593635_5,Kota Division,Kota,2500000.0,25.0,81,10,0.0,False,0.0
+2026_CEPWD_593635_4,NIT 593635_4,Kota Division,Kota,2500000.0,25.0,81,10,0.0,False,0.0
+2026_RSAMB_605030_9,NIT 605030_9,Kota Division,Kota,2500000.0,25.0,13,10,0.0,False,0.0
+2026_RSAMB_605030_8,NIT 605030_8,Kota Division,Kota,2500000.0,25.0,13,10,0.0,False,0.0
+2026_RSAMB_605030_7,NIT 605030_7,Kota Division,Kota,2500000.0,25.0,14,10,0.0,False,0.0
+2026_RSAMB_605054_1,NIT 605054_1,Kota Division,Kota,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RSAMB_603741_6,NIT 603741_6,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_RSAMB_603741_3,NIT 603741_3,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_RSAMB_603742_5,NIT 603742_5,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_RSAMB_603741_4,NIT 603741_4,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_RSAMB_603742_4,NIT 603742_4,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_RSAMB_603741_5,NIT 603741_5,Kota Division,Kota,2500000.0,25.0,33,10,0.0,False,0.0
+2026_UITKo_604762_1,NIT 604762_1,Kota Division,Kota,2500000.0,25.0,22,10,0.0,False,0.0
+2026_UITKo_604461_1,NIT 604461_1,Kota Division,Kota,2500000.0,25.0,17,10,0.0,False,0.0
+2026_UITKo_604866_1,NIT 604866_1,Kota Division,Kota,2500000.0,25.0,17,10,0.0,False,0.0
+2026_UITKo_604865_1,NIT 604865_1,Kota Division,Kota,2500000.0,25.0,17,10,0.0,False,0.0
+2026_UITKo_604712_1,NIT 604712_1,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_UITKo_604729_1,NIT 604729_1,Kota Division,Kota,2500000.0,25.0,20,10,0.0,False,0.0
+2026_UITKo_604644_1,NIT 604644_1,Kota Division,Kota,2500000.0,25.0,21,10,0.0,False,0.0
+2026_UITKo_604642_1,NIT 604642_1,Kota Division,Kota,2500000.0,25.0,21,10,0.0,False,0.0
+2026_VMOU_605114_1,NIT 605114_1,Kota Division,Kota,2500000.0,25.0,16,10,0.0,False,0.0

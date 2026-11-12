@@ -1,33 +1,33 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-SHPP-30000,Goods/2026-27/0079/015,"College Education Department, Jaipur",Alwar,30000.0,0.3,3,7,4,True,57.0
+SHPP-30000,Goods/2026-27/0079/015,"College Education Department, Jaipur",Alwar,30000.0,0.3,3,7,4.0,True,57.0
 SHPP-630000,Goods/2026-27/0069/012,"Women Empowerment Department, Jaipur",Alwar,630000.0,6.3,12,7,0.0,False,0.0
 SHPP-16729000.00,AGM2627WSOB00991,Rajasthan State Agriculture Marketing Board Jaipur,Alwar,16729000.0,167.29,19,15,0.0,False,0.0
 SHPP-3239000.00,AGM2627WSOB00988,Rajasthan State Agriculture Marketing Board Jaipur,Alwar,3239000.0,32.39,19,10,0.0,False,0.0
 SHPP-2954000.00,RDP2627WSOB00077,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Alwar,2954000.0,29.54,10,10,0.0,False,0.0
-SHPP-6635000.00,SWP2627WSOB00245,Sanitation Water  Community Health Project,Alwar,6635000.0,66.35,13,15,2,True,34.8
-SHPP-9800000.00,UAL2627WSOB00150,Urban Improvement Trust Alwar,Alwar,9800000.0,98.0,14,15,1,True,30.8
-SHPP-15100000.00,UAL2627WSOB00149,Urban Improvement Trust Alwar,Alwar,15100000.0,151.0,14,15,1,True,31.5
+SHPP-6635000.00,SWP2627WSOB00245,Sanitation Water  Community Health Project,Alwar,6635000.0,66.35,13,15,2.0,True,34.8
+SHPP-9800000.00,UAL2627WSOB00150,Urban Improvement Trust Alwar,Alwar,9800000.0,98.0,14,15,1.0,True,30.8
+SHPP-15100000.00,UAL2627WSOB00149,Urban Improvement Trust Alwar,Alwar,15100000.0,151.0,14,15,1.0,True,31.5
 SHPP-8100000.00,VVN2627WSOB00457,Jaipur Vidyut Vitran Nigam Limited,Alwar,8100000.0,81.0,63,15,0.0,False,0.0
 SHPP-922000.00,PWD2627WSOB14576,CE Public Works Department,Alwar,922000.0,9.22,47,7,0.0,False,0.0
 SHPP-143000.00,PWD2627WSOB14578,CE Public Works Department,Alwar,143000.0,1.43,47,7,0.0,False,0.0
 SHPP-382000.00,PWD2627WSOB14575,CE Public Works Department,Alwar,382000.0,3.82,47,7,0.0,False,0.0
 SHPP-330000.00,CDF2627SSRC00693,Rajasthan Co-operative Dairy Federation Limited,Alwar,330000.0,3.3,347,7,0.0,False,0.0
 SHPP-7766529.00,PHE2526WSOB09813,"Chief Engineer (Special Project) PHED, Jaipur",Alwar,7766529.0,77.6653,351,15,0.0,False,0.0
-SHPP-2820000,"Women Empowerment Department, Jaipur","Women Empowerment Department, Jaipur",Alwar,2820000.0,28.2,3,10,7,True,73.2
+SHPP-2820000,"Women Empowerment Department, Jaipur","Women Empowerment Department, Jaipur",Alwar,2820000.0,28.2,3,10,7.0,True,73.2
 SHPP-818400,Services/2026-27/0002/035,"Forest Department, Jaipur",Alwar,818400.0,8.184,7,7,0.0,False,0.0
 SHPP-237748.00,RVU2627GSSS01403,Rajasthan Rajya Vidut Utpadan Nigam Limited,Alwar,237748.0,2.3775,14,7,0.0,False,0.0
 SHPP-1535000.00,PWD2627WSOB15203,CE Public Works Department,Alwar,1535000.0,15.35,14,10,0.0,False,0.0
 SHPP-1280633.00,RVU2627WSOB01268,Rajasthan Rajya Vidut Utpadan Nigam Limited,Alwar,1280633.0,12.8063,47,10,0.0,False,0.0
 SHPP-16015000.00,PWD2627WSOB11812,CE Public Works Department,Alwar,16015000.0,160.15,65,15,0.0,False,0.0
-SHPP-18000,"Panchayati Raj Department, Jaipur","Panchayati Raj Department, Jaipur",Alwar,18000.0,0.18,1,7,6,True,76.2
-EPROC-2026_CEPWD_605663_6,1777 NIT 27/2026-27 EE PWD ELECT DIV ALWAR,PWD - CE AND AS,Alwar,3467000.0,34.67,5,10,5,True,59.5
-EPROC-2026_CEPWD_605293_3,NIT NO. 11/2026-27 PWD DIVISION RAMGARH,PWD - CE AND AS||ACE - JAIPUR II||SE-ALWAR||TA-SE-ALWAR,Alwar,1535000.0,15.35,9,10,1,True,30.2
+SHPP-18000,"Panchayati Raj Department, Jaipur","Panchayati Raj Department, Jaipur",Alwar,18000.0,0.18,1,7,6.0,True,76.2
+EPROC-2026_CEPWD_605663_6,1777 NIT 27/2026-27 EE PWD ELECT DIV ALWAR,PWD - CE AND AS,Alwar,3467000.0,34.67,5,10,5.0,True,59.5
+EPROC-2026_CEPWD_605293_3,NIT NO. 11/2026-27 PWD DIVISION RAMGARH,PWD - CE AND AS||ACE - JAIPUR II||SE-ALWAR||TA-SE-ALWAR,Alwar,1535000.0,15.35,9,10,1.0,True,30.2
 EPROC-2026_CEPWD_603038_9,NIT-14/2026-27 EE PWD DN LAXMANGARH,PWD - CE AND AS||ACE - JAIPUR I||SE-SIKAR||EE-LAXMANGARH,Alwar,169000.0,1.69,47,7,0.0,False,0.0
 EPROC-2026_CEPWD_602386_1,E-NIT NO 12/2026-27 EE PWD DN RAJGARH,PWD - CE AND AS||ACE - BIKANER||SE-CHURU||EE-RAJGARH,Alwar,22879000.0,228.79,50,30,0.0,False,0.0
 EPROC-2026_CEPWD_596870_2,Short Term NIT NO 25 Year 2026-27 EE PWD DN Alwar,PWD - CE AND AS||ACE - JAIPUR II||SE-ALWAR||EE-ALWAR-I,Alwar,16015000.0,160.15,62,15,0.0,False,0.0
-EPROC-2026_DLB_605656_1,npm/2115,DLB||Dy.DR-Jaipur||Commissioner-Alwar,Alwar,2416000.0,24.16,9,10,1,True,30.9
+EPROC-2026_DLB_605656_1,npm/2115,DLB||Dy.DR-Jaipur||Commissioner-Alwar,Alwar,2416000.0,24.16,9,10,1.0,True,30.9
 EPROC-2026_RCDF_605649_1,NIT NO 39442_49 DATED 06/11/2026,RCDF- MD||Alwar Zila Dugdh Utpadak Sahakari Sangh Ltd Alwar||P and A,Alwar,5000000.0,50.0,19,10,0.0,False,0.0
-EPROC-2026_UITAL_605418_1,NIT16/2026-27/Item1,UIT -Alwar-Secretary,Alwar,15100000.0,151.0,12,15,3,True,40.8
+EPROC-2026_UITAL_605418_1,NIT16/2026-27/Item1,UIT -Alwar-Secretary,Alwar,15100000.0,151.0,12,15,3.0,True,40.8
 HF-AOC-2025_PRD_472970_1,PSRP_SBMSONAD_02/2025-2026,Panchayati Raj DepartmentSecretary and CommissionerCEO-DAUSABDO-RAMGARH PACHWARA,Alwar,990000.0,9.9,42,7,0.0,False,0.0
 HF-AOC-2025_PRD_481148_1,PSRP_JEETPUR_02/2025-2026,Panchayati Raj DepartmentSecretary and CommissionerCEO-DAUSABDO-RAMGARH PACHWARA,Alwar,6000000.0,60.0,18,15,0.0,False,0.0
 HF-AOC-2025_PRD_483979_1,PSRP_GANG_02/2025-2026,Panchayati Raj DepartmentSecretary and CommissionerCEO-DAUSABDO-RAMGARH PACHWARA,Alwar,5969400.0,59.694,37,15,0.0,False,0.0
@@ -71,21 +71,21 @@ GEM/2026/B/7885226,GEM/2026/B/7885226,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/7753014,GEM/2026/B/7753014,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7705061,GEM/2026/B/7705061,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,19,7,0.0,False,0.0
 GEM/2026/B/7704916,GEM/2026/B/7704916,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,19,7,0.0,False,0.0
-GEM/2026/B/7563357,GEM/2026/B/7563357,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7563357,GEM/2026/B/7563357,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7752062,GEM/2026/B/7752062,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7753933,GEM/2026/B/7753933,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7754578,GEM/2026/B/7754578,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8228789,GEM/2026/B/8228789,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8136148,GEM/2026/B/8136148,Ministry of Agriculture and Farmers Welfare - Department of Agricultural Research and Education (DARE),Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8139073,GEM/2026/B/8139073,Home Department Andhra Pradesh,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/762024,GEM/2026/R/762024,Housing and Urban Development Department Jammu and Kashmir,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/762024,GEM/2026/R/762024,Housing and Urban Development Department Jammu and Kashmir,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/8182942,GEM/2026/B/8182942,Ministry of Science and Technology - Department of Science and Technology (DST),Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8180724,GEM/2026/B/8180724,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8074796,GEM/2026/B/8074796,Ministry of Finance - Department of Economic Affairs,Alwar,0.0,0.0,30,7,0.0,False,0.0
 GEM/2026/B/8173949,GEM/2026/B/8173949,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7878750,GEM/2026/B/7878750,Ministry of Power - Bhakra Beas Managemet Board,Alwar,0.0,0.0,82,7,0.0,False,0.0
 GEM/2026/B/8116163,GEM/2026/B/8116163,Ministry of AYUSH - NA,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/758476,GEM/2026/R/758476,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/758476,GEM/2026/R/758476,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8157314,GEM/2026/B/8157314,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/8144709,GEM/2026/B/8144709,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,16,7,0.0,False,0.0
 GEM/2026/B/8164999,GEM/2026/B/8164999,School Education Department Madhya Pradesh,Alwar,0.0,0.0,11,7,0.0,False,0.0
@@ -96,7 +96,7 @@ GEM/2026/B/7907094,GEM/2026/B/7907094,Ministry of Defence - Department of Milita
 GEM/2026/B/8109280,GEM/2026/B/8109280,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8145368,GEM/2026/B/8145368,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/8148569,GEM/2026/B/8148569,Ministry of Finance - DEPARTMENT OF PUBLIC ENTERPRISES,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/753756,GEM/2026/R/753756,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/R/753756,GEM/2026/R/753756,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7950736,GEM/2026/B/7950736,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7935171,GEM/2026/B/7935171,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8113261,GEM/2026/B/8113261,Housing and Urban Development Department Jammu and Kashmir,Alwar,0.0,0.0,16,7,0.0,False,0.0
@@ -109,7 +109,7 @@ GEM/2026/B/8102434,GEM/2026/B/8102434,Forest Department Rajasthan,Alwar,0.0,0.0,
 GEM/2026/B/8102335,GEM/2026/B/8102335,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8101451,GEM/2026/B/8101451,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8096319,GEM/2026/B/8096319,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/747552,GEM/2026/R/747552,Education Department Gujarat,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/747552,GEM/2026/R/747552,Education Department Gujarat,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8049951,GEM/2026/B/8049951,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8032817,GEM/2026/B/8032817,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/8032719,GEM/2026/B/8032719,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,22,7,0.0,False,0.0
@@ -119,7 +119,7 @@ GEM/2026/B/7982434,GEM/2026/B/7982434,Ministry of Communications - Department of
 GEM/2026/B/8032297,GEM/2026/B/8032297,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/8069341,GEM/2026/B/8069341,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8021426,GEM/2026/B/8021426,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/R/744592,GEM/2026/R/744592,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/744592,GEM/2026/R/744592,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/8020326,GEM/2026/B/8020326,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7912950,GEM/2026/B/7912950,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,24,7,0.0,False,0.0
 GEM/2026/B/7918510,GEM/2026/B/7918510,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,24,7,0.0,False,0.0
@@ -144,10 +144,10 @@ GEM/2026/B/7937649,GEM/2026/B/7937649,Ministry of Home Affairs - Women Safety Di
 GEM/2026/B/8005463,GEM/2026/B/8005463,Revenue Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7858239,GEM/2026/B/7858239,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7963545,GEM/2026/B/7963545,Ministry of Home Affairs - Central Armed Police Forces,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/734053,GEM/2026/R/734053,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/734053,GEM/2026/R/734053,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7999356,GEM/2026/B/7999356,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7949428,GEM/2026/B/7949428,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/8006326,GEM/2026/B/8006326,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/8006326,GEM/2026/B/8006326,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7938432,GEM/2026/B/7938432,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7923089,GEM/2026/B/7923089,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7899027,GEM/2026/B/7899027,Ministry of Micro Small and Medium Enterprises - Ministry of Micro Small and Medium Enterprises,Alwar,0.0,0.0,28,7,0.0,False,0.0
@@ -169,22 +169,22 @@ GEM/2026/B/7928895,GEM/2026/B/7928895,Ministry of Education - Department of Scho
 GEM/2026/B/7928764,GEM/2026/B/7928764,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7928684,GEM/2026/B/7928684,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7880901,GEM/2026/B/7880901,"Ministry of Ports, Shipping and Waterways - NA",Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7944238,GEM/2026/B/7944238,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,4,7,3,True,41.7
-GEM/2026/B/7944168,GEM/2026/B/7944168,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/7944238,GEM/2026/B/7944238,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,4,7,3.0,True,41.7
+GEM/2026/B/7944168,GEM/2026/B/7944168,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7912440,GEM/2026/B/7912440,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7905702,GEM/2026/B/7905702,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7874030,GEM/2026/B/7874030,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,16,7,0.0,False,0.0
 GEM/2026/B/7842670,GEM/2026/B/7842670,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,23,7,0.0,False,0.0
 GEM/2026/B/7790578,GEM/2026/B/7790578,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/R/718251,GEM/2026/R/718251,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/717885,GEM/2026/R/717885,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/718251,GEM/2026/R/718251,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/717885,GEM/2026/R/717885,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7835416,GEM/2026/B/7835416,"Ministry of Home Affairs - Department of Jammu, Kashmir and Ladakh Affairs",Alwar,0.0,0.0,23,7,0.0,False,0.0
 GEM/2026/B/7788772,GEM/2026/B/7788772,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Alwar,0.0,0.0,27,7,0.0,False,0.0
 GEM/2026/B/7812249,GEM/2026/B/7812249,Ministry of Finance - Department of Financial Services,Alwar,0.0,0.0,28,7,0.0,False,0.0
 GEM/2026/B/7877834,GEM/2026/B/7877834,Forest Department Rajasthan,Alwar,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7819063,GEM/2026/B/7819063,Urban Development Directorate of Uttarakhand,Alwar,0.0,0.0,18,7,0.0,False,0.0
 GEM/2026/B/7876792,GEM/2026/B/7876792,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/715251,GEM/2026/R/715251,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/715251,GEM/2026/R/715251,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7779086,GEM/2026/B/7779086,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,30,7,0.0,False,0.0
 GEM/2026/B/7865955,GEM/2026/B/7865955,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7862793,GEM/2026/B/7862793,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
@@ -195,7 +195,7 @@ GEM/2026/B/7794732,GEM/2026/B/7794732,Ministry of Defence - Department of Milita
 GEM/2026/B/7777254,GEM/2026/B/7777254,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7814591,GEM/2026/B/7814591,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7820305,GEM/2026/B/7820305,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/708126,GEM/2026/R/708126,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/708126,GEM/2026/R/708126,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7809234,GEM/2026/B/7809234,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7819638,GEM/2026/B/7819638,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7816905,GEM/2026/B/7816905,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -206,7 +206,7 @@ GEM/2026/B/7742761,GEM/2026/B/7742761,Ministry of Tribal Affairs - Ministry of T
 GEM/2026/B/7739080,GEM/2026/B/7739080,Ministry of Micro Small and Medium Enterprises - Ministry of Micro Small and Medium Enterprises,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7655448,GEM/2026/B/7655448,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7730028,GEM/2026/B/7730028,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/701340,GEM/2026/R/701340,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/701340,GEM/2026/R/701340,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7773543,GEM/2026/B/7773543,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7729520,GEM/2026/B/7729520,Ministry of Youth Affairs and Sports - Department of Sports,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7757103,GEM/2026/B/7757103,Education Department Gujarat,Alwar,0.0,0.0,11,7,0.0,False,0.0
@@ -214,7 +214,7 @@ GEM/2026/B/7714607,GEM/2026/B/7714607,Ministry of Tribal Affairs - Ministry of T
 GEM/2026/B/7683163,GEM/2026/B/7683163,Energy Department Jharkhand,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7496640,GEM/2026/B/7496640,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7733808,GEM/2026/B/7733808,Forest Department Rajasthan,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/694815,GEM/2026/R/694815,Ministry of Defence - Department of Defence Production,Alwar,0.0,0.0,4,7,3,True,41.7
+GEM/2026/R/694815,GEM/2026/R/694815,Ministry of Defence - Department of Defence Production,Alwar,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7670501,GEM/2026/B/7670501,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,25,7,0.0,False,0.0
 GEM/2026/B/7724564,GEM/2026/B/7724564,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7711107,GEM/2026/B/7711107,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -226,10 +226,10 @@ GEM/2026/B/7712635,GEM/2026/B/7712635,Ministry of Defence - Department of Defenc
 GEM/2026/B/7693803,GEM/2026/B/7693803,Tribal Area Development Department Rajasthan,Alwar,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7706921,GEM/2026/B/7706921,Tribal Area Development Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7592798,GEM/2026/B/7592798,Ministry of Home Affairs - Central Armed Police Forces,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/691062,GEM/2026/R/691062,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/691062,GEM/2026/R/691062,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7608981,GEM/2026/B/7608981,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7557977,GEM/2026/B/7557977,Pune Municipal Corporation,Alwar,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/R/690378,GEM/2026/R/690378,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/690378,GEM/2026/R/690378,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7654330,GEM/2026/B/7654330,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7695221,GEM/2026/B/7695221,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7676646,GEM/2026/B/7676646,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,15,7,0.0,False,0.0
@@ -238,7 +238,7 @@ GEM/2026/B/7691616,GEM/2026/B/7691616,Forest Department Rajasthan,Alwar,0.0,0.0,
 GEM/2026/B/7615416,GEM/2026/B/7615416,PMO - Department of Atomic Energy,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7490478,GEM/2026/B/7490478,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,18,7,0.0,False,0.0
 GEM/2026/B/7683798,GEM/2026/B/7683798,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/687743,GEM/2026/R/687743,Ministry of Home Affairs - Women Safety Division,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/687743,GEM/2026/R/687743,Ministry of Home Affairs - Women Safety Division,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7585153,GEM/2026/B/7585153,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,18,7,0.0,False,0.0
 GEM/2026/B/7578135,GEM/2026/B/7578135,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,18,7,0.0,False,0.0
 GEM/2026/B/7674524,GEM/2026/B/7674524,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -253,15 +253,15 @@ GEM/2026/B/7601408,GEM/2026/B/7601408,Ministry of Defence - Department of Milita
 GEM/2026/B/7633001,GEM/2026/B/7633001,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7582711,GEM/2026/B/7582711,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7555572,GEM/2026/B/7555572,Ministry of Micro Small and Medium Enterprises - Ministry of Micro Small and Medium Enterprises,Alwar,0.0,0.0,26,7,0.0,False,0.0
-GEM/2026/B/7647225,GEM/2026/B/7647225,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7647225,GEM/2026/B/7647225,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7616628,GEM/2026/B/7616628,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7615523,GEM/2026/B/7615523,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7574549,GEM/2026/B/7574549,Ministry of Housing & Urban Affairs (MoHUA) - Central Public Works Department,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7456529,GEM/2026/B/7456529,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7621133,GEM/2026/B/7621133,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7621133,GEM/2026/B/7621133,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7541441,GEM/2026/B/7541441,Health and Family Welfare Department Assam,Alwar,0.0,0.0,20,7,0.0,False,0.0
 GEM/2026/B/7523779,GEM/2026/B/7523779,"Ministry of Ports, Shipping and Waterways - NA",Alwar,0.0,0.0,28,7,0.0,False,0.0
-GEM/2026/R/676979,GEM/2026/R/676979,Ministry of Steel - Steel Authority of India Limited,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/676979,GEM/2026/R/676979,Ministry of Steel - Steel Authority of India Limited,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7245571,GEM/2026/B/7245571,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,51,7,0.0,False,0.0
 GEM/2026/B/7584907,GEM/2026/B/7584907,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7535035,GEM/2026/B/7535035,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,21,7,0.0,False,0.0
@@ -274,9 +274,9 @@ GEM/2026/B/7437786,GEM/2026/B/7437786,Ministry of Defence - Department of Milita
 GEM/2026/B/7514614,GEM/2026/B/7514614,Urban Development Directorate of Uttarakhand,Alwar,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7529511,GEM/2026/B/7529511,Forest Department Rajasthan,Alwar,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7511964,GEM/2026/B/7511964,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,18,7,0.0,False,0.0
-GEM/2026/B/7562878,GEM/2026/B/7562878,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4,True,51.7
-GEM/2026/B/7562489,GEM/2026/B/7562489,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4,True,51.7
-GEM/2026/B/7562008,GEM/2026/B/7562008,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7562878,GEM/2026/B/7562878,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4.0,True,51.7
+GEM/2026/B/7562489,GEM/2026/B/7562489,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4.0,True,51.7
+GEM/2026/B/7562008,GEM/2026/B/7562008,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7479130,GEM/2026/B/7479130,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7492938,GEM/2026/B/7492938,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7525404,GEM/2026/B/7525404,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -290,7 +290,7 @@ GEM/2026/B/7435554,GEM/2026/B/7435554,Ministry of Defence - Department of Milita
 GEM/2026/B/7467400,GEM/2026/B/7467400,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7477865,GEM/2026/B/7477865,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7478583,GEM/2026/B/7478583,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/667683,GEM/2026/R/667683,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/R/667683,GEM/2026/R/667683,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7501089,GEM/2026/B/7501089,Energy Department Uttarakhand,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7507678,GEM/2026/B/7507678,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7490486,GEM/2026/B/7490486,Forest Department Rajasthan,Alwar,0.0,0.0,11,7,0.0,False,0.0
@@ -319,32 +319,32 @@ GEM/2026/B/7161139,GEM/2026/B/7161139,Ministry of Defence - Department of Defenc
 GEM/2026/B/7411175,GEM/2026/B/7411175,LSG (Local Self Government) Rajasthan,Alwar,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7404096,GEM/2026/B/7404096,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7384378,GEM/2026/B/7384378,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,19,7,0.0,False,0.0
-GEM/2026/B/7416667,GEM/2026/B/7416667,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7416667,GEM/2026/B/7416667,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7377433,GEM/2026/B/7377433,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/650697,GEM/2026/R/650697,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/650697,GEM/2026/R/650697,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7370542,GEM/2026/B/7370542,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7358371,GEM/2026/B/7358371,Ministry of Petroleum and Natural Gas - CHENNAI PETROLEUM Corporation Limited,Alwar,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7366840,GEM/2026/B/7366840,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7368040,GEM/2026/B/7368040,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7347389,GEM/2026/B/7347389,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7377560,GEM/2026/B/7377560,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7377560,GEM/2026/B/7377560,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7357036,GEM/2026/B/7357036,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7354007,GEM/2026/B/7354007,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7374596,GEM/2026/B/7374596,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7374596,GEM/2026/B/7374596,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7295374,GEM/2026/B/7295374,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7351832,GEM/2026/B/7351832,Forest Department Rajasthan,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7349182,GEM/2026/B/7349182,Forest Department Rajasthan,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7349110,GEM/2026/B/7349110,Forest Department Rajasthan,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7346376,GEM/2026/B/7346376,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7102744,GEM/2026/B/7102744,Ministry of Home Affairs - Women Safety Division,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7358640,GEM/2026/B/7358640,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7358640,GEM/2026/B/7358640,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7332280,GEM/2026/B/7332280,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7213406,GEM/2026/B/7213406,Ministry of Health and Family Welfare - Department of Health Research,Alwar,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/R/643284,GEM/2026/R/643284,Finance Department Madhya Pradesh,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/643284,GEM/2026/R/643284,Finance Department Madhya Pradesh,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7207899,GEM/2026/B/7207899,Ministry of Steel - NMDC Limited,Alwar,0.0,0.0,35,7,0.0,False,0.0
-GEM/2026/R/642334,GEM/2026/R/642334,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/R/642334,GEM/2026/R/642334,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7273546,GEM/2026/B/7273546,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/639699,GEM/2026/R/639699,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/639699,GEM/2026/R/639699,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7215701,GEM/2026/B/7215701,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,24,7,0.0,False,0.0
 GEM/2026/B/7303461,GEM/2026/B/7303461,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7300772,GEM/2026/B/7300772,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -353,46 +353,46 @@ GEM/2026/B/7152528,GEM/2026/B/7152528,Ministry of Defence - Department of Milita
 GEM/2026/B/7287981,GEM/2026/B/7287981,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7286566,GEM/2026/B/7286566,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7277599,GEM/2026/B/7277599,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7311004,GEM/2026/B/7311004,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7311004,GEM/2026/B/7311004,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7162971,GEM/2026/B/7162971,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7153621,GEM/2026/B/7153621,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/633916,GEM/2026/R/633916,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/633916,GEM/2026/R/633916,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7129522,GEM/2026/B/7129522,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7250529,GEM/2026/B/7250529,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7250424,GEM/2026/B/7250424,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7249479,GEM/2026/B/7249479,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/630764,GEM/2026/R/630764,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2026/B/7269091,GEM/2026/B/7269091,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/R/630764,GEM/2026/R/630764,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/B/7269091,GEM/2026/B/7269091,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7191532,GEM/2026/B/7191532,Ministry of Finance - Department of Financial Services,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/628978,GEM/2026/R/628978,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/628978,GEM/2026/R/628978,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7227993,GEM/2026/B/7227993,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7249874,GEM/2026/B/7249874,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,6,7,1,True,21.7
+GEM/2026/B/7249874,GEM/2026/B/7249874,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,6,7,1.0,True,21.7
 GEM/2026/B/7221832,GEM/2026/B/7221832,Finance Department Madhya Pradesh,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7224816,GEM/2026/B/7224816,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7218671,GEM/2026/B/7218671,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6893042,GEM/2025/B/6893042,PMO - Department of Atomic Energy,Alwar,0.0,0.0,98,7,0.0,False,0.0
-GEM/2026/R/626946,GEM/2026/R/626946,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/625528,GEM/2026/R/625528,Ministry of Steel - Steel Authority of India Limited,Alwar,0.0,0.0,2,7,5,True,61.7
-GEM/2026/R/626329,GEM/2026/R/626329,Home Department Bihar,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/626946,GEM/2026/R/626946,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/625528,GEM/2026/R/625528,Ministry of Steel - Steel Authority of India Limited,Alwar,0.0,0.0,2,7,5.0,True,61.7
+GEM/2026/R/626329,GEM/2026/R/626329,Home Department Bihar,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7134724,GEM/2026/B/7134724,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7173886,GEM/2026/B/7173886,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7089148,GEM/2026/B/7089148,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,25,7,0.0,False,0.0
 GEM/2026/B/7110668,GEM/2026/B/7110668,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7100613,GEM/2026/B/7100613,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,25,7,0.0,False,0.0
 GEM/2026/B/7199942,GEM/2026/B/7199942,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/623593,GEM/2026/R/623593,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/R/623593,GEM/2026/R/623593,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7186889,GEM/2026/B/7186889,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7171436,GEM/2026/B/7171436,Ministry of Petroleum and Natural Gas - CHENNAI PETROLEUM Corporation Limited,Alwar,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7062589,GEM/2026/B/7062589,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,42,7,0.0,False,0.0
 GEM/2025/B/6992657,GEM/2025/B/6992657,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/622935,GEM/2026/R/622935,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/622935,GEM/2026/R/622935,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7161251,GEM/2026/B/7161251,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7101981,GEM/2026/B/7101981,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7172904,GEM/2026/B/7172904,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7107129,GEM/2026/B/7107129,Ministry of Petroleum and Natural Gas - CHENNAI PETROLEUM Corporation Limited,Alwar,0.0,0.0,28,7,0.0,False,0.0
 GEM/2026/B/7172286,GEM/2026/B/7172286,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7201836,GEM/2026/B/7201836,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4,True,51.7
-GEM/2026/R/619529,GEM/2026/R/619529,PMO - Department of Atomic Energy,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/B/7201836,GEM/2026/B/7201836,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4.0,True,51.7
+GEM/2026/R/619529,GEM/2026/R/619529,PMO - Department of Atomic Energy,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7173775,GEM/2026/B/7173775,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,7,7,0.0,False,0.0
 GEM/2026/B/7173708,GEM/2026/B/7173708,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,7,7,0.0,False,0.0
 GEM/2026/B/7156101,GEM/2026/B/7156101,Animal Husbandry Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -410,11 +410,11 @@ GEM/2026/B/7133526,GEM/2026/B/7133526,Ministry of Defence - Department of Defenc
 GEM/2025/B/7036640,GEM/2025/B/7036640,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7126549,GEM/2026/B/7126549,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7114941,GEM/2026/B/7114941,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/R/611138,GEM/2026/R/611138,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/611138,GEM/2026/R/611138,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7093714,GEM/2026/B/7093714,Urban Development Department Uttar Pradesh,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/7031050,GEM/2025/B/7031050,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7062408,GEM/2026/B/7062408,Ministry of Power - NA,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/608272,GEM/2026/R/608272,Ministry of Home Affairs - Central Armed Police Forces,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/608272,GEM/2026/R/608272,Ministry of Home Affairs - Central Armed Police Forces,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7094196,GEM/2026/B/7094196,Ministry of Defence - Department of Defence Production,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7060684,GEM/2026/B/7060684,Rural Development and Panchayati Raj Department Rajasthan,Alwar,0.0,0.0,16,7,0.0,False,0.0
 GEM/2026/B/7084042,GEM/2026/B/7084042,Ministry of Defence - Department of Ex-Servicemen Welfare,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -434,16 +434,16 @@ GEM/2025/B/7011349,GEM/2025/B/7011349,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/7008810,GEM/2025/B/7008810,Ministry of Power - Bhakra Beas Managemet Board,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6977310,GEM/2025/B/6977310,Ministry of Steel - Steel Authority of India Limited,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6984126,GEM/2025/B/6984126,Ministry of Finance - Department of Financial Services,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/597948,GEM/2025/R/597948,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/597948,GEM/2025/R/597948,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6977853,GEM/2025/B/6977853,Energy Department Uttarakhand,Alwar,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/7025460,GEM/2025/B/7025460,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6960349,GEM/2025/B/6960349,Ministry of Finance - BANKING SECTOR,Alwar,0.0,0.0,26,7,0.0,False,0.0
 GEM/2025/B/6998601,GEM/2025/B/6998601,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/596794,GEM/2025/R/596794,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/596794,GEM/2025/R/596794,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6940596,GEM/2025/B/6940596,Ministry of Power - Bhakra Beas Managemet Board,Alwar,0.0,0.0,32,7,0.0,False,0.0
 GEM/2025/B/6988592,GEM/2025/B/6988592,PMO - Department of Atomic Energy,Alwar,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/7008836,GEM/2025/B/7008836,Ministry of Home Affairs - Central Armed Police Forces,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/596167,GEM/2025/R/596167,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/596167,GEM/2025/R/596167,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6727241,GEM/2025/B/6727241,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,58,7,0.0,False,0.0
 GEM/2025/B/6755699,GEM/2025/B/6755699,Ministry of Power - NA,Alwar,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6888907,GEM/2025/B/6888907,Ministry of Finance - Department of Financial Services,Alwar,0.0,0.0,41,7,0.0,False,0.0
@@ -488,7 +488,7 @@ GEM/2025/B/6793571,GEM/2025/B/6793571,Ministry of Defence - Department of Milita
 GEM/2025/B/6689388,GEM/2025/B/6689388,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,28,7,0.0,False,0.0
 GEM/2025/B/6826816,GEM/2025/B/6826816,PMO - Department of Atomic Energy,Alwar,0.0,0.0,41,7,0.0,False,0.0
 GEM/2025/B/6940186,GEM/2025/B/6940186,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/586503,GEM/2025/R/586503,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/586503,GEM/2025/R/586503,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6892359,GEM/2025/B/6892359,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6933854,GEM/2025/B/6933854,Ministry of Railways - Railways Public Sector Undertakings,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6772987,GEM/2025/B/6772987,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,39,7,0.0,False,0.0
@@ -503,32 +503,32 @@ GEM/2025/B/6695463,GEM/2025/B/6695463,Ministry of Communications - Department of
 GEM/2025/B/6753883,GEM/2025/B/6753883,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6919310,GEM/2025/B/6919310,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6874553,GEM/2025/B/6874553,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/581401,GEM/2025/R/581401,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/581401,GEM/2025/R/581401,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6745862,GEM/2025/B/6745862,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,42,7,0.0,False,0.0
 GEM/2025/B/6742373,GEM/2025/B/6742373,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,41,7,0.0,False,0.0
 GEM/2025/B/6733567,GEM/2025/B/6733567,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,42,7,0.0,False,0.0
 GEM/2025/B/6831310,GEM/2025/B/6831310,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Alwar,0.0,0.0,27,7,0.0,False,0.0
-GEM/2025/R/579239,GEM/2025/R/579239,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/579239,GEM/2025/R/579239,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6690399,GEM/2025/B/6690399,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,37,7,0.0,False,0.0
 GEM/2025/B/6767733,GEM/2025/B/6767733,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,18,7,0.0,False,0.0
 GEM/2025/B/6812930,GEM/2025/B/6812930,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,28,7,0.0,False,0.0
 GEM/2025/B/6645932,GEM/2025/B/6645932,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,42,7,0.0,False,0.0
 GEM/2025/B/6760230,GEM/2025/B/6760230,Ministry of Home Affairs - Central Armed Police Forces,Alwar,0.0,0.0,30,7,0.0,False,0.0
-GEM/2025/R/569478,GEM/2025/R/569478,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2025/R/569478,GEM/2025/R/569478,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6823932,GEM/2025/B/6823932,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6824653,GEM/2025/B/6824653,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/569511,GEM/2025/R/569511,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/569511,GEM/2025/R/569511,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6810777,GEM/2025/B/6810777,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6810182,GEM/2025/B/6810182,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6769626,GEM/2025/B/6769626,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/565945,GEM/2025/R/565945,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/565945,GEM/2025/R/565945,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6796893,GEM/2025/B/6796893,Tribal Area Development Department Rajasthan,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6794837,GEM/2025/B/6794837,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6790075,GEM/2025/B/6790075,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6785826,GEM/2025/B/6785826,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6732616,GEM/2025/B/6732616,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6614886,GEM/2025/B/6614886,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/563067,GEM/2025/R/563067,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/563067,GEM/2025/R/563067,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6771311,GEM/2025/B/6771311,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6616796,GEM/2025/B/6616796,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6709213,GEM/2025/B/6709213,School Education Department Chhattisgarh,Alwar,0.0,0.0,22,7,0.0,False,0.0
@@ -548,48 +548,48 @@ GEM/2025/B/6712225,GEM/2025/B/6712225,Ministry of Railways - Railways Public Sec
 GEM/2025/B/6713743,GEM/2025/B/6713743,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6694134,GEM/2025/B/6694134,Ministry of Petroleum and Natural Gas - ONGC VIDESH Limited,Alwar,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6714295,GEM/2025/B/6714295,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,7,7,0.0,False,0.0
-GEM/2025/R/552973,GEM/2025/R/552973,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/552973,GEM/2025/R/552973,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6685854,GEM/2025/B/6685854,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/R/553096,GEM/2025/R/553096,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/553096,GEM/2025/R/553096,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6658202,GEM/2025/B/6658202,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6601167,GEM/2025/B/6601167,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6681800,GEM/2025/B/6681800,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6688212,GEM/2025/B/6688212,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/550623,GEM/2025/R/550623,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/550623,GEM/2025/R/550623,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6643448,GEM/2025/B/6643448,Home Department Chhattisgarh,Alwar,0.0,0.0,16,7,0.0,False,0.0
-GEM/2025/R/550427,GEM/2025/R/550427,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2025/B/6709558,GEM/2025/B/6709558,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,4,7,3,True,41.7
-GEM/2025/R/548945,GEM/2025/R/548945,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
-GEM/2025/R/548521,GEM/2025/R/548521,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/550427,GEM/2025/R/550427,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/B/6709558,GEM/2025/B/6709558,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,4,7,3.0,True,41.7
+GEM/2025/R/548945,GEM/2025/R/548945,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
+GEM/2025/R/548521,GEM/2025/R/548521,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6633234,GEM/2025/B/6633234,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/547710,GEM/2025/R/547710,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/547710,GEM/2025/R/547710,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6653969,GEM/2025/B/6653969,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/546785,GEM/2025/R/546785,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/546785,GEM/2025/R/546785,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6638768,GEM/2025/B/6638768,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6523208,GEM/2025/B/6523208,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6651432,GEM/2025/B/6651432,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6639070,GEM/2025/B/6639070,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/R/545221,GEM/2025/R/545221,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/545221,GEM/2025/R/545221,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6615907,GEM/2025/B/6615907,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,18,7,0.0,False,0.0
-GEM/2025/R/544948,GEM/2025/R/544948,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/544948,GEM/2025/R/544948,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6596686,GEM/2025/B/6596686,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6636282,GEM/2025/B/6636282,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6635938,GEM/2025/B/6635938,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/543398,GEM/2025/R/543398,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/542808,GEM/2025/R/542808,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/542793,GEM/2025/R/542793,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/542619,GEM/2025/R/542619,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/541997,GEM/2025/R/541997,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/543398,GEM/2025/R/543398,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/542808,GEM/2025/R/542808,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/542793,GEM/2025/R/542793,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/542619,GEM/2025/R/542619,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/541997,GEM/2025/R/541997,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6577136,GEM/2025/B/6577136,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/R/540946,GEM/2025/R/540946,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/540898,GEM/2025/R/540898,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/540946,GEM/2025/R/540946,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/540898,GEM/2025/R/540898,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6611272,GEM/2025/B/6611272,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6607367,GEM/2025/B/6607367,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6613820,GEM/2025/B/6613820,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6613715,GEM/2025/B/6613715,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6608428,GEM/2025/B/6608428,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6564739,GEM/2025/B/6564739,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,24,7,0.0,False,0.0
-GEM/2025/B/6624953,GEM/2025/B/6624953,Department of Space - Department of Space,Alwar,0.0,0.0,6,7,1,True,21.7
+GEM/2025/B/6624953,GEM/2025/B/6624953,Department of Space - Department of Space,Alwar,0.0,0.0,6,7,1.0,True,21.7
 GEM/2025/B/6564604,GEM/2025/B/6564604,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/6568766,GEM/2025/B/6568766,Ministry of Environment Forest and Climate Change - NA,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6602272,GEM/2025/B/6602272,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
@@ -600,7 +600,7 @@ GEM/2025/B/6581884,GEM/2025/B/6581884,Skill Development and Technical Education 
 GEM/2025/B/6580935,GEM/2025/B/6580935,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6580643,GEM/2025/B/6580643,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6580355,GEM/2025/B/6580355,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6616271,GEM/2025/B/6616271,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/B/6616271,GEM/2025/B/6616271,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6567146,GEM/2025/B/6567146,Ministry of Finance - Department of Financial Services,Alwar,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6565399,GEM/2025/B/6565399,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6565266,GEM/2025/B/6565266,Skill Development and Technical Education Department. Odisha,Alwar,0.0,0.0,14,7,0.0,False,0.0
@@ -613,28 +613,28 @@ GEM/2025/B/6520551,GEM/2025/B/6520551,Tribal Welfare and Scheduled Caste (SC) De
 GEM/2025/B/6516756,GEM/2025/B/6516756,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,14,7,0.0,False,0.0
 GEM/2025/B/6406385,GEM/2025/B/6406385,Secretariat Administration Department Assam,Alwar,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6530416,GEM/2025/B/6530416,LSG (Local Self Government) Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/528467,GEM/2025/R/528467,Ministry of Steel - MOIL Limited,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/528467,GEM/2025/R/528467,Ministry of Steel - MOIL Limited,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6523754,GEM/2025/B/6523754,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6517433,GEM/2025/B/6517433,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6532547,GEM/2025/B/6532547,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,3,7,4,True,51.7
-GEM/2025/R/527003,GEM/2025/R/527003,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/6532547,GEM/2025/B/6532547,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/R/527003,GEM/2025/R/527003,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6500932,GEM/2025/B/6500932,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/523412,GEM/2025/R/523412,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Alwar,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/6509177,GEM/2025/B/6509177,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,4,7,3,True,41.7
+GEM/2025/R/523412,GEM/2025/R/523412,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Alwar,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/B/6509177,GEM/2025/B/6509177,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6453556,GEM/2025/B/6453556,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6283373,GEM/2025/B/6283373,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6287514,GEM/2025/B/6287514,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/R/517974,GEM/2025/R/517974,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/517282,GEM/2025/R/517282,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/517974,GEM/2025/R/517974,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/517282,GEM/2025/R/517282,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6440736,GEM/2025/B/6440736,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6313179,GEM/2025/B/6313179,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6270051,GEM/2025/B/6270051,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6413007,GEM/2025/B/6413007,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6271069,GEM/2025/B/6271069,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6370995,GEM/2025/B/6370995,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/512716,GEM/2025/R/512716,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/512716,GEM/2025/R/512716,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6229524,GEM/2025/B/6229524,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Alwar,0.0,0.0,39,7,0.0,False,0.0
-GEM/2025/R/511919,GEM/2025/R/511919,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/511919,GEM/2025/R/511919,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6187095,GEM/2025/B/6187095,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6361327,GEM/2025/B/6361327,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6407379,GEM/2025/B/6407379,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,7,7,0.0,False,0.0
@@ -654,13 +654,13 @@ GEM/2025/B/6320057,GEM/2025/B/6320057,Ministry of Defence - Department of Defenc
 GEM/2025/B/6312427,GEM/2025/B/6312427,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6289179,GEM/2025/B/6289179,Ministry of Steel - MOIL Limited,Alwar,0.0,0.0,27,7,0.0,False,0.0
 GEM/2025/B/6310010,GEM/2025/B/6310010,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/504360,GEM/2025/R/504360,Ministry of Electronics and Information Technology - Department of Electronics and Information Technology,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/504360,GEM/2025/R/504360,Ministry of Electronics and Information Technology - Department of Electronics and Information Technology,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6302363,GEM/2025/B/6302363,Ministry of Defence - Department of Defence Production,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6339145,GEM/2025/B/6339145,Tribal Area Development Department Rajasthan,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6276950,GEM/2025/B/6276950,PMO - Department of Atomic Energy,Alwar,0.0,0.0,26,7,0.0,False,0.0
 GEM/2025/B/6296164,GEM/2025/B/6296164,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6353866,GEM/2025/B/6353866,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/6345618,GEM/2025/B/6345618,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6353866,GEM/2025/B/6353866,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,3,7,4.0,True,51.7
+GEM/2025/B/6345618,GEM/2025/B/6345618,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6273374,GEM/2025/B/6273374,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6283509,GEM/2025/B/6283509,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6203660,GEM/2025/B/6203660,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,24,7,0.0,False,0.0
@@ -669,13 +669,13 @@ GEM/2025/B/6236782,GEM/2025/B/6236782,Ministry of Defence - Department of Milita
 GEM/2025/B/6219719,GEM/2025/B/6219719,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6224188,GEM/2025/B/6224188,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6282533,GEM/2025/B/6282533,Forest Department Rajasthan,Alwar,0.0,0.0,16,7,0.0,False,0.0
-GEM/2025/R/497915,GEM/2025/R/497915,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/497908,GEM/2025/R/497908,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/497915,GEM/2025/R/497915,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/497908,GEM/2025/R/497908,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6249239,GEM/2025/B/6249239,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6243623,GEM/2025/B/6243623,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,12,7,0.0,False,0.0
-GEM/2025/R/497051,GEM/2025/R/497051,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,4,7,3,True,41.7
+GEM/2025/R/497051,GEM/2025/R/497051,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6292162,GEM/2025/B/6292162,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/497381,GEM/2025/R/497381,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/497381,GEM/2025/R/497381,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6258570,GEM/2025/B/6258570,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6283849,GEM/2025/B/6283849,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6275778,GEM/2025/B/6275778,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -687,14 +687,14 @@ GEM/2025/B/6217926,GEM/2025/B/6217926,Ministry of Micro Small and Medium Enterpr
 GEM/2025/B/6241674,GEM/2025/B/6241674,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6200025,GEM/2025/B/6200025,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6198475,GEM/2025/B/6198475,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6259265,GEM/2025/B/6259265,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6259265,GEM/2025/B/6259265,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6195377,GEM/2025/B/6195377,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6194348,GEM/2025/B/6194348,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6226488,GEM/2025/B/6226488,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6221438,GEM/2025/B/6221438,Elementary Education Department Haryana,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6185440,GEM/2025/B/6185440,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6208047,GEM/2025/B/6208047,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,12,7,0.0,False,0.0
-GEM/2025/B/6224672,GEM/2025/B/6224672,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/B/6224672,GEM/2025/B/6224672,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6058622,GEM/2025/B/6058622,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,29,7,0.0,False,0.0
 GEM/2025/B/6156373,GEM/2025/B/6156373,Ministry of Electronics and Information Technology - Department of Electronics and Information Technology,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6145201,GEM/2025/B/6145201,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,26,7,0.0,False,0.0
@@ -705,9 +705,9 @@ GEM/2025/B/5963992,GEM/2025/B/5963992,Ministry of Defence - Department of Milita
 GEM/2025/B/6084307,GEM/2025/B/6084307,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,30,7,0.0,False,0.0
 GEM/2025/B/6123238,GEM/2025/B/6123238,Social Welfare Department Jammu and Kashmir,Alwar,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6129982,GEM/2025/B/6129982,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6175491,GEM/2025/B/6175491,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/6175491,GEM/2025/B/6175491,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/6121504,GEM/2025/B/6121504,Ministry of Electronics and Information Technology - Department of Electronics and Information Technology,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6174665,GEM/2025/B/6174665,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6174665,GEM/2025/B/6174665,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6123184,GEM/2025/B/6123184,Social Welfare Department Jammu and Kashmir,Alwar,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/5929948,GEM/2025/B/5929948,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6101868,GEM/2025/B/6101868,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
@@ -716,13 +716,13 @@ GEM/2025/B/5976588,GEM/2025/B/5976588,Ministry of Defence - Department of Milita
 GEM/2025/B/6078551,GEM/2025/B/6078551,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,35,7,0.0,False,0.0
 GEM/2025/B/6084153,GEM/2025/B/6084153,Ministry of Youth Affairs and Sports - Department of Sports,Alwar,0.0,0.0,31,7,0.0,False,0.0
 GEM/2025/B/6044406,GEM/2025/B/6044406,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/B/6146181,GEM/2025/B/6146181,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6146181,GEM/2025/B/6146181,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6098003,GEM/2025/B/6098003,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6090124,GEM/2025/B/6090124,Ministry of Defence - Department of Defence Production,Alwar,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6102197,GEM/2025/B/6102197,Ministry of Water Resources River Development and Ganga Rejuvenation - WAPCOS Limited,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6107774,GEM/2025/B/6107774,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6107774,GEM/2025/B/6107774,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6089111,GEM/2025/B/6089111,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/473391,GEM/2025/R/473391,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/473391,GEM/2025/R/473391,Ministry of Communications - Department of Telecommunications (DOT),Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/5817897,GEM/2025/B/5817897,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5917106,GEM/2025/B/5917106,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6029465,GEM/2025/B/6029465,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,21,7,0.0,False,0.0
@@ -731,8 +731,8 @@ GEM/2025/B/6060281,GEM/2025/B/6060281,Tribal Welfare and Scheduled Caste (SC) De
 GEM/2025/B/6064993,GEM/2025/B/6064993,New Delhi,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6063390,GEM/2025/B/6063390,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5997554,GEM/2025/B/5997554,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6076161,GEM/2025/B/6076161,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6076970,GEM/2025/B/6076970,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6076161,GEM/2025/B/6076161,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6076970,GEM/2025/B/6076970,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/5978777,GEM/2025/B/5978777,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5978885,GEM/2025/B/5978885,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5971981,GEM/2025/B/5971981,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,26,7,0.0,False,0.0
@@ -754,13 +754,13 @@ GEM/2025/B/5994044,GEM/2025/B/5994044,Ministry of Defence - Department of Milita
 GEM/2025/B/5993945,GEM/2025/B/5993945,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6035955,GEM/2025/B/6035955,DEPARTMENT OF HIGHER EDUCATION,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6041833,GEM/2025/B/6041833,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,7,7,0.0,False,0.0
-GEM/2025/B/6046352,GEM/2025/B/6046352,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/B/6046352,GEM/2025/B/6046352,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/5952211,GEM/2025/B/5952211,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/R/464244,GEM/2025/R/464244,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/464244,GEM/2025/R/464244,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5970436,GEM/2025/B/5970436,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5814610,GEM/2025/B/5814610,Ministry of Health and Family Welfare - Department of Health and Family Welfare,Alwar,0.0,0.0,57,7,0.0,False,0.0
 GEM/2025/B/5964122,GEM/2025/B/5964122,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/462748,GEM/2025/R/462748,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/462748,GEM/2025/R/462748,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6008046,GEM/2025/B/6008046,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5951459,GEM/2025/B/5951459,Ministry of Education - Department of School Education and Literacy,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5989994,GEM/2025/B/5989994,Forest Department Rajasthan,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -774,12 +774,12 @@ GEM/2025/B/5923460,GEM/2025/B/5923460,Ministry of Finance - Department of Financ
 GEM/2025/B/5874511,GEM/2025/B/5874511,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/5800099,GEM/2025/B/5800099,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,43,7,0.0,False,0.0
 GEM/2025/B/5890729,GEM/2025/B/5890729,Ministry of Railways - Indian Railways,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/452807,GEM/2025/R/452807,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/452807,GEM/2025/R/452807,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5885618,GEM/2025/B/5885618,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5923771,GEM/2025/B/5923771,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/449886,GEM/2025/R/449886,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/449886,GEM/2025/R/449886,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5862522,GEM/2025/B/5862522,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/448907,GEM/2025/R/448907,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/448907,GEM/2025/R/448907,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/5851622,GEM/2025/B/5851622,Ministry of Defence - Department of Defence,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5850170,GEM/2025/B/5850170,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5833120,GEM/2025/B/5833120,Tribal Welfare and Scheduled Caste (SC) Department Madhya Pradesh,Alwar,0.0,0.0,21,7,0.0,False,0.0
@@ -796,11 +796,11 @@ GEM/2025/B/5839183,GEM/2025/B/5839183,Tribal Welfare and Scheduled Caste (SC) De
 GEM/2025/B/5788475,GEM/2025/B/5788475,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5783193,GEM/2025/B/5783193,PMO - Department of Atomic Energy,Alwar,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/5826022,GEM/2025/B/5826022,Ministry of Power - NA,Alwar,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/439718,GEM/2025/R/439718,Ministry of Finance - Department of Economic Affairs,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/439718,GEM/2025/R/439718,Ministry of Finance - Department of Economic Affairs,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5799817,GEM/2025/B/5799817,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/R/438930,GEM/2025/R/438930,Ministry of Home Affairs - NA,Alwar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/438930,GEM/2025/R/438930,Ministry of Home Affairs - NA,Alwar,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5808956,GEM/2025/B/5808956,Ministry of Tribal Affairs - Ministry of Tribal Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/433932,GEM/2025/R/433932,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/433932,GEM/2025/R/433932,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/5774788,GEM/2025/B/5774788,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7450625,GEM/2026/B/7450625,Ministry of Petroleum and Natural Gas - GAIL India Limited,Alwar,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/8161553,GEM/2026/B/8161553,Ministry of Electronics and Information Technology - Department of Electronics and Information Technology,Alwar,0.0,0.0,30,7,0.0,False,0.0
@@ -819,7 +819,7 @@ GEM/2026/B/8225885,GEM/2026/B/8225885,Ministry of Tribal Affairs - Ministry of T
 GEM/2026/B/8224748,GEM/2026/B/8224748,Ministry of Defence - Department of Military Affairs,Alwar,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/8194317,GEM/2026/B/8194317,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Alwar,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6796977,GEM/2025/B/6796977,Ministry of Petroleum and Natural Gas - GAIL India Limited,Alwar,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/R/548741,GEM/2025/R/548741,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Alwar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/548741,GEM/2025/R/548741,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Alwar,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/6478732,GEM/2025/B/6478732,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7961603,GEM/2026/B/7961603,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7781555,GEM/2026/B/7781555,Ministry of Finance - Department of Revenue,Alwar,0.0,0.0,10,7,0.0,False,0.0
@@ -848,3 +848,32 @@ GEM/2025/B/6445364,GEM/2025/B/6445364,Ministry of Labour and Employment - NA,Alw
 GEM/2025/B/6895912,GEM/2025/B/6895912,Ministry of Labour and Employment - NA,Alwar,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6890450,GEM/2025/B/6890450,Ministry of Labour and Employment - NA,Alwar,0.0,0.0,35,7,0.0,False,0.0
 GEM/2026/B/7883981,GEM/2026/B/7883981,Ministry of Labour and Employment - NA,Alwar,0.0,0.0,35,7,0.0,False,0.0
+2026_RHBCE_604989_1,NIT 604989_1,Jaipur Division,Alwar,2500000.0,25.0,20,10,0.0,False,0.0
+2026_RCDF_605649_1,NIT 605649_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605674_1,NIT 605674_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605675_1,NIT 605675_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605678_1,NIT 605678_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605679_1,NIT 605679_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605681_1,NIT 605681_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605653_1,NIT 605653_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605638_1,NIT 605638_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605655_1,NIT 605655_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605595_1,NIT 605595_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605661_1,NIT 605661_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605645_1,NIT 605645_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605648_1,NIT 605648_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605650_1,NIT 605650_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605652_1,NIT 605652_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605662_1,NIT 605662_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605657_1,NIT 605657_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605659_1,NIT 605659_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605665_1,NIT 605665_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605667_1,NIT 605667_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605669_1,NIT 605669_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605647_1,NIT 605647_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605646_1,NIT 605646_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605668_1,NIT 605668_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605670_1,NIT 605670_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_RCDF_605671_1,NIT 605671_1,Jaipur Division,Alwar,2500000.0,25.0,19,10,0.0,False,0.0
+2026_UITAL_605418_1,NIT 605418_1,Jaipur Division,Alwar,2500000.0,25.0,11,10,0.0,False,0.0
+2026_UITAL_605393_1,NIT 605393_1,Jaipur Division,Alwar,2500000.0,25.0,12,10,0.0,False,0.0

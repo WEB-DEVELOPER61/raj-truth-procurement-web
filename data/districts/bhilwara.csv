@@ -1,29 +1,29 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
 SHPP-2217200,Goods/2026-27/0054/015,"College Education Department, Jaipur",Bhilwara,2217200.0,22.172,23,10,0.0,False,0.0
-SHPP-24314000.00,RRC2627WSOB00751,Rajasthan State Road Development and Construction Cooperation,Bhilwara,24314000.0,243.14,12,30,18,True,69.6
+SHPP-24314000.00,RRC2627WSOB00751,Rajasthan State Road Development and Construction Cooperation,Bhilwara,24314000.0,243.14,12,30,18.0,True,69.6
 SHPP-1.00,UTB2627WSOB00159,Urban Improvement Trust Bhilwara,Bhilwara,1.0,0.0,16,7,0.0,False,0.0
 SHPP-7495000.00,UTB2627WSOB00161,Urban Improvement Trust Bhilwara,Bhilwara,7495000.0,74.95,16,15,0.0,False,0.0
 SHPP-19418100.00,ZBL2627WSOB02049,Zila Parishad Bhilwara,Bhilwara,19418100.0,194.181,20,15,0.0,False,0.0
 SHPP-15000000.00,PHE2627WSRC06966,"Chief Engineer (Special Project) PHED, Jaipur",Bhilwara,15000000.0,150.0,17,15,0.0,False,0.0
-SHPP-496191000.00,RRC2627SLOB00747,Rajasthan State Road Development and Construction Cooperation,Bhilwara,496191000.0,4961.91,10,30,20,True,79.0
+SHPP-496191000.00,RRC2627SLOB00747,Rajasthan State Road Development and Construction Cooperation,Bhilwara,496191000.0,4961.91,10,30,20.0,True,79.0
 SHPP-1147000.00,UTB2627WSOB00152,Urban Improvement Trust Bhilwara,Bhilwara,1147000.0,11.47,21,10,0.0,False,0.0
 SHPP-1700000.00,PHE2627WSRC06831,"Chief Engineer (Special Project) PHED, Jaipur",Bhilwara,1700000.0,17.0,20,10,0.0,False,0.0
 SHPP-605000.00,PWD2627WSOB14067,CE Public Works Department,Bhilwara,605000.0,6.05,40,7,0.0,False,0.0
-SHPP-7939000.00,RRC2627WSOB00739,Rajasthan State Road Development and Construction Cooperation,Bhilwara,7939000.0,79.39,8,15,7,True,58.5
-SHPP-9953000.00,RRC2627WSOB00738,Rajasthan State Road Development and Construction Cooperation,Bhilwara,9953000.0,99.53,8,15,7,True,58.8
-SHPP-17646972.00,RDC2627WSOB01341,Rajasthan State Industrial Development Investment Corporation,Bhilwara,17646972.0,176.4697,13,15,2,True,36.4
+SHPP-7939000.00,RRC2627WSOB00739,Rajasthan State Road Development and Construction Cooperation,Bhilwara,7939000.0,79.39,8,15,7.0,True,58.5
+SHPP-9953000.00,RRC2627WSOB00738,Rajasthan State Road Development and Construction Cooperation,Bhilwara,9953000.0,99.53,8,15,7.0,True,58.8
+SHPP-17646972.00,RDC2627WSOB01341,Rajasthan State Industrial Development Investment Corporation,Bhilwara,17646972.0,176.4697,13,15,2.0,True,36.4
 SHPP-153000.00,UTB2627WSOB00146,Urban Improvement Trust Bhilwara,Bhilwara,153000.0,1.53,14,7,0.0,False,0.0
 SHPP-66000.00,UTB2627WSOB00143,Urban Improvement Trust Bhilwara,Bhilwara,66000.0,0.66,14,7,0.0,False,0.0
 SHPP-108000.00,UTB2627WSOB00144,Urban Improvement Trust Bhilwara,Bhilwara,108000.0,1.08,14,7,0.0,False,0.0
 EPROC-2026_CEPWD_602911_6,NIT-21/2026-27 PWD ASIND,PWD - CE AND AS||ACE - AJMER||SE-BHILWARA||EE-MANDALGARH,Bhilwara,4492000.0,44.92,44,10,0.0,False,0.0
 EPROC-2026_CEPWD_601643_3,NIT 20 PWD Dn. Asind,PWD - CE AND AS||ACE - AJMER||SE-BHILWARA||EE Dn-ASIND,Bhilwara,4694000.0,46.94,47,10,0.0,False,0.0
 EPROC-2026_CEPWD_600177_1,NIT-18/2026-27 PWD ASIND,PWD - CE AND AS||ACE - AJMER||SE-BHILWARA||EE-MANDALGARH,Bhilwara,16803000.0,168.03,53,15,0.0,False,0.0
-EPROC-2026_RSRDC_605746_1,NIT No. 463/2026-27 dated 06.11.2026,RSRDCC-GM,Bhilwara,24314000.0,243.14,12,30,18,True,69.6
-EPROC-2026_RSRDC_605545_1,NIT No. 458/2026-27 dated 05.11.2026 Sl No 2,RSRDCC-GM,Bhilwara,496191000.0,4961.91,10,30,20,True,79.0
-EPROC-2026_RSRDC_605438_1,NIT No. 454/2026-27 dated 04.11.2026 Sl No 2,RSRDCC-GM,Bhilwara,9953000.0,99.53,7,15,8,True,63.5
-EPROC-2026_RSRDC_605439_1,NIT No. 454/2026-27 dated 04.11.2026 Sl No 3,RSRDCC-GM,Bhilwara,7939000.0,79.39,7,15,8,True,63.1
+EPROC-2026_RSRDC_605746_1,NIT No. 463/2026-27 dated 06.11.2026,RSRDCC-GM,Bhilwara,24314000.0,243.14,12,30,18.0,True,69.6
+EPROC-2026_RSRDC_605545_1,NIT No. 458/2026-27 dated 05.11.2026 Sl No 2,RSRDCC-GM,Bhilwara,496191000.0,4961.91,10,30,20.0,True,79.0
+EPROC-2026_RSRDC_605438_1,NIT No. 454/2026-27 dated 04.11.2026 Sl No 2,RSRDCC-GM,Bhilwara,9953000.0,99.53,7,15,8.0,True,63.5
+EPROC-2026_RSRDC_605439_1,NIT No. 454/2026-27 dated 04.11.2026 Sl No 3,RSRDCC-GM,Bhilwara,7939000.0,79.39,7,15,8.0,True,63.1
 EPROC-2026_MEDIC_605411_1,NIT-57/2026-27 MG HOSPITAL BHILWARA,Medical and Health||Director (F.W.) Medical Health and Family Welfare Services,Bhilwara,10000000.0,100.0,21,15,0.0,False,0.0
-EPROC-2026_MEDIC_605414_1,NIT-58/2026-27 MG HOSPITAL BHILWARA,Medical and Health||Director (F.W.) Medical Health and Family Welfare Services,Bhilwara,23000000.0,230.0,21,30,9,True,48.5
+EPROC-2026_MEDIC_605414_1,NIT-58/2026-27 MG HOSPITAL BHILWARA,Medical and Health||Director (F.W.) Medical Health and Family Welfare Services,Bhilwara,23000000.0,230.0,21,30,9.0,True,48.5
 EPROC-2026_TECET_601437_1,01/RFP 04 Bhilwara Cluster/2026-27,Technical Education (Training),Bhilwara,409700000.0,4097.0,92,30,0.0,False,0.0
 EPROC-2026_UITBH_605361_2,NIT-23/2026-27 UIT BHILWARA,UIT-BHILWARA- Secretary||E.E.-II,Bhilwara,1147000.0,11.47,21,10,0.0,False,0.0
 EPROC-2026_UITBH_605063_7,NIT-22/2026-27 UIT BHILWARA,UIT-BHILWARA- Secretary||E.E.-II,Bhilwara,1500000.0,15.0,14,10,0.0,False,0.0
@@ -61,7 +61,7 @@ GEM/2026/B/7349218,GEM/2026/B/7349218,Medical Health and Family Welfare Departme
 GEM/2026/B/7329703,GEM/2026/B/7329703,Medical Health and Family Welfare Department Rajasthan,Bhilwara,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7320214,GEM/2026/B/7320214,Bhilwara,Bhilwara,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7319848,GEM/2026/B/7319848,Bhilwara,Bhilwara,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7346001,GEM/2026/B/7346001,Ministry of Education - Department of School Education and Literacy,Bhilwara,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7346001,GEM/2026/B/7346001,Ministry of Education - Department of School Education and Literacy,Bhilwara,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7299477,GEM/2026/B/7299477,LSG (Local Self Government) Rajasthan,Bhilwara,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7296751,GEM/2026/B/7296751,LSG (Local Self Government) Rajasthan,Bhilwara,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7296551,GEM/2026/B/7296551,LSG (Local Self Government) Rajasthan,Bhilwara,0.0,0.0,14,7,0.0,False,0.0
@@ -73,7 +73,7 @@ GEM/2026/B/7250675,GEM/2026/B/7250675,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/7270186,GEM/2026/B/7270186,Mines and Geology Department Rajasthan,Bhilwara,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7239593,GEM/2026/B/7239593,Ministry of Petroleum and Natural Gas - GAIL India Limited,Bhilwara,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7279374,GEM/2026/B/7279374,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,7,7,0.0,False,0.0
-GEM/2026/R/630877,GEM/2026/R/630877,Ministry of Communications - Department of Telecommunications (DOT),Bhilwara,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/630877,GEM/2026/R/630877,Ministry of Communications - Department of Telecommunications (DOT),Bhilwara,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7197515,GEM/2026/B/7197515,Rural Development and Panchayati Raj Department Rajasthan,Bhilwara,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7059784,GEM/2026/B/7059784,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,46,7,0.0,False,0.0
 GEM/2026/B/7200051,GEM/2026/B/7200051,Ministry of Education - Department of School Education and Literacy,Bhilwara,0.0,0.0,10,7,0.0,False,0.0
@@ -120,11 +120,11 @@ GEM/2025/B/6670629,GEM/2025/B/6670629,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/6646088,GEM/2025/B/6646088,Agriculture Department Rajasthan,Bhilwara,0.0,0.0,25,7,0.0,False,0.0
 GEM/2025/B/6628457,GEM/2025/B/6628457,Ministry of Finance - Department of Financial Services,Bhilwara,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6557653,GEM/2025/B/6557653,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6594685,GEM/2025/B/6594685,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6594304,GEM/2025/B/6594304,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6594685,GEM/2025/B/6594685,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6594304,GEM/2025/B/6594304,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6491378,GEM/2025/B/6491378,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6350367,GEM/2025/B/6350367,Ministry of Defence - Department of Military Affairs,Bhilwara,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6376822,GEM/2025/B/6376822,Ministry of Education - Department of School Education and Literacy,Bhilwara,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6376822,GEM/2025/B/6376822,Ministry of Education - Department of School Education and Literacy,Bhilwara,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6253844,GEM/2025/B/6253844,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/6248517,GEM/2025/B/6248517,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6205528,GEM/2025/B/6205528,Ministry of Defence - Department of Military Affairs,Bhilwara,0.0,0.0,21,7,0.0,False,0.0
@@ -151,12 +151,12 @@ GEM/2025/B/6006837,GEM/2025/B/6006837,LSG (Local Self Government) Rajasthan,Bhil
 GEM/2025/B/6006763,GEM/2025/B/6006763,LSG (Local Self Government) Rajasthan,Bhilwara,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6025073,GEM/2025/B/6025073,College Education Department Rajasthan,Bhilwara,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6024888,GEM/2025/B/6024888,College Education Department Rajasthan,Bhilwara,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6042169,GEM/2025/B/6042169,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6042169,GEM/2025/B/6042169,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6014262,GEM/2025/B/6014262,Agriculture Department Rajasthan,Bhilwara,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5985445,GEM/2025/B/5985445,Ministry of Education - Department of School Education and Literacy,Bhilwara,0.0,0.0,16,7,0.0,False,0.0
 GEM/2025/B/5955422,GEM/2025/B/5955422,Ministry of Education - Department of School Education and Literacy,Bhilwara,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5946407,GEM/2025/B/5946407,Ministry of Education - Department of School Education and Literacy,Bhilwara,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/451023,GEM/2025/R/451023,Ministry of Communications - Department of Telecommunications (DOT),Bhilwara,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/451023,GEM/2025/R/451023,Ministry of Communications - Department of Telecommunications (DOT),Bhilwara,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/5875276,GEM/2025/B/5875276,LSG (Local Self Government) Rajasthan,Bhilwara,0.0,0.0,18,7,0.0,False,0.0
 GEM/2025/B/5860889,GEM/2025/B/5860889,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/5863595,GEM/2025/B/5863595,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,21,7,0.0,False,0.0
@@ -167,3 +167,14 @@ GEM/2026/B/8186806,GEM/2026/B/8186806,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/7786794,GEM/2026/B/7786794,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,128,7,0.0,False,0.0
 GEM/2026/B/8197331,GEM/2026/B/8197331,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7660760,GEM/2026/B/7660760,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bhilwara,0.0,0.0,51,7,0.0,False,0.0
+2026_PRD_605635_1,NIT 605635_1,Ajmer Division,Bhilwara,2500000.0,25.0,20,10,0.0,False,0.0
+2026_UITBH_605747_1,NIT 605747_1,Ajmer Division,Bhilwara,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITBH_605747_3,NIT 605747_3,Ajmer Division,Bhilwara,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITBH_605747_4,NIT 605747_4,Ajmer Division,Bhilwara,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITBH_605747_5,NIT 605747_5,Ajmer Division,Bhilwara,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITBH_605747_7,NIT 605747_7,Ajmer Division,Bhilwara,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITBH_605747_2,NIT 605747_2,Ajmer Division,Bhilwara,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITBH_605747_6,NIT 605747_6,Ajmer Division,Bhilwara,2500000.0,25.0,14,10,0.0,False,0.0
+2026_UITBH_605555_1,NIT 605555_1,Ajmer Division,Bhilwara,2500000.0,25.0,31,10,0.0,False,0.0
+2026_UITBH_605361_3,NIT 605361_3,Ajmer Division,Bhilwara,2500000.0,25.0,21,10,0.0,False,0.0
+2026_UITBH_605361_2,NIT 605361_2,Ajmer Division,Bhilwara,2500000.0,25.0,21,10,0.0,False,0.0

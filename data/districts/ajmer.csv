@@ -1,32 +1,32 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-SHPP-2000000,Services/2026-27/0070/088,"Board of Revenue, Ajmer",Ajmer,2000000.0,20.0,9,10,1,True,30.6
+SHPP-2000000,Services/2026-27/0070/088,"Board of Revenue, Ajmer",Ajmer,2000000.0,20.0,9,10,1.0,True,30.6
 SHPP-2325500,Goods/2026-27/0077/015,"College Education Department, Jaipur",Ajmer,2325500.0,23.255,14,10,0.0,False,0.0
 SHPP-637200,Goods/2026-27/0029/086,"Registration and Stamps Department, Ajmer",Ajmer,637200.0,6.372,12,7,0.0,False,0.0
 SHPP-1000000,Goods/2026-27/0089/058,"Medical and Health Services, Jaipur",Ajmer,1000000.0,10.0,8,7,0.0,False,0.0
 SHPP-350000,Goods/2026-27/0003/082,"Rajasthan Public Service Commission, Ajmer",Ajmer,350000.0,3.5,12,7,0.0,False,0.0
 SHPP-299999,Goods/2026-27/0002/082,"Rajasthan Public Service Commission, Ajmer",Ajmer,299999.0,3.0,12,7,0.0,False,0.0
 SHPP-1350700,Services/2026-27/0004/007,"Ayurved Department, Ajmer",Ajmer,1350700.0,13.507,21,10,0.0,False,0.0
-SHPP-7000000,Services/2026-27/0065/088,"Board of Revenue, Ajmer",Ajmer,7000000.0,70.0,13,15,2,True,34.9
+SHPP-7000000,Services/2026-27/0065/088,"Board of Revenue, Ajmer",Ajmer,7000000.0,70.0,13,15,2.0,True,34.9
 SHPP-17765000.00,PWD2627WSOB15545,CE Public Works Department,Ajmer,17765000.0,177.65,20,15,0.0,False,0.0
-SHPP-21318000.00,PWD2627WSOB15544,CE Public Works Department,Ajmer,21318000.0,213.18,20,30,10,True,50.7
+SHPP-21318000.00,PWD2627WSOB15544,CE Public Works Department,Ajmer,21318000.0,213.18,20,30,10.0,True,50.7
 SHPP-112957000.00,DLB2627WLOB24203,Directorate Local Bodies,Ajmer,112957000.0,1129.57,30,30,0.0,False,0.0
 SHPP-1088000.00,RDP2627WSOB00076,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Ajmer,1088000.0,10.88,10,10,0.0,False,0.0
 SHPP-2075000.00,AGM2627WSOB00980,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,2075000.0,20.75,10,10,0.0,False,0.0
-SHPP-17776000.00,AGM2627WSOB00979,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,17776000.0,177.76,10,15,5,True,50.4
+SHPP-17776000.00,AGM2627WSOB00979,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,17776000.0,177.76,10,15,5.0,True,50.4
 SHPP-1376000.00,AGM2627WSOB00976,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,1376000.0,13.76,10,10,0.0,False,0.0
-SHPP-7551000.00,AGM2627WSOB00971,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,7551000.0,75.51,10,15,5,True,49.1
+SHPP-7551000.00,AGM2627WSOB00971,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,7551000.0,75.51,10,15,5.0,True,49.1
 SHPP-996000.00,AGM2627WSOB00970,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,996000.0,9.96,10,7,0.0,False,0.0
 SHPP-1004000.00,AGM2627WSOB00965,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,1004000.0,10.04,10,10,0.0,False,0.0
 SHPP-1973000.00,AGM2627WSOB00964,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,1973000.0,19.73,10,10,0.0,False,0.0
 SHPP-364000.00,AGM2627WSOB00963,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,364000.0,3.64,10,7,0.0,False,0.0
 SHPP-1529000.00,AGM2627WSOB00990,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,1529000.0,15.29,19,10,0.0,False,0.0
-SHPP-388411000.00,RRC2627SLOB00746,Rajasthan State Road Development and Construction Cooperation,Ajmer,388411000.0,3884.11,10,30,20,True,78.6
+SHPP-388411000.00,RRC2627SLOB00746,Rajasthan State Road Development and Construction Cooperation,Ajmer,388411000.0,3884.11,10,30,20.0,True,78.6
 SHPP-141600.00,VPN2627WSOB01596,Rajasthan Rajya Vidut Prasaran Nigam Limited,Ajmer,141600.0,1.416,14,7,0.0,False,0.0
 SHPP-7693000.00,AJD2627GLOB00174,Ajmer Development Authority Ajmer,Ajmer,7693000.0,76.93,21,15,0.0,False,0.0
 SHPP-1895000.00,RHB2627WSOB00216,Rajasthan Housing Board,Ajmer,1895000.0,18.95,13,10,0.0,False,0.0
 SHPP-3186000.00,RHB2627WSOB00215,Rajasthan Housing Board,Ajmer,3186000.0,31.86,13,10,0.0,False,0.0
 SHPP-1011000.00,DLB2627WSOB23989,Directorate Local Bodies,Ajmer,1011000.0,10.11,12,10,0.0,False,0.0
-SHPP-62650000.00,AJD2627WLOB00171,Ajmer Development Authority Ajmer,Ajmer,62650000.0,626.5,23,30,7,True,45.4
+SHPP-62650000.00,AJD2627WLOB00171,Ajmer Development Authority Ajmer,Ajmer,62650000.0,626.5,23,30,7.0,True,45.4
 SHPP-10361000.00,MHS2627WSOB04314,Medical and Health Services,Ajmer,10361000.0,103.61,17,15,0.0,False,0.0
 SHPP-718000.00,PWD2627WSOB15284,CE Public Works Department,Ajmer,718000.0,7.18,18,7,0.0,False,0.0
 SHPP-466000.00,PWD2627WSOB15283,CE Public Works Department,Ajmer,466000.0,4.66,18,7,0.0,False,0.0
@@ -51,10 +51,10 @@ SHPP-989000.00,PWD2627WSOB15287,CE Public Works Department,Ajmer,989000.0,9.89,1
 SHPP-2720000.00,PWD2627WSOB15278,CE Public Works Department,Ajmer,2720000.0,27.2,15,10,0.0,False,0.0
 SHPP-626000.00,PWD2627WSOB15286,CE Public Works Department,Ajmer,626000.0,6.26,18,7,0.0,False,0.0
 SHPP-548000.00,PWD2627WSOB15285,CE Public Works Department,Ajmer,548000.0,5.48,18,7,0.0,False,0.0
-SHPP-22500000.00,RDP2627SLOB00065,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Ajmer,22500000.0,225.0,27,30,3,True,34.4
-SHPP-114779000.00,RRC2627WLOB00728,Rajasthan State Road Development and Construction Cooperation,Ajmer,114779000.0,1147.79,20,30,10,True,53.3
-SHPP-81867000.00,AJD2627WLOB00165,Ajmer Development Authority Ajmer,Ajmer,81867000.0,818.67,21,30,9,True,50.5
-SHPP-35123000.00,AJD2627WSOB00166,Ajmer Development Authority Ajmer,Ajmer,35123000.0,351.23,21,30,9,True,49.1
+SHPP-22500000.00,RDP2627SLOB00065,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Ajmer,22500000.0,225.0,27,30,3.0,True,34.4
+SHPP-114779000.00,RRC2627WLOB00728,Rajasthan State Road Development and Construction Cooperation,Ajmer,114779000.0,1147.79,20,30,10.0,True,53.3
+SHPP-81867000.00,AJD2627WLOB00165,Ajmer Development Authority Ajmer,Ajmer,81867000.0,818.67,21,30,9.0,True,50.5
+SHPP-35123000.00,AJD2627WSOB00166,Ajmer Development Authority Ajmer,Ajmer,35123000.0,351.23,21,30,9.0,True,49.1
 SHPP-100000000.00,MCA2627SLRC00092,Jawahar Lal Nehru Medical College,Ajmer,100000000.0,1000.0,48,30,0.0,False,0.0
 SHPP-630000.00,AVV2627WSOB00268,Ajmer Vidyut Vitran Nigam Limited,Ajmer,630000.0,6.3,53,7,0.0,False,0.0
 SHPP-4650000.00,AVV2627WSOB00280,Ajmer Vidyut Vitran Nigam Limited,Ajmer,4650000.0,46.5,53,10,0.0,False,0.0
@@ -62,61 +62,61 @@ SHPP-1436300000.00,VPN2627WLOB01232,Rajasthan Rajya Vidut Prasaran Nigam Limited
 SHPP-106500.00,MCA2627SSLB00123,Jawahar Lal Nehru Medical College,Ajmer,106500.0,1.065,10,7,0.0,False,0.0
 SHPP-680000.00,MCA2627GSOB00114,Jawahar Lal Nehru Medical College,Ajmer,680000.0,6.8,13,7,0.0,False,0.0
 SHPP-358000.00,MCA2627GSOB00115,Jawahar Lal Nehru Medical College,Ajmer,358000.0,3.58,13,7,0.0,False,0.0
-SHPP-35000000.00,MCA2627GLRC00112,Jawahar Lal Nehru Medical College,Ajmer,35000000.0,350.0,22,30,8,True,46.8
-SHPP-144400,"Land Settlement Department, Jaipur","Land Settlement Department, Jaipur",Ajmer,144400.0,1.444,0,7,7,True,89.5
-SHPP-1239240,"Medical and Health Services, Jaipur","Medical and Health Services, Jaipur",Ajmer,1239240.0,12.3924,4,10,6,True,64.9
-SHPP-127200,"Board of Revenue, Ajmer","Board of Revenue, Ajmer",Ajmer,127200.0,1.272,3,7,4,True,59.3
-SHPP-24000,"Women's Engineering College, Ajmer","Women's Engineering College, Ajmer",Ajmer,24000.0,0.24,0,7,7,True,86.7
-SHPP-470850,Services/2026-27/0027/086,"Registration and Stamps Department, Ajmer",Ajmer,470850.0,4.7085,1,7,6,True,81.4
-SHPP-160000,Goods/2026-27/0063/088,"Board of Revenue, Ajmer",Ajmer,160000.0,1.6,6,7,1,True,29.7
-SHPP-331200,Goods/2026-27/0061/088,"Board of Revenue, Ajmer",Ajmer,331200.0,3.312,2,7,5,True,70.8
-SHPP-97700,Goods/2026-27/0058/088,"Board of Revenue, Ajmer",Ajmer,97700.0,0.977,3,7,4,True,58.9
+SHPP-35000000.00,MCA2627GLRC00112,Jawahar Lal Nehru Medical College,Ajmer,35000000.0,350.0,22,30,8.0,True,46.8
+SHPP-144400,"Land Settlement Department, Jaipur","Land Settlement Department, Jaipur",Ajmer,144400.0,1.444,0,7,7.0,True,89.5
+SHPP-1239240,"Medical and Health Services, Jaipur","Medical and Health Services, Jaipur",Ajmer,1239240.0,12.3924,4,10,6.0,True,64.9
+SHPP-127200,"Board of Revenue, Ajmer","Board of Revenue, Ajmer",Ajmer,127200.0,1.272,3,7,4.0,True,59.3
+SHPP-24000,"Women's Engineering College, Ajmer","Women's Engineering College, Ajmer",Ajmer,24000.0,0.24,0,7,7.0,True,86.7
+SHPP-470850,Services/2026-27/0027/086,"Registration and Stamps Department, Ajmer",Ajmer,470850.0,4.7085,1,7,6.0,True,81.4
+SHPP-160000,Goods/2026-27/0063/088,"Board of Revenue, Ajmer",Ajmer,160000.0,1.6,6,7,1.0,True,29.7
+SHPP-331200,Goods/2026-27/0061/088,"Board of Revenue, Ajmer",Ajmer,331200.0,3.312,2,7,5.0,True,70.8
+SHPP-97700,Goods/2026-27/0058/088,"Board of Revenue, Ajmer",Ajmer,97700.0,0.977,3,7,4.0,True,58.9
 SHPP-234500,Services/2026-27/0059/088,"Board of Revenue, Ajmer",Ajmer,234500.0,2.345,7,7,0.0,False,0.0
-SHPP-1500000,Goods/2026-27/0054/088,"Board of Revenue, Ajmer",Ajmer,1500000.0,15.0,9,10,1,True,30.2
-SHPP-5000,Goods/2026-27/0051/058,"Medical and Health Services, Jaipur",Ajmer,5000.0,0.05,3,7,4,True,54.2
-SHPP-45400,Goods/2026-27/0050/058,"Medical and Health Services, Jaipur",Ajmer,45400.0,0.454,3,7,4,True,57.7
-SHPP-34482,Goods/2026-27/0046/058,"Medical and Health Services, Jaipur",Ajmer,34482.0,0.3448,2,7,5,True,67.2
-SHPP-33000,Services/2026-27/0016/169,"Literacy and Continuing Education, Jaipur",Ajmer,33000.0,0.33,3,7,4,True,57.2
-SHPP-23500,Goods/2026-27/0037/058,"Medical and Health Services, Jaipur",Ajmer,23500.0,0.235,4,7,3,True,46.6
-SHPP-62000,Goods/2026-27/0036/058,"Medical and Health Services, Jaipur",Ajmer,62000.0,0.62,4,7,3,True,48.2
+SHPP-1500000,Goods/2026-27/0054/088,"Board of Revenue, Ajmer",Ajmer,1500000.0,15.0,9,10,1.0,True,30.2
+SHPP-5000,Goods/2026-27/0051/058,"Medical and Health Services, Jaipur",Ajmer,5000.0,0.05,3,7,4.0,True,54.2
+SHPP-45400,Goods/2026-27/0050/058,"Medical and Health Services, Jaipur",Ajmer,45400.0,0.454,3,7,4.0,True,57.7
+SHPP-34482,Goods/2026-27/0046/058,"Medical and Health Services, Jaipur",Ajmer,34482.0,0.3448,2,7,5.0,True,67.2
+SHPP-33000,Services/2026-27/0016/169,"Literacy and Continuing Education, Jaipur",Ajmer,33000.0,0.33,3,7,4.0,True,57.2
+SHPP-23500,Goods/2026-27/0037/058,"Medical and Health Services, Jaipur",Ajmer,23500.0,0.235,4,7,3.0,True,46.6
+SHPP-62000,Goods/2026-27/0036/058,"Medical and Health Services, Jaipur",Ajmer,62000.0,0.62,4,7,3.0,True,48.2
 SHPP-685100,Goods/2026-27/0035/058,"Medical and Health Services, Jaipur",Ajmer,685100.0,6.851,7,7,0.0,False,0.0
-SHPP-6500000,Services/2026-27/0029/058,"Medical and Health Services, Jaipur",Ajmer,6500000.0,65.0,10,15,5,True,48.8
-SHPP-39984,Goods/2026-27/0007/4164,"Women's Engineering College, Ajmer",Ajmer,39984.0,0.3998,3,7,4,True,57.5
-SHPP-130000,Services/2026-27/0015/086,"Registration and Stamps Department, Ajmer",Ajmer,130000.0,1.3,6,7,1,True,29.3
-SHPP-99900,Services/2026-27/0037/088,"Board of Revenue, Ajmer",Ajmer,99900.0,0.999,4,7,3,True,48.9
-SHPP-96900,Goods/2026-27/0032/088,"Board of Revenue, Ajmer",Ajmer,96900.0,0.969,3,7,4,True,58.9
-SHPP-375100,Services/2026-27/0009/086,"Registration and Stamps Department, Ajmer",Ajmer,375100.0,3.751,1,7,6,True,81.0
-SHPP-705600,Services/2026-27/0011/088,"Board of Revenue, Ajmer",Ajmer,705600.0,7.056,1,7,6,True,82.0
+SHPP-6500000,Services/2026-27/0029/058,"Medical and Health Services, Jaipur",Ajmer,6500000.0,65.0,10,15,5.0,True,48.8
+SHPP-39984,Goods/2026-27/0007/4164,"Women's Engineering College, Ajmer",Ajmer,39984.0,0.3998,3,7,4.0,True,57.5
+SHPP-130000,Services/2026-27/0015/086,"Registration and Stamps Department, Ajmer",Ajmer,130000.0,1.3,6,7,1.0,True,29.3
+SHPP-99900,Services/2026-27/0037/088,"Board of Revenue, Ajmer",Ajmer,99900.0,0.999,4,7,3.0,True,48.9
+SHPP-96900,Goods/2026-27/0032/088,"Board of Revenue, Ajmer",Ajmer,96900.0,0.969,3,7,4.0,True,58.9
+SHPP-375100,Services/2026-27/0009/086,"Registration and Stamps Department, Ajmer",Ajmer,375100.0,3.751,1,7,6.0,True,81.0
+SHPP-705600,Services/2026-27/0011/088,"Board of Revenue, Ajmer",Ajmer,705600.0,7.056,1,7,6.0,True,82.0
 SHPP-115800.00,MCA2627GSSS00120,Jawahar Lal Nehru Medical College,Ajmer,115800.0,1.158,7,7,0.0,False,0.0
 SHPP-250776.00,MCA2627GSSS00118,Jawahar Lal Nehru Medical College,Ajmer,250776.0,2.5078,7,7,0.0,False,0.0
-SHPP-7083000.00,AJD2627WSOB00172,Ajmer Development Authority Ajmer,Ajmer,7083000.0,70.83,10,15,5,True,49.0
+SHPP-7083000.00,AJD2627WSOB00172,Ajmer Development Authority Ajmer,Ajmer,7083000.0,70.83,10,15,5.0,True,49.0
 SHPP-40719842.00,VPN2627SLOB01569,Rajasthan Rajya Vidut Prasaran Nigam Limited,Ajmer,40719842.0,407.1984,37,30,0.0,False,0.0
-EPROC-2026_CEPWD_605760_1,NIT No 27 of 2026-27 EE PWD Dn Kekri,PWD - CE AND AS||ACE - AJMER||SE-KEKRI||EE-KEKRI,Ajmer,21318000.0,213.18,18,30,12,True,55.4
+EPROC-2026_CEPWD_605760_1,NIT No 27 of 2026-27 EE PWD Dn Kekri,PWD - CE AND AS||ACE - AJMER||SE-KEKRI||EE-KEKRI,Ajmer,21318000.0,213.18,18,30,12.0,True,55.4
 EPROC-2026_CEPWD_605742_7,NIT No 28 of 2026-27 of EE PWD City DN Ajmer,PWD - CE AND AS||ACE - AJMER||SE-AJMER||EE-CITY-AJMER,Ajmer,626000.0,6.26,8,7,0.0,False,0.0
-EPROC-2026_CEPWD_605741_1,NIT No 27 of 2026-27 of EE PWD City DN Ajmer,PWD - CE AND AS||ACE - AJMER||SE-AJMER||EE-CITY-AJMER,Ajmer,1952000.0,19.52,5,10,5,True,58.6
+EPROC-2026_CEPWD_605741_1,NIT No 27 of 2026-27 of EE PWD City DN Ajmer,PWD - CE AND AS||ACE - AJMER||SE-AJMER||EE-CITY-AJMER,Ajmer,1952000.0,19.52,5,10,5.0,True,58.6
 EPROC-2026_CEPWD_605214_2,NIT NO 18 of 2026-27 EE PWD E-I Jaipur,PWD - CE AND AS||ACE - AJMER||SE-AJMER||EE-DIST-AJMER,Ajmer,441000.0,4.41,10,7,0.0,False,0.0
 EPROC-2026_DLB_605683_1,358,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,300000.0,3.0,8,7,0.0,False,0.0
 EPROC-2026_DLB_605592_1,1690,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,1000000.0,10.0,9,7,0.0,False,0.0
-EPROC-2026_DLB_605634_1,Nit_14/2026-27/Store,DLB||Dy.DR-Ajmer||EO-Kuchera,Ajmer,25000000.0,250.0,19,30,11,True,53.3
+EPROC-2026_DLB_605634_1,Nit_14/2026-27/Store,DLB||Dy.DR-Ajmer||EO-Kuchera,Ajmer,25000000.0,250.0,19,30,11.0,True,53.3
 EPROC-2026_DLB_605610_1,195/06-11-2026/Store,DLB||Dy.DR-Ajmer||Commissioner-Kishangarh,Ajmer,4000000.0,40.0,10,10,0.0,False,0.0
 EPROC-2026_DLB_605385_1,10/2026-27,DLB||Dy.DR-Ajmer||EO-Mundwa,Ajmer,2000000.0,20.0,17,10,0.0,False,0.0
-EPROC-2026_DLB_605219_1,e nit 18,DLB||Dy.DR-Ajmer||EO-TANTOTI,Ajmer,2484000.0,24.84,9,10,1,True,31.0
-EPROC-2026_DLB_605304_1,659,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,6955000.0,69.55,12,15,3,True,39.6
+EPROC-2026_DLB_605219_1,e nit 18,DLB||Dy.DR-Ajmer||EO-TANTOTI,Ajmer,2484000.0,24.84,9,10,1.0,True,31.0
+EPROC-2026_DLB_605304_1,659,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,6955000.0,69.55,12,15,3.0,True,39.6
 EPROC-2026_DLB_605395_1,22,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,250000.0,2.5,12,7,0.0,False,0.0
 EPROC-2026_DLB_605392_1,21,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,1000000.0,10.0,12,7,0.0,False,0.0
-EPROC-2026_DLB_605403_1,ENIT 12-2026-27 sr 2453 date 04-11-2026,DLB||Dy.DR-Jaipur||EO-Kishangarh Renwal,Ajmer,9964000.0,99.64,12,15,3,True,40.2
+EPROC-2026_DLB_605403_1,ENIT 12-2026-27 sr 2453 date 04-11-2026,DLB||Dy.DR-Jaipur||EO-Kishangarh Renwal,Ajmer,9964000.0,99.64,12,15,3.0,True,40.2
 EPROC-2026_DLB_605390_8,ENIT 11-2026-27 sr 2445 date 04-11-2026,DLB||Dy.DR-Jaipur||EO-Kishangarh Renwal,Ajmer,1000000.0,10.0,12,7,0.0,False,0.0
 EPROC-2026_DLB_605315_3,ENIT 10-2026-27 sr 2432 date 03-11-2026,DLB||Dy.DR-Jaipur||EO-Kishangarh Renwal,Ajmer,1011000.0,10.11,10,10,0.0,False,0.0
 EPROC-2026_DLB_605261_1,4,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,800000.0,8.0,9,7,0.0,False,0.0
 EPROC-2026_DLB_605271_1,NIT-12/2026-27/15039 MCB-STORE,DLB||Dy.DR-Ajmer||Commissioner-Bhilwara,Ajmer,6247917.0,62.4792,22,15,0.0,False,0.0
-EPROC-2026_DLB_605263_1,16/2026-2027/Vikas,DLB||Dy.DR-Ajmer||Commissioner-Kishangarh,Ajmer,10000000.0,100.0,10,15,5,True,49.5
-EPROC-2026_DLB_605265_1,04/2026-2027/Light,DLB||Dy.DR-Ajmer||Commissioner-Kishangarh,Ajmer,3537000.0,35.37,9,10,1,True,31.5
+EPROC-2026_DLB_605263_1,16/2026-2027/Vikas,DLB||Dy.DR-Ajmer||Commissioner-Kishangarh,Ajmer,10000000.0,100.0,10,15,5.0,True,49.5
+EPROC-2026_DLB_605265_1,04/2026-2027/Light,DLB||Dy.DR-Ajmer||Commissioner-Kishangarh,Ajmer,3537000.0,35.37,9,10,1.0,True,31.5
 EPROC-2026_DLB_605050_1,Nit-10/2026-27_Mundwa,DLB||Dy.DR-Ajmer||EO-Mundwa,Ajmer,1500000.0,15.0,10,10,0.0,False,0.0
-EPROC-2026_DLB_605183_1,1651,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,58911000.0,589.11,19,30,11,True,54.6
+EPROC-2026_DLB_605183_1,1651,DLB||Dy.DR-Ajmer||CEO-Ajmer,Ajmer,58911000.0,589.11,19,30,11.0,True,54.6
 EPROC-2026_DLB_605055_1,3306 dt. 29.10.2026,DLB||Dy.DR-Ajmer||EO-Parbatsar,Ajmer,2500000.0,25.0,19,10,0.0,False,0.0
 EPROC-2026_DLB_605057_1,3307 dt. 29.10.2026,DLB||Dy.DR-Ajmer||EO-Parbatsar,Ajmer,1000000.0,10.0,19,7,0.0,False,0.0
 EPROC-2026_DLB_604940_12,NIT-10/2026-27/5302-BIJAINAGAR,DLB||Dy.DR-Ajmer||EO-Vijaynagar,Ajmer,2499000.0,24.99,14,10,0.0,False,0.0
-EPROC-2026_DLB_605015_1,NIT-16/2026-27/14546-MCB LIGHT,DLB||Dy.DR-Ajmer||Commissioner-Bhilwara,Ajmer,6000000.0,60.0,14,15,1,True,30.0
+EPROC-2026_DLB_605015_1,NIT-16/2026-27/14546-MCB LIGHT,DLB||Dy.DR-Ajmer||Commissioner-Bhilwara,Ajmer,6000000.0,60.0,14,15,1.0,True,30.0
 EPROC-2026_DLB_604983_1,3284 dt. 28.10.2026,DLB||Dy.DR-Ajmer||EO-Parbatsar,Ajmer,4841000.0,48.41,19,10,0.0,False,0.0
 EPROC-2026_DLB_604754_1,NIT-20/2026-27 MCB BHILWARA CIVIL,DLB||Dy.DR-Ajmer||Commissioner-Bhilwara,Ajmer,68961000.0,689.61,30,30,0.0,False,0.0
 EPROC-2026_DLB_604738_1,NIT-19/2026-27 MCB BHILWARA CIVIL,DLB||Dy.DR-Ajmer||Commissioner-Bhilwara,Ajmer,2000000.0,20.0,23,10,0.0,False,0.0
@@ -128,8 +128,8 @@ EPROC-2026_RSAMB_605651_3,RSAMB/Alwar/NIT-13/2026-27,RSAMB||ACE - Zone I||S.E. -
 EPROC-2026_PHCJA_605578_1,NIT NO.27/2026-27 SE PHED CIRCLE BHILWARA,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Ajmer||SE Cr.Bhilwara",Ajmer,15000000.0,150.0,17,15,0.0,False,0.0
 EPROC-2026_PHCJA_605120_1,NIT NO 56/2026-27,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Ajmer||SE Cr.Bhilwara||EE, Dn Bhilwara",Ajmer,7500000.0,75.0,19,15,0.0,False,0.0
 EPROC-2026_PHCJA_605102_2,33-35/26-27 City Div Bhilwra,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Ajmer||SE Cr.Bhilwara||EE, Dn Bhilwara",Ajmer,1700000.0,17.0,19,10,0.0,False,0.0
-EPROC-2026_RSRDC_605543_1,NIT No. 458/2026-27 dated 05.11.2026 Sl No 1,RSRDCC-GM,Ajmer,388411000.0,3884.11,10,30,20,True,78.6
-EPROC-2026_RSRDC_604897_1,NIT No. 444/2026-27 dated 26.10.2026,RSRDCC-GM,Ajmer,114779000.0,1147.79,20,30,10,True,53.3
+EPROC-2026_RSRDC_605543_1,NIT No. 458/2026-27 dated 05.11.2026 Sl No 1,RSRDCC-GM,Ajmer,388411000.0,3884.11,10,30,20.0,True,78.6
+EPROC-2026_RSRDC_604897_1,NIT No. 444/2026-27 dated 26.10.2026,RSRDCC-GM,Ajmer,114779000.0,1147.79,20,30,10.0,True,53.3
 EPROC-2026_RRVPN_603216_1,RVPN_SE_TNC_AJM_BID_1110002617,RRVPN - CMD||CE(T and C) Ajmer||SE(T and C) Ajmer,Ajmer,40719842.0,407.1984,37,30,0.0,False,0.0
 EPROC-2026_RRVPN_590159_1,RVPN/EHV/ASP/TN-167,RRVPN - CMD||CE (PPD) Jaipur||SE (Automation NM and Special Projects) Jaipur,Ajmer,1436300000.0,14363.0,91,30,0.0,False,0.0
 EPROC-2026_AVVNL_603312_11,NIT09 UDR,Ajmer VVNL - MD||CE-COMMERCIAL||SE-CIVIL AJMER||XEN,Ajmer,630000.0,6.3,25,7,0.0,False,0.0
@@ -138,25 +138,25 @@ EPROC-2026_AVVNL_601482_1,AVV2627WSOB00293,Ajmer VVNL - MD||CE-COMMERCIAL||SE-CI
 EPROC-2026_AVVNL_601765_1,AVV2627WSOB00270,Ajmer VVNL - MD||CE-COMMERCIAL||SE-CIVIL AJMER||XEN,Ajmer,200000.0,2.0,49,7,0.0,False,0.0
 EPROC-2026_AVVNL_597776_1,TN-2153,Ajmer VVNL - MD||CE (MM and O and M),Ajmer,75000000.0,750.0,77,30,0.0,False,0.0
 EPROC-2026_AVVNL_580086_1,TN-2149,Ajmer VVNL - MD||CE (MM and O and M),Ajmer,120000000.0,1200.0,108,30,0.0,False,0.0
-EPROC-2026_ADA_605740_1,NIT 34/2026-27 (10),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,200000.0,2.0,6,7,1,True,30.0
-EPROC-2026_ADA_605739_1,NIT 34/2026-27 (9),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,100000.0,1.0,6,7,1,True,28.9
-EPROC-2026_ADA_605737_1,NIT 34/2026-27 (8),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,200000.0,2.0,6,7,1,True,30.0
-EPROC-2026_ADA_605735_1,NIT 34/2026-27 (7),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,200000.0,2.0,6,7,1,True,30.0
-EPROC-2026_ADA_605733_1,NIT 34/2026-27 (6),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,300000.0,3.0,6,7,1,True,30.6
-EPROC-2026_ADA_605731_1,NIT 34/2026-27 (5),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,500000.0,5.0,6,7,1,True,31.5
-EPROC-2026_ADA_605728_1,NIT 34/2026-27 (3),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,1600000.0,16.0,6,10,4,True,51.3
-EPROC-2026_ADA_605726_1,NIT 34/2026-27 (1),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,25000000.0,250.0,9,30,21,True,76.6
-EPROC-2026_ADA_605384_1,NIT 33/2026-27(1),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,62650000.0,626.5,21,30,9,True,50.0
+EPROC-2026_ADA_605740_1,NIT 34/2026-27 (10),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,200000.0,2.0,6,7,1.0,True,30.0
+EPROC-2026_ADA_605739_1,NIT 34/2026-27 (9),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,100000.0,1.0,6,7,1.0,True,28.9
+EPROC-2026_ADA_605737_1,NIT 34/2026-27 (8),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,200000.0,2.0,6,7,1.0,True,30.0
+EPROC-2026_ADA_605735_1,NIT 34/2026-27 (7),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,200000.0,2.0,6,7,1.0,True,30.0
+EPROC-2026_ADA_605733_1,NIT 34/2026-27 (6),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,300000.0,3.0,6,7,1.0,True,30.6
+EPROC-2026_ADA_605731_1,NIT 34/2026-27 (5),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,500000.0,5.0,6,7,1.0,True,31.5
+EPROC-2026_ADA_605728_1,NIT 34/2026-27 (3),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,1600000.0,16.0,6,10,4.0,True,51.3
+EPROC-2026_ADA_605726_1,NIT 34/2026-27 (1),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,25000000.0,250.0,9,30,21.0,True,76.6
+EPROC-2026_ADA_605384_1,NIT 33/2026-27(1),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,62650000.0,626.5,21,30,9.0,True,50.0
 EPROC-2026_ADA_605370_1,NIT 13/2026-27 (store),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,7693000.0,76.93,21,15,0.0,False,0.0
-EPROC-2026_ADA_605267_1,NIT 32/2026-27(2),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,7083000.0,70.83,9,15,6,True,53.6
-EPROC-2026_ADA_604835_1,NIT 31/2026-27(2),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,35123000.0,351.23,20,30,10,True,51.5
-EPROC-2026_ADA_604833_1,NIT 31/2026-27(1),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,81867000.0,818.67,20,30,10,True,52.8
+EPROC-2026_ADA_605267_1,NIT 32/2026-27(2),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,7083000.0,70.83,9,15,6.0,True,53.6
+EPROC-2026_ADA_604835_1,NIT 31/2026-27(2),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,35123000.0,351.23,20,30,10.0,True,51.5
+EPROC-2026_ADA_604833_1,NIT 31/2026-27(1),AJMER DEVELOPMENT AUTHORITY||SECRETARY,Ajmer,81867000.0,818.67,20,30,10.0,True,52.8
 EPROC-2026_JLNMC_605599_1,7925_Surgical_061126,"J.L.N. Medical College, Ajmer||Principal and Controller||Superintendent",Ajmer,20000000.0,200.0,31,15,0.0,False,0.0
 EPROC-2026_JLNMC_605387_1,X-Ray Equipmetns 2688 dated 03-11-2026,"J.L.N. Medical College, Ajmer||Principal and Controller||Superintendent",Ajmer,1100000.0,11.0,11,10,0.0,False,0.0
 EPROC-2026_JLNMC_605311_1,13_1_Monocular_2026,"J.L.N. Medical College, Ajmer||Principal and Controller",Ajmer,680000.0,6.8,13,7,0.0,False,0.0
-EPROC-2026_JLNMC_605288_1,5734_Microscope_021126,"J.L.N. Medical College, Ajmer||Principal and Controller",Ajmer,55000000.0,550.0,24,30,6,True,42.8
+EPROC-2026_JLNMC_605288_1,5734_Microscope_021126,"J.L.N. Medical College, Ajmer||Principal and Controller",Ajmer,55000000.0,550.0,24,30,6.0,True,42.8
 EPROC-2026_JLNMC_605317_1,13_2_CCTV_2026,"J.L.N. Medical College, Ajmer||Principal and Controller",Ajmer,358000.0,3.58,13,7,0.0,False,0.0
-EPROC-2026_JLNMC_605182_1,1180_Ortho_311026,"J.L.N. Medical College, Ajmer||Principal and Controller||Superintendent",Ajmer,35000000.0,350.0,23,30,7,True,44.5
+EPROC-2026_JLNMC_605182_1,1180_Ortho_311026,"J.L.N. Medical College, Ajmer||Principal and Controller||Superintendent",Ajmer,35000000.0,350.0,23,30,7.0,True,44.5
 EPROC-2026_JLNMC_601734_1,5107_MAARGHS_29092026,"J.L.N. Medical College, Ajmer||Principal and Controller",Ajmer,50000000.0,500.0,48,30,0.0,False,0.0
 EPROC-2026_JLNMC_589731_1,4283_1_HighEndEcho_130826,"J.L.N. Medical College, Ajmer||Principal and Controller",Ajmer,9000000.0,90.0,85,15,0.0,False,0.0
 EPROC-2026_JLNMC_589766_1,4283_2_2D_ECHO_130826,"J.L.N. Medical College, Ajmer||Principal and Controller",Ajmer,3500000.0,35.0,85,10,0.0,False,0.0
@@ -165,7 +165,7 @@ EPROC-2026_PHCJ_538133_1,NIT No.03/2025-26 of ACE(P) PHED Region Ajmer,"PHED-Chi
 GEM/2026/B/8136989,GEM/2026/B/8136989,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,27,7,0.0,False,0.0
 GEM/2026/B/8118286,GEM/2026/B/8118286,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7842349,GEM/2026/B/7842349,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,107,7,0.0,False,0.0
-GEM/2026/B/8234392,GEM/2026/B/8234392,Ministry of Defence - Department of Defence,Ajmer,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/8234392,GEM/2026/B/8234392,Ministry of Defence - Department of Defence,Ajmer,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7842298,GEM/2026/B/7842298,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,97,7,0.0,False,0.0
 GEM/2026/B/8129230,GEM/2026/B/8129230,"Ministry of Labour and Employment - Labour Welfare Organisation, O/o Welfare And Cess Commissioner",Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7823851,GEM/2026/B/7823851,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,98,7,0.0,False,0.0
@@ -193,7 +193,7 @@ GEM/2026/B/8077055,GEM/2026/B/8077055,Ministry of Defence - Department of Milita
 GEM/2026/B/8030240,GEM/2026/B/8030240,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7932585,GEM/2026/B/7932585,Ministry of Mines - NA,Ajmer,0.0,0.0,41,7,0.0,False,0.0
 GEM/2026/B/8007699,GEM/2026/B/8007699,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,24,7,0.0,False,0.0
-GEM/2026/B/8083580,GEM/2026/B/8083580,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/8083580,GEM/2026/B/8083580,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/8030998,GEM/2026/B/8030998,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,17,7,0.0,False,0.0
 GEM/2026/B/8050298,GEM/2026/B/8050298,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/8041381,GEM/2026/B/8041381,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,10,7,0.0,False,0.0
@@ -212,12 +212,12 @@ GEM/2026/B/7942204,GEM/2026/B/7942204,Ministry of Petroleum and Natural Gas - GA
 GEM/2026/B/7944672,GEM/2026/B/7944672,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,17,7,0.0,False,0.0
 GEM/2026/B/7906836,GEM/2026/B/7906836,Ministry of Mines - NA,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7949347,GEM/2026/B/7949347,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/726262,GEM/2026/R/726262,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/726262,GEM/2026/R/726262,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7888690,GEM/2026/B/7888690,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7922096,GEM/2026/B/7922096,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7928982,GEM/2026/B/7928982,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7813813,GEM/2026/B/7813813,Technical Education Department Rajasthan,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/720298,GEM/2026/R/720298,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/720298,GEM/2026/R/720298,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7886327,GEM/2026/B/7886327,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7881615,GEM/2026/B/7881615,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7874093,GEM/2026/B/7874093,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,16,7,0.0,False,0.0
@@ -240,7 +240,7 @@ GEM/2026/B/7880871,GEM/2026/B/7880871,LSG (Local Self Government) Rajasthan,Ajme
 GEM/2026/B/7881506,GEM/2026/B/7881506,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7880696,GEM/2026/B/7880696,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/7880345,GEM/2026/B/7880345,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7865565,GEM/2026/B/7865565,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7865565,GEM/2026/B/7865565,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7873148,GEM/2026/B/7873148,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7875542,GEM/2026/B/7875542,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7860814,GEM/2026/B/7860814,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,10,7,0.0,False,0.0
@@ -326,7 +326,7 @@ GEM/2026/B/7640052,GEM/2026/B/7640052,LSG (Local Self Government) Rajasthan,Ajme
 GEM/2026/B/7626356,GEM/2026/B/7626356,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7663493,GEM/2026/B/7663493,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7622263,GEM/2026/B/7622263,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/686195,GEM/2026/R/686195,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/686195,GEM/2026/R/686195,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/7662774,GEM/2026/B/7662774,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7605394,GEM/2026/B/7605394,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7646535,GEM/2026/B/7646535,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,10,7,0.0,False,0.0
@@ -340,7 +340,7 @@ GEM/2026/B/7622025,GEM/2026/B/7622025,LSG (Local Self Government) Rajasthan,Ajme
 GEM/2026/B/7575734,GEM/2026/B/7575734,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,27,7,0.0,False,0.0
 GEM/2025/B/7014668,GEM/2025/B/7014668,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,22,7,0.0,False,0.0
 GEM/2026/B/7483067,GEM/2026/B/7483067,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7636151,GEM/2026/B/7636151,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7636151,GEM/2026/B/7636151,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7623376,GEM/2026/B/7623376,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7620699,GEM/2026/B/7620699,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7620645,GEM/2026/B/7620645,LSG (Local Self Government) Rajasthan,Ajmer,0.0,0.0,11,7,0.0,False,0.0
@@ -392,7 +392,7 @@ GEM/2026/B/7474296,GEM/2026/B/7474296,LSG (Local Self Government) Rajasthan,Ajme
 GEM/2026/B/7440978,GEM/2026/B/7440978,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,18,7,0.0,False,0.0
 GEM/2026/B/7431844,GEM/2026/B/7431844,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7431112,GEM/2026/B/7431112,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7476456,GEM/2026/B/7476456,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7476456,GEM/2026/B/7476456,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7446886,GEM/2026/B/7446886,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7414346,GEM/2026/B/7414346,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7420434,GEM/2026/B/7420434,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,17,7,0.0,False,0.0
@@ -417,13 +417,13 @@ GEM/2026/B/7341042,GEM/2026/B/7341042,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/7356558,GEM/2026/B/7356558,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7313769,GEM/2026/B/7313769,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,8,7,0.0,False,0.0
 GEM/2026/B/7317234,GEM/2026/B/7317234,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6816062,GEM/2025/B/6816062,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6816062,GEM/2025/B/6816062,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7320859,GEM/2026/B/7320859,Ministry of Electronics and Information Technology - Department of Electronics and Information Technology,Ajmer,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7244315,GEM/2026/B/7244315,Technical Education Department Rajasthan,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7350823,GEM/2026/B/7350823,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,6,7,1,True,21.7
+GEM/2026/B/7350823,GEM/2026/B/7350823,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,6,7,1.0,True,21.7
 GEM/2025/B/6678206,GEM/2025/B/6678206,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7180489,GEM/2026/B/7180489,Technical Education Department Rajasthan,Ajmer,0.0,0.0,24,7,0.0,False,0.0
-GEM/2026/R/641234,GEM/2026/R/641234,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/641234,GEM/2026/R/641234,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7251330,GEM/2026/B/7251330,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7250584,GEM/2026/B/7250584,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7250962,GEM/2026/B/7250962,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
@@ -433,17 +433,17 @@ GEM/2026/B/7283576,GEM/2026/B/7283576,Forest Department Rajasthan,Ajmer,0.0,0.0,
 GEM/2026/B/7216852,GEM/2026/B/7216852,Ministry of Communications - Department of Telecommunications (DOT),Ajmer,0.0,0.0,23,7,0.0,False,0.0
 GEM/2026/B/7141774,GEM/2026/B/7141774,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,37,7,0.0,False,0.0
 GEM/2026/B/7193358,GEM/2026/B/7193358,Technical Education Department Rajasthan,Ajmer,0.0,0.0,28,7,0.0,False,0.0
-GEM/2025/B/6594603,GEM/2025/B/6594603,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
-GEM/2025/B/6594215,GEM/2025/B/6594215,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6594603,GEM/2025/B/6594603,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
+GEM/2025/B/6594215,GEM/2025/B/6594215,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7246098,GEM/2026/B/7246098,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/B/6589007,GEM/2025/B/6589007,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6589007,GEM/2025/B/6589007,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7166909,GEM/2026/B/7166909,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,25,7,0.0,False,0.0
 GEM/2026/B/7247393,GEM/2026/B/7247393,Forest Department Rajasthan,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7247278,GEM/2026/B/7247278,Forest Department Rajasthan,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7247118,GEM/2026/B/7247118,Forest Department Rajasthan,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7211592,GEM/2026/B/7211592,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,13,7,0.0,False,0.0
 GEM/2026/B/7194441,GEM/2026/B/7194441,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6550800,GEM/2025/B/6550800,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6550800,GEM/2025/B/6550800,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2026/B/7227894,GEM/2026/B/7227894,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7227570,GEM/2026/B/7227570,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2026/B/7221195,GEM/2026/B/7221195,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,12,7,0.0,False,0.0
@@ -458,7 +458,7 @@ GEM/2026/B/7167542,GEM/2026/B/7167542,Ministry of Petroleum and Natural Gas - Bh
 GEM/2026/B/7169629,GEM/2026/B/7169629,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7124203,GEM/2026/B/7124203,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7097682,GEM/2026/B/7097682,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,22,7,0.0,False,0.0
-GEM/2026/R/619453,GEM/2026/R/619453,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,3,7,4,True,51.7
+GEM/2026/R/619453,GEM/2026/R/619453,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7122030,GEM/2026/B/7122030,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7175682,GEM/2026/B/7175682,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,7,7,0.0,False,0.0
 GEM/2026/B/7175595,GEM/2026/B/7175595,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,7,7,0.0,False,0.0
@@ -487,7 +487,7 @@ GEM/2025/B/7018448,GEM/2025/B/7018448,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/7019941,GEM/2025/B/7019941,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/7039276,GEM/2025/B/7039276,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/7007894,GEM/2025/B/7007894,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/598855,GEM/2025/R/598855,Ministry of Defence - Department of Defence,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/598855,GEM/2025/R/598855,Ministry of Defence - Department of Defence,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6941522,GEM/2025/B/6941522,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,34,7,0.0,False,0.0
 GEM/2025/B/6941804,GEM/2025/B/6941804,Ministry of Environment Forest and Climate Change - NA,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6958925,GEM/2025/B/6958925,Medical Education Department Rajasthan,Ajmer,0.0,0.0,28,7,0.0,False,0.0
@@ -499,10 +499,10 @@ GEM/2025/B/6971252,GEM/2025/B/6971252,Ministry of Road Transports and highways -
 GEM/2025/B/6934004,GEM/2025/B/6934004,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6940941,GEM/2025/B/6940941,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6940854,GEM/2025/B/6940854,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6994500,GEM/2025/B/6994500,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6994500,GEM/2025/B/6994500,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6979128,GEM/2025/B/6979128,Ministry of Finance - Department of Revenue,Ajmer,0.0,0.0,7,7,0.0,False,0.0
 GEM/2025/B/6927349,GEM/2025/B/6927349,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/B/6990277,GEM/2025/B/6990277,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6990277,GEM/2025/B/6990277,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/6884884,GEM/2025/B/6884884,Labour Department Rajasthan,Ajmer,0.0,0.0,23,7,0.0,False,0.0
 GEM/2025/B/6955483,GEM/2025/B/6955483,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6946960,GEM/2025/B/6946960,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,12,7,0.0,False,0.0
@@ -522,7 +522,7 @@ GEM/2025/B/6829363,GEM/2025/B/6829363,Ministry of Minority Affairs - NA,Ajmer,0.
 GEM/2025/B/6861327,GEM/2025/B/6861327,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6859209,GEM/2025/B/6859209,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6823729,GEM/2025/B/6823729,Ministry of Communications - Department of Telecommunications (DOT),Ajmer,0.0,0.0,23,7,0.0,False,0.0
-GEM/2025/R/574761,GEM/2025/R/574761,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/574761,GEM/2025/R/574761,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6840831,GEM/2025/B/6840831,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6836469,GEM/2025/B/6836469,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6836024,GEM/2025/B/6836024,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,15,7,0.0,False,0.0
@@ -612,7 +612,7 @@ GEM/2025/B/6604404,GEM/2025/B/6604404,Ministry of Petroleum and Natural Gas - Bh
 GEM/2025/B/6567967,GEM/2025/B/6567967,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6629435,GEM/2025/B/6629435,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/6587431,GEM/2025/B/6587431,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/R/542199,GEM/2025/R/542199,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/542199,GEM/2025/R/542199,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6567578,GEM/2025/B/6567578,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,17,7,0.0,False,0.0
 GEM/2025/B/6574179,GEM/2025/B/6574179,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6490860,GEM/2025/B/6490860,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,10,7,0.0,False,0.0
@@ -622,7 +622,7 @@ GEM/2025/B/6535944,GEM/2025/B/6535944,Home Department Rajasthan,Ajmer,0.0,0.0,27
 GEM/2025/B/6582084,GEM/2025/B/6582084,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6547789,GEM/2025/B/6547789,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6538993,GEM/2025/B/6538993,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/533057,GEM/2025/R/533057,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/533057,GEM/2025/R/533057,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6524586,GEM/2025/B/6524586,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/6356703,GEM/2025/B/6356703,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Ajmer,0.0,0.0,64,7,0.0,False,0.0
 GEM/2025/B/6485606,GEM/2025/B/6485606,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,28,7,0.0,False,0.0
@@ -646,7 +646,7 @@ GEM/2025/B/6493773,GEM/2025/B/6493773,Ministry of Petroleum and Natural Gas - NA
 GEM/2025/B/6311693,GEM/2025/B/6311693,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6428517,GEM/2025/B/6428517,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/6393705,GEM/2025/B/6393705,Ministry of Home Affairs - Central Armed Police Forces,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/521400,GEM/2025/R/521400,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/521400,GEM/2025/R/521400,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6398676,GEM/2025/B/6398676,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6400593,GEM/2025/B/6400593,Ministry of Petroleum and Natural Gas - GAIL India Limited,Ajmer,0.0,0.0,27,7,0.0,False,0.0
 GEM/2025/B/6431593,GEM/2025/B/6431593,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,18,7,0.0,False,0.0
@@ -657,15 +657,15 @@ GEM/2025/B/6261185,GEM/2025/B/6261185,Ministry of Mines - NA,Ajmer,0.0,0.0,59,7,
 GEM/2025/B/6273652,GEM/2025/B/6273652,Ministry of Mines - NA,Ajmer,0.0,0.0,56,7,0.0,False,0.0
 GEM/2025/B/6268292,GEM/2025/B/6268292,Ministry of Mines - NA,Ajmer,0.0,0.0,54,7,0.0,False,0.0
 GEM/2025/B/6424637,GEM/2025/B/6424637,Forest Department Rajasthan,Ajmer,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/514888,GEM/2025/R/514888,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/514888,GEM/2025/R/514888,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6383084,GEM/2025/B/6383084,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,20,7,0.0,False,0.0
 GEM/2025/B/5862744,GEM/2025/B/5862744,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5862605,GEM/2025/B/5862605,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/514177,GEM/2025/R/514177,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/514177,GEM/2025/R/514177,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6361622,GEM/2025/B/6361622,Ministry of Electronics and Information Technology - Department of Electronics and Information Technology,Ajmer,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6287848,GEM/2025/B/6287848,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,29,7,0.0,False,0.0
 GEM/2025/B/6220106,GEM/2025/B/6220106,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,58,7,0.0,False,0.0
-GEM/2025/R/509409,GEM/2025/R/509409,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/509409,GEM/2025/R/509409,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6342750,GEM/2025/B/6342750,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6378864,GEM/2025/B/6378864,"Board of Secondary Education, Rajasthan",Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6316489,GEM/2025/B/6316489,Ministry of Petroleum and Natural Gas - GAIL India Limited,Ajmer,0.0,0.0,22,7,0.0,False,0.0
@@ -736,20 +736,20 @@ GEM/2025/B/6302262,GEM/2025/B/6302262,Ministry of Defence - Department of Milita
 GEM/2025/B/6302228,GEM/2025/B/6302228,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6301769,GEM/2025/B/6301769,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6338485,GEM/2025/B/6338485,Ministry of Labour and Employment - NA,Ajmer,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6350083,GEM/2025/B/6350083,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,4,7,3,True,41.7
-GEM/2025/R/500997,GEM/2025/R/500997,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/6350083,GEM/2025/B/6350083,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,4,7,3.0,True,41.7
+GEM/2025/R/500997,GEM/2025/R/500997,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6263919,GEM/2025/B/6263919,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,25,7,0.0,False,0.0
 GEM/2025/B/6280164,GEM/2025/B/6280164,Ministry of Electronics and Information Technology - Standardisation Testing and Quality Certification,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6303402,GEM/2025/B/6303402,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6301292,GEM/2025/B/6301292,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6252480,GEM/2025/B/6252480,Ministry of Defence - Department of Military Affairs,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/497849,GEM/2025/R/497849,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/497849,GEM/2025/R/497849,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6247804,GEM/2025/B/6247804,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6235886,GEM/2025/B/6235886,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Ajmer,0.0,0.0,18,7,0.0,False,0.0
 GEM/2025/B/5962340,GEM/2025/B/5962340,Ministry of Petroleum and Natural Gas - GAIL India Limited,Ajmer,0.0,0.0,101,7,0.0,False,0.0
 GEM/2025/B/6262963,GEM/2025/B/6262963,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6254240,GEM/2025/B/6254240,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/R/493788,GEM/2025/R/493788,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/493788,GEM/2025/R/493788,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6234438,GEM/2025/B/6234438,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/6198789,GEM/2025/B/6198789,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,25,7,0.0,False,0.0
 GEM/2025/B/6207640,GEM/2025/B/6207640,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
@@ -766,7 +766,7 @@ GEM/2026/B/8193272,GEM/2026/B/8193272,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/8016749,GEM/2026/B/8016749,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7993718,GEM/2026/B/7993718,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7788085,GEM/2026/B/7788085,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,30,7,0.0,False,0.0
-GEM/2026/B/7875027,GEM/2026/B/7875027,Ministry of Petroleum and Natural Gas - GAIL India Limited,Ajmer,0.0,0.0,4,7,3,True,41.7
+GEM/2026/B/7875027,GEM/2026/B/7875027,Ministry of Petroleum and Natural Gas - GAIL India Limited,Ajmer,0.0,0.0,4,7,3.0,True,41.7
 GEM/2026/B/7803330,GEM/2026/B/7803330,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7764691,GEM/2026/B/7764691,Ministry of Petroleum and Natural Gas - GAIL India Limited,Ajmer,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7769333,GEM/2026/B/7769333,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
@@ -792,15 +792,15 @@ GEM/2025/B/6397659,GEM/2025/B/6397659,Ministry of Civil Aviation - Airports Auth
 GEM/2025/B/6409704,GEM/2025/B/6409704,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6343080,GEM/2025/B/6343080,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6296217,GEM/2025/B/6296217,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/R/490077,GEM/2025/R/490077,Ministry of Defence - Department of Defence,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/490077,GEM/2025/R/490077,Ministry of Defence - Department of Defence,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6179506,GEM/2025/B/6179506,Ministry of Finance - Department of Revenue,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6188595,GEM/2025/B/6188595,Ministry of Defence - Department of Defence,Ajmer,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/B/6196688,GEM/2025/B/6196688,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6196688,GEM/2025/B/6196688,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6097391,GEM/2025/B/6097391,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,38,7,0.0,False,0.0
 GEM/2025/B/6136124,GEM/2025/B/6136124,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6127458,GEM/2025/B/6127458,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6123488,GEM/2025/B/6123488,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6156991,GEM/2025/B/6156991,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/6156991,GEM/2025/B/6156991,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,4,7,3.0,True,41.7
 GEM/2025/B/5999735,GEM/2025/B/5999735,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/5999591,GEM/2025/B/5999591,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,13,7,0.0,False,0.0
 GEM/2025/B/5999711,GEM/2025/B/5999711,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,13,7,0.0,False,0.0
@@ -818,16 +818,16 @@ GEM/2025/B/6041944,GEM/2025/B/6041944,Ministry of Railways - Indian Railways,Ajm
 GEM/2025/B/6033857,GEM/2025/B/6033857,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5966773,GEM/2025/B/5966773,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,28,7,0.0,False,0.0
 GEM/2025/B/5972389,GEM/2025/B/5972389,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,25,7,0.0,False,0.0
-GEM/2025/B/6033378,GEM/2025/B/6033378,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6033378,GEM/2025/B/6033378,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/5936642,GEM/2025/B/5936642,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5933021,GEM/2025/B/5933021,Ministry of Communications - Department of Posts,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5889448,GEM/2025/B/5889448,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,32,7,0.0,False,0.0
 GEM/2025/B/5926901,GEM/2025/B/5926901,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/5991843,GEM/2025/B/5991843,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/5991843,GEM/2025/B/5991843,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,5,7,2.0,True,31.7
 GEM/2025/B/5935732,GEM/2025/B/5935732,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/5877899,GEM/2025/B/5877899,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,28,7,0.0,False,0.0
 GEM/2025/B/5873768,GEM/2025/B/5873768,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/R/451018,GEM/2025/R/451018,Ministry of Communications - Department of Telecommunications (DOT),Ajmer,0.0,0.0,3,7,4,True,51.7
+GEM/2025/R/451018,GEM/2025/R/451018,Ministry of Communications - Department of Telecommunications (DOT),Ajmer,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/5856488,GEM/2025/B/5856488,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/5854254,GEM/2025/B/5854254,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/5878243,GEM/2025/B/5878243,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,10,7,0.0,False,0.0
@@ -837,15 +837,15 @@ GEM/2025/B/5865222,GEM/2025/B/5865222,Ministry of Mines - NA,Ajmer,0.0,0.0,10,7,
 GEM/2025/B/5814249,GEM/2025/B/5814249,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/5793269,GEM/2025/B/5793269,Ministry of Petroleum and Natural Gas - GAIL India Limited,Ajmer,0.0,0.0,22,7,0.0,False,0.0
 GEM/2025/B/5797679,GEM/2025/B/5797679,Ministry of Railways - Indian Railways,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/439859,GEM/2025/R/439859,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/439859,GEM/2025/R/439859,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,2,7,5.0,True,61.7
 GEM/2025/B/5775500,GEM/2025/B/5775500,Ministry of Finance - Department of Financial Services,Ajmer,0.0,0.0,15,7,0.0,False,0.0
 GEM/2025/B/5774838,GEM/2025/B/5774838,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2026/B/7251833,GEM/2026/B/7251833,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/7019393,GEM/2025/B/7019393,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/489267,GEM/2025/R/489267,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/459461,GEM/2025/R/459461,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/483018,GEM/2025/R/483018,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,2,7,5,True,61.7
-GEM/2025/R/441737,GEM/2025/R/441737,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/489267,GEM/2025/R/489267,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/459461,GEM/2025/R/459461,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/483018,GEM/2025/R/483018,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,2,7,5.0,True,61.7
+GEM/2025/R/441737,GEM/2025/R/441737,Ministry of Petroleum and Natural Gas - NA,Ajmer,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/6034118,GEM/2025/B/6034118,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6033556,GEM/2025/B/6033556,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7824574,GEM/2026/B/7824574,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Ajmer,0.0,0.0,111,7,0.0,False,0.0
@@ -916,3 +916,108 @@ GEM/2025/B/5890012,GEM/2025/B/5890012,Ministry of Civil Aviation - Airports Auth
 GEM/2025/B/6040203,GEM/2025/B/6040203,Ministry of Education - Department of School Education and Literacy,Ajmer,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6358952,GEM/2025/B/6358952,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7093118,GEM/2026/B/7093118,Ministry of Civil Aviation - Airports Authority of India (AAI),Ajmer,0.0,0.0,10,7,0.0,False,0.0
+2026_ADA_605777_1,NIT 605777_1,Ajmer Division,Ajmer,2500000.0,25.0,4,10,6.0,True,66.0
+2026_ADA_605769_1,NIT 605769_1,Ajmer Division,Ajmer,2500000.0,25.0,4,10,6.0,True,66.0
+2026_ADA_605740_1,NIT 605740_1,Ajmer Division,Ajmer,2500000.0,25.0,5,10,5.0,True,59.0
+2026_ADA_605739_1,NIT 605739_1,Ajmer Division,Ajmer,2500000.0,25.0,5,10,5.0,True,59.0
+2026_ADA_605737_1,NIT 605737_1,Ajmer Division,Ajmer,2500000.0,25.0,5,10,5.0,True,59.0
+2026_ADA_605735_1,NIT 605735_1,Ajmer Division,Ajmer,2500000.0,25.0,5,10,5.0,True,59.0
+2026_ADA_605733_1,NIT 605733_1,Ajmer Division,Ajmer,2500000.0,25.0,5,10,5.0,True,59.0
+2026_ADA_605731_1,NIT 605731_1,Ajmer Division,Ajmer,2500000.0,25.0,5,10,5.0,True,59.0
+2026_ADA_605728_1,NIT 605728_1,Ajmer Division,Ajmer,2500000.0,25.0,6,10,4.0,True,52.0
+2026_ADA_605726_1,NIT 605726_1,Ajmer Division,Ajmer,2500000.0,25.0,9,10,1.0,True,31.0
+2026_ADA_605384_1,NIT 605384_1,Ajmer Division,Ajmer,2500000.0,25.0,21,10,0.0,False,0.0
+2026_ADA_605370_1,NIT 605370_1,Ajmer Division,Ajmer,2500000.0,25.0,21,10,0.0,False,0.0
+2026_ADA_604923_1,NIT 604923_1,Ajmer Division,Ajmer,2500000.0,25.0,19,10,0.0,False,0.0
+2026_ADA_604833_1,NIT 604833_1,Ajmer Division,Ajmer,2500000.0,25.0,20,10,0.0,False,0.0
+2026_ADA_604835_1,NIT 604835_1,Ajmer Division,Ajmer,2500000.0,25.0,20,10,0.0,False,0.0
+2026_AVVNL_603312_11,NIT 603312_11,Ajmer Division,Ajmer,2500000.0,25.0,25,10,0.0,False,0.0
+2026_AVVNL_603312_5,NIT 603312_5,Ajmer Division,Ajmer,2500000.0,25.0,40,10,0.0,False,0.0
+2026_AVVNL_603312_7,NIT 603312_7,Ajmer Division,Ajmer,2500000.0,25.0,40,10,0.0,False,0.0
+2026_AVVNL_603312_9,NIT 603312_9,Ajmer Division,Ajmer,2500000.0,25.0,40,10,0.0,False,0.0
+2026_AVVNL_603312_6,NIT 603312_6,Ajmer Division,Ajmer,2500000.0,25.0,40,10,0.0,False,0.0
+2026_AVVNL_603312_4,NIT 603312_4,Ajmer Division,Ajmer,2500000.0,25.0,40,10,0.0,False,0.0
+2026_AVVNL_603401_3,NIT 603401_3,Ajmer Division,Ajmer,2500000.0,25.0,40,10,0.0,False,0.0
+2026_AVVNL_602488_9,NIT 602488_9,Ajmer Division,Ajmer,2500000.0,25.0,40,10,0.0,False,0.0
+2026_AVVNL_602584_1,NIT 602584_1,Ajmer Division,Ajmer,2500000.0,25.0,46,10,0.0,False,0.0
+2026_AVVNL_602488_7,NIT 602488_7,Ajmer Division,Ajmer,2500000.0,25.0,46,10,0.0,False,0.0
+2026_AVVNL_602488_2,NIT 602488_2,Ajmer Division,Ajmer,2500000.0,25.0,46,10,0.0,False,0.0
+2026_AVVNL_602488_4,NIT 602488_4,Ajmer Division,Ajmer,2500000.0,25.0,46,10,0.0,False,0.0
+2026_AVVNL_602488_3,NIT 602488_3,Ajmer Division,Ajmer,2500000.0,25.0,46,10,0.0,False,0.0
+2026_AVVNL_602488_5,NIT 602488_5,Ajmer Division,Ajmer,2500000.0,25.0,46,10,0.0,False,0.0
+2026_AVVNL_602488_6,NIT 602488_6,Ajmer Division,Ajmer,2500000.0,25.0,46,10,0.0,False,0.0
+2026_AVVNL_602488_1,NIT 602488_1,Ajmer Division,Ajmer,2500000.0,25.0,46,10,0.0,False,0.0
+2026_AVVNL_602113_2,NIT 602113_2,Ajmer Division,Ajmer,2500000.0,25.0,47,10,0.0,False,0.0
+2026_AVVNL_602113_3,NIT 602113_3,Ajmer Division,Ajmer,2500000.0,25.0,47,10,0.0,False,0.0
+2026_AVVNL_602113_1,NIT 602113_1,Ajmer Division,Ajmer,2500000.0,25.0,47,10,0.0,False,0.0
+2026_AVVNL_601482_1,NIT 601482_1,Ajmer Division,Ajmer,2500000.0,25.0,48,10,0.0,False,0.0
+2026_AVVNL_601765_1,NIT 601765_1,Ajmer Division,Ajmer,2500000.0,25.0,48,10,0.0,False,0.0
+2026_AVVNL_597776_1,NIT 597776_1,Ajmer Division,Ajmer,2500000.0,25.0,76,10,0.0,False,0.0
+2026_AVVNL_592688_1,NIT 592688_1,Ajmer Division,Ajmer,2500000.0,25.0,91,10,0.0,False,0.0
+2026_AVVNL_592641_1,NIT 592641_1,Ajmer Division,Ajmer,2500000.0,25.0,91,10,0.0,False,0.0
+2026_AVVNL_592636_1,NIT 592636_1,Ajmer Division,Ajmer,2500000.0,25.0,91,10,0.0,False,0.0
+2026_AVVNL_587251_8,NIT 587251_8,Ajmer Division,Ajmer,2500000.0,25.0,98,10,0.0,False,0.0
+2026_AVVNL_580086_1,NIT 580086_1,Ajmer Division,Ajmer,2500000.0,25.0,108,10,0.0,False,0.0
+2026_BSER_605762_1,NIT 605762_1,Ajmer Division,Ajmer,2500000.0,25.0,13,10,0.0,False,0.0
+7925_Surgical_061126,NIT Surgical_061126,Ajmer Division,Ajmer,2500000.0,25.0,31,10,0.0,False,0.0
+2026_JLNMC_605387_1,NIT 605387_1,Ajmer Division,Ajmer,2500000.0,25.0,11,10,0.0,False,0.0
+5734_Microscope_021126,NIT Microscope_021126,Ajmer Division,Ajmer,2500000.0,25.0,24,10,0.0,False,0.0
+2026_JLNMC_605317_1,NIT 605317_1,Ajmer Division,Ajmer,2500000.0,25.0,13,10,0.0,False,0.0
+2026_JLNMC_605311_1,NIT 605311_1,Ajmer Division,Ajmer,2500000.0,25.0,13,10,0.0,False,0.0
+1180_Ortho_311026,NIT Ortho_311026,Ajmer Division,Ajmer,2500000.0,25.0,22,10,0.0,False,0.0
+5107_MAARGHS_29092026,NIT MAARGHS_29092026,Ajmer Division,Ajmer,2500000.0,25.0,48,10,0.0,False,0.0
+2026_JLNMC_590300_1,NIT 590300_1,Ajmer Division,Ajmer,2500000.0,25.0,91,10,0.0,False,0.0
+2026_CEPWD_605760_1,NIT 605760_1,Ajmer Division,Ajmer,2500000.0,25.0,18,10,0.0,False,0.0
+2026_CEPWD_605760_2,NIT 605760_2,Ajmer Division,Ajmer,2500000.0,25.0,18,10,0.0,False,0.0
+2026_CEPWD_605742_13,NIT 605742_13,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_12,NIT 605742_12,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_11,NIT 605742_11,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_10,NIT 605742_10,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_9,NIT 605742_9,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_17,NIT 605742_17,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_16,NIT 605742_16,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_15,NIT 605742_15,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_14,NIT 605742_14,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_1,NIT 605742_1,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605741_1,NIT 605741_1,Ajmer Division,Ajmer,2500000.0,25.0,5,10,5.0,True,59.0
+2026_CEPWD_605742_8,NIT 605742_8,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_2,NIT 605742_2,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_3,NIT 605742_3,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_4,NIT 605742_4,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_5,NIT 605742_5,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_6,NIT 605742_6,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_605742_7,NIT 605742_7,Ajmer Division,Ajmer,2500000.0,25.0,8,10,2.0,True,38.0
+2026_CEPWD_602911_6,NIT 602911_6,Ajmer Division,Ajmer,2500000.0,25.0,44,10,0.0,False,0.0
+2026_CEPWD_602911_4,NIT 602911_4,Ajmer Division,Ajmer,2500000.0,25.0,44,10,0.0,False,0.0
+2026_CEPWD_602911_5,NIT 602911_5,Ajmer Division,Ajmer,2500000.0,25.0,44,10,0.0,False,0.0
+2026_CEPWD_602911_3,NIT 602911_3,Ajmer Division,Ajmer,2500000.0,25.0,44,10,0.0,False,0.0
+2026_CEPWD_602911_1,NIT 602911_1,Ajmer Division,Ajmer,2500000.0,25.0,44,10,0.0,False,0.0
+2026_CEPWD_602911_2,NIT 602911_2,Ajmer Division,Ajmer,2500000.0,25.0,44,10,0.0,False,0.0
+2026_CEPWD_601643_2,NIT 601643_2,Ajmer Division,Ajmer,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_601643_5,NIT 601643_5,Ajmer Division,Ajmer,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_601643_3,NIT 601643_3,Ajmer Division,Ajmer,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_601643_1,NIT 601643_1,Ajmer Division,Ajmer,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_601643_4,NIT 601643_4,Ajmer Division,Ajmer,2500000.0,25.0,47,10,0.0,False,0.0
+2026_CEPWD_600466_1,NIT 600466_1,Ajmer Division,Ajmer,2500000.0,25.0,59,10,0.0,False,0.0
+2026_CEPWD_600177_1,NIT 600177_1,Ajmer Division,Ajmer,2500000.0,25.0,53,10,0.0,False,0.0
+2026_RRVPN_599691_1,NIT 599691_1,Ajmer Division,Ajmer,2500000.0,25.0,55,10,0.0,False,0.0
+2026_RSAMB_605551_8,NIT 605551_8,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_9,NIT 605551_9,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_1,NIT 605551_1,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_10,NIT 605551_10,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_2,NIT 605551_2,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_17,NIT 605551_17,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_3,NIT 605551_3,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_11,NIT 605551_11,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_4,NIT 605551_4,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_5,NIT 605551_5,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_12,NIT 605551_12,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_6,NIT 605551_6,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_18,NIT 605551_18,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_7,NIT 605551_7,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_13,NIT 605551_13,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_14,NIT 605551_14,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_19,NIT 605551_19,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_15,NIT 605551_15,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_20,NIT 605551_20,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0
+2026_RSAMB_605551_16,NIT 605551_16,Ajmer Division,Ajmer,2500000.0,25.0,10,10,0.0,False,0.0

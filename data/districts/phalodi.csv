@@ -1,48 +1,49 @@
 tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-SHPP-10348000.00,NRH2627WSOB00937,National Rural Health Mission,Phalodi,10348000.0,103.48,10,15,5,True,49.5
+SHPP-10348000.00,NRH2627WSOB00937,National Rural Health Mission,Phalodi,10348000.0,103.48,10,15,5.0,True,49.5
 SHPP-4800000.00,FOR2627WSRC03161,PCCF Forest Department,Phalodi,4800000.0,48.0,11,10,0.0,False,0.0
 SHPP-479082.00,RHB2627WSOB00214,Rajasthan Housing Board,Phalodi,479082.0,4.7908,12,7,0.0,False,0.0
-SHPP-145500,"Labour Department, Jaipur","Labour Department, Jaipur",Phalodi,145500.0,1.455,0,7,7,True,89.5
+SHPP-145500,"Labour Department, Jaipur","Labour Department, Jaipur",Phalodi,145500.0,1.455,0,7,7.0,True,89.5
 EPROC-2026_JdVVN_594257_3,NIT No 09/2026-2027 D-943 Date 13-08-2026,"Jodhpur VVNL - MD||CE (HQ)||SE(CIVIL)||TA to SE(CIVIL), JODHPUR",Phalodi,3800000.0,38.0,75,10,0.0,False,0.0
 EPROC-2026_PHCJO_605625_1,SE NIT NO. 3 / 2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Distt. Cr.Jodhpur||EE Distt Dn.Phalodi",Phalodi,15000000.0,150.0,17,15,0.0,False,0.0
 EPROC-2026_PHCJO_605617_1,SE NIT NO. 2/ 2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Distt. Cr.Jodhpur||EE Distt Dn.Phalodi",Phalodi,15000000.0,150.0,17,15,0.0,False,0.0
 EPROC-2026_PHCJO_605614_1,SE NIT NO. 1 / 2026-27,"PHED - C.E. (Project),Jodhpur||ACE Region ,Jodhpur||SE Distt. Cr.Jodhpur||EE Distt Dn.Phalodi",Phalodi,15000000.0,150.0,17,15,0.0,False,0.0
 EPROC-2026_RSAMB_605218_1,NIT-07/2026-27(17),RSAMB||ACE - Zone II||S.E. - Circle Jodhpur||Ex.En. - Jodhpur I,Phalodi,1366000.0,13.66,16,10,0.0,False,0.0
-EPROC-2026_MEDIC_605250_1,NIT No. 22/2026-27 EE M and H Dn. Jodhpur,Medical and Health||Chief Engineer,Phalodi,10348000.0,103.48,10,15,5,True,49.5
+EPROC-2026_MEDIC_605250_1,NIT No. 22/2026-27 EE M and H Dn. Jodhpur,Medical and Health||Chief Engineer,Phalodi,10348000.0,103.48,10,15,5.0,True,49.5
 EPROC-2026_FORES_605600_1,Nit No. 36/2026-27,Forest - PCCF (HoFF)||PCCF AND CWLW||CCF-Wild Life- BHARATPUR||DCF AND DFD-I-RTP-SWAIMADHOPUR,Phalodi,4800000.0,48.0,11,10,0.0,False,0.0
 HF-AOC-2026_IGNP_531560_5,E NIT 05 of 2025-26,"IGNPACE(B)BIKANERSE PCM, PHALODIXEN 24 DIV PHALODI",Phalodi,1476809.0,14.7681,20,10,0.0,False,0.0
 HF-AOC-2025_PRD_485582_1,GHATOR 10/25-26,Panchayati Raj DepartmentSecretary and CommissionerCEO-JODHPURBDO-BAPINI,Phalodi,6000000.0,60.0,34,15,0.0,False,0.0
 GEM/2026/B/7791364,GEM/2026/B/7791364,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Phalodi,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7346267,GEM/2026/B/7346267,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7346267,GEM/2026/B/7346267,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6793060,GEM/2025/B/6793060,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,11,7,0.0,False,0.0
 GEM/2025/B/6510683,GEM/2025/B/6510683,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Phalodi,0.0,0.0,7,7,0.0,False,0.0
 GEM/2026/B/8039299,GEM/2026/B/8039299,Ministry of Defence - Department of Defence Production,Phalodi,0.0,0.0,46,7,0.0,False,0.0
 GEM/2026/B/8134742,GEM/2026/B/8134742,Ministry of Defence - Department of Defence Production,Phalodi,0.0,0.0,17,7,0.0,False,0.0
-GEM/2026/R/749571,GEM/2026/R/749571,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5,True,61.7
+GEM/2026/R/749571,GEM/2026/R/749571,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5.0,True,61.7
 GEM/2026/B/8093280,GEM/2026/B/8093280,Ministry of Defence - Department of Defence Production,Phalodi,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/R/747280,GEM/2026/R/747280,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/747276,GEM/2026/R/747276,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/747280,GEM/2026/R/747280,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/747276,GEM/2026/R/747276,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7380047,GEM/2026/B/7380047,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Phalodi,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/647934,GEM/2026/R/647934,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/647929,GEM/2026/R/647929,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/647928,GEM/2026/R/647928,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/647925,GEM/2026/R/647925,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/646500,GEM/2026/R/646500,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/644722,GEM/2026/R/644722,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/644704,GEM/2026/R/644704,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/644385,GEM/2026/R/644385,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/644223,GEM/2026/R/644223,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/643287,GEM/2026/R/643287,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5,True,61.7
-GEM/2026/R/643281,GEM/2026/R/643281,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5,True,61.7
-GEM/2026/R/627851,GEM/2026/R/627851,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5,True,61.7
-GEM/2026/R/622150,GEM/2026/R/622150,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2026/R/622138,GEM/2026/R/622138,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/596797,GEM/2025/R/596797,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5,True,61.7
-GEM/2025/R/587016,GEM/2025/R/587016,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/538888,GEM/2025/R/538888,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2025/B/6500232,GEM/2025/B/6500232,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5,True,61.7
-GEM/2025/B/6451099,GEM/2025/B/6451099,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,4,7,3,True,41.7
-GEM/2025/R/486335,GEM/2025/R/486335,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
-GEM/2025/R/486334,GEM/2025/R/486334,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/647934,GEM/2026/R/647934,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/647929,GEM/2026/R/647929,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/647928,GEM/2026/R/647928,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/647925,GEM/2026/R/647925,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/646500,GEM/2026/R/646500,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/644722,GEM/2026/R/644722,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/644704,GEM/2026/R/644704,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/644385,GEM/2026/R/644385,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/644223,GEM/2026/R/644223,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/643287,GEM/2026/R/643287,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5.0,True,61.7
+GEM/2026/R/643281,GEM/2026/R/643281,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5.0,True,61.7
+GEM/2026/R/627851,GEM/2026/R/627851,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5.0,True,61.7
+GEM/2026/R/622150,GEM/2026/R/622150,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2026/R/622138,GEM/2026/R/622138,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/596797,GEM/2025/R/596797,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5.0,True,61.7
+GEM/2025/R/587016,GEM/2025/R/587016,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/538888,GEM/2025/R/538888,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/B/6500232,GEM/2025/B/6500232,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,2,7,5.0,True,61.7
+GEM/2025/B/6451099,GEM/2025/B/6451099,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,4,7,3.0,True,41.7
+GEM/2025/R/486335,GEM/2025/R/486335,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
+GEM/2025/R/486334,GEM/2025/R/486334,Ministry of Defence - Department of Military Affairs,Phalodi,0.0,0.0,1,7,6.0,True,71.7
 GEM/2025/B/5923062,GEM/2025/B/5923062,Ministry of Water Resources River Development and Ganga Rejuvenation - WAPCOS Limited,Phalodi,0.0,0.0,38,7,0.0,False,0.0
 GEM/2026/B/8228819,GEM/2026/B/8228819,Ministry of Defence - Department of Defence Production,Phalodi,0.0,0.0,15,7,0.0,False,0.0
+2026_IGNP_600669_1,NIT 600669_1,Jodhpur Division,Phalodi,2500000.0,25.0,52,10,0.0,False,0.0

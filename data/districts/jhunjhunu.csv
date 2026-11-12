@@ -4,21 +4,21 @@ SHPP-1953000.00,DLB2627WSOB24181,Directorate Local Bodies,Jhunjhunu,1953000.0,19
 SHPP-1142000.00,DLB2627WSOB24176,Directorate Local Bodies,Jhunjhunu,1142000.0,11.42,10,10,0.0,False,0.0
 SHPP-1090000.00,AGM2627WSOB00982,Rajasthan State Agriculture Marketing Board Jaipur,Jhunjhunu,1090000.0,10.9,10,10,0.0,False,0.0
 SHPP-2716000.00,AGM2627WSOB00981,Rajasthan State Agriculture Marketing Board Jaipur,Jhunjhunu,2716000.0,27.16,10,10,0.0,False,0.0
-SHPP-86002000.00,RRC2627SLOB00736,Rajasthan State Road Development and Construction Cooperation,Jhunjhunu,86002000.0,860.02,9,30,21,True,78.5
-SHPP-24278000.00,AMD2627WSOB00080,Archaelogy and Museums,Jhunjhunu,24278000.0,242.78,27,30,3,True,34.6
+SHPP-86002000.00,RRC2627SLOB00736,Rajasthan State Road Development and Construction Cooperation,Jhunjhunu,86002000.0,860.02,9,30,21.0,True,78.5
+SHPP-24278000.00,AMD2627WSOB00080,Archaelogy and Museums,Jhunjhunu,24278000.0,242.78,27,30,3.0,True,34.6
 SHPP-1474000.00,DLB2627WSOB08779,Directorate Local Bodies,Jhunjhunu,1474000.0,14.74,342,10,0.0,False,0.0
-SHPP-2383000.00,DLB2627WSOB23891,Directorate Local Bodies,Jhunjhunu,2383000.0,23.83,9,10,1,True,30.9
-SHPP-2495000.00,DLB2627WSOB23896,Directorate Local Bodies,Jhunjhunu,2495000.0,24.95,9,10,1,True,31.0
-SHPP-447022013.00,PHE2627WLOB06636,"Chief Engineer (Special Project) PHED, Jaipur",Jhunjhunu,447022013.0,4470.2201,27,30,3,True,39.1
+SHPP-2383000.00,DLB2627WSOB23891,Directorate Local Bodies,Jhunjhunu,2383000.0,23.83,9,10,1.0,True,30.9
+SHPP-2495000.00,DLB2627WSOB23896,Directorate Local Bodies,Jhunjhunu,2495000.0,24.95,9,10,1.0,True,31.0
+SHPP-447022013.00,PHE2627WLOB06636,"Chief Engineer (Special Project) PHED, Jaipur",Jhunjhunu,447022013.0,4470.2201,27,30,3.0,True,39.1
 EPROC-2026_DLB_605619_1,61/2026-27,DLB||Dy.DR-Jaipur||EO-Nimkathana,Jhunjhunu,1953000.0,19.53,10,10,0.0,False,0.0
 EPROC-2026_DLB_605607_1,NIT CIVIL/11/2026-2027,DLB||Dy.DR-Jaipur||EO-Chirawa,Jhunjhunu,1142000.0,11.42,10,10,0.0,False,0.0
-EPROC-2026_DLB_605308_4,NIT NO CIVIL/9/2026-27,DLB||Dy.DR-Jaipur||EO-Chirawa,Jhunjhunu,1496000.0,14.96,9,10,1,True,30.2
+EPROC-2026_DLB_605308_4,NIT NO CIVIL/9/2026-27,DLB||Dy.DR-Jaipur||EO-Chirawa,Jhunjhunu,1496000.0,14.96,9,10,1.0,True,30.2
 EPROC-2026_RSAMB_605551_20,RSAMB/Div Ajmer/NIT-10/2026-27,RSAMB||ACE - Zone I||S.E. - Circle Ajmer||Ex.En. - Ajmer,Jhunjhunu,1090000.0,10.9,10,10,0.0,False,0.0
-EPROC-2026_RSRDC_605422_1,NIT No. 452/2026-27 dated 03.11.2026,RSRDCC-GM,Jhunjhunu,86002000.0,860.02,9,30,21,True,78.5
+EPROC-2026_RSRDC_605422_1,NIT No. 452/2026-27 dated 03.11.2026,RSRDCC-GM,Jhunjhunu,86002000.0,860.02,9,30,21.0,True,78.5
 EPROC-2026_PRD_602498_1,2026/PS/PROTOTYPE AAWAS,Panchayati Raj Department||Secretary and Commissioner||CEO-JHUNJHUNU||BDO-MANDAWA,Jhunjhunu,920000.0,9.2,55,7,0.0,False,0.0
 EPROC-2026_PRD_602501_1,2026/PS/KAMALSAR/BOUNDARY WALL,Panchayati Raj Department||Secretary and Commissioner||CEO-JHUNJHUNU||BDO-MANDAWA,Jhunjhunu,1000000.0,10.0,55,7,0.0,False,0.0
 HF-AOC-2026_CEPWD_556607_1,E-NIT 03/2026-27 DN NAWALGARH,PWD - CE AND ASACE - JAIPUR ISE-JHUNJHUNUEE-NAWALGARH,Jhunjhunu,2797073.0,27.9707,25,10,0.0,False,0.0
-GEM/2025/R/506223,GEM/2025/R/506223,Ministry of Communications - Department of Telecommunications (DOT),Jhunjhunu,0.0,0.0,3,7,4,True,51.7
+GEM/2025/R/506223,GEM/2025/R/506223,Ministry of Communications - Department of Telecommunications (DOT),Jhunjhunu,0.0,0.0,3,7,4.0,True,51.7
 GEM/2025/B/6257664,GEM/2025/B/6257664,Ministry of Communications - Department of Telecommunications (DOT),Jhunjhunu,0.0,0.0,23,7,0.0,False,0.0
 GEM/2026/B/7812757,GEM/2026/B/7812757,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,114,7,0.0,False,0.0
 GEM/2026/B/7808047,GEM/2026/B/7808047,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,115,7,0.0,False,0.0
@@ -34,11 +34,11 @@ GEM/2026/B/7587389,GEM/2026/B/7587389,Ministry of Consumer Affairs Food and Publ
 GEM/2026/B/7566984,GEM/2026/B/7566984,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,53,7,0.0,False,0.0
 GEM/2026/B/7564307,GEM/2026/B/7564307,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,51,7,0.0,False,0.0
 GEM/2026/B/7566914,GEM/2026/B/7566914,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/676637,GEM/2026/R/676637,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Jhunjhunu,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/676637,GEM/2026/R/676637,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Jhunjhunu,0.0,0.0,1,7,6.0,True,71.7
 GEM/2026/B/7570019,GEM/2026/B/7570019,Ministry of Defence - Department of Defence,Jhunjhunu,0.0,0.0,15,7,0.0,False,0.0
 GEM/2026/B/7465225,GEM/2026/B/7465225,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Jhunjhunu,0.0,0.0,14,7,0.0,False,0.0
 GEM/2026/B/7445427,GEM/2026/B/7445427,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7426002,GEM/2026/B/7426002,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7426002,GEM/2026/B/7426002,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,3,7,4.0,True,51.7
 GEM/2026/B/7377340,GEM/2026/B/7377340,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7377292,GEM/2026/B/7377292,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,21,7,0.0,False,0.0
 GEM/2026/B/7373376,GEM/2026/B/7373376,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhunjhunu,0.0,0.0,21,7,0.0,False,0.0
@@ -109,3 +109,5 @@ GEM/2025/B/6788329,GEM/2025/B/6788329,Ministry of Mines - HINDUSTAN COPPER Limit
 GEM/2025/B/6625862,GEM/2025/B/6625862,Ministry of Mines - HINDUSTAN COPPER Limited,Jhunjhunu,0.0,0.0,21,7,0.0,False,0.0
 GEM/2025/B/6310027,GEM/2025/B/6310027,Ministry of Mines - HINDUSTAN COPPER Limited,Jhunjhunu,0.0,0.0,10,7,0.0,False,0.0
 GEM/2025/B/6053674,GEM/2025/B/6053674,Ministry of Education - Department of School Education and Literacy,Jhunjhunu,0.0,0.0,14,7,0.0,False,0.0
+2026_PRD_602498_1,NIT 602498_1,Jaipur Division,Jhunjhunu,2500000.0,25.0,55,10,0.0,False,0.0
+2026_PRD_602501_1,NIT 602501_1,Jaipur Division,Jhunjhunu,2500000.0,25.0,55,10,0.0,False,0.0
