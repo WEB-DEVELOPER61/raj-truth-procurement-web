@@ -253,9 +253,6 @@ HF-AOC-2025_DLB_445870_1,28 EXECUTIVE ENGINEER MALVIYA NAGAR ZONE,DLBDy.DR-Jaipu
 HF-AOC-2025_PRD_470278_1,86-88 (24),Panchayati Raj DepartmentSecretary and CommissionerCEO-JODHPURBDO-BILARA,Deeg,4000000.0,40.0,57,10,0.0,False,0.0
 HF-AOC-2025_DLB_471450_1,25 EXECUTIVE ENGINEER MANSAROVER ZONE,DLBDy.DR-JaipurCEO-Jaipur,Deeg,739882.0,7.3988,205,7,0.0,False,0.0
 HF-AOC-2025_DLB_499770_1,135 EXECUTIVE ENGINEER MALVIYA NAGAR ZONE,DLBDy.DR-JaipurCEO-Jaipur,Deeg,626142.0,6.2614,108,7,0.0,False,0.0
-HF-AOC-2024_PRD_439899_1,144-2 Date 23/12/2024,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Deeg,500000.0,5.0,14,7,0.0,False,0.0
-HF-AOC-2024_JMRC_380176_1,JMRC_Project 1C_Heritage_Consultancy,Jaipur Metro Rail Corporation Ltd.MD-JMRCDirector-JMRC,Deeg,12002000.0,120.02,120,15,0.0,False,0.0
-HF-AOC-2024_PRD_386566_1,49 DATE 01/03/2024,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Deeg,300000.0,3.0,9,7,0.0,False,0.0
 GEM/2026/B/8210460,GEM/2026/B/8210460,LSG (Local Self Government) Rajasthan,Deeg,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/8210231,GEM/2026/B/8210231,LSG (Local Self Government) Rajasthan,Deeg,0.0,0.0,12,7,0.0,False,0.0
 GEM/2026/B/8209685,GEM/2026/B/8209685,LSG (Local Self Government) Rajasthan,Deeg,0.0,0.0,12,7,0.0,False,0.0
@@ -697,3 +694,40 @@ GEM/2025/R/455540,GEM/2025/R/455540,Urban Development & Housing Department Bihar
 GEM/2026/B/7373015,GEM/2026/B/7373015,Public Works Department Uttar Pradesh,Deeg,0.0,0.0,12,7,0.0,False,0.0
 GEM/2025/B/6195089,GEM/2025/B/6195089,Medical and Health Services Department Dadra and Nagar Haveli,Deeg,0.0,0.0,25,7,0.0,False,0.0
 GEM/2026/B/7514453,GEM/2026/B/7514453,Energy Department Uttar Pradesh,Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7541840,GEM/2026/B/7541840,"Nagar Nigam, Dehradun, Uttarakhand",Deeg,0.0,0.0,30,7,0.0,False,0.0
+GEM/2026/B/7306951,GEM/2026/B/7306951,Ministry of Housing & Urban Affairs (MoHUA) - Central Public Works Department,Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7330244,GEM/2026/B/7330244,Ministry of Housing & Urban Affairs (MoHUA) - Central Public Works Department,Deeg,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6986288,GEM/2025/B/6986288,Department of Panchayati Raj,Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6986228,GEM/2025/B/6986228,Department of Panchayati Raj,Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/8059172,GEM/2026/B/8059172,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,37,7,0.0,False,0.0
+GEM/2026/B/7090785,GEM/2026/B/7090785,"Agra Nagar Nigam, Uttar Pradesh",Deeg,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6570007,GEM/2025/B/6570007,Panchayats and Rural Housing Department Gujarat,Deeg,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7643168,GEM/2026/B/7643168,"Nagar Nigam Raigarh, Chhattisgarh",Deeg,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6254412,GEM/2025/B/6254412,Administrative Reforms Department Uttar Pradesh,Deeg,0.0,0.0,80,7,0.0,False,0.0
+GEM/2025/B/6098681,GEM/2025/B/6098681,"Jal Kal Vibhag Nagar Nigam, Lucknow (Lucknow Jal Sansthan) Uttar Pradesh",Deeg,0.0,0.0,16,7,0.0,False,0.0
+GEM/2025/B/6841545,GEM/2025/B/6841545,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/6477264,GEM/2025/B/6477264,Panchayats and Rural Housing Department Gujarat,Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6036650,GEM/2025/B/6036650,Urban Development Department Uttar Pradesh,Deeg,0.0,0.0,25,7,0.0,False,0.0
+GEM/2025/B/6399114,GEM/2025/B/6399114,Agriculture and Co-operation Department Gujarat,Deeg,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6398933,GEM/2025/B/6398933,Agriculture and Co-operation Department Gujarat,Deeg,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6129776,GEM/2025/B/6129776,"Jal Kal Vibhag Nagar Nigam, Lucknow (Lucknow Jal Sansthan) Uttar Pradesh",Deeg,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6129732,GEM/2025/B/6129732,"Jal Kal Vibhag Nagar Nigam, Lucknow (Lucknow Jal Sansthan) Uttar Pradesh",Deeg,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6143217,GEM/2025/B/6143217,"Nagar Nigam Raigarh, Chhattisgarh",Deeg,0.0,0.0,30,7,0.0,False,0.0
+GEM/2025/B/6070714,GEM/2025/B/6070714,Public Works Department Maharashtra,Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/8156597,GEM/2026/B/8156597,"Nagar Nigam Raigarh, Chhattisgarh",Deeg,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6087297,GEM/2025/B/6087297,"Nagar Nigam Raigarh, Chhattisgarh",Deeg,0.0,0.0,31,7,0.0,False,0.0
+GEM/2026/B/7589595,GEM/2026/B/7589595,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,51,7,0.0,False,0.0
+GEM/2025/B/6092199,GEM/2025/B/6092199,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6883169,GEM/2025/B/6883169,Labour and Employment Department Gujarat,Deeg,0.0,0.0,69,7,0.0,False,0.0
+GEM/2026/B/7322539,GEM/2026/B/7322539,Panchayats and Rural Housing Department Gujarat,Deeg,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6258966,GEM/2025/B/6258966,Administrative Reforms Department Uttar Pradesh,Deeg,0.0,0.0,29,7,0.0,False,0.0
+GEM/2026/R/657735,GEM/2026/R/657735,"Jal Kal Vibhag Nagar Nigam, Lucknow (Lucknow Jal Sansthan) Uttar Pradesh",Deeg,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6743284,GEM/2025/B/6743284,Labour and Employment Department Gujarat,Deeg,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6783511,GEM/2025/B/6783511,Urban Development Department Uttar Pradesh,Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6783417,GEM/2025/B/6783417,Urban Development Department Uttar Pradesh,Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5949114,GEM/2025/B/5949114,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,30,7,0.0,False,0.0
+GEM/2026/B/7951726,GEM/2026/B/7951726,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7444116,GEM/2026/B/7444116,Ministry of Coal - COAL INDIA LIMITED,Deeg,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6016307,GEM/2025/B/6016307,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,16,7,0.0,False,0.0
+GEM/2025/B/6016117,GEM/2025/B/6016117,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,16,7,0.0,False,0.0
+GEM/2025/B/6015645,GEM/2025/B/6015645,"Nagar Nigam Varanasi, Uttar Pradesh",Deeg,0.0,0.0,16,7,0.0,False,0.0
