@@ -1,0 +1,15 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-41284000.00,RDP2627WSOB00080,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Sirohi,41284000.0,412.84,19,30,11,True,54.1
+SHPP-14930000.00,DLB2627WSOB23949,Directorate Local Bodies,Sirohi,14930000.0,149.3,15,15,0.0,False,0.0
+SHPP-1554870.00,DLB2627WSOB24028,Directorate Local Bodies,Sirohi,1554870.0,15.5487,12,10,0.0,False,0.0
+SHPP-434580.00,DLB2627WSOB24032,Directorate Local Bodies,Sirohi,434580.0,4.3458,12,7,0.0,False,0.0
+SHPP-3165200.00,DLB2627WSOB23968,Directorate Local Bodies,Sirohi,3165200.0,31.652,9,10,1,True,31.4
+SHPP-2240925.00,DLB2627WSOB23970,Directorate Local Bodies,Sirohi,2240925.0,22.4093,9,10,1,True,30.8
+SHPP-3499691.00,FOR2627WSOB03132,PCCF Forest Department,Sirohi,3499691.0,34.9969,14,10,0.0,False,0.0
+SHPP-748822.00,FOR2627WSOB03129,PCCF Forest Department,Sirohi,748822.0,7.4882,9,7,0.0,False,0.0
+SHPP-132000.00,TDC2627GSOB00105,Rajasthan Tourism Development Corporation,Sirohi,132000.0,1.32,12,7,0.0,False,0.0
+SHPP-72600000.00,DLB2627WLOB23752,Directorate Local Bodies,Sirohi,72600000.0,726.0,19,30,11,True,54.9
+SHPP-7700000.00,PWD2627WSOB15120,CE Public Works Department,Sirohi,7700000.0,77.0,17,15,0.0,False,0.0
+SHPP-6280140.00,FOR2627WSOB03094,PCCF Forest Department,Sirohi,6280140.0,62.8014,14,15,1,True,30.1
+SHPP-2406679.00,FOR2627WSLB03095,PCCF Forest Department,Sirohi,2406679.0,24.0668,14,10,0.0,False,0.0
+SHPP-777893.00,DLB2526WSRC28792,Directorate Local Bodies,Sirohi,777893.0,7.7789,343,7,0.0,False,0.0

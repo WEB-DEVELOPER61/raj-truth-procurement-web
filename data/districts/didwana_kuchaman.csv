@@ -1,0 +1,6 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-3101000.00,AGM2627WSOB00972,Rajasthan State Agriculture Marketing Board Jaipur,Didwana-Kuchaman,3101000.0,31.01,10,10,0.0,False,0.0
+SHPP-6490000.00,AGM2627WSOB00969,Rajasthan State Agriculture Marketing Board Jaipur,Didwana-Kuchaman,6490000.0,64.9,10,15,5,True,48.8
+SHPP-7240000.00,AGM2627WSOB00968,Rajasthan State Agriculture Marketing Board Jaipur,Didwana-Kuchaman,7240000.0,72.4,10,15,5,True,49.0
+SHPP-18949000.00,MHS2627WSOB04313,Medical and Health Services,Didwana-Kuchaman,18949000.0,189.49,17,15,0.0,False,0.0
+SHPP-12822000.00,MHS2627WSOB04318,Medical and Health Services,Didwana-Kuchaman,12822000.0,128.22,17,15,0.0,False,0.0

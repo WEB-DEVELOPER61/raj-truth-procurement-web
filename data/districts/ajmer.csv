@@ -1,0 +1,61 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2000000,Services/2026-27/0070/088,"Board of Revenue, Ajmer",Ajmer,2000000.0,20.0,9,10,1,True,30.6
+SHPP-2325500,Goods/2026-27/0077/015,"College Education Department, Jaipur",Ajmer,2325500.0,23.255,14,10,0.0,False,0.0
+SHPP-637200,Goods/2026-27/0029/086,"Registration and Stamps Department, Ajmer",Ajmer,637200.0,6.372,12,7,0.0,False,0.0
+SHPP-1000000,Goods/2026-27/0089/058,"Medical and Health Services, Jaipur",Ajmer,1000000.0,10.0,8,7,0.0,False,0.0
+SHPP-350000,Goods/2026-27/0003/082,"Rajasthan Public Service Commission, Ajmer",Ajmer,350000.0,3.5,12,7,0.0,False,0.0
+SHPP-299999,Goods/2026-27/0002/082,"Rajasthan Public Service Commission, Ajmer",Ajmer,299999.0,3.0,12,7,0.0,False,0.0
+SHPP-1350700,Services/2026-27/0004/007,"Ayurved Department, Ajmer",Ajmer,1350700.0,13.507,21,10,0.0,False,0.0
+SHPP-7000000,Services/2026-27/0065/088,"Board of Revenue, Ajmer",Ajmer,7000000.0,70.0,13,15,2,True,34.9
+SHPP-17765000.00,PWD2627WSOB15545,CE Public Works Department,Ajmer,17765000.0,177.65,20,15,0.0,False,0.0
+SHPP-21318000.00,PWD2627WSOB15544,CE Public Works Department,Ajmer,21318000.0,213.18,20,30,10,True,50.7
+SHPP-112957000.00,DLB2627WLOB24203,Directorate Local Bodies,Ajmer,112957000.0,1129.57,30,30,0.0,False,0.0
+SHPP-1088000.00,RDP2627WSOB00076,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Ajmer,1088000.0,10.88,10,10,0.0,False,0.0
+SHPP-2075000.00,AGM2627WSOB00980,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,2075000.0,20.75,10,10,0.0,False,0.0
+SHPP-17776000.00,AGM2627WSOB00979,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,17776000.0,177.76,10,15,5,True,50.4
+SHPP-1376000.00,AGM2627WSOB00976,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,1376000.0,13.76,10,10,0.0,False,0.0
+SHPP-7551000.00,AGM2627WSOB00971,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,7551000.0,75.51,10,15,5,True,49.1
+SHPP-996000.00,AGM2627WSOB00970,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,996000.0,9.96,10,7,0.0,False,0.0
+SHPP-1004000.00,AGM2627WSOB00965,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,1004000.0,10.04,10,10,0.0,False,0.0
+SHPP-1973000.00,AGM2627WSOB00964,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,1973000.0,19.73,10,10,0.0,False,0.0
+SHPP-364000.00,AGM2627WSOB00963,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,364000.0,3.64,10,7,0.0,False,0.0
+SHPP-1529000.00,AGM2627WSOB00990,Rajasthan State Agriculture Marketing Board Jaipur,Ajmer,1529000.0,15.29,19,10,0.0,False,0.0
+SHPP-388411000.00,RRC2627SLOB00746,Rajasthan State Road Development and Construction Cooperation,Ajmer,388411000.0,3884.11,10,30,20,True,78.6
+SHPP-141600.00,VPN2627WSOB01596,Rajasthan Rajya Vidut Prasaran Nigam Limited,Ajmer,141600.0,1.416,14,7,0.0,False,0.0
+SHPP-7693000.00,AJD2627GLOB00174,Ajmer Development Authority Ajmer,Ajmer,7693000.0,76.93,21,15,0.0,False,0.0
+SHPP-1895000.00,RHB2627WSOB00216,Rajasthan Housing Board,Ajmer,1895000.0,18.95,13,10,0.0,False,0.0
+SHPP-3186000.00,RHB2627WSOB00215,Rajasthan Housing Board,Ajmer,3186000.0,31.86,13,10,0.0,False,0.0
+SHPP-1011000.00,DLB2627WSOB23989,Directorate Local Bodies,Ajmer,1011000.0,10.11,12,10,0.0,False,0.0
+SHPP-62650000.00,AJD2627WLOB00171,Ajmer Development Authority Ajmer,Ajmer,62650000.0,626.5,23,30,7,True,45.4
+SHPP-10361000.00,MHS2627WSOB04314,Medical and Health Services,Ajmer,10361000.0,103.61,17,15,0.0,False,0.0
+SHPP-718000.00,PWD2627WSOB15284,CE Public Works Department,Ajmer,718000.0,7.18,18,7,0.0,False,0.0
+SHPP-466000.00,PWD2627WSOB15283,CE Public Works Department,Ajmer,466000.0,4.66,18,7,0.0,False,0.0
+SHPP-2360000.00,PWD2627WSOB15279,CE Public Works Department,Ajmer,2360000.0,23.6,15,10,0.0,False,0.0
+SHPP-487000.00,PWD2627WSOB15282,CE Public Works Department,Ajmer,487000.0,4.87,18,7,0.0,False,0.0
+SHPP-247000.00,PWD2627WSOB15281,CE Public Works Department,Ajmer,247000.0,2.47,18,7,0.0,False,0.0
+SHPP-1411000.00,PWD2627WSOB15275,CE Public Works Department,Ajmer,1411000.0,14.11,15,10,0.0,False,0.0
+SHPP-2217000.00,PWD2627WSOB15274,CE Public Works Department,Ajmer,2217000.0,22.17,15,10,0.0,False,0.0
+SHPP-2176000.00,PWD2627WSOB15273,CE Public Works Department,Ajmer,2176000.0,21.76,15,10,0.0,False,0.0
+SHPP-4065000.00,PWD2627WSOB15271,CE Public Works Department,Ajmer,4065000.0,40.65,15,10,0.0,False,0.0
+SHPP-1093000.00,PWD2627WSOB15277,CE Public Works Department,Ajmer,1093000.0,10.93,15,10,0.0,False,0.0
+SHPP-1138000.00,PWD2627WSOB15276,CE Public Works Department,Ajmer,1138000.0,11.38,15,10,0.0,False,0.0
+SHPP-4105000.00,PWD2627WSOB15272,CE Public Works Department,Ajmer,4105000.0,41.05,15,10,0.0,False,0.0
+SHPP-324000.00,PWD2627WSOB15296,CE Public Works Department,Ajmer,324000.0,3.24,18,7,0.0,False,0.0
+SHPP-236000.00,PWD2627WSOB15295,CE Public Works Department,Ajmer,236000.0,2.36,18,7,0.0,False,0.0
+SHPP-328000.00,PWD2627WSOB15293,CE Public Works Department,Ajmer,328000.0,3.28,18,7,0.0,False,0.0
+SHPP-87000.00,PWD2627WSOB15291,CE Public Works Department,Ajmer,87000.0,0.87,18,7,0.0,False,0.0
+SHPP-356000.00,PWD2627WSOB15290,CE Public Works Department,Ajmer,356000.0,3.56,18,7,0.0,False,0.0
+SHPP-792000.00,PWD2627WSOB15289,CE Public Works Department,Ajmer,792000.0,7.92,18,7,0.0,False,0.0
+SHPP-963000.00,PWD2627WSOB15288,CE Public Works Department,Ajmer,963000.0,9.63,18,7,0.0,False,0.0
+SHPP-989000.00,PWD2627WSOB15287,CE Public Works Department,Ajmer,989000.0,9.89,18,7,0.0,False,0.0
+SHPP-2720000.00,PWD2627WSOB15278,CE Public Works Department,Ajmer,2720000.0,27.2,15,10,0.0,False,0.0
+SHPP-626000.00,PWD2627WSOB15286,CE Public Works Department,Ajmer,626000.0,6.26,18,7,0.0,False,0.0
+SHPP-548000.00,PWD2627WSOB15285,CE Public Works Department,Ajmer,548000.0,5.48,18,7,0.0,False,0.0
+SHPP-22500000.00,RDP2627SLOB00065,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Ajmer,22500000.0,225.0,27,30,3,True,34.4
+SHPP-114779000.00,RRC2627WLOB00728,Rajasthan State Road Development and Construction Cooperation,Ajmer,114779000.0,1147.79,20,30,10,True,53.3
+SHPP-81867000.00,AJD2627WLOB00165,Ajmer Development Authority Ajmer,Ajmer,81867000.0,818.67,21,30,9,True,50.5
+SHPP-35123000.00,AJD2627WSOB00166,Ajmer Development Authority Ajmer,Ajmer,35123000.0,351.23,21,30,9,True,49.1
+SHPP-100000000.00,MCA2627SLRC00092,Jawahar Lal Nehru Medical College,Ajmer,100000000.0,1000.0,48,30,0.0,False,0.0
+SHPP-630000.00,AVV2627WSOB00268,Ajmer Vidyut Vitran Nigam Limited,Ajmer,630000.0,6.3,53,7,0.0,False,0.0
+SHPP-4650000.00,AVV2627WSOB00280,Ajmer Vidyut Vitran Nigam Limited,Ajmer,4650000.0,46.5,53,10,0.0,False,0.0
+SHPP-1436300000.00,VPN2627WLOB01232,Rajasthan Rajya Vidut Prasaran Nigam Limited,Ajmer,1436300000.0,14363.0,91,30,0.0,False,0.0

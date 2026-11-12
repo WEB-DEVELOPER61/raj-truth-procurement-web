@@ -1,0 +1,25 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-3909000.00,RRC2627WSOB00753,Rajasthan State Road Development and Construction Cooperation,Jodhpur,3909000.0,39.09,11,10,0.0,False,0.0
+SHPP-6143000.00,RRC2627WSOB00754,Rajasthan State Road Development and Construction Cooperation,Jodhpur,6143000.0,61.43,11,15,4,True,44.1
+SHPP-8266000.00,RRC2627WSOB00752,Rajasthan State Road Development and Construction Cooperation,Jodhpur,8266000.0,82.66,11,15,4,True,44.5
+SHPP-1740000.00,ITC2627WSOB00050,Commissioner Information Technology and Communication,Jodhpur,1740000.0,17.4,6,10,4,True,51.4
+SHPP-165096000.00,DLB2627WLOB24213,Directorate Local Bodies,Jodhpur,165096000.0,1650.96,30,30,0.0,False,0.0
+SHPP-10491000.00,PWD2627WSOB15397,CE Public Works Department,Jodhpur,10491000.0,104.91,11,15,4,True,44.9
+SHPP-499691.00,FOR2627WSOB03158,PCCF Forest Department,Jodhpur,499691.0,4.9969,12,7,0.0,False,0.0
+SHPP-499823.00,FOR2627WSOB03156,PCCF Forest Department,Jodhpur,499823.0,4.9982,13,7,0.0,False,0.0
+SHPP-4077000.00,RHC2627GLRC00027,Rajasthan High Court Jodhpur,Jodhpur,4077000.0,40.77,12,10,0.0,False,0.0
+SHPP-486812.00,FOR2627WSOB03139,PCCF Forest Department,Jodhpur,486812.0,4.8681,9,7,0.0,False,0.0
+SHPP-878000.00,JVV2627WSOE00507,Jodhupur Vidyut  Vitran Nigam Limited,Jodhpur,878000.0,8.78,15,7,0.0,False,0.0
+SHPP-498779.00,JAU2627WSOB00122,Agriculture University Jodhpur,Jodhpur,498779.0,4.9878,14,7,0.0,False,0.0
+SHPP-3381000.00,DLB2627GLOB23844,Directorate Local Bodies,Jodhpur,3381000.0,33.81,14,10,0.0,False,0.0
+SHPP-3532000.00,DLB2627GLOB23845,Directorate Local Bodies,Jodhpur,3532000.0,35.32,14,10,0.0,False,0.0
+SHPP-2006000.00,DLB2627GLOB23843,Directorate Local Bodies,Jodhpur,2006000.0,20.06,14,10,0.0,False,0.0
+SHPP-49743000.00,RHB2627WSOB00209,Rajasthan Housing Board,Jodhpur,49743000.0,497.43,19,30,11,True,54.3
+SHPP-371000.00,MML2627GSOB00140,Rajasthan State Mines and Minerals Limited,Jodhpur,371000.0,3.71,20,7,0.0,False,0.0
+SHPP-24000000.00,AUJ2627SLRC00035,Dr. S.R. Rajasthan Ayurved University Jodhpur,Jodhpur,24000000.0,240.0,21,30,9,True,48.5
+SHPP-45776000.00,RRC2627WSOB00715,Rajasthan State Road Development and Construction Cooperation,Jodhpur,45776000.0,457.76,25,30,5,True,40.2
+SHPP-39300000.00,PWD2627WSOB14605,CE Public Works Department,Jodhpur,39300000.0,393.0,55,30,0.0,False,0.0
+SHPP-219600000.00,PWD2627WLOB14618,CE Public Works Department,Jodhpur,219600000.0,2196.0,55,30,0.0,False,0.0
+SHPP-377500000.00,PWD2627WLOB13134,CE Public Works Department,Jodhpur,377500000.0,3775.0,64,30,0.0,False,0.0
+SHPP-143000000.00,PWD2627WLOB13135,CE Public Works Department,Jodhpur,143000000.0,1430.0,64,30,0.0,False,0.0
+SHPP-90137000.00,PWD2627WLOB12720,CE Public Works Department,Jodhpur,90137000.0,901.37,55,30,0.0,False,0.0

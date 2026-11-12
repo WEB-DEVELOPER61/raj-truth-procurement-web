@@ -1,0 +1,5 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-10000000.00,ZPG2627WSOB00923,Zila Parishad Pratapgarh,Pratapgarh,10000000.0,100.0,8,15,7,True,58.8
+SHPP-9000000.00,ZPG2627WSOB00924,Zila Parishad Pratapgarh,Pratapgarh,9000000.0,90.0,8,15,7,True,58.7
+SHPP-415000.00,PWD2627WSOB15346,CE Public Works Department,Pratapgarh,415000.0,4.15,8,7,0.0,False,0.0
+SHPP-17215000.00,DLB2627WSOB23529,Directorate Local Bodies,Pratapgarh,17215000.0,172.15,19,15,0.0,False,0.0

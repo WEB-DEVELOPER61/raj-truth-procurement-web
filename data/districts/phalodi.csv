@@ -1,0 +1,4 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-10348000.00,NRH2627WSOB00937,National Rural Health Mission,Phalodi,10348000.0,103.48,10,15,5,True,49.5
+SHPP-4800000.00,FOR2627WSRC03161,PCCF Forest Department,Phalodi,4800000.0,48.0,11,10,0.0,False,0.0
+SHPP-479082.00,RHB2627WSOB00214,Rajasthan Housing Board,Phalodi,479082.0,4.7908,12,7,0.0,False,0.0

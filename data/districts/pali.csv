@@ -1,0 +1,20 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-11500000.00,CDF2627GLOB01229,Rajasthan Co-operative Dairy Federation Limited,Pali,11500000.0,115.0,9,15,6,True,54.4
+SHPP-2499990.00,PWD2627WSRC15347,CE Public Works Department,Pali,2499990.0,24.9999,10,10,0.0,False,0.0
+SHPP-1328739.00,PWD2627WSOB15348,CE Public Works Department,Pali,1328739.0,13.2874,10,10,0.0,False,0.0
+SHPP-438945.00,PWD2627WSOB15349,CE Public Works Department,Pali,438945.0,4.3895,10,7,0.0,False,0.0
+SHPP-322000.00,DLB2627WSOB24200,Directorate Local Bodies,Pali,322000.0,3.22,10,7,0.0,False,0.0
+SHPP-430000.00,DLB2627WSOB24188,Directorate Local Bodies,Pali,430000.0,4.3,10,7,0.0,False,0.0
+SHPP-62705.00,VPN2627WSOB01597,Rajasthan Rajya Vidut Prasaran Nigam Limited,Pali,62705.0,0.627,11,7,0.0,False,0.0
+SHPP-4983000.00,SWP2627WSOB00252,Sanitation Water  Community Health Project,Pali,4983000.0,49.83,13,10,0.0,False,0.0
+SHPP-6718000.00,SWP2627WSOB00251,Sanitation Water  Community Health Project,Pali,6718000.0,67.18,13,15,2,True,34.9
+SHPP-988000.00,PHE2627WSOB06882,"Chief Engineer (Special Project) PHED, Jaipur",Pali,988000.0,9.88,14,7,0.0,False,0.0
+SHPP-15663000.00,PWD2627WSOB15246,CE Public Works Department,Pali,15663000.0,156.63,14,15,1,True,31.5
+SHPP-332258.00,JAU2627WSOB00123,Agriculture University Jodhpur,Pali,332258.0,3.3226,14,7,0.0,False,0.0
+SHPP-632081.00,JAU2627WSOB00121,Agriculture University Jodhpur,Pali,632081.0,6.3208,14,7,0.0,False,0.0
+SHPP-65212000.00,DLB2627WLOB23307,Directorate Local Bodies,Pali,65212000.0,652.12,19,30,11,True,54.8
+SHPP-158203000.00,PHE2627WLOB06784,"Chief Engineer (Special Project) PHED, Jaipur",Pali,158203000.0,1582.03,23,30,7,True,46.8
+SHPP-136412539.00,UID2627WLOB00022,Rajasthan Urban Infrastructure Development Project,Pali,136412539.0,1364.1254,29,30,1,True,32.6
+SHPP-41000000.00,PWD2627WSOB14609,CE Public Works Department,Pali,41000000.0,410.0,55,30,0.0,False,0.0
+SHPP-172500000.00,PWD2627WLOB14612,CE Public Works Department,Pali,172500000.0,1725.0,55,30,0.0,False,0.0
+SHPP-80546.00,VPN2627WSOB01577,Rajasthan Rajya Vidut Prasaran Nigam Limited,Pali,80546.0,0.8055,48,7,0.0,False,0.0

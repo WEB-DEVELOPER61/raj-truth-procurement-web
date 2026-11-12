@@ -1,0 +1,30 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2800000,Services/2026-27/0092/058,"Medical and Health Services, Jaipur",Sri Ganganagar,2800000.0,28.0,6,10,4,True,52.2
+SHPP-40000000,Services/2026-27/0088/058,"Medical and Health Services, Jaipur",Sri Ganganagar,40000000.0,400.0,14,30,16,True,65.7
+SHPP-980000.00,MHS2627SSOB04361,Medical and Health Services,Sri Ganganagar,980000.0,9.8,16,7,0.0,False,0.0
+SHPP-1787000.00,DLB2627WSRC24195,Directorate Local Bodies,Sri Ganganagar,1787000.0,17.87,10,10,0.0,False,0.0
+SHPP-3615000.00,DLB2627WSRC24192,Directorate Local Bodies,Sri Ganganagar,3615000.0,36.15,10,10,0.0,False,0.0
+SHPP-1607000.00,DLB2627WSRC24191,Directorate Local Bodies,Sri Ganganagar,1607000.0,16.07,10,10,0.0,False,0.0
+SHPP-1634000.00,DLB2627WSRC24193,Directorate Local Bodies,Sri Ganganagar,1634000.0,16.34,10,10,0.0,False,0.0
+SHPP-1340000.00,DLB2627WSRC24198,Directorate Local Bodies,Sri Ganganagar,1340000.0,13.4,10,10,0.0,False,0.0
+SHPP-780000.00,DLB2627WSRC24201,Directorate Local Bodies,Sri Ganganagar,780000.0,7.8,10,7,0.0,False,0.0
+SHPP-2413000.00,DLB2627WSRC24202,Directorate Local Bodies,Sri Ganganagar,2413000.0,24.13,10,10,0.0,False,0.0
+SHPP-1455000.00,DLB2627WSRC24196,Directorate Local Bodies,Sri Ganganagar,1455000.0,14.55,10,10,0.0,False,0.0
+SHPP-147980000.00,RRC2627WLRC00743,Rajasthan State Road Development and Construction Cooperation,Sri Ganganagar,147980000.0,1479.8,10,30,20,True,77.1
+SHPP-14439000.00,DLB2627WSRC24029,Directorate Local Bodies,Sri Ganganagar,14439000.0,144.39,10,15,5,True,50.1
+SHPP-1408000000.00,GSM2627GLRC00075,Rajasthan State Ganganagar Sugar Mill Limited,Sri Ganganagar,1408000000.0,14080.0,22,30,8,True,52.6
+SHPP-5900000.00,RVU2627WSSS01404,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,5900000.0,59.0,14,15,1,True,30.0
+SHPP-3560000.00,GSM2627GLRC00071,Rajasthan State Ganganagar Sugar Mill Limited,Sri Ganganagar,3560000.0,35.6,19,10,0.0,False,0.0
+SHPP-2448000.00,DLB2627WSOB23293,Directorate Local Bodies,Sri Ganganagar,2448000.0,24.48,22,10,0.0,False,0.0
+SHPP-344100000.00,GSM2627GLRC00069,Rajasthan State Ganganagar Sugar Mill Limited,Sri Ganganagar,344100000.0,3441.0,23,30,7,True,48.1
+SHPP-3988000.00,DAM2627GLOB00686,Agriculture Mareketing,Sri Ganganagar,3988000.0,39.88,26,10,0.0,False,0.0
+SHPP-98372.00,VPN2627WSOB01554,Rajasthan Rajya Vidut Prasaran Nigam Limited,Sri Ganganagar,98372.0,0.9837,47,7,0.0,False,0.0
+SHPP-46800000.00,RVU2627WSOB01305,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,46800000.0,468.0,48,30,0.0,False,0.0
+SHPP-7918862.00,RVU2627WSOB01299,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,7918862.0,79.1886,48,15,0.0,False,0.0
+SHPP-1590025.00,RVU2627GLOB01301,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,1590025.0,15.9002,48,10,0.0,False,0.0
+SHPP-160000000.00,RVU2627GLOB01220,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,160000000.0,1600.0,58,30,0.0,False,0.0
+SHPP-6103000.00,CDB2627WSOB00107,Command Area IGNP,Sri Ganganagar,6103000.0,61.03,53,15,0.0,False,0.0
+SHPP-15146000.00,CDB2627WSOB00106,Command Area IGNP,Sri Ganganagar,15146000.0,151.46,53,15,0.0,False,0.0
+SHPP-24237000.00,CDB2627WSOB00105,Command Area IGNP,Sri Ganganagar,24237000.0,242.37,53,30,0.0,False,0.0
+SHPP-932661.00,RVU2627GSOB01032,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,932661.0,9.3266,95,7,0.0,False,0.0
+SHPP-600000000.00,RVU2627WLOB00248,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,600000000.0,6000.0,201,30,0.0,False,0.0

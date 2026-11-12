@@ -1,0 +1,22 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-490000.00,PHE2627WSOB06964,"Chief Engineer (Special Project) PHED, Jaipur",Dholpur,490000.0,4.9,11,7,0.0,False,0.0
+SHPP-77075.00,RVU2627GSOB01391,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,77075.0,0.7708,15,7,0.0,False,0.0
+SHPP-1744660.00,RVU2627WSOB01395,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1744660.0,17.4466,26,10,0.0,False,0.0
+SHPP-355180.00,RVU2627WSOB01396,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,355180.0,3.5518,18,7,0.0,False,0.0
+SHPP-4437211.00,RVU2627WSOB01401,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,4437211.0,44.3721,21,10,0.0,False,0.0
+SHPP-1099270.00,RVU2627WSOB01394,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1099270.0,10.9927,20,10,0.0,False,0.0
+SHPP-3685124.00,RVU2627WSOB01399,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,3685124.0,36.8512,20,10,0.0,False,0.0
+SHPP-273355.00,RVU2627WSOB01392,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,273355.0,2.7336,20,7,0.0,False,0.0
+SHPP-531000.00,RVU2627SSOB01393,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,531000.0,5.31,21,7,0.0,False,0.0
+SHPP-235510.00,RVU2627GSOB01398,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,235510.0,2.3551,22,7,0.0,False,0.0
+SHPP-1230000.00,RVU2627WSOB01390,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1230000.0,12.3,21,10,0.0,False,0.0
+SHPP-1177620.00,RVU2627WSOB01389,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1177620.0,11.7762,21,10,0.0,False,0.0
+SHPP-1870000.00,RVU2627WSOB01388,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1870000.0,18.7,21,10,0.0,False,0.0
+SHPP-268027000.00,WRD2627WLOB00751,CE Water Resources Department,Dholpur,268027000.0,2680.27,39,30,0.0,False,0.0
+SHPP-92000.00,RVU2627GSOB01236,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,92000.0,0.92,50,7,0.0,False,0.0
+SHPP-374664.00,RVU2627GSOB01244,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,374664.0,3.7466,51,7,0.0,False,0.0
+SHPP-486775.00,RVU2627GSOB01250,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,486775.0,4.8678,51,7,0.0,False,0.0
+SHPP-386332.00,RVU2627GSOB01240,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,386332.0,3.8633,52,7,0.0,False,0.0
+SHPP-440730.00,RVU2627GSOB01246,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,440730.0,4.4073,52,7,0.0,False,0.0
+SHPP-84724.00,RVU2627GSOB01128,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,84724.0,0.8472,88,7,0.0,False,0.0
+SHPP-599999.00,ZDH2526WSOB00703,Zila Parishad Dholpur,Dholpur,599999.0,6.0,340,7,0.0,False,0.0

@@ -1,0 +1,5 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2938000.00,DLB2627SLRC24257,Directorate Local Bodies,Balotra,2938000.0,29.38,14,10,0.0,False,0.0
+SHPP-55200000.00,PWD2627WLOB15398,CE Public Works Department,Balotra,55200000.0,552.0,20,30,10,True,52.2
+SHPP-2365000.00,AGM2627GLRC00994,Rajasthan State Agriculture Marketing Board Jaipur,Balotra,2365000.0,23.65,16,10,0.0,False,0.0
+SHPP-1584000.00,DLB2627WSOB23863,Directorate Local Bodies,Balotra,1584000.0,15.84,10,10,0.0,False,0.0

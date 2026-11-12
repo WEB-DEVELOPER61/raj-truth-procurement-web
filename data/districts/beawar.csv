@@ -1,0 +1,5 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-5242000.00,AGM2627WSOB00967,Rajasthan State Agriculture Marketing Board Jaipur,Beawar,5242000.0,52.42,10,15,5,True,48.5
+SHPP-107000.00,RTC2627SSRC00626,Rajasthan State Road Transport Corporation,Beawar,107000.0,1.07,15,7,0.0,False,0.0
+SHPP-4998000.00,DLB2627WSOB23332,Directorate Local Bodies,Beawar,4998000.0,49.98,21,10,0.0,False,0.0
+SHPP-855000.00,DLB2627WSOB23339,Directorate Local Bodies,Beawar,855000.0,8.55,21,7,0.0,False,0.0

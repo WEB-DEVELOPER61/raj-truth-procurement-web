@@ -1,0 +1,13 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-320000,Services/2026-27/0006/034,"Food, Civil Supplies and Consumer Affairs, Jaipur",Jalore,320000.0,3.2,12,7,0.0,False,0.0
+SHPP-190000.00,MHS2627GSLB04363,Medical and Health Services,Jalore,190000.0,1.9,7,7,0.0,False,0.0
+SHPP-41278000.00,RDP2627WSOB00081,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Jalore,41278000.0,412.78,19,30,11,True,54.1
+SHPP-1100000.00,DLB2627WSOB24022,Directorate Local Bodies,Jalore,1100000.0,11.0,14,10,0.0,False,0.0
+SHPP-2309000.00,DLB2627WSOB24021,Directorate Local Bodies,Jalore,2309000.0,23.09,14,10,0.0,False,0.0
+SHPP-1287000.00,DLB2627WSOB24020,Directorate Local Bodies,Jalore,1287000.0,12.87,14,10,0.0,False,0.0
+SHPP-1490000.00,DLB2627WSOB24019,Directorate Local Bodies,Jalore,1490000.0,14.9,14,10,0.0,False,0.0
+SHPP-951000.00,DLB2627WSOB24018,Directorate Local Bodies,Jalore,951000.0,9.51,14,7,0.0,False,0.0
+SHPP-407000.00,DLB2627WSOB24017,Directorate Local Bodies,Jalore,407000.0,4.07,14,7,0.0,False,0.0
+SHPP-529000.00,DLB2627WSOB24016,Directorate Local Bodies,Jalore,529000.0,5.29,14,7,0.0,False,0.0
+SHPP-997000.00,DLB2627WSOB24015,Directorate Local Bodies,Jalore,997000.0,9.97,14,7,0.0,False,0.0
+SHPP-119750.00,FOR2627WSLB03147,PCCF Forest Department,Jalore,119750.0,1.1975,8,7,0.0,False,0.0

@@ -1,0 +1,7 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-18921000.00,AGM2627WSOB00978,Rajasthan State Agriculture Marketing Board Jaipur,Sikar,18921000.0,189.21,10,15,5,True,50.5
+SHPP-76200000.00,TDC2627SLOB00101,Rajasthan Tourism Development Corporation,Sikar,76200000.0,762.0,30,30,0.0,False,0.0
+SHPP-409700000.00,TET2627SLOB00161,Director Technical Education (Training),Sikar,409700000.0,4097.0,89,30,0.0,False,0.0
+SHPP-7476000.00,PWD2627WSOB13072,CE Public Works Department,Sikar,7476000.0,74.76,53,15,0.0,False,0.0
+SHPP-7629000.00,PWD2627WSOB13075,CE Public Works Department,Sikar,7629000.0,76.29,53,15,0.0,False,0.0
+SHPP-6006000.00,PWD2627WSOB13076,CE Public Works Department,Sikar,6006000.0,60.06,53,15,0.0,False,0.0

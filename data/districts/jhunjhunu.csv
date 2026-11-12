@@ -1,0 +1,9 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-500000.00,PHE2627WSRC06984,"Chief Engineer (Special Project) PHED, Jaipur",Jhunjhunu,500000.0,5.0,9,7,0.0,False,0.0
+SHPP-1953000.00,DLB2627WSOB24181,Directorate Local Bodies,Jhunjhunu,1953000.0,19.53,10,10,0.0,False,0.0
+SHPP-1142000.00,DLB2627WSOB24176,Directorate Local Bodies,Jhunjhunu,1142000.0,11.42,10,10,0.0,False,0.0
+SHPP-1090000.00,AGM2627WSOB00982,Rajasthan State Agriculture Marketing Board Jaipur,Jhunjhunu,1090000.0,10.9,10,10,0.0,False,0.0
+SHPP-2716000.00,AGM2627WSOB00981,Rajasthan State Agriculture Marketing Board Jaipur,Jhunjhunu,2716000.0,27.16,10,10,0.0,False,0.0
+SHPP-86002000.00,RRC2627SLOB00736,Rajasthan State Road Development and Construction Cooperation,Jhunjhunu,86002000.0,860.02,9,30,21,True,78.5
+SHPP-24278000.00,AMD2627WSOB00080,Archaelogy and Museums,Jhunjhunu,24278000.0,242.78,27,30,3,True,34.6
+SHPP-1474000.00,DLB2627WSOB08779,Directorate Local Bodies,Jhunjhunu,1474000.0,14.74,342,10,0.0,False,0.0

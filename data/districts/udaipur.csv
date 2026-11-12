@@ -1,0 +1,30 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-388000.00,PWD2627WSOB15546,CE Public Works Department,Udaipur,388000.0,3.88,6,7,1,True,31.1
+SHPP-472000.00,PWD2627WSOB15547,CE Public Works Department,Udaipur,472000.0,4.72,6,7,1,True,31.4
+SHPP-800000.00,ATU2627WSOB00238,"Maharana Pratap University of Agriculture and Technology, Udaipur",Udaipur,800000.0,8.0,10,7,0.0,False,0.0
+SHPP-536000.00,FOR2627WSOB03169,PCCF Forest Department,Udaipur,536000.0,5.36,12,7,0.0,False,0.0
+SHPP-297000.00,FOR2627WSOB03168,PCCF Forest Department,Udaipur,297000.0,2.97,12,7,0.0,False,0.0
+SHPP-1195000.00,MML2627SLSS00142,Rajasthan State Mines and Minerals Limited,Udaipur,1195000.0,11.95,7,10,3,True,43.8
+SHPP-137311000.00,RRC2627SLOB00744,Rajasthan State Road Development and Construction Cooperation,Udaipur,137311000.0,1373.11,10,30,20,True,76.9
+SHPP-2604000.00,ITU2627SLOB00373,Urban Improvement Trust Udaipur,Udaipur,2604000.0,26.04,15,10,0.0,False,0.0
+SHPP-600000.00,SUU2627GSOB00065,"Mohan Lal Sukhadia University, Udaipur",Udaipur,600000.0,6.0,21,7,0.0,False,0.0
+SHPP-561000.00,SPU2627GSOB00009,Superintendent of Police Udaipur,Udaipur,561000.0,5.61,14,7,0.0,False,0.0
+SHPP-6947000.00,SWP2627WSOB00253,Sanitation Water  Community Health Project,Udaipur,6947000.0,69.47,13,15,2,True,34.9
+SHPP-3400000.00,CUD2627GLOB00029,District Collector Udaipur,Udaipur,3400000.0,34.0,9,10,1,True,31.5
+SHPP-8322000.00,ITU2627WSOB00366,Urban Improvement Trust Udaipur,Udaipur,8322000.0,83.22,19,15,0.0,False,0.0
+SHPP-930000.00,ITU2627WSOB00365,Urban Improvement Trust Udaipur,Udaipur,930000.0,9.3,19,7,0.0,False,0.0
+SHPP-1487000.00,ITU2627WSOB00364,Urban Improvement Trust Udaipur,Udaipur,1487000.0,14.87,19,10,0.0,False,0.0
+SHPP-4844000.00,ITU2627WSOB00367,Urban Improvement Trust Udaipur,Udaipur,4844000.0,48.44,19,10,0.0,False,0.0
+SHPP-2599000.00,ITU2627WSOB00363,Urban Improvement Trust Udaipur,Udaipur,2599000.0,25.99,19,10,0.0,False,0.0
+SHPP-1445000.00,ITU2627WSOB00371,Urban Improvement Trust Udaipur,Udaipur,1445000.0,14.45,19,10,0.0,False,0.0
+SHPP-1493000.00,ITU2627WSOB00370,Urban Improvement Trust Udaipur,Udaipur,1493000.0,14.93,19,10,0.0,False,0.0
+SHPP-1496000.00,ITU2627WSOB00369,Urban Improvement Trust Udaipur,Udaipur,1496000.0,14.96,19,10,0.0,False,0.0
+SHPP-14173000.00,ITU2627WSOB00360,Urban Improvement Trust Udaipur,Udaipur,14173000.0,141.73,19,15,0.0,False,0.0
+SHPP-43222000.00,ITU2627WSOB00358,Urban Improvement Trust Udaipur,Udaipur,43222000.0,432.22,28,30,2,True,33.1
+SHPP-12580000.00,AMD2627WSOB00081,Archaelogy and Museums,Udaipur,12580000.0,125.8,18,15,0.0,False,0.0
+SHPP-28900.00,VPN2627SSLB01589,Rajasthan Rajya Vidut Prasaran Nigam Limited,Udaipur,28900.0,0.289,25,7,0.0,False,0.0
+SHPP-2775000.00,MML2627SLLB00136,Rajasthan State Mines and Minerals Limited,Udaipur,2775000.0,27.75,34,10,0.0,False,0.0
+SHPP-355700000.00,ITU2627WLOB00332,Urban Improvement Trust Udaipur,Udaipur,355700000.0,3557.0,35,30,0.0,False,0.0
+SHPP-380000000.00,MML2627WLOB00122,Rajasthan State Mines and Minerals Limited,Udaipur,380000000.0,3800.0,68,30,0.0,False,0.0
+SHPP-1470929.00,ZUD2627WSOB00415,Zila Parishad Udaipur,Udaipur,1470929.0,14.7093,345,10,0.0,False,0.0
+SHPP-21215000.00,PWD2526WSOB26166,CE Public Works Department,Udaipur,21215000.0,212.15,356,30,0.0,False,0.0

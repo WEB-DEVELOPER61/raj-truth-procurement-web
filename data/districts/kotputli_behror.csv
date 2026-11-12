@@ -1,0 +1,7 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-569000.00,AGM2627WSOB00975,Rajasthan State Agriculture Marketing Board Jaipur,Kotputli-Behror,569000.0,5.69,10,7,0.0,False,0.0
+SHPP-17602000.00,AGM2627WSOB00973,Rajasthan State Agriculture Marketing Board Jaipur,Kotputli-Behror,17602000.0,176.02,10,15,5,True,50.4
+SHPP-17809000.00,AGM2627WSOB00993,Rajasthan State Agriculture Marketing Board Jaipur,Kotputli-Behror,17809000.0,178.09,19,15,0.0,False,0.0
+SHPP-628709000.00,RRC2627WLOB00742,Rajasthan State Road Development and Construction Cooperation,Kotputli-Behror,628709000.0,6287.09,10,30,20,True,79.3
+SHPP-65412000.00,DLB2627WLOB23911,Directorate Local Bodies,Kotputli-Behror,65412000.0,654.12,33,30,0.0,False,0.0
+SHPP-118944.00,VPN2627GSSS01349,Rajasthan Rajya Vidut Prasaran Nigam Limited,Kotputli-Behror,118944.0,1.1894,69,7,0.0,False,0.0

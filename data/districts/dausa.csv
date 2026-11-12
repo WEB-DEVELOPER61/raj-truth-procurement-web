@@ -1,0 +1,4 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-37686000.00,PHE2627WSOB06650,"Chief Engineer (Special Project) PHED, Jaipur",Dausa,37686000.0,376.86,38,30,0.0,False,0.0
+SHPP-42951000.00,PHE2627WSOB06651,"Chief Engineer (Special Project) PHED, Jaipur",Dausa,42951000.0,429.51,38,30,0.0,False,0.0
+SHPP-79273000.00,PWD2627WLOB13407,CE Public Works Department,Dausa,79273000.0,792.73,51,30,0.0,False,0.0

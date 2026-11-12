@@ -1,0 +1,14 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2514537.00,WRD2627WSOB00765,CE Water Resources Department,Jhalawar,2514537.0,25.1454,10,10,0.0,False,0.0
+SHPP-2577874.00,WRD2627WSOB00766,CE Water Resources Department,Jhalawar,2577874.0,25.7787,10,10,0.0,False,0.0
+SHPP-2367260.00,WRD2627WSOB00767,CE Water Resources Department,Jhalawar,2367260.0,23.6726,10,10,0.0,False,0.0
+SHPP-253000.00,PWD2627WSOB15175,CE Public Works Department,Jhalawar,253000.0,2.53,11,7,0.0,False,0.0
+SHPP-99000.00,SRG2627GSLB00034,SRG Hospital Jhalawar,Jhalawar,99000.0,0.99,10,7,0.0,False,0.0
+SHPP-43681115.00,VPN2627WSOB01492,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jhalawar,43681115.0,436.8111,42,30,0.0,False,0.0
+SHPP-2950000.00,VVN2627WSOB00449,Jaipur Vidyut Vitran Nigam Limited,Jhalawar,2950000.0,29.5,63,10,0.0,False,0.0
+SHPP-478970.00,RVU2627GSOB01294,Rajasthan Rajya Vidut Utpadan Nigam Limited,Jhalawar,478970.0,4.7897,43,7,0.0,False,0.0
+SHPP-5411814.00,RVU2627GLOB01293,Rajasthan Rajya Vidut Utpadan Nigam Limited,Jhalawar,5411814.0,54.1181,43,15,0.0,False,0.0
+SHPP-404066000.00,VPN2627WLOB01360,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jhalawar,404066000.0,4040.66,48,30,0.0,False,0.0
+SHPP-318350000.00,PWD2627WLOB12807,CE Public Works Department,Jhalawar,318350000.0,3183.5,59,30,0.0,False,0.0
+SHPP-111375000.00,PWD2627WLOB12806,CE Public Works Department,Jhalawar,111375000.0,1113.75,59,30,0.0,False,0.0
+SHPP-121997800.00,RVU2627WLOB00673,Rajasthan Rajya Vidut Utpadan Nigam Limited,Jhalawar,121997800.0,1219.978,144,30,0.0,False,0.0

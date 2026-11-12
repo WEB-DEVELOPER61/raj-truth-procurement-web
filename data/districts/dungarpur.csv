@@ -1,0 +1,15 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2900000,Services/2026-27/0007/4039,"General Administrative Department, Jaipur",Dungarpur,2900000.0,29.0,11,10,0.0,False,0.0
+SHPP-950000.00,SWP2627SSOB00254,Sanitation Water  Community Health Project,Dungarpur,950000.0,9.5,3,7,4,True,62.5
+SHPP-2843000.00,SWP2627WSOB00250,Sanitation Water  Community Health Project,Dungarpur,2843000.0,28.43,13,10,0.0,False,0.0
+SHPP-6161000.00,SWP2627WSOB00249,Sanitation Water  Community Health Project,Dungarpur,6161000.0,61.61,13,15,2,True,34.7
+SHPP-5213000.00,SWP2627WSOB00248,Sanitation Water  Community Health Project,Dungarpur,5213000.0,52.13,13,15,2,True,34.5
+SHPP-3317000.00,SWP2627WSOB00247,Sanitation Water  Community Health Project,Dungarpur,3317000.0,33.17,13,10,0.0,False,0.0
+SHPP-16588000.00,SWP2627WSOB00244,Sanitation Water  Community Health Project,Dungarpur,16588000.0,165.88,13,15,2,True,36.3
+SHPP-3218000.00,SWP2627WSOB00243,Sanitation Water  Community Health Project,Dungarpur,3218000.0,32.18,13,10,0.0,False,0.0
+SHPP-6350000.00,SWP2627WSOB00242,Sanitation Water  Community Health Project,Dungarpur,6350000.0,63.5,13,15,2,True,34.8
+SHPP-120000.00,RTC2627SSOB00620,Rajasthan State Road Transport Corporation,Dungarpur,120000.0,1.2,15,7,0.0,False,0.0
+SHPP-84000.00,RTC2627WSOB00622,Rajasthan State Road Transport Corporation,Dungarpur,84000.0,0.84,15,7,0.0,False,0.0
+SHPP-483516.00,RTC2627SSOB00624,Rajasthan State Road Transport Corporation,Dungarpur,483516.0,4.8352,15,7,0.0,False,0.0
+SHPP-5100000.00,AVV2627WSOB00267,Ajmer Vidyut Vitran Nigam Limited,Dungarpur,5100000.0,51.0,53,15,0.0,False,0.0
+SHPP-484967.00,ZDU2627WSOB00810,Zila Parishad Dungarpur,Dungarpur,484967.0,4.8497,340,7,0.0,False,0.0

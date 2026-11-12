@@ -1,0 +1,12 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-195125.00,VPN2627SSLB01598,Rajasthan Rajya Vidut Prasaran Nigam Limited,Nagaur,195125.0,1.9512,7,7,0.0,False,0.0
+SHPP-270000.00,PWD2627WSOB15353,CE Public Works Department,Nagaur,270000.0,2.7,13,7,0.0,False,0.0
+SHPP-465000.00,PWD2627WSOB15355,CE Public Works Department,Nagaur,465000.0,4.65,13,7,0.0,False,0.0
+SHPP-2.00,PWD2627WSOB15356,CE Public Works Department,Nagaur,2.0,0.0,13,7,0.0,False,0.0
+SHPP-180000.00,PWD2627WSOB15358,CE Public Works Department,Nagaur,180000.0,1.8,13,7,0.0,False,0.0
+SHPP-17500000.00,DLB2627WSOB24173,Directorate Local Bodies,Nagaur,17500000.0,175.0,31,15,0.0,False,0.0
+SHPP-476878000.00,PWD2627WLOB15372,CE Public Works Department,Nagaur,476878000.0,4768.78,23,30,7,True,48.6
+SHPP-344731000.00,PWD2627WLOB15373,CE Public Works Department,Nagaur,344731000.0,3447.31,23,30,7,True,48.1
+SHPP-302223000.00,PWD2627WLOB15374,CE Public Works Department,Nagaur,302223000.0,3022.23,23,30,7,True,47.9
+SHPP-60000000.00,DLB2627WLOB21866,Directorate Local Bodies,Nagaur,60000000.0,600.0,37,30,0.0,False,0.0
+SHPP-461000.00,PHE2627WSOB06005,"Chief Engineer (Special Project) PHED, Jaipur",Nagaur,461000.0,4.61,53,7,0.0,False,0.0

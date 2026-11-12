@@ -1,0 +1,24 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-990000,Services/2026-27/0090/058,"Medical and Health Services, Jaipur",Bikaner,990000.0,9.9,9,7,0.0,False,0.0
+SHPP-1300000,Goods/2026-27/0009/004,"Animal Husbandry Department, Jaipur",Bikaner,1300000.0,13.0,15,10,0.0,False,0.0
+SHPP-4464961.00,RHB2627WSOB00218,Rajasthan Housing Board,Bikaner,4464961.0,44.6496,13,10,0.0,False,0.0
+SHPP-546608.00,RHB2627WSOB00219,Rajasthan Housing Board,Bikaner,546608.0,5.4661,13,7,0.0,False,0.0
+SHPP-2325000.00,PWD2627WSOB15405,CE Public Works Department,Bikaner,2325000.0,23.25,12,10,0.0,False,0.0
+SHPP-19912000.00,PWD2627WSOB15406,CE Public Works Department,Bikaner,19912000.0,199.12,12,15,3,True,41.2
+SHPP-292000.00,PWD2627WSOB15407,CE Public Works Department,Bikaner,292000.0,2.92,12,7,0.0,False,0.0
+SHPP-341000.00,PWD2627WSOB15408,CE Public Works Department,Bikaner,341000.0,3.41,12,7,0.0,False,0.0
+SHPP-2600000.00,DAM2627SLRC00699,Agriculture Mareketing,Bikaner,2600000.0,26.0,15,10,0.0,False,0.0
+SHPP-1770000.00,IGB2627SLOB00324,Chief Engineer IGNP Bikaner,Bikaner,1770000.0,17.7,9,10,1,True,30.4
+SHPP-9244000.00,DLB2627WSOB24052,Directorate Local Bodies,Bikaner,9244000.0,92.44,10,15,5,True,49.4
+SHPP-730000.00,PWD2627WSOB15320,CE Public Works Department,Bikaner,730000.0,7.3,13,7,0.0,False,0.0
+SHPP-282000.00,PWD2627WSOB15319,CE Public Works Department,Bikaner,282000.0,2.82,13,7,0.0,False,0.0
+SHPP-169000.00,PWD2627WSOB15318,CE Public Works Department,Bikaner,169000.0,1.69,13,7,0.0,False,0.0
+SHPP-109000.00,PWD2627WSOB15316,CE Public Works Department,Bikaner,109000.0,1.09,13,7,0.0,False,0.0
+SHPP-1424000.00,PWD2627WSOB15314,CE Public Works Department,Bikaner,1424000.0,14.24,13,10,0.0,False,0.0
+SHPP-9500000.00,GSU2627SLRC00031,Maharaja Ganga Singh University Bikaner,Bikaner,9500000.0,95.0,14,15,1,True,30.7
+SHPP-66359000.00,RHB2627WLOB00208,Rajasthan Housing Board,Bikaner,66359000.0,663.59,19,30,11,True,54.8
+SHPP-5010000.00,GSU2627WSOB00029,Maharaja Ganga Singh University Bikaner,Bikaner,5010000.0,50.1,19,15,0.0,False,0.0
+SHPP-1743000.00,RRC2627WSOB00724,Rajasthan State Road Development and Construction Cooperation,Bikaner,1743000.0,17.43,21,10,0.0,False,0.0
+SHPP-250800000.00,VPN2627WLOB01364,Rajasthan Rajya Vidut Prasaran Nigam Limited,Bikaner,250800000.0,2508.0,48,30,0.0,False,0.0
+SHPP-55851921.00,IGB2627WLOB00251,Chief Engineer IGNP Bikaner,Bikaner,55851921.0,558.5192,53,30,0.0,False,0.0
+SHPP-281741.00,VPN2627WSOB01394,Rajasthan Rajya Vidut Prasaran Nigam Limited,Bikaner,281741.0,2.8174,54,7,0.0,False,0.0

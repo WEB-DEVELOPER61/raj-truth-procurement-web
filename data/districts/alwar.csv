@@ -1,0 +1,15 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-30000,Goods/2026-27/0079/015,"College Education Department, Jaipur",Alwar,30000.0,0.3,3,7,4,True,57.0
+SHPP-630000,Goods/2026-27/0069/012,"Women Empowerment Department, Jaipur",Alwar,630000.0,6.3,12,7,0.0,False,0.0
+SHPP-16729000.00,AGM2627WSOB00991,Rajasthan State Agriculture Marketing Board Jaipur,Alwar,16729000.0,167.29,19,15,0.0,False,0.0
+SHPP-3239000.00,AGM2627WSOB00988,Rajasthan State Agriculture Marketing Board Jaipur,Alwar,3239000.0,32.39,19,10,0.0,False,0.0
+SHPP-2954000.00,RDP2627WSOB00077,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Alwar,2954000.0,29.54,10,10,0.0,False,0.0
+SHPP-6635000.00,SWP2627WSOB00245,Sanitation Water  Community Health Project,Alwar,6635000.0,66.35,13,15,2,True,34.8
+SHPP-9800000.00,UAL2627WSOB00150,Urban Improvement Trust Alwar,Alwar,9800000.0,98.0,14,15,1,True,30.8
+SHPP-15100000.00,UAL2627WSOB00149,Urban Improvement Trust Alwar,Alwar,15100000.0,151.0,14,15,1,True,31.5
+SHPP-8100000.00,VVN2627WSOB00457,Jaipur Vidyut Vitran Nigam Limited,Alwar,8100000.0,81.0,63,15,0.0,False,0.0
+SHPP-922000.00,PWD2627WSOB14576,CE Public Works Department,Alwar,922000.0,9.22,47,7,0.0,False,0.0
+SHPP-143000.00,PWD2627WSOB14578,CE Public Works Department,Alwar,143000.0,1.43,47,7,0.0,False,0.0
+SHPP-382000.00,PWD2627WSOB14575,CE Public Works Department,Alwar,382000.0,3.82,47,7,0.0,False,0.0
+SHPP-330000.00,CDF2627SSRC00693,Rajasthan Co-operative Dairy Federation Limited,Alwar,330000.0,3.3,347,7,0.0,False,0.0
+SHPP-7766529.00,PHE2526WSOB09813,"Chief Engineer (Special Project) PHED, Jaipur",Alwar,7766529.0,77.6653,351,15,0.0,False,0.0

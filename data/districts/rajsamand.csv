@@ -1,0 +1,7 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2869000.00,DLB2627WSOB24141,Directorate Local Bodies,Rajsamand,2869000.0,28.69,11,10,0.0,False,0.0
+SHPP-33422000.00,RRC2627WSOB00737,Rajasthan State Road Development and Construction Cooperation,Rajsamand,33422000.0,334.22,12,30,18,True,70.1
+SHPP-1415000.00,DLB2627WSOB23788,Directorate Local Bodies,Rajsamand,1415000.0,14.15,21,10,0.0,False,0.0
+SHPP-1185000.00,TBN2627GLRC00067,Nathdwara Temple Board,Rajsamand,1185000.0,11.85,346,10,0.0,False,0.0
+SHPP-1300000.00,DLB2627WSRC23517,Directorate Local Bodies,Rajsamand,1300000.0,13.0,18,10,0.0,False,0.0
+SHPP-14388000.00,AMD2627WSOB00082,Archaelogy and Museums,Rajsamand,14388000.0,143.88,18,15,0.0,False,0.0

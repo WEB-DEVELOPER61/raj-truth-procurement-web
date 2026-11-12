@@ -1,0 +1,17 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-1483000.00,PWD2627WSOB15396,CE Public Works Department,Bundi,1483000.0,14.83,30,10,0.0,False,0.0
+SHPP-1679000.00,PWD2627WSOB15394,CE Public Works Department,Bundi,1679000.0,16.79,30,10,0.0,False,0.0
+SHPP-2528000.00,PWD2627WSOB15393,CE Public Works Department,Bundi,2528000.0,25.28,30,10,0.0,False,0.0
+SHPP-1650000.00,PWD2627WSOB15390,CE Public Works Department,Bundi,1650000.0,16.5,30,10,0.0,False,0.0
+SHPP-336000.00,PWD2627WSOB15385,CE Public Works Department,Bundi,336000.0,3.36,30,7,0.0,False,0.0
+SHPP-22072000.00,PWD2627WSOB15384,CE Public Works Department,Bundi,22072000.0,220.72,30,30,0.0,False,0.0
+SHPP-7500000.00,PHE2627WSRC06801,"Chief Engineer (Special Project) PHED, Jaipur",Bundi,7500000.0,75.0,12,15,3,True,39.7
+SHPP-38739000.00,PWD2627WSOB15165,CE Public Works Department,Bundi,38739000.0,387.39,34,30,0.0,False,0.0
+SHPP-39715000.00,PWD2627WSOB15166,CE Public Works Department,Bundi,39715000.0,397.15,34,30,0.0,False,0.0
+SHPP-130000.00,PWD2627WSOB15152,CE Public Works Department,Bundi,130000.0,1.3,20,7,0.0,False,0.0
+SHPP-425000.00,PWD2627WSOB15153,CE Public Works Department,Bundi,425000.0,4.25,20,7,0.0,False,0.0
+SHPP-876000.00,PWD2627WSOB15154,CE Public Works Department,Bundi,876000.0,8.76,20,7,0.0,False,0.0
+SHPP-3457000.00,PWD2627WSOB15156,CE Public Works Department,Bundi,3457000.0,34.57,20,10,0.0,False,0.0
+SHPP-12088000.00,PWD2627WSOB15158,CE Public Works Department,Bundi,12088000.0,120.88,20,15,0.0,False,0.0
+SHPP-17800000.00,PWD2627WSOB15131,CE Public Works Department,Bundi,17800000.0,178.0,30,15,0.0,False,0.0
+SHPP-42193000.00,PWD2627WSOB15034,CE Public Works Department,Bundi,42193000.0,421.93,40,30,0.0,False,0.0

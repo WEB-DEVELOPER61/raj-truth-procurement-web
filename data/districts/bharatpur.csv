@@ -1,0 +1,13 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-43341000.00,PWD2627WSOB15555,CE Public Works Department,Bharatpur,43341000.0,433.41,11,30,19,True,72.8
+SHPP-131594000.00,DLB2627WLOB24210,Directorate Local Bodies,Bharatpur,131594000.0,1315.94,30,30,0.0,False,0.0
+SHPP-41186000.00,WAQ2627WSRC00137,Urban Improvement Trust Bharatpur,Bharatpur,41186000.0,411.86,11,30,19,True,72.7
+SHPP-16000000.00,WAQ2627SLOB00136,Urban Improvement Trust Bharatpur,Bharatpur,16000000.0,160.0,19,15,0.0,False,0.0
+SHPP-250125000.00,WAQ2627WLOB00135,Urban Improvement Trust Bharatpur,Bharatpur,250125000.0,2501.25,20,30,10,True,54.6
+SHPP-48543000.00,WAQ2627WSOB00134,Urban Improvement Trust Bharatpur,Bharatpur,48543000.0,485.43,19,30,11,True,54.3
+SHPP-54726000.00,WAQ2627WLOB00133,Urban Improvement Trust Bharatpur,Bharatpur,54726000.0,547.26,19,30,11,True,54.5
+SHPP-1395000.00,PHE2627WSOB06843,"Chief Engineer (Special Project) PHED, Jaipur",Bharatpur,1395000.0,13.95,20,10,0.0,False,0.0
+SHPP-3902000.00,PHE2627WSOB06844,"Chief Engineer (Special Project) PHED, Jaipur",Bharatpur,3902000.0,39.02,20,10,0.0,False,0.0
+SHPP-79000000.00,RVJ2627WLOB00038,Rajasthan University of Veterinary and Animal Science Jobner,Bharatpur,79000000.0,790.0,26,30,4,True,38.7
+SHPP-28629000.00,WAQ2627WSRC00132,Urban Improvement Trust Bharatpur,Bharatpur,28629000.0,286.29,21,30,9,True,48.8
+SHPP-1094600000.00,PWD2627WLOB12736,CE Public Works Department,Bharatpur,1094600000.0,10946.0,63,30,0.0,False,0.0

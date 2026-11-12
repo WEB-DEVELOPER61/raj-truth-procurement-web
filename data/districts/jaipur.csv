@@ -1,0 +1,337 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-154100,Goods/2026-27/0026/105,"Treasuries and Accounts Department, Jaipur",Jaipur,154100.0,1.541,11,7,0.0,False,0.0
+SHPP-600000,Services/2026-27/0003/117,"Prosecution  Department, Jaipur",Jaipur,600000.0,6.0,10,7,0.0,False,0.0
+SHPP-800000,Services/2026-27/0008/045,"Industries Department, Jaipur",Jaipur,800000.0,8.0,10,7,0.0,False,0.0
+SHPP-1629600,Services/2026-27/0002/4242,Director Medical Education,Jaipur,1629600.0,16.296,7,10,3,True,44.3
+SHPP-200000,Goods/2026-27/0068/012,"Women Empowerment Department, Jaipur",Jaipur,200000.0,2.0,12,7,0.0,False,0.0
+SHPP-20000,Goods/2026-27/0069/015,"College Education Department, Jaipur",Jaipur,20000.0,0.2,8,7,0.0,False,0.0
+SHPP-98000,Services/2026-27/0039/040,"Ground Water Department, Jodhpur",Jaipur,98000.0,0.98,14,7,0.0,False,0.0
+SHPP-94950,Goods/2026-27/0008/041,"Harish Chandra Mathur Rajasthan Institute of Public Administration, Jaipur",Jaipur,94950.0,0.9495,8,7,0.0,False,0.0
+SHPP-8800000,Services/2026-27/0022/069,"Police Department, Jaipur",Jaipur,8800000.0,88.0,11,15,4,True,44.6
+SHPP-17000,Goods/2026-27/0040/015,"College Education Department, Jaipur",Jaipur,17000.0,0.17,14,7,0.0,False,0.0
+SHPP-11500,Goods/2026-27/0041/015,"College Education Department, Jaipur",Jaipur,11500.0,0.115,14,7,0.0,False,0.0
+SHPP-1500,Goods/2026-27/0042/015,"College Education Department, Jaipur",Jaipur,1500.0,0.015,14,7,0.0,False,0.0
+SHPP-488520,Services/2026-27/0037/202,"S.M.S. Medical College and Associated Group of Hospitals, Jaipur",Jaipur,488520.0,4.8852,8,7,0.0,False,0.0
+SHPP-576000,Services/2026-27/0036/202,"S.M.S. Medical College and Associated Group of Hospitals, Jaipur",Jaipur,576000.0,5.76,8,7,0.0,False,0.0
+SHPP-90000,Services/2026-27/0007/037,"Planning (Man Power)  Department, Jaipur",Jaipur,90000.0,0.9,13,7,0.0,False,0.0
+SHPP-49000,Services/2026-27/0011/093,"Science and Technology Department, Jaipur",Jaipur,49000.0,0.49,10,7,0.0,False,0.0
+SHPP-110000,Goods/2026-27/0020/069,"Police Department, Jaipur",Jaipur,110000.0,1.1,14,7,0.0,False,0.0
+SHPP-50000,Services/2026-27/0137/002,"Agriculture Department, Jaipur",Jaipur,50000.0,0.5,12,7,0.0,False,0.0
+SHPP-1462000,Goods/2026-27/0034/202,"S.M.S. Medical College and Associated Group of Hospitals, Jaipur",Jaipur,1462000.0,14.62,23,10,0.0,False,0.0
+SHPP-1200000,Services/2026-27/0135/002,"Agriculture Department, Jaipur",Jaipur,1200000.0,12.0,14,10,0.0,False,0.0
+SHPP-197625,Goods/2026-27/0136/002,"Agriculture Department, Jaipur",Jaipur,197625.0,1.9763,14,7,0.0,False,0.0
+SHPP-300000,Goods/2026-27/0138/002,"Agriculture Department, Jaipur",Jaipur,300000.0,3.0,13,7,0.0,False,0.0
+SHPP-3500000,Services/2026-27/0080/058,"Medical and Health Services, Jaipur",Jaipur,3500000.0,35.0,14,10,0.0,False,0.0
+SHPP-176606,Goods/2026-27/0063/195,"Information Technology and Communication Department, Jaipur",Jaipur,176606.0,1.7661,18,7,0.0,False,0.0
+SHPP-10000000,Services/2026-27/0005/071,"Printing and Stationery Department, Jaipur",Jaipur,10000000.0,100.0,20,15,0.0,False,0.0
+SHPP-8000000,Services/2026-27/0059/058,"Medical and Health Services, Jaipur",Jaipur,8000000.0,80.0,40,15,0.0,False,0.0
+SHPP-1838824,Goods/2026-27/0006/188,"Subordinate Engineering Training Institute, Jaipur",Jaipur,1838824.0,18.3882,58,10,0.0,False,0.0
+SHPP-450000,Goods/2026-27/0003/188,"Subordinate Engineering Training Institute, Jaipur",Jaipur,450000.0,4.5,59,7,0.0,False,0.0
+SHPP-102500000,Services/2026-27/0025/015,"College Education Department, Jaipur",Jaipur,102500000.0,1025.0,62,30,0.0,False,0.0
+SHPP-14440000,Goods/2026-27/0006/045,"Industries Department, Jaipur",Jaipur,14440000.0,144.4,45,15,0.0,False,0.0
+SHPP-2000000.00,DLB2627WSOB24261,Directorate Local Bodies,Jaipur,2000000.0,20.0,11,10,0.0,False,0.0
+SHPP-1000000.00,DLB2627SSOB24265,Directorate Local Bodies,Jaipur,1000000.0,10.0,7,7,0.0,False,0.0
+SHPP-400000.00,MHS2627WSOB04369,Medical and Health Services,Jaipur,400000.0,4.0,7,7,0.0,False,0.0
+SHPP-5000000.00,DLB2627WSOB24260,Directorate Local Bodies,Jaipur,5000000.0,50.0,11,10,0.0,False,0.0
+SHPP-18892000.00,JDA2627WSOB00408,Jaipur Development Authority,Jaipur,18892000.0,188.92,9,15,6,True,55.2
+SHPP-11271000.00,JDA2627WSOB00409,Jaipur Development Authority,Jaipur,11271000.0,112.71,9,15,6,True,54.3
+SHPP-482000.00,DLB2627SSRC24256,Directorate Local Bodies,Jaipur,482000.0,4.82,7,7,0.0,False,0.0
+SHPP-494000.00,DLB2627SSRC24255,Directorate Local Bodies,Jaipur,494000.0,4.94,7,7,0.0,False,0.0
+SHPP-485000.00,DLB2627SSRC24253,Directorate Local Bodies,Jaipur,485000.0,4.85,7,7,0.0,False,0.0
+SHPP-1800000.00,DLB2627SLOB24263,Directorate Local Bodies,Jaipur,1800000.0,18.0,11,10,0.0,False,0.0
+SHPP-41000.00,PWD2627WSOB15554,CE Public Works Department,Jaipur,41000.0,0.41,9,7,0.0,False,0.0
+SHPP-22545000.00,DLB2627WSOB23783,Directorate Local Bodies,Jaipur,22545000.0,225.45,21,30,9,True,48.4
+SHPP-2490000.00,DLB2627WSOB24205,Directorate Local Bodies,Jaipur,2490000.0,24.9,9,10,1,True,31.0
+SHPP-3258000.00,DLB2627WSOB24207,Directorate Local Bodies,Jaipur,3258000.0,32.58,9,10,1,True,31.4
+SHPP-499000.00,DLB2627WSOB24247,Directorate Local Bodies,Jaipur,499000.0,4.99,7,7,0.0,False,0.0
+SHPP-315000.00,PHE2627WSRC06981,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,315000.0,3.15,13,7,0.0,False,0.0
+SHPP-1240000.00,DLB2627WSOB24245,Directorate Local Bodies,Jaipur,1240000.0,12.4,9,10,1,True,29.9
+SHPP-20000000.00,PHE2627WSOB06977,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,20000000.0,200.0,16,15,0.0,False,0.0
+SHPP-2865000.00,RRC2627WSOB00750,Rajasthan State Road Development and Construction Cooperation,Jaipur,2865000.0,28.65,14,10,0.0,False,0.0
+SHPP-854000.00,DLB2627WSOB24244,Directorate Local Bodies,Jaipur,854000.0,8.54,10,7,0.0,False,0.0
+SHPP-178000.00,PWD2627WSOB15530,CE Public Works Department,Jaipur,178000.0,1.78,15,7,0.0,False,0.0
+SHPP-513000.00,PWD2627WSOB15472,CE Public Works Department,Jaipur,513000.0,5.13,11,7,0.0,False,0.0
+SHPP-354000.00,PWD2627WSOB15471,CE Public Works Department,Jaipur,354000.0,3.54,11,7,0.0,False,0.0
+SHPP-155000.00,PWD2627WSOB15462,CE Public Works Department,Jaipur,155000.0,1.55,11,7,0.0,False,0.0
+SHPP-943000.00,PWD2627WSOB15475,CE Public Works Department,Jaipur,943000.0,9.43,11,7,0.0,False,0.0
+SHPP-1320000.00,PWD2627WSOB15542,CE Public Works Department,Jaipur,1320000.0,13.2,15,10,0.0,False,0.0
+SHPP-471000.00,PWD2627WSOB15541,CE Public Works Department,Jaipur,471000.0,4.71,15,7,0.0,False,0.0
+SHPP-2310000.00,PWD2627WSOB15479,CE Public Works Department,Jaipur,2310000.0,23.1,11,10,0.0,False,0.0
+SHPP-1726000.00,PWD2627WSOB15478,CE Public Works Department,Jaipur,1726000.0,17.26,11,10,0.0,False,0.0
+SHPP-225000.00,PWD2627WSOB15466,CE Public Works Department,Jaipur,225000.0,2.25,11,7,0.0,False,0.0
+SHPP-1073000.00,PWD2627WSOB15477,CE Public Works Department,Jaipur,1073000.0,10.73,11,10,0.0,False,0.0
+SHPP-917000.00,PWD2627WSOB15476,CE Public Works Department,Jaipur,917000.0,9.17,11,7,0.0,False,0.0
+SHPP-63289000.00,JDA2627WLOB00406,Jaipur Development Authority,Jaipur,63289000.0,632.89,20,30,10,True,52.4
+SHPP-535840000.00,DLB2627WLOB24186,Directorate Local Bodies,Jaipur,535840000.0,5358.4,11,30,19,True,76.8
+SHPP-559380000.00,DLB2627WLOB24187,Directorate Local Bodies,Jaipur,559380000.0,5593.8,11,30,19,True,76.8
+SHPP-340840000.00,DLB2627WLOB24190,Directorate Local Bodies,Jaipur,340840000.0,3408.4,11,30,19,True,76.0
+SHPP-90397000.00,DLB2627SLOB24214,Directorate Local Bodies,Jaipur,90397000.0,903.97,30,30,0.0,False,0.0
+SHPP-78410000.00,DLB2627SLOB24215,Directorate Local Bodies,Jaipur,78410000.0,784.1,30,30,0.0,False,0.0
+SHPP-91452000.00,DLB2627SLOB24216,Directorate Local Bodies,Jaipur,91452000.0,914.52,30,30,0.0,False,0.0
+SHPP-530000.00,DLB2627SSOB24237,Directorate Local Bodies,Jaipur,530000.0,5.3,6,7,1,True,31.5
+SHPP-510000.00,DLB2627GSOB24240,Directorate Local Bodies,Jaipur,510000.0,5.1,6,7,1,True,31.5
+SHPP-130569000.00,JDA2627WLOB00407,Jaipur Development Authority,Jaipur,130569000.0,1305.69,20,30,10,True,53.5
+SHPP-2416000.00,DLB2627WSOB24229,Directorate Local Bodies,Jaipur,2416000.0,24.16,9,10,1,True,30.9
+SHPP-1178000.00,DLB2627WSOB24165,Directorate Local Bodies,Jaipur,1178000.0,11.78,9,10,1,True,29.8
+SHPP-775000.00,DLB2627WSOB24164,Directorate Local Bodies,Jaipur,775000.0,7.75,9,7,0.0,False,0.0
+SHPP-750000.00,DLB2627WSOB24163,Directorate Local Bodies,Jaipur,750000.0,7.5,9,7,0.0,False,0.0
+SHPP-735000.00,DLB2627WSOB24161,Directorate Local Bodies,Jaipur,735000.0,7.35,9,7,0.0,False,0.0
+SHPP-6000000.00,DLB2627SLRC24239,Directorate Local Bodies,Jaipur,6000000.0,60.0,9,15,6,True,53.4
+SHPP-200000.00,DLB2627GSOB24231,Directorate Local Bodies,Jaipur,200000.0,2.0,6,7,1,True,30.0
+SHPP-300000.00,DLB2627SSOB24230,Directorate Local Bodies,Jaipur,300000.0,3.0,6,7,1,True,30.6
+SHPP-1190000.00,DLB2627WSOB24182,Directorate Local Bodies,Jaipur,1190000.0,11.9,10,10,0.0,False,0.0
+SHPP-1224000.00,DLB2627WSOB24180,Directorate Local Bodies,Jaipur,1224000.0,12.24,10,10,0.0,False,0.0
+SHPP-2494000.00,DLB2627WSOB24179,Directorate Local Bodies,Jaipur,2494000.0,24.94,10,10,0.0,False,0.0
+SHPP-2486000.00,DLB2627WSOB24178,Directorate Local Bodies,Jaipur,2486000.0,24.86,10,10,0.0,False,0.0
+SHPP-1900000.00,RTC2627GLRC00629,Rajasthan State Road Transport Corporation,Jaipur,1900000.0,19.0,25,10,0.0,False,0.0
+SHPP-2500000.00,RTC2627GLRC00630,Rajasthan State Road Transport Corporation,Jaipur,2500000.0,25.0,25,10,0.0,False,0.0
+SHPP-34227000.00,JDA2627WSOB00404,Jaipur Development Authority,Jaipur,34227000.0,342.27,19,30,11,True,53.8
+SHPP-9930000.00,PCB2627GLOB00076,Rajasthan State Pollution Control Board,Jaipur,9930000.0,99.3,10,15,5,True,49.5
+SHPP-23000000.00,RIS2627GLOB00071,Rajcomp Info Services Limited,Jaipur,23000000.0,230.0,17,30,13,True,57.8
+SHPP-6540000.00,PWD2627WSOB15414,CE Public Works Department,Jaipur,6540000.0,65.4,15,15,0.0,False,0.0
+SHPP-3364000.00,PWD2627WSOB15415,CE Public Works Department,Jaipur,3364000.0,33.64,15,10,0.0,False,0.0
+SHPP-2928000.00,PWD2627WSOB15416,CE Public Works Department,Jaipur,2928000.0,29.28,15,10,0.0,False,0.0
+SHPP-1778000.00,PWD2627WSOB15417,CE Public Works Department,Jaipur,1778000.0,17.78,15,10,0.0,False,0.0
+SHPP-1075000.00,PWD2627WSOB15418,CE Public Works Department,Jaipur,1075000.0,10.75,15,10,0.0,False,0.0
+SHPP-4404000.00,PWD2627WSOB15419,CE Public Works Department,Jaipur,4404000.0,44.04,15,10,0.0,False,0.0
+SHPP-1000000000.00,RIS2627SLRC00070,Rajcomp Info Services Limited,Jaipur,1000000000.0,10000.0,33,30,0.0,False,0.0
+SHPP-991000.00,AGM2627WSOB00974,Rajasthan State Agriculture Marketing Board Jaipur,Jaipur,991000.0,9.91,10,7,0.0,False,0.0
+SHPP-498000.00,DLB2627WSOB24155,Directorate Local Bodies,Jaipur,498000.0,4.98,7,7,0.0,False,0.0
+SHPP-460000.00,DLB2627WSOB24154,Directorate Local Bodies,Jaipur,460000.0,4.6,7,7,0.0,False,0.0
+SHPP-491000.00,DLB2627WSOB24153,Directorate Local Bodies,Jaipur,491000.0,4.91,7,7,0.0,False,0.0
+SHPP-17375000.00,PWD2627WSOB15422,CE Public Works Department,Jaipur,17375000.0,173.75,13,15,2,True,36.4
+SHPP-12846000.00,PWD2627WSOB15421,CE Public Works Department,Jaipur,12846000.0,128.46,13,15,2,True,35.9
+SHPP-150000.00,DLB2627WSOB24158,Directorate Local Bodies,Jaipur,150000.0,1.5,7,7,0.0,False,0.0
+SHPP-573000.00,PWD2627WSOB15424,CE Public Works Department,Jaipur,573000.0,5.73,10,7,0.0,False,0.0
+SHPP-11663000.00,PWD2627WSOB15420,CE Public Works Department,Jaipur,11663000.0,116.63,13,15,2,True,35.7
+SHPP-25000000.00,DLB2627SLRC24217,Directorate Local Bodies,Jaipur,25000000.0,250.0,20,30,10,True,50.9
+SHPP-37195000.00,PWD2627WSOB15431,CE Public Works Department,Jaipur,37195000.0,371.95,15,30,15,True,63.2
+SHPP-693000.00,OCL2627GSOB00018,Rajasthan Olive Cultivation Limited,Jaipur,693000.0,6.93,7,7,0.0,False,0.0
+SHPP-482000000.00,MSC2627GLOB00077,Rajasthan Medical Services Corporation Jaipur,Jaipur,482000000.0,4820.0,31,30,0.0,False,0.0
+SHPP-165700000.00,MSC2627GLRC00076,Rajasthan Medical Services Corporation Jaipur,Jaipur,165700000.0,1657.0,31,30,0.0,False,0.0
+SHPP-4987000.00,DLB2627WSRC24147,Directorate Local Bodies,Jaipur,4987000.0,49.87,12,10,0.0,False,0.0
+SHPP-30000000.00,PHE2627WSRC06967,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,30000000.0,300.0,20,30,10,True,51.2
+SHPP-420000.00,DLB2627WSOB24197,Directorate Local Bodies,Jaipur,420000.0,4.2,10,7,0.0,False,0.0
+SHPP-480000.00,DLB2627WSOB24194,Directorate Local Bodies,Jaipur,480000.0,4.8,10,7,0.0,False,0.0
+SHPP-390000.00,DLB2627SSOB24174,Directorate Local Bodies,Jaipur,390000.0,3.9,10,7,0.0,False,0.0
+SHPP-2497000.00,DLB2627WSOB24089,Directorate Local Bodies,Jaipur,2497000.0,24.97,10,10,0.0,False,0.0
+SHPP-283000.00,DLB2627WSOB24145,Directorate Local Bodies,Jaipur,283000.0,2.83,10,7,0.0,False,0.0
+SHPP-850000.00,DLB2627GSRC24085,Directorate Local Bodies,Jaipur,850000.0,8.5,10,7,0.0,False,0.0
+SHPP-650000.00,DLB2627GSRC24081,Directorate Local Bodies,Jaipur,650000.0,6.5,10,7,0.0,False,0.0
+SHPP-875000.00,DLB2627GSRC24076,Directorate Local Bodies,Jaipur,875000.0,8.75,10,7,0.0,False,0.0
+SHPP-891000.00,DLB2627GSRC24074,Directorate Local Bodies,Jaipur,891000.0,8.91,10,7,0.0,False,0.0
+SHPP-3300000.00,DLB2627SLOB24137,Directorate Local Bodies,Jaipur,3300000.0,33.0,17,10,0.0,False,0.0
+SHPP-550000.00,DLB2627WSOB24183,Directorate Local Bodies,Jaipur,550000.0,5.5,10,7,0.0,False,0.0
+SHPP-15000.00,RTC2627SSOB00632,Rajasthan State Road Transport Corporation,Jaipur,15000.0,0.15,10,7,0.0,False,0.0
+SHPP-40000000.00,RTC2627GLRC00628,Rajasthan State Road Transport Corporation,Jaipur,40000000.0,400.0,25,30,5,True,40.0
+SHPP-210293.00,JDA2627SSOE00405,Jaipur Development Authority,Jaipur,210293.0,2.1029,7,7,0.0,False,0.0
+SHPP-470000.00,JDA2627SSSS00410,Jaipur Development Authority,Jaipur,470000.0,4.7,10,7,0.0,False,0.0
+SHPP-38416000.00,PWD2627WSOB15375,CE Public Works Department,Jaipur,38416000.0,384.16,11,30,19,True,72.6
+SHPP-1662000.00,RRC2627WSOB00741,Rajasthan State Road Development and Construction Cooperation,Jaipur,1662000.0,16.62,11,10,0.0,False,0.0
+SHPP-2192000.00,PHE2627WSOB06944,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,2192000.0,21.92,11,10,0.0,False,0.0
+SHPP-4955000.00,DLB2627WSOB24046,Directorate Local Bodies,Jaipur,4955000.0,49.55,9,10,1,True,32.1
+SHPP-4560514.00,RHB2627WSOB00212,Rajasthan Housing Board,Jaipur,4560514.0,45.6051,12,10,0.0,False,0.0
+SHPP-6578612.00,RHB2627WSOB00211,Rajasthan Housing Board,Jaipur,6578612.0,65.7861,12,15,3,True,39.5
+SHPP-7000000.00,PHE2627WSRC06934,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,7000000.0,70.0,13,15,2,True,34.9
+SHPP-364620.00,PHE2627SSOB06942,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,364620.0,3.6462,13,7,0.0,False,0.0
+SHPP-2158000.00,PWD2627WSOB15382,CE Public Works Department,Jaipur,2158000.0,21.58,11,10,0.0,False,0.0
+SHPP-495000.00,PHE2627WSOB06956,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,495000.0,4.95,8,7,0.0,False,0.0
+SHPP-1597000.00,DLB2627WSRC23963,Directorate Local Bodies,Jaipur,1597000.0,15.97,11,10,0.0,False,0.0
+SHPP-1498000.00,DLB2627WSRC23962,Directorate Local Bodies,Jaipur,1498000.0,14.98,11,10,0.0,False,0.0
+SHPP-900000.00,DLB2627GSOB24096,Directorate Local Bodies,Jaipur,900000.0,9.0,8,7,0.0,False,0.0
+SHPP-11700000.00,DLB2627WSOB23999,Directorate Local Bodies,Jaipur,11700000.0,117.0,20,15,0.0,False,0.0
+SHPP-2090000.00,DLB2627WSOB24110,Directorate Local Bodies,Jaipur,2090000.0,20.9,11,10,0.0,False,0.0
+SHPP-4900000.00,DLB2627SLOB24101,Directorate Local Bodies,Jaipur,4900000.0,49.0,11,10,0.0,False,0.0
+SHPP-4351000.00,DLB2627WSOB24087,Directorate Local Bodies,Jaipur,4351000.0,43.51,9,10,1,True,31.9
+SHPP-4750000.00,DLB2627WSOB24108,Directorate Local Bodies,Jaipur,4750000.0,47.5,11,10,0.0,False,0.0
+SHPP-2497563.00,DLB2627WSOB23975,Directorate Local Bodies,Jaipur,2497563.0,24.9756,32,10,0.0,False,0.0
+SHPP-1180000.00,RHB2627SLSS00220,Rajasthan Housing Board,Jaipur,1180000.0,11.8,8,10,2,True,36.8
+SHPP-595000.00,DLB2627SSRC24113,Directorate Local Bodies,Jaipur,595000.0,5.95,8,7,0.0,False,0.0
+SHPP-16724000.00,DLB2627WSOB24112,Directorate Local Bodies,Jaipur,16724000.0,167.24,13,15,2,True,36.3
+SHPP-1588107.00,DLB2627WSOB23967,Directorate Local Bodies,Jaipur,1588107.0,15.8811,32,10,0.0,False,0.0
+SHPP-2499965.00,DLB2627WSOB23969,Directorate Local Bodies,Jaipur,2499965.0,24.9996,32,10,0.0,False,0.0
+SHPP-604800.00,PHE2627WSOB06949,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,604800.0,6.048,8,7,0.0,False,0.0
+SHPP-720400.00,PHE2627WSOB06950,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,720400.0,7.204,8,7,0.0,False,0.0
+SHPP-864000.00,PHE2627WSOB06951,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,864000.0,8.64,8,7,0.0,False,0.0
+SHPP-360000.00,RTC2627SSOB00625,Rajasthan State Road Transport Corporation,Jaipur,360000.0,3.6,16,7,0.0,False,0.0
+SHPP-43000.00,PWD2627WSOB15360,CE Public Works Department,Jaipur,43000.0,0.43,11,7,0.0,False,0.0
+SHPP-16000.00,PWD2627WSOB15363,CE Public Works Department,Jaipur,16000.0,0.16,11,7,0.0,False,0.0
+SHPP-19000.00,PWD2627WSOB15364,CE Public Works Department,Jaipur,19000.0,0.19,11,7,0.0,False,0.0
+SHPP-588000.00,PWD2627WSOB15365,CE Public Works Department,Jaipur,588000.0,5.88,11,7,0.0,False,0.0
+SHPP-1872000.00,PWD2627WSOB15366,CE Public Works Department,Jaipur,1872000.0,18.72,11,10,0.0,False,0.0
+SHPP-3212000.00,PWD2627WSOB15367,CE Public Works Department,Jaipur,3212000.0,32.12,11,10,0.0,False,0.0
+SHPP-194000.00,PWD2627WSOB15368,CE Public Works Department,Jaipur,194000.0,1.94,11,7,0.0,False,0.0
+SHPP-313000.00,PWD2627WSOB15370,CE Public Works Department,Jaipur,313000.0,3.13,11,7,0.0,False,0.0
+SHPP-333000.00,PWD2627WSOB15371,CE Public Works Department,Jaipur,333000.0,3.33,11,7,0.0,False,0.0
+SHPP-584000.00,PHE2627WSOB06913,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,584000.0,5.84,9,7,0.0,False,0.0
+SHPP-497000.00,PHE2627WSOB06912,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,497000.0,4.97,9,7,0.0,False,0.0
+SHPP-14969000.00,DLB2627GLOB23959,Directorate Local Bodies,Jaipur,14969000.0,149.69,20,15,0.0,False,0.0
+SHPP-1993000.00,DLB2627WSOB23900,Directorate Local Bodies,Jaipur,1993000.0,19.93,12,10,0.0,False,0.0
+SHPP-1182000.00,DLB2627WSOB24008,Directorate Local Bodies,Jaipur,1182000.0,11.82,15,10,0.0,False,0.0
+SHPP-1020000.00,DLB2627WSOB23991,Directorate Local Bodies,Jaipur,1020000.0,10.2,12,10,0.0,False,0.0
+SHPP-937000.00,DLB2627WSOB23992,Directorate Local Bodies,Jaipur,937000.0,9.37,12,7,0.0,False,0.0
+SHPP-953000.00,DLB2627WSOB23993,Directorate Local Bodies,Jaipur,953000.0,9.53,12,7,0.0,False,0.0
+SHPP-9964000.00,DLB2627WSOB24000,Directorate Local Bodies,Jaipur,9964000.0,99.64,12,15,3,True,40.2
+SHPP-1708000.00,DLB2627WSOB24058,Directorate Local Bodies,Jaipur,1708000.0,17.08,10,10,0.0,False,0.0
+SHPP-11887000.00,DLB2627WSOB24037,Directorate Local Bodies,Jaipur,11887000.0,118.87,10,15,5,True,49.8
+SHPP-13068000.00,DLB2627WSOB23965,Directorate Local Bodies,Jaipur,13068000.0,130.68,14,15,1,True,31.2
+SHPP-340000.00,DLB2627SSRC24027,Directorate Local Bodies,Jaipur,340000.0,3.4,9,7,0.0,False,0.0
+SHPP-2296305.00,DLB2627WSOB23899,Directorate Local Bodies,Jaipur,2296305.0,22.963,11,10,0.0,False,0.0
+SHPP-261000.00,DLB2627SSRC23977,Directorate Local Bodies,Jaipur,261000.0,2.61,13,7,0.0,False,0.0
+SHPP-996329.00,JMR2627GSOB00079,Jaipur Metro Rail Corporation Limited,Jaipur,996329.0,9.9633,15,7,0.0,False,0.0
+SHPP-1671885.00,FOR2627WSOB03135,PCCF Forest Department,Jaipur,1671885.0,16.7188,9,10,1,True,30.3
+SHPP-2491571.00,FOR2627WSOB03134,PCCF Forest Department,Jaipur,2491571.0,24.9157,9,10,1,True,31.0
+SHPP-12103000.00,DLB2627WSOB23842,Directorate Local Bodies,Jaipur,12103000.0,121.03,20,15,0.0,False,0.0
+SHPP-220000.00,PHE2627WSOB06888,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,220000.0,2.2,14,7,0.0,False,0.0
+SHPP-199000.00,DLB2627WSRC23780,Directorate Local Bodies,Jaipur,199000.0,1.99,13,7,0.0,False,0.0
+SHPP-141972.00,PHE2627WSOB06873,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,141972.0,1.4197,10,7,0.0,False,0.0
+SHPP-399766.00,PHE2627WSOB06872,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,399766.0,3.9977,10,7,0.0,False,0.0
+SHPP-4587000.00,AGM2627WSOB00984,Rajasthan State Agriculture Marketing Board Jaipur,Jaipur,4587000.0,45.87,16,10,0.0,False,0.0
+SHPP-2942000.00,AGM2627WSOB00985,Rajasthan State Agriculture Marketing Board Jaipur,Jaipur,2942000.0,29.42,16,10,0.0,False,0.0
+SHPP-8840000.00,AGM2627WSOB00986,Rajasthan State Agriculture Marketing Board Jaipur,Jaipur,8840000.0,88.4,16,15,0.0,False,0.0
+SHPP-47000000.00,DLB2627WSOB23898,Directorate Local Bodies,Jaipur,47000000.0,470.0,16,30,14,True,61.3
+SHPP-952000.00,DLB2627GSOB23918,Directorate Local Bodies,Jaipur,952000.0,9.52,13,7,0.0,False,0.0
+SHPP-50000.00,VVN2627WSOB00554,Jaipur Vidyut Vitran Nigam Limited,Jaipur,50000.0,0.5,10,7,0.0,False,0.0
+SHPP-30000.00,VVN2627WSOB00553,Jaipur Vidyut Vitran Nigam Limited,Jaipur,30000.0,0.3,10,7,0.0,False,0.0
+SHPP-432000.00,DLB2627WSOB23883,Directorate Local Bodies,Jaipur,432000.0,4.32,13,7,0.0,False,0.0
+SHPP-410000.00,DLB2627WSOB23884,Directorate Local Bodies,Jaipur,410000.0,4.1,13,7,0.0,False,0.0
+SHPP-1711000.00,DLB2627WSOB23879,Directorate Local Bodies,Jaipur,1711000.0,17.11,14,10,0.0,False,0.0
+SHPP-1128000.00,DLB2627WSOB23906,Directorate Local Bodies,Jaipur,1128000.0,11.28,10,10,0.0,False,0.0
+SHPP-994000.00,DLB2627WSOB23909,Directorate Local Bodies,Jaipur,994000.0,9.94,10,7,0.0,False,0.0
+SHPP-1007000.00,DLB2627WSOB23912,Directorate Local Bodies,Jaipur,1007000.0,10.07,10,10,0.0,False,0.0
+SHPP-1005000.00,DLB2627WSOB23914,Directorate Local Bodies,Jaipur,1005000.0,10.05,10,10,0.0,False,0.0
+SHPP-10444188.00,MSC2627GLRC00074,Rajasthan Medical Services Corporation Jaipur,Jaipur,10444188.0,104.4419,23,15,0.0,False,0.0
+SHPP-10974000.00,MSC2627GLRC00073,Rajasthan Medical Services Corporation Jaipur,Jaipur,10974000.0,109.74,16,15,0.0,False,0.0
+SHPP-4500000.00,VVN2627WSOB00535,Jaipur Vidyut Vitran Nigam Limited,Jaipur,4500000.0,45.0,10,10,0.0,False,0.0
+SHPP-2724000.00,DLB2627WSOB23876,Directorate Local Bodies,Jaipur,2724000.0,27.24,14,10,0.0,False,0.0
+SHPP-2160000.00,HCJ2627GLOB00014,Rajasthan High Court Jaipur,Jaipur,2160000.0,21.6,11,10,0.0,False,0.0
+SHPP-49400000.00,DLB2627WSOB23560,Directorate Local Bodies,Jaipur,49400000.0,494.0,14,30,16,True,66.0
+SHPP-439000.00,PHE2627WSOB06856,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,439000.0,4.39,16,7,0.0,False,0.0
+SHPP-27200000.00,MSC2627GLRC00072,Rajasthan Medical Services Corporation Jaipur,Jaipur,27200000.0,272.0,14,30,16,True,65.1
+SHPP-578000.00,DLB2627WSOB23644,Directorate Local Bodies,Jaipur,578000.0,5.78,16,7,0.0,False,0.0
+SHPP-1519000.00,DLB2627WSRC23646,Directorate Local Bodies,Jaipur,1519000.0,15.19,16,10,0.0,False,0.0
+SHPP-1368000.00,RTC2627SLOB00623,Rajasthan State Road Transport Corporation,Jaipur,1368000.0,13.68,11,10,0.0,False,0.0
+SHPP-18746000.00,MHS2627WSOB04312,Medical and Health Services,Jaipur,18746000.0,187.46,17,15,0.0,False,0.0
+SHPP-18265000.00,JDA2627WSOB00403,Jaipur Development Authority,Jaipur,18265000.0,182.65,14,15,1,True,31.8
+SHPP-210000000.00,RIS2627SLOB00068,Rajcomp Info Services Limited,Jaipur,210000000.0,2100.0,29,30,1,True,33.3
+SHPP-9961000.00,MHS2627WSOB04316,Medical and Health Services,Jaipur,9961000.0,99.61,17,15,0.0,False,0.0
+SHPP-9614000.00,AMD2627WSOB00085,Archaelogy and Museums,Jaipur,9614000.0,96.14,15,15,0.0,False,0.0
+SHPP-496000.00,NRH2627WSOB00934,National Rural Health Mission,Jaipur,496000.0,4.96,17,7,0.0,False,0.0
+SHPP-9750000.00,AMD2627WSOB00084,Archaelogy and Museums,Jaipur,9750000.0,97.5,15,15,0.0,False,0.0
+SHPP-12500000.00,DLB2627SLOB23736,Directorate Local Bodies,Jaipur,12500000.0,125.0,21,15,0.0,False,0.0
+SHPP-2400000.00,DLB2627SLOB23737,Directorate Local Bodies,Jaipur,2400000.0,24.0,21,10,0.0,False,0.0
+SHPP-4935000.00,DLB2627WSOB23766,Directorate Local Bodies,Jaipur,4935000.0,49.35,14,10,0.0,False,0.0
+SHPP-4795000.00,DLB2627WSOB23765,Directorate Local Bodies,Jaipur,4795000.0,47.95,14,10,0.0,False,0.0
+SHPP-7333274.00,DLB2627GLOB23839,Directorate Local Bodies,Jaipur,7333274.0,73.3327,23,15,0.0,False,0.0
+SHPP-6247917.00,DLB2627GLOB23838,Directorate Local Bodies,Jaipur,6247917.0,62.4792,23,15,0.0,False,0.0
+SHPP-2734000.00,DLB2627WSOB23651,Directorate Local Bodies,Jaipur,2734000.0,27.34,16,10,0.0,False,0.0
+SHPP-2484000.00,DLB2627GLOB23764,Directorate Local Bodies,Jaipur,2484000.0,24.84,13,10,0.0,False,0.0
+SHPP-2487000.00,DLB2627WSRC23733,Directorate Local Bodies,Jaipur,2487000.0,24.87,15,10,0.0,False,0.0
+SHPP-14164000.00,DLB2627WSOB23740,Directorate Local Bodies,Jaipur,14164000.0,141.64,17,15,0.0,False,0.0
+SHPP-24771000.00,JDA2627WSOB00398,Jaipur Development Authority,Jaipur,24771000.0,247.71,30,30,0.0,False,0.0
+SHPP-2421470.00,DLB2627GLOB23571,Directorate Local Bodies,Jaipur,2421470.0,24.2147,17,10,0.0,False,0.0
+SHPP-10169000.00,RHB2627WSOB00210,Rajasthan Housing Board,Jaipur,10169000.0,101.69,19,15,0.0,False,0.0
+SHPP-100387000.00,RRC2627SLOB00731,Rajasthan State Road Development and Construction Cooperation,Jaipur,100387000.0,1003.87,19,30,11,True,55.5
+SHPP-1900000000.00,RIS2627SLOB00066,Rajcomp Info Services Limited,Jaipur,1900000000.0,19000.0,39,30,0.0,False,0.0
+SHPP-55000000.00,JDA2627WLOB00397,Jaipur Development Authority,Jaipur,55000000.0,550.0,19,30,11,True,54.5
+SHPP-4346000.00,DLB2627WSOB23505,Directorate Local Bodies,Jaipur,4346000.0,43.46,17,10,0.0,False,0.0
+SHPP-4193000.00,DLB2627WSOB23506,Directorate Local Bodies,Jaipur,4193000.0,41.93,17,10,0.0,False,0.0
+SHPP-53846982.00,AMD2627SLOB00079,Archaelogy and Museums,Jaipur,53846982.0,538.4698,19,30,11,True,54.5
+SHPP-2013000.00,DLB2627WSOB23507,Directorate Local Bodies,Jaipur,2013000.0,20.13,17,10,0.0,False,0.0
+SHPP-179428000.00,JDA2627WLOB00401,Jaipur Development Authority,Jaipur,179428000.0,1794.28,20,30,10,True,54.0
+SHPP-56644000.00,JDA2627WLRC00402,Jaipur Development Authority,Jaipur,56644000.0,566.44,20,30,10,True,52.2
+SHPP-560893000.00,JDA2627WLOB00399,Jaipur Development Authority,Jaipur,560893000.0,5608.93,32,30,0.0,False,0.0
+SHPP-173014000.00,JDA2627WLOB00400,Jaipur Development Authority,Jaipur,173014000.0,1730.14,22,30,8,True,49.3
+SHPP-32000000.00,DLB2627WSOB23581,Directorate Local Bodies,Jaipur,32000000.0,320.0,21,30,9,True,49.0
+SHPP-4353000.00,DLB2627WSRC23545,Directorate Local Bodies,Jaipur,4353000.0,43.53,20,10,0.0,False,0.0
+SHPP-684000.00,DLB2627WSRC23548,Directorate Local Bodies,Jaipur,684000.0,6.84,20,7,0.0,False,0.0
+SHPP-1471000.00,DLB2627WSRC23555,Directorate Local Bodies,Jaipur,1471000.0,14.71,20,10,0.0,False,0.0
+SHPP-2248000.00,PHE2627WSOB06830,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,2248000.0,22.48,20,10,0.0,False,0.0
+SHPP-27917133.00,RDC2627WSOB01346,Rajasthan State Industrial Development Investment Corporation,Jaipur,27917133.0,279.1713,20,30,10,True,51.1
+SHPP-40700000.00,DLB2627SLOB23448,Directorate Local Bodies,Jaipur,40700000.0,407.0,21,30,9,True,49.4
+SHPP-981000.00,RSE2627WSOB01577,Rajasthan Council of School Education,Jaipur,981000.0,9.81,20,7,0.0,False,0.0
+SHPP-34600000.00,RVJ2627WSOB00039,Rajasthan University of Veterinary and Animal Science Jobner,Jaipur,34600000.0,346.0,26,30,4,True,37.4
+SHPP-24601000.00,JDA2627WSOB00396,Jaipur Development Authority,Jaipur,24601000.0,246.01,19,30,11,True,53.2
+SHPP-46400000.00,RSC2627WSOB00053,Rajasthan State Sports Council Jaipur,Jaipur,46400000.0,464.0,28,30,2,True,33.2
+SHPP-69484000.00,RSC2627WLOB00052,Rajasthan State Sports Council Jaipur,Jaipur,69484000.0,694.84,28,30,2,True,33.9
+SHPP-64677000.00,RSC2627WLOB00051,Rajasthan State Sports Council Jaipur,Jaipur,64677000.0,646.77,28,30,2,True,33.8
+SHPP-4841000.00,DLB2627WSOB23446,Directorate Local Bodies,Jaipur,4841000.0,48.41,19,10,0.0,False,0.0
+SHPP-3540000.00,DLB2627GLOB23457,Directorate Local Bodies,Jaipur,3540000.0,35.4,19,10,0.0,False,0.0
+SHPP-4484000.00,DLB2627GLOB23449,Directorate Local Bodies,Jaipur,4484000.0,44.84,19,10,0.0,False,0.0
+SHPP-11371.00,RUD2627GSOE00005,Rural Non Farm Development Agency Jaipur,Jaipur,11371.0,0.1137,20,7,0.0,False,0.0
+SHPP-135700000.00,RIS2627SLOB00063,Rajcomp Info Services Limited,Jaipur,135700000.0,1357.0,21,30,9,True,51.3
+SHPP-10967683.00,RHB2627WSOB00194,Rajasthan Housing Board,Jaipur,10967683.0,109.6768,21,15,0.0,False,0.0
+SHPP-125000.00,PHE2627GSOB06760,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,125000.0,1.25,18,7,0.0,False,0.0
+SHPP-30200000.00,RHB2627WSOB00196,Rajasthan Housing Board,Jaipur,30200000.0,302.0,21,30,9,True,48.9
+SHPP-57175000.00,AGM2627WLOB00938,Rajasthan State Agriculture Marketing Board Jaipur,Jaipur,57175000.0,571.75,22,30,8,True,47.6
+SHPP-16808000.00,RHB2627WSOB00197,Rajasthan Housing Board,Jaipur,16808000.0,168.08,21,15,0.0,False,0.0
+SHPP-7275000.00,PHE2627WSOB06773,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,7275000.0,72.75,23,15,0.0,False,0.0
+SHPP-75906000.00,JDA2627WLOB00394,Jaipur Development Authority,Jaipur,75906000.0,759.06,21,30,9,True,50.3
+SHPP-60874000.00,JDA2627WLOB00393,Jaipur Development Authority,Jaipur,60874000.0,608.74,20,30,10,True,52.3
+SHPP-50869000.00,JDA2627WLOB00392,Jaipur Development Authority,Jaipur,50869000.0,508.69,23,30,7,True,45.1
+SHPP-16050000.00,JDA2627WSOB00391,Jaipur Development Authority,Jaipur,16050000.0,160.5,24,15,0.0,False,0.0
+SHPP-37623473.00,JMR2627SLOB00078,Jaipur Metro Rail Corporation Limited,Jaipur,37623473.0,376.2347,24,30,6,True,42.2
+SHPP-670000.00,MCJ2627GSOB00086,"Sawai Man Singh Medical College and Associated Group of Hospitals, Jaipur",Jaipur,670000.0,6.7,35,7,0.0,False,0.0
+SHPP-7670000000.00,RTC2627SLOB00616,Rajasthan State Road Transport Corporation,Jaipur,7670000000.0,76700.0,46,30,0.0,False,0.0
+SHPP-68961000.00,DLB2627WLOB23062,Directorate Local Bodies,Jaipur,68961000.0,689.61,31,30,0.0,False,0.0
+SHPP-200000000.00,TBB2627SLRC00015,Rajasthan State Text Book Board,Jaipur,200000000.0,2000.0,25,30,5,True,42.5
+SHPP-180000000.00,TBB2627GLRC00013,Rajasthan State Text Book Board,Jaipur,180000000.0,1800.0,25,30,5,True,42.4
+SHPP-1720000000.00,TBB2627GLRC00012,Rajasthan State Text Book Board,Jaipur,1720000000.0,17200.0,25,30,5,True,45.9
+SHPP-499833495.00,PHE2627WLOB06689,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,499833495.0,4998.335,25,30,5,True,44.0
+SHPP-3493605.00,JMR2627SLRC00077,Jaipur Metro Rail Corporation Limited,Jaipur,3493605.0,34.9361,23,10,0.0,False,0.0
+SHPP-40572000.00,DLB2627SLOB22650,Directorate Local Bodies,Jaipur,40572000.0,405.72,28,30,2,True,33.0
+SHPP-21000000.00,JDA2627WSOB00381,Jaipur Development Authority,Jaipur,21000000.0,210.0,47,30,0.0,False,0.0
+SHPP-451793.00,JMR2627GSOB00076,Jaipur Metro Rail Corporation Limited,Jaipur,451793.0,4.5179,41,7,0.0,False,0.0
+SHPP-53500000.00,TDC2627SLOB00096,Rajasthan Tourism Development Corporation,Jaipur,53500000.0,535.0,43,30,0.0,False,0.0
+SHPP-105000.00,PHE2627WSOB06599,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,105000.0,1.05,38,7,0.0,False,0.0
+SHPP-14502000.00,MSC2627GLRC00071,Rajasthan Medical Services Corporation Jaipur,Jaipur,14502000.0,145.02,36,15,0.0,False,0.0
+SHPP-14797440.00,MSC2627GLRC00069,Rajasthan Medical Services Corporation Jaipur,Jaipur,14797440.0,147.9744,41,15,0.0,False,0.0
+SHPP-1242000000.00,DLB2627SLRC21325,Directorate Local Bodies,Jaipur,1242000000.0,12420.0,41,30,0.0,False,0.0
+SHPP-199787000.00,VPN2627WLOB01491,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jaipur,199787000.0,1997.87,51,30,0.0,False,0.0
+SHPP-3600000.00,MSC2627GLRC00065,Rajasthan Medical Services Corporation Jaipur,Jaipur,3600000.0,36.0,44,10,0.0,False,0.0
+SHPP-4700000.00,VVN2627WSOB00482,Jaipur Vidyut Vitran Nigam Limited,Jaipur,4700000.0,47.0,63,10,0.0,False,0.0
+SHPP-2100000.00,VVN2627WSOB00477,Jaipur Vidyut Vitran Nigam Limited,Jaipur,2100000.0,21.0,63,10,0.0,False,0.0
+SHPP-6100000.00,VVN2627WSOB00471,Jaipur Vidyut Vitran Nigam Limited,Jaipur,6100000.0,61.0,63,15,0.0,False,0.0
+SHPP-3910000.00,VVN2627WSOB00469,Jaipur Vidyut Vitran Nigam Limited,Jaipur,3910000.0,39.1,63,10,0.0,False,0.0
+SHPP-4610000.00,VVN2627WSOB00468,Jaipur Vidyut Vitran Nigam Limited,Jaipur,4610000.0,46.1,63,10,0.0,False,0.0
+SHPP-4450000.00,VVN2627WSOB00462,Jaipur Vidyut Vitran Nigam Limited,Jaipur,4450000.0,44.5,63,10,0.0,False,0.0
+SHPP-8250000.00,VVN2627WSOB00454,Jaipur Vidyut Vitran Nigam Limited,Jaipur,8250000.0,82.5,63,15,0.0,False,0.0
+SHPP-9350000.00,VVN2627WSOB00448,Jaipur Vidyut Vitran Nigam Limited,Jaipur,9350000.0,93.5,63,15,0.0,False,0.0
+SHPP-9250000.00,VVN2627WSOB00447,Jaipur Vidyut Vitran Nigam Limited,Jaipur,9250000.0,92.5,63,15,0.0,False,0.0
+SHPP-9950000.00,VVN2627WSOB00445,Jaipur Vidyut Vitran Nigam Limited,Jaipur,9950000.0,99.5,63,15,0.0,False,0.0
+SHPP-9300000.00,VVN2627WSOB00443,Jaipur Vidyut Vitran Nigam Limited,Jaipur,9300000.0,93.0,63,15,0.0,False,0.0
+SHPP-2150000.00,VVN2627WSOB00486,Jaipur Vidyut Vitran Nigam Limited,Jaipur,2150000.0,21.5,63,10,0.0,False,0.0
+SHPP-127000.00,PWD2627WSOB14572,CE Public Works Department,Jaipur,127000.0,1.27,47,7,0.0,False,0.0
+SHPP-311000000.00,CMS2627GLOB00063,Rajasthan University of Health Sciences College of Medical Sciences Jaipur,Jaipur,311000000.0,3110.0,80,30,0.0,False,0.0
+SHPP-216500000.00,CMS2627GLOB00065,Rajasthan University of Health Sciences College of Medical Sciences Jaipur,Jaipur,216500000.0,2165.0,80,30,0.0,False,0.0
+SHPP-90000000.00,CMS2627GLOB00064,Rajasthan University of Health Sciences College of Medical Sciences Jaipur,Jaipur,90000000.0,900.0,80,30,0.0,False,0.0
+SHPP-225000000.00,CMS2627GLOB00060,Rajasthan University of Health Sciences College of Medical Sciences Jaipur,Jaipur,225000000.0,2250.0,81,30,0.0,False,0.0
+SHPP-45500000.00,CMS2627GLOB00061,Rajasthan University of Health Sciences College of Medical Sciences Jaipur,Jaipur,45500000.0,455.0,81,30,0.0,False,0.0
+SHPP-1727066.00,VPN2627WSOB01553,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jaipur,1727066.0,17.2707,48,10,0.0,False,0.0
+SHPP-787864.00,VPN2627WSOB01552,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jaipur,787864.0,7.8786,48,7,0.0,False,0.0
+SHPP-586476.00,VPN2627WSOB01550,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jaipur,586476.0,5.8648,48,7,0.0,False,0.0
+SHPP-2590400.00,PHE2627GLOB06323,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,2590400.0,25.904,63,10,0.0,False,0.0
+SHPP-32800000.00,MSC2627GLRC00063,Rajasthan Medical Services Corporation Jaipur,Jaipur,32800000.0,328.0,47,30,0.0,False,0.0
+SHPP-174800000.00,MSC2627SLRC00059,Rajasthan Medical Services Corporation Jaipur,Jaipur,174800000.0,1748.0,57,30,0.0,False,0.0
+SHPP-396661000.00,PWD2627WLOB14118,CE Public Works Department,Jaipur,396661000.0,3966.61,55,30,0.0,False,0.0
+SHPP-396042000.00,PWD2627WLOB14119,CE Public Works Department,Jaipur,396042000.0,3960.42,55,30,0.0,False,0.0
+SHPP-188154000.00,PWD2627WLOB14120,CE Public Works Department,Jaipur,188154000.0,1881.54,55,30,0.0,False,0.0
+SHPP-3500000000.00,JDA2627SLOB00337,Jaipur Development Authority,Jaipur,3500000000.0,35000.0,59,30,0.0,False,0.0
+SHPP-12980000.00,MSC2627GLRC00051,Rajasthan Medical Services Corporation Jaipur,Jaipur,12980000.0,129.8,48,15,0.0,False,0.0
+SHPP-541399024.00,JMR2627WLOB00058,Jaipur Metro Rail Corporation Limited,Jaipur,541399024.0,5413.9902,52,30,0.0,False,0.0
+SHPP-7650000.00,CMS2627GLOB00055,Rajasthan University of Health Sciences College of Medical Sciences Jaipur,Jaipur,7650000.0,76.5,51,15,0.0,False,0.0
+SHPP-170000000.00,CDF2627SLOB01019,Rajasthan Co-operative Dairy Federation Limited,Jaipur,170000000.0,1700.0,50,30,0.0,False,0.0
+SHPP-1517621600.00,VVN2627GLOB00410,Jaipur Vidyut Vitran Nigam Limited,Jaipur,1517621600.0,15176.216,50,30,0.0,False,0.0
+SHPP-6935000.00,PWD2627WSOB13384,CE Public Works Department,Jaipur,6935000.0,69.35,52,15,0.0,False,0.0
+SHPP-175760530.00,JMR2627WLOB00057,Jaipur Metro Rail Corporation Limited,Jaipur,175760530.0,1757.6053,56,30,0.0,False,0.0
+SHPP-76240000.00,PWD2627WLOB12849,CE Public Works Department,Jaipur,76240000.0,762.4,62,30,0.0,False,0.0
+SHPP-158650400.00,RRC2627WLOB00601,Rajasthan State Road Development and Construction Cooperation,Jaipur,158650400.0,1586.504,55,30,0.0,False,0.0
+SHPP-201600.00,JMR2627SSOB00056,Jaipur Metro Rail Corporation Limited,Jaipur,201600.0,2.016,59,7,0.0,False,0.0
+SHPP-5269000.00,PHE2627WSOB05477,"Chief Engineer (Special Project) PHED, Jaipur",Jaipur,5269000.0,52.69,60,15,0.0,False,0.0
+SHPP-6369500.00,MSC2627GSGB00046,Rajasthan Medical Services Corporation Jaipur,Jaipur,6369500.0,63.695,110,15,0.0,False,0.0
+SHPP-1645300000.00,MSC2627GLOB00040,Rajasthan Medical Services Corporation Jaipur,Jaipur,1645300000.0,16453.0,129,30,0.0,False,0.0
+SHPP-4949000.00,DLB2627GLOB08966,Directorate Local Bodies,Jaipur,4949000.0,49.49,348,10,0.0,False,0.0
+SHPP-4996000.00,DLB2627GLOB08963,Directorate Local Bodies,Jaipur,4996000.0,49.96,348,10,0.0,False,0.0
+SHPP-967000.00,DLB2627WSOB08783,Directorate Local Bodies,Jaipur,967000.0,9.67,342,7,0.0,False,0.0
+SHPP-2055096.00,RTC2526SLOB00753,Rajasthan State Road Transport Corporation,Jaipur,2055096.0,20.551,349,10,0.0,False,0.0
+SHPP-135540.00,DLB2526WSOE27790,Directorate Local Bodies,Jaipur,135540.0,1.3554,346,7,0.0,False,0.0

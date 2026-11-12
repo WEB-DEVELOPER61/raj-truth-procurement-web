@@ -1,0 +1,19 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-700000.00,PHE2627GSOB06463,"Chief Engineer (Special Project) PHED, Jaipur",Jaisalmer,700000.0,7.0,7,7,0.0,False,0.0
+SHPP-475000.00,PHE2627WSRC06481,"Chief Engineer (Special Project) PHED, Jaipur",Jaisalmer,475000.0,4.75,8,7,0.0,False,0.0
+SHPP-450000.00,PHE2627WSRC06489,"Chief Engineer (Special Project) PHED, Jaipur",Jaisalmer,450000.0,4.5,8,7,0.0,False,0.0
+SHPP-1832000.00,TDC2627SLOB00102,Rajasthan Tourism Development Corporation,Jaisalmer,1832000.0,18.32,30,10,0.0,False,0.0
+SHPP-12377000.00,UJS2627WSOB00034,Urban Development Trust Jaisalmer,Jaisalmer,12377000.0,123.77,21,15,0.0,False,0.0
+SHPP-22382000.00,PWD2627WSOB14654,CE Public Works Department,Jaisalmer,22382000.0,223.82,35,30,0.0,False,0.0
+SHPP-4718000.00,PWD2627WSOB14653,CE Public Works Department,Jaisalmer,4718000.0,47.18,35,10,0.0,False,0.0
+SHPP-9497000.00,PWD2627WSOB14652,CE Public Works Department,Jaisalmer,9497000.0,94.97,35,15,0.0,False,0.0
+SHPP-29222000.00,PWD2627WSOB14651,CE Public Works Department,Jaisalmer,29222000.0,292.22,35,30,0.0,False,0.0
+SHPP-19543000.00,PWD2627WSOB14650,CE Public Works Department,Jaisalmer,19543000.0,195.43,35,15,0.0,False,0.0
+SHPP-4316000.00,PWD2627WSOB13971,CE Public Works Department,Jaisalmer,4316000.0,43.16,50,10,0.0,False,0.0
+SHPP-3885000.00,PWD2627WSOB13972,CE Public Works Department,Jaisalmer,3885000.0,38.85,50,10,0.0,False,0.0
+SHPP-6044000.00,PWD2627WSOB13975,CE Public Works Department,Jaisalmer,6044000.0,60.44,50,15,0.0,False,0.0
+SHPP-5612000.00,PWD2627WSOB13977,CE Public Works Department,Jaisalmer,5612000.0,56.12,50,15,0.0,False,0.0
+SHPP-3453000.00,PWD2627WSOB13981,CE Public Works Department,Jaisalmer,3453000.0,34.53,50,10,0.0,False,0.0
+SHPP-6907000.00,PWD2627WSOB13969,CE Public Works Department,Jaisalmer,6907000.0,69.07,50,15,0.0,False,0.0
+SHPP-77792000.00,PWD2627WLOB12721,CE Public Works Department,Jaisalmer,77792000.0,777.92,55,30,0.0,False,0.0
+SHPP-2459347.00,VPN2627WSOB01346,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jaisalmer,2459347.0,24.5935,55,10,0.0,False,0.0

@@ -1,0 +1,6 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-975000.00,ESD2627SSRC00157,Economics and Statistics,Banswara,975000.0,9.75,7,7,0.0,False,0.0
+SHPP-4000000.00,ESD2627SLRC00155,Economics and Statistics,Banswara,4000000.0,40.0,15,10,0.0,False,0.0
+SHPP-89753000.00,RRC2627SLOB00749,Rajasthan State Road Development and Construction Cooperation,Banswara,89753000.0,897.53,10,30,20,True,76.3
+SHPP-955000.00,DLB2627WSOB24144,Directorate Local Bodies,Banswara,955000.0,9.55,9,7,0.0,False,0.0
+SHPP-904567.00,RVU2627WSOB01256,Rajasthan Rajya Vidut Utpadan Nigam Limited,Banswara,904567.0,9.0457,35,7,0.0,False,0.0

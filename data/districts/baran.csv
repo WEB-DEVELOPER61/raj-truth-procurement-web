@@ -1,0 +1,16 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2580000.00,WMP2627SLOB00138,Women Empowerment,Baran,2580000.0,25.8,12,10,0.0,False,0.0
+SHPP-731000.00,PWD2627WSOB15179,CE Public Works Department,Baran,731000.0,7.31,11,7,0.0,False,0.0
+SHPP-1200000.00,PHE2627WSOB06920,"Chief Engineer (Special Project) PHED, Jaipur",Baran,1200000.0,12.0,15,10,0.0,False,0.0
+SHPP-114815.00,RVU2627WSLB01412,Rajasthan Rajya Vidut Utpadan Nigam Limited,Baran,114815.0,1.1482,10,7,0.0,False,0.0
+SHPP-129511000.00,PWD2627WLOB15167,CE Public Works Department,Baran,129511000.0,1295.11,34,30,0.0,False,0.0
+SHPP-32118000.00,PWD2627WSOB15168,CE Public Works Department,Baran,32118000.0,321.18,34,30,0.0,False,0.0
+SHPP-734000.00,RVU2627GSOB01226,Rajasthan Rajya Vidut Utpadan Nigam Limited,Baran,734000.0,7.34,33,7,0.0,False,0.0
+SHPP-218000.00,RVU2627GSOB01231,Rajasthan Rajya Vidut Utpadan Nigam Limited,Baran,218000.0,2.18,33,7,0.0,False,0.0
+SHPP-2473000.00,RVU2627GLOB01230,Rajasthan Rajya Vidut Utpadan Nigam Limited,Baran,2473000.0,24.73,33,10,0.0,False,0.0
+SHPP-145000.00,RVU2627GSOB01229,Rajasthan Rajya Vidut Utpadan Nigam Limited,Baran,145000.0,1.45,34,7,0.0,False,0.0
+SHPP-6130000.00,PWD2627WSOB13062,CE Public Works Department,Baran,6130000.0,61.3,48,15,0.0,False,0.0
+SHPP-8650000.00,VVN2627WSOB00466,Jaipur Vidyut Vitran Nigam Limited,Baran,8650000.0,86.5,63,15,0.0,False,0.0
+SHPP-1215702.00,RVU2627GLOB01260,Rajasthan Rajya Vidut Utpadan Nigam Limited,Baran,1215702.0,12.157,47,10,0.0,False,0.0
+SHPP-11313840.00,RVU2627GLOB01271,Rajasthan Rajya Vidut Utpadan Nigam Limited,Baran,11313840.0,113.1384,47,15,0.0,False,0.0
+SHPP-165100000.00,RVU2627GLOB00504,Rajasthan Rajya Vidut Utpadan Nigam Limited,Baran,165100000.0,1651.0,151,30,0.0,False,0.0

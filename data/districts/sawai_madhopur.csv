@@ -1,0 +1,3 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-4859000.00,PHE2627WSOB06957,"Chief Engineer (Special Project) PHED, Jaipur",Sawai Madhopur,4859000.0,48.59,19,10,0.0,False,0.0
+SHPP-514540000.00,VPN2627WLOB01361,Rajasthan Rajya Vidut Prasaran Nigam Limited,Sawai Madhopur,514540000.0,5145.4,48,30,0.0,False,0.0

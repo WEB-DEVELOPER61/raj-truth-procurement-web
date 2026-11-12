@@ -1,0 +1,9 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-24656000.00,RRC2627SLOB00748,Rajasthan State Road Development and Construction Cooperation,Karauli,24656000.0,246.56,10,30,20,True,74.2
+SHPP-4315000.00,DLB2627WSRC23532,Directorate Local Bodies,Karauli,4315000.0,43.15,20,10,0.0,False,0.0
+SHPP-3802000.00,DLB2627WSRC23537,Directorate Local Bodies,Karauli,3802000.0,38.02,20,10,0.0,False,0.0
+SHPP-1911000.00,DLB2627WSRC23541,Directorate Local Bodies,Karauli,1911000.0,19.11,20,10,0.0,False,0.0
+SHPP-2556000.00,DLB2627WSRC23554,Directorate Local Bodies,Karauli,2556000.0,25.56,20,10,0.0,False,0.0
+SHPP-421000.00,ZKR2627WSRC01051,Zila Parishad Karauli,Karauli,421000.0,4.21,58,7,0.0,False,0.0
+SHPP-49836000.00,RRC2627WSOB00647,Rajasthan State Road Development and Construction Cooperation,Karauli,49836000.0,498.36,44,30,0.0,False,0.0
+SHPP-16759000.00,PWD2627WSOB13025,CE Public Works Department,Karauli,16759000.0,167.59,56,15,0.0,False,0.0

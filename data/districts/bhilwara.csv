@@ -1,0 +1,11 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2217200,Goods/2026-27/0054/015,"College Education Department, Jaipur",Bhilwara,2217200.0,22.172,23,10,0.0,False,0.0
+SHPP-24314000.00,RRC2627WSOB00751,Rajasthan State Road Development and Construction Cooperation,Bhilwara,24314000.0,243.14,12,30,18,True,69.6
+SHPP-1.00,UTB2627WSOB00159,Urban Improvement Trust Bhilwara,Bhilwara,1.0,0.0,16,7,0.0,False,0.0
+SHPP-7495000.00,UTB2627WSOB00161,Urban Improvement Trust Bhilwara,Bhilwara,7495000.0,74.95,16,15,0.0,False,0.0
+SHPP-19418100.00,ZBL2627WSOB02049,Zila Parishad Bhilwara,Bhilwara,19418100.0,194.181,20,15,0.0,False,0.0
+SHPP-15000000.00,PHE2627WSRC06966,"Chief Engineer (Special Project) PHED, Jaipur",Bhilwara,15000000.0,150.0,17,15,0.0,False,0.0
+SHPP-496191000.00,RRC2627SLOB00747,Rajasthan State Road Development and Construction Cooperation,Bhilwara,496191000.0,4961.91,10,30,20,True,79.0
+SHPP-1147000.00,UTB2627WSOB00152,Urban Improvement Trust Bhilwara,Bhilwara,1147000.0,11.47,21,10,0.0,False,0.0
+SHPP-1700000.00,PHE2627WSRC06831,"Chief Engineer (Special Project) PHED, Jaipur",Bhilwara,1700000.0,17.0,20,10,0.0,False,0.0
+SHPP-605000.00,PWD2627WSOB14067,CE Public Works Department,Bhilwara,605000.0,6.05,40,7,0.0,False,0.0

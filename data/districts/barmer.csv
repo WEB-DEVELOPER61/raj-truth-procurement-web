@@ -1,0 +1,6 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-1960000,Goods/2026-27/0078/015,"College Education Department, Jaipur",Barmer,1960000.0,19.6,17,10,0.0,False,0.0
+SHPP-4400000.00,FCC2627SLOB00124,"Commissioner Food, Civil Supplies and Consumer Affairs",Barmer,4400000.0,44.0,21,10,0.0,False,0.0
+SHPP-354296.00,RHB2627WSOB00213,Rajasthan Housing Board,Barmer,354296.0,3.543,12,7,0.0,False,0.0
+SHPP-400000000.00,BLM2627WLOB00004,Barmer Lignite Mining Company Limited,Barmer,400000000.0,4000.0,30,30,0.0,False,0.0
+SHPP-12000000.00,PHE2627SLRC06866,"Chief Engineer (Special Project) PHED, Jaipur",Barmer,12000000.0,120.0,21,15,0.0,False,0.0

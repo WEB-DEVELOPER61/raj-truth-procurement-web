@@ -1,0 +1,19 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-649000,Services/2026-27/0058/012,"Women Empowerment Department, Jaipur",Hanumangarh,649000.0,6.49,39,7,0.0,False,0.0
+SHPP-999000.00,DLB2627GSOB24248,Directorate Local Bodies,Hanumangarh,999000.0,9.99,7,7,0.0,False,0.0
+SHPP-902000.00,DLB2627GSRC24249,Directorate Local Bodies,Hanumangarh,902000.0,9.02,7,7,0.0,False,0.0
+SHPP-2471525.00,DLB2627WSOB23978,Directorate Local Bodies,Hanumangarh,2471525.0,24.7153,32,10,0.0,False,0.0
+SHPP-2499349.00,DLB2627WSOB23979,Directorate Local Bodies,Hanumangarh,2499349.0,24.9935,32,10,0.0,False,0.0
+SHPP-2449169.00,DLB2627WSOB23980,Directorate Local Bodies,Hanumangarh,2449169.0,24.4917,32,10,0.0,False,0.0
+SHPP-749967.00,DLB2627WSOB23966,Directorate Local Bodies,Hanumangarh,749967.0,7.4997,32,7,0.0,False,0.0
+SHPP-2130696.00,DLB2627WSOB23971,Directorate Local Bodies,Hanumangarh,2130696.0,21.307,32,10,0.0,False,0.0
+SHPP-2491174.00,DLB2627WSOB23972,Directorate Local Bodies,Hanumangarh,2491174.0,24.9117,32,10,0.0,False,0.0
+SHPP-2494771.00,DLB2627WSOB23973,Directorate Local Bodies,Hanumangarh,2494771.0,24.9477,32,10,0.0,False,0.0
+SHPP-2422000.00,DLB2627WSOB23878,Directorate Local Bodies,Hanumangarh,2422000.0,24.22,14,10,0.0,False,0.0
+SHPP-2452000.00,DLB2627WSOB23877,Directorate Local Bodies,Hanumangarh,2452000.0,24.52,14,10,0.0,False,0.0
+SHPP-1018000.00,DLB2627WSOB23875,Directorate Local Bodies,Hanumangarh,1018000.0,10.18,14,10,0.0,False,0.0
+SHPP-20240000.00,DLB2627WSOB23378,Directorate Local Bodies,Hanumangarh,20240000.0,202.4,21,30,9,True,48.3
+SHPP-9999000.00,DLB2627WSOB23381,Directorate Local Bodies,Hanumangarh,9999000.0,99.99,21,15,0.0,False,0.0
+SHPP-1629000.00,RRC2627WSOB00702,Rajasthan State Road Development and Construction Cooperation,Hanumangarh,1629000.0,16.29,33,10,0.0,False,0.0
+SHPP-1505000.00,RRC2627WSOB00696,Rajasthan State Road Development and Construction Cooperation,Hanumangarh,1505000.0,15.05,34,10,0.0,False,0.0
+SHPP-1467000.00,PWD2627WSOB14133,CE Public Works Department,Hanumangarh,1467000.0,14.67,60,10,0.0,False,0.0
