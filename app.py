@@ -863,7 +863,7 @@ with tab3:
                 st.dataframe(ct_q, use_container_width=True)
                 undated_count = len(df_filtered) - len(valid_temporal_df)
                 if undated_count > 0:
-                    st.caption(f"Integrity Safeguard: {undated_count} undated notices excluded from temporal matrix to prevent synthetic bias.")
+                    st.caption(f"Zero-Imputation Safeguard: Temporal confounder test restricted strictly to N = {len(valid_temporal_df):,} notices with explicitly documented NIT dates ({undated_count:,} duration-only records excluded to prevent synthetic date bias).")
 
             calc_q = ct_q[['Compliant', 'Violation']]
             active_quarters = calc_q[calc_q.sum(axis=1) > 0]
