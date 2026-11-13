@@ -186,6 +186,69 @@ def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str
             
     return clean_dist, clean_div
 
+def _get_candidate_date_columns(df_columns, col_map):
+    """
+    Identifies authentic date/timestamp columns in priority order while
+    strictly excluding duration/window columns (e.g. 'published_duration_days').
+    """
+    excluded_tokens = ('duration', 'days', 'window', 'deficit', 'mandated', 'score', 'amount', 'cost')
+    preferred_keys = [
+        'publish_date', 'published_date', 'e_published_date', 'e-published date',
+        'epublished_date', 'nit_date', 'tender_date', 'start_date', 'date',
+        'bid_opening_date', 'opening_date', 'bid_closing_date', 'closing_date',
+        'timestamp', 'created_at'
+    ]
+    
+    candidates = []
+    for key in preferred_keys:
+        if key in col_map and col_map[key] not in candidates:
+            candidates.append(col_map[key])
+            
+    for c in df_columns:
+        c_low = str(c).strip().lower()
+        if c in candidates or any(tok in c_low for tok in excluded_tokens):
+            continue
+        if any(tok in c_low for tok in ('date', 'published', 'timestamp', 'created', 'opening', 'closing')):
+            candidates.append(c)
+            
+    return candidates
+
+def _parse_fiscal_quarter(row, date_cols, q_labels):
+    """
+    Parses standard ISO, eProc Rajasthan (DD-MMM-YYYY HH:MM AM/PM), and
+    Indian day-first (DD/MM/YYYY, DD-MM-YYYY) timestamps into Indian fiscal quarters.
+    """
+    for col in date_cols:
+        raw_val = row.get(col)
+        if pd.isna(raw_val):
+            continue
+        # Ignore bare numeric day counts (e.g., 7, 10, 15, 30)
+        if isinstance(raw_val, (int, float, np.integer, np.floating)):
+            continue
+        val_str = str(raw_val).strip()
+        if not val_str or val_str.lower() in ('nan', 'none', 'nat', 'n/a', 'null', '-'):
+            continue
+        if val_str.replace('.', '', 1).isdigit():
+            continue
+
+        is_iso = len(val_str) >= 4 and val_str[:4].isdigit()
+        dt = pd.to_datetime(val_str, dayfirst=not is_iso, errors='coerce')
+        if pd.isna(dt):
+            dt = pd.to_datetime(val_str, dayfirst=is_iso, errors='coerce')
+
+        if pd.notna(dt) and 2000 <= dt.year <= 2100:
+            m = dt.month
+            if m in (4, 5, 6):
+                return q_labels[0]
+            elif m in (7, 8, 9):
+                return q_labels[1]
+            elif m in (10, 11, 12):
+                return q_labels[2]
+            else:
+                return q_labels[3]
+
+    return "Undated / Missing Metadata"
+
 @st.cache_data(ttl=60, show_spinner=False)
 def load_all_district_data():
     csv_candidates = glob.glob("data/districts/*.csv") + glob.glob("data/*.csv") + glob.glob("*.csv")
@@ -205,8 +268,11 @@ def load_all_district_data():
             id_col = col_map.get('tender_id') or next((c for c in df.columns if 'id' in str(c).lower()), None)
             amt_col = col_map.get('tender_amount') or col_map.get('estimated_cost_lac') or col_map.get('cost') or col_map.get('amount')
             dur_col = col_map.get('published_duration_days') or col_map.get('actual_window_days') or col_map.get('duration') or col_map.get('window')
-            date_col = next((c for c in df.columns if any(k in str(c).lower() for k in ['date', 'pub', 'time'])), None)
+            date_cols = _get_candidate_date_columns(df.columns, col_map)
             admin_div_col = col_map.get('administrative_division')
+            dist_col = col_map.get('district')
+            div_col = col_map.get('division')
+            nit_col = col_map.get('nit_no')
             
             if not id_col:
                 continue
@@ -224,27 +290,15 @@ def load_all_district_data():
                 days = 10.0 if pd.isna(days_val) or days_val < 0 else float(days_val)
                 
                 mandated, is_viol, deficit, pri = calculate_rule_43(amt, days)
-                
-                q_assigned = None
-                if date_col and pd.notna(r.get(date_col)):
-                    dt = pd.to_datetime(r[date_col], errors='coerce')
-                    if pd.notna(dt):
-                        m = dt.month
-                        if m in [4, 5, 6]: q_assigned = q_labels[0]
-                        elif m in [7, 8, 9]: q_assigned = q_labels[1]
-                        elif m in [10, 11, 12]: q_assigned = q_labels[2]
-                        else: q_assigned = q_labels[3]
-                
-                if not q_assigned:
-                    q_assigned = "Undated / Missing Metadata"
+                q_assigned = _parse_fiscal_quarter(r, date_cols, q_labels)
                 
                 dist_name, div_name = infer_entity_and_circle(
                     tid, 
-                    r.get('district', filename), 
-                    r.get('division', '')
+                    r.get(dist_col, filename) if dist_col else filename, 
+                    r.get(div_col, '') if div_col else ''
                 )
                 
-                nit_name = str(r.get('nit_no', '')).strip()
+                nit_name = str(r.get(nit_col, '')).strip() if nit_col else ''
                 if not nit_name or nit_name.lower() in ["none", "nan"]:
                     parts = tid.split('_')
                     nit_name = f"NIT {parts[-2]}_{parts[-1]}" if len(parts) >= 3 else f"NIT {tid[-8:]}"
@@ -254,7 +308,7 @@ def load_all_district_data():
                     'nit_no': nit_name,
                     'division': div_name,
                     'district': dist_name,
-                    'administrative_division': str(r.get(admin_div_col, '')),
+                    'administrative_division': str(r.get(admin_div_col, '')) if admin_div_col else '',
                     'tender_amount': amt,
                     'estimated_cost_lac': round(amt / 100000.0, 2),
                     'actual_window_days': int(round(days)),
