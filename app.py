@@ -188,6 +188,10 @@ def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str
     return clean_dist, clean_div
 
 def _get_candidate_date_columns(df_columns, col_map):
+    """
+    Identifies authentic date/timestamp columns in priority order while
+    strictly excluding duration/window columns (e.g. 'published_duration_days').
+    """
     excluded_tokens = ('duration', 'days', 'window', 'deficit', 'mandated', 'score', 'amount', 'cost')
     preferred_keys = [
         'publish_date', 'published_date', 'e_published_date', 'e-published date',
@@ -353,6 +357,7 @@ def load_all_district_data():
     if combined_rows:
         df_master = pd.DataFrame(combined_rows).drop_duplicates(subset=['tender_id'])
         
+        # Dual-sieve ML component: Fit unsupervised Isolation Forest globally
         if len(df_master) >= 10:
             log_cost = np.log10(df_master['tender_amount'].clip(lower=1000.0).values)
             windows = df_master['actual_window_days'].clip(lower=1).values
@@ -397,13 +402,31 @@ df_all = load_all_district_data()
 # 4. SIDEBAR CONTROLS & ADMINISTRATIVE TAXONOMY
 # -------------------------------------------------------------
 RAJASTHAN_ADMIN_HIERARCHY = {
-    "Jaipur Division": ["Jaipur", "Alwar", "Dausa", "Jhunjhunu", "Sikar", "Khairthal-Tijara", "Kotputli-Behror"],
-    "Jodhpur Division": ["Jodhpur", "Barmer", "Jaisalmer", "Jalore", "Pali", "Sirohi", "Balotra", "Phalodi"],
-    "Ajmer Division": ["Ajmer", "Bhilwara", "Nagaur", "Tonk", "Beawar", "Didwana-Kuchaman"],
-    "Udaipur Division": ["Udaipur", "Banswara", "Chittorgarh", "Dungarpur", "Pratapgarh", "Rajsamand", "Salumbar"],
-    "Bikaner Division": ["Bikaner", "Churu", "Hanumangarh", "Sri Ganganagar"],
-    "Kota Division": ["Kota", "Baran", "Bundi", "Jhalawar"],
-    "Bharatpur Division": ["Bharatpur", "Dholpur", "Karauli", "Sawai Madhopur", "Deeg"]
+    "Jaipur Division": [
+        "Jaipur", "Alwar", "Dausa", "Jhunjhunu", "Sikar", 
+        "Khairthal-Tijara", "Kotputli-Behror"
+    ],
+    "Jodhpur Division": [
+        "Jodhpur", "Barmer", "Jaisalmer", "Jalore", "Pali", 
+        "Sirohi", "Balotra", "Phalodi"
+    ],
+    "Ajmer Division": [
+        "Ajmer", "Bhilwara", "Nagaur", "Tonk", 
+        "Beawar", "Didwana-Kuchaman"
+    ],
+    "Udaipur Division": [
+        "Udaipur", "Banswara", "Chittorgarh", "Dungarpur", 
+        "Pratapgarh", "Rajsamand", "Salumbar"
+    ],
+    "Bikaner Division": [
+        "Bikaner", "Churu", "Hanumangarh", "Sri Ganganagar"
+    ],
+    "Kota Division": [
+        "Kota", "Baran", "Bundi", "Jhalawar"
+    ],
+    "Bharatpur Division": [
+        "Bharatpur", "Dholpur", "Karauli", "Sawai Madhopur", "Deeg"
+    ]
 }
 
 with st.sidebar:
@@ -434,6 +457,7 @@ with st.sidebar:
     st.markdown("---")
     st.caption("RFC 6962 Domain Separation • SIMD Columnar DuckDB Engine")
 
+# Filter execution across selected district/division
 df_filtered = df_all.copy()
 
 if selected_division != "All Rajasthan (Statewide)":
