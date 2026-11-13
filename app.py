@@ -1,4 +1,5 @@
 import os
+import re
 import glob
 import time
 import math
@@ -187,10 +188,6 @@ def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str
     return clean_dist, clean_div
 
 def _get_candidate_date_columns(df_columns, col_map):
-    """
-    Identifies authentic date/timestamp columns in priority order while
-    strictly excluding duration/window columns (e.g. 'published_duration_days').
-    """
     excluded_tokens = ('duration', 'days', 'window', 'deficit', 'mandated', 'score', 'amount', 'cost')
     preferred_keys = [
         'publish_date', 'published_date', 'e_published_date', 'e-published date',
@@ -216,13 +213,13 @@ def _get_candidate_date_columns(df_columns, col_map):
 def _parse_fiscal_quarter(row, date_cols, q_labels):
     """
     Parses standard ISO, eProc Rajasthan (DD-MMM-YYYY HH:MM AM/PM), and
-    Indian day-first (DD/MM/YYYY, DD-MM-YYYY) timestamps into Indian fiscal quarters.
+    Indian day-first (DD/MM/YYYY, DD-MM-YYYY) timestamps into Indian fiscal quarters,
+    with a fallback regex extractor for publication dates embedded in nit_no / tender_id.
     """
     for col in date_cols:
         raw_val = row.get(col)
         if pd.isna(raw_val):
             continue
-        # Ignore bare numeric day counts (e.g., 7, 10, 15, 30)
         if isinstance(raw_val, (int, float, np.integer, np.floating)):
             continue
         val_str = str(raw_val).strip()
@@ -246,6 +243,38 @@ def _parse_fiscal_quarter(row, date_cols, q_labels):
                 return q_labels[2]
             else:
                 return q_labels[3]
+
+    # Fallback: Extract publication dates embedded inside nit_no or tender_id text
+    pat_broad = re.compile(
+        r"(?:\b(0?[1-9]|[12][0-9]|3[01])[-/.](0?[1-9]|1[0-2])[-/.](202[3-7])\b(?!-\d{2}\b))"
+        r"|(?:\b(202[3-7])[-/.](0?[1-9]|1[0-2])[-/.](0?[1-9]|[12][0-9]|3[01])\b)"
+        r"|(?:\b(0?[1-9]|[12][0-9]|3[01])[-\s](Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*[-\s,]+(202[3-7])\b(?!-\d{2}\b))",
+        re.IGNORECASE
+    )
+
+    text_blob = f"{row.get('nit_no', '')} {row.get('tender_id', '')}"
+    match = pat_broad.search(text_blob)
+    if match:
+        try:
+            if match.group(1):
+                dt = pd.to_datetime(f"{match.group(3)}-{match.group(2)}-{match.group(1)}", errors='coerce')
+            elif match.group(4):
+                dt = pd.to_datetime(f"{match.group(4)}-{match.group(5)}-{match.group(6)}", errors='coerce')
+            else:
+                dt = pd.to_datetime(f"{match.group(7)} {match.group(8)} {match.group(9)}", errors='coerce')
+
+            if pd.notna(dt) and 2000 <= dt.year <= 2100:
+                m = dt.month
+                if m in (4, 5, 6):
+                    return q_labels[0]
+                elif m in (7, 8, 9):
+                    return q_labels[1]
+                elif m in (10, 11, 12):
+                    return q_labels[2]
+                else:
+                    return q_labels[3]
+        except Exception:
+            pass
 
     return "Undated / Missing Metadata"
 
@@ -324,7 +353,6 @@ def load_all_district_data():
     if combined_rows:
         df_master = pd.DataFrame(combined_rows).drop_duplicates(subset=['tender_id'])
         
-        # Dual-sieve ML component: Fit unsupervised Isolation Forest globally
         if len(df_master) >= 10:
             log_cost = np.log10(df_master['tender_amount'].clip(lower=1000.0).values)
             windows = df_master['actual_window_days'].clip(lower=1).values
@@ -369,31 +397,13 @@ df_all = load_all_district_data()
 # 4. SIDEBAR CONTROLS & ADMINISTRATIVE TAXONOMY
 # -------------------------------------------------------------
 RAJASTHAN_ADMIN_HIERARCHY = {
-    "Jaipur Division": [
-        "Jaipur", "Alwar", "Dausa", "Jhunjhunu", "Sikar", 
-        "Khairthal-Tijara", "Kotputli-Behror"
-    ],
-    "Jodhpur Division": [
-        "Jodhpur", "Barmer", "Jaisalmer", "Jalore", "Pali", 
-        "Sirohi", "Balotra", "Phalodi"
-    ],
-    "Ajmer Division": [
-        "Ajmer", "Bhilwara", "Nagaur", "Tonk", 
-        "Beawar", "Didwana-Kuchaman"
-    ],
-    "Udaipur Division": [
-        "Udaipur", "Banswara", "Chittorgarh", "Dungarpur", 
-        "Pratapgarh", "Rajsamand", "Salumbar"
-    ],
-    "Bikaner Division": [
-        "Bikaner", "Churu", "Hanumangarh", "Sri Ganganagar"
-    ],
-    "Kota Division": [
-        "Kota", "Baran", "Bundi", "Jhalawar"
-    ],
-    "Bharatpur Division": [
-        "Bharatpur", "Dholpur", "Karauli", "Sawai Madhopur", "Deeg"
-    ]
+    "Jaipur Division": ["Jaipur", "Alwar", "Dausa", "Jhunjhunu", "Sikar", "Khairthal-Tijara", "Kotputli-Behror"],
+    "Jodhpur Division": ["Jodhpur", "Barmer", "Jaisalmer", "Jalore", "Pali", "Sirohi", "Balotra", "Phalodi"],
+    "Ajmer Division": ["Ajmer", "Bhilwara", "Nagaur", "Tonk", "Beawar", "Didwana-Kuchaman"],
+    "Udaipur Division": ["Udaipur", "Banswara", "Chittorgarh", "Dungarpur", "Pratapgarh", "Rajsamand", "Salumbar"],
+    "Bikaner Division": ["Bikaner", "Churu", "Hanumangarh", "Sri Ganganagar"],
+    "Kota Division": ["Kota", "Baran", "Bundi", "Jhalawar"],
+    "Bharatpur Division": ["Bharatpur", "Dholpur", "Karauli", "Sawai Madhopur", "Deeg"]
 }
 
 with st.sidebar:
@@ -424,7 +434,6 @@ with st.sidebar:
     st.markdown("---")
     st.caption("RFC 6962 Domain Separation • SIMD Columnar DuckDB Engine")
 
-# Filter execution across selected district/division
 df_filtered = df_all.copy()
 
 if selected_division != "All Rajasthan (Statewide)":
