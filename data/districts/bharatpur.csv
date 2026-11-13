@@ -1,260 +1,266 @@
-tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-SHPP-43341000.00,PWD2627WSOB15555,CE Public Works Department,Bharatpur,43341000.0,433.41,11,30,19.0,True,72.8
-SHPP-131594000.00,DLB2627WLOB24210,Directorate Local Bodies,Bharatpur,131594000.0,1315.94,30,30,0.0,False,0.0
-SHPP-41186000.00,WAQ2627WSRC00137,Urban Improvement Trust Bharatpur,Bharatpur,41186000.0,411.86,11,30,19.0,True,72.7
-SHPP-16000000.00,WAQ2627SLOB00136,Urban Improvement Trust Bharatpur,Bharatpur,16000000.0,160.0,19,15,0.0,False,0.0
-SHPP-250125000.00,WAQ2627WLOB00135,Urban Improvement Trust Bharatpur,Bharatpur,250125000.0,2501.25,20,30,10.0,True,54.6
-SHPP-48543000.00,WAQ2627WSOB00134,Urban Improvement Trust Bharatpur,Bharatpur,48543000.0,485.43,19,30,11.0,True,54.3
-SHPP-54726000.00,WAQ2627WLOB00133,Urban Improvement Trust Bharatpur,Bharatpur,54726000.0,547.26,19,30,11.0,True,54.5
-SHPP-1395000.00,PHE2627WSOB06843,"Chief Engineer (Special Project) PHED, Jaipur",Bharatpur,1395000.0,13.95,20,10,0.0,False,0.0
-SHPP-3902000.00,PHE2627WSOB06844,"Chief Engineer (Special Project) PHED, Jaipur",Bharatpur,3902000.0,39.02,20,10,0.0,False,0.0
-SHPP-79000000.00,RVJ2627WLOB00038,Rajasthan University of Veterinary and Animal Science Jobner,Bharatpur,79000000.0,790.0,26,30,4.0,True,38.7
-SHPP-28629000.00,WAQ2627WSRC00132,Urban Improvement Trust Bharatpur,Bharatpur,28629000.0,286.29,21,30,9.0,True,48.8
-SHPP-1094600000.00,PWD2627WLOB12736,CE Public Works Department,Bharatpur,1094600000.0,10946.0,63,30,0.0,False,0.0
-SHPP-1100000,"Agriculture Department, Jaipur","Agriculture Department, Jaipur",Bharatpur,1100000.0,11.0,7,10,3.0,True,43.7
-SHPP-180500,Services/2026-27/0050/043,"Horticulture Department, Jaipur",Bharatpur,180500.0,1.805,2,7,5.0,True,69.8
-SHPP-84000,Services/2026-27/0049/043,"Horticulture Department, Jaipur",Bharatpur,84000.0,0.84,7,7,0.0,False,0.0
-SHPP-8614,Services/2026-27/0043/101,"State Insurance and Provident Fund Department, Jaipur",Bharatpur,8614.0,0.0861,6,7,1.0,True,25.1
-SHPP-273250,Goods/2026-27/0124/002,"Agriculture Department, Jaipur",Bharatpur,273250.0,2.7325,12,7,0.0,False,0.0
-SHPP-291200,Goods/2026-27/0110/002,"Agriculture Department, Jaipur",Bharatpur,291200.0,2.912,5,7,2.0,True,40.6
-SHPP-69880,Goods/2026-27/0003/163,"Forensic Science Laboratory, Jaipur",Bharatpur,69880.0,0.6988,7,7,0.0,False,0.0
-SHPP-89950,Goods/2026-27/0077/002,"Agriculture Department, Jaipur",Bharatpur,89950.0,0.8995,7,7,0.0,False,0.0
-SHPP-43200,Goods/2026-27/0075/002,"Agriculture Department, Jaipur",Bharatpur,43200.0,0.432,8,7,0.0,False,0.0
-SHPP-135000,Goods/2026-27/0064/002,"Agriculture Department, Jaipur",Bharatpur,135000.0,1.35,7,7,0.0,False,0.0
-SHPP-24700,Goods/2026-27/0050/002,"Agriculture Department, Jaipur",Bharatpur,24700.0,0.247,6,7,1.0,True,26.7
-SHPP-1280000.00,RDC2627WSOB01340,Rajasthan State Industrial Development Investment Corporation,Bharatpur,1280000.0,12.8,10,10,0.0,False,0.0
-SHPP-1189000.00,BUB2627WSOB00046,Brij University,Bharatpur,1189000.0,11.89,12,10,0.0,False,0.0
-SHPP-1008000.00,BUB2627WSOB00047,Brij University,Bharatpur,1008000.0,10.08,12,10,0.0,False,0.0
-SHPP-147840,"Public Health Engineering Department, Jaipur","Public Health Engineering Department, Jaipur",Bharatpur,147840.0,1.4784,4,7,3.0,True,49.5
-SHPP-59390,"Forensic Science Laboratory, Jaipur","Forensic Science Laboratory, Jaipur",Bharatpur,59390.0,0.5939,1,7,6.0,True,78.1
-EPROC-2026_CEPWD_605443_1,NIT NO 17/2026-27 ACE PWD ZONE BHARATPUR,PWD - CE AND AS||ACE - BHARATPUR||SE-BHARATPUR,Bharatpur,103120000.0,1031.2,7,30,23.0,True,83.5
-EPROC-2026_DLB_605583_1,"Nit (23/2026-27) Municipal Corporation, Bharatpur",DLB||Dy.DR-Jaipur||Commissioner-Bhartpur,Bharatpur,1182000.0,11.82,12,10,0.0,False,0.0
-EPROC-2026_DLB_605279_2,26/2026-27,DLB||Dy.DR- Bharatpur||EO-SARMATHURA,Bharatpur,1100000.0,11.0,9,10,1.0,True,29.7
-EPROC-2026_PHCJA_605525_1,50/2026-27 UWSS SWM,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Bharatpur||SE Cr. Sawaimadhopur||EE, Dn. Sawaimadhopur",Bharatpur,4859000.0,48.59,19,10,0.0,False,0.0
-EPROC-2026_PHCJA_605156_1,45/2026-27,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Bharatpur||SE, Cr. Bharatpur||EE, Dn.Bharatpur",Bharatpur,3902000.0,39.02,19,10,0.0,False,0.0
-EPROC-2026_PHCJA_605154_1,44/2026-27,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Bharatpur||SE, Cr. Bharatpur||EE, Dn.Bharatpur",Bharatpur,1395000.0,13.95,19,10,0.0,False,0.0
-EPROC-2026_TECET_601427_1,01/RFP 03 Bharatpur Cluster/2026-27,Technical Education (Training),Bharatpur,409700000.0,4097.0,92,30,0.0,False,0.0
-EPROC-2026_UITBR_605565_1,online nit 56(2026-2027)01bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,16000000.0,160.0,19,15,0.0,False,0.0
-EPROC-2026_UITBR_605533_1,online nit 57(2026-2027)01bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,41186000.0,411.86,11,30,19.0,True,72.7
-EPROC-2026_UITBR_605537_1,online nit 55(2026-2027)01bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,250125000.0,2501.25,20,30,10.0,True,54.6
-EPROC-2026_UITBR_605309_1,online nit 54(2026-2027)02bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,48543000.0,485.43,19,30,11.0,True,54.3
-EPROC-2026_UITBR_605301_1,online nit 54(2026-2027)01bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,54726000.0,547.26,19,30,11.0,True,54.5
-EPROC-2026_UITBR_604893_1,online nit 53(2026-2027)02bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,28629000.0,286.29,21,30,9.0,True,48.8
-HF-AOC-2025_RCDF_488099_1,RM 811-NADBAI TENDER,RCDF- MDCattle Feed Plant-Nadbai-BharatpurProduction,Bharatpur,27988620.0,279.8862,15,30,15.0,True,62.8
-HF-AOC-2025_RCDF_495409_1,RM 813 NADBAI TENDER,RCDF- MDCattle Feed Plant-Nadbai-BharatpurProduction,Bharatpur,73533825.0,735.3383,15,30,15.0,True,64.3
-HF-AOC-2025_RCDF_510817_1,RM 818 TENDER CFP NADBAI,RCDF- MDCattle Feed Plant-Nadbai-BharatpurProduction,Bharatpur,83530165.0,835.3016,20,30,10.0,True,52.8
-HF-AOC-2025_RRVPN_479952_1,TN-09/2025-26,RRVPN - CMDCE(T and C) JaipurSE(T and C) Bharatpur,Bharatpur,363774.0,3.6377,62,7,0.0,False,0.0
-HF-AOC-2025_RCDF_493441_1,"SUPPLY OF CATTLE FEED MACHINERY SPARE PARTS HARDWARE ITEM AT CATTLE FEED PLANT, NADBAI",RCDF- MDCattle Feed Plant-Nadbai-BharatpurProduction,Bharatpur,3500000.0,35.0,78,10,0.0,False,0.0
-GEM/2026/B/8221713,GEM/2026/B/8221713,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/B/8227328,GEM/2026/B/8227328,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8207399,GEM/2026/B/8207399,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/8207476,GEM/2026/B/8207476,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8176986,GEM/2026/B/8176986,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7753125,GEM/2026/B/7753125,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7753799,GEM/2026/B/7753799,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7725081,GEM/2026/B/7725081,Ministry of Railways - Indian Railways,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7501716,GEM/2026/B/7501716,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,35,7,0.0,False,0.0
-GEM/2026/B/7545977,GEM/2026/B/7545977,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7754675,GEM/2026/B/7754675,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7751872,GEM/2026/B/7751872,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7752911,GEM/2026/B/7752911,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7752260,GEM/2026/B/7752260,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7754061,GEM/2026/B/7754061,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7755009,GEM/2026/B/7755009,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6952203,GEM/2025/B/6952203,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,25,7,0.0,False,0.0
-GEM/2025/B/6900565,GEM/2025/B/6900565,Ministry of Railways - Indian Railways,Bharatpur,0.0,0.0,24,7,0.0,False,0.0
-GEM/2026/B/8203218,GEM/2026/B/8203218,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8190466,GEM/2026/B/8190466,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8187764,GEM/2026/B/8187764,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/8183097,GEM/2026/B/8183097,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8159501,GEM/2026/B/8159501,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8159108,GEM/2026/B/8159108,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8159544,GEM/2026/B/8159544,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,9,7,0.0,False,0.0
-GEM/2026/B/8151347,GEM/2026/B/8151347,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8104922,GEM/2026/B/8104922,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/8067588,GEM/2026/B/8067588,College Education Department Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/8125905,GEM/2026/B/8125905,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,5,7,2.0,True,31.7
-GEM/2026/B/8067601,GEM/2026/B/8067601,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/8082877,GEM/2026/B/8082877,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8082849,GEM/2026/B/8082849,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8041161,GEM/2026/B/8041161,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7970107,GEM/2026/B/7970107,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,28,7,0.0,False,0.0
-GEM/2026/B/7945690,GEM/2026/B/7945690,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7947640,GEM/2026/B/7947640,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7891679,GEM/2026/B/7891679,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,29,7,0.0,False,0.0
-GEM/2026/B/7899827,GEM/2026/B/7899827,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7867279,GEM/2026/B/7867279,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7875914,GEM/2026/B/7875914,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,16,7,0.0,False,0.0
-GEM/2026/B/7896189,GEM/2026/B/7896189,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7891824,GEM/2026/B/7891824,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7889634,GEM/2026/B/7889634,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7875548,GEM/2026/B/7875548,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7826350,GEM/2026/B/7826350,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,19,7,0.0,False,0.0
-GEM/2026/B/7697223,GEM/2026/B/7697223,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7734346,GEM/2026/B/7734346,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7707470,GEM/2026/B/7707470,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7646763,GEM/2026/B/7646763,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7670779,GEM/2026/B/7670779,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7597913,GEM/2026/B/7597913,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7456549,GEM/2026/B/7456549,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,41,7,0.0,False,0.0
-GEM/2026/B/7558096,GEM/2026/B/7558096,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/7525562,GEM/2026/B/7525562,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7415473,GEM/2026/B/7415473,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,16,7,0.0,False,0.0
-GEM/2026/B/7415409,GEM/2026/B/7415409,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7418093,GEM/2026/B/7418093,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7418328,GEM/2026/B/7418328,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7415429,GEM/2026/B/7415429,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7369315,GEM/2026/B/7369315,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,28,7,0.0,False,0.0
-GEM/2026/B/7398170,GEM/2026/B/7398170,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7412290,GEM/2026/B/7412290,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7383718,GEM/2026/B/7383718,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,17,7,0.0,False,0.0
-GEM/2026/B/7392952,GEM/2026/B/7392952,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/B/6961812,GEM/2025/B/6961812,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,124,7,0.0,False,0.0
-GEM/2026/B/7303993,GEM/2026/B/7303993,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,36,7,0.0,False,0.0
-GEM/2026/B/7365356,GEM/2026/B/7365356,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/B/6991645,GEM/2025/B/6991645,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,110,7,0.0,False,0.0
-GEM/2026/B/7367071,GEM/2026/B/7367071,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/R/650291,GEM/2026/R/650291,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,3,7,4.0,True,51.7
-GEM/2026/B/7365544,GEM/2026/B/7365544,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7367239,GEM/2026/B/7367239,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7356460,GEM/2026/B/7356460,Forest Department Rajasthan,Bharatpur,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/B/7294528,GEM/2026/B/7294528,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/7268231,GEM/2026/B/7268231,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7304784,GEM/2026/B/7304784,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7304726,GEM/2026/B/7304726,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7297241,GEM/2026/B/7297241,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7297184,GEM/2026/B/7297184,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7294865,GEM/2026/B/7294865,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7294989,GEM/2026/B/7294989,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7294697,GEM/2026/B/7294697,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7293808,GEM/2026/B/7293808,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7276542,GEM/2026/B/7276542,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7255778,GEM/2026/B/7255778,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7229951,GEM/2026/B/7229951,Ministry of Education - Department of School Education and Literacy,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7201376,GEM/2026/B/7201376,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/7197665,GEM/2026/B/7197665,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/7180852,GEM/2026/B/7180852,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/R/625320,GEM/2026/R/625320,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,1,7,6.0,True,71.7
-GEM/2026/B/7147441,GEM/2026/B/7147441,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7145312,GEM/2026/B/7145312,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/7040192,GEM/2025/B/7040192,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,41,7,0.0,False,0.0
-GEM/2026/B/7119348,GEM/2026/B/7119348,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/R/616572,GEM/2026/R/616572,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,1,7,6.0,True,71.7
-GEM/2025/B/7039430,GEM/2025/B/7039430,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,30,7,0.0,False,0.0
-GEM/2026/B/7101881,GEM/2026/B/7101881,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7117574,GEM/2026/B/7117574,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7114875,GEM/2026/B/7114875,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7062634,GEM/2026/B/7062634,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7095098,GEM/2026/B/7095098,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/B/7095238,GEM/2026/B/7095238,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,13,7,0.0,False,0.0
-GEM/2026/B/7094763,GEM/2026/B/7094763,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/B/7056179,GEM/2025/B/7056179,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7077679,GEM/2026/B/7077679,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7070124,GEM/2026/B/7070124,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/7011495,GEM/2025/B/7011495,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/7014792,GEM/2025/B/7014792,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/7000129,GEM/2025/B/7000129,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/B/6982808,GEM/2025/B/6982808,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6981861,GEM/2025/B/6981861,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6981544,GEM/2025/B/6981544,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6981714,GEM/2025/B/6981714,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6971057,GEM/2025/B/6971057,Ministry of Chemicals and Fertilizers - Department of Fertilizers,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6894968,GEM/2025/B/6894968,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,30,7,0.0,False,0.0
-GEM/2025/B/6932021,GEM/2025/B/6932021,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,18,7,0.0,False,0.0
-GEM/2025/B/6926308,GEM/2025/B/6926308,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,18,7,0.0,False,0.0
-GEM/2025/B/6931925,GEM/2025/B/6931925,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,18,7,0.0,False,0.0
-GEM/2025/B/6945668,GEM/2025/B/6945668,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/B/6901171,GEM/2025/B/6901171,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6909784,GEM/2025/B/6909784,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,19,7,0.0,False,0.0
-GEM/2025/B/6931788,GEM/2025/B/6931788,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6898429,GEM/2025/B/6898429,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6802958,GEM/2025/B/6802958,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,46,7,0.0,False,0.0
-GEM/2025/B/6894572,GEM/2025/B/6894572,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6894560,GEM/2025/B/6894560,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6894549,GEM/2025/B/6894549,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6894539,GEM/2025/B/6894539,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6894531,GEM/2025/B/6894531,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6894520,GEM/2025/B/6894520,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6894509,GEM/2025/B/6894509,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6894499,GEM/2025/B/6894499,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6834185,GEM/2025/B/6834185,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6813340,GEM/2025/B/6813340,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/B/6776759,GEM/2025/B/6776759,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6801563,GEM/2025/B/6801563,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6795346,GEM/2025/B/6795346,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6740938,GEM/2025/B/6740938,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6758069,GEM/2025/B/6758069,Ministry of Petroleum and Natural Gas - Bharatpur Terminal under RSO,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6736355,GEM/2025/B/6736355,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,19,7,0.0,False,0.0
-GEM/2025/R/561059,GEM/2025/R/561059,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,1,7,6.0,True,71.7
-GEM/2025/R/557538,GEM/2025/R/557538,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,6,7,1.0,True,21.7
-GEM/2025/B/6750998,GEM/2025/B/6750998,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6658656,GEM/2025/B/6658656,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6707838,GEM/2025/B/6707838,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6705829,GEM/2025/B/6705829,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6691520,GEM/2025/B/6691520,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6691470,GEM/2025/B/6691470,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6691239,GEM/2025/B/6691239,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6662408,GEM/2025/B/6662408,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/B/6656982,GEM/2025/B/6656982,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6592541,GEM/2025/B/6592541,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,28,7,0.0,False,0.0
-GEM/2025/B/6617546,GEM/2025/B/6617546,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6627093,GEM/2025/B/6627093,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,16,7,0.0,False,0.0
-GEM/2025/B/6538286,GEM/2025/B/6538286,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6505083,GEM/2025/B/6505083,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6539630,GEM/2025/B/6539630,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6473443,GEM/2025/B/6473443,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,26,7,0.0,False,0.0
-GEM/2025/B/6433420,GEM/2025/B/6433420,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6503756,GEM/2025/B/6503756,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6401894,GEM/2025/B/6401894,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6351922,GEM/2025/B/6351922,Ministry of Petroleum and Natural Gas - Bharatpur Terminal under RSO,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6305003,GEM/2025/B/6305003,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,28,7,0.0,False,0.0
-GEM/2025/B/6306088,GEM/2025/B/6306088,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,27,7,0.0,False,0.0
-GEM/2025/B/6276553,GEM/2025/B/6276553,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,27,7,0.0,False,0.0
-GEM/2025/B/6276535,GEM/2025/B/6276535,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,27,7,0.0,False,0.0
-GEM/2025/B/6276509,GEM/2025/B/6276509,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,27,7,0.0,False,0.0
-GEM/2025/B/6262994,GEM/2025/B/6262994,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/R/488195,GEM/2025/R/488195,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,1,7,6.0,True,71.7
-GEM/2025/B/6170498,GEM/2025/B/6170498,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/B/6131704,GEM/2025/B/6131704,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,28,7,0.0,False,0.0
-GEM/2025/B/5978099,GEM/2025/B/5978099,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,68,7,0.0,False,0.0
-GEM/2025/R/478205,GEM/2025/R/478205,Ministry of Communications - Department of Telecommunications (DOT),Bharatpur,0.0,0.0,2,7,5.0,True,61.7
-GEM/2025/B/6058243,GEM/2025/B/6058243,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,35,7,0.0,False,0.0
-GEM/2025/B/6027107,GEM/2025/B/6027107,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,44,7,0.0,False,0.0
-GEM/2025/B/6074710,GEM/2025/B/6074710,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6076660,GEM/2025/B/6076660,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,5,7,2.0,True,31.7
-GEM/2025/B/5925519,GEM/2025/B/5925519,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,46,7,0.0,False,0.0
-GEM/2025/B/5988394,GEM/2025/B/5988394,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,29,7,0.0,False,0.0
-GEM/2025/B/6039696,GEM/2025/B/6039696,Transport Department Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/5994159,GEM/2025/B/5994159,Ministry of Communications - Department of Telecommunications (DOT),Bharatpur,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/B/5980117,GEM/2025/B/5980117,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,24,7,0.0,False,0.0
-GEM/2025/B/6034381,GEM/2025/B/6034381,Ministry of Education - Department of School Education and Literacy,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6024304,GEM/2025/B/6024304,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,12,7,0.0,False,0.0
-GEM/2025/B/5972812,GEM/2025/B/5972812,Technical Education Department Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/5943453,GEM/2025/B/5943453,Ministry of Water Resources River Development and Ganga Rejuvenation - WAPCOS Limited,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2025/B/5943349,GEM/2025/B/5943349,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,12,7,0.0,False,0.0
-GEM/2025/B/5947487,GEM/2025/B/5947487,Ministry of Education - Department of School Education and Literacy,Bharatpur,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/5924355,GEM/2025/B/5924355,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/5873725,GEM/2025/B/5873725,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,26,7,0.0,False,0.0
-GEM/2025/B/5854686,GEM/2025/B/5854686,DEPARTMENT OF HIGHER EDUCATION,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/5819349,GEM/2025/B/5819349,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/5830335,GEM/2025/B/5830335,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/5835151,GEM/2025/B/5835151,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/5829716,GEM/2025/B/5829716,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/5819111,GEM/2025/B/5819111,Ministry of Petroleum and Natural Gas - Bharatpur Terminal under RSO,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/5791793,GEM/2025/B/5791793,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/8262880,GEM/2026/B/8262880,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/8261762,GEM/2026/B/8261762,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8215079,GEM/2026/B/8215079,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/8261922,GEM/2026/B/8261922,Ministry of Defence - Department of Defence Production,Bharatpur,0.0,0.0,7,7,0.0,False,0.0
-GEM/2026/B/8236112,GEM/2026/B/8236112,Forest Department Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/8222107,GEM/2026/B/8222107,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0
-GEM/2026/B/7732187,GEM/2026/B/7732187,Technical Education Department Chhattisgarh,Bharatpur,0.0,0.0,30,7,0.0,False,0.0
-2026_FORES_605600_1,NIT 605600_1,Bharatpur Division,Bharatpur,2500000.0,25.0,11,10,0.0,False,0.0
-2026_MSBUB_605350_1,NIT 605350_1,Bharatpur Division,Bharatpur,2500000.0,25.0,8,10,2.0,True,38.0
-2026_CEPWD_605597_1,NIT 605597_1,Bharatpur Division,Bharatpur,2500000.0,25.0,13,10,0.0,False,0.0
-2026_UITBR_605565_1,NIT 605565_1,Bharatpur Division,Bharatpur,2500000.0,25.0,19,10,0.0,False,0.0
-2026_UITBR_605537_1,NIT 605537_1,Bharatpur Division,Bharatpur,2500000.0,25.0,20,10,0.0,False,0.0
-2026_UITBR_605533_1,NIT 605533_1,Bharatpur Division,Bharatpur,2500000.0,25.0,11,10,0.0,False,0.0
-2026_UITBR_605309_1,NIT 605309_1,Bharatpur Division,Bharatpur,2500000.0,25.0,19,10,0.0,False,0.0
-2026_UITBR_605301_1,NIT 605301_1,Bharatpur Division,Bharatpur,2500000.0,25.0,19,10,0.0,False,0.0
-2026_UITBR_604893_1,NIT 604893_1,Bharatpur Division,Bharatpur,2500000.0,25.0,21,10,0.0,False,0.0
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score,publication_date
+SHPP-43341000.00,PWD2627WSOB15555,CE Public Works Department,Bharatpur,43341000.0,433.41,11,30,19.0,True,72.8,
+SHPP-131594000.00,DLB2627WLOB24210,Directorate Local Bodies,Bharatpur,131594000.0,1315.94,30,30,0.0,False,0.0,
+SHPP-41186000.00,WAQ2627WSRC00137,Urban Improvement Trust Bharatpur,Bharatpur,41186000.0,411.86,11,30,19.0,True,72.7,
+SHPP-16000000.00,WAQ2627SLOB00136,Urban Improvement Trust Bharatpur,Bharatpur,16000000.0,160.0,19,15,0.0,False,0.0,
+SHPP-250125000.00,WAQ2627WLOB00135,Urban Improvement Trust Bharatpur,Bharatpur,250125000.0,2501.25,20,30,10.0,True,54.6,
+SHPP-48543000.00,WAQ2627WSOB00134,Urban Improvement Trust Bharatpur,Bharatpur,48543000.0,485.43,19,30,11.0,True,54.3,
+SHPP-54726000.00,WAQ2627WLOB00133,Urban Improvement Trust Bharatpur,Bharatpur,54726000.0,547.26,19,30,11.0,True,54.5,
+SHPP-1395000.00,PHE2627WSOB06843,"Chief Engineer (Special Project) PHED, Jaipur",Bharatpur,1395000.0,13.95,20,10,0.0,False,0.0,
+SHPP-3902000.00,PHE2627WSOB06844,"Chief Engineer (Special Project) PHED, Jaipur",Bharatpur,3902000.0,39.02,20,10,0.0,False,0.0,
+SHPP-79000000.00,RVJ2627WLOB00038,Rajasthan University of Veterinary and Animal Science Jobner,Bharatpur,79000000.0,790.0,26,30,4.0,True,38.7,
+SHPP-28629000.00,WAQ2627WSRC00132,Urban Improvement Trust Bharatpur,Bharatpur,28629000.0,286.29,21,30,9.0,True,48.8,
+SHPP-1094600000.00,PWD2627WLOB12736,CE Public Works Department,Bharatpur,1094600000.0,10946.0,63,30,0.0,False,0.0,
+SHPP-1100000,"Agriculture Department, Jaipur","Agriculture Department, Jaipur",Bharatpur,1100000.0,11.0,7,10,3.0,True,43.7,
+SHPP-180500,Services/2026-27/0050/043,"Horticulture Department, Jaipur",Bharatpur,180500.0,1.805,2,7,5.0,True,69.8,
+SHPP-84000,Services/2026-27/0049/043,"Horticulture Department, Jaipur",Bharatpur,84000.0,0.84,7,7,0.0,False,0.0,
+SHPP-8614,Services/2026-27/0043/101,"State Insurance and Provident Fund Department, Jaipur",Bharatpur,8614.0,0.0861,6,7,1.0,True,25.1,
+SHPP-273250,Goods/2026-27/0124/002,"Agriculture Department, Jaipur",Bharatpur,273250.0,2.7325,12,7,0.0,False,0.0,
+SHPP-291200,Goods/2026-27/0110/002,"Agriculture Department, Jaipur",Bharatpur,291200.0,2.912,5,7,2.0,True,40.6,
+SHPP-69880,Goods/2026-27/0003/163,"Forensic Science Laboratory, Jaipur",Bharatpur,69880.0,0.6988,7,7,0.0,False,0.0,
+SHPP-89950,Goods/2026-27/0077/002,"Agriculture Department, Jaipur",Bharatpur,89950.0,0.8995,7,7,0.0,False,0.0,
+SHPP-43200,Goods/2026-27/0075/002,"Agriculture Department, Jaipur",Bharatpur,43200.0,0.432,8,7,0.0,False,0.0,
+SHPP-135000,Goods/2026-27/0064/002,"Agriculture Department, Jaipur",Bharatpur,135000.0,1.35,7,7,0.0,False,0.0,
+SHPP-24700,Goods/2026-27/0050/002,"Agriculture Department, Jaipur",Bharatpur,24700.0,0.247,6,7,1.0,True,26.7,
+SHPP-1280000.00,RDC2627WSOB01340,Rajasthan State Industrial Development Investment Corporation,Bharatpur,1280000.0,12.8,10,10,0.0,False,0.0,
+SHPP-1189000.00,BUB2627WSOB00046,Brij University,Bharatpur,1189000.0,11.89,12,10,0.0,False,0.0,
+SHPP-1008000.00,BUB2627WSOB00047,Brij University,Bharatpur,1008000.0,10.08,12,10,0.0,False,0.0,
+SHPP-147840,"Public Health Engineering Department, Jaipur","Public Health Engineering Department, Jaipur",Bharatpur,147840.0,1.4784,4,7,3.0,True,49.5,
+SHPP-59390,"Forensic Science Laboratory, Jaipur","Forensic Science Laboratory, Jaipur",Bharatpur,59390.0,0.5939,1,7,6.0,True,78.1,
+EPROC-2026_CEPWD_605443_1,NIT NO 17/2026-27 ACE PWD ZONE BHARATPUR,PWD - CE AND AS||ACE - BHARATPUR||SE-BHARATPUR,Bharatpur,103120000.0,1031.2,7,30,23.0,True,83.5,
+EPROC-2026_DLB_605583_1,"Nit (23/2026-27) Municipal Corporation, Bharatpur",DLB||Dy.DR-Jaipur||Commissioner-Bhartpur,Bharatpur,1182000.0,11.82,12,10,0.0,False,0.0,
+EPROC-2026_DLB_605279_2,26/2026-27,DLB||Dy.DR- Bharatpur||EO-SARMATHURA,Bharatpur,1100000.0,11.0,9,10,1.0,True,29.7,
+EPROC-2026_PHCJA_605525_1,50/2026-27 UWSS SWM,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Bharatpur||SE Cr. Sawaimadhopur||EE, Dn. Sawaimadhopur",Bharatpur,4859000.0,48.59,19,10,0.0,False,0.0,
+EPROC-2026_PHCJA_605156_1,45/2026-27,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Bharatpur||SE, Cr. Bharatpur||EE, Dn.Bharatpur",Bharatpur,3902000.0,39.02,19,10,0.0,False,0.0,
+EPROC-2026_PHCJA_605154_1,44/2026-27,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Bharatpur||SE, Cr. Bharatpur||EE, Dn.Bharatpur",Bharatpur,1395000.0,13.95,19,10,0.0,False,0.0,
+EPROC-2026_TECET_601427_1,01/RFP 03 Bharatpur Cluster/2026-27,Technical Education (Training),Bharatpur,409700000.0,4097.0,92,30,0.0,False,0.0,
+EPROC-2026_UITBR_605565_1,online nit 56(2026-2027)01bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,16000000.0,160.0,19,15,0.0,False,0.0,
+EPROC-2026_UITBR_605533_1,online nit 57(2026-2027)01bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,41186000.0,411.86,11,30,19.0,True,72.7,
+EPROC-2026_UITBR_605537_1,online nit 55(2026-2027)01bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,250125000.0,2501.25,20,30,10.0,True,54.6,
+EPROC-2026_UITBR_605309_1,online nit 54(2026-2027)02bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,48543000.0,485.43,19,30,11.0,True,54.3,
+EPROC-2026_UITBR_605301_1,online nit 54(2026-2027)01bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,54726000.0,547.26,19,30,11.0,True,54.5,
+EPROC-2026_UITBR_604893_1,online nit 53(2026-2027)02bharatpur Development Authorit,UIT- Bharatpur||Secy||XEn,Bharatpur,28629000.0,286.29,21,30,9.0,True,48.8,
+HF-AOC-2025_RCDF_488099_1,RM 811-NADBAI TENDER,RCDF- MDCattle Feed Plant-Nadbai-BharatpurProduction,Bharatpur,27988620.0,279.8862,15,30,15.0,True,62.8,
+HF-AOC-2025_RCDF_495409_1,RM 813 NADBAI TENDER,RCDF- MDCattle Feed Plant-Nadbai-BharatpurProduction,Bharatpur,73533825.0,735.3383,15,30,15.0,True,64.3,
+HF-AOC-2025_RCDF_510817_1,RM 818 TENDER CFP NADBAI,RCDF- MDCattle Feed Plant-Nadbai-BharatpurProduction,Bharatpur,83530165.0,835.3016,20,30,10.0,True,52.8,
+HF-AOC-2025_RRVPN_479952_1,TN-09/2025-26,RRVPN - CMDCE(T and C) JaipurSE(T and C) Bharatpur,Bharatpur,363774.0,3.6377,62,7,0.0,False,0.0,
+HF-AOC-2025_RCDF_493441_1,"SUPPLY OF CATTLE FEED MACHINERY SPARE PARTS HARDWARE ITEM AT CATTLE FEED PLANT, NADBAI",RCDF- MDCattle Feed Plant-Nadbai-BharatpurProduction,Bharatpur,3500000.0,35.0,78,10,0.0,False,0.0,
+GEM/2026/B/8221713,GEM/2026/B/8221713,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2026/B/8227328,GEM/2026/B/8227328,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8207399,GEM/2026/B/8207399,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/8207476,GEM/2026/B/8207476,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8176986,GEM/2026/B/8176986,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/7753125,GEM/2026/B/7753125,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7753799,GEM/2026/B/7753799,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7725081,GEM/2026/B/7725081,Ministry of Railways - Indian Railways,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7501716,GEM/2026/B/7501716,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,35,7,0.0,False,0.0,
+GEM/2026/B/7545977,GEM/2026/B/7545977,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/7754675,GEM/2026/B/7754675,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7751872,GEM/2026/B/7751872,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7752911,GEM/2026/B/7752911,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7752260,GEM/2026/B/7752260,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7754061,GEM/2026/B/7754061,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7755009,GEM/2026/B/7755009,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/6952203,GEM/2025/B/6952203,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,25,7,0.0,False,0.0,
+GEM/2025/B/6900565,GEM/2025/B/6900565,Ministry of Railways - Indian Railways,Bharatpur,0.0,0.0,24,7,0.0,False,0.0,
+GEM/2026/B/8203218,GEM/2026/B/8203218,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8190466,GEM/2026/B/8190466,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8187764,GEM/2026/B/8187764,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/8183097,GEM/2026/B/8183097,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8159501,GEM/2026/B/8159501,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8159108,GEM/2026/B/8159108,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8159544,GEM/2026/B/8159544,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,9,7,0.0,False,0.0,
+GEM/2026/B/8151347,GEM/2026/B/8151347,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8104922,GEM/2026/B/8104922,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/8067588,GEM/2026/B/8067588,College Education Department Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/8125905,GEM/2026/B/8125905,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,5,7,2.0,True,31.7,
+GEM/2026/B/8067601,GEM/2026/B/8067601,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/8082877,GEM/2026/B/8082877,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8082849,GEM/2026/B/8082849,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8041161,GEM/2026/B/8041161,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/7970107,GEM/2026/B/7970107,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,28,7,0.0,False,0.0,
+GEM/2026/B/7945690,GEM/2026/B/7945690,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7947640,GEM/2026/B/7947640,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7891679,GEM/2026/B/7891679,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,29,7,0.0,False,0.0,
+GEM/2026/B/7899827,GEM/2026/B/7899827,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/7867279,GEM/2026/B/7867279,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7875914,GEM/2026/B/7875914,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,16,7,0.0,False,0.0,
+GEM/2026/B/7896189,GEM/2026/B/7896189,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7891824,GEM/2026/B/7891824,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7889634,GEM/2026/B/7889634,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7875548,GEM/2026/B/7875548,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7826350,GEM/2026/B/7826350,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,19,7,0.0,False,0.0,
+GEM/2026/B/7697223,GEM/2026/B/7697223,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7734346,GEM/2026/B/7734346,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/7707470,GEM/2026/B/7707470,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7646763,GEM/2026/B/7646763,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7670779,GEM/2026/B/7670779,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7597913,GEM/2026/B/7597913,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/7456549,GEM/2026/B/7456549,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,41,7,0.0,False,0.0,
+GEM/2026/B/7558096,GEM/2026/B/7558096,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/7525562,GEM/2026/B/7525562,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7415473,GEM/2026/B/7415473,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,16,7,0.0,False,0.0,
+GEM/2026/B/7415409,GEM/2026/B/7415409,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7418093,GEM/2026/B/7418093,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7418328,GEM/2026/B/7418328,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7415429,GEM/2026/B/7415429,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7369315,GEM/2026/B/7369315,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,28,7,0.0,False,0.0,
+GEM/2026/B/7398170,GEM/2026/B/7398170,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7412290,GEM/2026/B/7412290,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7383718,GEM/2026/B/7383718,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,17,7,0.0,False,0.0,
+GEM/2026/B/7392952,GEM/2026/B/7392952,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2025/B/6961812,GEM/2025/B/6961812,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,124,7,0.0,False,0.0,
+GEM/2026/B/7303993,GEM/2026/B/7303993,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,36,7,0.0,False,0.0,
+GEM/2026/B/7365356,GEM/2026/B/7365356,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2025/B/6991645,GEM/2025/B/6991645,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,110,7,0.0,False,0.0,
+GEM/2026/B/7367071,GEM/2026/B/7367071,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2026/R/650291,GEM/2026/R/650291,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,3,7,4.0,True,51.7,
+GEM/2026/B/7365544,GEM/2026/B/7365544,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7367239,GEM/2026/B/7367239,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7356460,GEM/2026/B/7356460,Forest Department Rajasthan,Bharatpur,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2026/B/7294528,GEM/2026/B/7294528,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/7268231,GEM/2026/B/7268231,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7304784,GEM/2026/B/7304784,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7304726,GEM/2026/B/7304726,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7297241,GEM/2026/B/7297241,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7297184,GEM/2026/B/7297184,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7294865,GEM/2026/B/7294865,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7294989,GEM/2026/B/7294989,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7294697,GEM/2026/B/7294697,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7293808,GEM/2026/B/7293808,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7276542,GEM/2026/B/7276542,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7255778,GEM/2026/B/7255778,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7229951,GEM/2026/B/7229951,Ministry of Education - Department of School Education and Literacy,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7201376,GEM/2026/B/7201376,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/7197665,GEM/2026/B/7197665,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/7180852,GEM/2026/B/7180852,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/R/625320,GEM/2026/R/625320,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,1,7,6.0,True,71.7,
+GEM/2026/B/7147441,GEM/2026/B/7147441,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7145312,GEM/2026/B/7145312,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/7040192,GEM/2025/B/7040192,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,41,7,0.0,False,0.0,
+GEM/2026/B/7119348,GEM/2026/B/7119348,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/R/616572,GEM/2026/R/616572,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,1,7,6.0,True,71.7,
+GEM/2025/B/7039430,GEM/2025/B/7039430,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,30,7,0.0,False,0.0,
+GEM/2026/B/7101881,GEM/2026/B/7101881,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/7117574,GEM/2026/B/7117574,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7114875,GEM/2026/B/7114875,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2026/B/7062634,GEM/2026/B/7062634,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7095098,GEM/2026/B/7095098,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2026/B/7095238,GEM/2026/B/7095238,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2026/B/7094763,GEM/2026/B/7094763,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2025/B/7056179,GEM/2025/B/7056179,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/7077679,GEM/2026/B/7077679,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7070124,GEM/2026/B/7070124,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/7011495,GEM/2025/B/7011495,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/7014792,GEM/2025/B/7014792,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2025/B/7000129,GEM/2025/B/7000129,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2025/B/6982808,GEM/2025/B/6982808,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6981861,GEM/2025/B/6981861,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6981544,GEM/2025/B/6981544,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6981714,GEM/2025/B/6981714,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6971057,GEM/2025/B/6971057,Ministry of Chemicals and Fertilizers - Department of Fertilizers,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2025/B/6894968,GEM/2025/B/6894968,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,30,7,0.0,False,0.0,
+GEM/2025/B/6932021,GEM/2025/B/6932021,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,18,7,0.0,False,0.0,
+GEM/2025/B/6926308,GEM/2025/B/6926308,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,18,7,0.0,False,0.0,
+GEM/2025/B/6931925,GEM/2025/B/6931925,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,18,7,0.0,False,0.0,
+GEM/2025/B/6945668,GEM/2025/B/6945668,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2025/B/6901171,GEM/2025/B/6901171,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/6909784,GEM/2025/B/6909784,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,19,7,0.0,False,0.0,
+GEM/2025/B/6931788,GEM/2025/B/6931788,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6898429,GEM/2025/B/6898429,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/6802958,GEM/2025/B/6802958,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,46,7,0.0,False,0.0,
+GEM/2025/B/6894572,GEM/2025/B/6894572,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6894560,GEM/2025/B/6894560,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6894549,GEM/2025/B/6894549,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6894539,GEM/2025/B/6894539,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6894531,GEM/2025/B/6894531,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6894520,GEM/2025/B/6894520,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6894509,GEM/2025/B/6894509,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6894499,GEM/2025/B/6894499,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6834185,GEM/2025/B/6834185,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6813340,GEM/2025/B/6813340,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2025/B/6776759,GEM/2025/B/6776759,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6801563,GEM/2025/B/6801563,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6795346,GEM/2025/B/6795346,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2025/B/6740938,GEM/2025/B/6740938,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2025/B/6758069,GEM/2025/B/6758069,Ministry of Petroleum and Natural Gas - Bharatpur Terminal under RSO,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6736355,GEM/2025/B/6736355,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,19,7,0.0,False,0.0,
+GEM/2025/R/561059,GEM/2025/R/561059,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,1,7,6.0,True,71.7,
+GEM/2025/R/557538,GEM/2025/R/557538,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,6,7,1.0,True,21.7,
+GEM/2025/B/6750998,GEM/2025/B/6750998,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6658656,GEM/2025/B/6658656,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6707838,GEM/2025/B/6707838,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6705829,GEM/2025/B/6705829,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6691520,GEM/2025/B/6691520,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6691470,GEM/2025/B/6691470,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6691239,GEM/2025/B/6691239,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6662408,GEM/2025/B/6662408,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2025/B/6656982,GEM/2025/B/6656982,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/6592541,GEM/2025/B/6592541,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,28,7,0.0,False,0.0,
+GEM/2025/B/6617546,GEM/2025/B/6617546,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/6627093,GEM/2025/B/6627093,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,16,7,0.0,False,0.0,
+GEM/2025/B/6538286,GEM/2025/B/6538286,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2025/B/6505083,GEM/2025/B/6505083,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/6539630,GEM/2025/B/6539630,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6473443,GEM/2025/B/6473443,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,26,7,0.0,False,0.0,
+GEM/2025/B/6433420,GEM/2025/B/6433420,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/6503756,GEM/2025/B/6503756,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6401894,GEM/2025/B/6401894,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6351922,GEM/2025/B/6351922,Ministry of Petroleum and Natural Gas - Bharatpur Terminal under RSO,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6305003,GEM/2025/B/6305003,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,28,7,0.0,False,0.0,
+GEM/2025/B/6306088,GEM/2025/B/6306088,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,27,7,0.0,False,0.0,
+GEM/2025/B/6276553,GEM/2025/B/6276553,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,27,7,0.0,False,0.0,
+GEM/2025/B/6276535,GEM/2025/B/6276535,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,27,7,0.0,False,0.0,
+GEM/2025/B/6276509,GEM/2025/B/6276509,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,27,7,0.0,False,0.0,
+GEM/2025/B/6262994,GEM/2025/B/6262994,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/R/488195,GEM/2025/R/488195,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,1,7,6.0,True,71.7,
+GEM/2025/B/6170498,GEM/2025/B/6170498,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,22,7,0.0,False,0.0,
+GEM/2025/B/6131704,GEM/2025/B/6131704,Ministry of Mines - National Aluminium Company Limited,Bharatpur,0.0,0.0,28,7,0.0,False,0.0,
+GEM/2025/B/5978099,GEM/2025/B/5978099,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,68,7,0.0,False,0.0,
+GEM/2025/R/478205,GEM/2025/R/478205,Ministry of Communications - Department of Telecommunications (DOT),Bharatpur,0.0,0.0,2,7,5.0,True,61.7,
+GEM/2025/B/6058243,GEM/2025/B/6058243,Ministry of Defence - Department of Military Affairs,Bharatpur,0.0,0.0,35,7,0.0,False,0.0,
+GEM/2025/B/6027107,GEM/2025/B/6027107,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,44,7,0.0,False,0.0,
+GEM/2025/B/6074710,GEM/2025/B/6074710,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2025/B/6076660,GEM/2025/B/6076660,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Bharatpur,0.0,0.0,5,7,2.0,True,31.7,
+GEM/2025/B/5925519,GEM/2025/B/5925519,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,46,7,0.0,False,0.0,
+GEM/2025/B/5988394,GEM/2025/B/5988394,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,29,7,0.0,False,0.0,
+GEM/2025/B/6039696,GEM/2025/B/6039696,Transport Department Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/5994159,GEM/2025/B/5994159,Ministry of Communications - Department of Telecommunications (DOT),Bharatpur,0.0,0.0,22,7,0.0,False,0.0,
+GEM/2025/B/5980117,GEM/2025/B/5980117,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,24,7,0.0,False,0.0,
+GEM/2025/B/6034381,GEM/2025/B/6034381,Ministry of Education - Department of School Education and Literacy,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6024304,GEM/2025/B/6024304,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,12,7,0.0,False,0.0,
+GEM/2025/B/5972812,GEM/2025/B/5972812,Technical Education Department Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/5943453,GEM/2025/B/5943453,Ministry of Water Resources River Development and Ganga Rejuvenation - WAPCOS Limited,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2025/B/5943349,GEM/2025/B/5943349,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,12,7,0.0,False,0.0,
+GEM/2025/B/5947487,GEM/2025/B/5947487,Ministry of Education - Department of School Education and Literacy,Bharatpur,0.0,0.0,11,7,0.0,False,0.0,
+GEM/2025/B/5924355,GEM/2025/B/5924355,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/5873725,GEM/2025/B/5873725,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Bharatpur,0.0,0.0,26,7,0.0,False,0.0,
+GEM/2025/B/5854686,GEM/2025/B/5854686,DEPARTMENT OF HIGHER EDUCATION,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/5819349,GEM/2025/B/5819349,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/5830335,GEM/2025/B/5830335,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/5835151,GEM/2025/B/5835151,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/5829716,GEM/2025/B/5829716,LSG (Local Self Government) Rajasthan,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/5819111,GEM/2025/B/5819111,Ministry of Petroleum and Natural Gas - Bharatpur Terminal under RSO,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/5791793,GEM/2025/B/5791793,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/8262880,GEM/2026/B/8262880,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/8261762,GEM/2026/B/8261762,Ministry of Petroleum and Natural Gas - NA,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8215079,GEM/2026/B/8215079,Ministry of Petroleum and Natural Gas - Contract & Procurement,Bharatpur,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2026/B/8261922,GEM/2026/B/8261922,Ministry of Defence - Department of Defence Production,Bharatpur,0.0,0.0,7,7,0.0,False,0.0,
+GEM/2026/B/8236112,GEM/2026/B/8236112,Forest Department Rajasthan,Bharatpur,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/8222107,GEM/2026/B/8222107,Ministry of Coal - COAL INDIA LIMITED,Bharatpur,0.0,0.0,14,7,0.0,False,0.0,
+GEM/2026/B/7732187,GEM/2026/B/7732187,Technical Education Department Chhattisgarh,Bharatpur,0.0,0.0,30,7,0.0,False,0.0,
+2026_FORES_605600_1,NIT 605600_1,Bharatpur Division,Bharatpur,2500000.0,25.0,11,10,0.0,False,0.0,
+2026_MSBUB_605350_1,NIT 605350_1,Bharatpur Division,Bharatpur,2500000.0,25.0,8,10,2.0,True,38.0,
+2026_CEPWD_605597_1,NIT 605597_1,Bharatpur Division,Bharatpur,2500000.0,25.0,13,10,0.0,False,0.0,
+2026_UITBR_605565_1,NIT 605565_1,Bharatpur Division,Bharatpur,2500000.0,25.0,19,10,0.0,False,0.0,
+2026_UITBR_605537_1,NIT 605537_1,Bharatpur Division,Bharatpur,2500000.0,25.0,20,10,0.0,False,0.0,
+2026_UITBR_605533_1,NIT 605533_1,Bharatpur Division,Bharatpur,2500000.0,25.0,11,10,0.0,False,0.0,
+2026_UITBR_605309_1,NIT 605309_1,Bharatpur Division,Bharatpur,2500000.0,25.0,19,10,0.0,False,0.0,
+2026_UITBR_605301_1,NIT 605301_1,Bharatpur Division,Bharatpur,2500000.0,25.0,19,10,0.0,False,0.0,
+2026_UITBR_604893_1,NIT 604893_1,Bharatpur Division,Bharatpur,2500000.0,25.0,21,10,0.0,False,0.0,
+2026_DLB_605519_1,NIT 605519_1,Bharatpur Division,Bharatpur,2500000.0,25.0,9,10,1.0,True,31.0,2026-11-05
+2026_DLB_605514_1,NIT 605514_1,Bharatpur Division,Bharatpur,2500000.0,25.0,9,10,1.0,True,31.0,2026-11-05
+2026_CEPWD_605857_1,NIT 605857_1,Bharatpur Division,Bharatpur,2500000.0,25.0,4,10,6.0,True,66.0,2026-11-13
+2026_CEPWD_605851_1,NIT 605851_1,Bharatpur Division,Bharatpur,2500000.0,25.0,4,10,6.0,True,66.0,2026-11-13
+2026_CEPWD_605842_1,NIT 605842_1,Bharatpur Division,Bharatpur,2500000.0,25.0,4,10,6.0,True,66.0,2026-11-13
+2026_UITBR_605804_1,NIT 605804_1,Bharatpur Division,Bharatpur,2500000.0,25.0,18,10,0.0,False,0.0,2026-11-13
