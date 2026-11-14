@@ -1,0 +1,28 @@
+name: Keep Streamlit Cloud App Awake
+
+on:
+  schedule:
+    # Runs every 6 hours to reset Streamlit's 12-hour inactivity timer
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  keep-awake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Playwright & Chromium
+        run: |
+          pip install playwright
+          playwright install chromium
+
+      - name: Open Real Browser Session on Streamlit App
+        run: python keep_awake.py
