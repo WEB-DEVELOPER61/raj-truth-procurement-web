@@ -2,7 +2,6 @@ import hashlib
 import json
 from datetime import datetime, timezone
 import duckdb
-import daily_audit
 
 
 def sha256_leaf(raw_text: str) -> bytes:
@@ -37,11 +36,7 @@ def build_rfc6962_merkle_root(records: list[str]) -> tuple[str, int]:
 
 
 def main():
-    # Step 1 (Fix 1): Run daily_audit.py (purges synthetic rows, scrapes live eProc notices,
-    # and falls back safely to existing data/districts/*.csv if the portal blocks cloud IPs)
-    daily_audit.main()
-
-    # Step 2 (Fix 2): Read all district CSVs in data/districts/ via DuckDB in deterministic order
+    # Read all district CSVs in data/districts/ via DuckDB in deterministic order
     con = duckdb.connect()
     rows = con.execute("""
         SELECT DISTINCT
