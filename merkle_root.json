@@ -1,0 +1,12 @@
+{
+  "standard": "RFC 6962 Certificate Transparency Merkle Tree",
+  "hash_algorithm": "SHA-256",
+  "domain_separation": {
+    "leaf_prefix": "0x00",
+    "node_prefix": "0x01"
+  },
+  "sealed_at_utc": "2026-11-14T13:17:14.241996+00:00",
+  "total_records": 23372,
+  "tree_floors": 15,
+  "master_merkle_root": "d35ac43c6fb41841b1a819b8483b8c801266c19eef167bac8c01a9c5d076144e"
+}
