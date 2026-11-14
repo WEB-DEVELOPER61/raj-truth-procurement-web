@@ -1,38 +1,39 @@
-name: Automated Daily Tender Audit
+name: Project TRUTH Automated Audit
 
 on:
   schedule:
-    # Runs at 18:30 UTC = 00:00 Midnight IST every night
-    - cron: '30 18 * * *'
+    # Runs automatically every day at 00:00 UTC (5:30 AM IST) with zero human intervention
+    - cron: "0 0 * * *"
+  # Lets you trigger a live cloud run in front of a judge with one click
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  audit-job:
+  verifiable-audit:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Public Repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.11"
 
-      - name: Install Dependencies
+      - name: Install Audit Dependencies
         run: |
-          pip install requests beautifulsoup4 pandas numpy
+          pip install duckdb pandas scikit-learn requests beautifulsoup4
 
-      - name: Execute Daily Ingestion
-        run: |
-          python daily_audit.py
+      - name: Execute Scraper, DuckDB Audit & RFC 6962 Merkle Tree
+        run: python run_audit.py
 
-      - name: Commit and Push Updated CSVs
+      - name: Seal Merkle Root via GitHub Actions Bot
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/districts/*.csv
-          git diff --staged --quiet || (git commit -m "chore(data): auto-sync daily tenders [skip ci]" && git push)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add merkle_root.json
+          git diff --staged --quiet || git commit -m "chore(audit): seal RFC 6962 Merkle Root [automated]"
+          git push
