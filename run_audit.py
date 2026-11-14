@@ -1,8 +1,8 @@
 import hashlib
 import json
-import math
 from datetime import datetime, timezone
 import duckdb
+import daily_audit
 
 
 def sha256_leaf(raw_text: str) -> bytes:
@@ -18,8 +18,7 @@ def sha256_node(left: bytes, right: bytes) -> bytes:
 def build_rfc6962_merkle_root(records: list[str]) -> tuple[str, int]:
     """Builds the bottom-up binary Merkle tree and returns (hex_root, tree_floors)."""
     if not records:
-        empty_hash = hashlib.sha256(b"").hexdigest()
-        return empty_hash, 0
+        return hashlib.sha256(b"").hexdigest(), 0
 
     current_level = [sha256_leaf(rec) for rec in records]
     floors = 0
@@ -30,7 +29,6 @@ def build_rfc6962_merkle_root(records: list[str]) -> tuple[str, int]:
             if i + 1 < len(current_level):
                 next_level.append(sha256_node(current_level[i], current_level[i + 1]))
             else:
-                # RFC 6962 rule: carry an unpaired odd node up without duplicating it
                 next_level.append(current_level[i])
         current_level = next_level
         floors += 1
@@ -39,25 +37,31 @@ def build_rfc6962_merkle_root(records: list[str]) -> tuple[str, int]:
 
 
 def main():
-    # 1. Connect to DuckDB and pull canonical tender strings in deterministic order
-    con = duckdb.connect("truth_tenders.duckdb", read_only=True)
+    # Step 1: Run daily_audit.py (purges synthetic rows, attempts live scrape, keeps district CSVs intact)
+    daily_audit.main()
+
+    # Step 2: Read all district CSVs in data/districts/ via DuckDB in deterministic order
+    con = duckdb.connect()
     rows = con.execute("""
-        SELECT
+        SELECT DISTINCT
+            tender_id,
             tender_id || '|' ||
-            COALESCE(CAST(tender_value AS VARCHAR), '0') || '|' ||
-            COALESCE(CAST(publish_date AS VARCHAR), '') || '|' ||
-            COALESCE(CAST(bid_close_date AS VARCHAR), '') AS canonical_record
-        FROM tenders
+            COALESCE(tender_amount, '0') || '|' ||
+            COALESCE(actual_window_days, '') || '|' ||
+            COALESCE(statutory_min_days, '') || '|' ||
+            COALESCE(is_violation, '') || '|' ||
+            COALESCE(publication_date, '') AS canonical_record
+        FROM read_csv('data/districts/*.csv', union_by_name=True, all_varchar=True)
+        WHERE tender_id IS NOT NULL AND TRIM(tender_id) != ''
         ORDER BY tender_id ASC
     """).fetchall()
     con.close()
 
-    canonical_records = [row[0] for row in rows]
+    canonical_records = [row[1] for row in rows]
 
-    # 2. Compute the tamper-evident RFC 6962 Master Merkle Root
+    # Step 3: Compute the RFC 6962 Master Merkle Root across the full corpus
     master_root, tree_floors = build_rfc6962_merkle_root(canonical_records)
 
-    # 3. Write public cryptographic receipt for GitHub Actions to commit
     receipt = {
         "standard": "RFC 6962 Certificate Transparency Merkle Tree",
         "hash_algorithm": "SHA-256",
