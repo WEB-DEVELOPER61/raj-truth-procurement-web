@@ -92,37 +92,37 @@ def parse_dates_and_window(pub_str, close_str):
     return "", 10
 
 
-def _build(self) -> bytes:
-        if not self.leaves:
-            return hashlib.sha256(b"").digest()
-        
-        current = self.leaves
-        while len(current) > 1:
-            next_level = []
-            for i in range(0, len(current), 2):
-                if i + 1 < len(current):
-                    next_level.append(self._hash_nodes(current[i], current[i + 1]))
-                else:
-                    # Strict RFC 6962 promotion: odd node moves up without duplication
-                    next_level.append(current[i])
-            self.levels.append(next_level)
-            current = next_level
-        return current[0]
+def calculate_rule_43_compliance(tender_amount, actual_window_days):
+    """Computes statutory window, timeline deficit, violation status, and PRI (synced with app.py)."""
+    if tender_amount > 20000000.0:
+        statutory_min = 30
+    elif tender_amount > 5000000.0:
+        statutory_min = 15
+    elif tender_amount > 1000000.0:
+        statutory_min = 10
+    else:
+        statutory_min = 7
 
-    def get_root_hex(self) -> str:
-        return self.root.hex()
+    is_violation = actual_window_days < statutory_min
+    deficit = max(0.0, float(statutory_min - actual_window_days))
 
-    def get_proof(self, index: int):
-        proof = []
-        if len(self.leaves) <= 1:
-            return proof
-        for level in self.levels[:-1]:
-            is_right = (index % 2 == 1)
-            sibling_idx = index - 1 if is_right else index + 1
-            if sibling_idx < len(level):
-                proof.append(('L' if is_right else 'R', level[sibling_idx].hex()))
-            index //= 2
-        return proof
+    if is_violation:
+        val_weight = min(30.0, (np.log10(max(1000.0, float(tender_amount))) / 8.0) * 30.0)
+        dur_weight = min(70.0, (deficit / statutory_min) * 70.0)
+        risk_score = round(min(100.0, val_weight + dur_weight), 1)
+    else:
+        risk_score = 0.0
+
+    return statutory_min, deficit, is_violation, risk_score
+
+
+def map_circle_and_file(org_chain):
+    """Dynamically matches authority text to administrative division, district, and target CSV."""
+    txt = org_chain.lower()
+    for division, districts in RAJASTHAN_ADMIN_HIERARCHY.items():
+        for dist in districts:
+            if dist.lower() in txt:
+                filename = dist.lower().replace(" ", "_").replace("-", "_") + ".csv"
                 return division, dist, filename
 
     return "Jaipur Division", "Jaipur", "jaipur.csv"
