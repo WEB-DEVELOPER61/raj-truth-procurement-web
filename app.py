@@ -91,8 +91,7 @@ class RFC6962MerkleTree:
 
     def _hash_nodes(self, left: bytes, right: bytes) -> bytes:
         return hashlib.sha256(self.node_prefix + left + right).digest()
-
-    def _build(self) -> bytes:
+def _build(self) -> bytes:
         if not self.leaves:
             return hashlib.sha256(b"").digest()
         
@@ -100,9 +99,11 @@ class RFC6962MerkleTree:
         while len(current) > 1:
             next_level = []
             for i in range(0, len(current), 2):
-                l = current[i]
-                r = current[i + 1] if i + 1 < len(current) else l
-                next_level.append(self._hash_nodes(l, r))
+                if i + 1 < len(current):
+                    next_level.append(self._hash_nodes(current[i], current[i + 1]))
+                else:
+                    # Strict RFC 6962 promotion: odd node moves up without duplication
+                    next_level.append(current[i])
             self.levels.append(next_level)
             current = next_level
         return current[0]
@@ -119,8 +120,6 @@ class RFC6962MerkleTree:
             sibling_idx = index - 1 if is_right else index + 1
             if sibling_idx < len(level):
                 proof.append(('L' if is_right else 'R', level[sibling_idx].hex()))
-            else:
-                proof.append(('R', level[index].hex()))
             index //= 2
         return proof
 
