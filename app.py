@@ -1,4 +1,3 @@
-
 import os
 import re
 import glob
@@ -1271,5 +1270,3 @@ Place: {district}, Rajasthan
 # -------------------------------------------------------------
 st.markdown("---")
 st.caption("Project TRUTH • STABLE CORE ENGINE v1.1.0 • DUAL-SIEVE RUNTIME STATE")
-Analyzing
-
