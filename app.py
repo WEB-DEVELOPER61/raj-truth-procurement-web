@@ -1,3 +1,4 @@
+
 import os
 import re
 import glob
@@ -198,19 +199,47 @@ def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str
         clean_dist = "-".join([part.title() for part in clean_dist.split("-")])
 
     clean_div = str(raw_division).strip()
-    if clean_div.lower() in ["nan", "none", "", "nan division", "division"]:
-        if "JDAJP" in tid: clean_div = "Jaipur Development Authority (JDA)"
-        elif "UITBR" in tid: clean_div = "Urban Improvement Trust (UIT Bikaner)"
-        elif "UITUD" in tid: clean_div = "Urban Improvement Trust (UIT Udaipur)"
-        elif "PHCJA" in tid: clean_div = "Police Housing Corp (PHC Jaipur)"
-        elif "DLB" in tid: clean_div = "Directorate of Local Bodies (DLB)"
-        elif "RRVUN" in tid: clean_div = "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
-        elif "MEDIC" in tid: clean_div = "Department of Medical Education"
-        elif "CEPWD" in tid: clean_div = f"PWD {clean_dist} Circle"
-        elif "FORES" in tid: clean_div = f"Forest Department {clean_dist} Circle"
-        else: clean_div = f"{clean_dist} Works Division"
-            
-    return clean_dist, clean_div
+    div_low = clean_div.lower()
+
+    # 1. Explicit Rajasthan eProc / SPPP Tender ID tokens
+    if "JDAJP" in tid: return clean_dist, "Jaipur Development Authority (JDA)"
+    if "UITBR" in tid: return clean_dist, "Urban Improvement Trust (UIT Bikaner)"
+    if "UITUD" in tid: return clean_dist, "Urban Improvement Trust (UIT Udaipur)"
+    if "PHCJA" in tid: return clean_dist, "Police Housing Corp (PHC Jaipur)"
+    if "DLB" in tid: return clean_dist, "Directorate of Local Bodies (DLB)"
+    if "RRVUN" in tid or "AVVNL" in tid or "JVVNL" in tid or "JDVVNL" in tid:
+        return clean_dist, "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
+    if "RSRDC" in tid: return clean_dist, "Rajasthan State Road Dev. Corp (RSRDCC)"
+    if "MEDIC" in tid: return clean_dist, "Department of Medical Education"
+    if "CEPWD" in tid: return clean_dist, f"PWD {clean_dist} Circle"
+    if "FORES" in tid: return clean_dist, f"Forest Department {clean_dist} Circle"
+
+    # 2. Normalize division strings so cross-portal / GeM notices map cleanly to Rajasthan Procuring Circles
+    if div_low in ["jaipur division", "jodhpur division", "kota division", "udaipur division", "ajmer division", "bikaner division", "bharatpur division"]:
+        return clean_dist, f"PWD {clean_dist} Circle"
+    if "directorate local bodies" in div_low or "local self government" in div_low or "nagar nigam" in div_low or "nagar palika" in div_low:
+        return clean_dist, "Directorate of Local Bodies (DLB)"
+    if "panchayati raj" in div_low or "rural development" in div_low:
+        return clean_dist, "Department of Panchayati Raj (Rajasthan)"
+    if any(k in div_low for k in ["energy", "power", "vidyut", "petroleum", "gail", "oil", "coal"]):
+        return clean_dist, "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
+    if any(k in div_low for k in ["public works", "pwd", "mohua", "housing", "urban development", "road", "highway", "nhai", "defence", "military", "railways", "civil aviation"]):
+        return clean_dist, f"PWD {clean_dist} Circle"
+    if any(k in div_low for k in ["water", "jal shakti", "phed", "irrigation", "ganga", "narmada"]):
+        return clean_dist, f"PHED {clean_dist} Water Circle"
+    if any(k in div_low for k in ["education", "school", "literacy", "higher education"]):
+        return clean_dist, f"Department of Education ({clean_dist} Circle)"
+    if any(k in div_low for k in ["medical", "health", "hospital", "ayush", "esic"]):
+        return clean_dist, "Department of Medical Education"
+    if "forest" in div_low:
+        return clean_dist, f"Forest Department {clean_dist} Circle"
+    if any(k in div_low for k in ["food", "consumer", "agriculture", "marketing", "civil supplies", "finance", "revenue", "communications", "telecom", "heavy industries", "labour", "tribal", "information"]):
+        return clean_dist, f"Urban Improvement Trust (UIT {clean_dist})"
+
+    if div_low in ["nan", "none", "", "nan division", "division"]:
+        return clean_dist, f"PWD {clean_dist} Circle"
+
+    return clean_dist, f"{clean_dist} Works Division"
 
 def _get_candidate_date_columns(df_columns, col_map):
     """
@@ -1242,3 +1271,5 @@ Place: {district}, Rajasthan
 # -------------------------------------------------------------
 st.markdown("---")
 st.caption("Project TRUTH • STABLE CORE ENGINE v1.1.0 • DUAL-SIEVE RUNTIME STATE")
+Analyzing
+
