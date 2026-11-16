@@ -72,6 +72,29 @@ st.markdown("""
 # -----------------------------------------------------------------------------
 # 2. CRYPTOGRAPHIC INTEGRITY: RFC 6962 DOMAIN-SEPARATED MERKLE TREE
 # -----------------------------------------------------------------------------
+def sha256_leaf(data: str) -> bytes:
+    # RFC 6962 Domain Separation: 0x00 for leaves
+    return hashlib.sha256(b'\x00' + str(data).encode('utf-8')).digest()
+
+def sha256_node(left: bytes, right: bytes) -> bytes:
+    # RFC 6962 Domain Separation: 0x01 for internal nodes
+    return hashlib.sha256(b'\x01' + left + right).digest()
+
+def compute_merkle_root(leaves: list) -> str:
+    """Standalone strict RFC 6962 root (odd nodes promoted, never duplicated)."""
+    if not leaves:
+        return ""
+    current_level = [sha256_leaf(leaf) for leaf in leaves]
+    while len(current_level) > 1:
+        next_level = []
+        for i in range(0, len(current_level), 2):
+            if i + 1 < len(current_level):
+                next_level.append(sha256_node(current_level[i], current_level[i + 1]))
+            else:
+                next_level.append(current_level[i])
+        current_level = next_level
+    return current_level[0].hex()
+
 class RFC6962MerkleTree:
     """
     Implements RFC 6962 domain separation:
@@ -91,10 +114,11 @@ class RFC6962MerkleTree:
 
     def _hash_nodes(self, left: bytes, right: bytes) -> bytes:
         return hashlib.sha256(self.node_prefix + left + right).digest()
-def _build(self) -> bytes:
+
+    def _build(self) -> bytes:
         if not self.leaves:
             return hashlib.sha256(b"").digest()
-        
+
         current = self.leaves
         while len(current) > 1:
             next_level = []
@@ -102,7 +126,8 @@ def _build(self) -> bytes:
                 if i + 1 < len(current):
                     next_level.append(self._hash_nodes(current[i], current[i + 1]))
                 else:
-                    # Strict RFC 6962 promotion: odd node moves up without duplication
+                    # Strict RFC 6962 promotion: odd node moves up unchanged (no duplication,
+                    # which avoids the CVE-2012-2459 malleability flaw)
                     next_level.append(current[i])
             self.levels.append(next_level)
             current = next_level
@@ -120,6 +145,7 @@ def _build(self) -> bytes:
             sibling_idx = index - 1 if is_right else index + 1
             if sibling_idx < len(level):
                 proof.append(('L' if is_right else 'R', level[sibling_idx].hex()))
+            # else: node was promoted unchanged at this level; no sibling to record
             index //= 2
         return proof
 
