@@ -5,8 +5,8 @@
     "leaf_prefix": "0x00",
     "node_prefix": "0x01"
   },
-  "sealed_at_utc": "2026-11-15T04:01:57.125757+00:00",
-  "total_records": 23374,
+  "sealed_at_utc": "2026-11-16T04:02:02.043823+00:00",
+  "total_records": 23433,
   "tree_floors": 15,
-  "master_merkle_root": "a13fbc2e1ce6b971bbd7b6480127495447d3cb10bf849e936b1eb89fa17db6c2"
+  "master_merkle_root": "98b2239d80745e5ef7a9067f229172ff56eefecd7b222f1ef90d0abd7642429b"
 }
