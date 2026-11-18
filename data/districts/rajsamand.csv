@@ -1,71 +1,72 @@
-tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-SHPP-2869000.00,DLB2627WSOB24141,Directorate Local Bodies,Rajsamand,2869000.0,28.69,11,10,0.0,False,0.0
-SHPP-33422000.00,RRC2627WSOB00737,Rajasthan State Road Development and Construction Cooperation,Rajsamand,33422000.0,334.22,12,30,18,True,70.1
-SHPP-1415000.00,DLB2627WSOB23788,Directorate Local Bodies,Rajsamand,1415000.0,14.15,21,10,0.0,False,0.0
-SHPP-1185000.00,TBN2627GLRC00067,Nathdwara Temple Board,Rajsamand,1185000.0,11.85,346,10,0.0,False,0.0
-SHPP-1300000.00,DLB2627WSRC23517,Directorate Local Bodies,Rajsamand,1300000.0,13.0,18,10,0.0,False,0.0
-SHPP-14388000.00,AMD2627WSOB00082,Archaelogy and Museums,Rajsamand,14388000.0,143.88,18,15,0.0,False,0.0
-SHPP-8550000.00,TBN2627GLRC00068,Nathdwara Temple Board,Rajsamand,8550000.0,85.5,12,15,3,True,39.9
-SHPP-1425000.00,PHE2627WSOB06829,"Chief Engineer (Special Project) PHED, Jaipur",Rajsamand,1425000.0,14.25,14,10,0.0,False,0.0
-EPROC-2026_CEPWD_605729_7,NIT No. 13/2026-27 EE PWD Dn. Rajsamand,PWD - CE AND AS||ACE-UDAIPUR-I||SE-RAJSAMAND||EE-RAJSAMAND,Rajsamand,1000000.0,10.0,1,7,6,True,82.5
-EPROC-2026_CEPWD_602437_10,NIT 11/2026-27,PWD - CE AND AS||ACE-UDAIPUR-I||SE-RAJSAMAND||EE-NATHDWARA,Rajsamand,17245000.0,172.45,42,15,0.0,False,0.0
-EPROC-2026_DLB_605566_1,NIT NO 59/2026-27 REF NO. NIVIDA/CONST./26/9404-10 DATED 05-11.2026,DLB||Dy.DR-Udaipur||EO-Nathdwara,Rajsamand,2869000.0,28.69,10,10,0.0,False,0.0
-EPROC-2026_DLB_605394_1,NIT NO 58/2026-27 REF NO. NIVIDA/CONST./26/9201-207 DATED 02-11.2026,DLB||Dy.DR-Udaipur||EO-Nathdwara,Rajsamand,2000000.0,20.0,11,10,0.0,False,0.0
-EPROC-2026_DLB_605235_27,NIT NO 57/2026-27 REF NO. NIVIDA/CONST./26/9117-22 DATED 29.10.2026,DLB||Dy.DR-Udaipur||EO-Nathdwara,Rajsamand,2000000.0,20.0,12,10,0.0,False,0.0
-EPROC-2026_DLB_605254_1,RFP 5843/2026-27 DATE 30.10.2026,DLB||Dy.DR-Udaipur||Commissioner-Rajsamand,Rajsamand,1415000.0,14.15,21,10,0.0,False,0.0
-EPROC-2026_DLB_605029_1,Amet/ENIT/08/2026-27/3815,DLB||Dy.DR-Jodhpur||EO-Ranikhurd,Rajsamand,1300000.0,13.0,18,10,0.0,False,0.0
-EPROC-2026_PHCJA_605044_1,EE NTD 90/2026-27,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Udaipur||SE Bhagari Ka Naka Proj.Cr. Udaipur||EE,Dn.Rajsamund(Kakroli)",Rajsamand,1425000.0,14.25,14,10,0.0,False,0.0
-EPROC-2026_RSRDC_605405_1,NIT No. 450/2026-27 dated 03.11.2026,RSRDCC-GM,Rajsamand,33422000.0,334.22,12,30,18,True,70.1
-EPROC-2026_NATB_605061_1,6960/purchase/2026 dt 28.10.2026,NATHDWARA TEMPLE BOARD||C.E.O.,Rajsamand,1185000.0,11.85,12,10,0.0,False,0.0
-GEM/2026/B/7857135,GEM/2026/B/7857135,College Education Department Rajasthan,Rajsamand,0.0,0.0,17,7,0.0,False,0.0
-GEM/2026/B/7646768,GEM/2026/B/7646768,Ministry of Education - Department of School Education and Literacy,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7358301,GEM/2026/B/7358301,College Education Department Rajasthan,Rajsamand,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/7235036,GEM/2026/B/7235036,College Education Department Rajasthan,Rajsamand,0.0,0.0,18,7,0.0,False,0.0
-GEM/2026/B/7190941,GEM/2026/B/7190941,College Education Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2026/B/7177125,GEM/2026/B/7177125,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7145924,GEM/2026/B/7145924,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,15,7,0.0,False,0.0
-GEM/2026/B/7125409,GEM/2026/B/7125409,College Education Department Rajasthan,Rajsamand,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6957302,GEM/2025/B/6957302,Animal Husbandry Department Rajasthan,Rajsamand,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/6790753,GEM/2025/B/6790753,Industry Department Rajasthan,Rajsamand,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/B/6790617,GEM/2025/B/6790617,Industry Department Rajasthan,Rajsamand,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/B/6790538,GEM/2025/B/6790538,Industry Department Rajasthan,Rajsamand,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/B/6790265,GEM/2025/B/6790265,Industry Department Rajasthan,Rajsamand,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/B/6758075,GEM/2025/B/6758075,Animal Husbandry Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6684029,GEM/2025/B/6684029,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6680950,GEM/2025/B/6680950,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6677338,GEM/2025/B/6677338,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6676534,GEM/2025/B/6676534,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6623571,GEM/2025/B/6623571,Education (Elementary and Secondary) Department Rajasthan,Rajsamand,0.0,0.0,25,7,0.0,False,0.0
-GEM/2025/B/6520233,GEM/2025/B/6520233,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520176,GEM/2025/B/6520176,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520158,GEM/2025/B/6520158,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520032,GEM/2025/B/6520032,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519978,GEM/2025/B/6519978,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519884,GEM/2025/B/6519884,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519747,GEM/2025/B/6519747,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519624,GEM/2025/B/6519624,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519578,GEM/2025/B/6519578,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519512,GEM/2025/B/6519512,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519415,GEM/2025/B/6519415,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520316,GEM/2025/B/6520316,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520302,GEM/2025/B/6520302,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520283,GEM/2025/B/6520283,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520282,GEM/2025/B/6520282,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520260,GEM/2025/B/6520260,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520202,GEM/2025/B/6520202,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520198,GEM/2025/B/6520198,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520131,GEM/2025/B/6520131,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6520083,GEM/2025/B/6520083,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519373,GEM/2025/B/6519373,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519299,GEM/2025/B/6519299,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6518582,GEM/2025/B/6518582,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519207,GEM/2025/B/6519207,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6519136,GEM/2025/B/6519136,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6501013,GEM/2025/B/6501013,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6500869,GEM/2025/B/6500869,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6231123,GEM/2025/B/6231123,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6128901,GEM/2025/B/6128901,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,31,7,0.0,False,0.0
-GEM/2025/B/6124330,GEM/2025/B/6124330,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,31,7,0.0,False,0.0
-GEM/2025/B/6065803,GEM/2025/B/6065803,College Education Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6051719,GEM/2025/B/6051719,Medical Health and Family Welfare Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/5912581,GEM/2025/B/5912581,Medical Health and Family Welfare Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score,publication_date
+SHPP-2869000.00,DLB2627WSOB24141,Directorate Local Bodies,Rajsamand,2869000.0,28.69,11,10,0.0,False,0.0,
+SHPP-33422000.00,RRC2627WSOB00737,Rajasthan State Road Development and Construction Cooperation,Rajsamand,33422000.0,334.22,12,30,18.0,True,70.1,
+SHPP-1415000.00,DLB2627WSOB23788,Directorate Local Bodies,Rajsamand,1415000.0,14.15,21,10,0.0,False,0.0,
+SHPP-1185000.00,TBN2627GLRC00067,Nathdwara Temple Board,Rajsamand,1185000.0,11.85,346,10,0.0,False,0.0,
+SHPP-1300000.00,DLB2627WSRC23517,Directorate Local Bodies,Rajsamand,1300000.0,13.0,18,10,0.0,False,0.0,
+SHPP-14388000.00,AMD2627WSOB00082,Archaelogy and Museums,Rajsamand,14388000.0,143.88,18,15,0.0,False,0.0,
+SHPP-8550000.00,TBN2627GLRC00068,Nathdwara Temple Board,Rajsamand,8550000.0,85.5,12,15,3.0,True,39.9,
+SHPP-1425000.00,PHE2627WSOB06829,"Chief Engineer (Special Project) PHED, Jaipur",Rajsamand,1425000.0,14.25,14,10,0.0,False,0.0,
+EPROC-2026_CEPWD_605729_7,NIT No. 13/2026-27 EE PWD Dn. Rajsamand,PWD - CE AND AS||ACE-UDAIPUR-I||SE-RAJSAMAND||EE-RAJSAMAND,Rajsamand,1000000.0,10.0,1,7,6.0,True,82.5,
+EPROC-2026_CEPWD_602437_10,NIT 11/2026-27,PWD - CE AND AS||ACE-UDAIPUR-I||SE-RAJSAMAND||EE-NATHDWARA,Rajsamand,17245000.0,172.45,42,15,0.0,False,0.0,
+EPROC-2026_DLB_605566_1,NIT NO 59/2026-27 REF NO. NIVIDA/CONST./26/9404-10 DATED 05-11.2026,DLB||Dy.DR-Udaipur||EO-Nathdwara,Rajsamand,2869000.0,28.69,10,10,0.0,False,0.0,
+EPROC-2026_DLB_605394_1,NIT NO 58/2026-27 REF NO. NIVIDA/CONST./26/9201-207 DATED 02-11.2026,DLB||Dy.DR-Udaipur||EO-Nathdwara,Rajsamand,2000000.0,20.0,11,10,0.0,False,0.0,
+EPROC-2026_DLB_605235_27,NIT NO 57/2026-27 REF NO. NIVIDA/CONST./26/9117-22 DATED 29.10.2026,DLB||Dy.DR-Udaipur||EO-Nathdwara,Rajsamand,2000000.0,20.0,12,10,0.0,False,0.0,
+EPROC-2026_DLB_605254_1,RFP 5843/2026-27 DATE 30.10.2026,DLB||Dy.DR-Udaipur||Commissioner-Rajsamand,Rajsamand,1415000.0,14.15,21,10,0.0,False,0.0,
+EPROC-2026_DLB_605029_1,Amet/ENIT/08/2026-27/3815,DLB||Dy.DR-Jodhpur||EO-Ranikhurd,Rajsamand,1300000.0,13.0,18,10,0.0,False,0.0,
+EPROC-2026_PHCJA_605044_1,EE NTD 90/2026-27,"PHED-Chief Engineer(HQ),Jaipur||ACE Region Udaipur||SE Bhagari Ka Naka Proj.Cr. Udaipur||EE,Dn.Rajsamund(Kakroli)",Rajsamand,1425000.0,14.25,14,10,0.0,False,0.0,
+EPROC-2026_RSRDC_605405_1,NIT No. 450/2026-27 dated 03.11.2026,RSRDCC-GM,Rajsamand,33422000.0,334.22,12,30,18.0,True,70.1,
+EPROC-2026_NATB_605061_1,6960/purchase/2026 dt 28.10.2026,NATHDWARA TEMPLE BOARD||C.E.O.,Rajsamand,1185000.0,11.85,12,10,0.0,False,0.0,
+GEM/2026/B/7857135,GEM/2026/B/7857135,College Education Department Rajasthan,Rajsamand,0.0,0.0,17,7,0.0,False,0.0,
+GEM/2026/B/7646768,GEM/2026/B/7646768,Ministry of Education - Department of School Education and Literacy,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7358301,GEM/2026/B/7358301,College Education Department Rajasthan,Rajsamand,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/7235036,GEM/2026/B/7235036,College Education Department Rajasthan,Rajsamand,0.0,0.0,18,7,0.0,False,0.0,
+GEM/2026/B/7190941,GEM/2026/B/7190941,College Education Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2026/B/7177125,GEM/2026/B/7177125,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2026/B/7145924,GEM/2026/B/7145924,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2026/B/7125409,GEM/2026/B/7125409,College Education Department Rajasthan,Rajsamand,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/6957302,GEM/2025/B/6957302,Animal Husbandry Department Rajasthan,Rajsamand,0.0,0.0,15,7,0.0,False,0.0,
+GEM/2025/B/6790753,GEM/2025/B/6790753,Industry Department Rajasthan,Rajsamand,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2025/B/6790617,GEM/2025/B/6790617,Industry Department Rajasthan,Rajsamand,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2025/B/6790538,GEM/2025/B/6790538,Industry Department Rajasthan,Rajsamand,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2025/B/6790265,GEM/2025/B/6790265,Industry Department Rajasthan,Rajsamand,0.0,0.0,13,7,0.0,False,0.0,
+GEM/2025/B/6758075,GEM/2025/B/6758075,Animal Husbandry Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6684029,GEM/2025/B/6684029,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/6680950,GEM/2025/B/6680950,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/6677338,GEM/2025/B/6677338,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/6676534,GEM/2025/B/6676534,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,21,7,0.0,False,0.0,
+GEM/2025/B/6623571,GEM/2025/B/6623571,Education (Elementary and Secondary) Department Rajasthan,Rajsamand,0.0,0.0,25,7,0.0,False,0.0,
+GEM/2025/B/6520233,GEM/2025/B/6520233,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520176,GEM/2025/B/6520176,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520158,GEM/2025/B/6520158,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520032,GEM/2025/B/6520032,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519978,GEM/2025/B/6519978,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519884,GEM/2025/B/6519884,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519747,GEM/2025/B/6519747,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519624,GEM/2025/B/6519624,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519578,GEM/2025/B/6519578,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519512,GEM/2025/B/6519512,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519415,GEM/2025/B/6519415,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520316,GEM/2025/B/6520316,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520302,GEM/2025/B/6520302,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520283,GEM/2025/B/6520283,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520282,GEM/2025/B/6520282,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520260,GEM/2025/B/6520260,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520202,GEM/2025/B/6520202,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520198,GEM/2025/B/6520198,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520131,GEM/2025/B/6520131,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6520083,GEM/2025/B/6520083,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519373,GEM/2025/B/6519373,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519299,GEM/2025/B/6519299,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6518582,GEM/2025/B/6518582,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519207,GEM/2025/B/6519207,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6519136,GEM/2025/B/6519136,Revenue Department Rajasthan,Rajsamand,0.0,0.0,20,7,0.0,False,0.0,
+GEM/2025/B/6501013,GEM/2025/B/6501013,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6500869,GEM/2025/B/6500869,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6231123,GEM/2025/B/6231123,Rural Development and Panchayati Raj Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6128901,GEM/2025/B/6128901,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,31,7,0.0,False,0.0,
+GEM/2025/B/6124330,GEM/2025/B/6124330,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Rajsamand,0.0,0.0,31,7,0.0,False,0.0,
+GEM/2025/B/6065803,GEM/2025/B/6065803,College Education Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/6051719,GEM/2025/B/6051719,Medical Health and Family Welfare Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+GEM/2025/B/5912581,GEM/2025/B/5912581,Medical Health and Family Welfare Department Rajasthan,Rajsamand,0.0,0.0,10,7,0.0,False,0.0,
+2026_PRD_605975_1,NIT 605975_1,Udaipur Division,Rajsamand,2500000.0,25.0,8,10,2.0,True,38.0,2026-11-17
