@@ -1,0 +1,119 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-490000.00,PHE2627WSOB06964,"Chief Engineer (Special Project) PHED, Jaipur",Dholpur,490000.0,4.9,11,7,0.0,False,0.0
+SHPP-77075.00,RVU2627GSOB01391,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,77075.0,0.7708,15,7,0.0,False,0.0
+SHPP-1744660.00,RVU2627WSOB01395,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1744660.0,17.4466,26,10,0.0,False,0.0
+SHPP-355180.00,RVU2627WSOB01396,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,355180.0,3.5518,18,7,0.0,False,0.0
+SHPP-4437211.00,RVU2627WSOB01401,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,4437211.0,44.3721,21,10,0.0,False,0.0
+SHPP-1099270.00,RVU2627WSOB01394,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1099270.0,10.9927,20,10,0.0,False,0.0
+SHPP-3685124.00,RVU2627WSOB01399,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,3685124.0,36.8512,20,10,0.0,False,0.0
+SHPP-273355.00,RVU2627WSOB01392,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,273355.0,2.7336,20,7,0.0,False,0.0
+SHPP-531000.00,RVU2627SSOB01393,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,531000.0,5.31,21,7,0.0,False,0.0
+SHPP-235510.00,RVU2627GSOB01398,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,235510.0,2.3551,22,7,0.0,False,0.0
+SHPP-1230000.00,RVU2627WSOB01390,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1230000.0,12.3,21,10,0.0,False,0.0
+SHPP-1177620.00,RVU2627WSOB01389,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1177620.0,11.7762,21,10,0.0,False,0.0
+SHPP-1870000.00,RVU2627WSOB01388,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,1870000.0,18.7,21,10,0.0,False,0.0
+SHPP-268027000.00,WRD2627WLOB00751,CE Water Resources Department,Dholpur,268027000.0,2680.27,39,30,0.0,False,0.0
+SHPP-92000.00,RVU2627GSOB01236,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,92000.0,0.92,50,7,0.0,False,0.0
+SHPP-374664.00,RVU2627GSOB01244,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,374664.0,3.7466,51,7,0.0,False,0.0
+SHPP-486775.00,RVU2627GSOB01250,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,486775.0,4.8678,51,7,0.0,False,0.0
+SHPP-386332.00,RVU2627GSOB01240,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,386332.0,3.8633,52,7,0.0,False,0.0
+SHPP-440730.00,RVU2627GSOB01246,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,440730.0,4.4073,52,7,0.0,False,0.0
+SHPP-84724.00,RVU2627GSOB01128,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,84724.0,0.8472,88,7,0.0,False,0.0
+SHPP-599999.00,ZDH2526WSOB00703,Zila Parishad Dholpur,Dholpur,599999.0,6.0,340,7,0.0,False,0.0
+SHPP-99200,Services/2026-27/0036/035,"Forest Department, Jaipur",Dholpur,99200.0,0.992,7,7,0.0,False,0.0
+SHPP-302000,Goods/2026-27/0028/012,"Women Empowerment Department, Jaipur",Dholpur,302000.0,3.02,9,7,0.0,False,0.0
+SHPP-106200.00,RVU2627SSSS01407,Rajasthan Rajya Vidut Utpadan Nigam Limited,Dholpur,106200.0,1.062,10,7,0.0,False,0.0
+SHPP-7722000.00,RDC2627WSOB01342,Rajasthan State Industrial Development Investment Corporation,Dholpur,7722000.0,77.22,10,15,5,True,49.1
+SHPP-4640000.00,DLB2627WSOB23530,Directorate Local Bodies,Dholpur,4640000.0,46.4,14,10,0.0,False,0.0
+SHPP-4786000.00,DLB2627WSOB23524,Directorate Local Bodies,Dholpur,4786000.0,47.86,14,10,0.0,False,0.0
+SHPP-4809000.00,DLB2627WSOB23522,Directorate Local Bodies,Dholpur,4809000.0,48.09,14,10,0.0,False,0.0
+SHPP-4815000.00,DLB2627WSOB23516,Directorate Local Bodies,Dholpur,4815000.0,48.15,14,10,0.0,False,0.0
+SHPP-38300000.00,RRC2627WSOB00720,Rajasthan State Road Development and Construction Cooperation,Dholpur,38300000.0,383.0,20,30,10,True,51.6
+EPROC-2026_DLB_605577_1,E-35,DLB||Dy.DR-Jaipur||Commissioner-Dholpur,Dholpur,4987000.0,49.87,12,10,0.0,False,0.0
+EPROC-2026_DLB_605534_1,356,DLB||Dy.DR-Jaipur||Commissioner-Dholpur,Dholpur,4900000.0,49.0,10,10,0.0,False,0.0
+EPROC-2026_DLB_605404_3,E-34,DLB||Dy.DR-Jaipur||Commissioner-Dholpur,Dholpur,500000.0,5.0,12,7,0.0,False,0.0
+EPROC-2026_DLB_605051_1,DLB/RIYAN/06/2026-27/EW02,DLB||Dy.DR-Ajmer||EO-RIYAN BARI,Dholpur,2500000.0,25.0,14,10,0.0,False,0.0
+EPROC-2026_DLB_605042_1,DLB/RIYAN/06/2026-27/EW01,DLB||Dy.DR-Ajmer||EO-RIYAN BARI,Dholpur,2500000.0,25.0,14,10,0.0,False,0.0
+EPROC-2026_DLB_605025_3,E-29,DLB||Dy.DR-Jaipur||Commissioner-Dholpur,Dholpur,4809000.0,48.09,14,10,0.0,False,0.0
+EPROC-2026_RRVUN_604736_1,TN-221/2026-27/SE E and M,RRVUN - CMD||RVUN - CE (DCCPP) - Dhoulpur,Dholpur,1744660.0,17.4466,26,10,0.0,False,0.0
+EPROC-2026_RRVUN_604863_1,TN - 228 (26-27)/ SE(E and M),RRVUN - CMD||RVUN - CE (DCCPP) - Dhoulpur,Dholpur,4437211.0,44.3721,21,10,0.0,False,0.0
+EPROC-2026_RRVUN_604742_1,TN-226/2026-27/SE (E and M),RRVUN - CMD||RVUN - CE (DCCPP) - Dhoulpur,Dholpur,1099270.0,10.9927,20,10,0.0,False,0.0
+EPROC-2026_RRVUN_604867_1,TN-230 / (2026-27) / SE (E and M),RRVUN - CMD||RVUN - CE (DCCPP) - Dhoulpur||SE - Proc.,Dholpur,3685124.0,36.8512,20,10,0.0,False,0.0
+EPROC-2026_RRVUN_604745_1,TN-219/26-27/SE(E and M),RRVUN - CMD||RVUN - CE (DCCPP) - Dhoulpur,Dholpur,531000.0,5.31,21,7,0.0,False,0.0
+EPROC-2026_RRVUN_604730_1,TN-06/2026-27/Civil,RRVUN - CMD||RVUN - CE (DCCPP) - Dhoulpur||SE - Proc.,Dholpur,1870000.0,18.7,21,10,0.0,False,0.0
+EPROC-2026_RRVUN_604733_1,TN-08/2026-27/Civil,RRVUN - CMD||RVUN - CE (DCCPP) - Dhoulpur||SE - Proc.,Dholpur,1230000.0,12.3,21,10,0.0,False,0.0
+EPROC-2026_RRVUN_604731_1,TN-07/2026-27/Civil,RRVUN - CMD||RVUN - CE (DCCPP) - Dhoulpur||SE - Proc.,Dholpur,1177620.0,11.7762,21,10,0.0,False,0.0
+EPROC-2026_RSRDC_604676_1,NIT No. 414/2026-27 dated 06.10.2026,RSRDCC-GM,Dholpur,38300000.0,383.0,19,30,11,True,53.9
+EPROC-2026_WRDAS_603397_1,ACE NIT 11/2026-27_Parbati,WRD - CE AND AS||ACE-JAIPUR-ZONE||SE CIRCLE- DHOLPUR||WR DIVISION - DHOLPUR,Dholpur,268027000.0,2680.27,39,30,0.0,False,0.0
+HF-AOC-2025_JVVNL_483426_1,JPD/ZCE(B/Z)/JVVNL/TN-40,"JVVNL - CMDCE(O and M), JaipurSE-Bharatpur",Dholpur,1863541.0,18.6354,51,10,0.0,False,0.0
+GEM/2026/B/7885626,GEM/2026/B/7885626,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,18,7,0.0,False,0.0
+GEM/2026/B/7884993,GEM/2026/B/7884993,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7885808,GEM/2026/B/7885808,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7885390,GEM/2026/B/7885390,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7753270,GEM/2026/B/7753270,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7704838,GEM/2026/B/7704838,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,19,7,0.0,False,0.0
+GEM/2026/B/7704997,GEM/2026/B/7704997,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,19,7,0.0,False,0.0
+GEM/2025/B/6322418,GEM/2025/B/6322418,Tribal Area Development Department Rajasthan,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7751450,GEM/2026/B/7751450,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7752510,GEM/2026/B/7752510,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7754157,GEM/2026/B/7754157,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/R/671618,GEM/2026/R/671618,Urban Development Department Uttar Pradesh,Dholpur,0.0,0.0,2,7,5,True,61.7
+GEM/2026/B/7496694,GEM/2026/B/7496694,Urban Development Department Uttar Pradesh,Dholpur,0.0,0.0,16,7,0.0,False,0.0
+GEM/2026/B/7364974,GEM/2026/B/7364974,Ministry of Defence - Department of Military Affairs,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6037853,GEM/2025/B/6037853,Ministry of Defence - Department of Military Affairs,Dholpur,0.0,0.0,42,7,0.0,False,0.0
+GEM/2026/R/760844,GEM/2026/R/760844,Ministry of Defence - Department of Military Affairs,Dholpur,0.0,0.0,1,7,6,True,71.7
+GEM/2026/B/8168583,GEM/2026/B/8168583,Ministry of Defence - Department of Military Affairs,Dholpur,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/8090899,GEM/2026/B/8090899,Ministry of Railways - Indian Railways,Dholpur,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7875682,GEM/2026/B/7875682,Ministry of Defence - Department of Military Affairs,Dholpur,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7862512,GEM/2026/B/7862512,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7838566,GEM/2026/B/7838566,Ministry of Railways - Indian Railways,Dholpur,0.0,0.0,12,7,0.0,False,0.0
+GEM/2026/B/7862669,GEM/2026/B/7862669,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7862564,GEM/2026/B/7862564,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7862438,GEM/2026/B/7862438,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7833036,GEM/2026/B/7833036,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,12,7,0.0,False,0.0
+GEM/2026/B/7833334,GEM/2026/B/7833334,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7831575,GEM/2026/B/7831575,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7826485,GEM/2026/B/7826485,Medical Health and Family Welfare Department Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7666395,GEM/2026/B/7666395,Public Works Department Delhi,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7647099,GEM/2026/B/7647099,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7575814,GEM/2026/B/7575814,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7562420,GEM/2026/B/7562420,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7562825,GEM/2026/B/7562825,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7476633,GEM/2026/B/7476633,Ministry of Petroleum and Natural Gas - GAIL India Limited,Dholpur,0.0,0.0,24,7,0.0,False,0.0
+GEM/2026/B/7475117,GEM/2026/B/7475117,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7475263,GEM/2026/B/7475263,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7475055,GEM/2026/B/7475055,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7409084,GEM/2026/B/7409084,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7238764,GEM/2026/B/7238764,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,49,7,0.0,False,0.0
+GEM/2026/B/7237983,GEM/2026/B/7237983,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,53,7,0.0,False,0.0
+GEM/2026/B/7237847,GEM/2026/B/7237847,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,53,7,0.0,False,0.0
+GEM/2026/B/7236996,GEM/2026/B/7236996,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,53,7,0.0,False,0.0
+GEM/2026/B/7236855,GEM/2026/B/7236855,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,53,7,0.0,False,0.0
+GEM/2026/B/7238735,GEM/2026/B/7238735,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,48,7,0.0,False,0.0
+GEM/2026/B/7271222,GEM/2026/B/7271222,Medical Health and Family Welfare Department Rajasthan,Dholpur,0.0,0.0,18,7,0.0,False,0.0
+GEM/2026/B/7262414,GEM/2026/B/7262414,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7238877,GEM/2026/B/7238877,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,16,7,0.0,False,0.0
+GEM/2026/B/7238861,GEM/2026/B/7238861,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,16,7,0.0,False,0.0
+GEM/2025/B/7025014,GEM/2025/B/7025014,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7008341,GEM/2025/B/7008341,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6882368,GEM/2025/B/6882368,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/6882136,GEM/2025/B/6882136,LSG (Local Self Government) Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6839857,GEM/2025/B/6839857,Education (Elementary and Secondary) Department Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6630149,GEM/2025/B/6630149,Ministry of Defence - Department of Military Affairs,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6784449,GEM/2025/B/6784449,Education (Elementary and Secondary) Department Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6473145,GEM/2025/B/6473145,Industries and Mines Department Gujarat,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6551039,GEM/2025/B/6551039,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6354170,GEM/2025/B/6354170,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6097145,GEM/2025/B/6097145,Rural Development and Panchayati Raj Department Rajasthan,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6036979,GEM/2025/B/6036979,Rural Development and Panchayati Raj Department Rajasthan,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6077033,GEM/2025/B/6077033,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dholpur,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/6043768,GEM/2025/B/6043768,Medical Health and Family Welfare Department Rajasthan,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6055932,GEM/2025/B/6055932,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/5987306,GEM/2025/B/5987306,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5983714,GEM/2025/B/5983714,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6003794,GEM/2025/B/6003794,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/5974218,GEM/2025/B/5974218,Medical Health and Family Welfare Department Rajasthan,Dholpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/5981461,GEM/2025/B/5981461,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5912372,GEM/2025/B/5912372,Social Welfare Department Uttarakhand,Dholpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5886368,GEM/2025/B/5886368,Ministry of Education - Department of School Education and Literacy,Dholpur,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/8203707,GEM/2026/B/8203707,Ministry of Defence - Department of Military Affairs,Dholpur,0.0,0.0,21,7,0.0,False,0.0

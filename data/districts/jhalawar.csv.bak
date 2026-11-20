@@ -1,0 +1,133 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2514537.00,WRD2627WSOB00765,CE Water Resources Department,Jhalawar,2514537.0,25.1454,10,10,0.0,False,0.0
+SHPP-2577874.00,WRD2627WSOB00766,CE Water Resources Department,Jhalawar,2577874.0,25.7787,10,10,0.0,False,0.0
+SHPP-2367260.00,WRD2627WSOB00767,CE Water Resources Department,Jhalawar,2367260.0,23.6726,10,10,0.0,False,0.0
+SHPP-253000.00,PWD2627WSOB15175,CE Public Works Department,Jhalawar,253000.0,2.53,11,7,0.0,False,0.0
+SHPP-99000.00,SRG2627GSLB00034,SRG Hospital Jhalawar,Jhalawar,99000.0,0.99,10,7,0.0,False,0.0
+SHPP-43681115.00,VPN2627WSOB01492,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jhalawar,43681115.0,436.8111,42,30,0.0,False,0.0
+SHPP-2950000.00,VVN2627WSOB00449,Jaipur Vidyut Vitran Nigam Limited,Jhalawar,2950000.0,29.5,63,10,0.0,False,0.0
+SHPP-478970.00,RVU2627GSOB01294,Rajasthan Rajya Vidut Utpadan Nigam Limited,Jhalawar,478970.0,4.7897,43,7,0.0,False,0.0
+SHPP-5411814.00,RVU2627GLOB01293,Rajasthan Rajya Vidut Utpadan Nigam Limited,Jhalawar,5411814.0,54.1181,43,15,0.0,False,0.0
+SHPP-404066000.00,VPN2627WLOB01360,Rajasthan Rajya Vidut Prasaran Nigam Limited,Jhalawar,404066000.0,4040.66,48,30,0.0,False,0.0
+SHPP-318350000.00,PWD2627WLOB12807,CE Public Works Department,Jhalawar,318350000.0,3183.5,59,30,0.0,False,0.0
+SHPP-111375000.00,PWD2627WLOB12806,CE Public Works Department,Jhalawar,111375000.0,1113.75,59,30,0.0,False,0.0
+SHPP-121997800.00,RVU2627WLOB00673,Rajasthan Rajya Vidut Utpadan Nigam Limited,Jhalawar,121997800.0,1219.978,144,30,0.0,False,0.0
+EPROC-2026_CEPWD_605643_1,NITNO23/2026-27 EE PWD ELE DIV. BARAN,PWD - CE AND AS||ACE - KOTA||SE-ELECT-KOTA||EE-ELECT-KOTA,Jhalawar,324000.0,3.24,5,7,2.0,True,40.8
+EPROC-2026_CEPWD_605069_2,ACE PWD ZONE KOTA NITNO-23/2026-27,PWD - CE AND AS||ACE - KOTA||SE-JHALAWAR||EE-AKLERA,Jhalawar,318350000.0,3183.5,22,30,8.0,True,50.3
+EPROC-2026_CEPWD_603471_30,EE PWD DIV. AKLERA NITNO-15/2026-27,PWD - CE AND AS||ACE - KOTA||SE-BUNDI||EE-BUNDI,Jhalawar,784000.0,7.84,28,7,0.0,False,0.0
+EPROC-2026_CEPWD_603739_52,EE PWD DIV. AKLERA NITNO-16/2026-27,PWD - CE AND AS||ACE - KOTA||SE-BUNDI||EE-BUNDI,Jhalawar,1470000.0,14.7,39,10,0.0,False,0.0
+EPROC-2026_CEPWD_603188_25,EE PWD DIV. AKLERA NITNO-14/2026-27,PWD - CE AND AS||ACE - KOTA||SE-JHALAWAR||EE-AKLERA,Jhalawar,1715000.0,17.15,45,10,0.0,False,0.0
+EPROC-2026_CEPWD_603077_2,EE PWD DIV. KHANPUR NITNO-14/2026-27,PWD - CE AND AS||ACE - KOTA||SE-JHALAWAR||EE-KHANPUR,Jhalawar,1000000.0,10.0,52,7,0.0,False,0.0
+EPROC-2026_DLB_605535_1,NIT NUM 10 2026-27 NP JHALAWAR SBM,DLB||Dy.DR-Kota||Commissioner-Jhalawar,Jhalawar,6212000.0,62.12,19,15,0.0,False,0.0
+EPROC-2026_DLB_605532_1,NIT NUM 06 2026-27 NP JHALAWAR CIVIL,DLB||Dy.DR-Kota||Commissioner-Jhalawar,Jhalawar,1353000.0,13.53,7,10,3.0,True,44.0
+EPROC-2026_DLB_605340_1,RAJKAJ 25118206 NP JHALAWAR,DLB||Dy.DR-Kota||Commissioner-Jhalawar,Jhalawar,4990000.0,49.9,8,10,2.0,True,39.1
+EPROC-2026_RRVUN_601323_1,TN-1331(MM),RRVUN - CMD||RVUN - CE (KaTPP) - Jhalawar,Jhalawar,5411814.0,54.1181,43,15,0.0,False,0.0
+EPROC-2026_RRVUN_572601_1,TN-709,RRVUN - CMD||RVUN - CE (KaTPP) - Jhalawar||Dy.CE (E and M),Jhalawar,121997800.0,1219.978,144,30,0.0,False,0.0
+EPROC-2026_RRVPN_601633_1,RVPN/EHV/2026-27/BN-9018002614,RRVPN - CMD||CE (Contracts) Jaipur||SE (Contracts-I) Jaipur,Jhalawar,43681115.0,436.8111,42,30,0.0,False,0.0
+EPROC-2026_RRVPN_601893_1,RVPN/EHV/BN-9018002612,RRVPN - CMD||CE (Contracts) Jaipur||SE (Contracts-I) Jaipur,Jhalawar,404066000.0,4040.66,48,30,0.0,False,0.0
+EPROC-2026_WRDAS_605379_1,NIT NO 06 2026-27 EE WR Parwan Project Division-III Jhalawar,WRD - CE AND AS||Additional Chief Engineer-WR Zone Jhalawar||SE WR PROJECT CIRCLE JHALAWAR||EE WR PARWAN PROJECT DIV. III JHALAWAR,Jhalawar,2514537.0,25.1454,11,10,0.0,False,0.0
+EPROC-2026_JMCSR_605282_1,BID Notice No.14/2026-27_JHMC_JWR,Jhalawar Medical College and SRG Hospital||Dean||Medical Superintendent||A. O.,Jhalawar,9000000.0,90.0,11,15,4.0,True,44.7
+HF-AOC-2026_RRVUN_545551_1,SE(MM)/Elect/Prop/25-26/TN-51,RRVUN - CMDRVUN - CE (KaTPP) - JhalawarDy.CE (E and M)Ex.En. (CM and C),Jhalawar,640481.0,6.4048,85,7,0.0,False,0.0
+HF-AOC-2025_RRVUN_506393_1,SE(MM)/CHP/PROP/TN-24,RRVUN - CMDRVUN - CE (KaTPP) - JhalawarDy.CE (E and M)Ex.En. (CM and C),Jhalawar,1794922.8,17.9492,98,10,0.0,False,0.0
+HF-AOC-2025_RRVUN_506496_1,SE(MM)/Elect/Prop/25-26/TN-23,RRVUN - CMDRVUN - CE (KaTPP) - JhalawarSE (MM),Jhalawar,1201459.0,12.0146,116,10,0.0,False,0.0
+HF-AOC-2025_DAMJP_500607_2,NIT 3-4 / 2025-26,Directorate of Agriculture Marketing-Jaipur,Jhalawar,700000.0,7.0,19,7,0.0,False,0.0
+HF-AOC-2025_RRVUN_506424_1,SE(MM)/Elect/Prop/25-26/TN-21,RRVUN - CMDRVUN - CE (KaTPP) - JhalawarSE (MM),Jhalawar,1282289.0,12.8229,106,10,0.0,False,0.0
+GEM/2026/B/8045283,GEM/2026/B/8045283,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,7,7,0.0,False,0.0
+GEM/2026/B/8169212,GEM/2026/B/8169212,Jhalawar,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/7014405,GEM/2025/B/7014405,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2026/B/7424118,GEM/2026/B/7424118,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7011700,GEM/2025/B/7011700,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6713182,GEM/2025/B/6713182,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,8,7,0.0,False,0.0
+GEM/2025/B/6595434,GEM/2025/B/6595434,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,5,7,2.0,True,31.7
+GEM/2026/B/7431729,GEM/2026/B/7431729,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,24,7,0.0,False,0.0
+GEM/2026/B/7424256,GEM/2026/B/7424256,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7424197,GEM/2026/B/7424197,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7014211,GEM/2025/B/7014211,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/7014301,GEM/2025/B/7014301,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2026/B/8038738,GEM/2026/B/8038738,Jhalawar,Jhalawar,0.0,0.0,31,7,0.0,False,0.0
+GEM/2026/B/8016598,GEM/2026/B/8016598,Jhalawar,Jhalawar,0.0,0.0,25,7,0.0,False,0.0
+GEM/2026/B/8009426,GEM/2026/B/8009426,Agriculture Department Rajasthan,Jhalawar,0.0,0.0,17,7,0.0,False,0.0
+GEM/2026/B/8023940,GEM/2026/B/8023940,Jhalawar,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/8016190,GEM/2026/B/8016190,Jhalawar,Jhalawar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7913280,GEM/2026/B/7913280,Education (Elementary and Secondary) Department Rajasthan,Jhalawar,0.0,0.0,16,7,0.0,False,0.0
+GEM/2026/B/7881360,GEM/2026/B/7881360,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7839482,GEM/2026/B/7839482,Forest Department Rajasthan,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7841846,GEM/2026/B/7841846,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7841834,GEM/2026/B/7841834,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7855390,GEM/2026/B/7855390,Ministry of Finance - Department of Revenue,Jhalawar,0.0,0.0,5,7,2.0,True,31.7
+GEM/2026/B/7853941,GEM/2026/B/7853941,Ministry of Finance - Department of Revenue,Jhalawar,0.0,0.0,5,7,2.0,True,31.7
+GEM/2026/B/7786179,GEM/2026/B/7786179,Ministry of Finance - Department of Revenue,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7766639,GEM/2026/B/7766639,Ministry of Finance - Department of Revenue,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7736597,GEM/2026/B/7736597,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7736523,GEM/2026/B/7736523,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7736445,GEM/2026/B/7736445,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7736388,GEM/2026/B/7736388,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7736294,GEM/2026/B/7736294,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7736271,GEM/2026/B/7736271,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7736231,GEM/2026/B/7736231,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7714498,GEM/2026/B/7714498,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7735193,GEM/2026/B/7735193,Forest Department Rajasthan,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7620733,GEM/2026/B/7620733,Energy and Non Conventional Energy Department Rajasthan,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7596320,GEM/2026/B/7596320,Jhalawar,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7463099,GEM/2026/B/7463099,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7400985,GEM/2026/B/7400985,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7355253,GEM/2026/B/7355253,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,28,7,0.0,False,0.0
+GEM/2026/B/7355555,GEM/2026/B/7355555,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,17,7,0.0,False,0.0
+GEM/2026/B/7355545,GEM/2026/B/7355545,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,17,7,0.0,False,0.0
+GEM/2026/B/7355530,GEM/2026/B/7355530,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,17,7,0.0,False,0.0
+GEM/2026/B/7355509,GEM/2026/B/7355509,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,17,7,0.0,False,0.0
+GEM/2026/B/7355461,GEM/2026/B/7355461,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355446,GEM/2026/B/7355446,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355436,GEM/2026/B/7355436,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355417,GEM/2026/B/7355417,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355386,GEM/2026/B/7355386,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355361,GEM/2026/B/7355361,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355337,GEM/2026/B/7355337,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355294,GEM/2026/B/7355294,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355277,GEM/2026/B/7355277,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355218,GEM/2026/B/7355218,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7355061,GEM/2026/B/7355061,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7278032,GEM/2026/B/7278032,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7277757,GEM/2026/B/7277757,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7277286,GEM/2026/B/7277286,LSG (Local Self Government) Rajasthan,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7196286,GEM/2026/B/7196286,Jhalawar,Jhalawar,0.0,0.0,27,7,0.0,False,0.0
+GEM/2026/B/7241358,GEM/2026/B/7241358,Jhalawar,Jhalawar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7253234,GEM/2026/B/7253234,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7222774,GEM/2026/B/7222774,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7219801,GEM/2026/B/7219801,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7146126,GEM/2026/B/7146126,Jhalawar,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6915051,GEM/2025/B/6915051,Jhalawar,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6842583,GEM/2025/B/6842583,Energy and Non Conventional Energy Department Rajasthan,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6787176,GEM/2025/B/6787176,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6775968,GEM/2025/B/6775968,Jhalawar,Jhalawar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/6773658,GEM/2025/B/6773658,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6773629,GEM/2025/B/6773629,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6773615,GEM/2025/B/6773615,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6773547,GEM/2025/B/6773547,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6773526,GEM/2025/B/6773526,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6773480,GEM/2025/B/6773480,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6773433,GEM/2025/B/6773433,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6773585,GEM/2025/B/6773585,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6709340,GEM/2025/B/6709340,Energy and Non Conventional Energy Department Rajasthan,Jhalawar,0.0,0.0,16,7,0.0,False,0.0
+GEM/2025/B/6709234,GEM/2025/B/6709234,Energy and Non Conventional Energy Department Rajasthan,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6700204,GEM/2025/B/6700204,Energy and Non Conventional Energy Department Rajasthan,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6549169,GEM/2025/B/6549169,Rural Development and Panchayati Raj Department Rajasthan,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6337767,GEM/2025/B/6337767,Ministry of Finance - Department of Revenue,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6340591,GEM/2025/B/6340591,Ministry of Finance - Department of Revenue,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6338452,GEM/2025/B/6338452,Ministry of Finance - Department of Revenue,Jhalawar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6238866,GEM/2025/B/6238866,Ministry of Education - Department of School Education and Literacy,Jhalawar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6257536,GEM/2025/B/6257536,Ministry of Finance - Department of Revenue,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6129455,GEM/2025/B/6129455,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6124333,GEM/2025/B/6124333,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6041955,GEM/2025/B/6041955,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6040227,GEM/2025/B/6040227,Ministry of Education - Department of School Education and Literacy,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6025232,GEM/2025/B/6025232,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6025868,GEM/2025/B/6025868,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Jhalawar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5833106,GEM/2025/B/5833106,College Education Department Rajasthan,Jhalawar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/5771559,GEM/2025/B/5771559,Forest Department Rajasthan,Jhalawar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7014003,GEM/2025/B/7014003,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jhalawar,0.0,0.0,22,7,0.0,False,0.0
+2026_RRVUN_601323_1,NIT 601323_1,Kota Division,Jhalawar,2500000.0,25.0,43,10,0.0,False,0.0
+2026_RRVUN_572601_1,NIT 572601_1,Kota Division,Jhalawar,2500000.0,25.0,144,10,0.0,False,0.0
+2026_WRDAS_605379_1,NIT 605379_1,Kota Division,Jhalawar,2500000.0,25.0,11,10,0.0,False,0.0
+2026_WRDAS_605379_2,NIT 605379_2,Kota Division,Jhalawar,2500000.0,25.0,11,10,0.0,False,0.0
+2026_WRDAS_605379_3,NIT 605379_3,Kota Division,Jhalawar,2500000.0,25.0,11,10,0.0,False,0.0

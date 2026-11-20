@@ -1,0 +1,162 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-41284000.00,RDP2627WSOB00080,Rajasthan Urban Drinking Water Sewerage and Infrastructure Corporation Ltd.,Sirohi,41284000.0,412.84,19,30,11,True,54.1
+SHPP-14930000.00,DLB2627WSOB23949,Directorate Local Bodies,Sirohi,14930000.0,149.3,15,15,0.0,False,0.0
+SHPP-1554870.00,DLB2627WSOB24028,Directorate Local Bodies,Sirohi,1554870.0,15.5487,12,10,0.0,False,0.0
+SHPP-434580.00,DLB2627WSOB24032,Directorate Local Bodies,Sirohi,434580.0,4.3458,12,7,0.0,False,0.0
+SHPP-3165200.00,DLB2627WSOB23968,Directorate Local Bodies,Sirohi,3165200.0,31.652,9,10,1,True,31.4
+SHPP-2240925.00,DLB2627WSOB23970,Directorate Local Bodies,Sirohi,2240925.0,22.4093,9,10,1,True,30.8
+SHPP-3499691.00,FOR2627WSOB03132,PCCF Forest Department,Sirohi,3499691.0,34.9969,14,10,0.0,False,0.0
+SHPP-748822.00,FOR2627WSOB03129,PCCF Forest Department,Sirohi,748822.0,7.4882,9,7,0.0,False,0.0
+SHPP-132000.00,TDC2627GSOB00105,Rajasthan Tourism Development Corporation,Sirohi,132000.0,1.32,12,7,0.0,False,0.0
+SHPP-72600000.00,DLB2627WLOB23752,Directorate Local Bodies,Sirohi,72600000.0,726.0,19,30,11,True,54.9
+SHPP-7700000.00,PWD2627WSOB15120,CE Public Works Department,Sirohi,7700000.0,77.0,17,15,0.0,False,0.0
+SHPP-6280140.00,FOR2627WSOB03094,PCCF Forest Department,Sirohi,6280140.0,62.8014,14,15,1,True,30.1
+SHPP-2406679.00,FOR2627WSLB03095,PCCF Forest Department,Sirohi,2406679.0,24.0668,14,10,0.0,False,0.0
+SHPP-777893.00,DLB2526WSRC28792,Directorate Local Bodies,Sirohi,777893.0,7.7789,343,7,0.0,False,0.0
+EPROC-2026_CEPWD_605708_1,NIT No. 19 of 2026-27 PWD Dn. Aburoad,PWD - CE AND AS||ACE - JODHPUR||SE-SIROHI||EE-ABU ROAD,Sirohi,407000.0,4.07,6,7,1,True,31.1
+EPROC-2026_CEPWD_605297_1,NIT No. 18 of 2026-27 PWD Dn. Aburoad,PWD - CE AND AS||ACE - JODHPUR||SE-SIROHI||EE-ABU ROAD,Sirohi,7700000.0,77.0,13,15,2,True,35.1
+EPROC-2026_CEPWD_600988_1,NIT No. 14 of 2025-26 PWD Dn. Aburoad,PWD - CE AND AS||ACE - JODHPUR||SE-SIROHI||EE-ABU ROAD,Sirohi,3655000.0,36.55,46,10,0.0,False,0.0
+EPROC-2026_DLB_605381_1,5944 (2),DLB||Dy.DR-Jodhpur||EO-Mount abu,Sirohi,2240925.0,22.4093,9,10,1,True,30.8
+EPROC-2026_DLB_605380_1,5944 (1),DLB||Dy.DR-Jodhpur||EO-Mount abu,Sirohi,3165200.0,31.652,9,10,1,True,31.4
+EPROC-2026_DLB_605198_1,5887 (1),DLB||Dy.DR-Jodhpur||EO-Mount abu,Sirohi,72600000.0,726.0,19,30,11,True,54.9
+EPROC-2026_FORES_605343_1,35/2026-27,"Forest - PCCF (HoFF)||PCCF AND CWLW||CCF- Wild Life, Jodhpur||DCF-WL- Mount Abu",Sirohi,1794109.0,17.9411,14,10,0.0,False,0.0
+EPROC-2026_FORES_605339_1,33/2026-27,"Forest - PCCF (HoFF)||PCCF AND CWLW||CCF- Wild Life, Jodhpur||DCF-WL- Mount Abu",Sirohi,748822.0,7.4882,9,7,0.0,False,0.0
+EPROC-2026_FORES_605341_1,34/2026-27,"Forest - PCCF (HoFF)||PCCF AND CWLW||CCF- Wild Life, Jodhpur||DCF-WL- Mount Abu",Sirohi,3499691.0,34.9969,9,10,1,True,31.5
+EPROC-2026_FORES_605089_1,30/2026-27,"Forest - PCCF (HoFF)||PCCF AND CWLW||CCF- Wild Life, Jodhpur||DCF-WL- Mount Abu",Sirohi,6280140.0,62.8014,14,15,1,True,30.1
+EPROC-2026_FORES_605091_1,31/2026-27,"Forest - PCCF (HoFF)||PCCF AND CWLW||CCF- Wild Life, Jodhpur||DCF-WL- Mount Abu",Sirohi,2406679.0,24.0668,14,10,0.0,False,0.0
+EPROC-2026_FORES_605020_1,27/2026-27,"Forest - PCCF (HoFF)||PCCF AND CWLW||CCF- Wild Life, Jodhpur||DCF-WL- Mount Abu",Sirohi,3978146.0,39.7815,14,10,0.0,False,0.0
+HF-AOC-2026_PRD_526785_1,14-3 Date 09/01/2026,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Sirohi,100000.0,1.0,21,7,0.0,False,0.0
+HF-AOC-2026_PRD_524672_1,01 Date 01/01/2026,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Sirohi,999000.0,9.99,30,7,0.0,False,0.0
+HF-AOC-2025_PRD_473737_1,144-5 DATE 26/05/2025,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Sirohi,450000.0,4.5,18,7,0.0,False,0.0
+HF-AOC-2025_RSSPC_455173_1,NIT-108/2024-25/Hotel arrangment in Mount Abu,Rajasthan State Sports CouncilSecretaryChief Acs OfficerSports Manager,Sirohi,3300000.0,33.0,87,10,0.0,False,0.0
+HF-AOC-2025_PRD_480860_1,206-6 DATE 18/06/2025,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Sirohi,500000.0,5.0,14,7,0.0,False,0.0
+HF-AOC-2025_PRD_480868_1,206-5 DATE 18/06/2025,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Sirohi,569082.8,5.6908,14,7,0.0,False,0.0
+HF-AOC-2025_PRD_480883_1,206-3 DATE 18/06/2025,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Sirohi,500000.0,5.0,14,7,0.0,False,0.0
+HF-AOC-2025_PRD_480879_1,206-4 DATE 18/06/2025,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Sirohi,1000000.0,10.0,14,7,0.0,False,0.0
+HF-AOC-2025_PRD_473716_1,144-2 DATE 26/05/2025,Panchayati Raj DepartmentSecretary and CommissionerCEO-SIKARBDO-NEEMKATHANA,Sirohi,450000.0,4.5,18,7,0.0,False,0.0
+GEM/2026/B/7867804,GEM/2026/B/7867804,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7867694,GEM/2026/B/7867694,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7720279,GEM/2026/B/7720279,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7663111,GEM/2026/B/7663111,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7663127,GEM/2026/B/7663127,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7658389,GEM/2026/B/7658389,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7658583,GEM/2026/B/7658583,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7658228,GEM/2026/B/7658228,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7493819,GEM/2026/B/7493819,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7372778,GEM/2026/B/7372778,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372759,GEM/2026/B/7372759,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372739,GEM/2026/B/7372739,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372702,GEM/2026/B/7372702,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372627,GEM/2026/B/7372627,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372550,GEM/2026/B/7372550,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372492,GEM/2026/B/7372492,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372443,GEM/2026/B/7372443,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372360,GEM/2026/B/7372360,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372267,GEM/2026/B/7372267,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7372134,GEM/2026/B/7372134,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7108857,GEM/2026/B/7108857,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/8129523,GEM/2026/B/8129523,Forest Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/8129137,GEM/2026/B/8129137,Forest Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/8061426,GEM/2026/B/8061426,Ministry of Finance - Department of Revenue,Sirohi,0.0,0.0,17,7,0.0,False,0.0
+GEM/2026/B/8007130,GEM/2026/B/8007130,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7944817,GEM/2026/B/7944817,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7944729,GEM/2026/B/7944729,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7894700,GEM/2026/B/7894700,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,12,7,0.0,False,0.0
+GEM/2026/B/7894646,GEM/2026/B/7894646,LSG (Local Self Government) Rajasthan,Sirohi,0.0,0.0,12,7,0.0,False,0.0
+GEM/2026/B/7845180,GEM/2026/B/7845180,Forest Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7844945,GEM/2026/B/7844945,Forest Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7643622,GEM/2026/B/7643622,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,51,7,0.0,False,0.0
+GEM/2026/R/687102,GEM/2026/R/687102,Ministry of Communications - Department of Telecommunications (DOT),Sirohi,0.0,0.0,1,7,6,True,71.7
+GEM/2026/B/7658215,GEM/2026/B/7658215,Ministry of Education - Department of School Education and Literacy,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7531626,GEM/2026/B/7531626,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,22,7,0.0,False,0.0
+GEM/2026/R/674035,GEM/2026/R/674035,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7438250,GEM/2026/B/7438250,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,25,7,0.0,False,0.0
+GEM/2026/B/7467212,GEM/2026/B/7467212,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/R/662143,GEM/2026/R/662143,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7413649,GEM/2026/B/7413649,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,24,7,0.0,False,0.0
+GEM/2026/B/7313375,GEM/2026/B/7313375,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,51,7,0.0,False,0.0
+GEM/2026/B/7394073,GEM/2026/B/7394073,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,18,7,0.0,False,0.0
+GEM/2026/R/654795,GEM/2026/R/654795,Ministry of Communications - Department of Posts,Sirohi,0.0,0.0,1,7,6,True,71.7
+GEM/2026/B/7361220,GEM/2026/B/7361220,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,17,7,0.0,False,0.0
+GEM/2026/B/7359656,GEM/2026/B/7359656,College Education Department Rajasthan,Sirohi,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7358097,GEM/2026/B/7358097,College Education Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7355248,GEM/2026/B/7355248,College Education Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/R/641678,GEM/2026/R/641678,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/7046743,GEM/2025/B/7046743,Tribal Area Development Department Rajasthan,Sirohi,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7243579,GEM/2026/B/7243579,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7243489,GEM/2026/B/7243489,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7092694,GEM/2026/B/7092694,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,42,7,0.0,False,0.0
+GEM/2026/R/626252,GEM/2026/R/626252,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,1,7,6,True,71.7
+GEM/2026/B/7157092,GEM/2026/B/7157092,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7110251,GEM/2026/B/7110251,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7132312,GEM/2026/B/7132312,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7117684,GEM/2026/B/7117684,Ministry of Finance - Department of Revenue,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7068701,GEM/2026/B/7068701,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,16,7,0.0,False,0.0
+GEM/2025/B/6878356,GEM/2025/B/6878356,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,29,7,0.0,False,0.0
+GEM/2025/B/6896722,GEM/2025/B/6896722,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/R/578557,GEM/2025/R/578557,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,3,7,4,True,51.7
+GEM/2025/B/6809191,GEM/2025/B/6809191,Ministry of Defence - Department of Military Affairs,Sirohi,0.0,0.0,17,7,0.0,False,0.0
+GEM/2025/B/6749075,GEM/2025/B/6749075,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6751557,GEM/2025/B/6751557,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6715624,GEM/2025/B/6715624,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,26,7,0.0,False,0.0
+GEM/2025/B/6759671,GEM/2025/B/6759671,Ministry of Finance - Department of Revenue,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6711487,GEM/2025/B/6711487,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6690656,GEM/2025/B/6690656,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6676588,GEM/2025/B/6676588,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6660860,GEM/2025/B/6660860,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6643633,GEM/2025/B/6643633,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,17,7,0.0,False,0.0
+GEM/2025/B/6603360,GEM/2025/B/6603360,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6603339,GEM/2025/B/6603339,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6603202,GEM/2025/B/6603202,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6603439,GEM/2025/B/6603439,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Sirohi,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6516749,GEM/2025/B/6516749,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,33,7,0.0,False,0.0
+GEM/2025/B/6527798,GEM/2025/B/6527798,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,25,7,0.0,False,0.0
+GEM/2025/B/6551506,GEM/2025/B/6551506,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/6480726,GEM/2025/B/6480726,Forest Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6339482,GEM/2025/B/6339482,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,36,7,0.0,False,0.0
+GEM/2025/B/6361469,GEM/2025/B/6361469,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6349303,GEM/2025/B/6349303,Tribal Area Development Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/R/494554,GEM/2025/R/494554,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,2,7,5,True,61.7
+GEM/2025/B/6230538,GEM/2025/B/6230538,Excise and Taxation Department Rajasthan,Sirohi,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/6230771,GEM/2025/B/6230771,Excise and Taxation Department Rajasthan,Sirohi,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/6120206,GEM/2025/B/6120206,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,31,7,0.0,False,0.0
+GEM/2025/B/6163390,GEM/2025/B/6163390,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/6086905,GEM/2025/B/6086905,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6067715,GEM/2025/B/6067715,Medical Health and Family Welfare Department Rajasthan,Sirohi,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6047371,GEM/2025/B/6047371,College Education Department Rajasthan,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/6047122,GEM/2025/B/6047122,College Education Department Rajasthan,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/6046963,GEM/2025/B/6046963,College Education Department Rajasthan,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/5961955,GEM/2025/B/5961955,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5887403,GEM/2025/B/5887403,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,17,7,0.0,False,0.0
+GEM/2025/R/449902,GEM/2025/R/449902,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sirohi,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/5799267,GEM/2025/B/5799267,Medical Education Department Rajasthan,Sirohi,0.0,0.0,30,7,0.0,False,0.0
+GEM/2025/B/5876436,GEM/2025/B/5876436,Forest Department Rajasthan,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5818424,GEM/2025/B/5818424,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5852039,GEM/2025/B/5852039,Ministry of Petroleum and Natural Gas - NA,Sirohi,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/8186714,GEM/2026/B/8186714,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,32,7,0.0,False,0.0
+GEM/2026/B/8194475,GEM/2026/B/8194475,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sirohi,0.0,0.0,19,7,0.0,False,0.0
+GEM/2025/B/6068698,GEM/2025/B/6068698,Ministry of Railways - Indian Railways,Sirohi,0.0,0.0,27,7,0.0,False,0.0
+GEM/2025/R/444538,GEM/2025/R/444538,Ministry of Petroleum and Natural Gas - NA,Sirohi,0.0,0.0,1,7,6,True,71.7
+GEM/2026/B/7885460,GEM/2026/B/7885460,Ministry of Labour and Employment - NA,Sirohi,0.0,0.0,28,7,0.0,False,0.0
+GEM/2026/B/7918916,GEM/2026/B/7918916,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,16,7,0.0,False,0.0
+GEM/2026/B/7717590,GEM/2026/B/7717590,Ministry of Railways - Indian Railways,Sirohi,0.0,0.0,23,7,0.0,False,0.0
+GEM/2026/B/7694134,GEM/2026/B/7694134,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7394416,GEM/2026/B/7394416,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7324473,GEM/2026/B/7324473,Ministry of Railways - Indian Railways,Sirohi,0.0,0.0,26,7,0.0,False,0.0
+GEM/2026/B/7294585,GEM/2026/B/7294585,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,28,7,0.0,False,0.0
+GEM/2026/B/7304886,GEM/2026/B/7304886,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7216326,GEM/2026/B/7216326,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7188711,GEM/2026/B/7188711,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7142809,GEM/2026/B/7142809,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,22,7,0.0,False,0.0
+GEM/2026/B/7103789,GEM/2026/B/7103789,Ministry of Railways - Indian Railways,Sirohi,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6995400,GEM/2025/B/6995400,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,28,7,0.0,False,0.0
+GEM/2025/B/6828178,GEM/2025/B/6828178,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6826707,GEM/2025/B/6826707,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/6597091,GEM/2025/B/6597091,Ministry of Railways - Indian Railways,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6570814,GEM/2025/B/6570814,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6504535,GEM/2025/B/6504535,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6361604,GEM/2025/B/6361604,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/6222894,GEM/2025/B/6222894,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/5791401,GEM/2025/B/5791401,Ministry of Petroleum and Natural Gas - GAIL India Limited,Sirohi,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/8237410,GEM/2026/B/8237410,Ministry of Petroleum and Natural Gas - INDIAN OIL CORPORATION LIMITED,Sirohi,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/8197050,GEM/2026/B/8197050,Ministry of Railways - Indian Railways,Sirohi,0.0,0.0,23,7,0.0,False,0.0
