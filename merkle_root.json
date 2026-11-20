@@ -5,7 +5,7 @@
     "leaf_prefix": "0x00",
     "node_prefix": "0x01"
   },
-  "sealed_at_utc": "2026-11-20T07:50:48.324386+00:00",
+  "sealed_at_utc": "2026-11-20T07:58:50.497976+00:00",
   "total_records": 23979,
   "tree_floors": 15,
   "master_merkle_root": "3d663ba31c79eec5298677c4acdfe77f6dca15780ee4865e63a9cb96c9b3877b"

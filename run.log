@@ -1,1 +1,49 @@
 nohup: ignoring input
+skip data/districts/gem_bulk_2526.csv: No columns to parse from file
+skip data/districts/gem_bulk_22k.csv: No columns to parse from file
+158 already cached, 1925 to fetch, 4 worker(s)
+50/1925  last status: dates_ok|no_cost_stated
+100/1925  last status: dates_ok|pdf_error:EmptyFileError
+150/1925  last status: dates_ok|no_cost_stated
+200/1925  last status: dates_ok|pdf_error:EmptyFileError
+250/1925  last status: dates_ok|pdf_error:EmptyFileError
+300/1925  last status: dates_ok|pdf_error:EmptyFileError
+350/1925  last status: dates_ok|no_cost_stated
+400/1925  last status: dates_ok|cost_ok
+450/1925  last status: dates_ok|cost_ok
+500/1925  last status: dates_ok|pdf_error:EmptyFileError
+550/1925  last status: dates_ok|no_cost_stated
+600/1925  last status: dates_ok|pdf_error:EmptyFileError
+650/1925  last status: dates_ok|pdf_error:EmptyFileError
+700/1925  last status: dates_ok|pdf_error:EmptyFileError
+750/1925  last status: dates_ok|pdf_error:EmptyFileError
+800/1925  last status: dates_ok|pdf_error:EmptyFileError
+850/1925  last status: dates_ok|cost_ok
+900/1925  last status: dates_ok|pdf_error:EmptyFileError
+950/1925  last status: dates_ok|cost_ok
+1000/1925  last status: dates_ok|pdf_error:EmptyFileError
+1050/1925  last status: dates_ok|pdf_error:EmptyFileError
+1100/1925  last status: dates_ok|pdf_error:EmptyFileError
+1150/1925  last status: dates_ok|cost_ok
+1200/1925  last status: dates_ok|no_cost_stated
+1250/1925  last status: dates_ok|pdf_error:EmptyFileError
+1300/1925  last status: dates_ok|cost_ok
+1350/1925  last status: dates_ok|pdf_error:EmptyFileError
+1400/1925  last status: dates_ok|cost_ok
+1450/1925  last status: dates_ok|no_cost_stated
+1500/1925  last status: dates_ok|cost_ok
+1550/1925  last status: dates_ok|pdf_error:EmptyFileError
+1600/1925  last status: dates_ok|pdf_error:EmptyFileError
+1650/1925  last status: dates_ok|pdf_error:EmptyFileError
+1700/1925  last status: dates_ok|cost_ok
+1750/1925  last status: dates_ok|cost_ok
+1800/1925  last status: dates_ok|cost_ok
+1850/1925  last status: dates_ok|no_cost_stated
+1900/1925  last status: dates_ok|pdf_error:EmptyFileError
+
+Saved 2083 rows -> gem_enrichment.csv
+status
+dates_ok|pdf_error:EmptyFileError    1281
+dates_ok|no_cost_stated               439
+dates_ok|cost_ok                      358
+dates_ok|pdf_error:HTTPError            5
