@@ -2189,21 +2189,21 @@ GEM/2025/B/7059046,GEM/2025/B/7059046,Ministry of Jal Shakti - Department of Wat
 GEM/2025/B/7041854,GEM/2025/B/7041854,Ministry of Railways - Indian Railways,Jaipur,0.0,0.0,23,7,0.0,False,0.0,,
 GEM/2025/B/7012283,GEM/2025/B/7012283,Ministry of Chemicals and Fertilizers - Department of Fertilizers,Jaipur,0.0,0.0,23,7,0.0,False,0.0,,
 GEM/2025/B/7052933,GEM/2025/B/7052933,Home Department Rajasthan,Jaipur,0.0,0.0,15,7,0.0,False,0.0,,
-GEM/2025/B/7053582,GEM/2025/B/7053582,Home Department Rajasthan,Jaipur,0.0,0.0,15,7,0.0,False,0.0,,
-GEM/2025/B/7053122,GEM/2025/B/7053122,Home Department Rajasthan,Jaipur,0.0,0.0,15,7,0.0,False,0.0,,
-GEM/2026/B/7072259,GEM/2026/B/7072259,Ministry of Education - Department of School Education and Literacy,Jaipur,0.0,0.0,10,7,0.0,False,0.0,,
-GEM/2025/B/6981741,GEM/2025/B/6981741,Medical Health and Family Welfare Department Rajasthan,Jaipur,0.0,0.0,31,7,0.0,False,0.0,,
-GEM/2025/B/6943648,GEM/2025/B/6943648,Ministry of Finance - Department of Financial Services,Jaipur,0.0,0.0,22,7,0.0,False,0.0,,
-GEM/2025/B/6979864,GEM/2025/B/6979864,Medical Health and Family Welfare Department Rajasthan,Jaipur,0.0,0.0,31,7,0.0,False,0.0,,
-GEM/2026/B/7070937,GEM/2026/B/7070937,Forest Department Rajasthan,Jaipur,0.0,0.0,10,7,0.0,False,0.0,,
-GEM/2025/B/7030759,GEM/2025/B/7030759,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Jaipur,0.0,0.0,22,7,0.0,False,0.0,,
-GEM/2025/B/7038351,GEM/2025/B/7038351,Ministry of Chemicals and Fertilizers - Department of Fertilizers,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2026/B/7067565,GEM/2026/B/7067565,College Education Department Rajasthan,Jaipur,0.0,0.0,10,7,0.0,False,0.0,,
-GEM/2025/B/6999134,GEM/2025/B/6999134,Ministry of Defence - Department of Military Affairs,Jaipur,0.0,0.0,11,7,0.0,False,0.0,,
-GEM/2025/B/7053219,GEM/2025/B/7053219,Home Department Rajasthan,Jaipur,0.0,0.0,11,7,0.0,False,0.0,,
-GEM/2025/B/7052151,GEM/2025/B/7052151,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Jaipur,0.0,0.0,14,7,0.0,False,0.0,,
-GEM/2025/B/6959578,GEM/2025/B/6959578,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2025/B/6934215,GEM/2025/B/6934215,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/7053582,GEM/2025/B/7053582,Home Department Rajasthan,Jaipur,16200000.0,162.0,15,15,0.0,False,0.0,2026-01-01,2026-01-16
+GEM/2025/B/7053122,GEM/2025/B/7053122,Home Department Rajasthan,Jaipur,2160000.0,21.6,15,10,0.0,False,0.0,2026-01-01,2026-01-16
+GEM/2026/B/7072259,GEM/2026/B/7072259,Ministry of Education - Department of School Education and Literacy,Jaipur,325000.0,3.25,10,7,0.0,False,0.0,2026-01-05,2026-01-15
+GEM/2025/B/6981741,GEM/2025/B/6981741,Medical Health and Family Welfare Department Rajasthan,Jaipur,0.0,0.0,31,10,0.0,False,0.0,2025-12-15,2026-01-15
+GEM/2025/B/6943648,GEM/2025/B/6943648,Ministry of Finance - Department of Financial Services,Jaipur,35000000.0,350.0,22,30,8.0,True,47.0,2025-12-24,2026-01-15
+GEM/2025/B/6979864,GEM/2025/B/6979864,Medical Health and Family Welfare Department Rajasthan,Jaipur,0.0,0.0,31,10,0.0,False,0.0,2025-12-15,2026-01-15
+GEM/2026/B/7070937,GEM/2026/B/7070937,Forest Department Rajasthan,Jaipur,0.0,0.0,10,10,0.0,False,0.0,2026-01-05,2026-01-15
+GEM/2025/B/7030759,GEM/2025/B/7030759,Ministry of Power - POWER GRID Corporation OF INDIA Limited,Jaipur,0.0,0.0,22,10,0.0,False,0.0,2025-12-24,2026-01-15
+GEM/2025/B/7038351,GEM/2025/B/7038351,Ministry of Chemicals and Fertilizers - Department of Fertilizers,Jaipur,1448728.95,14.49,21,10,0.0,False,0.0,2025-12-24,2026-01-14
+GEM/2026/B/7067565,GEM/2026/B/7067565,College Education Department Rajasthan,Jaipur,0.0,0.0,10,10,0.0,False,0.0,2026-01-03,2026-01-13
+GEM/2025/B/6999134,GEM/2025/B/6999134,Ministry of Defence - Department of Military Affairs,Jaipur,0.0,0.0,11,10,0.0,False,0.0,2026-01-01,2026-01-12
+GEM/2025/B/7053219,GEM/2025/B/7053219,Home Department Rajasthan,Jaipur,5400000.0,54.0,11,15,4.0,True,43.9,2026-01-01,2026-01-12
+GEM/2025/B/7052151,GEM/2025/B/7052151,Ministry of Petroleum and Natural Gas - Bharat Petroleum Corporation Ltd,Jaipur,0.0,0.0,14,10,0.0,False,0.0,2025-12-29,2026-01-12
+GEM/2025/B/6959578,GEM/2025/B/6959578,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Jaipur,423738.0,4.24,21,7,0.0,False,0.0,2025-12-20,2026-01-10
+GEM/2025/B/6934215,GEM/2025/B/6934215,Ministry of Labour and Employment - Employees State Insuarnce Corporation,Jaipur,384980.0,3.85,21,7,0.0,False,0.0,2025-12-20,2026-01-10
 GEM/2026/B/7079848,GEM/2026/B/7079848,Ministry of Defence - Department of Military Affairs,Jaipur,0.0,0.0,3,10,7.0,True,73.0,2026-01-06,2026-01-09
 GEM/2025/B/6933525,GEM/2025/B/6933525,Medical Health and Family Welfare Department Rajasthan,Jaipur,0.0,0.0,29,7,0.0,False,0.0,,
 GEM/2025/B/7017587,GEM/2025/B/7017587,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
@@ -2213,14 +2213,14 @@ GEM/2025/B/7021004,GEM/2025/B/7021004,Ministry of Consumer Affairs Food and Publ
 GEM/2025/B/7020020,GEM/2025/B/7020020,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
 GEM/2025/B/7018600,GEM/2025/B/7018600,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
 GEM/2025/B/7018372,GEM/2025/B/7018372,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2025/B/7018020,GEM/2025/B/7018020,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2025/B/7021838,GEM/2025/B/7021838,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2025/B/7016164,GEM/2025/B/7016164,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,22,7,0.0,False,0.0,,
-GEM/2025/B/7022268,GEM/2025/B/7022268,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2025/B/7022052,GEM/2025/B/7022052,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2025/B/7022000,GEM/2025/B/7022000,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2025/B/7021880,GEM/2025/B/7021880,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
-GEM/2025/B/7021455,GEM/2025/B/7021455,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/7018020,GEM/2025/B/7018020,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,9490000.0,94.9,21,15,0.0,False,0.0,2025-12-19,2026-01-09
+GEM/2025/B/7021838,GEM/2025/B/7021838,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,4800000.0,48.0,21,10,0.0,False,0.0,2025-12-19,2026-01-09
+GEM/2025/B/7016164,GEM/2025/B/7016164,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,5200000.0,52.0,22,15,0.0,False,0.0,2025-12-18,2026-01-09
+GEM/2025/B/7022268,GEM/2025/B/7022268,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,7200000.0,72.0,21,15,0.0,False,0.0,2025-12-19,2026-01-09
+GEM/2025/B/7022052,GEM/2025/B/7022052,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,10480000.0,104.8,21,15,0.0,False,0.0,2025-12-19,2026-01-09
+GEM/2025/B/7022000,GEM/2025/B/7022000,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,8770000.0,87.7,21,15,0.0,False,0.0,2025-12-19,2026-01-09
+GEM/2025/B/7021880,GEM/2025/B/7021880,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,29760000.0,297.6,21,30,9.0,True,49.0,2025-12-19,2026-01-09
+GEM/2025/B/7021455,GEM/2025/B/7021455,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,17000000.0,170.0,21,15,0.0,False,0.0,2025-12-19,2026-01-09
 GEM/2025/B/7021414,GEM/2025/B/7021414,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
 GEM/2025/B/7021329,GEM/2025/B/7021329,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
 GEM/2025/B/7021287,GEM/2025/B/7021287,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Jaipur,0.0,0.0,21,7,0.0,False,0.0,,
@@ -10749,3 +10749,6 @@ GEM/2025/B/6857982,GEM/2025/B/6857982,Department of Panchayati Raj,Jaipur,0.0,0.
 2026_RCSCE_606229_1,NIT 606229_1,Jaipur Division,Jaipur,2500000.0,25.0,6,10,4.0,True,52.0,2026-11-20,
 2026_RRVUN_605915_1,NIT 605915_1,Jaipur Division,Jaipur,2500000.0,25.0,24,10,0.0,False,0.0,2026-11-20,
 2026_RRVUN_606130_1,NIT 606130_1,Jaipur Division,Jaipur,2500000.0,25.0,24,10,0.0,False,0.0,2026-11-20,
+2026_HPPAR_606041_1,NIT 606041_1,Jaipur Division,Jaipur,2500000.0,25.0,21,10,0.0,False,0.0,2026-11-20,
+2026_HPPAR_606047_1,NIT 606047_1,Jaipur Division,Jaipur,2500000.0,25.0,21,10,0.0,False,0.0,2026-11-20,
+2026_HPPAR_606052_1,NIT 606052_1,Jaipur Division,Jaipur,2500000.0,25.0,21,10,0.0,False,0.0,2026-11-20,

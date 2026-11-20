@@ -1,80 +1,80 @@
-tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
-SHPP-328500,Goods/2026-27/0087/058,"Medical and Health Services, Jaipur",Churu,328500.0,3.285,4,7,3,True,50.8
-SHPP-627200,Goods/2026-27/0073/058,"Medical and Health Services, Jaipur",Churu,627200.0,6.272,16,7,0.0,False,0.0
-SHPP-23000,Goods/2026-27/0045/058,"Medical and Health Services, Jaipur",Churu,23000.0,0.23,6,7,1,True,26.6
-SHPP-21055,Goods/2026-27/0056/002,"Agriculture Department, Jaipur",Churu,21055.0,0.2105,2,7,5,True,66.5
-SHPP-2496000.00,DLB2627WSOB23864,Directorate Local Bodies,Churu,2496000.0,24.96,9,10,1,True,31.0
-SHPP-210000.00,PWD2627SSOB15247,CE Public Works Department,Churu,210000.0,2.1,13,7,0.0,False,0.0
-EPROC-2026_DLB_605280_1,6151-54,DLB||Dy.DR-Bikaner||EO-Ratangarh,Churu,2496000.0,24.96,9,10,1,True,31.0
-HF-AOC-2025_IGNP_500327_1,NIT 04/2025-26/2,"IGNPACE(B)BIKANERSE_SLCEE, 10 DIV, TARANAGAR",Churu,828315.33,8.2832,14,7,0.0,False,0.0
-HF-AOC-2025_IGNP_456766_1,NIT 01/2025-26/1,"IGNPACE(B)BIKANERSE_SLCEE, 10 DIV, TARANAGAR",Churu,494696.0,4.947,17,7,0.0,False,0.0
-GEM/2026/B/7737706,GEM/2026/B/7737706,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/7018548,GEM/2025/B/7018548,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/7018274,GEM/2025/B/7018274,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/7017183,GEM/2025/B/7017183,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/7022780,GEM/2025/B/7022780,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/7019968,GEM/2025/B/7019968,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6617185,GEM/2025/B/6617185,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,3,7,4,True,51.7
-GEM/2026/B/8053924,GEM/2026/B/8053924,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7973778,GEM/2026/B/7973778,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7837573,GEM/2026/B/7837573,Ministry of Communications - Department of Posts,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7609388,GEM/2026/B/7609388,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,51,7,0.0,False,0.0
-GEM/2026/B/7734828,GEM/2026/B/7734828,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,11,7,0.0,False,0.0
-GEM/2026/B/7559453,GEM/2026/B/7559453,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7438134,GEM/2026/B/7438134,LSG (Local Self Government) Rajasthan,Churu,0.0,0.0,29,7,0.0,False,0.0
-GEM/2026/R/656848,GEM/2026/R/656848,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,1,7,6,True,71.7
-GEM/2026/B/7414384,GEM/2026/B/7414384,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7352663,GEM/2026/B/7352663,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7288240,GEM/2026/B/7288240,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7182838,GEM/2026/B/7182838,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7186738,GEM/2026/B/7186738,Ministry of Defence - Department of Defence,Churu,0.0,0.0,3,7,4,True,51.7
-GEM/2026/B/7133879,GEM/2026/B/7133879,Ministry of Defence - Department of Defence,Churu,0.0,0.0,12,7,0.0,False,0.0
-GEM/2026/B/7151201,GEM/2026/B/7151201,Ministry of Defence - Department of Defence,Churu,0.0,0.0,3,7,4,True,51.7
-GEM/2026/B/7072526,GEM/2026/B/7072526,Co-operative Department Rajasthan,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/7042831,GEM/2025/B/7042831,Ministry of Defence - Department of Defence,Churu,0.0,0.0,11,7,0.0,False,0.0
-GEM/2025/B/6834525,GEM/2025/B/6834525,Ministry of Defence - Department of Defence,Churu,0.0,0.0,16,7,0.0,False,0.0
-GEM/2025/B/6765190,GEM/2025/B/6765190,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0
-GEM/2025/B/6756574,GEM/2025/B/6756574,Ministry of Defence - Department of Defence,Churu,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/6704529,GEM/2025/B/6704529,Co-operative Department Rajasthan,Churu,0.0,0.0,13,7,0.0,False,0.0
-GEM/2025/B/6706256,GEM/2025/B/6706256,Ministry of Defence - Department of Defence,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6660800,GEM/2025/B/6660800,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6656988,GEM/2025/B/6656988,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6482985,GEM/2025/B/6482985,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6521118,GEM/2025/B/6521118,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6485416,GEM/2025/B/6485416,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6311818,GEM/2025/B/6311818,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6307598,GEM/2025/B/6307598,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6275723,GEM/2025/B/6275723,Ministry of Finance - Department of Revenue,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/R/491528,GEM/2025/R/491528,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/6197064,GEM/2025/B/6197064,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,20,7,0.0,False,0.0
-GEM/2025/B/6128828,GEM/2025/B/6128828,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0
-GEM/2025/B/6128592,GEM/2025/B/6128592,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0
-GEM/2025/B/6124808,GEM/2025/B/6124808,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0
-GEM/2025/R/484290,GEM/2025/R/484290,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,1,7,6,True,71.7
-GEM/2025/B/5956093,GEM/2025/B/5956093,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6033515,GEM/2025/B/6033515,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6029017,GEM/2025/B/6029017,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6045015,GEM/2025/B/6045015,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,7,7,0.0,False,0.0
-GEM/2025/B/5953068,GEM/2025/B/5953068,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/5952906,GEM/2025/B/5952906,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/5952542,GEM/2025/B/5952542,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,15,7,0.0,False,0.0
-GEM/2025/B/5899082,GEM/2025/B/5899082,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2026/B/7858892,GEM/2026/B/7858892,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,111,7,0.0,False,0.0
-GEM/2026/B/8199013,GEM/2026/B/8199013,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,22,7,0.0,False,0.0
-GEM/2026/B/8196907,GEM/2026/B/8196907,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7737627,GEM/2026/B/7737627,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/7021032,GEM/2025/B/7021032,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7842158,GEM/2026/B/7842158,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,107,7,0.0,False,0.0
-GEM/2026/B/7587666,GEM/2026/B/7587666,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,51,7,0.0,False,0.0
-GEM/2025/B/6617214,GEM/2025/B/6617214,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/6616566,GEM/2025/B/6616566,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,3,7,4,True,51.7
-GEM/2025/B/6936282,GEM/2025/B/6936282,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/6367942,GEM/2025/B/6367942,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6229900,GEM/2025/B/6229900,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,10,7,0.0,False,0.0
-GEM/2025/B/6124727,GEM/2025/B/6124727,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0
-GEM/2025/B/5961101,GEM/2025/B/5961101,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2025/B/5856693,GEM/2025/B/5856693,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,22,7,0.0,False,0.0
-GEM/2025/B/5859924,GEM/2025/B/5859924,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,22,7,0.0,False,0.0
-GEM/2026/B/8200906,GEM/2026/B/8200906,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/8197082,GEM/2026/B/8197082,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0
-GEM/2026/B/7233854,GEM/2026/B/7233854,Ministry of Railways - Indian Railways,Churu,0.0,0.0,22,7,0.0,False,0.0
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score,publication_date,bid_end_date
+SHPP-328500,Goods/2026-27/0087/058,"Medical and Health Services, Jaipur",Churu,328500.0,3.285,4,7,3.0,True,50.8,,
+SHPP-627200,Goods/2026-27/0073/058,"Medical and Health Services, Jaipur",Churu,627200.0,6.272,16,7,0.0,False,0.0,,
+SHPP-23000,Goods/2026-27/0045/058,"Medical and Health Services, Jaipur",Churu,23000.0,0.23,6,7,1.0,True,26.6,,
+SHPP-21055,Goods/2026-27/0056/002,"Agriculture Department, Jaipur",Churu,21055.0,0.2105,2,7,5.0,True,66.5,,
+SHPP-2496000.00,DLB2627WSOB23864,Directorate Local Bodies,Churu,2496000.0,24.96,9,10,1.0,True,31.0,,
+SHPP-210000.00,PWD2627SSOB15247,CE Public Works Department,Churu,210000.0,2.1,13,7,0.0,False,0.0,,
+EPROC-2026_DLB_605280_1,6151-54,DLB||Dy.DR-Bikaner||EO-Ratangarh,Churu,2496000.0,24.96,9,10,1.0,True,31.0,,
+HF-AOC-2025_IGNP_500327_1,NIT 04/2025-26/2,"IGNPACE(B)BIKANERSE_SLCEE, 10 DIV, TARANAGAR",Churu,828315.33,8.2832,14,7,0.0,False,0.0,,
+HF-AOC-2025_IGNP_456766_1,NIT 01/2025-26/1,"IGNPACE(B)BIKANERSE_SLCEE, 10 DIV, TARANAGAR",Churu,494696.0,4.947,17,7,0.0,False,0.0,,
+GEM/2026/B/7737706,GEM/2026/B/7737706,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/7018548,GEM/2025/B/7018548,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/7018274,GEM/2025/B/7018274,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/7017183,GEM/2025/B/7017183,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/7022780,GEM/2025/B/7022780,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/7019968,GEM/2025/B/7019968,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/6617185,GEM/2025/B/6617185,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,2500000.0,25.0,3,10,7.0,True,73.0,2025-08-27,2025-08-30
+GEM/2026/B/8053924,GEM/2026/B/8053924,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2026/B/7973778,GEM/2026/B/7973778,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2026/B/7837573,GEM/2026/B/7837573,Ministry of Communications - Department of Posts,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2026/B/7609388,GEM/2026/B/7609388,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,51,7,0.0,False,0.0,,
+GEM/2026/B/7734828,GEM/2026/B/7734828,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,11,7,0.0,False,0.0,,
+GEM/2026/B/7559453,GEM/2026/B/7559453,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2026/B/7438134,GEM/2026/B/7438134,LSG (Local Self Government) Rajasthan,Churu,0.0,0.0,29,7,0.0,False,0.0,,
+GEM/2026/R/656848,GEM/2026/R/656848,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,1,10,9.0,True,87.0,2026-04-16,2026-04-17
+GEM/2026/B/7414384,GEM/2026/B/7414384,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2026/B/7352663,GEM/2026/B/7352663,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2026/B/7288240,GEM/2026/B/7288240,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2026/B/7182838,GEM/2026/B/7182838,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2026/B/7186738,GEM/2026/B/7186738,Ministry of Defence - Department of Defence,Churu,3500.0,0.04,3,7,4.0,True,53.3,2026-02-03,2026-02-06
+GEM/2026/B/7133879,GEM/2026/B/7133879,Ministry of Defence - Department of Defence,Churu,0.0,0.0,12,7,0.0,False,0.0,,
+GEM/2026/B/7151201,GEM/2026/B/7151201,Ministry of Defence - Department of Defence,Churu,0.0,0.0,3,10,7.0,True,73.0,2026-01-26,2026-01-29
+GEM/2026/B/7072526,GEM/2026/B/7072526,Co-operative Department Rajasthan,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/7042831,GEM/2025/B/7042831,Ministry of Defence - Department of Defence,Churu,0.0,0.0,11,7,0.0,False,0.0,,
+GEM/2025/B/6834525,GEM/2025/B/6834525,Ministry of Defence - Department of Defence,Churu,0.0,0.0,16,7,0.0,False,0.0,,
+GEM/2025/B/6765190,GEM/2025/B/6765190,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0,,
+GEM/2025/B/6756574,GEM/2025/B/6756574,Ministry of Defence - Department of Defence,Churu,8000.0,0.08,3,7,4.0,True,54.6,2025-10-06,2025-10-09
+GEM/2025/B/6704529,GEM/2025/B/6704529,Co-operative Department Rajasthan,Churu,0.0,0.0,13,7,0.0,False,0.0,,
+GEM/2025/B/6706256,GEM/2025/B/6706256,Ministry of Defence - Department of Defence,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/6660800,GEM/2025/B/6660800,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/6656988,GEM/2025/B/6656988,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/6482985,GEM/2025/B/6482985,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/6521118,GEM/2025/B/6521118,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/6485416,GEM/2025/B/6485416,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/6311818,GEM/2025/B/6311818,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/6307598,GEM/2025/B/6307598,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/6275723,GEM/2025/B/6275723,Ministry of Finance - Department of Revenue,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/R/491528,GEM/2025/R/491528,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,3,10,7.0,True,73.0,2025-05-24,2025-05-27
+GEM/2025/B/6197064,GEM/2025/B/6197064,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,20,7,0.0,False,0.0,,
+GEM/2025/B/6128828,GEM/2025/B/6128828,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0,,
+GEM/2025/B/6128592,GEM/2025/B/6128592,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0,,
+GEM/2025/B/6124808,GEM/2025/B/6124808,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0,,
+GEM/2025/R/484290,GEM/2025/R/484290,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,1,10,9.0,True,87.0,2025-05-06,2025-05-07
+GEM/2025/B/5956093,GEM/2025/B/5956093,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/6033515,GEM/2025/B/6033515,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/6029017,GEM/2025/B/6029017,Ministry of Communications - Department of Telecommunications (DOT),Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/6045015,GEM/2025/B/6045015,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,7,7,0.0,False,0.0,,
+GEM/2025/B/5953068,GEM/2025/B/5953068,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,15,7,0.0,False,0.0,,
+GEM/2025/B/5952906,GEM/2025/B/5952906,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,15,7,0.0,False,0.0,,
+GEM/2025/B/5952542,GEM/2025/B/5952542,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Churu,0.0,0.0,15,7,0.0,False,0.0,,
+GEM/2025/B/5899082,GEM/2025/B/5899082,Ministry of Education - Department of School Education and Literacy,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2026/B/7858892,GEM/2026/B/7858892,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,111,7,0.0,False,0.0,,
+GEM/2026/B/8199013,GEM/2026/B/8199013,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,22,7,0.0,False,0.0,,
+GEM/2026/B/8196907,GEM/2026/B/8196907,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2026/B/7737627,GEM/2026/B/7737627,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/7021032,GEM/2025/B/7021032,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2026/B/7842158,GEM/2026/B/7842158,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,107,7,0.0,False,0.0,,
+GEM/2026/B/7587666,GEM/2026/B/7587666,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,51,7,0.0,False,0.0,,
+GEM/2025/B/6617214,GEM/2025/B/6617214,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,2500000.0,25.0,3,10,7.0,True,73.0,2025-08-27,2025-08-30
+GEM/2025/B/6616566,GEM/2025/B/6616566,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,2500000.0,25.0,3,10,7.0,True,73.0,2025-08-27,2025-08-30
+GEM/2025/B/6936282,GEM/2025/B/6936282,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/6367942,GEM/2025/B/6367942,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/6229900,GEM/2025/B/6229900,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,10,7,0.0,False,0.0,,
+GEM/2025/B/6124727,GEM/2025/B/6124727,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,31,7,0.0,False,0.0,,
+GEM/2025/B/5961101,GEM/2025/B/5961101,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2025/B/5856693,GEM/2025/B/5856693,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,22,7,0.0,False,0.0,,
+GEM/2025/B/5859924,GEM/2025/B/5859924,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,22,7,0.0,False,0.0,,
+GEM/2026/B/8200906,GEM/2026/B/8200906,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2026/B/8197082,GEM/2026/B/8197082,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Churu,0.0,0.0,21,7,0.0,False,0.0,,
+GEM/2026/B/7233854,GEM/2026/B/7233854,Ministry of Railways - Indian Railways,Churu,0.0,0.0,22,7,0.0,False,0.0,,
