@@ -358,6 +358,9 @@ def load_all_district_data():
                     'fiscal_quarter': q_assigned,
                     'cost_imputed': cost_imputed,
                     'cost_verified': not cost_imputed,
+                    # GeM is a central-government marketplace: Rajasthan's Rule 43 does not govern it, and
+                    # its costs were scraped starting from already-flagged bids (selection bias).
+                    'is_gem': tid.upper().startswith('GEM/'),
                     'cost_outlier': bool((not cost_imputed) and amt > MEGA_TENDER_THRESHOLD)
                 })
         except Exception:
@@ -372,15 +375,23 @@ def load_all_district_data():
         # Fit ONLY on rows with a genuinely published cost. Fitting on the default-cost rows makes
         # every real tender look like an outlier against a spike of identical Rs 25 L points.
         verified_mask = df_master['cost_verified'].values
-        if verified_mask.sum() >= 10:
-            sub = df_master[verified_mask]
-            log_cost = np.log10(sub['tender_amount'].clip(lower=1000.0).values)
-            windows = sub['actual_window_days'].clip(lower=1).values
-            X_global = np.column_stack([log_cost, windows])
-
+        # Fit on Rajasthan state notices only (GeM excluded) so GeM points never shape the default model;
+        # GeM rows, if the user opts in, are scored by that same fitted model.
+        fit_mask = (df_master['cost_verified'] & ~df_master['is_gem']).values
+        if fit_mask.sum() < 10:
+            fit_mask = verified_mask
+        if fit_mask.sum() >= 10:
+            def _feats(frame):
+                return np.column_stack([
+                    np.log10(frame['tender_amount'].clip(lower=1000.0).values),
+                    frame['actual_window_days'].clip(lower=1).values
+                ])
             iso_global = IsolationForest(n_estimators=50, contamination=0.15, random_state=42)
-            preds = iso_global.fit_predict(X_global)
-            scores = -iso_global.decision_function(X_global)
+            iso_global.fit(_feats(df_master[fit_mask]))
+            sub = df_master[verified_mask]
+            X_all = _feats(sub)
+            preds = iso_global.predict(X_all)
+            scores = -iso_global.decision_function(X_all)
 
             df_master.loc[verified_mask, 'ml_anomaly'] = (preds == -1)
             min_s, max_s = scores.min(), scores.max()
@@ -407,7 +418,7 @@ def load_all_district_data():
         'tender_id', 'nit_no', 'division', 'district', 'administrative_division',
         'tender_amount', 'estimated_cost_lac', 'actual_window_days',
         'statutory_min_days', 'deficit_days', 'is_violation', 'risk_score',
-        'fiscal_quarter', 'cost_imputed', 'cost_verified', 'cost_outlier',
+        'fiscal_quarter', 'cost_imputed', 'cost_verified', 'is_gem', 'cost_outlier',
         'ml_anomaly', 'ml_score', 'sieve_category'
     ])
 
@@ -463,6 +474,15 @@ with st.sidebar:
              "Excluded by default so every violation shown rests on a real published cost."
     )
 
+    n_gem_verified = int((df_all['is_gem'] & df_all['cost_verified']).sum()) if not df_all.empty else 0
+    include_gem = st.checkbox(
+        f"Include {n_gem_verified:,} GeM bids with a scraped cost",
+        value=False,
+        help="GeM is a central-government marketplace, so Rajasthan's Rule 43 may not govern these bids, and "
+             "their costs were scraped starting from already-flagged bids, which biases their violation rate. "
+             "Excluded by default so the audit covers Rajasthan state procurement only."
+    )
+
     st.markdown("### Forensic Controls")
     
     div_options = ["All Rajasthan (Statewide)"] + list(RAJASTHAN_ADMIN_HIERARCHY.keys())
@@ -488,6 +508,8 @@ with st.sidebar:
 
 # Analysis base: cost-verified notices only, unless the user opts in to the unverified ones
 df_base = df_all if include_unverified else df_all[df_all['cost_verified']]
+if not include_gem:
+    df_base = df_base[~df_base['is_gem']]
 
 # Filter execution across selected district/division
 df_filtered = df_base.copy()
@@ -509,6 +531,7 @@ if not df_all.empty:
     st.caption(
         f"Data integrity: {int(df_all['cost_verified'].sum()):,} of {len(df_all):,} notices carry a published cost"
         + (" (unverified-cost notices included)." if include_unverified else " and are audited; the rest are held out.")
+        + (" GeM bids included." if include_gem else f" GeM (central) bids are held out of the Rule 43 audit; {int(df_all['is_gem'].sum()):,} GeM notices are on disk.")
         + (f" {_n_out} notices above Rs 100 Cr are flagged for manual verification, not removed." if _n_out else "")
     )
 
@@ -855,7 +878,7 @@ with tab3:
         ct_raw = pd.crosstab(high_val, viol)
         ct = ct_raw.reindex(index=[False, True], columns=[False, True], fill_value=0)
         ct.index = ['Minor Works (< ₹50L)', 'High-Value Infrastructure (≥ ₹50L)']
-        ct.columns = ['Compliant Notices', 'Timeline Compressed (Violations)']
+        ct.columns = ['Compliant', 'Violations']
         
         col_stat1, col_stat2 = st.columns([1, 1])
         with col_stat1:
