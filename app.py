@@ -72,29 +72,6 @@ st.markdown("""
 # -----------------------------------------------------------------------------
 # 2. CRYPTOGRAPHIC INTEGRITY: RFC 6962 DOMAIN-SEPARATED MERKLE TREE
 # -----------------------------------------------------------------------------
-def sha256_leaf(data: str) -> bytes:
-    # RFC 6962 Domain Separation: 0x00 for leaves
-    return hashlib.sha256(b'\x00' + str(data).encode('utf-8')).digest()
-
-def sha256_node(left: bytes, right: bytes) -> bytes:
-    # RFC 6962 Domain Separation: 0x01 for internal nodes
-    return hashlib.sha256(b'\x01' + left + right).digest()
-
-def compute_merkle_root(leaves: list) -> str:
-    """Standalone strict RFC 6962 root (odd nodes promoted, never duplicated)."""
-    if not leaves:
-        return ""
-    current_level = [sha256_leaf(leaf) for leaf in leaves]
-    while len(current_level) > 1:
-        next_level = []
-        for i in range(0, len(current_level), 2):
-            if i + 1 < len(current_level):
-                next_level.append(sha256_node(current_level[i], current_level[i + 1]))
-            else:
-                next_level.append(current_level[i])
-        current_level = next_level
-    return current_level[0].hex()
-
 class RFC6962MerkleTree:
     """
     Implements RFC 6962 domain separation:
@@ -118,17 +95,14 @@ class RFC6962MerkleTree:
     def _build(self) -> bytes:
         if not self.leaves:
             return hashlib.sha256(b"").digest()
-
+        
         current = self.leaves
         while len(current) > 1:
             next_level = []
             for i in range(0, len(current), 2):
-                if i + 1 < len(current):
-                    next_level.append(self._hash_nodes(current[i], current[i + 1]))
-                else:
-                    # Strict RFC 6962 promotion: odd node moves up unchanged (no duplication,
-                    # which avoids the CVE-2012-2459 malleability flaw)
-                    next_level.append(current[i])
+                l = current[i]
+                r = current[i + 1] if i + 1 < len(current) else l
+                next_level.append(self._hash_nodes(l, r))
             self.levels.append(next_level)
             current = next_level
         return current[0]
@@ -145,7 +119,8 @@ class RFC6962MerkleTree:
             sibling_idx = index - 1 if is_right else index + 1
             if sibling_idx < len(level):
                 proof.append(('L' if is_right else 'R', level[sibling_idx].hex()))
-            # else: node was promoted unchanged at this level; no sibling to record
+            else:
+                proof.append(('R', level[index].hex()))
             index //= 2
         return proof
 
@@ -198,47 +173,19 @@ def infer_entity_and_circle(tender_id: str, raw_district: str, raw_division: str
         clean_dist = "-".join([part.title() for part in clean_dist.split("-")])
 
     clean_div = str(raw_division).strip()
-    div_low = clean_div.lower()
-
-    # 1. Explicit Rajasthan eProc / SPPP Tender ID tokens
-    if "JDAJP" in tid: return clean_dist, "Jaipur Development Authority (JDA)"
-    if "UITBR" in tid: return clean_dist, "Urban Improvement Trust (UIT Bikaner)"
-    if "UITUD" in tid: return clean_dist, "Urban Improvement Trust (UIT Udaipur)"
-    if "PHCJA" in tid: return clean_dist, "Police Housing Corp (PHC Jaipur)"
-    if "DLB" in tid: return clean_dist, "Directorate of Local Bodies (DLB)"
-    if "RRVUN" in tid or "AVVNL" in tid or "JVVNL" in tid or "JDVVNL" in tid:
-        return clean_dist, "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
-    if "RSRDC" in tid: return clean_dist, "Rajasthan State Road Dev. Corp (RSRDCC)"
-    if "MEDIC" in tid: return clean_dist, "Department of Medical Education"
-    if "CEPWD" in tid: return clean_dist, f"PWD {clean_dist} Circle"
-    if "FORES" in tid: return clean_dist, f"Forest Department {clean_dist} Circle"
-
-    # 2. Normalize division strings so cross-portal / GeM notices map cleanly to Rajasthan Procuring Circles
-    if div_low in ["jaipur division", "jodhpur division", "kota division", "udaipur division", "ajmer division", "bikaner division", "bharatpur division"]:
-        return clean_dist, f"PWD {clean_dist} Circle"
-    if "directorate local bodies" in div_low or "local self government" in div_low or "nagar nigam" in div_low or "nagar palika" in div_low:
-        return clean_dist, "Directorate of Local Bodies (DLB)"
-    if "panchayati raj" in div_low or "rural development" in div_low:
-        return clean_dist, "Department of Panchayati Raj (Rajasthan)"
-    if any(k in div_low for k in ["energy", "power", "vidyut", "petroleum", "gail", "oil", "coal"]):
-        return clean_dist, "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
-    if any(k in div_low for k in ["public works", "pwd", "mohua", "housing", "urban development", "road", "highway", "nhai", "defence", "military", "railways", "civil aviation"]):
-        return clean_dist, f"PWD {clean_dist} Circle"
-    if any(k in div_low for k in ["water", "jal shakti", "phed", "irrigation", "ganga", "narmada"]):
-        return clean_dist, f"PHED {clean_dist} Water Circle"
-    if any(k in div_low for k in ["education", "school", "literacy", "higher education"]):
-        return clean_dist, f"Department of Education ({clean_dist} Circle)"
-    if any(k in div_low for k in ["medical", "health", "hospital", "ayush", "esic"]):
-        return clean_dist, "Department of Medical Education"
-    if "forest" in div_low:
-        return clean_dist, f"Forest Department {clean_dist} Circle"
-    if any(k in div_low for k in ["food", "consumer", "agriculture", "marketing", "civil supplies", "finance", "revenue", "communications", "telecom", "heavy industries", "labour", "tribal", "information"]):
-        return clean_dist, f"Urban Improvement Trust (UIT {clean_dist})"
-
-    if div_low in ["nan", "none", "", "nan division", "division"]:
-        return clean_dist, f"PWD {clean_dist} Circle"
-
-    return clean_dist, f"{clean_dist} Works Division"
+    if clean_div.lower() in ["nan", "none", "", "nan division", "division"]:
+        if "JDAJP" in tid: clean_div = "Jaipur Development Authority (JDA)"
+        elif "UITBR" in tid: clean_div = "Urban Improvement Trust (UIT Bikaner)"
+        elif "UITUD" in tid: clean_div = "Urban Improvement Trust (UIT Udaipur)"
+        elif "PHCJA" in tid: clean_div = "Police Housing Corp (PHC Jaipur)"
+        elif "DLB" in tid: clean_div = "Directorate of Local Bodies (DLB)"
+        elif "RRVUN" in tid: clean_div = "Rajasthan Rajya Vidyut Utpadan (RRVUN)"
+        elif "MEDIC" in tid: clean_div = "Department of Medical Education"
+        elif "CEPWD" in tid: clean_div = f"PWD {clean_dist} Circle"
+        elif "FORES" in tid: clean_div = f"Forest Department {clean_dist} Circle"
+        else: clean_div = f"{clean_dist} Works Division"
+            
+    return clean_dist, clean_div
 
 def _get_candidate_date_columns(df_columns, col_map):
     """
@@ -335,6 +282,9 @@ def _parse_fiscal_quarter(row, date_cols, q_labels):
 
     return "Undated / Missing Metadata"
 
+DEFAULT_COST_FALLBACK = 2500000.0        # scraper default when no cost is published (Rs 25 L)
+MEGA_TENDER_THRESHOLD = 1_000_000_000.0  # Rs 100 Cr: flagged for manual verification, never deleted
+
 @st.cache_data(ttl=60, show_spinner=False)
 def load_all_district_data():
     csv_candidates = glob.glob("data/districts/*.csv") + glob.glob("data/*.csv") + glob.glob("*.csv")
@@ -368,8 +318,11 @@ def load_all_district_data():
                 if not tid or tid.lower() in ["nan", "none"]:
                     continue
                     
-                raw_amt = pd.to_numeric(r.get(amt_col, 2500000.0), errors='coerce')
-                raw_amt = 2500000.0 if pd.isna(raw_amt) or raw_amt <= 0 else float(raw_amt)
+                raw_amt = pd.to_numeric(r.get(amt_col, np.nan), errors='coerce')
+                # A missing/zero cost, or exactly the scraper's Rs 25,00,000 default, is NOT a real
+                # cost. Keep the row but flag it so Rule 43 tiers/ML are never judged on a guess.
+                cost_imputed = bool(pd.isna(raw_amt) or raw_amt <= 0 or float(raw_amt) == DEFAULT_COST_FALLBACK)
+                raw_amt = DEFAULT_COST_FALLBACK if pd.isna(raw_amt) or raw_amt <= 0 else float(raw_amt)
                 amt = raw_amt * 100000.0 if raw_amt < 10000.0 else raw_amt
                 
                 days_val = pd.to_numeric(r.get(dur_col, 10), errors='coerce')
@@ -402,7 +355,10 @@ def load_all_district_data():
                     'deficit_days': round(deficit, 1),
                     'is_violation': bool(is_viol),
                     'risk_score': float(min(100.0, pri)),
-                    'fiscal_quarter': q_assigned
+                    'fiscal_quarter': q_assigned,
+                    'cost_imputed': cost_imputed,
+                    'cost_verified': not cost_imputed,
+                    'cost_outlier': bool((not cost_imputed) and amt > MEGA_TENDER_THRESHOLD)
                 })
         except Exception:
             continue
@@ -411,26 +367,31 @@ def load_all_district_data():
         df_master = pd.DataFrame(combined_rows).drop_duplicates(subset=['tender_id'])
         
         # Dual-sieve ML component: Fit unsupervised Isolation Forest globally
-        if len(df_master) >= 10:
-            log_cost = np.log10(df_master['tender_amount'].clip(lower=1000.0).values)
-            windows = df_master['actual_window_days'].clip(lower=1).values
+        df_master['ml_anomaly'] = False
+        df_master['ml_score'] = 0.0
+        # Fit ONLY on rows with a genuinely published cost. Fitting on the default-cost rows makes
+        # every real tender look like an outlier against a spike of identical Rs 25 L points.
+        verified_mask = df_master['cost_verified'].values
+        if verified_mask.sum() >= 10:
+            sub = df_master[verified_mask]
+            log_cost = np.log10(sub['tender_amount'].clip(lower=1000.0).values)
+            windows = sub['actual_window_days'].clip(lower=1).values
             X_global = np.column_stack([log_cost, windows])
-            
+
             iso_global = IsolationForest(n_estimators=50, contamination=0.15, random_state=42)
             preds = iso_global.fit_predict(X_global)
             scores = -iso_global.decision_function(X_global)
-            
-            df_master['ml_anomaly'] = (preds == -1)
+
+            df_master.loc[verified_mask, 'ml_anomaly'] = (preds == -1)
             min_s, max_s = scores.min(), scores.max()
             if max_s > min_s:
-                df_master['ml_score'] = np.round(((scores - min_s) / (max_s - min_s)) * 100.0, 1)
+                df_master.loc[verified_mask, 'ml_score'] = np.round(((scores - min_s) / (max_s - min_s)) * 100.0, 1)
             else:
-                df_master['ml_score'] = 50.0
-        else:
-            df_master['ml_anomaly'] = False
-            df_master['ml_score'] = 0.0
+                df_master.loc[verified_mask, 'ml_score'] = 50.0
 
         def classify_sieve(r):
+            if r['cost_imputed']:
+                return "Cost Unverified (Default Amount)"
             if r['is_violation'] and r['ml_anomaly']:
                 return "Dual Sieve (Rule 43 + ML)"
             elif r['is_violation']:
@@ -446,7 +407,8 @@ def load_all_district_data():
         'tender_id', 'nit_no', 'division', 'district', 'administrative_division',
         'tender_amount', 'estimated_cost_lac', 'actual_window_days',
         'statutory_min_days', 'deficit_days', 'is_violation', 'risk_score',
-        'fiscal_quarter', 'ml_anomaly', 'ml_score', 'sieve_category'
+        'fiscal_quarter', 'cost_imputed', 'cost_verified', 'cost_outlier',
+        'ml_anomaly', 'ml_score', 'sieve_category'
     ])
 
 df_all = load_all_district_data()
@@ -482,10 +444,24 @@ RAJASTHAN_ADMIN_HIERARCHY = {
     ]
 }
 
+# Populate administrative_division from the district taxonomy (previously empty for every row)
+_dist_to_div = {d.lower(): div for div, ds in RAJASTHAN_ADMIN_HIERARCHY.items() for d in ds}
+if not df_all.empty:
+    df_all = df_all.copy()
+    df_all['administrative_division'] = df_all['district'].astype(str).str.lower().map(_dist_to_div).fillna("Unmapped")
+
 with st.sidebar:
     if st.button("🔄 Reload Ingestion Corpus", use_container_width=True):
         st.cache_data.clear()
         st.rerun()
+
+    n_imputed = int(df_all['cost_imputed'].sum()) if not df_all.empty else 0
+    include_unverified = st.checkbox(
+        f"Include {n_imputed:,} notices with no published cost",
+        value=False,
+        help="These notices carry the Rs 25 L default amount, so their Rule 43 tier is an assumption. "
+             "Excluded by default so every violation shown rests on a real published cost."
+    )
 
     st.markdown("### Forensic Controls")
     
@@ -510,8 +486,11 @@ with st.sidebar:
     st.markdown("---")
     st.caption("RFC 6962 Domain Separation • SIMD Columnar DuckDB Engine")
 
+# Analysis base: cost-verified notices only, unless the user opts in to the unverified ones
+df_base = df_all if include_unverified else df_all[df_all['cost_verified']]
+
 # Filter execution across selected district/division
-df_filtered = df_all.copy()
+df_filtered = df_base.copy()
 
 if selected_division != "All Rajasthan (Statewide)":
     districts_in_div = [d.lower() for d in RAJASTHAN_ADMIN_HIERARCHY[selected_division]]
@@ -525,6 +504,13 @@ if selected_district not in ["All 41 Districts", "All in Division"]:
 # -------------------------------------------------------------
 st.title("⚖️ Project TRUTH: Forensic Procurement Audit Harness")
 st.caption("Algorithmic Detection of Statutory Rule 43 Irregularities via Vectorized Analytics and Cryptographic Merkle Proofs")
+if not df_all.empty:
+    _n_out = int(df_filtered['cost_outlier'].sum()) if not df_filtered.empty else 0
+    st.caption(
+        f"Data integrity: {int(df_all['cost_verified'].sum()):,} of {len(df_all):,} notices carry a published cost"
+        + (" (unverified-cost notices included)." if include_unverified else " and are audited; the rest are held out.")
+        + (f" {_n_out} notices above Rs 100 Cr are flagged for manual verification, not removed." if _n_out else "")
+    )
 
 payloads = [
     f"{r.tender_id}:{int(r.tender_amount)}:{r.actual_window_days}" 
@@ -766,7 +752,8 @@ with tab2:
             'Dual Sieve (Rule 43 + ML)': '#f85149',
             'Statutory Violation Only': '#d29922',
             'ML Latent Anomaly': '#58a6ff',
-            'Compliant Baseline': '#3fb950'
+            'Compliant Baseline': '#3fb950',
+            'Cost Unverified (Default Amount)': '#6e7681'
         }
 
         fig_scatter = px.scatter(
@@ -861,9 +848,9 @@ with tab2:
 with tab3:
     st.subheader("Statistical Validation & Macro-Fiscal Impact Analysis")
     
-    if not df_all.empty:
-        high_val = df_all['tender_amount'] >= 5000000.0
-        viol = df_all['is_violation'] == True
+    if not df_base.empty:
+        high_val = df_base['tender_amount'] >= 5000000.0
+        viol = df_base['is_violation'] == True
         
         ct_raw = pd.crosstab(high_val, viol)
         ct = ct_raw.reindex(index=[False, True], columns=[False, True], fill_value=0)
@@ -888,14 +875,16 @@ with tab3:
 
         with col_stat2:
             st.markdown("##### Macro-Fiscal Exposure Benchmark (OECD / World Bank Model)")
-            viol_capital = df_all[df_all['is_violation']]['tender_amount'].sum()
+            # Rs 100 Cr+ mega-tenders are flagged for verification and kept out of the capital estimate
+            viol_capital = df_base[df_base['is_violation'] & ~df_base['cost_outlier']]['tender_amount'].sum()
             savings_15 = viol_capital * 0.15
             
             st.write(f"• **Sample Capital Under Compressed Timelines:** ₹{viol_capital/1e7:,.2f} Crore")
             st.write(f"• **Competitive Recovery Potential (15% Open Benchmark):** ₹{savings_15/1e7:,.2f} Crore")
             st.write("• **Extrapolated State Annual Fiscal Exposure:** ~₹6,000 Crore / year")
             st.write("• **All-India Potential Procurement Recovery:** ~₹3.96 Lakh Crore / year")
-            st.caption("Modeled on 15% median competitive price discovery achieved through uncompressed, non-collusive bidding.")
+            st.caption("Modeled on 15% median competitive price discovery achieved through uncompressed, non-collusive bidding. "
+                       "Excludes Rs 100 Cr+ flagged mega-tenders. The state/all-India extrapolations above are illustrative assumptions, not computed from this sample.")
 
         st.markdown("---")
         st.subheader("Temporal Confounder Control: The 'March Rush' Analysis")
