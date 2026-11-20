@@ -1,0 +1,70 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2900000,Services/2026-27/0007/4039,"General Administrative Department, Jaipur",Dungarpur,2900000.0,29.0,11,10,0.0,False,0.0
+SHPP-950000.00,SWP2627SSOB00254,Sanitation Water  Community Health Project,Dungarpur,950000.0,9.5,3,7,4,True,62.5
+SHPP-2843000.00,SWP2627WSOB00250,Sanitation Water  Community Health Project,Dungarpur,2843000.0,28.43,13,10,0.0,False,0.0
+SHPP-6161000.00,SWP2627WSOB00249,Sanitation Water  Community Health Project,Dungarpur,6161000.0,61.61,13,15,2,True,34.7
+SHPP-5213000.00,SWP2627WSOB00248,Sanitation Water  Community Health Project,Dungarpur,5213000.0,52.13,13,15,2,True,34.5
+SHPP-3317000.00,SWP2627WSOB00247,Sanitation Water  Community Health Project,Dungarpur,3317000.0,33.17,13,10,0.0,False,0.0
+SHPP-16588000.00,SWP2627WSOB00244,Sanitation Water  Community Health Project,Dungarpur,16588000.0,165.88,13,15,2,True,36.3
+SHPP-3218000.00,SWP2627WSOB00243,Sanitation Water  Community Health Project,Dungarpur,3218000.0,32.18,13,10,0.0,False,0.0
+SHPP-6350000.00,SWP2627WSOB00242,Sanitation Water  Community Health Project,Dungarpur,6350000.0,63.5,13,15,2,True,34.8
+SHPP-120000.00,RTC2627SSOB00620,Rajasthan State Road Transport Corporation,Dungarpur,120000.0,1.2,15,7,0.0,False,0.0
+SHPP-84000.00,RTC2627WSOB00622,Rajasthan State Road Transport Corporation,Dungarpur,84000.0,0.84,15,7,0.0,False,0.0
+SHPP-483516.00,RTC2627SSOB00624,Rajasthan State Road Transport Corporation,Dungarpur,483516.0,4.8352,15,7,0.0,False,0.0
+SHPP-5100000.00,AVV2627WSOB00267,Ajmer Vidyut Vitran Nigam Limited,Dungarpur,5100000.0,51.0,53,15,0.0,False,0.0
+SHPP-484967.00,ZDU2627WSOB00810,Zila Parishad Dungarpur,Dungarpur,484967.0,4.8497,340,7,0.0,False,0.0
+SHPP-62500,Goods/2026-27/0011/169,"Literacy and Continuing Education, Jaipur",Dungarpur,62500.0,0.625,2,7,5,True,68.2
+SHPP-97500,Goods/2026-27/0010/169,"Literacy and Continuing Education, Jaipur",Dungarpur,97500.0,0.975,2,7,5,True,68.9
+EPROC-2026_CEPWD_604325_3,SE PWD CIRCLE KOTA NITNO-18/2026-27,PWD - CE AND AS||ACE-UDAIPUR-II||SE-DUNGARPUR||EE-SAGWARA,Dungarpur,16750000.0,167.5,17,15,0.0,False,0.0
+EPROC-2026_CEPWD_605158_7,EE PWD DIV. ITAWA NITNO-12/2026-27,PWD - CE AND AS||ACE-UDAIPUR-II||SE-DUNGARPUR||EE-SAGWARA,Dungarpur,748000.0,7.48,9,7,0.0,False,0.0
+GEM/2026/B/8045010,GEM/2026/B/8045010,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,7,7,0.0,False,0.0
+GEM/2026/B/7424340,GEM/2026/B/7424340,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7421105,GEM/2026/B/7421105,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,6,7,1,True,21.7
+GEM/2026/B/7420936,GEM/2026/B/7420936,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,6,7,1,True,21.7
+GEM/2026/B/7420789,GEM/2026/B/7420789,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,6,7,1,True,21.7
+GEM/2026/B/7431498,GEM/2026/B/7431498,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6110568,GEM/2025/B/6110568,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,4,7,3,True,41.7
+GEM/2025/B/7014535,GEM/2025/B/7014535,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6787457,GEM/2025/B/6787457,Technical Education Department Rajasthan,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7815858,GEM/2026/B/7815858,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,114,7,0.0,False,0.0
+GEM/2026/B/8043746,GEM/2026/B/8043746,College Education Department Rajasthan,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7729750,GEM/2026/B/7729750,Medical Education Department Rajasthan,Dungarpur,0.0,0.0,12,7,0.0,False,0.0
+GEM/2026/B/7647650,GEM/2026/B/7647650,College Education Department Rajasthan,Dungarpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7294597,GEM/2026/B/7294597,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,53,7,0.0,False,0.0
+GEM/2026/B/7361550,GEM/2026/B/7361550,College Education Department Rajasthan,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7356910,GEM/2026/B/7356910,College Education Department Rajasthan,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7344403,GEM/2026/B/7344403,Dungarpur,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7257413,GEM/2026/B/7257413,Agriculture Department Rajasthan,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7087863,GEM/2026/B/7087863,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,42,7,0.0,False,0.0
+GEM/2026/B/7195623,GEM/2026/B/7195623,Medical Education Department Rajasthan,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7197042,GEM/2026/B/7197042,Agriculture Department Rajasthan,Dungarpur,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7073101,GEM/2026/B/7073101,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,29,7,0.0,False,0.0
+GEM/2026/B/7102073,GEM/2026/B/7102073,Forest Department Rajasthan,Dungarpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6920160,GEM/2025/B/6920160,Ministry of Education - Department of School Education and Literacy,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6853954,GEM/2025/B/6853954,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6845243,GEM/2025/B/6845243,Tribal Area Development Department Rajasthan,Dungarpur,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/6753055,GEM/2025/B/6753055,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6613642,GEM/2025/B/6613642,Agriculture Department Rajasthan,Dungarpur,0.0,0.0,48,7,0.0,False,0.0
+GEM/2025/B/6711444,GEM/2025/B/6711444,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6678014,GEM/2025/B/6678014,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6564722,GEM/2025/B/6564722,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6440745,GEM/2025/B/6440745,Tribal Area Development Department Rajasthan,Dungarpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6412513,GEM/2025/B/6412513,Tribal Area Development Department Rajasthan,Dungarpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6395239,GEM/2025/B/6395239,Tribal Area Development Department Rajasthan,Dungarpur,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6364236,GEM/2025/B/6364236,Tribal Area Development Department Rajasthan,Dungarpur,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6345767,GEM/2025/B/6345767,Tribal Area Development Department Rajasthan,Dungarpur,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/6314240,GEM/2025/B/6314240,Tribal Area Development Department Rajasthan,Dungarpur,0.0,0.0,20,7,0.0,False,0.0
+GEM/2025/B/6128669,GEM/2025/B/6128669,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,31,7,0.0,False,0.0
+GEM/2025/B/6124848,GEM/2025/B/6124848,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,31,7,0.0,False,0.0
+GEM/2025/B/6124129,GEM/2025/B/6124129,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,31,7,0.0,False,0.0
+GEM/2025/B/6120393,GEM/2025/B/6120393,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,31,7,0.0,False,0.0
+GEM/2025/B/6002629,GEM/2025/B/6002629,Tribal Area Development Department Rajasthan,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5912504,GEM/2025/B/5912504,Ministry of Education - Department of School Education and Literacy,Dungarpur,0.0,0.0,19,7,0.0,False,0.0
+GEM/2025/B/5863212,GEM/2025/B/5863212,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5859243,GEM/2025/B/5859243,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/5902680,GEM/2025/B/5902680,Ministry of Education - Department of School Education and Literacy,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5847970,GEM/2025/B/5847970,College Education Department Rajasthan,Dungarpur,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/5846800,GEM/2025/B/5846800,Medical Health and Family Welfare Department Rajasthan,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5805888,GEM/2025/B/5805888,LSG (Local Self Government) Rajasthan,Dungarpur,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/8244345,GEM/2026/B/8244345,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/8198858,GEM/2026/B/8198858,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Dungarpur,0.0,0.0,22,7,0.0,False,0.0

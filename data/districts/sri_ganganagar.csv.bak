@@ -1,0 +1,306 @@
+tender_id,nit_no,division,district,tender_amount,estimated_cost_lac,actual_window_days,statutory_min_days,deficit_days,is_violation,risk_score
+SHPP-2800000,Services/2026-27/0092/058,"Medical and Health Services, Jaipur",Sri Ganganagar,2800000.0,28.0,6,10,4,True,52.2
+SHPP-40000000,Services/2026-27/0088/058,"Medical and Health Services, Jaipur",Sri Ganganagar,40000000.0,400.0,14,30,16,True,65.7
+SHPP-980000.00,MHS2627SSOB04361,Medical and Health Services,Sri Ganganagar,980000.0,9.8,16,7,0.0,False,0.0
+SHPP-1787000.00,DLB2627WSRC24195,Directorate Local Bodies,Sri Ganganagar,1787000.0,17.87,10,10,0.0,False,0.0
+SHPP-3615000.00,DLB2627WSRC24192,Directorate Local Bodies,Sri Ganganagar,3615000.0,36.15,10,10,0.0,False,0.0
+SHPP-1607000.00,DLB2627WSRC24191,Directorate Local Bodies,Sri Ganganagar,1607000.0,16.07,10,10,0.0,False,0.0
+SHPP-1634000.00,DLB2627WSRC24193,Directorate Local Bodies,Sri Ganganagar,1634000.0,16.34,10,10,0.0,False,0.0
+SHPP-1340000.00,DLB2627WSRC24198,Directorate Local Bodies,Sri Ganganagar,1340000.0,13.4,10,10,0.0,False,0.0
+SHPP-780000.00,DLB2627WSRC24201,Directorate Local Bodies,Sri Ganganagar,780000.0,7.8,10,7,0.0,False,0.0
+SHPP-2413000.00,DLB2627WSRC24202,Directorate Local Bodies,Sri Ganganagar,2413000.0,24.13,10,10,0.0,False,0.0
+SHPP-1455000.00,DLB2627WSRC24196,Directorate Local Bodies,Sri Ganganagar,1455000.0,14.55,10,10,0.0,False,0.0
+SHPP-147980000.00,RRC2627WLRC00743,Rajasthan State Road Development and Construction Cooperation,Sri Ganganagar,147980000.0,1479.8,10,30,20,True,77.1
+SHPP-14439000.00,DLB2627WSRC24029,Directorate Local Bodies,Sri Ganganagar,14439000.0,144.39,10,15,5,True,50.1
+SHPP-1408000000.00,GSM2627GLRC00075,Rajasthan State Ganganagar Sugar Mill Limited,Sri Ganganagar,1408000000.0,14080.0,22,30,8,True,52.6
+SHPP-5900000.00,RVU2627WSSS01404,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,5900000.0,59.0,14,15,1,True,30.0
+SHPP-3560000.00,GSM2627GLRC00071,Rajasthan State Ganganagar Sugar Mill Limited,Sri Ganganagar,3560000.0,35.6,19,10,0.0,False,0.0
+SHPP-2448000.00,DLB2627WSOB23293,Directorate Local Bodies,Sri Ganganagar,2448000.0,24.48,22,10,0.0,False,0.0
+SHPP-344100000.00,GSM2627GLRC00069,Rajasthan State Ganganagar Sugar Mill Limited,Sri Ganganagar,344100000.0,3441.0,23,30,7,True,48.1
+SHPP-3988000.00,DAM2627GLOB00686,Agriculture Mareketing,Sri Ganganagar,3988000.0,39.88,26,10,0.0,False,0.0
+SHPP-98372.00,VPN2627WSOB01554,Rajasthan Rajya Vidut Prasaran Nigam Limited,Sri Ganganagar,98372.0,0.9837,47,7,0.0,False,0.0
+SHPP-46800000.00,RVU2627WSOB01305,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,46800000.0,468.0,48,30,0.0,False,0.0
+SHPP-7918862.00,RVU2627WSOB01299,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,7918862.0,79.1886,48,15,0.0,False,0.0
+SHPP-1590025.00,RVU2627GLOB01301,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,1590025.0,15.9002,48,10,0.0,False,0.0
+SHPP-160000000.00,RVU2627GLOB01220,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,160000000.0,1600.0,58,30,0.0,False,0.0
+SHPP-6103000.00,CDB2627WSOB00107,Command Area IGNP,Sri Ganganagar,6103000.0,61.03,53,15,0.0,False,0.0
+SHPP-15146000.00,CDB2627WSOB00106,Command Area IGNP,Sri Ganganagar,15146000.0,151.46,53,15,0.0,False,0.0
+SHPP-24237000.00,CDB2627WSOB00105,Command Area IGNP,Sri Ganganagar,24237000.0,242.37,53,30,0.0,False,0.0
+SHPP-932661.00,RVU2627GSOB01032,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,932661.0,9.3266,95,7,0.0,False,0.0
+SHPP-600000000.00,RVU2627WLOB00248,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,600000000.0,6000.0,201,30,0.0,False,0.0
+SHPP-353860.00,ZGN2526WSLB01138,Zila Parishad Sriganganagar,Sri Ganganagar,353860.0,3.5386,340,7,0.0,False,0.0
+SHPP-650000,Services/2026-27/0003/007,"Ayurved Department, Ajmer",Sri Ganganagar,650000.0,6.5,10,7,0.0,False,0.0
+SHPP-199200,Goods/2026-27/0001/026,"State Election Commission, Jaipur",Sri Ganganagar,199200.0,1.992,6,7,1,True,30.0
+SHPP-42420,Goods/2026-27/0008/167,"Integrated Child Development Services, Jaipur",Sri Ganganagar,42420.0,0.4242,1,7,6,True,77.6
+SHPP-48480,Goods/2026-27/0007/167,"Integrated Child Development Services, Jaipur",Sri Ganganagar,48480.0,0.4848,1,7,6,True,77.8
+SHPP-110700,Goods/2026-27/0006/167,"Integrated Child Development Services, Jaipur",Sri Ganganagar,110700.0,1.107,2,7,5,True,69.1
+SHPP-49200,Goods/2026-27/0005/167,"Integrated Child Development Services, Jaipur",Sri Ganganagar,49200.0,0.492,3,7,4,True,57.8
+SHPP-86700,Services/2026-27/0026/058,"Medical and Health Services, Jaipur",Sri Ganganagar,86700.0,0.867,3,7,4,True,58.7
+SHPP-102300,Services/2026-27/0003/214,"Water  Resource Department (CE, Hanumangarh)",Sri Ganganagar,102300.0,1.023,3,7,4,True,59.0
+SHPP-3776000.00,GSM2627GLOB00072,Rajasthan State Ganganagar Sugar Mill Limited,Sri Ganganagar,3776000.0,37.76,15,10,0.0,False,0.0
+SHPP-1141800000.00,GSM2627SLRC00065,Rajasthan State Ganganagar Sugar Mill Limited,Sri Ganganagar,1141800000.0,11418.0,35,30,0.0,False,0.0
+SHPP-1354404.00,RVU2627GLOB01199,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,1354404.0,13.544,45,10,0.0,False,0.0
+SHPP-670583.00,RVU2627GSOB01215,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,670583.0,6.7058,45,7,0.0,False,0.0
+SHPP-932613.00,RVU2627GSOB01203,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,932613.0,9.3261,45,7,0.0,False,0.0
+SHPP-798663.00,RVU2627GSOB01196,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,798663.0,7.9866,45,7,0.0,False,0.0
+SHPP-1793600.00,RVU2627GLOB01211,Rajasthan Rajya Vidut Utpadan Nigam Limited,Sri Ganganagar,1793600.0,17.936,45,10,0.0,False,0.0
+EPROC-2026_DLB_605611_2,4190/06-11-2026,DLB||Dy.DR-Bikaner||EO-Raisinghnagar,Sri Ganganagar,3615000.0,36.15,10,10,0.0,False,0.0
+EPROC-2026_DLB_604291_2,NIT-12/2026-27,DLB||Dy.DR-Bikaner||Commissioner-Shriganganagar,Sri Ganganagar,854000.0,8.54,12,7,0.0,False,0.0
+EPROC-2026_DLB_605542_1,NIT-14/2026-27,DLB||Dy.DR-Bikaner||Commissioner-Shriganganagar,Sri Ganganagar,16724000.0,167.24,13,15,2,True,36.3
+EPROC-2026_DLB_605432_1,4078/04-11-2026,DLB||Dy.DR-Bikaner||EO-Raisinghnagar,Sri Ganganagar,14439000.0,144.39,10,15,5,True,50.1
+EPROC-2026_DLB_605146_1,ABC-01/2026-27,DLB||Dy.DR-Bikaner||Commissioner-Shriganganagar,Sri Ganganagar,2500000.0,25.0,13,10,0.0,False,0.0
+EPROC-2026_DLB_604852_3,4186,DLB||Dy.DR-Bikaner||EO-Gajsingpur,Sri Ganganagar,2448000.0,24.48,22,10,0.0,False,0.0
+EPROC-2026_RRVUN_605130_1,SSW-14-TM,"RRVUN - CMD||RVUN - CE (SSTPS), Suratgarh",Sri Ganganagar,5900000.0,59.0,14,15,1,True,30.0
+EPROC-2026_RRVUN_601085_1,TN/STPS-SC/2026-27/325(Civil),RRVUN - CMD||RVUN-CE (STPS-SC) SURATGARH,Sri Ganganagar,7918862.0,79.1886,48,15,0.0,False,0.0
+EPROC-2026_RRVUN_601556_1,TN/STPS-SC/2026-27/326 Turbine,"RRVUN - CMD||RVUN - CE (SSTPS), Suratgarh||SE (Proc.)",Sri Ganganagar,46782279.0,467.8228,48,30,0.0,False,0.0
+EPROC-2026_RRVUN_601319_1,TN/STPS-SC/2026-27/PROC./426,"RRVUN - CMD||RVUN - CE (SSTPS), Suratgarh||SE (Proc.)",Sri Ganganagar,1590025.0,15.9002,48,10,0.0,False,0.0
+EPROC-2026_RRVUN_600307_1,TN-MM-2207-RnM-Unit-3,"RRVUN - CMD||RVUN - CE (SSTPS), Suratgarh",Sri Ganganagar,160000000.0,1600.0,58,30,0.0,False,0.0
+EPROC-2026_RRVUN_594878_1,TN/STPS-SC/2026-27/323(Fuel),RRVUN - CMD||RVUN-CE (STPS-SC) SURATGARH,Sri Ganganagar,11250000000.0,112500.0,70,30,0.0,False,0.0
+EPROC-2026_RRVUN_558763_1,TN-68/2025-26,RRVUN - CMD||RVUN - CE (TD) - Jaipur,Sri Ganganagar,1800000000.0,18000.0,201,30,0.0,False,0.0
+EPROC-2026_RSRDC_605558_1,RSRDC E-NIT No. 458/2026-27 (Serial No-04) dated 05.11.2026,RSRDCC-GM,Sri Ganganagar,147980000.0,1479.8,10,30,20,True,77.1
+EPROC-2026_DAMJP_603823_1,Secy./KUMS(FV)/SGNR/Electronic Grading and Cleaning,Directorate of Agriculture Marketing-Jaipur,Sri Ganganagar,3988000.0,39.88,28,10,0.0,False,0.0
+EPROC-2026_CECAD_599892_1,E-NIT12/2026-2027,CE - CAD IGNP Bikaner||SE OFD Circle Bikaner||EE-OFD-Dn I- BKN,Sri Ganganagar,24237000.0,242.37,53,30,0.0,False,0.0
+HF-AOC-2025_PRD_482150_25,02SBM2025-26,Panchayati Raj DepartmentSecretary and CommissionerCEO- GANGANAGARBDO-KARANPUR,Sri Ganganagar,978392.0,9.7839,28,7,0.0,False,0.0
+HF-AOC-2025_RCDF_444444_4,GANGMUL/STORE/2025/11946-50,RCDF- MDGanga Nagar Zila Dugdh Utpadak Sahakari Sangh Ltd Ganga NagarFinance,Sri Ganganagar,12.25,0.0001,41,7,0.0,False,0.0
+GEM/2025/R/543568,GEM/2025/R/543568,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/6576641,GEM/2025/B/6576641,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/6121913,GEM/2025/B/6121913,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/8063670,GEM/2026/B/8063670,Ministry of Agriculture and Farmers Welfare - Department of Agriculture and Farmers Welfare,Sri Ganganagar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2026/B/7611040,GEM/2026/B/7611040,Ministry of Earth Sciences - India Meteorological Department (IMD),Sri Ganganagar,0.0,0.0,30,7,0.0,False,0.0
+GEM/2025/B/6006212,GEM/2025/B/6006212,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7740665,GEM/2026/B/7740665,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7739760,GEM/2026/B/7739760,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7739671,GEM/2026/B/7739671,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7739620,GEM/2026/B/7739620,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5860569,GEM/2025/B/5860569,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6676631,GEM/2025/B/6676631,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7432401,GEM/2026/B/7432401,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7432282,GEM/2026/B/7432282,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7374990,GEM/2026/B/7374990,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7374909,GEM/2026/B/7374909,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7022488,GEM/2025/B/7022488,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7021696,GEM/2025/B/7021696,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7976666,GEM/2026/B/7976666,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,20,7,0.0,False,0.0
+GEM/2026/B/8074752,GEM/2026/B/8074752,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/8055750,GEM/2026/B/8055750,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/8074790,GEM/2026/B/8074790,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/7018902,GEM/2025/B/7018902,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7017702,GEM/2025/B/7017702,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7022403,GEM/2025/B/7022403,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7019718,GEM/2025/B/7019718,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7787188,GEM/2026/B/7787188,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7888795,GEM/2026/B/7888795,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7838485,GEM/2026/B/7838485,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7803182,GEM/2026/B/7803182,Ministry of Finance - Department of Revenue,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7575108,GEM/2026/B/7575108,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7019763,GEM/2025/B/7019763,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7019805,GEM/2025/B/7019805,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7017898,GEM/2025/B/7017898,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7017839,GEM/2025/B/7017839,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7021720,GEM/2025/B/7021720,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7021745,GEM/2025/B/7021745,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7022662,GEM/2025/B/7022662,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7635818,GEM/2026/B/7635818,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,7,7,0.0,False,0.0
+GEM/2025/B/7021662,GEM/2025/B/7021662,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7022581,GEM/2025/B/7022581,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7716608,GEM/2026/B/7716608,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,17,7,0.0,False,0.0
+GEM/2025/B/7021787,GEM/2025/B/7021787,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7701234,GEM/2026/B/7701234,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7553251,GEM/2026/B/7553251,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7552941,GEM/2026/B/7552941,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7551526,GEM/2026/B/7551526,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7575942,GEM/2026/B/7575942,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7563548,GEM/2026/B/7563548,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7564640,GEM/2026/B/7564640,Ministry of Finance - Department of Financial Services,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7479279,GEM/2026/B/7479279,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7464858,GEM/2026/B/7464858,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7462079,GEM/2026/B/7462079,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2026/B/7439558,GEM/2026/B/7439558,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7452477,GEM/2026/B/7452477,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7414529,GEM/2026/B/7414529,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7408027,GEM/2026/B/7408027,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7355646,GEM/2026/B/7355646,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,7,7,0.0,False,0.0
+GEM/2026/B/7334010,GEM/2026/B/7334010,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,7,7,0.0,False,0.0
+GEM/2026/B/7358477,GEM/2026/B/7358477,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,5,7,2,True,31.7
+GEM/2026/B/7233664,GEM/2026/B/7233664,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7162907,GEM/2026/B/7162907,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,36,7,0.0,False,0.0
+GEM/2026/B/7302961,GEM/2026/B/7302961,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,6,7,1,True,21.7
+GEM/2026/B/7260443,GEM/2026/B/7260443,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7260803,GEM/2026/B/7260803,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7234203,GEM/2026/B/7234203,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7091280,GEM/2026/B/7091280,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,6,7,1,True,21.7
+GEM/2026/B/7157913,GEM/2026/B/7157913,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7194000,GEM/2026/B/7194000,Agriculture Department Rajasthan,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7181181,GEM/2026/B/7181181,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7179390,GEM/2026/B/7179390,Ministry of Finance - Department of Revenue,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7176730,GEM/2026/B/7176730,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7091258,GEM/2026/B/7091258,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7161613,GEM/2026/B/7161613,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,7,7,0.0,False,0.0
+GEM/2025/B/6373687,GEM/2025/B/6373687,Ministry of Communications - Department of Telecommunications (DOT),Sri Ganganagar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/7034908,GEM/2025/B/7034908,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7036550,GEM/2025/B/7036550,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7032511,GEM/2025/B/7032511,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,4,7,3,True,41.7
+GEM/2025/R/519454,GEM/2025/R/519454,Ministry of Communications - Department of Telecommunications (DOT),Sri Ganganagar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/B/6792136,GEM/2025/B/6792136,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6792748,GEM/2025/B/6792748,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/R/463997,GEM/2025/R/463997,Ministry of Chemicals and Fertilizers - Department of Fertilizers,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/5804455,GEM/2025/B/5804455,Ministry of Chemicals and Fertilizers - Department of Fertilizers,Sri Ganganagar,0.0,0.0,17,7,0.0,False,0.0
+GEM/2025/B/6033689,GEM/2025/B/6033689,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5862414,GEM/2025/B/5862414,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5862474,GEM/2025/B/5862474,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6676789,GEM/2025/B/6676789,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/8244983,GEM/2026/B/8244983,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6034159,GEM/2025/B/6034159,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/8053558,GEM/2026/B/8053558,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7952689,GEM/2026/B/7952689,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7739909,GEM/2026/B/7739909,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7897928,GEM/2026/B/7897928,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7748259,GEM/2026/B/7748259,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2026/B/7606610,GEM/2026/B/7606610,Ministry of Finance - Department of Revenue,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7353481,GEM/2026/B/7353481,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7352871,GEM/2026/B/7352871,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7385928,GEM/2026/B/7385928,Ministry of Chemicals and Fertilizers - Department of Fertilizers,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7382783,GEM/2026/B/7382783,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7256683,GEM/2026/B/7256683,Ministry of Railways - Indian Railways,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7242256,GEM/2026/B/7242256,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2026/B/7353572,GEM/2026/B/7353572,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7201788,GEM/2026/B/7201788,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/7120733,GEM/2026/B/7120733,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/7043251,GEM/2025/B/7043251,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/7043137,GEM/2025/B/7043137,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6831501,GEM/2025/B/6831501,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6872905,GEM/2025/B/6872905,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6784064,GEM/2025/B/6784064,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6757076,GEM/2025/B/6757076,Ministry of Finance - Department of Revenue,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6667465,GEM/2025/B/6667465,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6667324,GEM/2025/B/6667324,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6667166,GEM/2025/B/6667166,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6667033,GEM/2025/B/6667033,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6684627,GEM/2025/B/6684627,Ministry of Petroleum and Natural Gas - NA,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6640484,GEM/2025/B/6640484,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6526486,GEM/2025/B/6526486,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,16,7,0.0,False,0.0
+GEM/2025/B/6531386,GEM/2025/B/6531386,Ministry of Finance - Department of Revenue,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6440834,GEM/2025/B/6440834,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6395370,GEM/2025/B/6395370,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,18,7,0.0,False,0.0
+GEM/2025/B/6397833,GEM/2025/B/6397833,Ministry of Finance - Department of Revenue,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6314179,GEM/2025/B/6314179,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6120322,GEM/2025/B/6120322,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,31,7,0.0,False,0.0
+GEM/2025/B/5999726,GEM/2025/B/5999726,Ministry of Communications - Department of Posts,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/5999606,GEM/2025/B/5999606,Ministry of Communications - Department of Posts,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/5955732,GEM/2025/B/5955732,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,39,7,0.0,False,0.0
+GEM/2025/B/5999748,GEM/2025/B/5999748,Ministry of Communications - Department of Posts,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6021200,GEM/2025/B/6021200,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5860445,GEM/2025/B/5860445,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/5799940,GEM/2025/B/5799940,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6676689,GEM/2025/B/6676689,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/7019846,GEM/2025/B/7019846,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6677282,GEM/2025/B/6677282,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6275944,GEM/2025/B/6275944,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/B/8226796,GEM/2026/B/8226796,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/R/692348,GEM/2026/R/692348,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/B/7556655,GEM/2026/B/7556655,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7356472,GEM/2026/B/7356472,Ministry of Defence - Department of Defence Production,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/R/637268,GEM/2026/R/637268,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/B/7178317,GEM/2026/B/7178317,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/7164764,GEM/2026/B/7164764,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7164654,GEM/2026/B/7164654,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7133742,GEM/2026/B/7133742,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,19,7,0.0,False,0.0
+GEM/2026/R/613636,GEM/2026/R/613636,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2026/R/613634,GEM/2026/R/613634,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/6982754,GEM/2025/B/6982754,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,48,7,0.0,False,0.0
+GEM/2025/B/6957185,GEM/2025/B/6957185,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2026/R/691538,GEM/2026/R/691538,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Sri Ganganagar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7525450,GEM/2026/B/7525450,Ministry of Information and Broadcasting - Ministry of Information and Broadcasting,Sri Ganganagar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6124771,GEM/2025/B/6124771,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,31,7,0.0,False,0.0
+GEM/2025/B/6982028,GEM/2025/B/6982028,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,48,7,0.0,False,0.0
+GEM/2026/B/7082002,GEM/2026/B/7082002,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2026/B/7081709,GEM/2026/B/7081709,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/7021936,GEM/2025/B/7021936,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,29,7,0.0,False,0.0
+GEM/2025/B/6981919,GEM/2025/B/6981919,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,38,7,0.0,False,0.0
+GEM/2025/B/6890740,GEM/2025/B/6890740,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Sri Ganganagar,0.0,0.0,27,7,0.0,False,0.0
+GEM/2025/B/6942060,GEM/2025/B/6942060,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6957197,GEM/2025/B/6957197,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/R/590712,GEM/2025/R/590712,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/590713,GEM/2025/R/590713,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/6850459,GEM/2025/B/6850459,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/R/585999,GEM/2025/R/585999,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/585988,GEM/2025/R/585988,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/585986,GEM/2025/R/585986,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/6899572,GEM/2025/B/6899572,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6858370,GEM/2025/B/6858370,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6858237,GEM/2025/B/6858237,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6870663,GEM/2025/B/6870663,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,18,7,0.0,False,0.0
+GEM/2025/B/6803188,GEM/2025/B/6803188,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6803037,GEM/2025/B/6803037,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6802656,GEM/2025/B/6802656,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/R/575898,GEM/2025/R/575898,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/575896,GEM/2025/R/575896,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,2,7,5,True,61.7
+GEM/2025/R/571744,GEM/2025/R/571744,Ministry of Petroleum and Natural Gas - NA,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/6786780,GEM/2025/B/6786780,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6786524,GEM/2025/B/6786524,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6770008,GEM/2025/B/6770008,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Sri Ganganagar,0.0,0.0,28,7,0.0,False,0.0
+GEM/2025/B/6799360,GEM/2025/B/6799360,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Sri Ganganagar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6767061,GEM/2025/B/6767061,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6761372,GEM/2025/B/6761372,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Sri Ganganagar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2025/B/6664743,GEM/2025/B/6664743,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6655203,GEM/2025/B/6655203,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6628391,GEM/2025/B/6628391,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6628271,GEM/2025/B/6628271,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6624423,GEM/2025/B/6624423,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6578967,GEM/2025/B/6578967,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6558463,GEM/2025/B/6558463,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,25,7,0.0,False,0.0
+GEM/2025/B/6610218,GEM/2025/B/6610218,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6558256,GEM/2025/B/6558256,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6525875,GEM/2025/B/6525875,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,23,7,0.0,False,0.0
+GEM/2025/B/6511985,GEM/2025/B/6511985,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/6296151,GEM/2025/B/6296151,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6223185,GEM/2025/B/6223185,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Sri Ganganagar,0.0,0.0,30,7,0.0,False,0.0
+GEM/2025/B/6293541,GEM/2025/B/6293541,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Sri Ganganagar,0.0,0.0,7,7,0.0,False,0.0
+GEM/2025/B/6226499,GEM/2025/B/6226499,Ministry of Agriculture and Farmers Welfare - Department of Agriculture Cooperation and Farmers Welfare,Sri Ganganagar,0.0,0.0,23,7,0.0,False,0.0
+GEM/2025/B/5976839,GEM/2025/B/5976839,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/R/450231,GEM/2025/R/450231,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/5862370,GEM/2025/B/5862370,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5862318,GEM/2025/B/5862318,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5862267,GEM/2025/B/5862267,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5862219,GEM/2025/B/5862219,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5862179,GEM/2025/B/5862179,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5871659,GEM/2025/B/5871659,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/R/444605,GEM/2025/R/444605,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/R/444594,GEM/2025/R/444594,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,1,7,6,True,71.7
+GEM/2025/B/5783981,GEM/2025/B/5783981,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5784056,GEM/2025/B/5784056,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/5799738,GEM/2025/B/5799738,Ministry of Consumer Affairs Food and Public Distribution - Department of Food and Public Distribution,Sri Ganganagar,0.0,0.0,14,7,0.0,False,0.0
+GEM/2026/B/8246127,GEM/2026/B/8246127,Ministry of Heavy Industries and Public Enterprises - Department of Heavy Industry,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6035363,GEM/2025/B/6035363,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,17,7,0.0,False,0.0
+GEM/2025/B/5957947,GEM/2025/B/5957947,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/5953961,GEM/2025/B/5953961,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2025/B/5877043,GEM/2025/B/5877043,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,22,7,0.0,False,0.0
+GEM/2025/B/6196351,GEM/2025/B/6196351,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6174059,GEM/2025/B/6174059,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6123672,GEM/2025/B/6123672,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6589675,GEM/2025/B/6589675,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6607900,GEM/2025/B/6607900,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2025/B/6419668,GEM/2025/B/6419668,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,12,7,0.0,False,0.0
+GEM/2025/B/6415639,GEM/2025/B/6415639,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,18,7,0.0,False,0.0
+GEM/2025/B/6419417,GEM/2025/B/6419417,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6415061,GEM/2025/B/6415061,Rajasthan Rajya Vidyut Utpadan Nigam Limited,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2025/B/6331577,GEM/2025/B/6331577,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,5,7,2,True,31.7
+GEM/2025/B/5954438,GEM/2025/B/5954438,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2025/B/6048415,GEM/2025/B/6048415,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,15,7,0.0,False,0.0
+GEM/2025/B/6369201,GEM/2025/B/6369201,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,21,7,0.0,False,0.0
+GEM/2026/B/7366209,GEM/2026/B/7366209,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7478108,GEM/2026/B/7478108,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7500943,GEM/2026/B/7500943,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7500779,GEM/2026/B/7500779,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7519741,GEM/2026/B/7519741,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7515263,GEM/2026/B/7515263,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,3,7,4,True,51.7
+GEM/2026/B/7486257,GEM/2026/B/7486257,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7591400,GEM/2026/B/7591400,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7604129,GEM/2026/B/7604129,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7604117,GEM/2026/B/7604117,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7604095,GEM/2026/B/7604095,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7604070,GEM/2026/B/7604070,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7604052,GEM/2026/B/7604052,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,10,7,0.0,False,0.0
+GEM/2026/B/7651020,GEM/2026/B/7651020,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,11,7,0.0,False,0.0
+GEM/2026/B/7631600,GEM/2026/B/7631600,Ministry of Education - Department of School Education and Literacy,Sri Ganganagar,0.0,0.0,13,7,0.0,False,0.0
+GEM/2026/B/7717448,GEM/2026/B/7717448,Ministry of Defence - Department of Military Affairs,Sri Ganganagar,0.0,0.0,12,7,0.0,False,0.0
