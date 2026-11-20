@@ -681,7 +681,7 @@ with tab1:
             "deficit_days": st.column_config.NumberColumn("Deficit", format="%.1f d"),
             "risk_score": st.column_config.ProgressColumn("Rule 43 PRI", format="%.1f", min_value=0, max_value=100),
             "ml_score": st.column_config.ProgressColumn("ML Score", format="%.1f", min_value=0, max_value=100),
-            "sieve_category": "Audit Classification"
+            "sieve_category": st.column_config.TextColumn("Audit Classification", width=220)
         },
         use_container_width=True,
         height=400
